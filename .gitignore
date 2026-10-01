@@ -1,0 +1,33 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Dependencies and generated output
+node_modules/
+.next/
+out/
+dist/
+build/
+coverage/
+*.tsbuildinfo
+*.log
+.vercel/
+supabase/.temp/
+
+# Local agent state, backups, and temporary helpers
+.omx/
+.codex/
+.agents/
+.aws/
+.backups/
+.local/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
