@@ -1,0 +1,509 @@
+{
+  "importedAt": "2026-10-08T08:47:20.460Z",
+  "translation": "개역한글",
+  "officialEdition": false,
+  "sources": [
+    {
+      "repo": "yuhwan/Bible-krv",
+      "commit": "ba0395f18d6c0113544ed62230a5e7cfacc44a6a"
+    },
+    {
+      "repo": "bluesaurel/Korean-Bible-1961-KRV",
+      "commit": "2fdb91e77d323b99bacaa9b61fc18f318b703240",
+      "sha256": "65c6d99f80a5a47b9c0d144f313ac533f482454f336d3a82fc1dcedb020612e2"
+    }
+  ],
+  "copyrightNotice": "개역한글 본문의 저작재산권 만료는 대한성서공회 안내를 기준으로 확인. 데이터 제공자의 공식 정본 지위를 뜻하지 않음.",
+  "copyrightSource": "https://www.bskorea.or.kr/bbs/content.php?co_id=subpage2_3_4_1",
+  "corpusSha256": "f8d5c8b377e243b05fb884b4a6965d2c06a95de74b64a716ee4b95989d61e971",
+  "books": [
+    {
+      "code": "GEN",
+      "book": "창세기",
+      "english": "Genesis",
+      "chapters": 50,
+      "slots": 1533
+    },
+    {
+      "code": "EXO",
+      "book": "출애굽기",
+      "english": "Exodus",
+      "chapters": 40,
+      "slots": 1213
+    },
+    {
+      "code": "LEV",
+      "book": "레위기",
+      "english": "Leviticus",
+      "chapters": 27,
+      "slots": 859
+    },
+    {
+      "code": "NUM",
+      "book": "민수기",
+      "english": "Numbers",
+      "chapters": 36,
+      "slots": 1288
+    },
+    {
+      "code": "DEU",
+      "book": "신명기",
+      "english": "Deuteronomy",
+      "chapters": 34,
+      "slots": 959
+    },
+    {
+      "code": "JOS",
+      "book": "여호수아",
+      "english": "Joshua",
+      "chapters": 24,
+      "slots": 658
+    },
+    {
+      "code": "JDG",
+      "book": "사사기",
+      "english": "Judges",
+      "chapters": 21,
+      "slots": 618
+    },
+    {
+      "code": "RUT",
+      "book": "룻기",
+      "english": "Ruth",
+      "chapters": 4,
+      "slots": 85
+    },
+    {
+      "code": "1SA",
+      "book": "사무엘상",
+      "english": "1Samuel",
+      "chapters": 31,
+      "slots": 809
+    },
+    {
+      "code": "2SA",
+      "book": "사무엘하",
+      "english": "2Samuel",
+      "chapters": 24,
+      "slots": 695
+    },
+    {
+      "code": "1KI",
+      "book": "열왕기상",
+      "english": "1Kings",
+      "chapters": 22,
+      "slots": 816
+    },
+    {
+      "code": "2KI",
+      "book": "열왕기하",
+      "english": "2Kings",
+      "chapters": 25,
+      "slots": 719
+    },
+    {
+      "code": "1CH",
+      "book": "역대상",
+      "english": "1Chronicles",
+      "chapters": 29,
+      "slots": 942
+    },
+    {
+      "code": "2CH",
+      "book": "역대하",
+      "english": "2Chronicles",
+      "chapters": 36,
+      "slots": 822
+    },
+    {
+      "code": "EZR",
+      "book": "에스라",
+      "english": "Ezra",
+      "chapters": 10,
+      "slots": 280
+    },
+    {
+      "code": "NEH",
+      "book": "느헤미야",
+      "english": "Nehemiah",
+      "chapters": 13,
+      "slots": 406
+    },
+    {
+      "code": "EST",
+      "book": "에스더",
+      "english": "Esther",
+      "chapters": 10,
+      "slots": 167
+    },
+    {
+      "code": "JOB",
+      "book": "욥기",
+      "english": "Job",
+      "chapters": 42,
+      "slots": 1070
+    },
+    {
+      "code": "PSA",
+      "book": "시편",
+      "english": "Psalms",
+      "chapters": 150,
+      "slots": 2461
+    },
+    {
+      "code": "PRO",
+      "book": "잠언",
+      "english": "Proverbs",
+      "chapters": 31,
+      "slots": 915
+    },
+    {
+      "code": "ECC",
+      "book": "전도서",
+      "english": "Ecclesiastes",
+      "chapters": 12,
+      "slots": 222
+    },
+    {
+      "code": "SNG",
+      "book": "아가",
+      "english": "SongofSolomon",
+      "chapters": 8,
+      "slots": 118
+    },
+    {
+      "code": "ISA",
+      "book": "이사야",
+      "english": "Isaiah",
+      "chapters": 66,
+      "slots": 1292
+    },
+    {
+      "code": "JER",
+      "book": "예레미야",
+      "english": "Jeremiah",
+      "chapters": 52,
+      "slots": 1364
+    },
+    {
+      "code": "LAM",
+      "book": "예레미야애가",
+      "english": "Lamentations",
+      "chapters": 5,
+      "slots": 154
+    },
+    {
+      "code": "EZK",
+      "book": "에스겔",
+      "english": "Ezekiel",
+      "chapters": 48,
+      "slots": 1273
+    },
+    {
+      "code": "DAN",
+      "book": "다니엘",
+      "english": "Daniel",
+      "chapters": 12,
+      "slots": 357
+    },
+    {
+      "code": "HOS",
+      "book": "호세아",
+      "english": "Hosea",
+      "chapters": 14,
+      "slots": 197
+    },
+    {
+      "code": "JOL",
+      "book": "요엘",
+      "english": "Joel",
+      "chapters": 3,
+      "slots": 73
+    },
+    {
+      "code": "AMO",
+      "book": "아모스",
+      "english": "Amos",
+      "chapters": 9,
+      "slots": 146
+    },
+    {
+      "code": "OBA",
+      "book": "오바댜",
+      "english": "Obadiah",
+      "chapters": 1,
+      "slots": 21
+    },
+    {
+      "code": "JON",
+      "book": "요나",
+      "english": "Jonah",
+      "chapters": 4,
+      "slots": 48
+    },
+    {
+      "code": "MIC",
+      "book": "미가",
+      "english": "Micah",
+      "chapters": 7,
+      "slots": 105
+    },
+    {
+      "code": "NAM",
+      "book": "나훔",
+      "english": "Nahum",
+      "chapters": 3,
+      "slots": 47
+    },
+    {
+      "code": "HAB",
+      "book": "하박국",
+      "english": "Habakkuk",
+      "chapters": 3,
+      "slots": 56
+    },
+    {
+      "code": "ZEP",
+      "book": "스바냐",
+      "english": "Zephaniah",
+      "chapters": 3,
+      "slots": 53
+    },
+    {
+      "code": "HAG",
+      "book": "학개",
+      "english": "Haggai",
+      "chapters": 2,
+      "slots": 38
+    },
+    {
+      "code": "ZEC",
+      "book": "스가랴",
+      "english": "Zechariah",
+      "chapters": 14,
+      "slots": 211
+    },
+    {
+      "code": "MAL",
+      "book": "말라기",
+      "english": "Malachi",
+      "chapters": 4,
+      "slots": 55
+    },
+    {
+      "code": "MAT",
+      "book": "마태복음",
+      "english": "Matthew",
+      "chapters": 28,
+      "slots": 1071
+    },
+    {
+      "code": "MRK",
+      "book": "마가복음",
+      "english": "Mark",
+      "chapters": 16,
+      "slots": 678
+    },
+    {
+      "code": "LUK",
+      "book": "누가복음",
+      "english": "Luke",
+      "chapters": 24,
+      "slots": 1151
+    },
+    {
+      "code": "JHN",
+      "book": "요한복음",
+      "english": "John",
+      "chapters": 21,
+      "slots": 879
+    },
+    {
+      "code": "ACT",
+      "book": "사도행전",
+      "english": "Acts",
+      "chapters": 28,
+      "slots": 1007
+    },
+    {
+      "code": "ROM",
+      "book": "로마서",
+      "english": "Romans",
+      "chapters": 16,
+      "slots": 433
+    },
+    {
+      "code": "1CO",
+      "book": "고린도전서",
+      "english": "1Corinthians",
+      "chapters": 16,
+      "slots": 437
+    },
+    {
+      "code": "2CO",
+      "book": "고린도후서",
+      "english": "2Corinthians",
+      "chapters": 13,
+      "slots": 256
+    },
+    {
+      "code": "GAL",
+      "book": "갈라디아서",
+      "english": "Galatians",
+      "chapters": 6,
+      "slots": 149
+    },
+    {
+      "code": "EPH",
+      "book": "에베소서",
+      "english": "Ephesians",
+      "chapters": 6,
+      "slots": 155
+    },
+    {
+      "code": "PHP",
+      "book": "빌립보서",
+      "english": "Philippians",
+      "chapters": 4,
+      "slots": 104
+    },
+    {
+      "code": "COL",
+      "book": "골로새서",
+      "english": "Colossians",
+      "chapters": 4,
+      "slots": 95
+    },
+    {
+      "code": "1TH",
+      "book": "데살로니가전서",
+      "english": "1Thessalonians",
+      "chapters": 5,
+      "slots": 89
+    },
+    {
+      "code": "2TH",
+      "book": "데살로니가후서",
+      "english": "2Thessalonians",
+      "chapters": 3,
+      "slots": 47
+    },
+    {
+      "code": "1TI",
+      "book": "디모데전서",
+      "english": "1Timothy",
+      "chapters": 6,
+      "slots": 113
+    },
+    {
+      "code": "2TI",
+      "book": "디모데후서",
+      "english": "2Timothy",
+      "chapters": 4,
+      "slots": 83
+    },
+    {
+      "code": "TIT",
+      "book": "디도서",
+      "english": "Titus",
+      "chapters": 3,
+      "slots": 46
+    },
+    {
+      "code": "PHM",
+      "book": "빌레몬서",
+      "english": "Philemon",
+      "chapters": 1,
+      "slots": 25
+    },
+    {
+      "code": "HEB",
+      "book": "히브리서",
+      "english": "Hebrews",
+      "chapters": 13,
+      "slots": 303
+    },
+    {
+      "code": "JAS",
+      "book": "야고보서",
+      "english": "James",
+      "chapters": 5,
+      "slots": 108
+    },
+    {
+      "code": "1PE",
+      "book": "베드로전서",
+      "english": "1Peter",
+      "chapters": 5,
+      "slots": 105
+    },
+    {
+      "code": "2PE",
+      "book": "베드로후서",
+      "english": "2Peter",
+      "chapters": 3,
+      "slots": 61
+    },
+    {
+      "code": "1JN",
+      "book": "요한1서",
+      "english": "1John",
+      "chapters": 5,
+      "slots": 105
+    },
+    {
+      "code": "2JN",
+      "book": "요한2서",
+      "english": "2John",
+      "chapters": 1,
+      "slots": 13
+    },
+    {
+      "code": "3JN",
+      "book": "요한3서",
+      "english": "3John",
+      "chapters": 1,
+      "slots": 15
+    },
+    {
+      "code": "JUD",
+      "book": "유다서",
+      "english": "Jude",
+      "chapters": 1,
+      "slots": 25
+    },
+    {
+      "code": "REV",
+      "book": "요한계시록",
+      "english": "Revelation",
+      "chapters": 22,
+      "slots": 404
+    }
+  ],
+  "bookCount": 66,
+  "chapterCount": 1189,
+  "verseSlots": 31102,
+  "textEntries": 31089,
+  "emptySlots": [
+    "KRV:MAT:17:21",
+    "KRV:MAT:18:11",
+    "KRV:MAT:23:14",
+    "KRV:MRK:9:44",
+    "KRV:MRK:9:46",
+    "KRV:MRK:11:26",
+    "KRV:MRK:15:28",
+    "KRV:LUK:17:36",
+    "KRV:LUK:23:17",
+    "KRV:ACT:8:37",
+    "KRV:ACT:15:34",
+    "KRV:ACT:28:29",
+    "KRV:ROM:16:24"
+  ],
+  "sourceDifferenceCounts": {
+    "spacing": 5385,
+    "punctuation": 120,
+    "content": 3223
+  },
+  "issues": [],
+  "reviewComplete": false
+}

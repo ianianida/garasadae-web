@@ -1,0 +1,482 @@
+[
+  {
+    "id": "G01",
+    "domain": "purchase",
+    "concern": "사고 싶은 자켓이 있고 쓸 돈도 따로 모아뒀다. 자주 입을 것 같지만 최근에도 옷을 샀다는 생각 때문에 마음이 걸린다. 안 사면 아쉬울 것 같다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "G02",
+    "domain": "purchase",
+    "concern": "같은 자켓이 갖고 싶지만 이번 달 생활비가 부족하다. 사면 다른 지출을 줄여야 하고, 이번에 놓치면 언제 다시 살 수 있을지도 모르겠다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "G03",
+    "domain": "purchase",
+    "concern": "평소 관심 없던 헤드폰이 오늘까지만 할인한다. 이미 쓰는 헤드폰이 있는데 새것을 자주 쓸지는 모르겠다. 할인을 놓치기는 아깝다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "G04",
+    "domain": "schedule",
+    "concern": "주말 콘서트가 보고 싶다. 오늘 할 일은 마쳤지만 다녀오면 내일 출근할 때 피곤할까 걱정된다. 이번을 놓치면 다시 볼 기회는 모른다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "G05",
+    "domain": "schedule",
+    "concern": "오늘 콘서트에 가고 싶은데 오늘 마감인 보고서를 아직 못 끝냈다. 다녀오면 작성 시간이 거의 남지 않는다. 표가 아깝고 공연도 보고 싶다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "G06",
+    "domain": "schedule",
+    "concern": "연휴에 부모님을 뵐지 오늘만 열리는 축제에 갈지 고민이다. 부모님은 다음 달에도 뵐 수 있지만 지금 보고 싶기도 하다. 축제는 이번을 놓치면 다시 열릴지 모른다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "G07",
+    "domain": "sale",
+    "concern": "카메라를 높은 가격에 올려뒀다. 당장 돈이 필요한 것은 아니지만 연락을 계속 기다리고 확인하는 게 지친다. 가격을 낮춰 빨리 정리할지, 지금 가격으로 더 기다릴지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "G08",
+    "domain": "sale",
+    "concern": "카메라를 팔아 이번 주에 필요한 돈을 마련해야 해. 높은 가격을 기다릴지, 가격을 낮춰 빨리 팔 가능성을 높일지 고민돼. 어느 가격에도 팔린다는 보장은 없어.",
+    "source": "synthetic"
+  },
+  {
+    "id": "G09",
+    "domain": "sale",
+    "concern": "카메라를 낮은 가격에 사겠다는 사람과 이미 거래를 약속했다. 그 뒤 더 높은 가격을 주겠다는 연락이 왔다. 돈은 더 받고 싶지만 먼저 한 약속이 마음에 걸린다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "G10",
+    "domain": "relationship",
+    "concern": "친구와 다투면서 내가 먼저 심하게 말했다. 사과하고 싶은데 민망해서 먼저 말을 걸지 못하고 있다. 친구가 받아줄지도 모르겠다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "G11",
+    "domain": "relationship",
+    "concern": "친구가 약속을 반복해서 어긴다. 이미 부드럽게 말해봤지만 달라지지 않았다. 또 넘어갈지, 이번에는 거리를 둘지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "G12",
+    "domain": "relationship",
+    "concern": "친구가 하루째 답장을 하지 않는다. 바쁜 건지 나에게 화가 난 건지 모르겠다. 다시 연락할지 조금 기다릴지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "G13",
+    "domain": "work",
+    "concern": "시험 준비를 더 하고 싶은데 며칠째 잠을 적게 자서 너무 피곤하다. 오늘 밤에도 공부할지 일찍 쉬고 내일 다시 시작할지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "G14",
+    "domain": "health",
+    "concern": "치료를 계속 받고 있는데 몸도 마음도 지친다. 계속할지 다른 선택을 찾아볼지 고민이다. 지금 결과가 어떨지는 모르겠다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "G15",
+    "domain": "work",
+    "concern": "해보고 싶던 동아리 운영에 지원하려는데 처음 하는 일이라 잘할 수 있을지 두렵다. 도전해볼지 지금 하던 일만 할지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "G16",
+    "domain": "general",
+    "concern": "둘 중 무엇을 골라야 할지 마음을 정하지 못하겠어.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H001",
+    "domain": "purchase",
+    "concern": "오래 갖고 싶던 운동화를 살 돈은 모아뒀는데 이미 비슷한 신발이 많다. 지금 누릴지 있는 것으로 충분해할지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H002",
+    "domain": "purchase",
+    "concern": "필요한 겨울 코트가 없다. 질 좋은 비싼 코트를 살지 저렴한 것을 사고 돈을 남길지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H003",
+    "domain": "purchase",
+    "concern": "친구가 추천한 기기를 사고 싶은데 내게 실제 필요한지 모르겠다. 후기만 믿고 살지 좀 더 알아볼지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H004",
+    "domain": "purchase",
+    "concern": "여행 다녀온 직후 또 여행 상품이 싸게 나왔다. 돈이 모자라지는 않지만 계속 나를 즐겁게 해도 되나 마음이 걸린다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H005",
+    "domain": "purchase",
+    "concern": "마음에 드는 물건에 작은 흠집이 있다. 가격은 좋지만 매번 흠집이 신경 쓰일까 봐 살지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H006",
+    "domain": "purchase",
+    "concern": "더 좋은 제품으로 바꾸고 싶지만 지금 쓰는 것도 잘 작동한다. 꼭 최고가 아니어도 만족할지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H007",
+    "domain": "purchase",
+    "concern": "친구에게 줄 선물을 비싼 것으로 할지 마음을 담은 작은 것으로 할지 고민이다. 친구는 비싼 것을 요구한 적 없다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H008",
+    "domain": "purchase",
+    "concern": "온라인 주문을 취소할까 고민이다. 사실 필요하지 않은데 희소한 물건을 놓친다는 기분이 아깝다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H009",
+    "domain": "purchase",
+    "concern": "평소 갖고 싶던 것을 이제 살 수 있게 됐는데 괜히 사치라고 느껴진다. 기분 좋게 누릴지 계속 참을지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H010",
+    "domain": "schedule",
+    "concern": "집에 있는 부모님과 친구들이 보고 싶지만 그날만 열리는 팝업에도 가고 싶다. 이후 몇 주는 시간이 없다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H011",
+    "domain": "schedule",
+    "concern": "약속한 봉사에 가기엔 오늘 너무 피곤하다. 내 역할을 기다리는 사람이 있어 갈지 쉬겠다고 말할지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H012",
+    "domain": "schedule",
+    "concern": "친구 모임에 가고 싶은데 오늘 마감인 과제가 있다. 마치고 가면 모임은 거의 끝난다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H013",
+    "domain": "schedule",
+    "concern": "이번 여행이 기대되지만 아직 일어나지 않은 불편한 일들이 걱정된다. 취소할지 일단 가볼지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H014",
+    "domain": "schedule",
+    "concern": "친구와 만나기로 약속했는데 더 가고 싶은 행사 초대가 왔다. 먼저 한 약속을 지킬지 양해를 구할지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H015",
+    "domain": "schedule",
+    "concern": "쉬는 날마다 계획을 가득 채우다가 지쳤다. 이번 주말도 새로운 경험을 할지 아무것도 안 하고 쉴지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H016",
+    "domain": "schedule",
+    "concern": "친구들과 계속 놀고 싶지만 내일 일찍 일어나야 한다. 지금 행복을 누릴지 내일을 위해 귀가할지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H017",
+    "domain": "schedule",
+    "concern": "행사에 함께 갈 사람이 없어서 혼자 갈지 말지 고민이다. 가보고 싶은 마음은 크지만 어색할까 두렵다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H018",
+    "domain": "schedule",
+    "concern": "가족 행사와 처음 생긴 중요한 발표 기회가 겹쳤다. 가족도 소중하고 기회를 놓치기도 아쉽다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H019",
+    "domain": "sale",
+    "concern": "생활비가 급하지 않은데 매물에 연락이 없어서 가격을 낮추고 싶다. 오래 기다릴지 빨리 끝낼지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H020",
+    "domain": "sale",
+    "concern": "가격을 많이 낮추면 오늘 필요한 돈을 마련할 가능성이 높다. 손해가 아깝지만 오늘 꼭 필요한 지출이 있다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H021",
+    "domain": "sale",
+    "concern": "이미 가격에 합의했는데 시세가 올랐다. 약속한 대로 팔지 더 받고 싶다고 말할지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H022",
+    "domain": "sale",
+    "concern": "작은 하자가 있는 물건을 팔려고 한다. 구매자가 묻지 않았지만 미리 알려야 할지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H023",
+    "domain": "sale",
+    "concern": "돈을 조금 덜 받아도 좋은 지인에게 팔지, 모르는 사람에게 시세대로 팔지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H024",
+    "domain": "sale",
+    "concern": "안 쓰는 물건을 돈 받고 팔지 가족에게 선물할지 고민이다. 돈도 아쉽고 가족이 좋아할 모습도 좋다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H025",
+    "domain": "sale",
+    "concern": "구매자가 무리하게 가격을 깎아달라고 한다. 기분이 상했지만 빨리 정리하고 싶기도 하다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H026",
+    "domain": "relationship",
+    "concern": "친구에게 서운하다고 말하고 싶은데 괜히 싸움이 커질까 걱정된다. 부드럽게 말할지 참을지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H027",
+    "domain": "relationship",
+    "concern": "내가 잘못한 건 알지만 먼저 사과하면 지는 것 같아 망설인다. 관계를 풀고 싶은 마음도 있다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H028",
+    "domain": "relationship",
+    "concern": "친구의 작은 실수가 자꾸 생각난다. 다시 따질지 그냥 잊고 넘어갈지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H029",
+    "domain": "relationship",
+    "concern": "이미 몇 번 용서했지만 친구가 계속 같은 선을 넘는다. 또 용서할지 거리를 둘지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H030",
+    "domain": "relationship",
+    "concern": "친구에 대한 안 좋은 소문을 들었다. 직접 듣기 전부터 멀어질지 친구 말을 먼저 들어볼지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H031",
+    "domain": "relationship",
+    "concern": "서운한 일이 있어 화난 메시지를 썼다. 지금 보낼지 마음이 가라앉은 뒤 말할지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H032",
+    "domain": "relationship",
+    "concern": "친구에게 내가 느끼는 마음을 고백할지 그냥 친구로 지낼지 고민이다. 상대의 마음은 모른다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H033",
+    "domain": "relationship",
+    "concern": "도움을 부탁하고 싶은데 민폐가 될까 혼자 버티고 있다. 부탁할지 혼자 해결할지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H034",
+    "domain": "relationship",
+    "concern": "힘든 친구를 돕고 싶은데 내가 해줄 수 있는 일이 작다. 작은 도움이라도 건넬지 가만히 있을지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H035",
+    "domain": "relationship",
+    "concern": "모임에서 나만 소외된 것 같아 마음이 불편하다. 정말 그런지는 모르는데 모임을 그만둘지 이야기할지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H036",
+    "domain": "relationship",
+    "concern": "부모님 기대와 내가 하고 싶은 일이 다르다. 내 생각을 말할지 부모님 뜻대로 할지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H037",
+    "domain": "relationship",
+    "concern": "직접 본 것은 아닌데 동료가 나를 싫어하는 것 같다. 먼저 물어볼지 내 마음을 정리할지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H038",
+    "domain": "relationship",
+    "concern": "친구가 돈을 빌려달라는데 전에 늦게 갚은 적이 있다. 돕고 싶지만 또 곤란해질까 걱정된다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H039",
+    "domain": "relationship",
+    "concern": "남의 비밀을 알고 있다. 다른 친구가 물었을 때 말할지 약속한 비밀을 지킬지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H040",
+    "domain": "relationship",
+    "concern": "친구가 성공한 모습을 보니 비교하게 된다. 같이 축하하러 갈지 혼자 마음을 추스를지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H041",
+    "domain": "work",
+    "concern": "처음 하는 일에 지원할지 망설인다. 하고 싶지만 남들보다 못할까 두렵다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H042",
+    "domain": "work",
+    "concern": "준비 중인 작품이 완벽하지 않다. 오늘 공개할지 더 오래 다듬을지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H043",
+    "domain": "work",
+    "concern": "같은 방식으로 여러 번 실패했다. 더 견딜지 다른 방식으로 바꿔볼지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H044",
+    "domain": "work",
+    "concern": "일을 너무 많이 맡아 지쳤다. 이번 부탁도 들어줄지 내 한계를 말할지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H045",
+    "domain": "work",
+    "concern": "시험이 내일인데 잠이 부족해서 집중이 안 된다. 더 공부할지 자고 아는 것을 정리할지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H046",
+    "domain": "work",
+    "concern": "다른 사람이 더 빨리 성과를 내는 것 같다. 내가 세운 계획을 유지할지 방향을 급히 바꿀지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H047",
+    "domain": "work",
+    "concern": "지금 하던 일을 그만두고 새 일을 해보고 싶다. 수입이 줄 수 있지만 계속 같은 일을 하는 것도 답답하다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H048",
+    "domain": "work",
+    "concern": "팀원이 내가 놓친 실수를 알려줬다. 기분은 상하지만 인정하고 고칠지 내 방식을 고수할지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H049",
+    "domain": "work",
+    "concern": "쉬운 역할을 맡으면 편하지만 어려운 역할이 배우는 데 도움이 된다. 어느 쪽을 맡을지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H050",
+    "domain": "work",
+    "concern": "오늘 마감인 신청서를 아직 못 썼다. 준비가 부족해도 제출할지 다음 기회를 기다릴지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H051",
+    "domain": "work",
+    "concern": "선배에게 조언을 구하고 싶은데 내가 부족한 사람처럼 보일까 망설인다. 혼자 계획할지 의논할지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H052",
+    "domain": "work",
+    "concern": "좋은 평가를 받고 싶어서 내용을 조금 과장하고 싶다. 솔직히 쓸지 유리하게 꾸밀지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H053",
+    "domain": "work",
+    "concern": "마무리가 지루해서 시작한 일을 끝내기 어렵다. 새 일을 시작할지 지금 일을 끝낼지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H054",
+    "domain": "work",
+    "concern": "이미 약속한 일이 있는데 더 좋은 기회가 생겼다. 이전 약속을 끝내고 갈지 새 기회로 옮길지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H055",
+    "domain": "health",
+    "concern": "회복을 위해 쉬라는 설명은 들었지만 계속 할 일을 놓기 어렵다. 오늘 쉬면서 마음을 추스를지 계속 바쁘게 움직일지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H056",
+    "domain": "health",
+    "concern": "치료 결과를 기다리며 걱정만 하고 있다. 평소 일상을 조금 해볼지 결과 생각만 하고 있을지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H057",
+    "domain": "health",
+    "concern": "운동을 시작하고 싶은데 꾸준히 못할까 걱정된다. 작은 것부터 해볼지 완벽히 준비될 때까지 미룰지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H058",
+    "domain": "health",
+    "concern": "몸도 마음도 지쳐 다른 사람에게 도와달라고 할지 혼자 버틸지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H059",
+    "domain": "general",
+    "concern": "도움을 줄 기회가 있는데 돈을 아껴야 하나 마음을 나눠야 하나 망설인다. 생활비가 부족한 것은 아니다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H060",
+    "domain": "general",
+    "concern": "좋은 기회를 놓친 것 같아 지난 일을 자꾸 생각한다. 다시 붙잡아볼지 지금 할 수 있는 일을 시작할지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H061",
+    "domain": "general",
+    "concern": "두 길 모두 장단점이 있어 완벽한 답을 찾다가 결정을 미루고 있다. 하나를 택할지 더 기다릴지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H062",
+    "domain": "general",
+    "concern": "예상했던 계획이 틀어져서 마음이 불편하다. 계속 원래 방식만 고수할지 바뀐 상황을 받아들일지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H063",
+    "domain": "general",
+    "concern": "마음이 불편한데 이유를 정확히 모르겠다. 잠시 쉬며 생각할지 더 바쁘게 지낼지 고민이다.",
+    "source": "synthetic"
+  },
+  {
+    "id": "H064",
+    "domain": "general",
+    "concern": "큰 결정을 앞두고 주변 의견이 모두 다르다. 남들이 원하는 쪽을 택할지 내가 중요하게 여긴 것을 택할지 고민이다.",
+    "source": "synthetic"
+  }
+]
