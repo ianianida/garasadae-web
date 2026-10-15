@@ -1,0 +1,355 @@
+[
+  {
+    "id": "KRV:GEN:1:3",
+    "status": "hold",
+    "reason": "빛의 출현은 시작을 연상시키지만 현재 망설임을 짚는 단서가 절에 부족하다.",
+    "counterexampleNote": "H042의 불완전한 작품 공개에서는 빛과 공개를 비유로 바꿔도 완성도에 관한 망설임이 그대로 남는다.",
+    "connections": [
+      {
+        "scenarioId": "H042",
+        "clue": "빛이 생기는 장면에서 세상에 작품을 드러내는 시작을 떠올릴 여지가 있다.",
+        "friction": "빛을 작품 공개로 바꾸는 연결을 스스로 추가해야 하고 부족한 완성도에는 답이 없다.",
+        "expectedEnough": "uncertain"
+      }
+    ]
+  },
+  {
+    "id": "KRV:GEN:1:26",
+    "status": "hold",
+    "reason": "사람의 형상과 다스림을 말하지만 긴 피조물 나열이 구체 고민의 초점을 흐린다.",
+    "counterexampleNote": "H042에서 창작 자신감을 얻을 수도 있지만 내가 만든 결과물의 완성도와는 바로 연결되지 않는다.",
+    "connections": []
+  },
+  {
+    "id": "KRV:GEN:1:27",
+    "status": "hold",
+    "reason": "자신의 존엄을 읽을 수는 있어도 한 번의 생활 선택에서 방향을 읽을 근거는 약하다.",
+    "counterexampleNote": "H042의 작품을 공개할지 더 다듬을지에 사람의 창조와 남녀 구별만으로 실마리를 얻기 어렵다.",
+    "connections": []
+  },
+  {
+    "id": "KRV:GEN:1:29",
+    "status": "hold",
+    "reason": "먹거리를 주신다는 말에서 누림을 읽을 수 있지만 다양한 구매의 부담까지는 닿지 않는다.",
+    "counterexampleNote": "H009의 사치 죄책감에 먹거리 제공을 고가 물건 구매 허용으로 그대로 옮기려면 한 단계 이상 비약이 필요하다.",
+    "connections": [
+      {
+        "scenarioId": "H009",
+        "clue": "주시는 선물과 먹는 즐거움을 떠올릴 수 있다.",
+        "friction": "물건을 사치로 느끼는 마음보다 식물의 지정과 나열이 중심이다.",
+        "expectedEnough": "uncertain"
+      }
+    ]
+  },
+  {
+    "id": "KRV:GEN:1:31",
+    "status": "candidate",
+    "reason": "완성한 것을 좋게 보는 문장이 부족한 곳만 보던 창작자의 고민에 뜻밖의 수용 단서가 된다.",
+    "counterexampleNote": "H042처럼 작업이 아직 진행 중인 경우와 달리 R002는 일단 완성한 그림이다. 하나님이 사용자의 작품을 평가했다는 설명을 붙이지 않는다.",
+    "connections": [
+      {
+        "scenarioId": "R002",
+        "clue": "지으신 모든 것을 보시기에 심히 좋게 보는 말에서 내가 만든 그림도 지금 모습대로 받아들이고 보여줄 마음을 읽을 수 있다.",
+        "friction": "창조의 마지막 날 서술이며 작품의 품질이나 반응을 보장하지 않는다. 저녁과 아침의 뒤 문장은 완성의 분위기를 유지한다.",
+        "expectedEnough": "yes"
+      },
+      {
+        "scenarioId": "H042",
+        "clue": "자신이 만든 것을 좋게 바라보는 태도를 떠올릴 수 있다.",
+        "friction": "준비 중이라는 미완성 조건에서는 마쳤다는 창조의 문맥과 간격이 남는다.",
+        "expectedEnough": "uncertain"
+      }
+    ]
+  },
+  {
+    "id": "KRV:GEN:2:1",
+    "status": "candidate",
+    "reason": "짧고 완결된 다 이루었다는 선언이 완성 후에도 멈추기 어려운 고민의 매듭이 될 수 있다.",
+    "counterexampleNote": "R002는 이미 그림을 완성했다. 오늘 제출할 보고서를 아직 못 끝낸 G05에 완료 선언을 넣으면 명시된 상태와 어긋난다.",
+    "connections": [
+      {
+        "scenarioId": "R002",
+        "clue": "다 이루니라는 말에서 이 작업을 일단 끝난 것으로 받아들이고 공개할 실마리를 읽는다.",
+        "friction": "천지와 만물이라는 큰 창조의 문맥이고 개인 작품의 객관적 완료 판정은 아니다.",
+        "expectedEnough": "yes"
+      },
+      {
+        "scenarioId": "G05",
+        "clue": "마쳤다는 선언 자체는 멈춤을 떠올리게 한다.",
+        "friction": "보고서를 아직 못 끝냈다는 사실과 맞지 않는다.",
+        "expectedEnough": "no"
+      }
+    ]
+  },
+  {
+    "id": "KRV:GEN:2:2",
+    "status": "candidate",
+    "reason": "일을 마친 뒤 안식한다는 전체 문장이 계획을 계속 채우던 휴일 고민에 쉬어도 되는 매듭을 준다.",
+    "counterexampleNote": "H015는 휴일의 새 경험과 쉼이다. G05처럼 오늘 마감인 미완료 과제에는 일을 다 마친 조건을 빼고 사용하지 않는다.",
+    "connections": [
+      {
+        "scenarioId": "H015",
+        "clue": "지으시던 일이 다하므로 안식한다는 말에서 이번 휴일도 무언가 더 채우기보다 쉬는 쪽을 읽는다.",
+        "friction": "일곱째 날 창조의 쉼이며 휴식을 통해 모든 문제가 해결된다는 약속은 아니다.",
+        "expectedEnough": "yes"
+      },
+      {
+        "scenarioId": "G05",
+        "clue": "안식이라는 낱말은 쉬고 즐길 방향을 떠올리게 한다.",
+        "friction": "오늘 할 일을 아직 못 마쳤으므로 일을 마친 뒤라는 핵심 조건이 다르다.",
+        "expectedEnough": "no"
+      }
+    ]
+  },
+  {
+    "id": "KRV:GEN:2:3",
+    "status": "candidate",
+    "reason": "쉬는 날 자체를 복되고 거룩하게 여기는 문장에서 아무것도 안 하는 주말의 가치를 읽을 수 있다.",
+    "counterexampleNote": "H015에서 충분한 예상 연결이다. 업무를 계속 미뤄 생긴 부담에는 모든 일을 마친 문맥을 숨기지 않는다.",
+    "connections": [
+      {
+        "scenarioId": "H015",
+        "clue": "안식한 날을 복 주고 거룩하게 했다는 말이 쉬는 주말도 좋은 날이라는 느낌으로 이어진다.",
+        "friction": "창조의 일곱째 날과 일의 완료가 전제이며 오늘 할 일을 면제하는 구절은 아니다.",
+        "expectedEnough": "yes"
+      }
+    ]
+  },
+  {
+    "id": "KRV:GEN:2:7",
+    "status": "hold",
+    "reason": "생기를 불어넣는 장면은 위로가 될 수 있지만 도움 요청이나 쉼의 선택은 여전히 열려 있다.",
+    "counterexampleNote": "H033에서는 도움을 부탁할지 혼자 할지에 혼자 사람을 만드는 이야기만으로 방향을 찾기 어렵다.",
+    "connections": []
+  },
+  {
+    "id": "KRV:GEN:2:15",
+    "status": "hold",
+    "reason": "동산을 맡아 지키는 역할은 책임을 비추지만 새로운 부담을 수락할지의 갈등은 풀리지 않는다.",
+    "counterexampleNote": "일을 맡는 상황과 닮았다는 이유만으로 맡아야 할지 거절해야 할지를 확정할 단서는 없다.",
+    "connections": []
+  },
+  {
+    "id": "KRV:GEN:2:16",
+    "status": "exclude",
+    "reason": "임의로 먹되로 끝나며 바로 다음 절의 금지 조건을 기다리는 문장이어서 단독 뽑기에 불완전하다.",
+    "counterexampleNote": "H009에서 자유로운 누림으로 읽히더라도 2:17의 특정 열매 금지를 떼어낸 허용 문장을 최종 결과로 내기 어렵다.",
+    "connections": []
+  },
+  {
+    "id": "KRV:GEN:2:18",
+    "status": "candidate",
+    "reason": "혼자 있음과 서로 돕는 짝을 직접 대조해 함께할 관계를 시작할지에 자연스러운 실마리를 준다.",
+    "counterexampleNote": "R001의 동반 관계 고민에는 배필의 문맥이 맞지만 H033의 일반적인 업무 도움 부탁으로 넓히면 뜻이 어긋난다.",
+    "connections": [
+      {
+        "scenarioId": "R001",
+        "clue": "사람이 혼자 있는 것이 좋지 못하고 돕는 배필을 주겠다는 말에서 혼자만의 편함보다 함께 도우며 사는 관계를 떠올린다.",
+        "friction": "독처와 배필은 옛 단어다. 아직 모르는 상대의 적합성이나 결혼 성공을 보장하지 않는다.",
+        "expectedEnough": "yes"
+      },
+      {
+        "scenarioId": "H033",
+        "clue": "혼자보다 도움을 받는 모습을 연상할 수 있다.",
+        "friction": "업무 부탁과 배우자는 다른 관계여서 단순 도움 요청 후보로 쓰기에는 좁다.",
+        "expectedEnough": "uncertain"
+      }
+    ]
+  },
+  {
+    "id": "KRV:GEN:2:24",
+    "status": "candidate",
+    "reason": "부모를 떠나 부부가 하나가 되는 문장이 부모와 동거를 이어갈지 독립할지의 고민을 바로 짚는다.",
+    "counterexampleNote": "A002처럼 부부의 새 생활을 생각하는 경우다. 결혼하지 않은 사람의 일시적 귀향 고민 G06에 부모를 떠나라는 뜻을 덧씌우지 않는다.",
+    "connections": [
+      {
+        "scenarioId": "A002",
+        "clue": "부모를 떠나 아내와 연합한다는 말이 배우자와 우리의 생활을 만들기 위한 독립으로 자연스럽게 이어진다.",
+        "friction": "독립 비용이나 부모의 감정을 해결해 주는 약속은 아니다.",
+        "expectedEnough": "yes"
+      }
+    ]
+  },
+  {
+    "id": "KRV:GEN:3:6",
+    "status": "hold",
+    "reason": "탐스러운 것을 취하는 장면은 충동을 비추지만 긴 서사와 남편에게 주는 부분이 연결을 흐린다.",
+    "counterexampleNote": "G03의 할인 물건에 욕심의 거울이 될 수 있으나 해설 없이 이것을 경고로 읽으려면 금지 열매의 배경이 필요하다.",
+    "connections": [
+      {
+        "scenarioId": "G03",
+        "clue": "보기 좋고 탐스러워 취하는 행동에서 할인에 끌리는 마음을 볼 수 있다.",
+        "friction": "이 절만으로는 행동이 왜 문제인지 드러나지 않고 뒷부분의 남편 행동이 고민과 멀다.",
+        "expectedEnough": "uncertain"
+      }
+    ]
+  },
+  {
+    "id": "KRV:GEN:3:8",
+    "status": "hold",
+    "reason": "숨는 모습이 회피와 닮았어도 아담과 하와가 하나님을 피한 이야기로 전환해야 한다.",
+    "counterexampleNote": "G10의 먼저 사과할지에는 숨었다는 묘사만 있고 나아가거나 사과할 실마리는 절에 없다.",
+    "connections": []
+  },
+  {
+    "id": "KRV:GEN:3:9",
+    "status": "hold",
+    "reason": "네가 어디 있느냐는 인상적 질문이지만 지금 선택에서 어떤 실마리를 읽을지는 매우 넓다.",
+    "counterexampleNote": "G10에서 자기 회피를 떠올릴 수 있지만 앞 절의 숨은 사정을 모르면 위치를 묻는 질문만 남는다.",
+    "connections": [
+      {
+        "scenarioId": "G10",
+        "clue": "자신이 회피하고 있는 자리를 돌아보는 질문으로 들을 수도 있다.",
+        "friction": "왜 숨었는지와 선택의 갈림이 본문에 없어 직접 연결은 약하다.",
+        "expectedEnough": "uncertain"
+      }
+    ]
+  },
+  {
+    "id": "KRV:GEN:3:10",
+    "status": "hold",
+    "reason": "두려워 숨는 고백은 공감될 수 있지만 벗음과 하나님의 음성이 사과 고민의 초점을 흩뜨린다.",
+    "counterexampleNote": "G10의 상대에게 말 걸기와 달리 이 절은 숨은 이유를 말하며 숨지 말라는 방향을 담지 않는다.",
+    "connections": []
+  },
+  {
+    "id": "KRV:GEN:3:12",
+    "status": "hold",
+    "reason": "다른 사람 탓을 하는 모습은 실수 인정과 닮지만 단독 인용은 그 태도를 되돌릴 단서가 부족하다.",
+    "counterexampleNote": "H048에 책임 전가의 거울로 읽는 반응도 가능하지만 이 절만 보면 다른 사람이 시킨 탓이라고 정당화하기도 쉽다.",
+    "connections": [
+      {
+        "scenarioId": "H048",
+        "clue": "여자가 주어서 먹었다는 답변에서 자신의 책임을 피하는 말을 떠올린다.",
+        "friction": "서사 배경을 모르면 잘못을 인정하라는 실마리가 분명하지 않다.",
+        "expectedEnough": "uncertain"
+      }
+    ]
+  },
+  {
+    "id": "KRV:GEN:3:13",
+    "status": "hold",
+    "reason": "꾀임을 이유로 대는 대답은 책임을 비추지만 지금 실수를 인정할지의 고민에 명료한 매듭은 약하다.",
+    "counterexampleNote": "H048에서 뱀의 유혹을 현재 팀원 문제로 옮기면 오히려 상대 탓을 강화할 수 있다.",
+    "connections": [
+      {
+        "scenarioId": "H048",
+        "clue": "어찌하여 그랬느냐는 질문과 외부 원인을 대는 답에서 자신의 변명을 돌아볼 수 있다.",
+        "friction": "무엇을 고쳐야 하는지는 앞뒤 이야기에서 가져와야 한다.",
+        "expectedEnough": "uncertain"
+      }
+    ]
+  },
+  {
+    "id": "KRV:GEN:3:19",
+    "status": "hold",
+    "reason": "노동과 유한함은 우선순위를 생각하게 하지만 죽음의 선고가 생활 선택의 부담보다 훨씬 크다.",
+    "counterexampleNote": "H015의 휴일 쉼에는 땀 흘려 식물을 얻고 흙으로 돌아가는 긴 선고가 쉬어도 된다는 실마리로 자연스럽지 않다.",
+    "connections": []
+  },
+  {
+    "id": "KRV:GEN:3:21",
+    "status": "hold",
+    "reason": "옷을 지어 입히는 돌봄은 기분 좋은 개인 연결이 가능하나 구매 죄책감의 핵심과는 간격이 있다.",
+    "counterexampleNote": "H009에 옷이라는 단어만으로 사치품 구매 허용을 넣지 않는다. 본문의 아담·아내에게 필요한 옷을 제공하는 장면과 구별한다.",
+    "connections": [
+      {
+        "scenarioId": "H009",
+        "clue": "하나님이 옷을 입혀 주는 모습에서 옷을 누리는 것을 따뜻하게 볼 수도 있다.",
+        "friction": "비싼 구매와 최근 지출의 죄책감은 본문이 짚지 못하며 특정 사치품을 주신다는 뜻은 아니다.",
+        "expectedEnough": "uncertain"
+      }
+    ]
+  },
+  {
+    "id": "KRV:GEN:4:5",
+    "status": "hold",
+    "reason": "제물을 받아주지 않아 화내는 모습은 비교 감정에 닿지만 열납이라는 말과 원인 생략이 어렵다.",
+    "counterexampleNote": "H031의 서운한 메시지에 화나는 장면만 닮았을 뿐 화를 다루는 다음 행동은 절에서 읽히지 않는다.",
+    "connections": []
+  },
+  {
+    "id": "KRV:GEN:4:6",
+    "status": "candidate",
+    "reason": "왜 화나고 얼굴이 변했느냐는 질문이 화난 메시지를 바로 보내려는 마음을 뜻밖에 짚는다.",
+    "counterexampleNote": "H031의 순간적 분노에는 자연스럽다. 반복 피해나 부당함을 문제삼는 사람에게 감정이 잘못이라는 판정을 붙이지 않는다.",
+    "connections": [
+      {
+        "scenarioId": "H031",
+        "clue": "분하여 함과 안색의 변화에 대한 질문이 지금 메시지를 보내기 전에 왜 화났는지 한 번 멈춰 보는 방향으로 이어진다.",
+        "friction": "가인에게 한 질문이고 감정을 묻는 것 자체가 화의 이유나 상대의 잘못을 부정하지 않는다.",
+        "expectedEnough": "yes"
+      }
+    ]
+  },
+  {
+    "id": "KRV:GEN:4:7",
+    "status": "candidate",
+    "reason": "죄를 다스리라는 끝 문장이 감정에 끌려 바로 행동할지 멈출지의 고민에 선택권을 되돌려 준다.",
+    "counterexampleNote": "H031에서 보내려는 화난 말에 대한 조절 단서다. 감정 자체를 죄로 단정하거나 반복 침해를 계속 받아들이라는 말로 사용하지 않는다.",
+    "connections": [
+      {
+        "scenarioId": "H031",
+        "clue": "문 앞에 엎드린 죄를 다스리라는 말에서 화난 메시지를 충동대로 보내기보다 행동을 스스로 다룰 실마리를 읽는다.",
+        "friction": "죄의 소원과 낯을 든다는 옛 표현은 어렵다. 마지막 다스리라는 단서에 연결해도 충분할 것이라는 사전 예상이다.",
+        "expectedEnough": "yes"
+      }
+    ]
+  },
+  {
+    "id": "KRV:GEN:4:9",
+    "status": "hold",
+    "reason": "아우를 지키는 자냐는 문장은 작은 도움 고민에 닿아도 잘못된 회피를 알아야 반대로 읽힌다.",
+    "counterexampleNote": "H034에서 남을 안 챙겨도 된다는 허용처럼 읽을 수 있다. 가인의 거짓 대답임을 서비스 해설로 교정해야 충분해지는 연결은 도입하지 않는다.",
+    "connections": []
+  },
+  {
+    "id": "KRV:GEN:4:26",
+    "status": "hold",
+    "reason": "예배 시작과 이름 짓기의 서사여서 사람에게 도움을 요청할지의 실마리는 약하다.",
+    "counterexampleNote": "H033에서 부른다는 동사만 같아도 자녀의 이름과 하나님 이름 부르기는 현재의 부탁 갈등을 짚지 않는다.",
+    "connections": []
+  },
+  {
+    "id": "KRV:GEN:5:2",
+    "status": "hold",
+    "reason": "창조와 복은 위로로 읽히지만 어떤 생활 선택을 매듭지을지의 구체 단서는 부족하다.",
+    "counterexampleNote": "H042의 작품 공개에는 창조된 날의 이름과 복이 아니라 현재 결과물에 대한 망설임이 남는다.",
+    "connections": []
+  },
+  {
+    "id": "KRV:GEN:5:22",
+    "status": "exclude",
+    "reason": "누가 삼백 년을 동행했는지 주어를 앞 절에서 가져와야 하는 계보 문장이어서 단독 읽기가 불완전하다.",
+    "counterexampleNote": "동행이라는 단어만 H033의 도움 부탁에 연결하면 삼백 년과 출생 서사가 대부분 남아 첫 결과로 받아들이기 어렵다.",
+    "connections": []
+  },
+  {
+    "id": "KRV:GEN:5:29",
+    "status": "hold",
+    "reason": "아들이 수고를 위로할 것이라는 이름의 이유는 옛 어휘와 저주 배경을 해석해야 한다.",
+    "counterexampleNote": "H015의 휴일 쉼에는 아들이 안위한다는 약속의 주체와 땅의 저주가 대부분 남아 연결이 멀다.",
+    "connections": []
+  },
+  {
+    "id": "KRV:GEN:6:8",
+    "status": "hold",
+    "reason": "은혜를 입었다는 짧은 문장은 기쁠 수 있지만 지금 선택의 부담을 짚는 실마리는 거의 없다.",
+    "counterexampleNote": "H009의 사치 죄책감에는 은혜를 개인 구매 승인으로 읽으려면 본문에 없는 연결을 크게 넣어야 한다.",
+    "connections": []
+  },
+  {
+    "id": "KRV:GEN:6:9",
+    "status": "hold",
+    "reason": "완전한 노아와 동행이라는 인물 소개는 일반 위로가 되더라도 구체 선택 방향은 모호하다.",
+    "counterexampleNote": "H042의 불완전한 작품에는 완전한 사람이라는 소개가 오히려 비교를 만들 수 있으며 결과물 공개와는 다르다.",
+    "connections": []
+  },
+  {
+    "id": "KRV:GEN:6:18",
+    "status": "hold",
+    "reason": "가족과 방주에 들어가는 언약은 함께함을 연상해도 고유한 재난 서사와 미완결 문장이 남는다.",
+    "counterexampleNote": "G06의 부모 방문과 축제 선택에 가족이 함께라는 말만으로 방주 안의 보호를 현재 여행의 신호로 확장하지 않는다.",
+    "connections": []
+  }
+]

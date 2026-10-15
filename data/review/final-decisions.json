@@ -1,0 +1,1701 @@
+{
+  "corpusSha256": "f8d5c8b377e243b05fb884b4a6965d2c06a95de74b64a716ee4b95989d61e971",
+  "criteriaVersion": "garasadae-corpus-2026-10-08-v1",
+  "reviewer": "Codex integration review",
+  "method": "direct-codex-reading",
+  "decisions": [
+    {
+      "id": "KRV:GEN:1:3",
+      "status": "hold",
+      "reason": "빛의 출현은 시작을 연상시키지만 현재 망설임을 짚는 단서가 절에 부족하다.",
+      "counterexampleNote": "H042의 불완전한 작품 공개에서는 빛과 공개를 비유로 바꿔도 완성도에 관한 망설임이 그대로 남는다.",
+      "connections": [
+        {
+          "scenarioId": "H042",
+          "clue": "빛이 생기는 장면에서 세상에 작품을 드러내는 시작을 떠올릴 여지가 있다.",
+          "friction": "빛을 작품 공개로 바꾸는 연결을 스스로 추가해야 하고 부족한 완성도에는 답이 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "8ae8d6523f39d9503f39615eb946d9107ee540d9ab6f223990a4193014454fd4"
+    },
+    {
+      "id": "KRV:GEN:1:26",
+      "status": "hold",
+      "reason": "사람의 형상과 다스림을 말하지만 긴 피조물 나열이 구체 고민의 초점을 흐린다.",
+      "counterexampleNote": "H042에서 창작 자신감을 얻을 수도 있지만 내가 만든 결과물의 완성도와는 바로 연결되지 않는다.",
+      "connections": [],
+      "textSha256": "5d0b4db1db716e6323ac7163550843e3a9cc408a48334c8213943f061a1b1051"
+    },
+    {
+      "id": "KRV:GEN:1:27",
+      "status": "hold",
+      "reason": "자신의 존엄을 읽을 수는 있어도 한 번의 생활 선택에서 방향을 읽을 근거는 약하다.",
+      "counterexampleNote": "H042의 작품을 공개할지 더 다듬을지에 사람의 창조와 남녀 구별만으로 실마리를 얻기 어렵다.",
+      "connections": [],
+      "textSha256": "c01c808e21c365c0edc8ad9774d355c3e4a04c7ad4f949540e76d91cda11cf3e"
+    },
+    {
+      "id": "KRV:GEN:1:29",
+      "status": "hold",
+      "reason": "먹거리를 주신다는 말에서 누림을 읽을 수 있지만 다양한 구매의 부담까지는 닿지 않는다.",
+      "counterexampleNote": "H009의 사치 죄책감에 먹거리 제공을 고가 물건 구매 허용으로 그대로 옮기려면 한 단계 이상 비약이 필요하다.",
+      "connections": [
+        {
+          "scenarioId": "H009",
+          "clue": "주시는 선물과 먹는 즐거움을 떠올릴 수 있다.",
+          "friction": "물건을 사치로 느끼는 마음보다 식물의 지정과 나열이 중심이다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "fe06c79104d8ef22f4471a42d6f194b9eef72c3d39e024c62eb49595c81f7253"
+    },
+    {
+      "id": "KRV:GEN:1:31",
+      "status": "candidate",
+      "reason": "완성한 것을 좋게 보는 문장이 부족한 곳만 보던 창작자의 고민에 뜻밖의 수용 단서가 된다.",
+      "counterexampleNote": "H042처럼 작업이 아직 진행 중인 경우와 달리 R002는 일단 완성한 그림이다. 하나님이 사용자의 작품을 평가했다는 설명을 붙이지 않는다.",
+      "connections": [
+        {
+          "scenarioId": "R002",
+          "clue": "지으신 모든 것을 보시기에 심히 좋게 보는 말에서 내가 만든 그림도 지금 모습대로 받아들이고 보여줄 마음을 읽을 수 있다.",
+          "friction": "창조의 마지막 날 서술이며 작품의 품질이나 반응을 보장하지 않는다. 저녁과 아침의 뒤 문장은 완성의 분위기를 유지한다.",
+          "expectedEnough": "yes"
+        },
+        {
+          "scenarioId": "H042",
+          "clue": "자신이 만든 것을 좋게 바라보는 태도를 떠올릴 수 있다.",
+          "friction": "준비 중이라는 미완성 조건에서는 마쳤다는 창조의 문맥과 간격이 남는다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "91a7cb77827f2e76a6a91a910b1bbc6b9c793d58496dd6b2f0a93f2d75028076"
+    },
+    {
+      "id": "KRV:GEN:2:1",
+      "status": "candidate",
+      "reason": "짧고 완결된 다 이루었다는 선언이 완성 후에도 멈추기 어려운 고민의 매듭이 될 수 있다.",
+      "counterexampleNote": "R002는 이미 그림을 완성했다. 오늘 제출할 보고서를 아직 못 끝낸 G05에 완료 선언을 넣으면 명시된 상태와 어긋난다.",
+      "connections": [
+        {
+          "scenarioId": "R002",
+          "clue": "다 이루니라는 말에서 이 작업을 일단 끝난 것으로 받아들이고 공개할 실마리를 읽는다.",
+          "friction": "천지와 만물이라는 큰 창조의 문맥이고 개인 작품의 객관적 완료 판정은 아니다.",
+          "expectedEnough": "yes"
+        },
+        {
+          "scenarioId": "G05",
+          "clue": "마쳤다는 선언 자체는 멈춤을 떠올리게 한다.",
+          "friction": "보고서를 아직 못 끝냈다는 사실과 맞지 않는다.",
+          "expectedEnough": "no"
+        }
+      ],
+      "textSha256": "795fea98d9572a518f6ba6650c125744344b5ecbd12f0f3eb939b9f71ff0b4a6"
+    },
+    {
+      "id": "KRV:GEN:2:2",
+      "status": "candidate",
+      "reason": "일을 마친 뒤 안식한다는 전체 문장이 계획을 계속 채우던 휴일 고민에 쉬어도 되는 매듭을 준다.",
+      "counterexampleNote": "H015는 휴일의 새 경험과 쉼이다. G05처럼 오늘 마감인 미완료 과제에는 일을 다 마친 조건을 빼고 사용하지 않는다.",
+      "connections": [
+        {
+          "scenarioId": "H015",
+          "clue": "지으시던 일이 다하므로 안식한다는 말에서 이번 휴일도 무언가 더 채우기보다 쉬는 쪽을 읽는다.",
+          "friction": "일곱째 날 창조의 쉼이며 휴식을 통해 모든 문제가 해결된다는 약속은 아니다.",
+          "expectedEnough": "yes"
+        },
+        {
+          "scenarioId": "G05",
+          "clue": "안식이라는 낱말은 쉬고 즐길 방향을 떠올리게 한다.",
+          "friction": "오늘 할 일을 아직 못 마쳤으므로 일을 마친 뒤라는 핵심 조건이 다르다.",
+          "expectedEnough": "no"
+        }
+      ],
+      "textSha256": "5a4abd760cf1afe27c63b65e397e5be954b13f29071cd55307a5f63add341972"
+    },
+    {
+      "id": "KRV:GEN:2:3",
+      "status": "candidate",
+      "reason": "쉬는 날 자체를 복되고 거룩하게 여기는 문장에서 아무것도 안 하는 주말의 가치를 읽을 수 있다.",
+      "counterexampleNote": "H015에서 충분한 예상 연결이다. 업무를 계속 미뤄 생긴 부담에는 모든 일을 마친 문맥을 숨기지 않는다.",
+      "connections": [
+        {
+          "scenarioId": "H015",
+          "clue": "안식한 날을 복 주고 거룩하게 했다는 말이 쉬는 주말도 좋은 날이라는 느낌으로 이어진다.",
+          "friction": "창조의 일곱째 날과 일의 완료가 전제이며 오늘 할 일을 면제하는 구절은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "3b18d0ae958ed1e06ff354d5248491b5261b51120c23be4967887684c9e010cd"
+    },
+    {
+      "id": "KRV:GEN:2:7",
+      "status": "hold",
+      "reason": "생기를 불어넣는 장면은 위로가 될 수 있지만 도움 요청이나 쉼의 선택은 여전히 열려 있다.",
+      "counterexampleNote": "H033에서는 도움을 부탁할지 혼자 할지에 혼자 사람을 만드는 이야기만으로 방향을 찾기 어렵다.",
+      "connections": [],
+      "textSha256": "c42eb18d74f80dfcda13a068ffeba340e8781ed528e29bb9eddb09137cdee6fe"
+    },
+    {
+      "id": "KRV:GEN:2:15",
+      "status": "hold",
+      "reason": "동산을 맡아 지키는 역할은 책임을 비추지만 새로운 부담을 수락할지의 갈등은 풀리지 않는다.",
+      "counterexampleNote": "일을 맡는 상황과 닮았다는 이유만으로 맡아야 할지 거절해야 할지를 확정할 단서는 없다.",
+      "connections": [],
+      "textSha256": "9dd3e591d8097c052968ccef06192e42c44d5b7f3d86711b90323d8a4e34b0cf"
+    },
+    {
+      "id": "KRV:GEN:2:16",
+      "status": "exclude",
+      "reason": "임의로 먹되로 끝나며 바로 다음 절의 금지 조건을 기다리는 문장이어서 단독 뽑기에 불완전하다.",
+      "counterexampleNote": "H009에서 자유로운 누림으로 읽히더라도 2:17의 특정 열매 금지를 떼어낸 허용 문장을 최종 결과로 내기 어렵다.",
+      "connections": [],
+      "textSha256": "4f62a6f84542dbb854af16e0883f7a36cae483117d7901b9de964506c7d4e8da"
+    },
+    {
+      "id": "KRV:GEN:2:18",
+      "status": "candidate",
+      "reason": "혼자 있음과 서로 돕는 짝을 직접 대조해 함께할 관계를 시작할지에 자연스러운 실마리를 준다.",
+      "counterexampleNote": "R001의 동반 관계 고민에는 배필의 문맥이 맞지만 H033의 일반적인 업무 도움 부탁으로 넓히면 뜻이 어긋난다.",
+      "connections": [
+        {
+          "scenarioId": "R001",
+          "clue": "사람이 혼자 있는 것이 좋지 못하고 돕는 배필을 주겠다는 말에서 혼자만의 편함보다 함께 도우며 사는 관계를 떠올린다.",
+          "friction": "독처와 배필은 옛 단어다. 아직 모르는 상대의 적합성이나 결혼 성공을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        },
+        {
+          "scenarioId": "H033",
+          "clue": "혼자보다 도움을 받는 모습을 연상할 수 있다.",
+          "friction": "업무 부탁과 배우자는 다른 관계여서 단순 도움 요청 후보로 쓰기에는 좁다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "145dba86b4329933294f3b1ce8c75c04c671cc9449fb0f5318c0a2cf90ec3c7c"
+    },
+    {
+      "id": "KRV:GEN:2:24",
+      "status": "candidate",
+      "reason": "부모를 떠나 부부가 하나가 되는 문장이 부모와 동거를 이어갈지 독립할지의 고민을 바로 짚는다.",
+      "counterexampleNote": "A002처럼 부부의 새 생활을 생각하는 경우다. 결혼하지 않은 사람의 일시적 귀향 고민 G06에 부모를 떠나라는 뜻을 덧씌우지 않는다.",
+      "connections": [
+        {
+          "scenarioId": "A002",
+          "clue": "부모를 떠나 아내와 연합한다는 말이 배우자와 우리의 생활을 만들기 위한 독립으로 자연스럽게 이어진다.",
+          "friction": "독립 비용이나 부모의 감정을 해결해 주는 약속은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "dbc0c0da4205a4b8f14b792f7c501f97fa5be63d6db75d3468ad17bc738a9a0b"
+    },
+    {
+      "id": "KRV:GEN:3:6",
+      "status": "hold",
+      "reason": "탐스러운 것을 취하는 장면은 충동을 비추지만 긴 서사와 남편에게 주는 부분이 연결을 흐린다.",
+      "counterexampleNote": "G03의 할인 물건에 욕심의 거울이 될 수 있으나 해설 없이 이것을 경고로 읽으려면 금지 열매의 배경이 필요하다.",
+      "connections": [
+        {
+          "scenarioId": "G03",
+          "clue": "보기 좋고 탐스러워 취하는 행동에서 할인에 끌리는 마음을 볼 수 있다.",
+          "friction": "이 절만으로는 행동이 왜 문제인지 드러나지 않고 뒷부분의 남편 행동이 고민과 멀다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "9e78dbed8fe2496fac05dbc67160307bf3858010b0625f2a04ba22f059e35912"
+    },
+    {
+      "id": "KRV:GEN:3:8",
+      "status": "hold",
+      "reason": "숨는 모습이 회피와 닮았어도 아담과 하와가 하나님을 피한 이야기로 전환해야 한다.",
+      "counterexampleNote": "G10의 먼저 사과할지에는 숨었다는 묘사만 있고 나아가거나 사과할 실마리는 절에 없다.",
+      "connections": [],
+      "textSha256": "b3ea08fc32dff97b889c3b927c96983d80b6e582b75a3693fde37f809b71fb6e"
+    },
+    {
+      "id": "KRV:GEN:3:9",
+      "status": "hold",
+      "reason": "네가 어디 있느냐는 인상적 질문이지만 지금 선택에서 어떤 실마리를 읽을지는 매우 넓다.",
+      "counterexampleNote": "G10에서 자기 회피를 떠올릴 수 있지만 앞 절의 숨은 사정을 모르면 위치를 묻는 질문만 남는다.",
+      "connections": [
+        {
+          "scenarioId": "G10",
+          "clue": "자신이 회피하고 있는 자리를 돌아보는 질문으로 들을 수도 있다.",
+          "friction": "왜 숨었는지와 선택의 갈림이 본문에 없어 직접 연결은 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "1014cc533651618df065dd06c2baf33db9ecb018d302693f41f96fb4441a7642"
+    },
+    {
+      "id": "KRV:GEN:3:10",
+      "status": "hold",
+      "reason": "두려워 숨는 고백은 공감될 수 있지만 벗음과 하나님의 음성이 사과 고민의 초점을 흩뜨린다.",
+      "counterexampleNote": "G10의 상대에게 말 걸기와 달리 이 절은 숨은 이유를 말하며 숨지 말라는 방향을 담지 않는다.",
+      "connections": [],
+      "textSha256": "2d3631e2572af82d7e48c6df9c0e37a4fda05ae36620c1a1b2c04466dfbe1f55"
+    },
+    {
+      "id": "KRV:GEN:3:12",
+      "status": "hold",
+      "reason": "다른 사람 탓을 하는 모습은 실수 인정과 닮지만 단독 인용은 그 태도를 되돌릴 단서가 부족하다.",
+      "counterexampleNote": "H048에 책임 전가의 거울로 읽는 반응도 가능하지만 이 절만 보면 다른 사람이 시킨 탓이라고 정당화하기도 쉽다.",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "여자가 주어서 먹었다는 답변에서 자신의 책임을 피하는 말을 떠올린다.",
+          "friction": "서사 배경을 모르면 잘못을 인정하라는 실마리가 분명하지 않다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "61cdcc2f770fc6ec1d52cd33874418d1edddf9b922ea465fdcdbaa741b25b551"
+    },
+    {
+      "id": "KRV:GEN:3:13",
+      "status": "hold",
+      "reason": "꾀임을 이유로 대는 대답은 책임을 비추지만 지금 실수를 인정할지의 고민에 명료한 매듭은 약하다.",
+      "counterexampleNote": "H048에서 뱀의 유혹을 현재 팀원 문제로 옮기면 오히려 상대 탓을 강화할 수 있다.",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "어찌하여 그랬느냐는 질문과 외부 원인을 대는 답에서 자신의 변명을 돌아볼 수 있다.",
+          "friction": "무엇을 고쳐야 하는지는 앞뒤 이야기에서 가져와야 한다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "d87a161b587f4aeebab93ba40ddf7754b1781c54a1b7ac3fe39c32e06e5caae0"
+    },
+    {
+      "id": "KRV:GEN:3:19",
+      "status": "hold",
+      "reason": "노동과 유한함은 우선순위를 생각하게 하지만 죽음의 선고가 생활 선택의 부담보다 훨씬 크다.",
+      "counterexampleNote": "H015의 휴일 쉼에는 땀 흘려 식물을 얻고 흙으로 돌아가는 긴 선고가 쉬어도 된다는 실마리로 자연스럽지 않다.",
+      "connections": [],
+      "textSha256": "bdfbb09dc104c63ef074361b05994f3f879a93ad154a721a71e6f18075302531"
+    },
+    {
+      "id": "KRV:GEN:3:21",
+      "status": "hold",
+      "reason": "옷을 지어 입히는 돌봄은 기분 좋은 개인 연결이 가능하나 구매 죄책감의 핵심과는 간격이 있다.",
+      "counterexampleNote": "H009에 옷이라는 단어만으로 사치품 구매 허용을 넣지 않는다. 본문의 아담·아내에게 필요한 옷을 제공하는 장면과 구별한다.",
+      "connections": [
+        {
+          "scenarioId": "H009",
+          "clue": "하나님이 옷을 입혀 주는 모습에서 옷을 누리는 것을 따뜻하게 볼 수도 있다.",
+          "friction": "비싼 구매와 최근 지출의 죄책감은 본문이 짚지 못하며 특정 사치품을 주신다는 뜻은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "0dcd79a7f9132b4c876874532dd628b51967548f3256174d6d7adccdf8337bf5"
+    },
+    {
+      "id": "KRV:GEN:4:5",
+      "status": "hold",
+      "reason": "제물을 받아주지 않아 화내는 모습은 비교 감정에 닿지만 열납이라는 말과 원인 생략이 어렵다.",
+      "counterexampleNote": "H031의 서운한 메시지에 화나는 장면만 닮았을 뿐 화를 다루는 다음 행동은 절에서 읽히지 않는다.",
+      "connections": [],
+      "textSha256": "8210582559f7a8e461a4c90e4f346e2d55a108944e72c0b4751d92586b69fe0e"
+    },
+    {
+      "id": "KRV:GEN:4:6",
+      "status": "candidate",
+      "reason": "왜 화나고 얼굴이 변했느냐는 질문이 화난 메시지를 바로 보내려는 마음을 뜻밖에 짚는다.",
+      "counterexampleNote": "H031의 순간적 분노에는 자연스럽다. 반복 피해나 부당함을 문제삼는 사람에게 감정이 잘못이라는 판정을 붙이지 않는다.",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "분하여 함과 안색의 변화에 대한 질문이 지금 메시지를 보내기 전에 왜 화났는지 한 번 멈춰 보는 방향으로 이어진다.",
+          "friction": "가인에게 한 질문이고 감정을 묻는 것 자체가 화의 이유나 상대의 잘못을 부정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "410a2d68f2b3d8e8a404be84755de19eb625f42e04dff61d9bf6a869c2b3ff89"
+    },
+    {
+      "id": "KRV:GEN:4:7",
+      "status": "candidate",
+      "reason": "죄를 다스리라는 끝 문장이 감정에 끌려 바로 행동할지 멈출지의 고민에 선택권을 되돌려 준다.",
+      "counterexampleNote": "H031에서 보내려는 화난 말에 대한 조절 단서다. 감정 자체를 죄로 단정하거나 반복 침해를 계속 받아들이라는 말로 사용하지 않는다.",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "문 앞에 엎드린 죄를 다스리라는 말에서 화난 메시지를 충동대로 보내기보다 행동을 스스로 다룰 실마리를 읽는다.",
+          "friction": "죄의 소원과 낯을 든다는 옛 표현은 어렵다. 마지막 다스리라는 단서에 연결해도 충분할 것이라는 사전 예상이다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "1e7c387c9f6ee7de531d8dbc33fca28172795f0eace66df0ac37a02ae9c62222"
+    },
+    {
+      "id": "KRV:GEN:4:9",
+      "status": "hold",
+      "reason": "아우를 지키는 자냐는 문장은 작은 도움 고민에 닿아도 잘못된 회피를 알아야 반대로 읽힌다.",
+      "counterexampleNote": "H034에서 남을 안 챙겨도 된다는 허용처럼 읽을 수 있다. 가인의 거짓 대답임을 서비스 해설로 교정해야 충분해지는 연결은 도입하지 않는다.",
+      "connections": [],
+      "textSha256": "777031a495963726b0cce91655838c10f039f71ea27077c217805a9e3b04f57e"
+    },
+    {
+      "id": "KRV:GEN:4:26",
+      "status": "hold",
+      "reason": "예배 시작과 이름 짓기의 서사여서 사람에게 도움을 요청할지의 실마리는 약하다.",
+      "counterexampleNote": "H033에서 부른다는 동사만 같아도 자녀의 이름과 하나님 이름 부르기는 현재의 부탁 갈등을 짚지 않는다.",
+      "connections": [],
+      "textSha256": "2cb7f28c72981ff1391c32c9964067a9e6a1fa6f93ba6b5d568a5dcd0bab49f8"
+    },
+    {
+      "id": "KRV:GEN:5:2",
+      "status": "hold",
+      "reason": "창조와 복은 위로로 읽히지만 어떤 생활 선택을 매듭지을지의 구체 단서는 부족하다.",
+      "counterexampleNote": "H042의 작품 공개에는 창조된 날의 이름과 복이 아니라 현재 결과물에 대한 망설임이 남는다.",
+      "connections": [],
+      "textSha256": "e3373fad3eb2d2ab05e0004064eab160bb80cb8e5fcbe9228c8609d84c0aa249"
+    },
+    {
+      "id": "KRV:GEN:5:22",
+      "status": "exclude",
+      "reason": "누가 삼백 년을 동행했는지 주어를 앞 절에서 가져와야 하는 계보 문장이어서 단독 읽기가 불완전하다.",
+      "counterexampleNote": "동행이라는 단어만 H033의 도움 부탁에 연결하면 삼백 년과 출생 서사가 대부분 남아 첫 결과로 받아들이기 어렵다.",
+      "connections": [],
+      "textSha256": "1a8b515f7426679b3f4626ac8357029b4003d949adfdf91a80fce6dca3e9b0d3"
+    },
+    {
+      "id": "KRV:GEN:5:29",
+      "status": "hold",
+      "reason": "아들이 수고를 위로할 것이라는 이름의 이유는 옛 어휘와 저주 배경을 해석해야 한다.",
+      "counterexampleNote": "H015의 휴일 쉼에는 아들이 안위한다는 약속의 주체와 땅의 저주가 대부분 남아 연결이 멀다.",
+      "connections": [],
+      "textSha256": "c5baa49dd9275a3486c00474963ac3fec776ca4e10f6fe639f675d6486ef90a0"
+    },
+    {
+      "id": "KRV:GEN:6:8",
+      "status": "hold",
+      "reason": "은혜를 입었다는 짧은 문장은 기쁠 수 있지만 지금 선택의 부담을 짚는 실마리는 거의 없다.",
+      "counterexampleNote": "H009의 사치 죄책감에는 은혜를 개인 구매 승인으로 읽으려면 본문에 없는 연결을 크게 넣어야 한다.",
+      "connections": [],
+      "textSha256": "782608bc88c3be0c3bff399293b215578fb5b719b520546185148eb7d546768b"
+    },
+    {
+      "id": "KRV:GEN:6:9",
+      "status": "hold",
+      "reason": "완전한 노아와 동행이라는 인물 소개는 일반 위로가 되더라도 구체 선택 방향은 모호하다.",
+      "counterexampleNote": "H042의 불완전한 작품에는 완전한 사람이라는 소개가 오히려 비교를 만들 수 있으며 결과물 공개와는 다르다.",
+      "connections": [],
+      "textSha256": "8e2e1a40c54a31e8bc2975cc01a1de6bdf133d2b7c1a70169ef96c38ff675e64"
+    },
+    {
+      "id": "KRV:GEN:6:18",
+      "status": "hold",
+      "reason": "가족과 방주에 들어가는 언약은 함께함을 연상해도 고유한 재난 서사와 미완결 문장이 남는다.",
+      "counterexampleNote": "G06의 부모 방문과 축제 선택에 가족이 함께라는 말만으로 방주 안의 보호를 현재 여행의 신호로 확장하지 않는다.",
+      "connections": [],
+      "textSha256": "6f8d4a442059f8dfedabc787c2e9517968cd5e09445779e07d3b4bddde3c0665"
+    },
+    {
+      "id": "KRV:GEN:6:21",
+      "status": "candidate",
+      "reason": "먹을 것을 저축해 필요를 마련하라는 문장이 갖고 싶은 구매보다 부족한 생활비를 남길 단서를 준다.",
+      "counterexampleNote": "G02는 이번 달 생활비 부족이 명시됐다. 쓸 돈을 따로 모아둔 G01의 최근 구매 죄책감과 같은 조건으로 묶지 않는다.",
+      "connections": [
+        {
+          "scenarioId": "G02",
+          "clue": "먹을 식물을 모아 저축하라는 말에서 원하는 옷보다 당장 생활에 쓸 몫을 보호하는 방향을 읽는다.",
+          "friction": "홍수 대비 식량 명령이며 그들은 함께 탄 생물이다. 저축과 생활 필요가 중심인 개인 연결이다.",
+          "expectedEnough": "yes"
+        },
+        {
+          "scenarioId": "G01",
+          "clue": "저축이라는 단어는 구매를 미루는 방향으로 들릴 수 있다.",
+          "friction": "이미 구매용 돈을 모았고 생활비 부족은 없어 필요 보호와의 연결은 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "5e321336a87a8b712ba1583745d446f78061dca586158ec0cb46709f61260558"
+    },
+    {
+      "id": "KRV:GEN:6:22",
+      "status": "hold",
+      "reason": "명한 일을 모두 했다는 서술은 완수를 연상하지만 무엇을 하라는 것인지 이 절에는 없다.",
+      "counterexampleNote": "H011의 피곤하지만 약속한 봉사에 갈지에는 준행해야 할 현재 책임을 새로 명령받았다고 보충해야 한다.",
+      "connections": [],
+      "textSha256": "c4ac2885d926d8e58281183dc684e02e312a16b0ca25e34eb47a3df159413d77"
+    },
+    {
+      "id": "KRV:GEN:7:5",
+      "status": "hold",
+      "reason": "준행했다는 인물의 행동만 있어 일상 선택의 서로 다른 부담을 바로 짚지 못한다.",
+      "counterexampleNote": "H011의 약속한 봉사에 명령을 따랐다는 태도는 닮았지만 피로와 역할의 갈림이 본문에 드러나지 않는다.",
+      "connections": [],
+      "textSha256": "5e59d70498b4cd7d9effc2cf260cc74c631d4f477421937eae0ad658154f8c59"
+    },
+    {
+      "id": "KRV:GEN:7:16",
+      "status": "hold",
+      "reason": "짝을 이뤄 방주에 들어가 닫히는 긴 문장이라 귀가나 휴식을 고르는 개인 연결은 약하다.",
+      "counterexampleNote": "H015의 휴일 쉼을 방주의 닫힘으로 읽으려면 동물의 암수와 홍수 보호를 여러 단계 바꿔야 한다.",
+      "connections": [],
+      "textSha256": "fad6ee11568fa4dc848408049386eea568cc6416f9815afb9542855e392a92f1"
+    },
+    {
+      "id": "KRV:GEN:8:1",
+      "status": "hold",
+      "reason": "바람과 물 감소의 돌봄은 위로가 될 수 있지만 권념이라는 어휘와 생물 나열이 고민을 흐린다.",
+      "counterexampleNote": "H056의 치료 결과 대기에는 안심을 받을 수 있어도 일상을 할지 기다림만 할지의 단서는 절에 없다.",
+      "connections": [
+        {
+          "scenarioId": "H056",
+          "clue": "방주 안의 생명을 기억하고 물을 줄여 주는 돌봄을 떠올릴 수 있다.",
+          "friction": "현실의 치료 결과가 좋아질 것이라는 연결만 남으면 선택의 실마리와 다르다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "5f4dc38ff3fd7d657db7a166cbfe311a3745ccbc8a821eb8c66e71dc56c2a4d6"
+    },
+    {
+      "id": "KRV:GEN:8:5",
+      "status": "hold",
+      "reason": "산봉우리가 조금씩 보이는 진전은 인상적이나 구체 선택보다 관찰 보고가 중심이다.",
+      "counterexampleNote": "H046의 성과 비교에서 점차 나아질 수도 있음을 읽어도 계획 유지와 방향 변경의 갈림은 분명하지 않다.",
+      "connections": [],
+      "textSha256": "959a2b704356b7e7b2e6dfde484ae63ffabe5646a0c89fad2e14fbbe70565ec2"
+    },
+    {
+      "id": "KRV:GEN:8:8",
+      "status": "hold",
+      "reason": "상태를 알아보려는 탐색은 사실 확인과 닮지만 비둘기와 물 감소의 미완결 서술이 남는다.",
+      "counterexampleNote": "H037의 동료 마음을 물어볼지에 알아보는 태도는 닿지만 어떤 탐색이 내 갈림과 맞는지는 추가 해석이 필요하다.",
+      "connections": [
+        {
+          "scenarioId": "H037",
+          "clue": "상태를 알고자 비둘기를 내보내는 모습에서 혼자 추측하지 말고 확인하는 행동을 연상한다.",
+          "friction": "물의 양을 확인하는 장면이고 사람의 마음을 묻는 부담은 짚지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "db19510387925197d7acc3203c74a8dda20869f12787b5bfeef2399b9cb59864"
+    },
+    {
+      "id": "KRV:GEN:8:9",
+      "status": "hold",
+      "reason": "돌아온 비둘기를 손으로 받아들이는 돌봄은 따뜻하지만 접족과 방주 설명이 길고 어렵다.",
+      "counterexampleNote": "H034의 작은 도움에는 손을 내미는 부분이 좋더라도 나머지 물과 비둘기의 착지 설명이 첫 결과의 연결을 약하게 한다.",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "갈 곳 없는 존재에게 손을 내밀어 받아들이는 작은 행동을 떠올릴 수 있다.",
+          "friction": "짧은 도움보다 방주와 물에 관한 서사의 비중이 크다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "3603d1bc278561162bc104cb0b9f44973555fd2a6fdf047f8c38a5a60a13443e"
+    },
+    {
+      "id": "KRV:GEN:8:10",
+      "status": "hold",
+      "reason": "기다려 다시 시도하는 모습은 재시도 단서지만 왜 기다리는지 다음 문장을 기다리는 문장이 남는다.",
+      "counterexampleNote": "G12의 답장 대기와 다시 연락에서는 칠 일과 비둘기를 상대의 답장으로 바꿔야 하며 상대 상태를 알 수 없다.",
+      "connections": [
+        {
+          "scenarioId": "G12",
+          "clue": "조금 기다려 다시 내보내는 모습에서 한 번 더 연락하기 전에 시간을 두는 방향을 연상할 수 있다.",
+          "friction": "칠 일이라는 서사의 기간을 사용자 연락 간격으로 정할 근거가 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "8c5fdcd7f42010570d965a87fa2207bd57bca227337861c5455ee931545a3364"
+    },
+    {
+      "id": "KRV:GEN:8:11",
+      "status": "hold",
+      "reason": "감람 새 잎으로 물의 감소를 확인하는 장면은 정보의 증거를 읽지만 해설 없이 고민의 갈림과는 멀다.",
+      "counterexampleNote": "H037에서 구체 증거를 찾는 태도는 가능해도 잎사귀와 홍수 결과를 동료의 마음 증거로 바꿔야 한다.",
+      "connections": [],
+      "textSha256": "179589c7d57ee10eaa481aa5ae53f42136d6bcca1467ce0edf929b747409382e"
+    },
+    {
+      "id": "KRV:GEN:8:12",
+      "status": "hold",
+      "reason": "돌아오지 않은 비둘기의 결과는 연락 고민과 닮을 수 있지만 부재의 의미를 이 절만으로 알기 어렵다.",
+      "counterexampleNote": "G12의 답장 없는 친구에게 비둘기의 무귀환을 관계 종료나 안전의 신호로 옮기면 상대의 사정을 추정하게 된다.",
+      "connections": [],
+      "textSha256": "d5e26807fb56ece18dbc4056facba66521d5f68714bb780f219a926a6295be58"
+    },
+    {
+      "id": "KRV:GEN:8:16",
+      "status": "hold",
+      "reason": "가족과 방주에서 나오라는 말은 외출을 연상시켜도 가족 호칭과 미완결 구문이 많이 남는다.",
+      "counterexampleNote": "R003의 새 도시로 떠날지에 나오라는 단서는 있지만 방주와 자부들에 대한 문맥을 개인 이동으로 바꾸는 부담이 크다.",
+      "connections": [],
+      "textSha256": "643c97fbaf9a606ca791b8d8d9b2b033ee2a5d7cfa4abe07f0f92a85e9e978b1"
+    },
+    {
+      "id": "KRV:GEN:8:22",
+      "status": "candidate",
+      "reason": "심고 거두는 일과 낮밤이 계속되는 문장이 결과 기다림으로 멈춘 일상을 다시 이어갈 실마리가 된다.",
+      "counterexampleNote": "H056은 치료 결과를 기다리는 동안의 일상이다. 치료 중단이나 결과가 좋을 것이라는 약속으로 확장하지 않는다.",
+      "connections": [
+        {
+          "scenarioId": "H056",
+          "clue": "계절과 낮밤이 쉬지 않는다는 말에서 내 걱정과 별개로 이어지는 평소 일상을 조금 살아갈 방향을 읽는다.",
+          "friction": "자연 질서의 지속에 관한 노아의 문맥이며 개인 치료 결과나 일정이 바뀐다는 말은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "f720e25691650d3ed1094b8b7fb36d83cb953a1ac06ab9369378ed2afd5313d2"
+    },
+    {
+      "id": "KRV:GEN:9:3",
+      "status": "candidate",
+      "reason": "동물도 채소처럼 먹거리로 준다는 문장이 고기를 먹고 싶은데 괜히 잘못 같다는 고민을 직접 짚는다.",
+      "counterexampleNote": "R004에는 일상의 식사 선택 연결이다. 알레르기나 의료적 금기, 해로운 음식의 안전 여부를 판단하는 데 사용하지 않는다.",
+      "connections": [
+        {
+          "scenarioId": "R004",
+          "clue": "동물을 채소처럼 식물로 준다는 말에서 원하는 고기 요리를 고르는 죄책감을 내려놓을 개인 실마리를 읽는다.",
+          "friction": "노아의 식물 허용이며 다음 절은 피에 관한 제한이다. 동물복지 신념이나 음식 안전의 결론을 대신하지 않는다.",
+          "expectedEnough": "yes"
+        },
+        {
+          "scenarioId": "H009",
+          "clue": "주어지는 것을 누린다는 허용을 떠올릴 수 있다.",
+          "friction": "일반적인 고가 물건 구매에는 동물과 채소의 대부분이 직접 닿지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "35f88c65e49fd25eaa43ef41321a394fd120f529aa30a89e77bc67d6d1f135bd"
+    },
+    {
+      "id": "KRV:GEN:9:11",
+      "status": "hold",
+      "reason": "모든 생물을 멸할 홍수가 다시 없다는 언약은 위로지만 현재 생활 선택의 부담을 짚지는 않는다.",
+      "counterexampleNote": "H056의 치료 결과를 기다리는 상황에서 재발이나 실패가 없을 것이라고 읽기만 하면 현재의 일상 선택과는 다르다.",
+      "connections": [],
+      "textSha256": "237c26ecc6ac5cdefa2ead6e5b4b495c47e3de767feebf134cbbea5396792cce"
+    },
+    {
+      "id": "KRV:GEN:9:13",
+      "status": "hold",
+      "reason": "무지개와 언약은 신비로운 분위기를 만들 수 있어도 고민에 맞는 선택 단서는 부족하다.",
+      "counterexampleNote": "G01의 구매 고민에는 무지개라는 표지가 인상적이어도 사치 죄책감과 아쉬움의 어느 부분도 짚지 않는다.",
+      "connections": [],
+      "textSha256": "dca8462960067d16f602de16aa2aa078df4b1d115ec5e4df78e9cd705e932c05"
+    },
+    {
+      "id": "KRV:GEN:9:15",
+      "status": "hold",
+      "reason": "홍수로 멸하지 않겠다는 긴 언약 반복은 위로가 되지만 구체 생활의 두 선택과는 거리가 있다.",
+      "counterexampleNote": "G12에서 연락 부재가 나쁜 결과가 아니라는 신호로 옮기려면 친구 상황을 본문에 넣어야 한다.",
+      "connections": [],
+      "textSha256": "c7e724ba84372a581f943ea8004bc24d1f088d1df8100b19aa03ead9b5fdbbb2"
+    },
+    {
+      "id": "KRV:GEN:9:16",
+      "status": "hold",
+      "reason": "무지개를 보고 언약을 기억한다는 문장에는 그리워하거나 기다리는 사용자가 할 선택의 단서가 없다.",
+      "counterexampleNote": "H056의 걱정 속 일상에는 기억해 주시는 위로만 가능하고 일상을 이어갈지는 본문 밖에서 정해야 한다.",
+      "connections": [],
+      "textSha256": "b3014ab754813600d71927748a552f0c111d08ca411b9cd08517e0302d3076de"
+    },
+    {
+      "id": "KRV:GEN:9:21",
+      "status": "hold",
+      "reason": "술 취해 벗은 장면은 절제를 연상시켜도 현재 사례들에서 맞닿는 구체 갈림이 없고 경고는 배경에 있다.",
+      "counterexampleNote": "G03의 충동 구매를 술 취함으로 바꾸면 소재와 부담이 다르고 무엇을 절제할지 긴 비유가 필요하다.",
+      "connections": [],
+      "textSha256": "96251a84521d3cfa5a0b53aa15c2332e81d225de176b9155ef140aeb085d5828"
+    },
+    {
+      "id": "KRV:GEN:9:22",
+      "status": "hold",
+      "reason": "다른 사람의 드러난 모습을 전하는 행동은 비밀과 닮지만 그 행동의 문제를 이 절은 보여주지 않는다.",
+      "counterexampleNote": "H039에 비밀을 전해도 된다는 서술로 읽힐 수 있다. 다른 형제들이 가려 준 다음 절의 평가를 몰래 가져오지 않는다.",
+      "connections": [],
+      "textSha256": "19ccfee7953c04726e94d86d54b478d47c50158953ddcf3ba221d047b94a5123"
+    },
+    {
+      "id": "KRV:GEN:9:23",
+      "status": "candidate",
+      "reason": "얼굴을 돌리고 수치를 덮어 주는 전체 행동이 남의 비밀을 퍼뜨릴지에 보호하는 방향을 보여준다.",
+      "counterexampleNote": "H039는 다른 사람이 약속한 비밀을 묻는 상황이다. 폭력 피해를 숨기거나 위험을 감추라는 뜻으로 넓히지 않는다.",
+      "connections": [
+        {
+          "scenarioId": "H039",
+          "clue": "돌이켜 보지 않고 덮어 주는 행동에서 남의 사정을 굳이 들춰 퍼뜨리지 않고 조용히 지키는 방향을 읽는다.",
+          "friction": "셈·야벳과 아비의 하체라는 낯선 서사이고 길다. 인물의 행위 전체가 비밀을 다루는 태도로 이어질 것이라는 사전 예상이다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "e655a0b3eaa637bac8388ead5e1835d0c2722f0e799f3fa987e27229a71888d9"
+    },
+    {
+      "id": "KRV:GEN:11:3",
+      "status": "hold",
+      "reason": "재료를 대체하는 모습은 새 방식을 떠올리게 하지만 역청이라는 어휘와 미완결 건축 준비가 남는다.",
+      "counterexampleNote": "H046의 성과 비교와 방향 변경에는 대체 재료라는 부분만 닿고 바꿀 이유와 현재 계획의 부담은 드러나지 않는다.",
+      "connections": [],
+      "textSha256": "4ba485fc6bf7324ca985c3b6e6c260d14ddc580827567afdad99dceaf6556245"
+    },
+    {
+      "id": "KRV:GEN:11:4",
+      "status": "hold",
+      "reason": "우리 이름을 내자는 동기는 비교를 비추지만 흩어짐을 피하려는 성·탑 서사를 알아야 경계로 읽힌다.",
+      "counterexampleNote": "H040의 친구 성공에 오히려 나도 이름을 내라는 허용으로 읽을 수 있고 축하하러 갈지의 갈림에는 직접 단서가 약하다.",
+      "connections": [],
+      "textSha256": "cce44af5d39a285747b0c1c1ad13253cbdceda53e2831537b6d7197459ad0c0a"
+    },
+    {
+      "id": "KRV:GEN:12:1",
+      "status": "candidate",
+      "reason": "익숙한 고향과 가까운 가족을 떠나 새 곳으로 가라는 문장이 새 도시 기회 앞의 망설임을 바로 짚는다.",
+      "counterexampleNote": "R003에는 새 도시의 제안이 이미 있다. G06의 짧은 부모 방문과 축제 중 선택을 영구적으로 집을 떠나는 결심과 같은 조건으로 묶지 않는다.",
+      "connections": [
+        {
+          "scenarioId": "R003",
+          "clue": "본토와 친척과 아비 집을 떠나 다른 땅으로 가라는 말에서 익숙한 자리와 가족을 떠나 새 생활을 시작할 개인 실마리를 읽는다.",
+          "friction": "하나님이 아브람을 부른 문맥이다. 서비스가 새 도시를 하나님이 정하신 곳이라고 말하거나 성공을 예고하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "102359b404c773e4200967d93fee258ba643085f0b0d89307c4b32c44dfcfb36"
+    },
+    {
+      "id": "KRV:GEN:12:2",
+      "status": "hold",
+      "reason": "복의 근원이라는 격려를 읽어도 큰 민족과 이름의 창대함이 일반 도전의 현재 갈림과는 거리가 있다.",
+      "counterexampleNote": "H041의 남들보다 못할까 하는 망설임에는 성공의 격려는 있어도 비교 부담을 바로 짚는 문장은 약하다.",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "복의 근원이 된다는 말에서 자신도 다른 사람에게 기여할 수 있다고 느낄 여지가 있다.",
+          "friction": "큰 민족과 이름의 약속이 대부분이고 새로운 일의 선택은 구체적으로 닿지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "dad9f224c6665db95d60451d8ec2348468c749bc7554de1865f7133c96e51ed0"
+    },
+    {
+      "id": "KRV:GEN:12:4",
+      "status": "candidate",
+      "reason": "칠십오 세에 길을 떠난 구체 장면에서 나이가 늦었다는 망설임에 뜻밖의 시작 단서를 읽을 수 있다.",
+      "counterexampleNote": "R005는 시작하기에 늦다는 나이 부담이다. 나이가 없는 H041의 능력 비교 고민에 같은 충분함을 부여하지 않는다.",
+      "connections": [
+        {
+          "scenarioId": "R005",
+          "clue": "칠십오 세에도 새 길로 떠났다는 말에서 오십 대인 나도 처음 배우는 일을 시작할 수 있다는 방향을 읽는다.",
+          "friction": "롯·하란과 하나님의 말씀을 따르는 여행 서사다. 개인의 성취나 재능을 보장하는 문장은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "df0b746dc8f857c070739aab0fc6dd2a9b157282632028bc7888adfa7b059792"
+    },
+    {
+      "id": "KRV:GEN:12:5",
+      "status": "hold",
+      "reason": "가족과 소유를 이끌어 목적지에 도착한 긴 서사라 떠날지의 현재 갈림은 약하다.",
+      "counterexampleNote": "R003에 이사를 연상시키지만 사래·롯·얻은 사람들·도착의 대부분은 현재 가족을 떠나는 망설임을 짚지 않는다.",
+      "connections": [],
+      "textSha256": "1a0f976daf65b85db3caa6918a716b34c720760b25ce6f6a86a49598d0e83ce9"
+    },
+    {
+      "id": "KRV:GEN:12:10",
+      "status": "hold",
+      "reason": "기근 때문에 거처를 바꾼 행동은 분명하지만 현재 구매·새 도시 사례와는 부담이 다르다.",
+      "counterexampleNote": "G02의 생활비 부족에는 옷 구매를 미룰 실마리보다 거처 이동 서사가 중심이다. R003에는 기근 수준의 부족이 없다.",
+      "connections": [],
+      "textSha256": "c9bbf73b9e3c9816800d459689d0ab0bf39a780d77ac6a7c4453c31cead9aaa0"
+    },
+    {
+      "id": "KRV:GEN:12:18",
+      "status": "hold",
+      "reason": "사실을 알리지 않은 일을 따지지만 아내의 관계를 숨긴 복잡한 사건이 연결을 어렵게 한다.",
+      "counterexampleNote": "H039의 비밀 보호와 아내 관계를 속인 일은 다르며 비밀을 모두 말하라는 뜻으로 읽을 수 없다.",
+      "connections": [],
+      "textSha256": "a6d7cc43cafaf4d2a79c9b8b0aa55bc393f3156b3ef52bc3b63bba2cf2d91a99"
+    },
+    {
+      "id": "KRV:GEN:13:2",
+      "status": "hold",
+      "reason": "육축과 은금이 풍부한 인물 소개만으로 지금 구매의 죄책감이나 망설임을 짚지 못한다.",
+      "counterexampleNote": "H009에 재물이 풍부하다는 분위기는 닿아도 누릴지 참을지의 개인 실마리는 절에 거의 없다.",
+      "connections": [],
+      "textSha256": "b268d791fc15452305de23319b11b5ccad592668fe02f7bd59ac7fccd9d6d9b7"
+    },
+    {
+      "id": "KRV:GEN:13:6",
+      "status": "candidate",
+      "reason": "소유가 많아 같은 땅에 동거할 수 없다는 문장이 좁아진 공동 공간 고민을 바로 짚는다.",
+      "counterexampleNote": "A001의 좁은 작업실과 늘어난 물건에는 자연스럽다. 단순한 인간관계 불편이나 가족 방문에 땅의 수용력 문제를 추가하지 않는다.",
+      "connections": [
+        {
+          "scenarioId": "A001",
+          "clue": "소유가 많아서 동거할 수 없다는 말이 같이 있기를 고집하기보다 공간을 나눌 실마리가 된다.",
+          "friction": "목축의 땅 문제다. 새 공간의 비용과 관계 개선을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "9f4a84da285b1845f28b55486a31a1dd7aa086ec2cc33dff7b4eed9d24ca5d8d"
+    },
+    {
+      "id": "KRV:GEN:13:7",
+      "status": "hold",
+      "reason": "목자들의 다툼은 공동 공간 갈등과 닮지만 다른 주민의 언급까지 남아 선택의 매듭이 약하다.",
+      "counterexampleNote": "A001에서 다툼 묘사는 공감할 수 있어도 공간을 계속 함께 쓸지 나눌지의 방향은 다음 절에 있다.",
+      "connections": [],
+      "textSha256": "74c4e2357417b13f3d9d505fe05a01d9632335797a57b8491aae976fd0a0e966"
+    },
+    {
+      "id": "KRV:GEN:13:8",
+      "status": "candidate",
+      "reason": "가까운 관계를 기억하며 서로 다투지 말자는 말걸기가 서운함을 부드럽게 꺼낼 단서가 된다.",
+      "counterexampleNote": "H026의 첫 대화에는 충분할 예상이다. G11처럼 이미 부드럽게 말해도 반복 침해된 경우에는 같은 충분함을 부여하지 않는다.",
+      "connections": [
+        {
+          "scenarioId": "H026",
+          "clue": "우리는 한 골육이고 다투지 말자는 말에서 싸움으로 키우기보다 관계를 지키며 이야기를 꺼내는 방향을 읽는다.",
+          "friction": "골육과 목자라는 옛 친족·목축 표현이 있다. 상대가 응할지는 알 수 없다.",
+          "expectedEnough": "yes"
+        },
+        {
+          "scenarioId": "G11",
+          "clue": "다투지 않기를 바라는 마음은 닿는다.",
+          "friction": "부드러운 대화가 이미 실패했고 반복된 약속 위반을 풀 새 단서는 부족하다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "6dc88098250a07fcdc9380ff66001cbff1559ec541e5cb44e0fff62d27d52adf"
+    },
+    {
+      "id": "KRV:GEN:13:9",
+      "status": "candidate",
+      "reason": "좌우로 서로 다른 길을 고르는 분리 제안이 공간을 나눌지에 뜻밖의 자연스러운 매듭을 준다.",
+      "counterexampleNote": "A001의 함께 쓰기 어려운 공간에는 맞지만 R001의 막 시작할 동반 관계를 같은 분리 상황으로 취급하지 않는다.",
+      "connections": [
+        {
+          "scenarioId": "A001",
+          "clue": "네가 좌로 가면 나는 우로 간다는 말에서 서로 다른 공간을 택해 같이 있을 때의 불편을 덜 방향을 읽는다.",
+          "friction": "넓은 땅을 가진 아브람의 양보다. 현재 공간을 구할 여력과 비용은 따로 남는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "d5a886eb47eda23d1977854d1461310eb2f8af1d7c2318bbe17608891e7c7e79"
+    },
+    {
+      "id": "KRV:GEN:13:10",
+      "status": "hold",
+      "reason": "넉넉하고 좋아 보이는 땅 설명이 길며 소돔 멸망의 배경을 알아야 경계로 전환된다.",
+      "counterexampleNote": "G03의 좋아 보이는 물건에는 겉모습을 경계하는 배경을 더해야 하고 소알·애굽 등의 대부분이 연결을 흐린다.",
+      "connections": [],
+      "textSha256": "744bb3a78145d6a0cda0adb1fb98bc64fff1042af20e947cb6bc5bd13a339379"
+    },
+    {
+      "id": "KRV:GEN:13:14",
+      "status": "hold",
+      "reason": "눈을 들어 동서남북을 보는 초대는 시야를 넓히지만 두 선택의 핵심 부담까지는 짚지 못한다.",
+      "counterexampleNote": "R006의 답사에는 바라보라는 말만 닿고 직접 돌아보거나 사진으로 정하는 갈림의 매듭은 약하다.",
+      "connections": [],
+      "textSha256": "91528ed70771c6603e2e7a87060f52bb7c030f06576cb44a6f8d2a95eb52d770"
+    },
+    {
+      "id": "KRV:GEN:13:17",
+      "status": "candidate",
+      "reason": "일어나 그 땅을 이리저리 가보라는 말이 집을 정하기 전 직접 동네를 살펴볼지에 맞는 단서를 준다.",
+      "counterexampleNote": "R006에는 관심 있는 동네가 이미 있다. 본문의 땅을 주겠다는 약속을 집 취득·가격·계약 성공 예고로 서비스가 확정하지 않는다.",
+      "connections": [
+        {
+          "scenarioId": "R006",
+          "clue": "그 땅을 종과 횡으로 행하여 보라는 말에서 사진만 보지 말고 동네를 직접 돌아보는 방향을 읽는다.",
+          "friction": "종과 횡은 낯선 표현이고 뒤는 아브람에게 땅을 주는 약속이다. 개인적 연결과 원래 약속의 상대를 구별한다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "a75ee6ea40ffa03f5ad8978294c5f1cf145790932168e124904bbb63409e4391"
+    },
+    {
+      "id": "KRV:GEN:14:14",
+      "status": "hold",
+      "reason": "조카를 구하려 군사를 이끌고 추격하는 미완결 서사는 작은 도움 고민과 규모·행동이 다르다.",
+      "counterexampleNote": "H034의 내가 줄 수 있는 작은 도움에는 삼백십팔 명을 이끄는 추격이 자기 부담을 덜 단서가 되기 어렵다.",
+      "connections": [],
+      "textSha256": "6fdcd757ebb07085ce721d2a96f9886f3be18c91351777ed3e6d114ad7c60883"
+    },
+    {
+      "id": "KRV:GEN:14:16",
+      "status": "hold",
+      "reason": "빼앗긴 사람과 재물을 모두 찾은 결과는 희망을 주지만 현재 도움을 건넬지의 실마리는 약하다.",
+      "counterexampleNote": "H034에는 도움의 과정이나 작은 행동의 가치보다 구출 결과만 있어 성공을 상상하는 것 외에 갈림의 매듭이 약하다.",
+      "connections": [],
+      "textSha256": "9d1e4050b3572ff43d588e89d039199a0ed2f67d8af404c2196509514c278a0c"
+    },
+    {
+      "id": "KRV:GEN:14:18",
+      "status": "hold",
+      "reason": "떡과 포도주를 가지고 나온 환대보다 왕·제사장의 소개가 중심이라 작은 돌봄의 연결이 약하다.",
+      "counterexampleNote": "H034의 작은 도움에 음식으로 돕는 모습을 읽을 수 있어도 멜기세덱과 제사장의 대부분이 고민을 흐린다.",
+      "connections": [],
+      "textSha256": "7347c30f44f05918a2b6e2e4bb347a00b918f4cd18dc601d1c6b15412829a059"
+    },
+    {
+      "id": "KRV:GEN:14:19",
+      "status": "hold",
+      "reason": "아브람에게 복을 비는 기도는 위로가 되지만 지금 선택의 갈림을 비추는 말이 없다.",
+      "counterexampleNote": "H041의 지원 망설임에 응원은 가능하지만 천지의 주재와 축복만으로 능력 비교의 실마리를 얻기는 어렵다.",
+      "connections": [],
+      "textSha256": "b80ea93ec4db980ed6c1fc611c8bc86e5f61b96cb7ed5092e5080751446c9588"
+    },
+    {
+      "id": "KRV:GEN:14:21",
+      "status": "hold",
+      "reason": "사람과 물품을 나누는 제안은 분명하나 포로와 전리품의 배분이 개인 선택과 멀다.",
+      "counterexampleNote": "H010의 가족과 팝업 중 선택에 사람·물품이라는 낱말은 닿아도 사람을 보내고 물품을 취하라는 문장이 같은 갈등의 매듭은 아니다.",
+      "connections": [],
+      "textSha256": "29c52bc065dce5baa7684be09d1857b72721969410135add73246aab6d2c5b2c"
+    },
+    {
+      "id": "KRV:GEN:14:23",
+      "status": "hold",
+      "reason": "부담 있는 선물을 거절하는 연결은 좋지만 치부케·무론·신들메의 연속이 핵심 이유를 읽기 어렵게 한다.",
+      "counterexampleNote": "A003과 대조하면 상대가 나를 부유하게 했다고 말할 여지를 거절하는 구조는 맞는다. 다만 낮은 어휘력의 독자가 전체 이유를 해설 없이 붙잡기 어렵고 지인의 악의를 확인한 사례도 아니다.",
+      "connections": [
+        {
+          "scenarioId": "A003",
+          "clue": "네게 속한 것은 한 실도 취하지 않겠다는 거절에서 선물의 부담을 남기지 않을 방향을 연상한다.",
+          "friction": "치부케·무론·신들메를 풀어야 거절의 이유가 선명해진다. 현재 판본의 독해 부담 때문에 충분함은 미확인이다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "a785be96ed8a20ccfbe9c41ced79284f935f4a820305a5ead82e02cf749b2215"
+    },
+    {
+      "id": "KRV:GEN:14:24",
+      "status": "hold",
+      "reason": "자기의 거절과 동행자의 몫을 구별하는 내용이나 인명과 분깃·제할의 해석이 길다.",
+      "counterexampleNote": "A009의 일을 나눌지 고민에는 역할 위임이 아닌 전리품 권리가 중심이다. 공정함만으로 지금 어느 선택을 할지 실마리가 약하다.",
+      "connections": [],
+      "textSha256": "a65f86d0b2810267c88fe6be363d4b5bab423b61bf39d65693b5724669893127"
+    },
+    {
+      "id": "KRV:GEN:15:1",
+      "status": "candidate",
+      "reason": "두려워 말라는 부름과 방패의 이미지가 하고 싶은 일 앞의 두려움을 내려놓을 단서가 된다.",
+      "counterexampleNote": "H041처럼 지원하고 싶지만 못할까 두려운 경우에는 보호와 상급의 말에서 용기를 얻을 예상이다. 구체 능력·보수·합격을 약속하는 서비스 설명을 붙이지 않는다.",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "두려워 말라 나는 너의 방패라는 말이 비교의 두려움을 잠시 내려놓고 원하던 일에 지원할 마음을 돕는다.",
+          "friction": "아브람에게 환상 중 한 말씀이며 지원 결과의 예고가 아니다. 첫 부분의 인명·이상은 남지만 핵심 위로는 읽힌다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "618460a4212dcee12c01327087d6eda2354d317b41f7ac4599cdd073d566d6a2"
+    },
+    {
+      "id": "KRV:GEN:15:5",
+      "status": "hold",
+      "reason": "별과 자손의 인상적인 약속은 있으나 현재 갈림을 짚기보다 규모의 비유에 머문다.",
+      "counterexampleNote": "H041의 지원 망설임에 가능성의 응원은 되지만 남보다 못할 두려움과 별 같은 후손을 이어야 해 구체 실마리가 약하다.",
+      "connections": [],
+      "textSha256": "41843cceaa6d9ae7c4491f913b055950ecf4f2d54b05f5fc0c75b98ad3972104"
+    },
+    {
+      "id": "KRV:GEN:15:6",
+      "status": "hold",
+      "reason": "믿음을 의로 여기셨다는 미완결 문장으로 선택의 양쪽 부담까지 연결하기 어렵다.",
+      "counterexampleNote": "H041에 믿어보라는 격려를 읽을 수 있어도 지원의 두려움을 덜 개인적 단서가 짧은 믿음 평가만으로 충분하지 않다.",
+      "connections": [],
+      "textSha256": "cce2a4d2593e208146ce163ccff3600f698027514d7b2e0608eff273cb607c4e"
+    },
+    {
+      "id": "KRV:GEN:15:8",
+      "status": "hold",
+      "reason": "무엇으로 알겠느냐는 질문은 확인하려는 마음을 비추지만 그 질문 이후의 실마리는 없다.",
+      "counterexampleNote": "R006의 집 답사 고민에서 땅을 얻을 증거를 묻는 말은 직접 걸어볼지의 선택까지 연결되지 않는다. 업을 삼는다는 표현도 낯설다.",
+      "connections": [],
+      "textSha256": "edad0a1e22f0730ff8b9eca440e22f73c14513401e77ab2fb282127561528b0e"
+    },
+    {
+      "id": "KRV:GEN:15:15",
+      "status": "hold",
+      "reason": "장수와 평안한 장사의 예고는 구체적인 생활 선택보다 생애의 마지막을 말한다.",
+      "counterexampleNote": "H056의 치료 결과를 기다리는 고민에 장수의 예고를 붙여 놓으면 일상 복귀의 단서보다 건강 결과의 확신으로 읽힐 수 있다. 현재 사례의 선택 부담을 짚지 못한다.",
+      "connections": [],
+      "textSha256": "d8b90262bdb3e5a9fffe73012466edf663a94a47f4d98c9076bdb1e248832d06"
+    },
+    {
+      "id": "KRV:GEN:16:8",
+      "status": "hold",
+      "reason": "어디서 와 어디로 가느냐는 질문 뒤의 여종과 도망의 서사가 길어 방향 성찰만 떼기 어렵다.",
+      "counterexampleNote": "R003의 도시 이동은 학대를 피해 도망한 하갈과 다르다. 첫 질문이 눈에 들어와도 두 선택 중 실마리를 얻으려면 상황을 여러 번 치환해야 한다.",
+      "connections": [],
+      "textSha256": "494719e444f79042c24292323eacbb43612a7f56263ac7d37751908439a9ee63"
+    },
+    {
+      "id": "KRV:GEN:16:11",
+      "status": "hold",
+      "reason": "고통을 들으셨다는 위로보다 임신과 아들 이름을 정하는 특정 장면이 대부분이다.",
+      "counterexampleNote": "H034의 힘든 친구에게 작은 도움을 줄지에 마지막 위로는 닿아도 임신·출산·이스마엘의 대부분은 도움의 크기라는 부담을 풀지 못한다.",
+      "connections": [],
+      "textSha256": "76ed81a511f2e31b0d70160dd240b9caccf51cc1e6e45cf9aaf262840f39e4b0"
+    },
+    {
+      "id": "KRV:GEN:16:13",
+      "status": "hold",
+      "reason": "감찰하시는 하나님을 되풀이한 옛 문장이 위로의 뜻과 선택의 연결을 모두 어렵게 한다.",
+      "counterexampleNote": "H056에서 나를 보고 계신다는 위로는 가능하지만 결과를 기다리며 일상을 할지라는 갈림의 매듭은 약하다.",
+      "connections": [],
+      "textSha256": "05cdbe2b563cb05585b440f8e0850f3e34bbc45f9c897ca006b4f0d1acb239a3"
+    },
+    {
+      "id": "KRV:GEN:17:1",
+      "status": "hold",
+      "reason": "완전하라는 말은 선명하나 나이·현현과 함께 나와 작품 공개의 구체적인 완성 수준을 짚지 못한다.",
+      "counterexampleNote": "H042에는 더 다듬으라는 개인 해석도 가능하다. 다만 완벽하지 않은 작품의 어느 부족을 받아들이거나 고칠지보다 전면적 완전을 요구하는 말에 머문다.",
+      "connections": [],
+      "textSha256": "644ea68582b7af262aae003cbd8804c6ebbeedef676d5082f41ecd74fffe0006"
+    },
+    {
+      "id": "KRV:GEN:17:7",
+      "status": "hold",
+      "reason": "후손까지 이어질 언약은 신앙의 위로이나 현재의 두 선택을 비출 단서가 적다.",
+      "counterexampleNote": "A002의 부모와 독립 고민에 세대라는 말은 있지만 배우자와의 생활을 만들지에 대한 연결은 후손 언약만으로 생기지 않는다.",
+      "connections": [],
+      "textSha256": "edefe3eb063ae688e32476076ca4a08b55fe4131f021590817631dc60828dac7"
+    },
+    {
+      "id": "KRV:GEN:17:9",
+      "status": "hold",
+      "reason": "언약을 지키라는 말은 약속과 닿지만 세대 전체의 언약이라는 조건이 일상 약속과 멀다.",
+      "counterexampleNote": "H011의 봉사 약속에 지키라는 말은 연결되나 뒤의 후손과 원래 할례 언약의 뜻까지 일상 역할의 부담을 짚는 것은 아니다.",
+      "connections": [],
+      "textSha256": "f68cbd88b81fcf2304c1f7b137d6cdca3858729756af16020570748b207b41cc"
+    },
+    {
+      "id": "KRV:GEN:17:17",
+      "status": "hold",
+      "reason": "늦은 나이에 가능한지의 의문은 닮아도 고령 출산의 긴 의문으로 끝나 선택 실마리가 약하다.",
+      "counterexampleNote": "R005의 오십대 기타 시작에 나이 걱정은 맞지만 백세·구십세·출산의 대부분은 다르고 가능하다는 전환은 이 절 밖에 있다.",
+      "connections": [],
+      "textSha256": "36be96683b800f0bf190f8d70ec886f6286d1de5ba27f4fc2700a5a618f2e944"
+    },
+    {
+      "id": "KRV:GEN:18:2",
+      "status": "hold",
+      "reason": "방문자를 보고 달려 맞는 서사는 친절을 보이나 몸을 굽히는 중간 장면에서 끝난다.",
+      "counterexampleNote": "H034의 작은 도움에 먼저 다가가는 모습은 닿지만 작은 일이 가치 있는지의 부담을 덜려면 다음 환대의 말을 더해야 한다.",
+      "connections": [],
+      "textSha256": "4397ee0b4353b3f91349748588246ea0a52cf5eae0e372dc81a51465352e4bb4"
+    },
+    {
+      "id": "KRV:GEN:18:3",
+      "status": "hold",
+      "reason": "지나가지 말아 달라는 옛 청원만으로 연락이나 도움의 갈림을 자연스럽게 묶기 어렵다.",
+      "counterexampleNote": "G12의 답장 없는 친구에게 머물러 달라는 표현은 연락하라는 단서로 치환할 수 있으나 방문과 은혜·종의 표현이 대부분이라 연결이 약하다.",
+      "connections": [],
+      "textSha256": "f9ede0a933eb1abe6206f3a42bcb15dba731b1c9d9dae59b8790b76ca63853b2"
+    },
+    {
+      "id": "KRV:GEN:18:4",
+      "status": "candidate",
+      "reason": "조금의 물과 쉴 자리라는 작은 환대가 작은 도움도 건넬 가치가 있는지에 맞는다.",
+      "counterexampleNote": "H034의 도움 크기에 대한 망설임에는 전체 문장이 자연스럽다. H015의 내 휴식 고민에는 남의 발을 씻는 앞부분이 맞지 않아 같은 충분함을 주지 않는다.",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "물을 조금 가져와 발을 씻고 쉬게 하자는 말에서 거창하지 않은 도움도 먼저 건넬 수 있다는 실마리를 읽는다.",
+          "friction": "여행객을 맞이한 장면이다. 친구의 문제 전부가 작은 도움으로 해결된다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "b058723bdd008fdd26390109c35bca6a18fc7f9cb38fa7e81e14eb8325e1223f"
+    },
+    {
+      "id": "KRV:GEN:18:5",
+      "status": "candidate",
+      "reason": "조금의 떡으로 마음을 쾌활하게 하는 환대가 작은 도움의 가치를 뜻밖에 구체화한다.",
+      "counterexampleNote": "H034에는 작은 행동도 친구의 마음을 잠시 밝힐 수 있다는 연결이 있다. 문장 끝의 수락을 현재 친구가 반드시 받아들인다는 예고로 확장하지 않는다.",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "떡을 조금 가져와 마음을 쾌활하게 하자는 말에서 내가 줄 수 있는 작은 도움도 건네볼 방향을 읽는다.",
+          "friction": "종과 방문객의 대화가 뒤에 길게 남는다. 핵심은 읽히지만 짧은 18:4보다 독해 부담은 크다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "9e1debca8e4de6ce089c46e5963d6fb27126f3d5ed0afd7d79ebba7d40adc742"
+    },
+    {
+      "id": "KRV:GEN:18:7",
+      "status": "hold",
+      "reason": "좋은 송아지를 급히 준비하는 행동은 정성스럽지만 작은 도움이라는 현재 부담과 거리가 있다.",
+      "counterexampleNote": "H034에는 물과 떡과 달리 짐승 떼·송아지·하인의 큰 환대가 나와 작은 일도 괜찮다는 실마리를 만들기 어렵다.",
+      "connections": [],
+      "textSha256": "70e34d084463af5ab39b567beb5bfcee5412ed42233d0219b342979c8d2dd114"
+    },
+    {
+      "id": "KRV:GEN:18:12",
+      "status": "hold",
+      "reason": "늙어서 낙이 있겠냐는 탄식은 누림의 말과 닮아도 의문으로 끝나며 노쇠한 부부의 조건이 크다.",
+      "counterexampleNote": "R005의 늦은 배움에는 나이 걱정은 맞지만 배우자는 늙었고 낙이 없겠다는 물음이 새 시도의 매듭을 주지는 않는다.",
+      "connections": [],
+      "textSha256": "cbfa74045bb10be323f3a0899a065947c9d5ee0a62ef2291cb4c3402d79a9e0e"
+    },
+    {
+      "id": "KRV:GEN:18:15",
+      "status": "hold",
+      "reason": "두려움 때문에 부인한 일을 바로잡지만 승인치라는 표현과 웃음의 진위가 실수 인정의 연결을 가린다.",
+      "counterexampleNote": "H048의 실수 지적에는 부인하지 말자는 단서가 가능하나 웃었는지를 두 번 따지는 말이 대부분이라 첫 결과의 충분함은 약하다.",
+      "connections": [],
+      "textSha256": "6b4857490fc80e7f7a1da56514a716824bebf2e0cb695672f0936fb70bdae2c5"
+    },
+    {
+      "id": "KRV:GEN:18:21",
+      "status": "candidate",
+      "reason": "들린 말과 실제가 같은지 직접 보고 알아보겠다는 전체 문장이 불확실한 소문 앞의 실마리다.",
+      "counterexampleNote": "H030·H037 모두 알 수 없는 상대 사정을 직접 확인할지의 갈림이 있다. 부르짖음의 원래 죄악과 심판을 친구나 동료가 잘못했다는 판정으로 덧붙이지 않는다.",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "들린 부르짖음과 같은지 그렇지 않은지 보고 알려 한다는 말에서 소문으로 멀어지기 전 직접 들을 방향을 읽는다.",
+          "friction": "소돔의 죄악을 확인하는 장면이다. 현재 친구가 소문의 잘못을 했는지는 미확인이다.",
+          "expectedEnough": "yes"
+        },
+        {
+          "scenarioId": "H037",
+          "clue": "같은지 그렇지 않은지 보고 알겠다는 말이 동료가 싫어한다고 혼자 확정하기보다 물어볼 실마리다.",
+          "friction": "사람 마음을 지금 알려주는 구절은 아니며 확인한 후의 답은 열려 있다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "7a6affd876cc09a60f574250ee317831ad468f9e3ec70fd06a15529b8954392d"
+    },
+    {
+      "id": "KRV:GEN:18:23",
+      "status": "hold",
+      "reason": "의인까지 함께 멸할지 묻는 말의 공정함은 읽히지만 현재 갈등들과 집단 처벌의 거리가 크다.",
+      "counterexampleNote": "H030의 소문을 확인할지에는 친구를 이미 악인이나 의인으로 놓기 전에 사실을 알아야 한다. 함께 멸한다는 물음은 확인의 실마리를 직접 주지 않는다.",
+      "connections": [],
+      "textSha256": "d3c06cb5999aae13752e2df5eec6a5ffc5c3eae1c3af8431ecb26774a05915ef"
+    },
+    {
+      "id": "KRV:GEN:18:25",
+      "status": "hold",
+      "reason": "의인과 악인을 함께 죽이지 말라는 공의의 긴 논증이 일상 선택의 부담을 흐린다.",
+      "counterexampleNote": "H030에는 악인으로 성급히 여기지 말라는 연상이 가능하지만 죽음·심판·균등히 대함까지 여러 문장을 설명해야 연결이 선명해진다.",
+      "connections": [],
+      "textSha256": "a471daec18516685d151f0103925b76b9ece98f0240a01c759e2c8bb84c39217"
+    },
+    {
+      "id": "KRV:GEN:18:27",
+      "status": "candidate",
+      "reason": "티끌 같은 자신도 감히 말한다는 짧은 문장에서 부족해 보일까 말 못 하는 마음을 짚는다.",
+      "counterexampleNote": "H051의 조언 요청에는 작다고 느껴도 말을 꺼내는 매듭이 있다. 선배를 하나님과 같은 권위로 놓거나 답변 수락을 보장하지 않는다.",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "티끌과 같은 나라도 감히 고한다는 말이 부족해 보일 걱정 때문에 삼킨 조언 요청을 꺼내볼 실마리다.",
+          "friction": "아브라함의 중보 기도다. 겸손한 요청의 연결이며 조언의 정확성·성공을 알려주는 것은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "448fd35ce2fee7927f1cfc60d7d1f3c38c43037d734b7fe38b0a42cf42353ab3"
+    },
+    {
+      "id": "KRV:GEN:19:1",
+      "status": "hold",
+      "reason": "천사를 맞아 절하는 미완결 도입이어서 환대의 방향보다 방문자와 장소 설명이 길다.",
+      "counterexampleNote": "H034에 먼저 일어나 맞는 친절은 닿지만 작은 도움도 의미 있는지의 망설임에 물·쉼 같은 구체적인 매듭은 이 절에 없다.",
+      "connections": [],
+      "textSha256": "dcc47a552c8c81d1d7de6760a0960089554bf4cde53773b5e3fe1a150d07bf23"
+    },
+    {
+      "id": "KRV:GEN:19:2",
+      "status": "hold",
+      "reason": "집에서 쉬라는 제안 뒤 거리에서 밤을 새겠다는 거절이 붙어 도움의 방향이 흐려진다.",
+      "counterexampleNote": "H034에 환대 제안은 맞지만 상대의 거절과 경야라는 옛말까지 읽으면 작은 도움을 줄지에 대한 후련한 실마리가 약해진다.",
+      "connections": [],
+      "textSha256": "e144e905c6ce454a5b08633f749817f4015589eb72499817e9960059dcea15db"
+    },
+    {
+      "id": "KRV:GEN:19:3",
+      "status": "hold",
+      "reason": "간청을 받아들이고 음식을 먹는 결과는 있으나 작은 도움의 부담을 덜 말보다 사건 진행이 중심이다.",
+      "counterexampleNote": "H034와 대조하면 손님 접대는 닿지만 이미 거절한 상대를 간청해 들어오게 하는 전개가 현재 친구의 상황에는 없다.",
+      "connections": [],
+      "textSha256": "6b39d27973d5414b2c440eb201faf864ec8e97e1167f387d1545d2804f34eea8"
+    },
+    {
+      "id": "KRV:GEN:19:7",
+      "status": "candidate",
+      "reason": "가까운 무리를 형제라 부르며 악을 멈추라고 말하는 짧은 문장이 방관의 망설임을 짚는다.",
+      "counterexampleNote": "A004의 싫어하는 친구를 계속 놀리는 상황에는 친한 사이에도 그만하자고 말할 단서가 된다. 다음 절의 딸을 내주려는 발화는 옳은 모범으로 취급하지 않는다.",
+      "connections": [
+        {
+          "scenarioId": "A004",
+          "clue": "내 형제들이라고 부르면서 이런 악을 하지 말라고 청하는 말이 분위기를 깨더라도 놀림을 멈추자고 말할 실마리다.",
+          "friction": "원래 방문자에게 성폭력을 가하려는 무리를 제지한 장면이다. 일상 놀림과 피해의 정도를 동일하게 판정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "17cb4eac195fa5794d358c4053ecb49941ea01add9ea6d8b14c55cce1a27f164"
+    },
+    {
+      "id": "KRV:GEN:19:10",
+      "status": "hold",
+      "reason": "위협 속 사람을 집으로 끌어들이는 미완결 장면이 작은 일상 도움과 규모·조건이 다르다.",
+      "counterexampleNote": "H034의 내가 해줄 일이 작다는 고민에는 손을 내미는 말은 닿지만 문을 닫으며 끝나 왜 그 도움이 충분한지 읽으려면 앞뒤를 더해야 한다.",
+      "connections": [],
+      "textSha256": "3253e8594563a3948f3db5afe7a6b61efac36d15d032ea0da959a8ceb33bb8bc"
+    },
+    {
+      "id": "KRV:GEN:19:14",
+      "status": "hold",
+      "reason": "성을 떠나라는 멸망 경고와 농담으로 여긴 반응이 대부분이라 일상 결정과 연결이 무겁다.",
+      "counterexampleNote": "H036의 부모와 진로 대화에 내 말을 진지하게 듣지 않을 걱정을 덧넣어야 닿는다. 실제 부모의 반응은 입력에 없다.",
+      "connections": [],
+      "textSha256": "fea7e636b79873c689905f39704dbb507df11c73256021be3b1d901ce351737c"
+    },
+    {
+      "id": "KRV:GEN:19:16",
+      "status": "hold",
+      "reason": "가족들의 손을 붙잡아 성 밖으로 옮기는 긴 구출 묘사는 도움의 단어보다 재난 배경을 요구한다.",
+      "counterexampleNote": "H033의 도움 요청에 손을 내밀어도 괜찮다는 연결은 가능하지만 요청을 꺼내는 부담보다 이미 주어진 구출과 인자가 중심이다.",
+      "connections": [],
+      "textSha256": "cde090578fe3a40c60902e49f03724693aaa26ee168d9b6e7d57c95ac5606f49"
+    },
+    {
+      "id": "KRV:GEN:19:17",
+      "status": "hold",
+      "reason": "돌아보지 말고 도망하라는 말은 명확하나 생명·멸망의 반복으로 현재 사례에 없는 재앙을 크게 부각한다.",
+      "counterexampleNote": "A008의 원치 않는 접촉을 피할지에는 거리를 둘 단서는 가능하다. 다만 산으로 도망해 생명을 보존하라는 대부분이 현재 확인된 조건보다 커서 충분함을 확정하기 어렵다.",
+      "connections": [],
+      "textSha256": "45a5a36245944c5b508269dd8cf78dbd90c06bc9e3f84b62276fb3dbf5472a5f"
+    },
+    {
+      "id": "KRV:GEN:19:19",
+      "status": "hold",
+      "reason": "산까지 도망할 수 없다는 죽음의 두려움과 은혜의 긴 청원이 피로를 말하는 일상 사례와 멀다.",
+      "counterexampleNote": "H015의 지쳐서 쉬고 싶은 마음에는 갈 수 없다는 말만 닿는다. 재앙을 만나 죽을 것이라는 대부분을 휴일 일정으로 바꿔야 한다.",
+      "connections": [],
+      "textSha256": "7187564deb3d168624e77543cc17acf22b8de0adc833512955d0e6f7518ace9c"
+    },
+    {
+      "id": "KRV:GEN:19:20",
+      "status": "hold",
+      "reason": "가까운 작은 성으로 피하게 해 달라는 청원은 대안의 크기보다 생명을 보전할 피난처가 중심이다.",
+      "counterexampleNote": "H015의 가까운 곳에서 쉬는 선택은 현재 입력에 없고 A001의 작은 공간 문제도 피난과 다르다. 새로운 대안을 추가해야 연결된다.",
+      "connections": [],
+      "textSha256": "42327db05194ad8726c52655124c5f64cb24eaeccab888f993605cb2a1a62e90"
+    },
+    {
+      "id": "KRV:GEN:19:26",
+      "status": "hold",
+      "reason": "뒤돌아 소금 기둥이 된 장면은 눈에 남지만 무엇을 놓고 앞으로 갈지의 단서는 상징 해석에 의존한다.",
+      "counterexampleNote": "A011의 지난 일을 되새김에는 뒤를 보지 말라는 비유가 가능하다. 그러나 그 결과가 소금 기둥이라는 이유는 절 밖의 대피 명령에 있어 첫 독해가 끊길 수 있다.",
+      "connections": [],
+      "textSha256": "a7c386e3c2e4a016bd8b16b585b61605d6607d505f9a2d8f027a8d58374370e0"
+    },
+    {
+      "id": "KRV:GEN:19:29",
+      "status": "hold",
+      "reason": "성의 멸망 속 한 사람을 내보낸 사건 설명은 개인의 도움이나 관계 선택과 거리가 크다.",
+      "counterexampleNote": "H034에 다른 사람을 생각해 구한다는 연상은 되지만 작은 도움을 건넬지의 양쪽 부담을 짚지 못하고 멸망·구출의 결과가 중심이다.",
+      "connections": [],
+      "textSha256": "1ba3e4ac2ca2d0f9ab3c4a8dc5f66ccfbc19deb0c915d7caa3a0cf8469307dbd"
+    },
+    {
+      "id": "KRV:GEN:20:4",
+      "status": "hold",
+      "reason": "여인에게 가까이하지 않은 일과 의로운 백성의 멸망을 함께 말해 사건의 배경을 풀어야 한다.",
+      "counterexampleNote": "H030에 무고함을 확인하자는 연결을 만들 수 있으나 소문 전 사실 확인의 단서가 이 절에 없고 혼인 관계를 몰랐던 사건을 더 알아야 한다.",
+      "connections": [],
+      "textSha256": "582b405a6404489e11024a16070c0b0d51249786a63f92cc284a0d72ffd25dc8"
+    },
+    {
+      "id": "KRV:GEN:20:5",
+      "status": "hold",
+      "reason": "누이·오라비라는 잘못 들은 관계와 깨끗한 손의 해명이 길어 현재 선택을 정리할 단서가 약하다.",
+      "counterexampleNote": "H037의 동료 마음을 직접 물을지에는 관계를 잘못 전해 들은 일과 온전한 동기가 모두 새 조건이다. 같은 오해라는 주제만으로 충분하지 않다.",
+      "connections": [],
+      "textSha256": "2e401a06ca90189db6504ccfd985860a34e6a35e5ccc44e205f2ef7b1224a734"
+    },
+    {
+      "id": "KRV:GEN:20:9",
+      "status": "hold",
+      "reason": "잘못을 따지는 말은 있으나 인물·국가·큰 죄를 둘러싼 긴 미완결 추궁이 앞선다.",
+      "counterexampleNote": "G11의 반복된 약속 위반을 이야기할지에는 합당치 않은 일이라는 끝만 닿고 나라가 큰 죄에 빠질 뻔한 대부분은 고민의 매듭을 흐린다.",
+      "connections": [],
+      "textSha256": "c22eefb74ba5738b98d77add79ea926e7312018042b3efbd1222914a17b03450"
+    },
+    {
+      "id": "KRV:GEN:20:10",
+      "status": "hold",
+      "reason": "무슨 생각으로 그랬냐는 질문은 명확하지만 갈림의 핵심을 특정하지 못한 일반 추궁에 머문다.",
+      "counterexampleNote": "H037의 동료에게 물어볼지에는 질문 자체는 맞지만 상대가 무엇을 했는지 확인된 사건이 입력에 없고 이렇게 했다는 전제가 새로 생긴다.",
+      "connections": [],
+      "textSha256": "936cf1ce2bf83ece4793f348c2d787066d2b82cc26e2ed484aafd2b8f93e76f8"
+    },
+    {
+      "id": "KRV:GEN:20:15",
+      "status": "candidate",
+      "reason": "앞에 놓인 땅에서 좋아 보이는 대로 거하라는 허용이 새 도시로 떠날지에 자연스러운 단서다.",
+      "counterexampleNote": "R003에는 이미 일할 기회와 그 도시에서 살고 싶은 마음이 있다. 왕의 땅 제공을 현재 집 제공·비용 해결로 설명하지 않아도 개인적 허용의 느낌은 읽힌다.",
+      "connections": [
+        {
+          "scenarioId": "R003",
+          "clue": "네 앞에 있는 땅에서 네 보기에 좋은 대로 거하라는 말이 낯선 곳에서도 원하던 생활을 택해볼 마음을 돕는다.",
+          "friction": "아비멜렉이 아브라함에게 거주를 허용하는 장면이다. 새 직장·주거 계약의 성공 예고는 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "8db344dae7e489314bce450e9e558d73cbe422e2e99f62b30700091bb242dc9b"
+    },
+    {
+      "id": "KRV:GEN:21:1",
+      "status": "hold",
+      "reason": "말씀대로 사라에게 행하셨다는 도입이므로 무엇을 받았는지와 선택의 매듭이 절 안에서 끝나지 않는다.",
+      "counterexampleNote": "H041에 신뢰의 위로는 가능해도 권고하셨다는 옛말과 미완결 문장이 구체적인 지원 망설임에 단서를 주기 어렵다.",
+      "connections": [],
+      "textSha256": "dcf38fea819a291c37e85a7fdd8d164f37dfd677f4d74adea108dfbdef47a0c6"
+    },
+    {
+      "id": "KRV:GEN:21:6",
+      "status": "candidate",
+      "reason": "웃게 된 사람과 함께 웃는 짧은 말이 남의 기쁨에 함께할지의 갈림을 자연스럽게 비춘다.",
+      "counterexampleNote": "H040에서 친구의 성공을 듣고 비교 때문에 거리를 둘지 축하할지에는 함께 웃을 방향이 있다. 현재 친구의 성공과 사라의 출산을 같은 사건으로 주장할 필요는 없다.",
+      "connections": [
+        {
+          "scenarioId": "H040",
+          "clue": "웃게 된 사람의 이야기를 듣는 자도 함께 웃으리라는 말이 비교보다 친구의 기쁨에 함께할 실마리다.",
+          "friction": "사라가 아들을 낳은 기쁨의 말이다. 비교의 마음이 즉시 사라진다고 예측하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "b5f410e5e38db04b2056b38204cb037cb7d964b24d91f8ec99f282cc30914a75"
+    },
+    {
+      "id": "KRV:GEN:21:11",
+      "status": "hold",
+      "reason": "아들을 두고 근심하는 감정만 있어 무엇을 받아들이거나 달리 볼지의 단서가 없다.",
+      "counterexampleNote": "R007의 우는 아이를 대하는 고민에는 자식을 위한 마음은 닿지만 근심이 되었다는 묘사만으로 위로와 지적의 갈림을 풀지 못한다.",
+      "connections": [],
+      "textSha256": "d1a4e208b4d0195129b112b8f04dfcbcd8e7355dfea92772497c2809f5da8fef"
+    },
+    {
+      "id": "KRV:GEN:21:17",
+      "status": "hold",
+      "reason": "아이의 소리를 들으셨다는 위로는 있으나 하갈을 부르는 긴 반복이 선택의 매듭을 흐린다.",
+      "counterexampleNote": "R007의 아이를 도울지에는 두려워 말라는 위로가 가능하다. 하지만 아이를 어떻게 대할지의 행동 이미지가 없고 하늘의 사자·하갈을 여러 번 거쳐 읽어야 한다.",
+      "connections": [],
+      "textSha256": "6c784aa5018bd9af090cb1cb8d3caaccb6f029636703e5ee6c515d0a3005acc9"
+    },
+    {
+      "id": "KRV:GEN:21:18",
+      "status": "candidate",
+      "reason": "아이를 일으켜 손으로 붙들라는 말이 아이의 실패 앞에서 먼저 곁을 지킬지에 바로 닿는다.",
+      "counterexampleNote": "R007에는 현재 우는 아이를 대할 두 방식이 명시돼 있어 손을 붙들어 일으키는 장면이 자연스럽다. 큰 민족의 약속을 대회 우승이나 진로 성공으로 확정해 주지 않는다.",
+      "connections": [
+        {
+          "scenarioId": "R007",
+          "clue": "아이를 일으켜 네 손으로 붙들라는 말에서 잘못을 가르치기 전에 곁에서 다시 일어나도록 도울 실마리를 읽는다.",
+          "friction": "원래는 광야의 이스마엘을 살리고 민족이 될 것을 약속하는 장면이다. 현재 아이의 성과가 보장되는 것은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "d70d46a9012b91761e3b52f83339cdbe2f24f1a51424fcb76e55db6e42363523"
+    },
+    {
+      "id": "KRV:GEN:21:19",
+      "status": "hold",
+      "reason": "샘물을 발견해 아이에게 마시는 사건은 도움과 닿지만 주변 자원을 보라는 매듭은 비유를 더해야 한다.",
+      "counterexampleNote": "H034의 작은 도움 고민에는 마실 것을 건네는 일은 닿아도 눈이 밝아져 샘을 발견했다는 대부분이 현재 도움의 크기와는 다르다.",
+      "connections": [],
+      "textSha256": "d4c393922b1803e99e856c184f0fd0313ed982640181e90061a03426304c1ec8"
+    },
+    {
+      "id": "KRV:GEN:21:22",
+      "status": "hold",
+      "reason": "무슨 일에나 함께하신다는 위로보다 왕과 군대 장관의 인물 소개가 길어 개인 갈림에 약하다.",
+      "counterexampleNote": "H041에 지원의 용기는 줄 수 있어도 두려움 자체를 짚지 않은 채 외부 인물의 평가가 나온다. 합격·업무 능력을 알려주는 절은 아니다.",
+      "connections": [],
+      "textSha256": "69a59f4423f3d9d55975a49118041db1748fda711dc9eb5e109ab1133ebbbf42"
+    },
+    {
+      "id": "KRV:GEN:21:23",
+      "status": "hold",
+      "reason": "거짓 없이 후대를 갚으라는 언약은 이해되지만 아들·손자·땅의 긴 조약 조건이 일상 대화를 가린다.",
+      "counterexampleNote": "A012의 도움받은 사람을 대접할지에는 후대한 대로 하라는 부분이 닿으나 세대의 맹세와 땅에 대한 대부분을 지나야 하므로 충분함이 약하다.",
+      "connections": [],
+      "textSha256": "4df2a1fbaf3c542785c8f76a516680eb742688bfddac3257b0f948f23cfa6386"
+    },
+    {
+      "id": "KRV:GEN:21:25",
+      "status": "hold",
+      "reason": "우물을 빼앗은 일을 책망하는 중간 장면이며 늑탈이라는 옛말과 인명이 핵심을 가린다.",
+      "counterexampleNote": "G11의 반복된 약속 위반에는 문제를 말하는 행동이 닿아도 재산 침해가 새 조건이고 책망 이후의 매듭은 절 밖에 있다.",
+      "connections": [],
+      "textSha256": "591de269e89c845831ec4199488cb1fcd90fc33645d5801fb11a36be5ed7d8b1"
+    },
+    {
+      "id": "KRV:GEN:21:26",
+      "status": "candidate",
+      "reason": "말해 주지 않아 오늘 처음 알았다는 대답이 마음속 서운함을 꺼낼지에 뜻밖의 실마리다.",
+      "counterexampleNote": "H026의 아직 말하지 않은 서운함에는 상대가 모를 수도 있다는 관점이 자연스럽다. 이미 여러 차례 말한 G11에는 같은 조건으로 쓰지 않는다.",
+      "connections": [
+        {
+          "scenarioId": "H026",
+          "clue": "네가 고하지 않았고 듣지 못하다 오늘 들었다는 말에서 속에만 두었던 서운함을 부드럽게 말해볼 방향을 읽는다.",
+          "friction": "아비멜렉의 종들이 우물을 침해한 사건이다. 내 친구도 정말 모르고 있었다는 사실 확인은 아니다.",
+          "expectedEnough": "yes"
+        },
+        {
+          "scenarioId": "G11",
+          "clue": "몰랐을 가능성을 생각하게 하는 말이다.",
+          "friction": "이미 알려도 반복된 위반이므로 말하지 않았다는 중심 전제가 맞지 않는다.",
+          "expectedEnough": "no"
+        }
+      ],
+      "textSha256": "e7fa9a793058478eb8a24e48ad08a6769528c6a782479fad847aef6be4266f6b"
+    },
+    {
+      "id": "KRV:GEN:21:27",
+      "status": "hold",
+      "reason": "가축을 주고 언약을 맺었다는 사건 결과가 중심이라 합의를 꺼낼 부담에 직접 닿지 않는다.",
+      "counterexampleNote": "G11에서 다시 약속할지에는 언약이라는 말은 닿아도 선물과 조약이라는 조건이 다르고 신뢰를 반복해서 잃었다는 부담은 짚지 못한다.",
+      "connections": [],
+      "textSha256": "7c2b246091ed187fb89a4bfdf4c6f09fd52bcd1281c67d96c76a25e3866868e3"
+    },
+    {
+      "id": "KRV:GEN:21:30",
+      "status": "hold",
+      "reason": "양 일곱을 우물 소유의 증거로 삼는 표징은 거래 조건의 설명 없이는 낯설다.",
+      "counterexampleNote": "A010의 초과 입금을 확인할지에는 돈을 정확히 하자는 연상은 가능하지만 소유를 입증할 필요는 입력에 없어 같은 거래라는 주제만 닿는다.",
+      "connections": [],
+      "textSha256": "d85afb546693497a549d5dbf824958f08d46bbaf361af6b59d6d015440819eee"
+    },
+    {
+      "id": "KRV:GEN:22:1",
+      "status": "hold",
+      "reason": "부름에 응답하는 도입은 있지만 시험의 내용과 선택의 매듭이 아직 나오지 않는다.",
+      "counterexampleNote": "H041의 새 일 지원에 내가 여기 있다는 대답을 연결할 수 있어도 하나님이 시험하려 부른 장면을 지원 기회로 여러 번 치환해야 한다.",
+      "connections": [],
+      "textSha256": "1549e56427dec43f1a0cc922d6af73e870243a0cec37cf5c3478356692514ee6"
+    },
+    {
+      "id": "KRV:GEN:22:5",
+      "status": "hold",
+      "reason": "나귀와 사환에게 기다리라 하고 아이와 경배하러 가는 긴 말이 돌아올 것이라는 한 부분을 흐린다.",
+      "counterexampleNote": "H010의 본가 방문에 갔다 돌아온다는 말은 닿아도 사환·나귀·경배의 대부분은 가족과 팝업의 부담을 비추지 않는다.",
+      "connections": [],
+      "textSha256": "547a0cdda771cba757e8e06206b8feaf0bd959a001931d818ff086425ab0d925"
+    },
+    {
+      "id": "KRV:GEN:22:8",
+      "status": "hold",
+      "reason": "친히 준비하시리라는 신뢰는 있으나 번제할 어린 양과 함께 나아가는 미완결 꼬리가 독해를 끊는다.",
+      "counterexampleNote": "G02에서 하나님이 필요한 것을 마련한다는 위로로 읽을 수 있어도 지출 부족보다 제물에 대한 답이 대부분이다. 약속이 있다는 이유만으로 제외하는 것이 아니라 전체 구절의 연결이 약하다.",
+      "connections": [],
+      "textSha256": "af0c0141793d3007c434e502a9d83a5a109cf05aad8ea95d6cb9871d29684568"
+    },
+    {
+      "id": "KRV:GEN:22:14",
+      "status": "hold",
+      "reason": "준비되리라는 말은 짧지만 땅의 이름과 여호와의 산의 뜻을 풀어야 현재의 매듭이 생긴다.",
+      "counterexampleNote": "G02나 H041에 준비될 것이라는 신뢰는 가능하지만 무엇이 준비되고 어떤 부담을 놓을지는 선택과 연결되지 않은 채 남는다.",
+      "connections": [],
+      "textSha256": "ead34e989e103036d91a849956286d4eede41f2954fc08cfd4e514585d4d18ac"
+    },
+    {
+      "id": "KRV:GEN:23:2",
+      "status": "hold",
+      "reason": "사라를 위해 슬퍼하는 미완결 장면으로 애통의 공감 외에 현재 선택의 실마리는 없다.",
+      "counterexampleNote": "A011의 지난 일을 되새길지에는 슬픔을 느끼는 마음은 닿아도 배우자의 죽음과 여러 지명이 중심이고 앞으로 어떻게 할지의 단서는 없다.",
+      "connections": [],
+      "textSha256": "271170af77e271c2c41d4842a8f91903518d90891525f3f14452bf29e3ecbbac"
+    },
+    {
+      "id": "KRV:GEN:23:6",
+      "status": "hold",
+      "reason": "좋은 묘실을 골라도 된다는 허용은 있으나 장례와 방백의 낯선 표현이 대부분이다.",
+      "counterexampleNote": "R006의 집 선택에는 좋은 것을 택하라는 부분이 닿아도 죽은 자를 장사할 묘실과 금할 사람이 없다는 조건은 현재 답사 고민에 맞지 않는다.",
+      "connections": [],
+      "textSha256": "a5e9fa307a34dcb7914bc6d5d0b3b80a810409aea354a863780dcaf7add3b20b"
+    },
+    {
+      "id": "KRV:GEN:23:9",
+      "status": "hold",
+      "reason": "매장 굴의 값을 지불하겠다는 옛 거래 문장이 길고 준가를 이해해야 뜻이 선명해진다.",
+      "counterexampleNote": "A003의 큰 선물에 공짜보다 값을 내겠다는 다른 길을 연상할 수 있으나 그 선택은 입력에 없고 매장지 취득이 부담을 가린다.",
+      "connections": [],
+      "textSha256": "cc25efcd21dc05aba3ff062f9ec80beabdc0c545535224d8c129890e286dc29a"
+    },
+    {
+      "id": "KRV:GEN:23:11",
+      "status": "hold",
+      "reason": "밭과 굴을 주겠다는 반복 뒤 죽은 자를 장사하라는 말이 있어 일상 선물의 연결이 끊긴다.",
+      "counterexampleNote": "A003에는 선물 제안이 닿지만 그 말을 따라 받아도 되는지의 부담은 풀리지 않는다. 장례라는 다른 이유가 절의 끝에 남는다.",
+      "connections": [],
+      "textSha256": "5c1acdb49f70abc8cbc708be75d974f02353f9ad7c17670420235dea27ec63ae"
+    },
+    {
+      "id": "KRV:GEN:23:13",
+      "status": "hold",
+      "reason": "밭값을 정당하게 지불하겠다는 뜻은 읽혀도 인명과 매장의 긴 문장이 현재 갈림을 흐린다.",
+      "counterexampleNote": "A003의 선물 수락·거절에 대가를 내는 길을 새로 제시해야 닿고 A006은 보수를 받을지의 반대 입장이다. 실제 입력의 두 부담과 충분히 맞지 않는다.",
+      "connections": [],
+      "textSha256": "a9ca2f2fe1c7ca6b2cf74fa01831c4967735ac3e2559389328300b1c6091b90f"
+    },
+    {
+      "id": "KRV:GEN:23:15",
+      "status": "hold",
+      "reason": "은 사백 세겔과 교계의 옛 표현에 장례 문장이 붙어 가격과 관계의 뜻을 해설해야 한다.",
+      "counterexampleNote": "A006의 친분 때문에 보수를 말하기 어려운 고민에 우리 사이에 계산하겠냐는 부분은 연상되지만 가격 협상의 말투를 알아야 하고 장례가 대부분을 흐린다.",
+      "connections": [],
+      "textSha256": "95a4dadbd23feb6aa5b80ba4c61d6382d76a83c971136a9049e5f39d47a2ce10"
+    },
+    {
+      "id": "KRV:GEN:23:16",
+      "status": "hold",
+      "reason": "약속한 값을 지불한 거래 장면이나 인명·통용 은의 옛 표현이 현재 가격 갈림을 가린다.",
+      "counterexampleNote": "H025의 가격을 낮출지에 말을 좇아 값을 냈다는 모습은 닿아도 깎아 달라는 현재 부담은 없다. 이미 합의된 가격을 지불하는 장면과 구별한다.",
+      "connections": [],
+      "textSha256": "fbee0c3fdeb1a4a857f0b599746b6bc64d39f87aec579fde509a2f82768ae4d2"
+    },
+    {
+      "id": "KRV:GEN:24:1",
+      "status": "candidate",
+      "reason": "나이 많아 늙었어도 범사에 복을 받은 짧은 문장이 나이 때문에 시도를 접을지에 위로의 매듭을 준다.",
+      "counterexampleNote": "R005의 늦었다는 망설임에는 나이와 복이 한 문장에 놓여 자연스럽다. 기타 실력의 향상이나 남은 생애를 예고하는 설명은 붙이지 않는다.",
+      "connections": [
+        {
+          "scenarioId": "R005",
+          "clue": "나이 많아 늙었어도 범사에 복을 받았다는 말이 늦은 나이만으로 배우고 싶은 마음을 접지 않을 실마리다.",
+          "friction": "아브라함의 생애를 돌아본 도입이다. 새로운 배움의 성취를 약속하는 본문은 아니며 개인적 위로의 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "4aef3ce33560f9ca73d9a08f4e842b8ca852663199ac3e423872860ce5a5d429"
+    },
+    {
+      "id": "KRV:GEN:24:5",
+      "status": "hold",
+      "reason": "여자의 거절 때 주인의 아들을 데리고 돌아갈지 묻는 복잡한 조건문이 선택의 답 없이 끝난다.",
+      "counterexampleNote": "A005의 동료 수락 여부를 물을지에는 거절 가능성은 닮았지만 아들과 다른 땅을 오가는 조건이 대부분이며 현재 계획의 매듭이 없다.",
+      "connections": [],
+      "textSha256": "80645b09e5dbfae9b9594571976f53ed9d42b940bf0a55e6568739f5c8a32c2f"
+    },
+    {
+      "id": "KRV:GEN:24:8",
+      "status": "hold",
+      "reason": "거절하면 맹세에서 풀린다는 조건 뒤 아들을 데려가지 말라는 별도 금지가 붙어 의미가 갈린다.",
+      "counterexampleNote": "H032의 고백 망설임에는 상대의 자유를 연상할 수 있어도 주인과 종의 의무·아들 귀환의 대부분이 고백과 다르다.",
+      "connections": [],
+      "textSha256": "1c6f3cc7cb9f69f79f70116f0209f4f517093ffc758c7781ec026a70e02a8825"
+    },
+    {
+      "id": "KRV:GEN:24:12",
+      "status": "hold",
+      "reason": "순적히 만나게 해달라는 주인의 종의 기도는 낯선 표현과 다른 사람을 위한 기도가 중심이다.",
+      "counterexampleNote": "H032에서 좋은 만남을 바라는 마음은 맞지만 고백할지에 대한 실마리보다 만남을 원한다는 바람만 남는다.",
+      "connections": [],
+      "textSha256": "637a27e16886de41f9904e678c1e723706eee92b3c912178294e1881f7eaebf2"
+    },
+    {
+      "id": "KRV:GEN:24:17",
+      "status": "candidate",
+      "reason": "물 항아리에서 조금 마시게 해 달라는 구체적이고 짧은 요청이 도움을 청할지에 자연스럽다.",
+      "counterexampleNote": "H033에는 무리한 전체 해결보다 작은 필요를 직접 말하는 연결이 있다. 요청을 들은 상대가 반드시 수락한다는 사실은 이 절에 없다.",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "청컨대 물을 조금 마시게 해달라는 말에서 혼자 버티기보다 필요한 도움을 작게 구체적으로 청할 실마리를 읽는다.",
+          "friction": "물을 가진 리브가를 향해 달려간 종의 말이다. 부탁의 수락이나 상대의 여력을 확정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "417175216aad75c620e683dcfba5d791336498629c91854ab93a7637a2a31a0a"
+    },
+    {
+      "id": "KRV:GEN:24:18",
+      "status": "candidate",
+      "reason": "손에 든 물을 내려 마시게 하는 작은 행동 자체가 작아도 도움을 줄지에 단서가 된다.",
+      "counterexampleNote": "H034에는 모든 문제를 해결하지 않아도 지금 가진 것을 건넬 이미지가 자연스럽다. 친구가 물을 원한다는 새로운 사실을 붙이는 것은 아니다.",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "마시소서 하며 자기 물 항아리를 내려 주는 모습이 내가 줄 수 있는 작은 것도 먼저 건넬 방향을 떠올리게 한다.",
+          "friction": "문장이 하고로 끝나지만 작은 제공 행동은 읽힌다. 친구의 전체 문제 해결은 보장되지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "d53ca1d0e454166f7acdc732fdb384f37ab8556efcaa195201e9a402ac2196e9"
+    },
+    {
+      "id": "KRV:GEN:24:19",
+      "status": "hold",
+      "reason": "약대까지 배불리 먹이겠다는 제안은 친절하나 작은 도움의 가치보다 더 많은 노동을 자청한다.",
+      "counterexampleNote": "H034에서 내가 해줄 수 있는 일이 작다는 부담을 덜기보다 모두 배불리 마시게 하려는 추가 부담이 눈에 띈다.",
+      "connections": [],
+      "textSha256": "9577e74adadbf5c0dd6e427e3fa0d85f1c41a3131ad42ac83d5d9b672b7ac779"
+    },
+    {
+      "id": "KRV:GEN:24:20",
+      "status": "hold",
+      "reason": "구유와 우물 사이를 달려 모든 약대에게 물을 긷는 일이 중심이라 작은 도움과 거리감이 있다.",
+      "counterexampleNote": "H034에 열심히 돕는 모습은 맞지만 작은 도움을 줘도 충분할지의 망설임에는 큰 노동의 묘사가 적절한 매듭을 주기 어렵다.",
+      "connections": [],
+      "textSha256": "e0c51ee1df2f6392afc0697f34b7f96b16a7dbdd62def3dde7bb483a1e6fe0fc"
+    },
+    {
+      "id": "KRV:GEN:24:21",
+      "status": "hold",
+      "reason": "묵묵히 주목하며 길의 평탄함을 확인하는 중간 장면으로 무엇을 기다리거나 살필지 모호하다.",
+      "counterexampleNote": "G12에서 상대를 더 살펴보자는 방향은 가능하지만 답장 지연과 혼인 상대의 표징 관찰을 연결하려면 배경을 더해야 한다.",
+      "connections": [],
+      "textSha256": "64bdfc45cbd3da7feee8341090d693b9a24ce9c412dc77ff291d312ec008c20d"
+    },
+    {
+      "id": "KRV:GEN:24:23",
+      "status": "hold",
+      "reason": "누구 딸인지와 부친 집 숙소를 함께 묻는 옛 관계 질문이 부탁이라는 핵심을 흐린다.",
+      "counterexampleNote": "H033의 도움 요청에 물어보는 태도는 닿지만 혈연 신원과 숙박이라는 조건을 통과해야 해 물을 조금 청하는 절보다 독해의 매듭이 약하다.",
+      "connections": [],
+      "textSha256": "ecc4154a7a9f0e2984d2b4a2cfb3f20f92cfcf89888bec65740b4f44cd084688"
+    },
+    {
+      "id": "KRV:GEN:24:25",
+      "status": "hold",
+      "reason": "짚과 보리와 숙소의 충분함은 남을 도울 여력의 설명이지 현재 부담을 풀 구체 단서가 약하다.",
+      "counterexampleNote": "H033의 부탁 망설임에 상대도 여력이 있을 수 있다는 관점은 가능하다. 다만 현재 상대의 상황이 없고 가축 사료와 숙박의 목록만으로 후련함을 예상하기 어렵다.",
+      "connections": [],
+      "textSha256": "304e14c243410101cc84e0a8b67f5bc23a54775953f68b4f536e9665ceea0efe"
+    },
+    {
+      "id": "KRV:GEN:24:27",
+      "status": "hold",
+      "reason": "주인의 동생 집까지 인도된 감사의 긴 말이 현재 선택지보다 주인과 친족 관계를 중심에 둔다.",
+      "counterexampleNote": "R003의 새 도시 기회에 인도받는 마음은 닿아도 주인·동생 집·인자와 성실의 대부분을 치환해야 한다. 길 인도라는 한 부분만으로 충분하지 않다.",
+      "connections": [],
+      "textSha256": "f29215b986ab63f31bdbaa9bcdd692745475b7f898697630a9849c45705df5cd"
+    },
+    {
+      "id": "KRV:GEN:24:31",
+      "status": "hold",
+      "reason": "안으로 들어오라는 환대는 선명하지만 준비한 방과 약대의 처소라는 긴 조건이 연결을 분산한다.",
+      "counterexampleNote": "H033의 도움 요청에는 밖에서 망설이지 말라는 연상이 가능하다. 다만 상대가 먼저 초대해 준비한 장면이라 내가 부탁할지의 핵심 부담과 다르다.",
+      "connections": [],
+      "textSha256": "115afc936f75c1cb2d9b29b26167b1c2c7d5a5033b3f39a2dedc32913ca6de34"
+    },
+    {
+      "id": "KRV:GEN:24:32",
+      "status": "hold",
+      "reason": "짐과 먹이와 발 씻을 물의 대상 목록으로 끝나 작은 환대의 메시지보다 접대 절차가 길다.",
+      "counterexampleNote": "H034에서 가진 도움을 건네는 연결은 가능하지만 약대 짐·짚·보리·종자의 대부분이 작아도 괜찮다는 실마리를 흐린다.",
+      "connections": [],
+      "textSha256": "f24df6e368716a2efb0be442ea188ff0ac45c1b5d511709587a57022f877d07a"
+    },
+    {
+      "id": "KRV:GEN:24:33",
+      "status": "candidate",
+      "reason": "먹기 전에 자기 일을 먼저 말하겠다는 순서가 즐거움과 남은 책임의 갈림에 뜻밖에 맞는다.",
+      "counterexampleNote": "G05와 H012는 오늘 남은 과제가 명시돼 있어 일부터 한다는 실마리가 생긴다. 일을 마친 뒤에도 공연·모임 시간이 남는다는 조건은 덧붙이지 않는다.",
+      "connections": [
+        {
+          "scenarioId": "G05",
+          "clue": "내 일을 진술하기 전에는 먹지 않겠다는 말에서 공연의 즐거움보다 남은 보고서 책임을 먼저 둘 실마리를 읽는다.",
+          "friction": "식물은 음식의 옛말이고 원래 결혼 임무의 말 전달이다. 보고서를 제시간에 다 끝낼 수 있다는 예고는 아니다.",
+          "expectedEnough": "yes"
+        },
+        {
+          "scenarioId": "H012",
+          "clue": "먹기 전 내 일을 먼저 말하겠다는 순서가 모임에 가기 전 오늘 남은 과제를 우선 둘 방향을 비춘다.",
+          "friction": "모임이 거의 끝날 수 있다는 아쉬움은 남아도 우선순위의 연결은 자연스럽다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "fc9107ab9d1a1a75b7172bd326fd85f7c4d206e9965be0bde3c378dd4f0bbb87"
+    },
+    {
+      "id": "KRV:GEN:24:39",
+      "status": "hold",
+      "reason": "상대가 따르지 않으면 어쩔지 묻고 답을 기다리는 미완결 인용이어서 선택의 실마리는 뒤에 있다.",
+      "counterexampleNote": "A005의 수락 여부를 다시 물을지에는 거절을 염두에 둔 태도는 닿지만 지금 상대에게 묻는 것과 주인에게 조건을 묻는 것은 다르다.",
+      "connections": [],
+      "textSha256": "6ba192370c1e798b1d8744d255968bd753c6f33f1da6f1f2b7a974f7ce727822"
+    },
+    {
+      "id": "KRV:GEN:24:41",
+      "status": "hold",
+      "reason": "친족이 주지 않으면 맹세에서 풀린다는 조건을 반복하는 회상이라 낯선 의무 설명이 길다.",
+      "counterexampleNote": "H032의 고백에서는 상대가 거절할 수 있다는 연결을 얻을 수 있어도 맹세·친족·주지 않는다는 표현을 풀어야 하고 하고로 인용이 이어진다.",
+      "connections": [],
+      "textSha256": "ad7bc42f8c272ddcc73f568efd40a9ff74285a3dce297239bf4b0fc8250f5f09"
+    },
+    {
+      "id": "KRV:GEN:24:45",
+      "status": "hold",
+      "reason": "물을 청하는 마지막 말보다 묵도와 리브가가 우물에서 물을 긷는 회상 도입이 길다.",
+      "counterexampleNote": "H033에는 도움을 요청하는 행동은 맞지만 원하는 도움을 작게 표현하는 단서가 없고 긴 등장 장면 뒤 부탁이 따라 독해 부담이 크다.",
+      "connections": [],
+      "textSha256": "ba595a8b04b07a51dbd3e3dbb13b3551ec28f4f673ab061ab1e9faf62556a6de"
+    },
+    {
+      "id": "KRV:GEN:24:46",
+      "status": "hold",
+      "reason": "사람과 약대를 모두 먹인 긴 응답 회상이라 작은 제공보다 추가 노동의 전개가 중심이다.",
+      "counterexampleNote": "H034에는 작은 도움도 줄지라는 갈림이 있지만 이 절은 부탁 이상 모든 약대까지 돕는 큰 행동이라 같은 충분함을 부여하지 않는다.",
+      "connections": [],
+      "textSha256": "e2d4d31c289bcc4150c715900f5d74a1abad0e724f810a82a847f6c9cd505801"
+    },
+    {
+      "id": "KRV:GEN:24:49",
+      "status": "candidate",
+      "reason": "그렇지 않아도 알려 달라 그래야 움직이겠다는 말이 불확실한 동료의 답을 물을지에 맞는다.",
+      "counterexampleNote": "A005에는 거절이어도 내 계획을 세울 수 있다는 조건이 명시돼 있어 좌우간 행한다는 뜻과 닿는다. 상대가 친절하거나 수락할 거라는 판정은 없다.",
+      "connections": [
+        {
+          "scenarioId": "A005",
+          "clue": "고하시고 그렇지 않아도 고하여 좌우간 행하게 해달라는 말이 수락·거절을 확인해 다음 계획을 세울 방향을 읽게 한다.",
+          "friction": "주인의 혼인을 가족에게 묻는 말이며 인자와 진실·고하라의 옛 표현이 있다. 긍정 답변을 예고하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "bab96e4bf37f7b2266d69efde1154731ca3c63a4111f043fa08916949653aaf7"
+    },
+    {
+      "id": "KRV:GEN:24:54",
+      "status": "hold",
+      "reason": "먹고 자고 아침에 돌아갈 허락을 청하는 사건 진행이므로 떠날지의 망설임을 구체적으로 짚지 못한다.",
+      "counterexampleNote": "H010의 본가 방문에는 유숙이라는 말이 닿지만 이미 다녀와 다음날 돌아가는 장면이고 가족과 팝업 중 선택의 부담은 없다.",
+      "connections": [],
+      "textSha256": "07c50c3061736cd409f75003d8945db130c1376b7a4b14d638f3825bfd8e7d16"
+    },
+    {
+      "id": "KRV:GEN:24:56",
+      "status": "hold",
+      "reason": "만류하지 말라는 요청은 읽히나 형통한 혼인 임무를 마쳐 주인에게 돌아가는 조건이 대부분이다.",
+      "counterexampleNote": "R003의 부모를 떠나는 일에는 붙잡지 말라는 개인적 읽기가 가능하다. 하지만 새 도시로 가는 것과 주인에게 복귀하는 것은 반대 동선이고 결심의 이유가 크게 다르다.",
+      "connections": [],
+      "textSha256": "3c34cbf5e11b81bf1ba60f7c0de8112513477926ad8a55b03db2363b84847ad3"
+    },
+    {
+      "id": "KRV:GEN:24:57",
+      "status": "hold",
+      "reason": "소녀에게 물어보겠다는 짧은 도입은 의사 존중을 보이나 무엇을 묻는지와 대답이 절 밖에 있다.",
+      "counterexampleNote": "H036의 부모와 진로 고민에는 본인 의사를 묻는 태도는 닿아도 내가 말할지에 실마리를 주려면 다음 절의 질문까지 붙여야 한다.",
+      "connections": [],
+      "textSha256": "636e8afbb1aa0905b78782b1a54b71c3785548161dc3b8f2baa2b76ee444f3f7"
+    },
+    {
+      "id": "KRV:GEN:24:58",
+      "status": "candidate",
+      "reason": "이 사람과 함께 가겠느냐는 질문에 자신의 의사로 가겠다고 답하는 짧은 장면이 관계 시작의 갈림과 닿는다.",
+      "counterexampleNote": "R001에는 마음이 맞는 상대와 함께할 관계가 명시돼 있다. 원래 혼인 여정의 동의를 현재 상대가 내린 뜻이나 결혼의 직접 명령으로 설명하지 않는다.",
+      "connections": [
+        {
+          "scenarioId": "R001",
+          "clue": "이 사람과 함께 가려느냐 가겠다는 질문과 응답에서 혼자만의 편함보다 함께할 관계를 선택해볼 방향을 읽는다.",
+          "friction": "리브가의 실제 혼인 여행에 대한 동의다. 현재 관계의 결과나 상대의 의사는 알려주지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "c2b66feeb9426f50955e32189c8d3ba65a86c630e38c0cc95ffd8ecad163d4d0"
+    }
+  ]
+}

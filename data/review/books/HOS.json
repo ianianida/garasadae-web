@@ -1,0 +1,1863 @@
+{
+  "bookCode": "HOS",
+  "corpusSha256": "f8d5c8b377e243b05fb884b4a6965d2c06a95de74b64a716ee4b95989d61e971",
+  "criteriaVersion": "garasadae-corpus-2026-10-08-v1",
+  "reviewer": "Codex review_ezk_rev",
+  "method": "direct-codex-reading",
+  "entries": [
+    {
+      "id": "KRV:HOS:1:1",
+      "textSha256": "5168d57ce764f40a69f84f2c4145a604905e0e4cc07f4744bd59e9e5f6b20c74",
+      "status": "exclude",
+      "reason": "왕들의 재위와 호세아의 부친을 소개하여 선택 부담을 건드리는 본문은 없다.",
+      "contextNote": "호세아 예언의 시대를 밝히는 표제다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:1:2",
+      "textSha256": "4ea53c5506c2c621f9e2137304f69a783d3ea621d16d663b90c5016634bb4994",
+      "status": "exclude",
+      "reason": "음란한 아내와 자식을 취하라는 특정 예언자의 상징 행동을 일상 관계 결정으로 옮기면 위험하다.",
+      "contextNote": "이스라엘의 하나님 이탈을 호세아의 혼인으로 드러낸다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:1:3",
+      "textSha256": "9ce6f9ee8e63774ca5121eb1d4d8b1a2a709c84cad98d11e7cc1ba1f57e0b430",
+      "status": "exclude",
+      "reason": "고멜과 혼인하고 아들을 낳았다는 사실만 있어 혼인의 이유와 선택 기준이 이 절에는 없다.",
+      "contextNote": "앞의 상징 행동 명령을 수행하고 자녀의 이름 예언으로 이어진다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:1:4",
+      "textSha256": "24a983bcd742185ad5518e2c6d0d1470b9397d32329be1bf0e8da30a4e95d53e",
+      "status": "exclude",
+      "reason": "이스르엘 이름에 예후의 피와 왕조 몰락을 연결하여 역사 설명 없이 생활 고민의 실마리가 되기 어렵다.",
+      "contextNote": "첫 자녀의 이름으로 이스라엘 왕국의 심판을 선언한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:1:5",
+      "textSha256": "b23d734627408c4c78c97c3a5a8093deca866f6a35a8ecf164ac27503c4cfb1a",
+      "status": "exclude",
+      "reason": "이스르엘 골짜기에서 활을 꺾는 전쟁 예고를 개인의 경쟁이나 계획 실패로 바꿀 근거가 없다.",
+      "contextNote": "앞 절의 왕국 심판이 군사적 패배로 구체화된다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:1:6",
+      "textSha256": "ffe7db55f95b8301d18c76e5f31391e00d43b0946d9127af5f36eceac2b39a11",
+      "status": "exclude",
+      "reason": "로루하마 이름과 다시는 긍휼히 여기지 않겠다는 국가 심판은 지친 개인의 도움 요청에 단절로 들릴 수 있다.",
+      "contextNote": "둘째 자녀의 이름이 이스라엘에 대한 긍휼 철회를 상징한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:1:7",
+      "textSha256": "1af9df1b9a1efa484888967078ca11c52d97e5cbce06da11f9f3104ec174f2d7",
+      "status": "hold",
+      "reason": "무기와 말에 의존하지 않는 구원의 대비는 힘의 과시를 돌아보게 하지만 유다의 구원을 개인 성공 약속으로 읽기 쉽다.",
+      "contextNote": "이스라엘 심판과 달리 유다에 긍휼을 선언한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:1:8",
+      "textSha256": "5106709521f6481e46f6c0dd5745ae61c66a620f81ba6400b1ed46e407076afd",
+      "status": "exclude",
+      "reason": "젖을 뗀 뒤 또 아들을 낳은 가족 사건에는 독립된 선택 실마리가 없다.",
+      "contextNote": "셋째 자녀 로암미의 명명을 준비한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:1:9",
+      "textSha256": "2e0cf0cf24ba50911add67831cdf8fa14e894b885f4030d58d6b1b886e77ec3a",
+      "status": "exclude",
+      "reason": "로암미라는 이름과 하나님 관계 부인은 용어 풀이가 필요하고 사람의 소속 불안을 확정할 수 없다.",
+      "contextNote": "셋째 자녀의 이름으로 언약 관계의 단절을 표현한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:1:10",
+      "textSha256": "cc362b9e6a4ee2c364cd08385fb5078b007626bf1fa64fcfa6fe8e03e5b57d83",
+      "status": "hold",
+      "reason": "버림받았던 자들이 하나님의 자녀라 불리는 반전은 소속 상처를 건드리지만 구체 갈등 선택보다 회복 위로에 머문다.",
+      "contextNote": "심판 이름 뒤에 이스라엘 수와 정체성의 회복을 약속한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:1:11",
+      "textSha256": "8e1ce4d4e4c20f0cbc2466eb956e4f84f0ff88d231abb1b2a78cc3863e34bd2c",
+      "status": "exclude",
+      "reason": "유다와 이스라엘의 공동 지도자와 이스르엘의 날은 정치적 회복 예언으로 개인의 두 선택에 직접 연결되지 않는다.",
+      "contextNote": "분열된 백성의 다시 모임으로 첫 장의 반전을 마친다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:2:1",
+      "textSha256": "46572bb73b0088b03dd6f00cc675aa627a16daa047415a6eac7f7c4aee7a6df7",
+      "status": "exclude",
+      "reason": "암미와 루하마를 부르라는 문장은 번역되지 않은 이름을 알아야 관계 회복 뜻을 읽을 수 있다.",
+      "contextNote": "앞 장의 부정적 이름이 긍정적 호칭으로 바뀐다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:2:2",
+      "textSha256": "d638c1b26e6ecf62caecf1b43f02f8b0e59ad8347670119f916db2679a76c18a",
+      "status": "exclude",
+      "reason": "어머니를 아내로 인정하지 않고 음란을 제거하라는 명령을 실제 가족 갈등에 적용하면 본문 없는 유죄 판정이 된다.",
+      "contextNote": "이스라엘의 불신실을 혼인 파기로 비유한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:2:3",
+      "textSha256": "a218253db702cf2cf4d0f7bc66f589534f89316fde0b9684261ad50191359904",
+      "status": "exclude",
+      "reason": "벌거벗기고 목말라 죽게 하는 위협은 일상 선택의 망설임에 과도한 처벌을 얹는다.",
+      "contextNote": "어머니로 상징된 이스라엘에게 심판을 경고한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:2:4",
+      "textSha256": "bc036c7a61e4d80914d13981a924014041f6769ec0efa4cc4b2b6c1ffc589f4f",
+      "status": "exclude",
+      "reason": "음란한 자식이라는 이유로 긍휼을 거두는 말은 독립된 자녀의 책임 고민을 해소하지 못한다.",
+      "contextNote": "민족의 불신실에 대한 심판을 자녀 비유까지 확장한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:2:5",
+      "textSha256": "42287788f0fb7617c407f848cdad86d4c781b38ef9d5c85a0d82ff7477f5ece8",
+      "status": "hold",
+      "reason": "먹을 것과 옷을 준다고 믿은 연인을 따르는 모습은 관계의 동기를 살피게 하지만 고민 상대를 부정한 연인으로 가정할 수 없다.",
+      "contextNote": "이스라엘이 생활 자원의 출처를 우상에게 돌리는 잘못을 드러낸다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:2:6",
+      "textSha256": "f3cb31d4fa1e61f996e37f2ada581fee5606f41c63abae5c1cb8ff4f54d92678",
+      "status": "hold",
+      "reason": "가시와 담으로 막힌 길은 계획 변경의 이미지가 되지만 막힘을 신의 방해로 확정해야 하는 연결은 불충분하다.",
+      "contextNote": "연인을 따라가지 못하게 하는 심판이 돌아옴의 계기가 된다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:2:7",
+      "textSha256": "1c1a6b950934fd646988f76ec5fbe4a7972ecb9db5a9b887d99de470a4f61fcf",
+      "status": "hold",
+      "reason": "처음 남편에게 돌아가겠다는 생각은 지난 관계를 돌아보게 하지만 이전이 더 좋았다는 조건을 입력 없이 만들 수 없다.",
+      "contextNote": "연인을 찾지 못한 아내의 귀환 결심을 서술한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:2:8",
+      "textSha256": "f30505a4c611f5884b8e30a2366d23ffc0dc22130880d9abdb2918cf8fd048fa",
+      "status": "hold",
+      "reason": "곡식과 재물의 출처를 모르고 바알에 쓴 대목은 감사와 소비 동기를 건드리지만 평범한 구매를 우상 숭배로 묶을 위험이 있다.",
+      "contextNote": "생활 자원을 주신 하나님을 잊은 이스라엘의 배신을 밝힌다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:2:9",
+      "textSha256": "c2b5e27f033711a9eeb75af588c0443f07c47d139ec8f4cb6d3a4fb9e1d7c259",
+      "status": "exclude",
+      "reason": "양식과 의복을 도로 빼앗아 벌거벗김을 드러내는 보복은 구매 여력 판단이나 절제의 기준을 주지 않는다.",
+      "contextNote": "은혜의 자원을 철회하는 심판을 선언한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:2:10",
+      "textSha256": "9e4d69a04adde7a3fb568a5bda80c955fcc1845b06ebc136a7fca1cff8bf96d8",
+      "status": "exclude",
+      "reason": "연인 앞에 수치를 드러내고 아무도 건지지 못하게 하는 장면은 개인의 관계에 없는 공개 처벌을 덧붙인다.",
+      "contextNote": "우상에게 의존한 이스라엘의 무력함을 보여 준다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:2:11",
+      "textSha256": "6ead1783946979e3f4e9f6361b436cb79f7e98d0b57458dc06551353f956df5b",
+      "status": "exclude",
+      "reason": "절기와 안식일의 기쁨을 폐하는 심판을 주말 휴식이나 행사 취소에 연결할 이유가 없다.",
+      "contextNote": "종교 행사마저 중단되는 민족의 심판이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:2:12",
+      "textSha256": "fde32d1babe203d6bc536aa51cdfa165ae3cee696572e77064632eca3c3aecb5",
+      "status": "exclude",
+      "reason": "연인이 준 품삯이라 여긴 포도원과 무화과를 짐승이 먹는 황폐 예고는 일반 소유 정리에 실마리를 주지 않는다.",
+      "contextNote": "잘못된 자원 인식에 대한 상실을 구체화한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:2:13",
+      "textSha256": "7596a9de119219d287c7fd2e2aaaf014d186af6b4da0a5ae832b9066a0208922",
+      "status": "exclude",
+      "reason": "귀고리와 장식 후 바알을 따른 날의 형벌은 의복 구매의 죄책감과 구별되어야 한다.",
+      "contextNote": "치장은 우상 숭배 상황의 일부이며 일상 꾸밈 자체가 쟁점은 아니다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:2:14",
+      "textSha256": "a39211f5cbf6c69b2e0f343d63fd0154846f528189776499f6003c6ec784bf27",
+      "status": "hold",
+      "reason": "광야에서 말로 위로하는 모습은 상처 뒤 재출발에 여지를 주지만 목적어와 이후 회복 없이는 선택이 선명하지 않다.",
+      "contextNote": "심판에서 개유와 회복으로 서술 방향이 바뀐다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:2:15",
+      "textSha256": "cac886d3a190b6b417d6fbba531816c23d418b88f9544b047185cf8757bd778c",
+      "status": "hold",
+      "reason": "아골 골짜기가 소망의 문이 되는 반전은 막힘을 새 길로 볼 여지가 있으나 지명과 출애굽 연결을 설명해야 한다.",
+      "contextNote": "광야에서 포도원과 응답의 회복을 약속한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:2:16",
+      "textSha256": "6e2cdc5226baef0b9199125e9bee3e85e658ecfe0a7636686181fd8aa86d8923",
+      "status": "exclude",
+      "reason": "남편과 바알 호칭의 차이는 원어와 우상 맥락이 있어야 이해되며 실제 배우자의 호칭 선택에 적용할 본문이 아니다.",
+      "contextNote": "회복된 이스라엘의 하나님 호칭이 바뀐다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:2:17",
+      "textSha256": "d3be2a51393e14d47ffb7aac54057a121664d8ae0dc4d37ac835ac64f41efa47",
+      "status": "exclude",
+      "reason": "바알 이름을 입에서 없애는 우상 단절은 일반 습관이나 관계를 끊을 판단 근거로 쓰기 어렵다.",
+      "contextNote": "앞 절의 새 호칭과 함께 우상 숭배 종결을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:2:18",
+      "textSha256": "b3e1789ea7fb3ddf2b36ee53c68e8123a22145ddee92d570d6ccd48f756fff8b",
+      "status": "hold",
+      "reason": "전쟁을 없애고 평안히 눕게 하는 약속은 쉼의 이미지는 선명하지만 현재 일정이나 안전을 보장하지 않는다.",
+      "contextNote": "회복된 땅과 짐승까지 포함한 평화의 언약이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:2:19",
+      "textSha256": "f421dc7dfc4c97276a008cc501f1cda526ebd990af24349226f2080394dda547",
+      "status": "hold",
+      "reason": "공의와 은혜와 긍휼로 영원히 장가든다는 표현은 관계의 바탕을 돌아보게 하나 특정 선택보다 언약 선언이다.",
+      "contextNote": "하나님과 이스라엘의 관계를 새 혼인으로 묘사한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:2:20",
+      "textSha256": "dba48cea7602df81da0919a10e57fb5ade09fb679e8e23550f1a7dc2f318bf85",
+      "status": "hold",
+      "reason": "진실함으로 맺는 관계는 신뢰 고민을 건드리지만 하나님을 알게 된다는 결말을 사람의 마음 확인으로 옮길 수 없다.",
+      "contextNote": "새 혼인 언약의 결과가 하나님을 아는 관계다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:2:21",
+      "textSha256": "ee2a4dc0d8fb0a67f0bff18ebd520ff94edcfcea1314ee07f717faada689e81f",
+      "status": "exclude",
+      "reason": "하늘이 땅에 응한다는 연쇄는 다음 절의 농산물 응답까지 있어야 뜻이 성립한다.",
+      "contextNote": "회복의 풍요를 하늘과 땅의 응답으로 시작한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:2:22",
+      "textSha256": "b650a39ae18c63a8ef09d6d73d03885c18afeb8446b067cb0f28c14262b03976",
+      "status": "exclude",
+      "reason": "곡식과 포도주와 기름이 이스르엘에 응하는 문장은 이름의 뜻과 앞 절의 연쇄 풀이를 요구한다.",
+      "contextNote": "하늘부터 이스르엘까지 이어지는 풍요 응답의 중간이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:2:23",
+      "textSha256": "4737cce8de7085b10a330426d86a9c91e822b688e7429239600740d061462da7",
+      "status": "hold",
+      "reason": "긍휼과 소속이 회복되는 말은 거절감에 위로가 되지만 생활 선택의 양쪽 부담에는 구체 기준이 부족하다.",
+      "contextNote": "심판의 이름들이 긍휼과 언약 관계로 다시 바뀐다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:3:1",
+      "textSha256": "bc437213c51db680604d6a083c91c8348e8615521442206d7ac7c1c00bcf7114",
+      "status": "hold",
+      "reason": "다른 이를 따른 여인을 다시 사랑하라는 구체 명령은 사랑의 어려움을 보여도 반복 침해 관계를 무조건 유지하라는 결과가 되면 부적합하다.",
+      "contextNote": "호세아의 행동으로 이스라엘을 사랑하는 하나님을 상징한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H029",
+          "clue": "상처가 있어도 사랑이라는 문제가 남는 모습을 읽을 수 있다.",
+          "friction": "이미 반복 침해가 있는 고민에서 예언자의 특정 명령을 관계 유지 지시로 받아들이게 할 위험이 크다.",
+          "expectedEnough": "no"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HOS:3:2",
+      "textSha256": "ea76f1856979f1cbe9b19d6dd1fc7467f366f1c94a7b2e2019c04b51c3dd7c16",
+      "status": "exclude",
+      "reason": "은과 보리로 여인을 사는 거래는 고대 혼인과 구속 맥락의 풀이가 필요하며 현대 관계 선택의 기준이 아니다.",
+      "contextNote": "앞의 사랑 명령을 실행하는 비용을 기록한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:3:3",
+      "textSha256": "cfc3a493fa71f6cf0ef00811b28628c2c1ab36fbb658b55956b3e1ef486e2531",
+      "status": "hold",
+      "reason": "서로 다른 관계로 가지 않고 머무르는 약속은 관계 재정비를 생각하게 하지만 당사자 자유와 상황을 별도로 알아야 한다.",
+      "contextNote": "호세아가 데려온 여인에게 일정 기간의 관계 조건을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:3:4",
+      "textSha256": "a3b6a8affc0b627a773633d90d600e763f97049340aeb6b8c0ac2c12f65bb4b9",
+      "status": "exclude",
+      "reason": "왕과 군대와 제사와 에봇과 드라빔 없이 지내는 기간은 국가와 종교 제도의 상실을 알아야 읽힌다.",
+      "contextNote": "여인의 머무름을 이스라엘의 오랜 공백과 연결한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:3:5",
+      "textSha256": "a4972d08bd2b11eeca92616aed93de87cd1c49566ceea0068b763c895e3c0e8b",
+      "status": "hold",
+      "reason": "돌아와 하나님을 찾는 회복은 방황 뒤 중심을 찾는 여지가 있지만 다윗 왕과 마지막 날은 역사·예언 풀이를 요구한다.",
+      "contextNote": "공백 뒤 이스라엘의 귀환과 경외를 예고한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:4:1",
+      "textSha256": "77fa2d402c1cb27ab5b5d4515d44ce4e85598e1780f4a346a047309ad09728a8",
+      "status": "hold",
+      "reason": "진실과 인애가 없다는 진단은 관계의 바탕을 성찰하게 하나 여호와의 쟁변을 개인에게 유죄 선언으로 주기 어렵다.",
+      "contextNote": "민족의 죄를 열거하기 전 기준의 부재를 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:4:2",
+      "textSha256": "7703b04bace2744966c2f2c0dd48ae792290fe7c7e05209ce1269731a1417bd4",
+      "status": "exclude",
+      "reason": "사위와 투절 같은 옛말과 피를 잇는 폭력 열거는 설명이 필요하고 평범한 갈등의 강도와 맞지 않는다.",
+      "contextNote": "진실과 인애 부재가 구체 범죄로 드러난다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:4:3",
+      "textSha256": "b0a4e7663a3ac5a65d8747c1f58ac1a9ff4decc73a6fb6b28125280d5e7674b6",
+      "status": "exclude",
+      "reason": "사람과 짐승과 새와 물고기까지 쇠잔하는 땅의 심판은 개인의 지침이나 휴식을 직접 다루지 않는다.",
+      "contextNote": "앞의 범죄가 전체 땅의 황폐로 이어진다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:4:4",
+      "textSha256": "df150e43f1357790ea0e942e1462ee5c6c1983bbb979c75d07f6bb3db7ae62c7",
+      "status": "hold",
+      "reason": "다투지도 책망하지도 말라는 표면은 첫 대화를 막는 듯하지만 제사장과 다투는 백성이라는 이유를 풀어야 판단할 수 있다.",
+      "contextNote": "백성과 제사장의 책임을 함께 고발하는 문맥이다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H026",
+          "clue": "즉시 다툼으로 나아가기 전에 대화의 성격을 생각할 여지는 있다.",
+          "friction": "고발을 진행하는 본문이므로 불편을 조용히 말하는 일을 금지하는 결론으로 쓰면 맞지 않는다.",
+          "expectedEnough": "no"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HOS:4:5",
+      "textSha256": "cb038aaa333fae4c8dd39974de20ad00cdfb06f4a7cd9903eec80474492be0cd",
+      "status": "exclude",
+      "reason": "낮의 백성과 밤의 선지자가 넘어지고 어머니가 멸해지는 심판은 개인의 과로 예측과 구별해야 한다.",
+      "contextNote": "백성과 지도자 모두가 넘어지는 민족 심판이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:4:6",
+      "textSha256": "e4456ad11e260239c70b7f0881b88cd64d1aaa6bc8aa48c6329f320212e2e175",
+      "status": "hold",
+      "reason": "지식이 없어 망한다는 앞부분은 확인의 필요와 연결되나 제사장 직분 거절과 자녀 망각까지 읽으면 물건 비교 고민에는 과도하다.",
+      "contextNote": "제사장이 율법 지식을 버린 책임을 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H003",
+          "clue": "확인하지 않은 상태를 그대로 두는 문제를 떠올릴 수 있다.",
+          "friction": "뒷부분의 제사장 배제와 자녀 망각을 생략해야 자연스러워져 전체 절로는 충분하지 않다.",
+          "expectedEnough": "no"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HOS:4:7",
+      "textSha256": "3bcddd8c0cc4a6276acb4c31efe7cdb0c5fe9e1250078144c2cfb1ca85e17ffc",
+      "status": "hold",
+      "reason": "번성할수록 더 죄를 짓는 역설은 성과와 책임을 점검하게 하나 번영 자체를 죄나 수치로 단정할 수 없다.",
+      "contextNote": "제사장과 백성의 번성이 죄로 사용된 결과를 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:4:8",
+      "textSha256": "090c4dd56e8615af049bc6c777a753d52fff44677587c0ae516d9eba4adb9547",
+      "status": "hold",
+      "reason": "백성의 죄를 먹고 죄에 마음을 두는 제사장은 타인의 실패에서 이익을 얻는 동기를 건드리지만 제물 관행을 알아야 온전히 이해된다.",
+      "contextNote": "지도자가 백성의 죄를 막지 않고 이용하는 문제다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:4:9",
+      "textSha256": "e527f4903c1051980ba25b67a7af738c39f4dfb55f721db03936989878781c2d",
+      "status": "exclude",
+      "reason": "백성과 제사장 모두 행위대로 벌한다는 심판만으로는 실제 책임을 나눌 생활 조건이 드러나지 않는다.",
+      "contextNote": "지도자도 백성과 같은 책임을 피하지 못한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:4:10",
+      "textSha256": "046996db81b6c6fbb39629acd32ccce1f6a273b4881808875b0ade0701e0fe36",
+      "status": "exclude",
+      "reason": "먹어도 배부르지 않고 음행해도 수가 늘지 않는 형벌을 구매 만족이나 출산 결과의 판단으로 바꾸면 맞지 않는다.",
+      "contextNote": "하나님을 떠난 삶의 결핍을 심판 결과로 표현한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:4:11",
+      "textSha256": "7234c7938e511f0b9bb5f0c4e0d02e2b6a84c73cc42656c0c3e9b1ce81f28648",
+      "status": "hold",
+      "reason": "음행과 술이 마음을 빼앗는 경고는 실제 도취의 선택이라면 실마리가 있으나 현재 사례의 일반 피로·소비로 확장하면 비약이다.",
+      "contextNote": "술과 우상 숭배가 판단을 흐리는 상황을 말한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:4:12",
+      "textSha256": "355d164e13b6ce3c28e0bb84076bb5673d69e90bf77beca8a9992c8656bc3a8c",
+      "status": "exclude",
+      "reason": "나무와 막대기에 묻는 행위를 음란한 마음과 연결하여 점술과 우상 관행 풀이 없이는 독립적으로 어렵다.",
+      "contextNote": "하나님 대신 우상에게 답을 구하는 이스라엘을 고발한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:4:13",
+      "textSha256": "9c98579b36e89b119f2452c46d4f81464aa918e00ca34a6d64efbbcdbe369851",
+      "status": "exclude",
+      "reason": "좋은 그늘 아래 제사와 자녀의 음행을 연결하는 맥락은 실제 가족 행동이나 나무 아래 쉼의 고민과 관계가 없다.",
+      "contextNote": "산과 나무의 우상 제사에서 민족의 불신실을 드러낸다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:4:14",
+      "textSha256": "d07f306e2a260d56fc77fac0598b1bbb9a58093e1e38ad78794a00ba0a634794",
+      "status": "hold",
+      "reason": "딸만 벌하지 않고 남성의 같은 잘못을 지적하는 대목은 이중 잣대를 돌아보게 하지만 끝의 패망 선언까지 부담이 크다.",
+      "contextNote": "남성도 같은 음행에 참여한 책임을 분명히 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:4:15",
+      "textSha256": "cd28ed7fecf98ac7265223d6131e41a8715e83db03c06871c9f6c7f970cd2cf4",
+      "status": "exclude",
+      "reason": "길갈과 벧아웬에 가지 말고 특정 맹세를 하지 말라는 경고는 제의 장소를 알아야 의미가 선다.",
+      "contextNote": "이스라엘의 우상 숭배를 유다까지 따르지 말라는 경고다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:4:16",
+      "textSha256": "21da2361e6c2246b6624359b415fb00a033dd1294e64f58db75eff8a42608bc9",
+      "status": "hold",
+      "reason": "완강한 암소와 넓은 땅의 어린양 대비는 고집을 돌아보는 이미지이나 하나님의 목양을 받지 않는 민족이라는 판단이 전제다.",
+      "contextNote": "이스라엘의 완강함과 보호의 어려움을 비유한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:4:17",
+      "textSha256": "b2d9cb613ad5ea95ea62a37bc75f628c99ef4ced6f4acbe468823270e2961ccb",
+      "status": "hold",
+      "reason": "우상과 연합한 에브라임을 그대로 두라는 말은 경계의 이미지가 있지만 반복 침해 상대를 우상과 같은 존재로 확정할 수 없다.",
+      "contextNote": "회개하지 않는 이스라엘을 내버려 두는 경고다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:4:18",
+      "textSha256": "1f1473cdabcaff1d8a64f62be9991cb13a9a3b783df2a008936d2b2cb27d494b",
+      "status": "exclude",
+      "reason": "술과 음행을 좋아하는 방백들의 수치 추구는 지도자 집단의 타락 진단이며 개인의 평범한 놀이를 평가할 본문이 아니다.",
+      "contextNote": "에브라임의 종교·지도층 타락을 요약한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:4:19",
+      "textSha256": "73782602f3ef9c19628fc7a6be21f5c0a1fbe572e89e6337fabfcac67c6ea48c",
+      "status": "exclude",
+      "reason": "바람 날개에 싸여 제물로 수치를 당한다는 표현은 비유와 제사 맥락을 알아야 이해된다.",
+      "contextNote": "우상 제사의 수치스러운 종말을 그린다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:5:1",
+      "textSha256": "3c0a265f1e263410f629a1f6581f904a45a006c1555a2d10f665bf20efa509d3",
+      "status": "exclude",
+      "reason": "미스바의 올무와 다볼의 그물로 지도자를 비유하여 장소와 제의 역할의 설명을 요구한다.",
+      "contextNote": "제사장과 왕가를 포획하는 지도자로 심판한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:5:2",
+      "textSha256": "c82eb3f5164aef6185e2cb0f460fbefa29e9fc9d8f6ed0202c93cdbde6ddd4b3",
+      "status": "exclude",
+      "reason": "살육에 깊이 빠진 패역자를 벌하는 고발은 생성 고민의 실제 망설임과 강도가 크게 다르다.",
+      "contextNote": "앞의 올무 비유를 심각한 범죄와 징벌로 이어 간다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:5:3",
+      "textSha256": "fd528c9c693d1e5d9eb9a6187664b02ea485e50f13c4d7b1c87663e3575c099d",
+      "status": "hold",
+      "reason": "숨길 수 없다는 말은 정직을 성찰하게 하지만 에브라임의 음행을 알고 있다는 민족 고발을 개인에 그대로 붙이기 어렵다.",
+      "contextNote": "하나님이 이스라엘의 타락을 알고 있음을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:5:4",
+      "textSha256": "0fab8184c9e856f3d652137f346d0211a134e6389adf5253962a61bf55d012ad",
+      "status": "hold",
+      "reason": "행위가 돌아옴을 막는다는 구조는 습관과 변화의 관계를 살피게 하나 음란한 마음이라는 원인 판단을 입력 없이 줄 수 없다.",
+      "contextNote": "지속하는 악행과 하나님을 모름이 귀환의 장애가 된다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:5:5",
+      "textSha256": "8538b07f61b6ed71e651e18f086534f3fbc814a446f8d2c86dd8b618435748f6",
+      "status": "hold",
+      "reason": "교만이 스스로 증거가 되어 함께 넘어지는 모습은 비판 수용을 생각하게 하나 유다까지 포함한 죄의 고발이 개인 반성보다 크다.",
+      "contextNote": "이스라엘과 유다의 교만과 공동 실패를 선언한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:5:6",
+      "textSha256": "300976ad652009e8c3c3e8247959db27f3ef42d09c718ca28034068521a6e3a6",
+      "status": "exclude",
+      "reason": "양과 소를 가지고 찾아도 이미 떠난 하나님을 못 만난다는 말은 도움을 청할 상대의 거절을 예측하게 할 위험이 있다.",
+      "contextNote": "제물만으로 피할 수 없는 심판 상황이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:5:7",
+      "textSha256": "5129ac843c44b732ab1bf94a6483964bcc8f8a76431064bcadb0b9f8bb9d3c22",
+      "status": "exclude",
+      "reason": "사생자와 새달의 삼킴은 우상 숭배와 절기 심판의 풀이가 필요하며 가계 지출의 기준을 주지 않는다.",
+      "contextNote": "불신실의 결과로 기업이 사라질 것을 경고한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:5:8",
+      "textSha256": "5815946632c2b705a85d624249c22998d03a2e91c23c5d10aa53a4ca4cd38188",
+      "status": "exclude",
+      "reason": "기브아와 라마와 벧아웬의 나팔 및 베냐민의 추격은 전쟁 지형을 알아야 뜻이 연결된다.",
+      "contextNote": "전쟁의 경보로 심판의 임박함을 알린다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:5:9",
+      "textSha256": "b9cbd94d2aa91e62f6712ad45ecbcd56b28a0b00a8fc65196f466d6add32c846",
+      "status": "exclude",
+      "reason": "견책의 날에 에브라임이 황무지가 된다는 확정 예언은 개인의 선택 결과를 보장할 근거가 없다.",
+      "contextNote": "앞의 경보가 실제 민족의 황폐로 이어질 것을 밝힌다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:5:10",
+      "textSha256": "505ac5e406fa23a4e967ec6ef3229beb422d013668ab855e98772e1fb1790a61",
+      "status": "hold",
+      "reason": "지계표를 옮기는 지도자는 남의 경계를 침범하는 이득을 돌아보게 하지만 물 같은 진노가 일상 소유 확인에 과도하게 얹힌다.",
+      "contextNote": "유다 지도자의 경계 침해를 심판 이유로 지적한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C007",
+          "clue": "내 편의를 위해 타인의 소유 경계를 옮기는 문제를 떠올릴 수 있다.",
+          "friction": "지도자의 악행과 쏟아지는 진노가 본문에 있으며 가족에게 허락을 묻는 선택만으로 이를 동일시하기 어렵다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HOS:5:11",
+      "textSha256": "f2515b107287d059c92a468eb9aa782bf6edf70691eeb2f6adac2bca432847c7",
+      "status": "hold",
+      "reason": "사람의 명령을 따라 압제받는 모습은 분위기에 따른 선택을 돌아보게 하지만 입력의 요구가 악인지와 실제 압제 여부를 따져야 한다.",
+      "contextNote": "에브라임이 잘못된 명령을 자원해 따른 책임을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:5:12",
+      "textSha256": "f9a4ba7e6ef05f0981cd0d3c7f13f9a66f516da54054fdfc7525e31a5eaad90f",
+      "status": "exclude",
+      "reason": "하나님이 좀과 썩임 같다는 비유는 점진적 민족 심판의 해석이 필요하고 평범한 고민에는 불안만 더한다.",
+      "contextNote": "에브라임과 유다를 약하게 하는 심판을 그린다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:5:13",
+      "textSha256": "01961dcac034a18a5e3a18f1b3ba1cf7996fac416f757ec73a69503ee5550a9a",
+      "status": "hold",
+      "reason": "상처를 안고 강대국에 갔지만 고침을 못 받는 장면은 도움의 한계를 생각하게 하나 치료 중단의 근거로 쓰면 부적합하다.",
+      "contextNote": "병과 상처는 앗수르에 의존한 두 나라의 상태를 비유한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:5:14",
+      "textSha256": "dcee4dded3c1b6e1d099afe18436dd1a954219979bd8fd76017adb8fc8f45450",
+      "status": "exclude",
+      "reason": "사자처럼 찢고 끌어가 아무도 못 건진다는 선언은 개인 선택의 판단 실마리보다 재앙을 암시한다.",
+      "contextNote": "하나님의 심판을 외교적 도움으로 피할 수 없음을 말한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:5:15",
+      "textSha256": "6d11e114628ee9578119f56ae8447bc845ed809e77626d8b1156eb90605a350f",
+      "status": "exclude",
+      "reason": "죄를 뉘우치고 얼굴을 구할 때까지 기다린다는 말씀은 다음 장의 응답이 있어야 흐름이 완성된다.",
+      "contextNote": "고난 속 회개와 귀환을 기다리며 하나님의 물러남을 표현한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:6:1",
+      "textSha256": "004cfed5c349dc54d482deb5f6251297b5fd6042bf24e3ef411b510a61730fac",
+      "status": "hold",
+      "reason": "찢으신 분에게 돌아가 치료를 기대하는 제안은 재출발의 위로가 있지만 현재 질병과 상처의 회복을 약속할 수 없다.",
+      "contextNote": "백성의 돌아가자는 말이 시작되고 이후 사랑의 지속성이 문제 된다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:6:2",
+      "textSha256": "e5edac10fdd997362d81213d7d949152eecd683b6898222443068b3213a1d333",
+      "status": "exclude",
+      "reason": "이틀과 삼일 후 살리신다는 숫자는 진료 결과나 기한 고민에 입력 없는 회복 시점을 만들게 한다.",
+      "contextNote": "돌아옴을 말하는 백성이 빠른 회복을 기대한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:6:3",
+      "textSha256": "28a8fa71c4efb2a07a0f39db60b34f35f02f2c0da9aeb521618daf87635a5086",
+      "status": "hold",
+      "reason": "힘써 하나님을 알자는 요청은 겉돌던 기준을 찾을 여지가 있으나 비처럼 확실한 임재는 현재 선택의 결과를 보장하지 않는다.",
+      "contextNote": "백성의 귀환 언어 뒤에 곧 사라지는 인애를 책망한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:6:4",
+      "textSha256": "fe55b5e51ea6bf575ea4c94e11ea270abec7939a30f0f33ee708d39c2e9f17f4",
+      "status": "hold",
+      "reason": "아침 구름과 이슬처럼 사라지는 인애는 다짐의 지속성을 돌아보게 하지만 이미 변화 중인 사람에게 실패를 예측해선 안 된다.",
+      "contextNote": "앞의 귀환 선언에 비해 실제 사랑이 오래가지 않음을 지적한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:6:5",
+      "textSha256": "613126f966ab879e6b9c33b3cb87a785e957fa11fea2733c0954202ab70c4c3f",
+      "status": "exclude",
+      "reason": "선지자의 말로 쳐 죽이고 심판을 빛처럼 내는 표현은 충고 수용 고민에 과도한 폭력과 죄 판단을 더한다.",
+      "contextNote": "지속하지 않는 인애에 예언을 통한 심판을 선언한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:6:6",
+      "textSha256": "3ed0ae9795c9e5aeeafbbd31c0f6b7e4d2eba31b80297b0a0f92b371bcd89f73",
+      "status": "candidate",
+      "reason": "인애와 앎을 제사와 번제보다 먼저 보는 대비가 선물의 크기보다 관계의 마음을 살필 실마리가 된다.",
+      "contextNote": "이스라엘이 제의를 갖춰도 신실한 사랑은 지속하지 않는 문제를 짚는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H007",
+          "clue": "의례를 크게 갖추는 일보다 인애가 먼저라는 문장에서 비싼 선물만으로 마음을 증명하려던 부담을 다시 볼 수 있다.",
+          "friction": "본문은 하나님을 아는 관계와 제사에 관한 말이다. 선물 가격이나 상대의 만족을 정하지 않으며 비싼 선물 자체를 금하지 않는다.",
+          "expectedEnough": "yes"
+        },
+        {
+          "scenarioId": "C005",
+          "clue": "눈에 보이는 행사를 갖추는 것보다 사람을 향한 인애가 무엇인지 스스로 생각할 수 있다.",
+          "friction": "공동체 운영 지표를 직접 말하지 않고 제사와 하나님을 아는 일을 대비한다. 행사와 돌봄의 구체 배분은 결정해 주지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HOS:6:7",
+      "textSha256": "070625455e184df8c70666d3375cbe84cb87fdca0c0032b3a58ae27155dfdca0",
+      "status": "hold",
+      "reason": "언약을 어기고 신의를 저버린 모습은 기존 약속을 생각하게 하지만 아담과의 비교가 구체 거래 약속까지 바로 풀어 주지는 않는다.",
+      "contextNote": "인애를 원하는 뜻과 반대로 이스라엘이 언약을 깨뜨린다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:6:8",
+      "textSha256": "d166d0988aaf52f11f075fa801eb730c93c78e444c94db30eaf29468366c56a7",
+      "status": "exclude",
+      "reason": "길르앗이 악행과 피의 발자취로 가득한 성읍이라는 고발은 입력에 없는 폭력을 상정한다.",
+      "contextNote": "언약 위반이 나타난 구체 도시의 죄를 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:6:9",
+      "textSha256": "d6e7476f22aed35b6bb53d9255b9060e308caf336ddecb0a9e46eb8a41f8964d",
+      "status": "exclude",
+      "reason": "세겜 길의 살인 제사장 무리는 지도자의 강도 행위라는 역사적 고발이며 생활 선택의 대안 기준이 없다.",
+      "contextNote": "거룩한 직분의 사람까지 폭력을 행했음을 드러낸다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:6:10",
+      "textSha256": "4a3445cb70e4ec5ad4e8fcc12ea7821c1ecb4391d743e5b1cf6af17bd0a624e2",
+      "status": "exclude",
+      "reason": "이스라엘의 가증함과 에브라임의 음행이 더럽힌다는 민족 판정만 있어 구체 선택의 실마리는 부족하다.",
+      "contextNote": "앞의 지역별 범죄를 민족 전체의 불신실로 묶는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:6:11",
+      "textSha256": "9da34c4e28fa2804e27b52ca65ac70f8d1ccf98bf8e71656724adef618bff58e",
+      "status": "exclude",
+      "reason": "유다의 추수와 백성의 사로잡힘을 돌이킴은 예언 시점과 이어지는 문맥을 풀어야 하며 판매 기회를 뜻하지 않는다.",
+      "contextNote": "이스라엘뿐 아니라 유다에도 정해진 일을 예고한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:7:1",
+      "textSha256": "6cc83d600a45083ae5e465dcc8672391e2c18653a0e4334ff90b2c7c59d3b23b",
+      "status": "hold",
+      "reason": "고치려 할 때 드러난 내부 사기와 외부 약탈은 개선 과정의 문제 발견을 떠올리게 하나 실제 주변인의 악을 새로 가정해서는 안 된다.",
+      "contextNote": "회복하려는 때에도 이스라엘의 죄가 노출된다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:7:2",
+      "textSha256": "9d7b8b7bae13a4a77be02c62b0b7e26c105d8b18e75b5d8eb15c5c78bf82d18a",
+      "status": "hold",
+      "reason": "행위가 자신을 둘러싼다는 말은 감추고 싶은 사실을 돌아보게 하지만 하나님이 기억하는 악이라는 고발로 평범한 실수를 압도할 수 있다.",
+      "contextNote": "죄가 보이지 않는다고 생각하는 백성의 오해를 지적한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:7:3",
+      "textSha256": "82f38217eed69f7adabca1c68c0abe3fd8abb81da2d3dc6baef8e4cb8d7d5a3c",
+      "status": "candidate",
+      "reason": "거짓말로 윗사람을 기쁘게 하는 장면은 성과 숫자를 부풀려 분위기를 맞추려는 유혹과 직접 대조된다.",
+      "contextNote": "왕과 방백이 백성의 악과 거짓을 기뻐하는 타락을 고발한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "거짓말로 방백을 기쁘게 하는 모습에서 좋은 평가를 위해 사실을 바꾸는 선택을 스스로 비춰 볼 수 있다.",
+          "friction": "본문은 왕과 백성의 타락을 고발한다. 직장 전체나 동료를 같은 악인으로 정하지 않으며 사실을 지킬 때 평가가 좋아진다고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        },
+        {
+          "scenarioId": "H052",
+          "clue": "좋은 평가를 받으려고 사실을 조금 바꾸는 일이 거짓말로 지도자를 기쁘게 하는 모습과 겹칠 수 있다.",
+          "friction": "자기 경험의 성찰로 읽을 수 있을 뿐 상사의 실제 의도나 거절 후 결과는 본문으로 확정할 수 없다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HOS:7:4",
+      "textSha256": "cef6d8d3bde594aa678abfd32bc58add605edfc7e6453f9ccef69d121d54e9b2",
+      "status": "exclude",
+      "reason": "반죽과 발효 동안 쉬는 화덕에 음행을 비유하여 준비와 기다림의 생활 조언으로 읽기에는 이미지의 뜻을 풀어야 한다.",
+      "contextNote": "백성의 욕망과 반역을 달아오른 화덕으로 묘사한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:7:5",
+      "textSha256": "33c838cc81d348afba452ee227acc7b2e21cffb384bf6a9bbc7f43c5625ee7ec",
+      "status": "exclude",
+      "reason": "왕의 날에 술로 병들고 오만한 자와 손을 잡는 상황은 행사를 즐길지 쉬어야 할지의 평범한 고민과 다르다.",
+      "contextNote": "왕과 방백들의 향락 및 잘못된 결탁을 보여 준다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:7:6",
+      "textSha256": "fcebf5f9d7592ef4d8e22dff7c4c0e71c2e4f39ba68bda3738bf9d299206f1a9",
+      "status": "exclude",
+      "reason": "엎드려 기다리는 마음과 밤의 빵 굽는 자를 잇는 화덕 비유는 음모를 알아야 읽히며 기다림 자체의 기준이 아니다.",
+      "contextNote": "밤부터 아침까지 커지는 반역의 열기를 그린다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:7:7",
+      "textSha256": "a966a165190a9b7ac753ed72bd6836b125042da94d14434e41682165f309fe48",
+      "status": "exclude",
+      "reason": "왕과 재판장을 삼키는 화덕과 하나님을 부르지 않는 백성은 권력 붕괴의 고발이며 선택 결과의 기준이 없다.",
+      "contextNote": "앞의 열기가 왕조 몰락으로 이어짐을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:7:8",
+      "textSha256": "66a15f8376b737673325b8a7f931a8c31fae76ce8e5eadb653c1d77da36873e9",
+      "status": "hold",
+      "reason": "뒤집지 않은 전병은 불균형한 상태를 떠올리게 하나 음식의 뜻과 나라가 섞인 앞부분을 풀어야 완성도 고민과 구별할 수 있다.",
+      "contextNote": "다른 민족과 섞인 에브라임의 어리석은 상태를 비유한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:7:9",
+      "textSha256": "579777dc6d3ef8ce13227afbcf3fbac48747144bd93d5e5d7e1d9359bdc33b4f",
+      "status": "hold",
+      "reason": "기력이 줄고 백발이 생겨도 모르는 모습은 여력 점검에 실마리가 있으나 외부인이 힘을 삼켰다는 원인을 임의로 붙일 수 없다.",
+      "contextNote": "외세 의존으로 약해진 에브라임이 자기 상태를 모르고 있다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H044",
+          "clue": "내 힘이 줄었는데 스스로 모르고 있는지 돌아볼 수 있다.",
+          "friction": "원문은 외인이 힘을 삼킨 민족의 이야기다. 요청한 사람이 착취한다고 단정할 수 없고 가능 업무량도 계산하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HOS:7:10",
+      "textSha256": "6355f4c1d48510ed8af19a79532eb50f49bafafd985e022d1dea137f8ce28490",
+      "status": "hold",
+      "reason": "눈앞에 교만의 증거가 있어도 돌아오지 않는 모습은 충고 뒤 행동을 돌아보게 하지만 하나님께 귀환하는 맥락과 개인 수정은 구별해야 한다.",
+      "contextNote": "국가의 쇠퇴에도 하나님을 찾지 않는 태도를 고발한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:7:11",
+      "textSha256": "b70c1ce40cecc83ebe4e416ce78e3fa4ad499ca62bc516fb272cee049c7404d1",
+      "status": "exclude",
+      "reason": "애굽을 부르고 앗수르로 가는 비둘기는 국제 외교의 어리석음을 말해 상반된 조언 중 선택으로 바로 바꾸기 어렵다.",
+      "contextNote": "에브라임이 두 강대국 사이를 오가는 의존을 비유한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:7:12",
+      "textSha256": "3e35c816761c1fb77f0c0839bcf78b7479be9c9673e29eed760512ce47bba837",
+      "status": "exclude",
+      "reason": "그물을 던져 새처럼 떨어뜨리는 징계 예고는 도전하거나 기다리는 선택에 없는 실패를 덧붙인다.",
+      "contextNote": "앞의 비둘기 비유에 대한 하나님의 심판을 선언한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:7:13",
+      "textSha256": "67fdf4d81968deb4224a7b125c286457f65a00a9a3e347d9a7f912db8a17d5fa",
+      "status": "exclude",
+      "reason": "떠난 자에게 화와 패망을 선언하고 구속하려 해도 거짓말한다고 하는 고발은 평범한 망설임에 죄를 확정한다.",
+      "contextNote": "구원 의도에 맞서는 이스라엘의 불신실을 책망한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:7:14",
+      "textSha256": "1db81acffa6dc5314fa1fc9763c22de172850502e09e88365c566c5209af8f4f",
+      "status": "hold",
+      "reason": "침상에서 울지만 진심으로 부르지 않고 곡식을 위해 모이는 모습은 동기를 성찰하게 하나 현실 생계 걱정을 반역으로 읽어선 안 된다.",
+      "contextNote": "필요만을 위해 종교 행동을 하는 백성의 마음을 지적한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:7:15",
+      "textSha256": "91f5f17c1c8e3e392298f490a42686d75b04136e30845e9f764cf05503e0cdd3",
+      "status": "hold",
+      "reason": "팔을 강하게 한 이에게 악을 꾀하는 배은은 받은 도움을 생각하게 하지만 입력 상대가 무엇을 줬는지 모르므로 관계 행동을 정하기 어렵다.",
+      "contextNote": "하나님의 훈련과 도움에 대한 백성의 반역을 대조한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:7:16",
+      "textSha256": "d1d25a7eb742b60f9694f004fb1dde3f67230afa2b48cb5dcbb99018118df5b3",
+      "status": "exclude",
+      "reason": "속이는 활과 방백의 죽음 및 애굽의 조롱이 이어져 방향을 바꾸라는 일반 조언으로 읽으려면 뒷부분을 버려야 한다.",
+      "contextNote": "귀환이 제대로 된 하나님 귀환이 아니었음을 지적하며 심판을 예고한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:8:1",
+      "textSha256": "302df0ad365c3d3235b3b3a90c137e44a543477beaa4c2eab633593783cf5db3",
+      "status": "exclude",
+      "reason": "언약을 범한 집에 독수리 같은 대적이 덮친다는 경보는 현재 마감과 위험의 실제 조건을 보여 주지 않는다.",
+      "contextNote": "8장은 외침과 종교 행위로 심판을 피할 수 없는 이유를 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:8:2",
+      "textSha256": "5ff81c567991f594829c87362227a075ad0b29842b2b804b697d71de8f8ea099",
+      "status": "hold",
+      "reason": "하나님을 안다는 외침은 말과 행동의 간격을 돌아보게 하나 이 절만으로는 그 말의 진실 여부가 드러나지 않는다.",
+      "contextNote": "뒤의 선을 버린 행동과 이스라엘의 신앙 주장이 대비된다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:8:3",
+      "textSha256": "905f877ddcc650dbd1fa9e34792ca671e5bf36746257a3202085b49caa86af2d",
+      "status": "exclude",
+      "reason": "선을 버린 이스라엘을 대적이 따른다는 예고를 개인 선택의 실패로 옮기면 없는 결과를 확정한다.",
+      "contextNote": "앞 절의 안다는 주장과 실제 행동을 대조한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:8:4",
+      "textSha256": "12e2d524ba6d21e5e69059b378b1b08779129524c6a329c9bc138de04216d74c",
+      "status": "hold",
+      "reason": "스스로 세운 지도자와 재물로 만든 우상은 자기 확신을 성찰하게 하지만 현대 선택을 하나님이 모르는 일로 판정할 수 없다.",
+      "contextNote": "왕권과 우상에 대한 이스라엘의 자의적 행위를 고발한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:8:5",
+      "textSha256": "7aa6d01f02acb62051f60b205e8f4735c6be5feea602caab410814ec7754166f",
+      "status": "exclude",
+      "reason": "사마리아 송아지의 버림과 불붙는 노는 우상의 위치와 뜻을 알아야 읽히며 구매 물건의 폐기 기준이 아니다.",
+      "contextNote": "우상 숭배의 죄를 송아지상으로 구체화한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:8:6",
+      "textSha256": "b37d6007b59bacc8d312cbb9a6906193e7cd4d9670a771693d35760393506ebb",
+      "status": "hold",
+      "reason": "사람이 만든 것을 참 신으로 착각하지 않는 구분은 판단 의존을 돌아보게 하나 뒤의 파괴 예고를 일반 소유에 적용할 수 없다.",
+      "contextNote": "사마리아 우상의 제작과 무력함을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:8:7",
+      "textSha256": "d2fe5bacff2356a5e8c150456b95221597b66ec477ed37184385d4fdcecfaf96",
+      "status": "hold",
+      "reason": "바람을 심어 광풍을 거두는 이미지는 시작의 결과를 생각하게 하지만 이삭도 못 맺고 외인이 삼키는 결말을 실패 예측으로 주기 어렵다.",
+      "contextNote": "이스라엘의 행위가 헛된 수고와 침략을 초래함을 말한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:8:8",
+      "textSha256": "bb7a890913787a86d5731b6834dac1ab662853bcfb6f310f8d09253331f079ac",
+      "status": "hold",
+      "reason": "기뻐하지 않는 그릇 같은 처지는 소외감을 비추지만 열국에 삼켜진 상태를 모호한 친구 반응에 붙이면 배척을 확정한다.",
+      "contextNote": "침략으로 이스라엘의 지위가 낮아진 상태를 그린다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:8:9",
+      "textSha256": "6dd37f98d0235149aac2276f1434f9e93c4f69d3cb71bac6602c42254b11556f",
+      "status": "exclude",
+      "reason": "들나귀 같은 앗수르행과 돈 주고 연인을 얻음은 외교 비유의 풀이가 필요하며 일반 도움 요청에 맞지 않는다.",
+      "contextNote": "에브라임의 강대국 의존을 비판한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:8:10",
+      "textSha256": "a07ba3eb5cfc37fb593e44d9db72ddbe50abc37ecc183caf157c854a0c55e0f8",
+      "status": "exclude",
+      "reason": "방백들의 임금이 준 짐으로 쇠함은 조공과 외교 부담을 알아야 이해되며 입력 없는 착취를 가정한다.",
+      "contextNote": "돈으로 얻은 동맹도 국가의 부담을 막지 못한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:8:11",
+      "textSha256": "3cfa5814398c5fc0be2874225e12e3909cd1d226e17b3d65337beea251a13e2e",
+      "status": "hold",
+      "reason": "죄를 다루려 만든 제단이 오히려 죄의 장치가 되는 역설은 수단 점검에 여지가 있지만 반복 실패의 원인을 우상으로 간주할 수 없다.",
+      "contextNote": "늘어난 제단 자체가 죄를 확대하는 문제다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:8:12",
+      "textSha256": "99ca8978250d107303fa50933ae78cf47211a50ab6a4ce23961ece0d85f0950b",
+      "status": "hold",
+      "reason": "많이 기록한 율법을 무관하게 보는 태도는 알고 있는 기준을 외면하는지 돌아보게 하나 실제 고민에 관련 기준이 무엇인지는 주지 않는다.",
+      "contextNote": "받은 말씀을 낯선 것으로 여기는 이스라엘을 고발한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:8:13",
+      "textSha256": "3734e350bc3b0ffe370904d294e58cedd12b8ea53e303467017e1369faea407d",
+      "status": "exclude",
+      "reason": "제물의 고기를 먹어도 죄를 벌하고 애굽으로 간다는 전체 절은 선물이나 식사 선택보다 추방의 선언이다.",
+      "contextNote": "제사만으로 죄를 덮을 수 없음을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:8:14",
+      "textSha256": "9e210c3bce9a9e8b693c811352094813591bdfa4fcb4d840f427be9ec912f732",
+      "status": "hold",
+      "reason": "지은 분을 잊고 전각과 성벽에 의존하는 모습은 외형과 기반을 생각하게 하나 도시를 불사르는 결말이 일상 준비에 과도하다.",
+      "contextNote": "이스라엘과 유다의 잘못된 안전 확보를 함께 고발한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:9:1",
+      "textSha256": "55b389dbb1b6aeaa4772e9c27139bbceaa67bfb6c570b1a5be60629607336e02",
+      "status": "exclude",
+      "reason": "기뻐 뛰놀지 말라는 이유가 음행의 대가이므로 일이 끝난 뒤 즐길지의 고민에 같은 죄를 붙일 수 없다.",
+      "contextNote": "우상 숭배의 수확 축제를 금하며 심판을 예고한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:9:2",
+      "textSha256": "75df2ff14a8f813a6abe984f8e42cf995d46ab84fbff5cebd61acd710cf9ab1a",
+      "status": "exclude",
+      "reason": "타작마당과 술틀의 공급 단절은 생활 선택의 조건을 주기보다 국가의 식량 상실을 예고한다.",
+      "contextNote": "수확의 기쁨이 사라질 것을 구체적으로 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:9:3",
+      "textSha256": "970ebaa7ada37ea116656277aa487fe65e5cbe996d9de80e03b096c6a9ea96b4",
+      "status": "exclude",
+      "reason": "앗수르의 더러운 음식과 애굽 귀환은 추방의 종교 맥락이며 음식 구매나 여행에 적용할 기준이 없다.",
+      "contextNote": "하나님의 땅을 떠나 타국에 거할 심판이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:9:4",
+      "textSha256": "fc734723251a9a0f95d6796d49ed65d543c82cd69e51f20d2d8aa219fc1ccc98",
+      "status": "exclude",
+      "reason": "거상 입은 자의 음식과 제물의 부정은 제의 규정을 알아야 읽히며 도움이나 나눔을 선택할 실마리가 아니다.",
+      "contextNote": "추방된 백성이 제사를 드릴 수 없는 상태를 말한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:9:5",
+      "textSha256": "3009cda858b4045a2fd69d9c6b1fa6dafcdd865bbfdebb5ee76cd7478620d4f1",
+      "status": "exclude",
+      "reason": "명절에 무엇을 하겠느냐는 질문은 제사 불능의 탄식으로 행사 간 일정 선택을 묻는 말이 아니다.",
+      "contextNote": "앞의 제물 단절 때문에 절기를 지킬 수 없음을 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:9:6",
+      "textSha256": "c6037449106572d05cb732aa515086bbb0b5623bda3667ecc42f95d2124fa4ed",
+      "status": "exclude",
+      "reason": "놉의 장사와 은을 덮는 찔레는 피난 뒤 죽음과 황폐의 예고로 물건 정리나 여행 우려를 해결하지 않는다.",
+      "contextNote": "애굽으로 피한 자도 멸망을 피하지 못한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:9:7",
+      "textSha256": "a94e50fc87124df95ebc6df63fe11e43ad0e2ea0a0bee5abc28ed0edefe98921",
+      "status": "exclude",
+      "reason": "어리석고 미쳤다는 선지자 표현과 죄악에 대한 보응은 충고자를 신뢰할 판단으로 쓰려면 역사 맥락 설명이 필요하다.",
+      "contextNote": "형벌의 날과 예언에 대한 백성의 상태를 연결한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:9:8",
+      "textSha256": "0ef50d376f66c639612ad0fd1d2f40a740a0690cc32453a7734e54cb0b916601",
+      "status": "exclude",
+      "reason": "파수꾼과 새 잡는 그물이 교차하는 선지자 묘사는 책임 주체와 원한의 맥락을 설명해야 한다.",
+      "contextNote": "에브라임과 선지자 사이의 타락 및 적대를 말한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:9:9",
+      "textSha256": "fe9bfda8662b9e700a1e1656558663367d51210d6104e9c8d1de5a2a94a4c83a",
+      "status": "exclude",
+      "reason": "기브아 시대와 같은 패괴는 과거 사건을 알아야 정도가 읽히며 일반 실수에 벌을 부과할 근거가 없다.",
+      "contextNote": "과거의 심각한 악과 현재를 비교한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:9:10",
+      "textSha256": "6ae73c7ba680d58a4bc829d49c5d12369148e56d7d20d8146c9f804ede1da920",
+      "status": "hold",
+      "reason": "귀히 여긴 첫 열매가 사랑한 우상처럼 변한 대비는 관계의 변화에 여지가 있으나 특정 바알브올 배신을 개인에게 덧붙이기 어렵다.",
+      "contextNote": "처음의 소중함과 뒤의 우상 헌신을 대조한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:9:11",
+      "textSha256": "6b455a3f8f22b7b0a7ad0b03783c276f2be38d2f796c3b1cefcda47a6551a140",
+      "status": "exclude",
+      "reason": "임신과 출산의 영광이 사라진다는 심판은 건강이나 가족 선택에 근거 없는 결과를 준다.",
+      "contextNote": "에브라임의 후손 단절을 선언한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:9:12",
+      "textSha256": "c4d279bfa8e19f04adaca3414a185452ae338522471923b5debb3125c3a217fd",
+      "status": "exclude",
+      "reason": "기른 자식을 한 사람도 남기지 않겠다는 위협은 생활 고민의 실마리가 아니라 자녀 상실의 공포를 더한다.",
+      "contextNote": "앞의 출산 단절을 이미 자란 자녀에게까지 확장한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:9:13",
+      "textSha256": "d0690e28b1ac0ae992d648a10a0d846c4899912ea3e7276af935e60fc9a6abe2",
+      "status": "exclude",
+      "reason": "아름다운 두로 같은 나라가 자식을 살인자에게 끌어낸다는 비유는 가벼운 선택과 강도가 맞지 않는다.",
+      "contextNote": "에브라임의 번성과 자녀의 파멸을 대비한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:9:14",
+      "textSha256": "b5d98cc5f59ce5011ee42f44802f7840179373d058ee372ce9f7e4ef21db60ee",
+      "status": "exclude",
+      "reason": "임신하지 못할 태와 젖 없는 유방을 달라는 기도는 상황 설명 없이 건강·가족의 선택으로 전달하기 부적절하다.",
+      "contextNote": "자녀의 참혹한 죽음 앞에서 나온 심판의 탄원이다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:9:15",
+      "textSha256": "1f75e450cfe887bc2ef7815755b8bbcd5ab2be991a3f0df9dfaa30dc2fd4a6d1",
+      "status": "exclude",
+      "reason": "길갈에서 미워하고 집에서 쫓아내 다시 사랑하지 않는다는 선언은 반복 갈등에 대한 관계 단절을 대신 정할 수 있다.",
+      "contextNote": "지도자의 패역과 우상 숭배를 심판 이유로 말한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:9:16",
+      "textSha256": "f6f5c40164a2d8b4b6f3d89d88486b4405d08c512e2c5fa1a241cfbf72243ddc",
+      "status": "exclude",
+      "reason": "뿌리 마름 뒤 태의 열매를 죽인다는 문장은 시도 실패나 건강 결과를 확정하는 방식으로 오해되기 쉽다.",
+      "contextNote": "민족과 후손의 멸망을 나무 비유로 말한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:9:17",
+      "textSha256": "52ed1b0794dd41278d96ba34465dd2797a7bb320300003a7f95e4c90961eff4c",
+      "status": "exclude",
+      "reason": "듣지 않아 버림받고 열국을 떠돈다는 결말은 다른 조언을 따르지 않는 일을 추방과 동일시할 근거가 없다.",
+      "contextNote": "9장의 불신실이 국가의 유랑으로 끝난다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:10:1",
+      "textSha256": "e8445cac4ff75a9d2afaa14e8b2eb32a35fd5ab2181eb7903cd2982703198d13",
+      "status": "hold",
+      "reason": "많은 열매를 얻을수록 제단을 늘리는 모습은 성과 사용을 돌아보게 하나 번영이나 예쁜 물건 자체가 문제인 것은 아니다.",
+      "contextNote": "풍요가 우상 숭배 확대에 사용된 이스라엘을 묘사한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:10:2",
+      "textSha256": "30b72c5607a738eb0d172b6db90a3f3aca8f1fc6ffbc8f58860b54aac55f440d",
+      "status": "hold",
+      "reason": "두 마음을 품는 경고는 갈등을 성찰하게 하나 제단 파괴의 이유인 불신실과 두 선택의 정상적 망설임은 구별해야 한다.",
+      "contextNote": "우상과 하나님 사이의 불신실을 심판한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:10:3",
+      "textSha256": "33c085a23976bf0b847638f0c03d472148d1f8dbc0d715cf1f476aad46a29451",
+      "status": "hold",
+      "reason": "왕이 무엇을 해 주겠느냐는 물음은 지도자 의존의 한계를 건드리지만 하나님을 두려워하지 않은 나라의 탄식이 전제다.",
+      "contextNote": "왕권을 잃은 백성이 자기 안전을 돌아본다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:10:4",
+      "textSha256": "38ec1ad2e3584d2e680fe5f1013b69f270cfa3c25acdf188b601d31938f3a04d",
+      "status": "hold",
+      "reason": "거짓 맹세로 세운 약속이 독초 같은 재판을 낳는 대비는 약속의 진실성을 건드리나 인진 비유와 심판까지 설명이 필요하다.",
+      "contextNote": "언약과 사법까지 거짓으로 오염된 상황이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:10:5",
+      "textSha256": "63277e018a63e7e84d5567e4ea47583056b7980a7f6bb0a9e5b82f08dc8e1b85",
+      "status": "exclude",
+      "reason": "벧아웬 송아지의 영광이 떠나 제사장이 슬퍼한다는 문장은 우상의 패배이며 소유 애착의 일반 기준이 아니다.",
+      "contextNote": "사마리아의 우상이 끌려갈 것을 탄식한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:10:6",
+      "textSha256": "24fd515c3fe431e8aa476f289b26e5bd31f0a669346889e9afede5d10b4bb0b4",
+      "status": "exclude",
+      "reason": "송아지를 야렙 왕에게 예물로 드리는 수치는 외교와 우상 맥락을 풀어야 생활 결정에 연결된다.",
+      "contextNote": "우상까지 앗수르의 전리품이 되는 심판이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:10:7",
+      "textSha256": "ac8a89a0845d06393c1e917e4b87beecee1a958fd12bcbbbbf128efbf224f805",
+      "status": "hold",
+      "reason": "물 위 거품 같은 왕의 소멸은 권력의 덧없음을 생각하게 하지만 평범한 선택의 어느 부담을 다룰지는 불명확하다.",
+      "contextNote": "사마리아 왕권의 멸망을 비유한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:10:8",
+      "textSha256": "a25025f36b59df23d51344d284bd8a531394e67bbb07168aa0b8f1bff5eb52d3",
+      "status": "exclude",
+      "reason": "산에게 무너져 덮어 달라는 말은 산당 파괴 앞의 절망으로 계획을 접거나 쉬라는 조언이 아니다.",
+      "contextNote": "우상 산당이 황폐해져 죽음을 바라는 상태를 묘사한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:10:9",
+      "textSha256": "795e651eba04f3e6c0b604b5d02cf02d008625678aef25d6a4d6bb7c0958091e",
+      "status": "exclude",
+      "reason": "기브아 범죄와 전쟁을 면한 역사는 이전 사건을 알아야 읽히며 당장의 반복 침해와 곧바로 같지 않다.",
+      "contextNote": "오래 지속한 이스라엘의 죄를 고발한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:10:10",
+      "textSha256": "8d69e71c4d6cdb0aacd4b8736c6b6c4cfb29153f6bdc48cb8901bfc8c42ad669",
+      "status": "exclude",
+      "reason": "두 가지 죄를 징계하려 만민을 모아 치는 예고는 개인 잘못의 정도나 개선 선택을 판단하게 하지 않는다.",
+      "contextNote": "이스라엘에 대한 국제적 심판을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:10:11",
+      "textSha256": "dc8bb97ebf7a748866eaedf823729eb8a6d5999c8c3bef9f9cffd1420670f503",
+      "status": "exclude",
+      "reason": "길들인 암소의 목에 멍에와 사람을 얹는 농사 비유는 국가의 강제 노동 예고이며 역할 도전의 일반 권유가 아니다.",
+      "contextNote": "에브라임과 유다에 힘든 수고를 지운다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:10:12",
+      "textSha256": "8c9af16dfcfecbc3ca6e7f97d85cd8a884e919d1e24140ea3ddf03c74aec7930",
+      "status": "hold",
+      "reason": "묵은 땅을 갈고 의를 심는 모습은 새 시작을 떠올리게 하지만 의의 비라는 회복 약속을 운동 효과나 현재 성과로 옮길 수 없다.",
+      "contextNote": "오래된 악행을 버리고 하나님을 찾으라는 회개 요청이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:10:13",
+      "textSha256": "d7c55d2b9500b7115625b7bad79d7a87ad9ae0d685b5e58cd37f56375037ad42",
+      "status": "hold",
+      "reason": "자기 길과 용사 수를 의지해 거짓 열매를 먹는 대비는 기반 점검에 여지가 있으나 잘못된 군사 의존을 모든 자기 판단에 적용할 수 없다.",
+      "contextNote": "앞의 의를 심으라는 요청과 실제 악의 열매를 대비한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:10:14",
+      "textSha256": "7f500ac83d33359e64fa416128e79993c6844b37d0737a7fe8bb66b5e0340a38",
+      "status": "exclude",
+      "reason": "살만과 벧아벨의 전쟁 및 어머니와 자식의 파괴는 사건 풀이가 필요하고 개인 선택에 심한 재앙을 더한다.",
+      "contextNote": "군사 의존이 방어시설 파괴를 막지 못함을 경고한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:10:15",
+      "textSha256": "b1e41fc5c8a4270e77d9565049a4431f4579fdace8ce1e090a36935b0307ed4e",
+      "status": "exclude",
+      "reason": "큰 악으로 왕이 새벽에 죽는 확정 예고는 제출·판매 기한이나 다음 기회의 기준이 아니다.",
+      "contextNote": "벧엘의 죄와 이스라엘 왕권의 종말을 연결한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:11:1",
+      "textSha256": "912bfb3cb916e178d5814efa02e3cf7bf678663b5e9333c85c86e3fbc24a972f",
+      "status": "hold",
+      "reason": "어린 아들을 애굽에서 불러낸 사랑은 돌봄의 기억을 건드리지만 이 절에는 개인의 선택 부담을 가를 내용이 적다.",
+      "contextNote": "11장은 출애굽부터 이어진 하나님의 사랑을 회상한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:11:2",
+      "textSha256": "2dfe1ca7bbce9ab432c31041b7de906ef3cb2f8ec58eaa6aea1ad4c5e1bdc36a",
+      "status": "hold",
+      "reason": "부를수록 멀어지는 모습은 충고 거절을 돌아보게 하나 바알 제사라는 실제 배신을 모호한 관계에 붙일 수 없다.",
+      "contextNote": "하나님의 부름과 백성의 우상 숭배가 반대로 움직인다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:11:3",
+      "textSha256": "7d5a9da6035b31a972a9af9610a1a88a9a01cdd57681ac8b9310da6f3e7d6e09",
+      "status": "hold",
+      "reason": "걸음을 가르치고 안았는데 돌봄을 모르는 대조는 받은 도움을 알아볼 여지가 있지만 현재 도움이 누구에게서 왔는지 확정하지 않는다.",
+      "contextNote": "부모 같은 하나님이 이스라엘을 키운 사랑을 말한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:11:4",
+      "textSha256": "ad7184efde05ca56dc1f4536e2ab912790291a67a3f8dabb97deb4097439b7ee",
+      "status": "candidate",
+      "reason": "사랑으로 이끌며 멍에를 벗기고 먹을 것을 두는 돌봄은 성과만 다그칠지 실제 부담을 덜어 줄지의 선택에 구체 이미지가 된다.",
+      "contextNote": "하나님이 이스라엘을 강요보다 사랑과 공급으로 돌봤음을 회상한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C005",
+          "clue": "사랑의 줄로 이끌면서도 목의 멍에를 벗기고 먹을 것을 주는 모습에서 새 회원의 실제 부담을 덜어 주는 지도 방식을 떠올릴 수 있다.",
+          "friction": "본문은 하나님과 이스라엘의 돌봄 관계다. 모든 역할 부담을 없애라거나 행사 성과를 포기하라고 말하지 않는다.",
+          "expectedEnough": "yes"
+        },
+        {
+          "scenarioId": "H058",
+          "clue": "이끌어 주는 돌봄이 짐을 덜고 필요한 것을 두는 모습임을 읽으며 지친 상태의 도움 받기를 생각할 수 있다.",
+          "friction": "특정 친구가 그 도움을 줄지나 도움 요청 후 회복 정도를 본문이 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HOS:11:5",
+      "textSha256": "e34f5a1721c45d07b86fedf61df5315a28bd675362986bd559633e77d77ab323",
+      "status": "exclude",
+      "reason": "돌아오기를 싫어해 앗수르 왕 아래 거한다는 예고는 국가의 복속을 말하며 이전 직장이나 관계로 귀환할 기준이 아니다.",
+      "contextNote": "하나님의 돌봄을 거절한 나라의 결과를 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:11:6",
+      "textSha256": "b1c91c08e33006c2f4b6047e92db61b97c52a7bfadfa8b3afba507838f19ff72",
+      "status": "exclude",
+      "reason": "자기 계책 때문에 성읍과 빗장이 칼에 무너진다는 선언은 계획 변경 고민에 없는 위험을 확정한다.",
+      "contextNote": "잘못된 정책이 나라의 멸망으로 이어진다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:11:7",
+      "textSha256": "539cd3b13337123d745d006397e23bffbabc62c118851cbccfae6bc5f1638b01",
+      "status": "hold",
+      "reason": "부름에도 일어나지 않는 백성은 완고함을 돌아보게 하지만 신의 귀환 요청과 다른 사람 조언에 대한 동의를 구별해야 한다.",
+      "contextNote": "하나님을 떠나기로 굳힌 이스라엘의 반응을 묘사한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:11:8",
+      "textSha256": "05aaa8989aebebf9f1dcb5e2980fc633c1f9283d89b213cd4d33158243a20d59",
+      "status": "hold",
+      "reason": "버릴 수 없다는 깊은 긍휼은 사랑의 어려움을 보여 주지만 아드마와 스보임 풀이가 필요하고 반복 침해의 관계 유지 기준이 아니다.",
+      "contextNote": "멸망의 심판 속에서도 하나님이 품는 긍휼을 드러낸다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:11:9",
+      "textSha256": "c69514f4e1eb7d4b9741ca47db745528f571c40f1d5d8a6c57edb5f04c979883",
+      "status": "hold",
+      "reason": "맹렬한 진노를 발하지 않는 구분은 화난 마음을 살피게 하나 사람이 아니므로 하는 하나님의 일을 사람의 무조건 용서 의무로 옮길 수 없다.",
+      "contextNote": "하나님의 거룩함 때문에 전적인 멸망을 거두는 긍휼이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:11:10",
+      "textSha256": "08d9b1f79cb4450af56e25ef9ecd2db919f8e3129b08ca2641a6e2c95bf61994",
+      "status": "exclude",
+      "reason": "사자 같은 소리에 서편 자손이 떠는 귀환은 다음 절의 도착이 있어야 완결되고 개인의 선택 신호를 뜻하지 않는다.",
+      "contextNote": "흩어진 백성을 부르는 장면을 시작한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:11:11",
+      "textSha256": "d916538d4d1f16716e5bbcefefa5b0705c17ebceba547757ce87e4e30bdc2639",
+      "status": "hold",
+      "reason": "애굽과 앗수르에서 집으로 돌아오는 모습은 귀향의 위로가 있으나 실제 집·관계의 수용이나 안전을 보장하지 않는다.",
+      "contextNote": "흩어진 백성의 안착을 약속한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:11:12",
+      "textSha256": "708746e6a4a0325ae5b127a5e5a583a452d2b6796f45241357adc4692c09895e",
+      "status": "exclude",
+      "reason": "에브라임과 유다의 거짓과 정함 없음을 함께 고발하여 모호한 상대의 진심을 판정하는 본문으로 쓰기 어렵다.",
+      "contextNote": "회복의 약속 뒤 현재 백성의 불신실을 다시 말한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:12:1",
+      "textSha256": "4af25d19972f1f6506426769598f18b6ed79708ee53b6760c9addb9f2376ce62",
+      "status": "exclude",
+      "reason": "동풍을 따라 앗수르와 계약하고 애굽에 기름을 보내는 외교는 맥락 설명 없이 일반 선택과 연결되지 않는다.",
+      "contextNote": "거짓과 폭력 및 두 강대국 의존을 한데 묶는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:12:2",
+      "textSha256": "4afc67f2a33be6cfef1c462bcc61aeb07afb0ece3fc611f388d7a7cef8764a1b",
+      "status": "exclude",
+      "reason": "야곱의 소행대로 벌하고 보응한다는 선언은 실제 책임 판단에 필요한 행위 내용이 이 절에 없다.",
+      "contextNote": "유다에 대한 쟁변과 보응을 예고한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:12:3",
+      "textSha256": "870dda32f9a80fae0404df5dd38f09fa0a9bfc7b0dc794fc284c869b9f00d08b",
+      "status": "exclude",
+      "reason": "형의 발꿈치와 하나님과 힘 겨룸은 야곱의 사건 소개로 뒤의 간구와 만남이 없으면 독립된 실마리가 없다.",
+      "contextNote": "민족의 조상 야곱의 과거를 회상한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:12:4",
+      "textSha256": "bccc5d91cc280ba4a22a8ec6e20c86ecc94510a592970d83501e92fa15877e8b",
+      "status": "hold",
+      "reason": "울며 간구하고 하나님을 만난 야곱은 도움 청함을 생각하게 하지만 천사와 이긴 싸움 및 벧엘의 설명이 필요하다.",
+      "contextNote": "야곱의 힘 겨룸을 간구와 하나님의 만남으로 이어 간다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:12:5",
+      "textSha256": "99e9ce66b3bbc30ef9923257d953d0318903e77b85b72ef427d402f2cbb132ff",
+      "status": "exclude",
+      "reason": "여호와가 만군의 하나님이고 기념 칭호라는 선언은 이름과 정체성 소개여서 선택 부담을 다루지 않는다.",
+      "contextNote": "앞에서 만난 하나님이 누구인지 밝힌다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:12:6",
+      "textSha256": "80ebe6e2aff888f381f2d6cbadc11c6b79948f16fa15113b54e853102cac22be",
+      "status": "hold",
+      "reason": "인애와 공의를 지키며 하나님을 바라보라는 요청은 기준을 정돈하지만 고민의 구체 대안에 놓일 단서가 적다.",
+      "contextNote": "야곱의 이야기에 근거하여 현재 백성의 귀환과 실천을 요청한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:12:7",
+      "textSha256": "a8d25d88c46101a0cf7165707a5159e674c68362bf90bdab245fbf6927f83bbd",
+      "status": "candidate",
+      "reason": "거짓 저울로 속이는 상인의 모습은 표시 중량보다 적게 담긴 물건을 그냥 보낼지의 갈등을 구체적으로 비춘다.",
+      "contextNote": "에브라임의 상업적 사기와 뒤의 부의 자랑을 고발한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C006",
+          "clue": "손에 거짓 저울을 가진 상인의 모습을 읽고 표시한 무게와 실제 양을 맞추는 일의 의미를 스스로 잡을 수 있다.",
+          "friction": "상고와 사취는 옛말이지만 저울을 속이는 장면은 읽힌다. 본문은 민족의 부정 거래를 고발하며 한 번의 부족을 악의적 사기와 동일시하거나 판매 결과를 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HOS:12:8",
+      "textSha256": "aff0a8b432b31a1eff1397a16a5572a6b56b8746c502faaedd95b2f25aefb484",
+      "status": "hold",
+      "reason": "재물을 얻었으니 아무도 불의를 못 찾는다는 주장은 성과로 과정의 문제를 덮는 태도를 비추지만 앞의 거짓 저울이 있어야 비판인지 선명하다.",
+      "contextNote": "에브라임이 자기 부를 무죄의 증거처럼 자랑한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:12:9",
+      "textSha256": "44cee38db5ad9efb954af49cba9d4782fee1d477210cd9c81961e292577ede59",
+      "status": "exclude",
+      "reason": "절기처럼 다시 장막에 살게 한다는 말은 출애굽과 거주 변화를 알아야 의미가 서며 주거 선택을 대신 판단할 수 없다.",
+      "contextNote": "자기 부를 의지하는 백성에게 과거 의존을 기억시킨다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:12:10",
+      "textSha256": "679d7912d74a0a5deb45475f515c064024dde620e9d8954fd9aca6bbe4833659",
+      "status": "hold",
+      "reason": "여러 말과 비유를 보였다는 언급은 충고의 반복을 생각하게 하지만 그 내용 없이 실제 조언 수용을 가를 기준이 없다.",
+      "contextNote": "하나님이 선지자들을 통해 계속 알렸음을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:12:11",
+      "textSha256": "43e07e762ee8726c8af395b90bce2e81ea32b1f66eb90f5c7292fa5b9c60c0f3",
+      "status": "exclude",
+      "reason": "길르앗과 길갈의 제단이 돌무더기가 된다는 고발은 장소와 제사의 풀이가 필요하며 일반 준비의 허무를 뜻하지 않는다.",
+      "contextNote": "우상 제사 지역의 불의와 황폐를 선언한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:12:12",
+      "textSha256": "e55c0e09557f5f009eb98561c6324399af465663763a32a638d123ce88124208",
+      "status": "hold",
+      "reason": "야곱이 아내를 위해 일하고 양을 친 모습은 원하는 것을 위한 수고를 떠올리게 하나 아내 얻기라는 특정 상황과 다음 역사 대비가 강하다.",
+      "contextNote": "조상의 낮은 출발과 이후 민족 구원을 회상한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:12:13",
+      "textSha256": "e5426764b755c22f468512177dfc1c06b3543b8ae00d364b0df9207242aba21e",
+      "status": "exclude",
+      "reason": "선지자가 애굽에서 인도하고 보호했다는 회상은 뒤의 배은과 함께 읽혀야 현재의 도움 선택에 내용이 생긴다.",
+      "contextNote": "이스라엘이 받은 구원과 보호를 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:12:14",
+      "textSha256": "5e1ef342027eeb89240eb09458b8fd51928237390910ac0bd9442b6b1484db73",
+      "status": "exclude",
+      "reason": "피를 머물게 하고 수치를 돌리는 처벌은 특정 악의 결과이며 현재 관계의 수치심을 정당화할 수 없다.",
+      "contextNote": "에브라임이 받은 보호에 반역한 책임을 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:13:1",
+      "textSha256": "cae964db25e8d3ec9f445735e04b0f07650b8de3a3378b8ce1f5690dacee3d8a",
+      "status": "hold",
+      "reason": "높은 지위와 두려움을 주던 에브라임도 바알 때문에 망하는 대비는 힘의 사용을 돌아보게 하나 성공·실패를 개인에게 예측하지 않는다.",
+      "contextNote": "에브라임의 과거 권위와 우상 숭배 이후 몰락을 대비한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:13:2",
+      "textSha256": "8936f71f62eb5876e63ef3fe09aec6612fcab6a555e6b60ce6c708d68d4e263f",
+      "status": "exclude",
+      "reason": "은으로 만든 송아지에 입맞추는 제사 관행은 공교함과 장색의 옛말까지 있어 일상 물건의 애착과 바로 같지 않다.",
+      "contextNote": "사람이 만든 우상에 점점 더 헌신하는 상황이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:13:3",
+      "textSha256": "fd52ce86b978252b6440fe88881c8555f91ab34343acb48200e9ac5fd9c90d3b",
+      "status": "hold",
+      "reason": "구름과 이슬과 연기처럼 쉽게 사라지는 이미지는 덧없음을 건드리지만 그것은 심판받을 민족의 비유여서 기회를 놓칠지의 기준은 아니다.",
+      "contextNote": "앞의 우상 숭배가 낳을 민족의 소멸을 그린다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:13:4",
+      "textSha256": "a15cee1ccc1b77ba3d8e741358cc61b39c4c753f2ddc299749cab2f2150da001",
+      "status": "hold",
+      "reason": "구원자는 하나님뿐이라는 선언은 의존의 중심을 생각하게 하나 현실의 치료·조언·협력을 금하는 말로 읽으면 잘못된다.",
+      "contextNote": "출애굽부터의 하나님 관계를 우상 의존과 대조한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:13:5",
+      "textSha256": "21f295e2bc9b3345f301809fa57710f4bcc594b1a3f37a416a46cc8c255a7dd7",
+      "status": "exclude",
+      "reason": "광야에서 돌본 회상은 짧은 접속 문장으로 다음 배부름과 망각이 있어야 대조가 드러난다.",
+      "contextNote": "하나님의 과거 돌봄을 말한 뒤 배은을 지적한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:13:6",
+      "textSha256": "0b47a2331bf379e8eea2f9b6f3fb07cf677b27f28d2bddd420dd5db818e06649",
+      "status": "hold",
+      "reason": "배부름이 교만과 망각으로 이어지는 모습은 여유의 사용을 돌아보게 하나 충분한 식사나 구매의 기쁨을 죄책감으로 바꾸면 안 된다.",
+      "contextNote": "돌봄으로 얻은 풍요를 하나님 망각에 사용한 문제다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:13:7",
+      "textSha256": "a5f6de617c8941aec977c0efc778b538977ac3a24ae6dce75b1c4fbba940d6cd",
+      "status": "exclude",
+      "reason": "사자와 길가 표범 같은 하나님은 위협의 심판 비유로 새로운 시도의 불안을 키울 수 있다.",
+      "contextNote": "배은한 백성을 치는 하나님의 모습을 묘사한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:13:8",
+      "textSha256": "5d864569ce469c1c61265fd6890743943e3df8fa1421fa205405bc9524701f55",
+      "status": "exclude",
+      "reason": "새끼 잃은 곰과 사자의 몸 찢음은 민족 심판의 폭력적 비유로 생활 선택의 실마리를 압도한다.",
+      "contextNote": "앞의 맹수 심판을 잔혹한 공격으로 확대한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:13:9",
+      "textSha256": "8297f3c023592f9c9c88c2d1c4f835cacecf8f18308ded40f06c31af95bdbdc7",
+      "status": "hold",
+      "reason": "도와주는 이를 대적한 결과는 감사와 관계를 돌아보게 하나 현재 도움이 실제로 유익한지 없이 반대 자체를 죄로 정할 수 없다.",
+      "contextNote": "이스라엘의 멸망 이유를 하나님의 도움 거절로 말한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:13:10",
+      "textSha256": "ecb1b603755bd0f54f4f2d16e38cef350f02d715d2199fdf90f32b5f1426583a",
+      "status": "hold",
+      "reason": "원했던 왕과 재판장이 구해 주지 못하는 물음은 의존한 권위의 한계를 생각하게 하나 실제 조언자의 능력을 확정하지 않는다.",
+      "contextNote": "왕권 의존이 심판을 막지 못함을 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:13:11",
+      "textSha256": "9f76da5fa40e466e72292263117ebfb9c4335e8f7c8ffd1d3a002f019e0a2131",
+      "status": "exclude",
+      "reason": "분노로 왕을 주고 진노로 폐했다는 선언은 지도자 교체의 고유 사건이며 역할 선택의 기준이 아니다.",
+      "contextNote": "이스라엘이 요구한 왕권에 대한 하나님의 판단이다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:13:12",
+      "textSha256": "b7c3a8ece144f9dfe1daca15756781c3aa89f9300095aeb655fce2ec9a2ea26d",
+      "status": "exclude",
+      "reason": "봉함되고 저장된 죄는 뒤의 심판을 준비하는 단편으로 개선의 구체 길이 이 절에는 없다.",
+      "contextNote": "에브라임의 죄가 사라지지 않았음을 선언한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:13:13",
+      "textSha256": "3cf3f8dce4bc5dc7cbd6f09844412d1d5000ff9b0a25b4a60020360ca9b598d6",
+      "status": "hold",
+      "reason": "산문에서 지체하지 않는 비유는 때를 놓침을 떠올리게 하나 해산 고통과 어리석은 자식이라는 민족 심판을 풀어야 한다.",
+      "contextNote": "구원의 때를 놓치는 이스라엘을 출산에 비유한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:13:14",
+      "textSha256": "0bacb23665996c7074f9599d01a12c22a338525e9e5d0ec5a1af4d56d8c3fa8c",
+      "status": "hold",
+      "reason": "사망에서 속량한다는 강한 회복 언어는 위로가 되지만 음부와 뉘우침의 뜻 및 심판 흐름을 풀어야 현재 선택과 연결된다.",
+      "contextNote": "사망의 권세와 구속을 말하면서 이어지는 심판과 긴장한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:13:15",
+      "textSha256": "08681cd442e3d8e72ae06fc7a459de8a8dd927c43b00516e750729230839ac75",
+      "status": "exclude",
+      "reason": "동풍이 샘을 말리고 보배를 약탈한다는 예고는 외침의 심판으로 판매나 저축 결과를 확정하게 할 수 있다.",
+      "contextNote": "번성한 에브라임도 침략을 피하지 못한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:13:16",
+      "textSha256": "acee26cfbf56ce0ead38d2a699b635b9353559f20c163a868c6af7f4af6b35c0",
+      "status": "exclude",
+      "reason": "어린아이와 임신한 여인의 참혹한 죽음은 사마리아의 심판 장면으로 생성 고민의 선택을 비추기에는 재앙이 압도한다.",
+      "contextNote": "하나님 배반의 결과를 전쟁의 잔혹함으로 말한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:14:1",
+      "textSha256": "bbccd798d46fac0ffba6411f1d96cdfb479d141c1ee994cf497d1eebc0833e4e",
+      "status": "hold",
+      "reason": "넘어진 뒤 돌아오라는 요청은 잘못의 수정에 여지를 주지만 모든 좌절이 불의 때문이라는 죄 판단으로 주면 부적합하다.",
+      "contextNote": "14장은 이스라엘의 회개와 귀환을 요청한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:14:2",
+      "textSha256": "78db903c1873bd02e571eab11dead0f083dafcc073076e12d742472cfc41281c",
+      "status": "hold",
+      "reason": "입술로 수송아지를 대신 드리는 말은 말과 마음으로 돌아옴을 생각하게 하나 제물 비유 풀이가 필요하다.",
+      "contextNote": "백성이 하나님께 아뢸 회개의 말과 예배를 제안한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:14:3",
+      "textSha256": "8ccb7f1932a028d2478e2afb915bb5f9cb0aefb15bf6f52f699f4fe7a793ee37",
+      "status": "hold",
+      "reason": "손으로 만든 것을 신이라 하지 않겠다는 다짐은 의존의 한계를 보여도 앗수르와 말의 포기는 실제 도움 이용 금지와 다르다.",
+      "contextNote": "외교와 군사 및 우상 의존을 끊는 회개를 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:14:4",
+      "textSha256": "e47f36fcfa3ad8cca6b76ada2ed566a86898db10c4fd890468ef5c80f361bb40",
+      "status": "hold",
+      "reason": "패역을 고치고 즐거이 사랑하는 반전은 다시 시작할 용기를 줄 수 있지만 상대의 용서와 실제 회복을 보장할 수 없다.",
+      "contextNote": "회개 요청 뒤 하나님이 사랑과 치유로 응답한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:14:5",
+      "textSha256": "bb3aa9bc9a0ca3f0f09aae2bcbf598a6ac9d54129a7c0179c3d3e4cf2e0900c6",
+      "status": "hold",
+      "reason": "백합과 백향목처럼 피고 뿌리내리는 회복은 성장의 이미지지만 오늘 시작이나 회복 속도의 선택 기준은 부족하다.",
+      "contextNote": "하나님의 이슬 아래 이스라엘의 회복을 비유한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:14:6",
+      "textSha256": "42db04dd56e3605c19a56c9273e000497a80285a82e477014e30e8fbbab86f4f",
+      "status": "exclude",
+      "reason": "감람나무의 아름다움과 백향목의 향기는 앞의 주어가 있어야 읽히고 외형 선택을 다루지 않는다.",
+      "contextNote": "회복된 이스라엘의 가지와 향기를 묘사한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:14:7",
+      "textSha256": "bc0fc11ee53f58f0fcac1b1c64f0032405812594c41fe06aa7645d5e13ac3037",
+      "status": "hold",
+      "reason": "그늘 아래 돌아와 곡식처럼 소생하는 모습은 돌봄을 생각하게 하나 현재 관계나 건강의 안착을 약속으로 옮길 수 없다.",
+      "contextNote": "회복된 공동체 안에서 생명이 다시 자라는 풍요다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:14:8",
+      "textSha256": "39c67c097a4fe67234cec8e94361297e64f9f743b74c465c2a9c100efd675e56",
+      "status": "hold",
+      "reason": "우상과의 상관을 끊고 열매의 출처를 말하는 대화는 의존을 돌아보게 하나 잣나무의 비유와 하나님 응답을 해석해야 한다.",
+      "contextNote": "에브라임의 우상 단절과 하나님의 공급을 함께 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HOS:14:9",
+      "textSha256": "bcf379cf9a5646eb63256a9d3c6cdb67d6956fd0ac6f3f9af380045e7c884705",
+      "status": "hold",
+      "reason": "같은 길이 의인에게 행로이고 죄인에게 걸림이 된다는 구분은 태도를 점검하게 하지만 구체 고민을 어느 편으로 분류할 근거가 없다.",
+      "contextNote": "호세아서의 경고와 회복을 지혜롭게 이해하라는 결말이다.",
+      "readability": "thinkable",
+      "connections": []
+    }
+  ]
+}

@@ -1,0 +1,3278 @@
+{
+  "bookCode": "DAN",
+  "corpusSha256": "f8d5c8b377e243b05fb884b4a6965d2c06a95de74b64a716ee4b95989d61e971",
+  "criteriaVersion": "garasadae-corpus-2026-10-08-v1",
+  "reviewer": "Codex review_ezk_rev",
+  "method": "direct-codex-reading",
+  "entries": [
+    {
+      "id": "KRV:DAN:1:1",
+      "textSha256": "fde9f2cc72691d03fc9b5299de0c42637b5021135ea9d36d43961400cc091029",
+      "status": "exclude",
+      "reason": "예루살렘 포위의 연대 기록만 있어 선택 실마리가 없다.",
+      "contextNote": "바벨론 포위 배경.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:1:2",
+      "textSha256": "6ece4068c72a7b25abc139abd7e4b1e144694027124a8f585f6da54ca7aa7743",
+      "status": "exclude",
+      "reason": "성전 기구를 이방 신 보고로 옮김은 물건 정리의 자유로운 선택과 다르다.",
+      "contextNote": "포로와 제물의 이송.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:1:3",
+      "textSha256": "8c8681976c1b6ade0aa88b67c301398ee541fbff0987d0163703dd42130a8c9b",
+      "status": "exclude",
+      "reason": "환관장에게 왕족 몇 명 명한 미완절로 내용이 없다.",
+      "contextNote": "궁중 교육생 선발 도입.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:1:4",
+      "textSha256": "656895cdc0960cf48660668d3ad3695b0c36406774184dfb7fe55e690fa1df49",
+      "status": "exclude",
+      "reason": "완전한 외모·재주 자격은 도전자의 부족감에 진입 금지로 오독된다.",
+      "contextNote": "교육 소년의 선발 기준.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:1:5",
+      "textSha256": "eab0341228bdede59d2700040303d07f1610c7c511054a3310f25445094fe085",
+      "status": "exclude",
+      "reason": "삼년 왕 음식 교육은 개인 준비기간·지원 여건을 보장하지 않는다.",
+      "contextNote": "궁중 교육·급식 조건.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:1:6",
+      "textSha256": "e4a0b9f2be3b0f3d3d5b17feb0d8988459e19a502a18e7b8eaab9486ca572586",
+      "status": "exclude",
+      "reason": "네 청년 이름 목록만으로 선택 방향이 없다.",
+      "contextNote": "유다 청년 소개.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:1:7",
+      "textSha256": "f2597c6c8c3efc5fd189e088f16e7163f21177df9a6ac3c4dd4d8572026537b5",
+      "status": "exclude",
+      "reason": "바뀐 네 이름의 대조는 역사 신분 배경 풀이가 필요하다.",
+      "contextNote": "바벨론식 이름 부여.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:1:8",
+      "textSha256": "45f075693435f5d8ca2b4b6606eb84a24b3bf8013dce682d13074c85e9633059",
+      "status": "candidate",
+      "reason": "마음에 걸리는 참여를 당연히 따르지 않고 자기 뜻을 정해 책임자에게 요청한 모습이 닿는다.",
+      "contextNote": "다니엘이 왕 음식으로 더럽히지 않기로 정하고 허락을 구함.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "모두 따르는 요구도 내 원칙과 다르면 뜻을 정하고 책임자에게 다른 참여 방법을 말할 수 있다는 개인 실마리다.",
+          "friction": "왕 음식의 제의적 정결 문제이며 음식을 일반적으로 나쁘다 하는 뜻이나 거절 성공 보장은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DAN:1:9",
+      "textSha256": "972f27d4955213edb241d26baf0a269c72831baa772410a7201a91e1a3d966f9",
+      "status": "hold",
+      "reason": "호의 얻음은 위로지만 내 요청 상대가 받아준다는 조건을 확정할 수 없다.",
+      "contextNote": "환관장의 다니엘 호의.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:1:10",
+      "textSha256": "58b76211779ff0e8208dde47509bdc739bbd474ddf191fce76356bfe1a34efd2",
+      "status": "hold",
+      "reason": "상대도 책임·두려움 있다는 관점은 대화에 닿으나 초췌함·왕의 생사 위협이 현재 상대 부담을 지어낼 수 있다.",
+      "contextNote": "환관장의 거절 이유.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:1:11",
+      "textSha256": "8fe6a1dcc3012f4267f438590968388ff65a657cc7880155fdc30d260ad55ea4",
+      "status": "exclude",
+      "reason": "감독자·네 청년 소개 뒤 말하되로 끝나 요청 내용이 없다.",
+      "contextNote": "대안 협상 상대 변경.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:1:12",
+      "textSha256": "93369d9b22e178ff90102c7d4d5d0ff7c019c4d8628c27455128ac64aafc2897",
+      "status": "hold",
+      "reason": "짧게 시험해보는 제안은 닿지만 채식·물의 열흘 조건과 미완 결말을 건강 처방으로 읽으면 안 된다.",
+      "contextNote": "제한 기간의 식단 시험 요청.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:1:13",
+      "textSha256": "fb1a303e9de68ede284f1a93ffaf6099fa1676f1c0dfebfc1844b89862e6f3da",
+      "status": "candidate",
+      "reason": "누가 말이 강한지보다 실제 보이는 결과를 비교해 판단하자는 전체 제안이 방식 변경에 닿는다.",
+      "contextNote": "다니엘이 두 식단의 얼굴을 비교하여 처분해달라 요청.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H043",
+          "clue": "계속 견디기만 하는 대신 다른 방식과 지금 방식의 실제 결과를 비교해 볼 수 있다는 실마리다.",
+          "friction": "앞의 제한 시험과 연결되고 본문은 식단 사례다. 채식 권장이나 내 방법의 우월한 결과 보장은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DAN:1:14",
+      "textSha256": "2a1e27811cf814e0fbc7a3c7879fd288d0b0fd7232034b1fc4c9755e1613f99e",
+      "status": "hold",
+      "reason": "열흘 시험 허용은 작은 시도에 닿지만 그들의 말이 앞에 의존해 현재 방법·기간을 지정할 수 없다.",
+      "contextNote": "감독자의 시험 수용.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:1:15",
+      "textSha256": "9a21a970caedc7df01be3c7da65104cdd5b0a94fbdcf3737e9608d336e72aa2e",
+      "status": "hold",
+      "reason": "시험 후 실제 모습 확인은 있지만 더 윤택한 식단 결과를 일반 건강·성과 보장으로 못 바꾼다.",
+      "contextNote": "시험 식단의 결과 관찰.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:1:16",
+      "textSha256": "f48f43f5e39075bbc5ca218382898d49ef787bb61dcd0874c87eeb88c364771e",
+      "status": "exclude",
+      "reason": "분정된 진미 변경의 옛말과 이전 시험에 의존하여 단독 선택 기준이 약하다.",
+      "contextNote": "관찰 뒤 식단 변경.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:1:17",
+      "textSha256": "db7978f72d7859398f3e2974002536df563af2072045da8dabb8955697653704",
+      "status": "hold",
+      "reason": "재주·지식의 선물은 격려지만 몽조 해석까지 있어 학습 성공의 보장으로 오독할 수 있다.",
+      "contextNote": "네 소년의 재능과 다니엘 이상 이해.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:1:18",
+      "textSha256": "1231e5800c420ac35fff99b1ef08a77fc2624431e948ef94dc24cb85f34eb0c2",
+      "status": "exclude",
+      "reason": "정한 교육기한 종료와 왕에게 인도는 고정 역사 일정이다.",
+      "contextNote": "교육 후 왕 앞 소개.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:1:19",
+      "textSha256": "a9af5a54a9b1915c49dfad8a5e376ac0ac30f293c53291de0dcffddaf6aeb04b",
+      "status": "hold",
+      "reason": "직접 말해 본 평가의 과정은 있지만 왕이 최고로 채용함을 내 지원 결과로 기대하면 안 된다.",
+      "contextNote": "왕의 청년 면담·배치.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:1:20",
+      "textSha256": "ce82647d26e2921990d4819182e15d3a54eb7a7fbab8a07be1cede682262538b",
+      "status": "exclude",
+      "reason": "박수·술객보다 십배의 특별 지혜는 개인 경쟁 성과를 보증할 수 없다.",
+      "contextNote": "네 청년의 궁중 평가.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:1:21",
+      "textSha256": "c7347dd92a4a4b8ff849a833e38d068bdcd57c6cbe82a8b1d1047dab559f991c",
+      "status": "exclude",
+      "reason": "고레스 원년까지 있었다는 재직 연대만 있다.",
+      "contextNote": "다니엘 장기 활동 연대.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:1",
+      "textSha256": "9a64cdf0dd3c11fd315dca515c649d0dad93ced97ff6bef2ae6222a02a3ea9e9",
+      "status": "hold",
+      "reason": "꿈 때문에 잠 못드는 상태는 불안과 닿지만 일상 걱정과 다른 예언 꿈이라 선택 단서는 약하다.",
+      "contextNote": "왕의 꿈과 불면.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:2",
+      "textSha256": "d1c0d35688f4a9999493b9b156ac1e648ef471bcf5a613f0a068dd834dfc48db",
+      "status": "exclude",
+      "reason": "술사·박수 소집은 점술 직무와 꿈 해석 도입이다.",
+      "contextNote": "꿈 해석자 호출.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:3",
+      "textSha256": "6ca5b3a463d56912dbf899e19d3cc840f2c82f26b1d3f66f83f39e42e35f513b",
+      "status": "hold",
+      "reason": "답을 몰라 번민하는 마음은 보이나 구체 선택 실마리는 응답 뒤에 있다.",
+      "contextNote": "왕의 꿈 불안 진술.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:4",
+      "textSha256": "d23ae69a97f1efdae57223ed55ef69d26bccb02158861cd4e57babf0db868d19",
+      "status": "hold",
+      "reason": "자료를 먼저 달라는 요청은 의논에 닿지만 만세수·술사의 해석 약속은 상황 설명이 필요하다.",
+      "contextNote": "술사들이 꿈 내용 요청.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:5",
+      "textSha256": "e7a93a934da2f80cd3c83962d89aabc7f1a58a196caff4b8b1a98f6dd31ad9d9",
+      "status": "exclude",
+      "reason": "몸 쪼갬·집 거름터 처벌은 설명 없는 불가능 과제의 폭력이다.",
+      "contextNote": "왕의 해석 강요와 벌.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:6",
+      "textSha256": "e561b0153c47735a9c501ac17a015147d2c9d43d310bec89fc1a6ca68d687cca",
+      "status": "exclude",
+      "reason": "꿈 해석에 큰 상 준다는 조건은 현재 조언·지식의 결과 보장이 아니다.",
+      "contextNote": "왕의 해석 강요와 보상.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:7",
+      "textSha256": "d423c82c648947fe48a37f02646089d65a605a4919b4a992456b9d957dbac69a",
+      "status": "hold",
+      "reason": "모르는 내용을 먼저 물어봄은 정보 확인에 닿지만 꿈 해석 약속이라는 상황 의존이 크다.",
+      "contextNote": "술사의 재차 자료 요청.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:8",
+      "textSha256": "2c3d2b6e688f3fa71426c187b1d840aa83b84f01742d56e3e91542ed58b24a30",
+      "status": "exclude",
+      "reason": "시간 천연의 옛말·상대 의도 확정은 답장 지연을 꾸며낸 악의로 만들 수 있다.",
+      "contextNote": "왕의 술사 시간끌기 비난.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:9",
+      "textSha256": "f99313c8643d2c7d2609ceb522039ddd67fbaf3a9e13cd9383586fa46b7a0ebb",
+      "status": "exclude",
+      "reason": "변하는 때 기다리며 거짓 꾸민다는 단정을 상대의 실제 속마음으로 못 읽는다.",
+      "contextNote": "술사에 대한 왕의 의심·강요.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:10",
+      "textSha256": "c328dd10c18171d981c45920b6f35ded8ad35b2810386a3c0c859926e0eaf287",
+      "status": "hold",
+      "reason": "불가능한 요구를 말하는 경계는 있으나 모든 술사와 세상 누구도 못함의 단정이 커서 생활 부담에 비례가 낮다.",
+      "contextNote": "술사들이 과제의 불가능 호소.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:11",
+      "textSha256": "23178aa2d42e78aa589e629df8d9462afa7c9e8cb74b98523718cb5717c7893f",
+      "status": "hold",
+      "reason": "사람 능력의 한계는 보이나 신들만 꿈을 알 수 있다는 특정 답이 일반 역할 제한과 다르다.",
+      "contextNote": "술사들의 능력 한계 진술.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:12",
+      "textSha256": "285f205710eae22a5c76e94344dc913f3a182257599203c3d03cf1dcd8a61bd5",
+      "status": "exclude",
+      "reason": "진노하여 모든 박사 멸함은 갈등 해결의 선택 실마리가 아니다.",
+      "contextNote": "왕의 학살 명령.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:13",
+      "textSha256": "ad9376b4556e52364c8a1ccead71f9c3c2b918e049a39867fef5e1ce0232eccf",
+      "status": "exclude",
+      "reason": "다니엘 일행도 죽이려 찾음은 사용자 도전 결과를 예측하지 않는다.",
+      "contextNote": "학살 대상 확대.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:14",
+      "textSha256": "5ca2ece1e798fab3bb325a1f07f8a6acd883713a57f7ccef1431c7e92f65eabd",
+      "status": "hold",
+      "reason": "슬기로운 말로 반응하는 모습은 보이나 말 내용이 뒤에 있어 충분함이 낮다.",
+      "contextNote": "다니엘의 위기 대화 도입.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:15",
+      "textSha256": "6a567259b24dbf98d82a9bfd07889683f12e1d5f991a507279b73c5f7cc8ca60",
+      "status": "hold",
+      "reason": "명령이 왜 급한지 확인함은 기한 대화에 닿지만 처형 위기라는 배경이 현재 마감과 다르다.",
+      "contextNote": "급한 왕 명령의 이유 확인.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:16",
+      "textSha256": "665f1901cca5a5551b237fac5fa6cd5c769c6020c87e85dfd8149c8a0e8c6796",
+      "status": "hold",
+      "reason": "기한 요청은 한계 말하기에 닿지만 해석해주겠다는 약속을 지금 능력과 무관하게 권할 수 없다.",
+      "contextNote": "다니엘의 유예 요청.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:17",
+      "textSha256": "e617067b05164e55da6795742d11922d223816c4ff5162635a3d7daa851743d8",
+      "status": "hold",
+      "reason": "동무에게 어려움을 알림은 도움 요청에 닿지만 고하고로 끝나 뒤 생사 기도의 의존이 있다.",
+      "contextNote": "다니엘의 동료 상의.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:18",
+      "textSha256": "70ec87c9003de707ccae55b32a4b8978f94b7647dabc52b5c3ec9b1afded2986",
+      "status": "exclude",
+      "reason": "동무와 죽지 않도록 구함은 생활 도움 요청을 생사 문제로 확대한다.",
+      "contextNote": "함께 긍휼을 구하는 기도.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:19",
+      "textSha256": "d2286db1935a447529b5f95e2bb359a4d0a3444edab1c28b34b5daa4f1bf78fc",
+      "status": "hold",
+      "reason": "뜻밖의 해답을 받은 감사는 있지만 꿈 계시를 내 결정의 확정 신호로 읽으면 안 된다.",
+      "contextNote": "밤에 꿈의 계시를 받음.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:20",
+      "textSha256": "51d17c152d88f41d467120d0588e3917f6bb4706f079a7527f2c1854577f8c8b",
+      "status": "hold",
+      "reason": "지혜가 나에게만 있지 않음은 겸손에 닿으나 찬송 자체라 선택 단서는 간접적이다.",
+      "contextNote": "지혜·권능의 하나님 찬송.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:21",
+      "textSha256": "46d3cf578d22a3b5d0a9acc2752960785d6f3d3e65f6e9e3089296fcd16a980c",
+      "status": "hold",
+      "reason": "때와 권세의 변화를 인정하지만 개인 마감 연장·성과 역전을 보장하지 않는다.",
+      "contextNote": "역사와 지혜를 주관하는 신.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:22",
+      "textSha256": "8df44cb81732f398ac4e43d2ae819e787f5ca95adbd299444d81f2e4cc405798",
+      "status": "hold",
+      "reason": "모르는 일도 알고 있음은 위로지만 미확인 상대 마음에 대한 정답을 주지는 않는다.",
+      "contextNote": "깊고 은밀한 일을 아는 신.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:23",
+      "textSha256": "3c82851a0f37f85e09e96baa86816ee2cabe8444ee45a2699dbb46261cad449a",
+      "status": "hold",
+      "reason": "받은 도움에 감사하는 길은 보이나 왕 꿈이 알려진 결과를 내 요청 성공과 같게 할 수 없다.",
+      "contextNote": "꿈 해석 계시의 감사.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:24",
+      "textSha256": "b595f51fa18d792ae269d093af817af1fa8629b6a78bc7d42e3e6e9d4782fc20",
+      "status": "hold",
+      "reason": "남도 살리는 해결 시도는 보이나 모두 처형 직전·해석 확신이라는 조건이 일반 도움과 다르다.",
+      "contextNote": "박사 구출과 왕 면담 요청.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:25",
+      "textSha256": "02da9b6979f79978c3a2839d4a558f872d8595d6bf19fffca70ff1c279bd813f",
+      "status": "exclude",
+      "reason": "아리옥이 찾은 해석자라는 왕 앞 보고는 선택 내용이 없다.",
+      "contextNote": "다니엘을 왕에게 소개.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:26",
+      "textSha256": "0ad99fa81d8e8b9c027b7afe4ab4aa4c21a0de2c70d63f5b32b8f6f79fc79606",
+      "status": "exclude",
+      "reason": "꿈과 해석 가능 여부의 질문만 있어 실마리가 미완이다.",
+      "contextNote": "왕의 능력 확인 질문.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:27",
+      "textSha256": "ba461cbc4975dabd76944e188cf992bdc9513752787dcaf7c9b5e86b8a4ca2bd",
+      "status": "exclude",
+      "reason": "여러 점술직의 능력 부정과 없으되 결말은 뒤 신 계시 설명에 의존한다.",
+      "contextNote": "사람만으로 꿈 모름 진술.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:28",
+      "textSha256": "661671e9a3be0d3533a22c42ce2c37877d1c68664eaabdd26375bed87ab2347f",
+      "status": "exclude",
+      "reason": "신이 왕에게 후일 알림과 꿈 도입은 생활 불확실 조건을 확정하지 않는다.",
+      "contextNote": "꿈 출처·목적 확인.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:29",
+      "textSha256": "4e2ccbade3bdcb907699aa78f613fc8fe9e8be33676b395bff1e3f507a26c168",
+      "status": "exclude",
+      "reason": "장래 생각의 왕에게 신이 알렸다는 사건을 내 미래 직감으로 보장할 수 없다.",
+      "contextNote": "왕 꿈의 미래적 성격.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:30",
+      "textSha256": "87597c869b355d00ed89b79bc895ef33378f32a0aa6fe4fa6d9035d76453625d",
+      "status": "hold",
+      "reason": "남보다 내가 낫기보다 이해 돕는 목적은 겸손에 닿지만 은밀한 계시·왕의 마음이라는 특수 상황이다.",
+      "contextNote": "다니엘이 계시를 자기 우월과 구별.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:31",
+      "textSha256": "e9398d2202f46171101d13fada448fd3ac3189961e8b3edccfad9c777bed7a25",
+      "status": "exclude",
+      "reason": "신상의 크기·광채·두려움 소개만 있어 뜻이 없다.",
+      "contextNote": "왕 꿈의 신상 묘사.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:32",
+      "textSha256": "86201449f4f024cb9d7ed7c6d6b16bb6b59bcab94bcbc7bf9c534d1069a7cf29",
+      "status": "exclude",
+      "reason": "금·은·놋의 신체 부분은 다음 왕국 풀이가 필요하다.",
+      "contextNote": "신상 위쪽 재료.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:33",
+      "textSha256": "9ca4e0ae2fdc173f2b4cbf637bd3b5cce24bfef5d92591303d216625cddfc8cc",
+      "status": "exclude",
+      "reason": "철·진흙 다리·발은 구조 목록이며 현재 선택의 방향이 없다.",
+      "contextNote": "신상 아래쪽 재료.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:34",
+      "textSha256": "a1e760a5010807f8c96c3fd5fdc96309414f64548b7988b2547910536dc361a4",
+      "status": "exclude",
+      "reason": "손 안 댄 돌이 발 부숨은 국가 심판 상징이라 장애 해결로 읽기 어렵다.",
+      "contextNote": "신상을 친 돌.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:35",
+      "textSha256": "ceb485af48f8d0ad3783bf38ef714e4803588c6c7f93c87a2636a3f85622209d",
+      "status": "exclude",
+      "reason": "모든 금속 소멸·돌이 태산 됨은 상징 풀이 없이 성공 격려로 쓸 수 없다.",
+      "contextNote": "신상 붕괴와 큰 돌 나라.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:36",
+      "textSha256": "b0d38f5718f1aec305e62de1fb4877908e6f6af778810e52c53623a6d9fcbda9",
+      "status": "exclude",
+      "reason": "해석하겠다는 도입만 있어 판단 내용이 없다.",
+      "contextNote": "꿈 해석 시작.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:37",
+      "textSha256": "59b4760d8bd536ccac8745c3886489a7a55bc690a0f5b2fc7b7f813f24a5b86a",
+      "status": "exclude",
+      "reason": "왕에게 나라·권세 주신 지정 사건의 미완절은 개인 역할 인증이 아니다.",
+      "contextNote": "바벨론 왕의 권위 기원.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:38",
+      "textSha256": "556b393b60b07673afead3e2f44da5c9fc17496a6701af56f2fbf052418794bc",
+      "status": "exclude",
+      "reason": "짐승·인간 다스릴 금머리 왕은 신상·국가 해설을 필요로 한다.",
+      "contextNote": "금머리를 바벨론으로 풀이.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:39",
+      "textSha256": "0eda7be209386c737abc50701296c04ce896ab88b360d0c5d27089843e5cc01c",
+      "status": "exclude",
+      "reason": "후속 두 나라의 세계 지배는 개인 다음 기회를 말하지 않는다.",
+      "contextNote": "둘째·셋째 왕국 예언.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:40",
+      "textSha256": "6b8a073fe11c6c1284f9d19dd2fa9044cabff25687cf6fcb6b7eff31eb3de4e1",
+      "status": "exclude",
+      "reason": "철처럼 나라들을 빻는 강함은 도전·경쟁의 좋은 실마리가 아니다.",
+      "contextNote": "넷째 철 왕국.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:41",
+      "textSha256": "0aa8db789f173b648109ee650830464d4485f39623aa591935eb0ef3a86e6378",
+      "status": "exclude",
+      "reason": "진흙·철의 분열 나라 설명은 시대 상징 풀이가 먼저다.",
+      "contextNote": "복합 재료 왕국.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:42",
+      "textSha256": "d7268a11462556173ad20d42bc64c8704a91f9bfde2584af9672abcb2d4bdd1d",
+      "status": "hold",
+      "reason": "강함과 깨짐이 함께 있음은 완벽 기준에 닿지만 발가락과 나라의 미완 설명이라 직접성이 낮다.",
+      "contextNote": "부분적으로 약한 마지막 왕국.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:43",
+      "textSha256": "f7a8bcaae34d15cb33480c8744730c5f85f967f9ecd4fae8e3c71d9a0832d263",
+      "status": "exclude",
+      "reason": "인종이 섞여도 안 합함을 개인 친구 관계의 조화 불가로 옮길 수 없다.",
+      "contextNote": "철·진흙의 불완전한 통합.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:44",
+      "textSha256": "3b34825a9d55cd8810dbfcc104a49a87ecbad52de9191b2d1274531d66eadbc3",
+      "status": "exclude",
+      "reason": "영원히 망하지 않고 모든 나라 멸할 나라 약속은 개인 시도의 성공 보장이 아니다.",
+      "contextNote": "신이 세울 영원한 나라.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:45",
+      "textSha256": "8ed6b5c6e80b70861e558919a3986370336fee15e6540a05843e310909f0c1ab",
+      "status": "exclude",
+      "reason": "꿈·해석이 확실함은 왕에게 주어진 역사 예언이지 추첨을 정답이라 인증할 말이 아니다.",
+      "contextNote": "꿈 해석의 확실성 확인.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:46",
+      "textSha256": "1e2af6d4b9b8f6a976f4dc8f6f148b85d8e04b01265e5de1c621a7db8c702bde",
+      "status": "exclude",
+      "reason": "왕이 다니엘에게 절·향품 준 사건은 내 성과 인정 결과가 아니다.",
+      "contextNote": "왕의 다니엘 경외.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:47",
+      "textSha256": "695752509da837095aa072cea30375275afc23d2f352f81abf706740d54764d3",
+      "status": "hold",
+      "reason": "해답 주신 신을 인정하는 감사는 있으나 모든 신·왕의 주재 찬송이 선택 단서보다 앞선다.",
+      "contextNote": "왕의 신 인정.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:48",
+      "textSha256": "3f012449340edbaae540c33d7526851544ccd1a37a1e0b69821a876a7839e96f",
+      "status": "exclude",
+      "reason": "높임·귀한 선물·지도자 배치의 성공은 내 지원 전망을 보장하지 않는다.",
+      "contextNote": "다니엘의 승진.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:2:49",
+      "textSha256": "919108a515e5eccc19caaa2d2c2991dc80d9185b4598674a5cde14007d343e33",
+      "status": "hold",
+      "reason": "동료도 함께 기회를 얻도록 요청함은 공동 기여에 닿지만 세 이름과 왕국 직무의 특정 결과다.",
+      "contextNote": "다니엘 동료의 동반 배치.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:3:1",
+      "textSha256": "d130d0bb8abe5960452790949c9a5835c9d78aa3ff60706169ff8d84883e243e",
+      "status": "exclude",
+      "reason": "규빗·두라 평지 신상 설치는 치수·지명 설명이 필요하다.",
+      "contextNote": "금 신상 설치.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:3:2",
+      "textSha256": "0489673baac4c68c0a32b8b8f14ee9959411ad6aa4132f1122e46854f341adf6",
+      "status": "exclude",
+      "reason": "여러 관직·참집 명령 나열은 옛말 풀이가 필요하다.",
+      "contextNote": "신상 낙성 행사 소집.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:3:3",
+      "textSha256": "089fb1727bd7bfd4ef0df60ad72cca725468f6aa269886a191abbc35640d70eb",
+      "status": "exclude",
+      "reason": "같은 관직·참집·서 있음 반복은 생활 선택 의미가 없다.",
+      "contextNote": "관원들의 낙성 참석.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:3:4",
+      "textSha256": "2b3da83d412a743ee48eb50ff9b4c875e06d1043fe794079e38f49d4d3d5e382",
+      "status": "exclude",
+      "reason": "왕 명령 수신을 부르는 도입만 있어 실제 요구가 없다.",
+      "contextNote": "신상 경배 반포 도입.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:3:5",
+      "textSha256": "7a21dd28258dc1126cb69e8599459efa70326a0f1ee77218283e2f2063ec430d",
+      "status": "exclude",
+      "reason": "악기 소리에 금신상 절하는 명령은 개인 행사 참석과 다르다.",
+      "contextNote": "왕의 강제 경배 명령.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:3:6",
+      "textSha256": "d0412d25645d7a2d65b472c3cd56a58940b10ad0b14ca1cb2c74e42f5f4d0e2e",
+      "status": "exclude",
+      "reason": "절 안 하면 풀무에 던짐은 사람 선택에 폭력 위협이다.",
+      "contextNote": "경배 불응 처벌.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:3:7",
+      "textSha256": "85f4d4b6f5bc0c1c1ef6e9c4bc64f3999b9ebf999480079737f31424d2121bd7",
+      "status": "exclude",
+      "reason": "모든 민족·악기·신상 절의 나열은 집단 복종 기록이다.",
+      "contextNote": "명령에 따른 집단 경배.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:3:8",
+      "textSha256": "13f13f80c43492e9b7cd1945ed11e19ee279f063f63e6bf8a3e7535cf7aa7ace",
+      "status": "exclude",
+      "reason": "참소했다는 사건만 있어 참소의 진실 여부·행동이 빠졌다.",
+      "contextNote": "유다 청년 고발 시작.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:3:9",
+      "textSha256": "0e1d270c011a970a9be58bbc16387b37dba2435a311579a61928dbad3a54d2f9",
+      "status": "exclude",
+      "reason": "만세수라는 왕 인사만 있어 선택 단서가 없다.",
+      "contextNote": "참소자들의 왕 인사.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:3:10",
+      "textSha256": "167d400fb2309bf7d093fa7450d4f12c862b2ea92ecd9ff6937144702309fd55",
+      "status": "exclude",
+      "reason": "악기·금신상 명령의 반복 인용은 개인 가치판단 기준이 아니다.",
+      "contextNote": "참소자들이 경배법 상기.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:3:11",
+      "textSha256": "edea9090ad7cabf2bf8044f3902e4f1129df170a4f738a3bb780adafee996043",
+      "status": "exclude",
+      "reason": "풀무 처벌 인용은 작은 요구 거절의 현실 결과로 못 바꾼다.",
+      "contextNote": "참소자들이 벌 상기.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:3:12",
+      "textSha256": "fa5f225eb07bfa5a7b45b053dc671380012d31044acfe678f3c096ec8efa9000",
+      "status": "exclude",
+      "reason": "세 청년의 불복을 고발하는 말은 화자의 참소 목적과 분리하면 신뢰하기 어렵다.",
+      "contextNote": "유다 청년의 불경배 고발.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:3:13",
+      "textSha256": "da33321726a92b5923d1ae83776d6f2c47671f47b621d6e2acfe25d0bcce0899",
+      "status": "exclude",
+      "reason": "진노·분노로 불러온 왕은 갈등 표현의 좋은 단서가 아니다.",
+      "contextNote": "분노한 왕의 소환.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:3:14",
+      "textSha256": "1257532d8fe77601c350cba568ccdd15c21b2aeffc103dc4ae0b30bfd9c294f0",
+      "status": "exclude",
+      "reason": "왕이 일부러 경배 안했는지 묻는 질문은 개인 상대 마음의 정보가 아니다.",
+      "contextNote": "세 청년에게 불경배 확인.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:3:15",
+      "textSha256": "dacff5b5d3d60463b70ffeb69be22c176cf03329a5018260091b050d5eaf0d4b",
+      "status": "exclude",
+      "reason": "긴 악기 나열 뒤 풀무·구할 신 조롱은 생활 판단을 압도한다.",
+      "contextNote": "왕의 최종 경배 강요.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:3:16",
+      "textSha256": "2d0badbff09d8d0eb71fe46962ac4bd1222a3c3c2b4416339ad9f4b4d2e7c74c",
+      "status": "hold",
+      "reason": "압박에 구구히 변명 안함은 경계에 닿지만 왕에게 답할 필요 없음이 현재 대화 거부로 과하게 읽힐 수 있다.",
+      "contextNote": "세 청년의 담대한 답변 시작.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:3:17",
+      "textSha256": "b63ae691d9655d773af186da1e2513275f52126d0bc15002875a57914bc3d652",
+      "status": "hold",
+      "reason": "구원 가능성의 신뢰는 있지만 실제 위험·평가 결과를 안전으로 보장할 수 없다.",
+      "contextNote": "세 청년의 구원 신뢰.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:3:18",
+      "textSha256": "c8919d614e8b8c3b6044790e33d66f21a3f6a785df89701beed9803b0c1974ea",
+      "status": "candidate",
+      "reason": "원하는 결과가 없어도 압박에 동의하지 않는 선택이 이익과 사실의 갈등에 닿는다.",
+      "contextNote": "풀무에서 구원되지 않아도 다른 신을 섬기지 않겠다는 고백.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "불리하지 않을 확신이 있어야만 원칙을 지키는 것은 아니라는 개인 연결로 결과와 내 기준을 나눠볼 수 있다.",
+          "friction": "왕의 신상 경배·생사 위기이며 그리 아니하실은 앞의 구원 응답에 연결된다. 업무 결과를 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DAN:3:19",
+      "textSha256": "63817e1855bced56e3809b32f06f2e1a7add543794d607e06db7b9218150c9bc",
+      "status": "exclude",
+      "reason": "칠배 뜨겁게 벌하는 왕의 분노는 상대에게 경계 말하면 더 해친다는 예측이 아니다.",
+      "contextNote": "풀무 처벌 강화.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:3:20",
+      "textSha256": "99b4441d8e77a89b54cb6f5bee57b6d0d118ba2cb8b2fd9f3ba36178721b1a8c",
+      "status": "exclude",
+      "reason": "용사를 시켜 결박·불에 던짐은 일상 시도의 위험을 설명하지 않는다.",
+      "contextNote": "세 청년 처형 명령.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:3:21",
+      "textSha256": "ee167e82dc1c0677e043cb74c8bf817371a1bb385b83b5fb7f4c95880082e88c",
+      "status": "exclude",
+      "reason": "여러 옷 입힌 채 불에 던지는 미완 장면은 옛 복장 풀이가 필요하다.",
+      "contextNote": "결박과 풀무 투입.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:3:22",
+      "textSha256": "acc0c4d37f275e5cce851589adba3b4d5406305e44bb7dd26805b241fdbd913f",
+      "status": "exclude",
+      "reason": "처형자까지 불꽃에 죽음은 선택 단서 없이 재난을 더한다.",
+      "contextNote": "풀무의 과열 피해.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:3:23",
+      "textSha256": "43b184c70c6b7bee46d57c36c1c79b093baf845b3f25cf7a46c3ba0393753262",
+      "status": "exclude",
+      "reason": "세 청년 불에 떨어짐의 단독 장면은 회복 결과 없이 공포만 준다.",
+      "contextNote": "세 청년 풀무 안 추락.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:3:24",
+      "textSha256": "28ebcd254e459d18901d62747b50d63cc427fc96e4d529ebcf98bdf9cb1a799c",
+      "status": "exclude",
+      "reason": "셋 던졌는지 묻는 질문은 다음 기적 장면 없이 의미가 미완이다.",
+      "contextNote": "왕의 기적 확인 시작.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:3:25",
+      "textSha256": "8d141eb578d135e092f737bf2db857b3d2a64e42a917c1e86f2240879a5b7914",
+      "status": "hold",
+      "reason": "불 속 동행·상처 없음은 위로이나 현재 안전·회복의 결과를 보장할 수 없다.",
+      "contextNote": "왕이 본 네 번째 동행자.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:3:26",
+      "textSha256": "04360f7b379bc2f1bbba8c89f3bbf3a17ae2554ed28766fe82460f4260ddb93c",
+      "status": "exclude",
+      "reason": "불에서 나온 특정 청년들은 실제 위험 도전의 안전 근거가 아니다.",
+      "contextNote": "왕의 청년 석방.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:3:27",
+      "textSha256": "16754ad95c99432e2365c1d025beb577ad317bf128b9ad541bdc9b6bc78c2637",
+      "status": "exclude",
+      "reason": "머리·몸·옷·냄새 전부 안 탄 기적은 오늘 치료·안전 결과를 확정하지 않는다.",
+      "contextNote": "풀무 구원의 완전성 관찰.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:3:28",
+      "textSha256": "c572cc10fe674aa4f7cb9916aa2938d7f12a322be2b18bbb27d180dba1746f3d",
+      "status": "hold",
+      "reason": "권위보다 자기 신앙을 지킴은 닿지만 몸을 버린 신뢰와 구원 성공을 한 절에 읽어야 한다.",
+      "contextNote": "왕의 청년 신앙·구원 찬송.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:3:29",
+      "textSha256": "6ec105f23e30ff7b3cb60c32412b2ebc3f3641fdb0d69b313cfb6924ff634fe4",
+      "status": "exclude",
+      "reason": "설만히 말하면 몸 쪼개고 집 파괴함은 신 인정 명령 뒤 폭력이 연결을 깨뜨린다.",
+      "contextNote": "왕의 신 모독 처벌 조서.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:3:30",
+      "textSha256": "7bc46861cf90050c76175d595157313b5362c214e9bb1b675dee2dea706ad782",
+      "status": "exclude",
+      "reason": "청년들 더 높였다는 성공 결과는 현재 도전 평가를 보장하지 않는다.",
+      "contextNote": "청년들의 승진.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:4:1",
+      "textSha256": "6ca4b0e01f5c61dff950b546cdd4d6ac089d395158f20ece2c7d239b5b75d0b2",
+      "status": "hold",
+      "reason": "평강의 인사는 위로지만 선택의 두 부담을 가르는 단서가 없다.",
+      "contextNote": "왕의 조서 인사.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:4:2",
+      "textSha256": "613a56998c9059a04841b8ca8bed6cdb4d68f4eb52dc6a1477bd4b79129ef1b7",
+      "status": "hold",
+      "reason": "받은 일을 알리고 싶은 마음은 공유에 닿지만 이적·기사 체험의 회고라 구체 갈림길과 직접성은 약하다.",
+      "contextNote": "왕의 신적 체험 고백 도입.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:4:3",
+      "textSha256": "9a49547c83e6c048462e45b087238ff9c11a4e49457adac8893a717f787c2392",
+      "status": "hold",
+      "reason": "영원한 권병은 안정감이 있으나 옛말·왕국 찬송이 중심이다.",
+      "contextNote": "하나님 나라의 영속 찬송.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:4:4",
+      "textSha256": "30d3e2595ac35c315ac27465487c2907e7dc7a950f8ff0cacfd3f599373efa20",
+      "status": "exclude",
+      "reason": "궁의 평강 때라는 미완 배경으로 판단 내용이 없다.",
+      "contextNote": "꿈을 꾸기 전 왕의 상태.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:4:5",
+      "textSha256": "be245f66535ac7973b1f39d52f969cd340fcea9e9a41b4a9249b89cbcc53c329",
+      "status": "hold",
+      "reason": "생각 때문에 번민하는 경험은 닿지만 예언 꿈과 현재 상상의 불안은 같지 않다.",
+      "contextNote": "왕을 괴롭게 한 꿈.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:4:6",
+      "textSha256": "cc4c63b6c6c3f90d4d6f02180324ddf08252f49502d1e205310fad53cc133946",
+      "status": "exclude",
+      "reason": "박사를 소집하라는 명령은 궁중 꿈 해석 사건의 도입이다.",
+      "contextNote": "해석자 소집.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:4:7",
+      "textSha256": "048521b1d1ee70534b41b4697c19c6f340f4e8316c75c241c472a96ffd00283a",
+      "status": "hold",
+      "reason": "전문가도 답 모름은 불완전 수용에 닿지만 점술 직무·특정 꿈이라 실마리가 약하다.",
+      "contextNote": "술사들의 해석 실패.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:4:8",
+      "textSha256": "e2ac45765da34c6b343040299057f0ed9d4d8f7f95509ae61f55c6314f3346fe",
+      "status": "exclude",
+      "reason": "벨드사살의 신명·영과 꿈 도입은 역사 신앙 설명이 필요하다.",
+      "contextNote": "왕이 소개한 다니엘.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:4:9",
+      "textSha256": "215eea7a853b087fb4651cc735c695bede3217a612f124e1e93026af469ac047",
+      "status": "exclude",
+      "reason": "아무 은밀함도 어렵지 않다는 특별 능력을 내 조언자에게 보장 못 한다.",
+      "contextNote": "다니엘의 꿈 해석 요구.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:4:10",
+      "textSha256": "ed0eee7869c0bbd787778098583b0b741b50ba51b089372b9e06a76d71d9de60",
+      "status": "exclude",
+      "reason": "중앙의 높은 나무 도입만으로는 상징의 선택 의미가 없다.",
+      "contextNote": "왕국 나무 꿈 도입.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:4:11",
+      "textSha256": "1b618de88296a8a25fa0633b9ef96f544d048b0fb3d3190dea2e96ecc781658d",
+      "status": "hold",
+      "reason": "견고히 성장하는 모습은 격려이나 이후 심판받는 왕국이라 개인 성과 찬양으로만 못 읽는다.",
+      "contextNote": "나무의 거대한 성장.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:4:12",
+      "textSha256": "91f8db02b0d6aa9f3bd5e3c0b54d0a5529b25cef3174ade808cab6edcdf2d3cb",
+      "status": "hold",
+      "reason": "열매·그늘로 다른 이를 먹임은 돌봄에 닿지만 모든 생명의 의존은 국가 왕권 비유다.",
+      "contextNote": "나무가 품는 생명들.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:4:13",
+      "textSha256": "9b76703b52acee3e6f53aec2477fd8b23ec13d6df147eeae52e0c1e0e4dcf41c",
+      "status": "exclude",
+      "reason": "하늘 순찰자 출현은 후속 신적 명령의 장면 도입이다.",
+      "contextNote": "꿈의 심판자 등장.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:4:14",
+      "textSha256": "9f079ac68859f08e6ef1d86fff56c1d2a42b2ab7dd605269a23dc50d5688ddb2",
+      "status": "exclude",
+      "reason": "가지·열매·새·짐승을 모두 없애는 명령은 정리의 가벼운 선택과 다르다.",
+      "contextNote": "왕국 나무 베기.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:4:15",
+      "textSha256": "15895facb268de03e5fc063441ae5b1790f158adfe55c4ca9f0a6fa4f9abd8bf",
+      "status": "exclude",
+      "reason": "그루터기·철놋줄·짐승 분량은 왕의 짐승 상태 풀이가 필요하다.",
+      "contextNote": "왕을 제한해 남기는 표징.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:4:16",
+      "textSha256": "e5bea72cf2468ef7a79b9bcce42a25850daaf9d6cb5d0c3d0f3c94e86fd85f46",
+      "status": "exclude",
+      "reason": "짐승 마음으로 일곱때 지냄은 개인 혼란·건강 변화의 예측이 아니다.",
+      "contextNote": "왕의 인간성 상실 기간.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:4:17",
+      "textSha256": "1a84fb0bd89dc5b0c73af119d774ee63837d8f2977b85795f8dbb29079c12876",
+      "status": "hold",
+      "reason": "천한 자도 세워진다는 겸손은 있으나 왕의 심판·지정 권위를 개인 지위 역전 보장으로 못 쓴다.",
+      "contextNote": "나무 심판의 계시 목적.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:4:18",
+      "textSha256": "d28907005fa7e4dc1e008752bf338badbf19290cf5746f6cb79cf7be1cf5024b",
+      "status": "exclude",
+      "reason": "다니엘만 가능한 특별 해석은 내 조언자가 정답을 줄 거란 확신의 근거가 아니다.",
+      "contextNote": "왕의 다니엘 신뢰·해석 요구.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:4:19",
+      "textSha256": "c06d96b06005dadc0cc848a77332ab4975540b7e60bdb352357d367e940fb53f",
+      "status": "hold",
+      "reason": "좋지 않은 사실을 전할 번민은 닿지만 적에게 이뤄지길 바람은 상대 불행을 바라는 마찰이 있다.",
+      "contextNote": "꿈 의미에 대한 다니엘의 주저.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:4:20",
+      "textSha256": "ee788f4e3c4f84682db83cf05dea0055ff957fa5727e9ab5f83f3c6cf185c259",
+      "status": "exclude",
+      "reason": "큰 나무의 꿈 반복은 뒤 왕 대응 없이는 의미가 모호하다.",
+      "contextNote": "해석 전 나무 성장 재인용.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:4:21",
+      "textSha256": "ef1cad0ababba3c5ed7bf8820bc2bae2777f64127da7e3cf0e9a7bbb122b9efb",
+      "status": "hold",
+      "reason": "모두 먹이고 그늘 준 모습은 있지만 하시오니로 끝나 뒤 해석에 의존한다.",
+      "contextNote": "해석 전 나무 열매 재인용.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:4:22",
+      "textSha256": "37e2e67f21d26d32f08932a8fca8ebe109489a19f8c558e74a7103e542db132b",
+      "status": "exclude",
+      "reason": "왕의 권세가 하늘·땅끝 미침은 개인 도전의 전망을 보장하지 않는다.",
+      "contextNote": "나무를 왕으로 풀이.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:4:23",
+      "textSha256": "a58f3a0336a95d8e02971a0d705e50585de22752ae80d715e9f0bb4fd42202c5",
+      "status": "exclude",
+      "reason": "그루터기·쇠줄·짐승·일곱때 긴 명령 인용은 풀이 없이 어렵다.",
+      "contextNote": "나무 심판 재인용.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:4:24",
+      "textSha256": "bf3e2a5fc0af606087ee216a63d077cce1a7ecc1243e50693e0f3864ba21fa60",
+      "status": "exclude",
+      "reason": "명정한 일이 왕에게 미친다는 도입만 있어 내용이 없다.",
+      "contextNote": "심판 해석 도입.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:4:25",
+      "textSha256": "de0d67f68150759dbcbff90bb06a3b6e586e62286ce334324a4e348d3f452f6e",
+      "status": "exclude",
+      "reason": "짐승생활·일곱때 고통을 개인 쉼·회복의 과정으로 옮길 수 없다.",
+      "contextNote": "왕의 수치로 신 인식.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:4:26",
+      "textSha256": "bbdb561e74f63445af65b629dad86d318daace03609189615dbc010e03b5882b",
+      "status": "hold",
+      "reason": "그루터기가 남아 다시 서는 회복은 있지만 하나님 통치 인정 후 왕국 회복이라는 조건을 개인에게 보장 못 한다.",
+      "contextNote": "나무 그루터기의 회복 풀이.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:4:27",
+      "textSha256": "4bbddab0798ac5981e694fdd793f483ee3eca69969ef899f5f75586812c3859a",
+      "status": "hold",
+      "reason": "공의·가난한 자 돌봄은 닿지만 죄 속함과 왕의 장구한 평안이라는 예언적 권면이 생활 나눔 효과로 오독된다.",
+      "contextNote": "다니엘의 회개 권고.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:4:28",
+      "textSha256": "41b13f51123e0bc86ef53ea407492d315bbc5d0d88ef83bf0488bbfa2af726f5",
+      "status": "exclude",
+      "reason": "이 모든 일 임함은 앞의 심판 꿈 없으면 뜻이 비어 있다.",
+      "contextNote": "왕에게 이뤄진 심판 도입.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:4:29",
+      "textSha256": "f56d7778c313ffdf9bcdda24ff8125b85084bb0f67c4ab24cf8d0f906e59f0bb",
+      "status": "exclude",
+      "reason": "열두달 뒤 궁 지붕 걷는 미완 장면만 있다.",
+      "contextNote": "왕 자만 발언의 시점.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:4:30",
+      "textSha256": "07ca52edc923d1fa69340f675a66186f733b5813a42ae1a64314bd1abeb9706f",
+      "status": "hold",
+      "reason": "나만의 능력이라 자랑함은 성찰되지만 내 성과 만족을 왕국 자만과 같은 죄로 만들면 안 된다.",
+      "contextNote": "왕의 자력 건설 자랑.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:4:31",
+      "textSha256": "a794536595d6170d0f080ac94861fedcad4202b0410eecd674d336dbef8c23ab",
+      "status": "exclude",
+      "reason": "말 도중 왕권 상실의 신적 예고는 개인 발언의 결과를 보장하지 않는다.",
+      "contextNote": "왕 자만에 대한 하늘 선언.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:4:32",
+      "textSha256": "77d084c20d30567ac7958150bf154bd353c2e46fc4e899aa3af4651459449407",
+      "status": "exclude",
+      "reason": "풀 먹는 짐승 생활·일곱때라는 벌은 일상 자신감에 비례하지 않는다.",
+      "contextNote": "왕의 짐승생활 예고 재진술.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:4:33",
+      "textSha256": "3c688aaf44d0d06dd17c2b5904ebc341b39ec55c96d5f91215043ef559413065",
+      "status": "exclude",
+      "reason": "독수리털·새 발톱 된 수치의 실현은 건강 고민에 근거 없는 병상을 암시한다.",
+      "contextNote": "왕 심판의 실제 변화.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:4:34",
+      "textSha256": "3355740107fd59c293b63da733078c277fcc926331f2b30113302d2281a72645",
+      "status": "hold",
+      "reason": "총명 돌아와 감사함은 회복 위로지만 기한 차면 낫는 특정 사건을 내 상태에 보장 못 한다.",
+      "contextNote": "왕의 정신 회복과 찬송.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:4:35",
+      "textSha256": "cd36971e58d600ca2238f679ebba91f5bfe60b28153e9d1c5d0017f2161cbbe0",
+      "status": "hold",
+      "reason": "내 통제 밖을 인정할 여지는 있지만 모든 거민을 없는듯 여김·질문 불가가 주체성을 약하게 할 수 있다.",
+      "contextNote": "신의 절대 주권 고백.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:4:36",
+      "textSha256": "c2cd74cc57dd2bca876d6121e025446c56e638a7558e723e520d5e95b381a3c5",
+      "status": "exclude",
+      "reason": "지혜·명성·권세 전부 더 회복됨을 개인 재도전 결과로 보장 못 한다.",
+      "contextNote": "왕권의 완전 회복.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:4:37",
+      "textSha256": "d971c1240073451cb3111591dce82c9dd29143c0b59ab09b8a774b38aa67ebca",
+      "status": "hold",
+      "reason": "교만한 자도 낮아질 수 있다는 성찰은 있으나 왕의 심판 회고가 현재 상대의 추락 예고가 되어서는 안 된다.",
+      "contextNote": "왕 고백 결론.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:5:1",
+      "textSha256": "2c301ffc5c8e671dc6e7ac834ed69e931ef6920ef7d4c5265c5f7920359f6c33",
+      "status": "exclude",
+      "reason": "천명 잔치와 왕 술은 장소·행사 도입이라 단서가 없다.",
+      "contextNote": "벨사살 잔치 시작.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:5:2",
+      "textSha256": "988bfafc5e9638fd47383ab8cfd4b58bd485751e2aab6f8c5bf9c47802f25247",
+      "status": "exclude",
+      "reason": "성전 기명·왕후·빈궁을 술잔치에 쓰는 배경은 제의 풀이가 필요하다.",
+      "contextNote": "성전 기구 소환.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:5:3",
+      "textSha256": "0f5684d3916e6e77b10d02279fea2f44119689535c8f7076b0c54c9e5de60b2a",
+      "status": "exclude",
+      "reason": "성소 그릇으로 술 마시고의 미완 사건은 일반 누림 선택과 다르다.",
+      "contextNote": "성전 기구의 모독적 사용.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:5:4",
+      "textSha256": "dee2cb9eec92f54af9bc3bac5d0e74c908d004d32347173d205b8f22b5a058f4",
+      "status": "exclude",
+      "reason": "재료별 우상 찬양의 목록은 생활 선택 단서가 없다.",
+      "contextNote": "잔치의 우상 찬양.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:5:5",
+      "textSha256": "5cd271b2ecc01c8ac49c547f03ffd23b81b1be68fcc317f1a1a9753c35e5ec49",
+      "status": "exclude",
+      "reason": "분벽에 나타난 손가락은 기적 심판의 도입이라 풀이가 필요하다.",
+      "contextNote": "벽글 출현.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:5:6",
+      "textSha256": "60914b2b4b3247b7f86ac2da4df552e92b1ccfd554a1a4f998636f77af98f98b",
+      "status": "hold",
+      "reason": "즐거움이 불안으로 바뀜은 감정에 닿지만 무릎 부딪히는 신현 공포는 생활 고민에 과하다.",
+      "contextNote": "왕의 충격과 떨림.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:5:7",
+      "textSha256": "ade123e973e8377968dbc793f5695151c11a94f7ccfdf2ffcbf9e7604af86e1f",
+      "status": "exclude",
+      "reason": "점술가 호출·금사슬·승진 보상은 꿈 글 해석의 특별 계약이다.",
+      "contextNote": "벽글 해석 보상 제시.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:5:8",
+      "textSha256": "2c24f22b4c12d29728062d2e84308a939e923c0b657190a1e9de5e629db7686d",
+      "status": "hold",
+      "reason": "전문가가 모르는 일은 인정할 여지가 있으나 기적 벽글을 생활 정보와 같게 볼 수 없다.",
+      "contextNote": "왕 박사들의 해석 불가.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:5:9",
+      "textSha256": "4641fb8c994355a460a312d8d336cc22d4bde4d3ae736e3d8c469eefa8cd11cb",
+      "status": "exclude",
+      "reason": "모두 놀라 낯 변함은 걱정 상태만 있어 선택 방향이 없다.",
+      "contextNote": "해석 실패 뒤 왕·귀인 반응.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:5:10",
+      "textSha256": "76a1a7a55d42cbd80c7a6e3f33f175d292245ae1c1b30a5d77afb387eb3ec4aa",
+      "status": "hold",
+      "reason": "번민 말라는 위로는 있으나 만세수·궁중 인사와 근거 없는 안정감이라 충분함이 낮다.",
+      "contextNote": "태후의 왕 안심.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:5:11",
+      "textSha256": "095e990dc3c3f3d01142a294fc08866a7a583f794a443f3fa91880f2ab3469d6",
+      "status": "exclude",
+      "reason": "다니엘 신분·술사 우두머리 설명은 특정 해석자 소개다.",
+      "contextNote": "태후가 다니엘의 자격 설명.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:5:12",
+      "textSha256": "de335ed554aca70371f991e0169a613e38c98ba001282b7560f84db51d455bf2",
+      "status": "hold",
+      "reason": "혼자 못 풀 때 아는 이를 부름은 닿지만 반드시 해석해준다는 특별 능력·결과를 조언자에게 보장 못 한다.",
+      "contextNote": "태후의 다니엘 추천.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:5:13",
+      "textSha256": "a3234eff9ebb7b0fa8af6f042032f0cef14ff6cd8fe95f88c1598827af3f60e4",
+      "status": "exclude",
+      "reason": "포로 출신인지 묻는 신원 질문만으로 선택 실마리가 없다.",
+      "contextNote": "왕과 다니엘의 대면.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:5:14",
+      "textSha256": "7946ffd28e21167c93bad718562cfa483cc0b3164c7d0bf6f671a548fb0e0465",
+      "status": "exclude",
+      "reason": "신의 영·비상한 지혜 평판은 개인 조언자의 믿을 만함을 말해주지 않는다.",
+      "contextNote": "왕이 들은 다니엘 평판.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:5:15",
+      "textSha256": "eb20fca0f3229a9b739d0ebde7bc96f8c811081f0aa9bd810e0f8f3d53660911",
+      "status": "hold",
+      "reason": "현재 전문가도 답 모름은 보이나 술객·기적 글의 문맥이 해설을 요구한다.",
+      "contextNote": "왕이 앞 해석 실패 설명.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:5:16",
+      "textSha256": "9965fefd3ec11e4381a00d34a71825f44628f4131d64f5d2c6266e9c2a8c0ec3",
+      "status": "exclude",
+      "reason": "능력·승진·금사슬의 보상은 도움 요청 결과를 새로 만든다.",
+      "contextNote": "왕의 다니엘 보상 제안.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:5:17",
+      "textSha256": "1f5da91acca793682a3f41ae4665ee58ad8a374f9e6a4835886a399a73bb6b67",
+      "status": "hold",
+      "reason": "보상 없어도 아는 것을 돕는 모습은 닿지만 특정 왕 벽글 해석이라 생활 선물·판매 연결에 직접성은 낮다.",
+      "contextNote": "다니엘의 상급 거절과 해석 약속.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:5:18",
+      "textSha256": "1e98f55c9f234abd630e6b56bd0b2e655c5a6b758a57f0b0486765d7ac1dea0f",
+      "status": "exclude",
+      "reason": "느부갓네살에게 권세 주신 미완 서술은 생활 역할의 인증이 아니다.",
+      "contextNote": "앞 왕의 권세 기원.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:5:19",
+      "textSha256": "fc797c889abd67448972848571c03c4e8c22f859ea99fa2dba1371f98625bbd5",
+      "status": "exclude",
+      "reason": "임의로 죽이고 살리는 왕권은 결정 주체성의 모범으로 삼을 수 없다.",
+      "contextNote": "느부갓네살의 무제한 권력.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:5:20",
+      "textSha256": "4cf2f5e5cfcc4b07ba0653de78e3123a6519173e089d04bb3b402c270d4e2b62",
+      "status": "exclude",
+      "reason": "왕위·영광 빼앗긴 미완 사건은 개인 자존심 갈등에 과한 벌이다.",
+      "contextNote": "앞 왕의 교만 심판.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:5:21",
+      "textSha256": "4777ff2356593b55e1ec6edeb2f8a6b3eb03eccb490a4c0de42723b60feb5761",
+      "status": "exclude",
+      "reason": "들나귀·소 풀·짐승 마음의 긴 심판은 작은 자신감에 비례하지 않는다.",
+      "contextNote": "앞 왕의 짐승생활 회고.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:5:22",
+      "textSha256": "124cb1da090fffb1018926794e4e930790e60e388d98ce588960a2bf8b6ba9bb",
+      "status": "hold",
+      "reason": "이미 아는 사례에도 겸손 안함은 배움에 닿지만 고하고로 끝나 뒤 모독 죄목이 필요하다.",
+      "contextNote": "벨사살의 의도적 망각.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:5:23",
+      "textSha256": "9d63d5686a667ea190b628bb0a0a9c7de019f6d0f91385fe5a454a46be242be1",
+      "status": "exclude",
+      "reason": "기명·여인·재료별 우상·호흡 신의 긴 죄목은 해설과 정죄가 앞선다.",
+      "contextNote": "벨사살의 성소 모독 고발.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:5:24",
+      "textSha256": "6570fce4260a841e0569c1b1937f872c7c5c213763ae5ad971297ffecb16a4a4",
+      "status": "exclude",
+      "reason": "글쓴 손이 나온 이유는 앞 죄목 없이는 독립 의미가 없다.",
+      "contextNote": "벽글의 출처·이유.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:5:25",
+      "textSha256": "9ec24f952d7a3efe133c436270d6313199ed1612cca65f78ad16dbbd31c25ac3",
+      "status": "exclude",
+      "reason": "메네·데겔·우바르신만 나열해 번역 해설이 필요하다.",
+      "contextNote": "벽글 원어.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:5:26",
+      "textSha256": "65e795f96c78bb24a482c6190c17173c7fdfc586c1cd061ccee19c3171abcc85",
+      "status": "exclude",
+      "reason": "메네와 왕 나라 끝은 아람어 풀이이지 개인 기한 확정이 아니다.",
+      "contextNote": "첫 글자 해석.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:5:27",
+      "textSha256": "15820dc4db98384253b7a9571416fc157da12722cd824ac52abae40b79f45001",
+      "status": "hold",
+      "reason": "저울에 달려 부족함은 점검에 닿지만 데겔·왕의 심판을 불완전 작품에 적용하면 과한 가치판정이다.",
+      "contextNote": "둘째 글자의 평가 심판.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:5:28",
+      "textSha256": "22ef472e62487106d472cab36f0725aeafab2bbbd5bf89bf7b7515fc4b2f2dcf",
+      "status": "exclude",
+      "reason": "베레스·메대·바사 왕권 이양은 특정 역사 해석이다.",
+      "contextNote": "셋째 글자 해석.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:5:29",
+      "textSha256": "200426ff6871091f1428d4b35eca4a8f9727ea27f115c55b2508e95ae3e100bd",
+      "status": "exclude",
+      "reason": "금사슬·옷·고위직의 보상 결과는 내 정직함의 성공 보장이 아니다.",
+      "contextNote": "왕이 다니엘에게 보상.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:5:30",
+      "textSha256": "77750b0b40486da02f5e880c14c451c6b69a9bec2e773bce9700905f2d8144aa",
+      "status": "exclude",
+      "reason": "그날 왕이 죽었다는 사건은 현재 선택에 필요 없는 죽음 예고가 된다.",
+      "contextNote": "벨사살 최후.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:5:31",
+      "textSha256": "bc08de8cd8d3167def8d41afa5423e6f6e7916b8a9e49bc285ac07822f30ad38",
+      "status": "exclude",
+      "reason": "다리오 나이·국권 취득은 역사 연대 정보다.",
+      "contextNote": "메대 왕권 전환.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:6:1",
+      "textSha256": "55434ee90913432cdc341375f0e4d19f43f06c48de0570c271e2a44b22a6b8bf",
+      "status": "exclude",
+      "reason": "심원·백이십 방백의 통치는 제도 설명이 필요하다.",
+      "contextNote": "다리오 지방 통치.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:6:2",
+      "textSha256": "4ffd38c283283f0fb5e915dc9c95f29389290c53e6207c3ca6e1c60989fe274c",
+      "status": "hold",
+      "reason": "직무 보고로 손해 막음은 협업에 닿지만 총리 셋·왕 손해의 제도 조건이 많다.",
+      "contextNote": "총리에게 방백 보고.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:6:3",
+      "textSha256": "47a01aec8b35e05bb7987b19033c8ffc900852d59a08eb905a5964edfd5dd786",
+      "status": "hold",
+      "reason": "민첩함으로 신뢰받은 모습은 있으나 전국 통치 발탁을 개인 지원 결과로 보장 못 한다.",
+      "contextNote": "다니엘 발탁 의향.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:6:4",
+      "textSha256": "156b3f4ac3348089a02f6973d48c1efde8039d3bdddf45a3c867f09dda515489",
+      "status": "hold",
+      "reason": "성실하게 해 비난 근거 없음은 정직에 닿지만 모함자의 존재·완전 무결을 현실에 새로 부여하면 안 된다.",
+      "contextNote": "다니엘 흠을 못 찾은 동료들.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:6:5",
+      "textSha256": "9e3978a3330e18ae07b238947084152633aa05d8dba306e11125a1d9bda53d39",
+      "status": "exclude",
+      "reason": "신앙에서 고소 틈 찾는 모의는 미확인 동료 마음을 악의로 확정한다.",
+      "contextNote": "동료들의 함정 계획.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:6:6",
+      "textSha256": "729ee8fbe0e77948df8fa87d1eb87a3e50c4f720da9b8991918d27629451e60d",
+      "status": "exclude",
+      "reason": "만세수라는 왕 인사와 관원 집합만 있다.",
+      "contextNote": "함정 법률 제안 도입.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:6:7",
+      "textSha256": "3fdad70a251d41c14c918f95c7ac7e99234fda6340b5caee905f6bcbd3f3352b",
+      "status": "exclude",
+      "reason": "삼십일 왕 외 요청하면 사자굴 처벌은 일반 부탁·질문에 적용 못 한다.",
+      "contextNote": "금령의 내용.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:6:8",
+      "textSha256": "935ac4aa0e4a299f9fd628c70909078b3944c2a6db162f3ff9554c9ab58973b2",
+      "status": "exclude",
+      "reason": "어인·변개 불가의 특정 왕법은 개인 약속의 수정 허가 여부와 다르다.",
+      "contextNote": "금령의 법적 고정 요구.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:6:9",
+      "textSha256": "429abd0cf2c787d489bab3195f019012ee42cf9f3b5eb4fc96b1ba0d276cc613",
+      "status": "exclude",
+      "reason": "왕의 어인 찍기·금령 성립은 제도 사건이다.",
+      "contextNote": "금령 확정.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:6:10",
+      "textSha256": "e60627768b4b68074c5703e3d719c977c5d2b8c82a72c7c92b6d7aa849b2335f",
+      "status": "candidate",
+      "reason": "압박을 알아도 전에 하던 가치 있는 실천을 이어간 모습은 불리함과 원칙 유지의 갈등에 닿는다.",
+      "contextNote": "금령을 안 다니엘이 평소대로 기도·감사함.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "남의 압박 때문에 내가 평소 중요하게 지켜온 사실의 기준까지 바꿀지 돌아보는 개인 실마리다.",
+          "friction": "예루살렘 창과 하루 세번 기도는 신앙 실천이다. 현실의 거절이 안전하거나 평가가 좋아진다는 보장은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DAN:6:11",
+      "textSha256": "f07e6e9aeb686cbc3276050edae4b438391fa0351ab016900392bfb921feae60",
+      "status": "exclude",
+      "reason": "기도 발견한 미완 고발 장면은 내 행동의 옳음을 단독 설명하지 않는다.",
+      "contextNote": "금령 위반 증거 수집.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:6:12",
+      "textSha256": "c10e66b12a02382f044f501904a273790781012aa87cd2b7bcfacbe5cbb695d7",
+      "status": "exclude",
+      "reason": "어인·삼십일·사자굴·변개 법의 긴 재확인은 제도 풀이가 필요하다.",
+      "contextNote": "왕의 금령 확인.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:6:13",
+      "textSha256": "799b479fae6d10b37e35f4b647c1892b8316d0e974b4e33c324b0878a1581dd1",
+      "status": "exclude",
+      "reason": "하루 세번 기도를 불복종이라 참소하는 말은 화자의 의도를 알아야 한다.",
+      "contextNote": "다니엘을 왕에게 고발.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:6:14",
+      "textSha256": "02904f6f82ce20539caa166b39e4d113c6b8337fa5920563129a747e72dd80b9",
+      "status": "hold",
+      "reason": "마음 쓰며 끝까지 구하려는 도움은 보이나 왕이 법을 뒤집으려는 생사 위기라 일반 부탁 부담과 다르다.",
+      "contextNote": "왕의 다니엘 구출 노력.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:6:15",
+      "textSha256": "8fd6cf9da751b5cf0dcd2858c3674d72d2c276e35f454923548759c98ef0563d",
+      "status": "exclude",
+      "reason": "규례는 변개 못한다는 함정 인용을 생활 약속의 절대 법으로 쓰기 어렵다.",
+      "contextNote": "모함자들이 법 강요.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:6:16",
+      "textSha256": "aa2e9054f635003e2995dcf33668aaed88abedfc8ffec2ad21660efaa78612fd",
+      "status": "exclude",
+      "reason": "사자굴 투입 뒤 신이 구할 확신은 실제 위험을 안전으로 오독시킨다.",
+      "contextNote": "왕의 처형 집행과 구원 기대.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:6:17",
+      "textSha256": "2b0da60f84b814e60105ffade2b10b7a1bd5cc6c726798d5b7f05035360c6350",
+      "status": "exclude",
+      "reason": "돌·어인·굴 봉함은 사자굴 형벌의 절차다.",
+      "contextNote": "구출 못 하게 봉한 굴.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:6:18",
+      "textSha256": "3cc6e1fcbdee4257b78eebe221fa208b4ced18c16c9000123e1fa33c23fd6763",
+      "status": "hold",
+      "reason": "남의 어려움에 마음 쓰는 모습은 있지만 금식·기악·침수의 옛말과 생사 위기가 직접성을 낮춘다.",
+      "contextNote": "왕의 밤 걱정·금식.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:6:19",
+      "textSha256": "f5bb7e807ae3b9111e68b2bac28b14a925670449f2bef647bbb70e97d7a63922",
+      "status": "exclude",
+      "reason": "새벽 급히 사자굴로 가서의 미완 장면만 있다.",
+      "contextNote": "왕의 다니엘 확인.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:6:20",
+      "textSha256": "89c27c0a37a38ac7fcc6271966c36add7805b6e7c66b18840106a5ec8896eb27",
+      "status": "exclude",
+      "reason": "구원 가능했는지 묻는 생사 질문은 현재 치료 결과를 알려주지 않는다.",
+      "contextNote": "왕의 사자굴 호출.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:6:21",
+      "textSha256": "6cb83af02a69e4708c51d291182ac7c72f33894233c18879221c06cc503386dd",
+      "status": "exclude",
+      "reason": "만세수의 왕 인사만으로 선택 실마리가 없다.",
+      "contextNote": "다니엘 생존 응답 도입.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:6:22",
+      "textSha256": "e59d7fb27d570fd093dc2d78694fba9dbd460745c73bc58898ad9451bea732fd",
+      "status": "hold",
+      "reason": "무죄와 상처 없음은 위로지만 신뢰하면 실제 위험이 해치지 않음을 보장 못 한다.",
+      "contextNote": "다니엘이 구원·무죄 설명.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:6:23",
+      "textSha256": "cff0c96e3b9227c81a045d5350a3c8926daa894754ac5997effb8ce804e7a20a",
+      "status": "exclude",
+      "reason": "믿음 때문에 조금도 안 다쳤다는 기적을 건강·안전 선택의 결과로 적용 못 한다.",
+      "contextNote": "다니엘의 무상 석방.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:6:24",
+      "textSha256": "02fba7dbefe145cd0aebf3bf9fba4b83d247e9a5f8988b77484aafb01b45101d",
+      "status": "exclude",
+      "reason": "모함자의 처자까지 사자에게 죽임은 관계 응징의 좋은 방향이 될 수 없다.",
+      "contextNote": "참소자 가족 연좌 처형.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:6:25",
+      "textSha256": "f46588f84065b3687629ac64eaa82bcf8022175aa072e56f3d56772478df5356",
+      "status": "hold",
+      "reason": "평강을 바라는 인사는 위로지만 구체 선택 단서는 없다.",
+      "contextNote": "다리오 조서 인사.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:6:26",
+      "textSha256": "e57852962361d374d61f8a497ca1181de1f2084b334931b55baffa22ecb8239f",
+      "status": "hold",
+      "reason": "영원한 나라의 안정은 있지만 모두 떨라는 국가 명령을 개인 선택 인증으로 못 쓴다.",
+      "contextNote": "다리오의 신 인정 조서.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:6:27",
+      "textSha256": "b7912dfe12351d154b2f18d54085bff49a3e597764ff0066695603cc7b6e5b28",
+      "status": "hold",
+      "reason": "구원 찬송은 위로지만 다니엘 기적을 개인 회복 보장으로 옮기면 안 된다.",
+      "contextNote": "사자 구원에 대한 찬송.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:6:28",
+      "textSha256": "cc87a3b47acb2880e6a05c68efa59cba8f015c45272e7d0f8a04ac9d256022c6",
+      "status": "exclude",
+      "reason": "다리오·고레스 때 형통한 역사 성과는 오늘 도전의 성공을 보증하지 않는다.",
+      "contextNote": "다니엘 장기 형통.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:7:1",
+      "textSha256": "9f887bcf00c83d60a09dd75e26138dd26ecd066bd9150793a51cad81b3186f40",
+      "status": "exclude",
+      "reason": "꿈의 날짜·기록 소개만으로 선택 의미가 없다.",
+      "contextNote": "네 짐승 환상 도입.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:7:2",
+      "textSha256": "b7512755d1c3a6f1d0fa3a7aef0a69e312cfa11a1f247006de6e0b5ff759b8e3",
+      "status": "exclude",
+      "reason": "네 바람이 바다에 부는 미완 환상은 상징 해석이 필요하다.",
+      "contextNote": "환상의 바다 배경.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:7:3",
+      "textSha256": "c8fc7f94af93e4fdbbd15cdfaf57682b582d33fcb50b08017f20ff273768666b",
+      "status": "exclude",
+      "reason": "다른 네 짐승 출현은 뒤 나라 해석 없이는 실마리가 없다.",
+      "contextNote": "네 짐승 등장.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:7:4",
+      "textSha256": "e42373279dd9042f247909ec9b408140444bd4d6aad9df445b6974dcf8468e6a",
+      "status": "exclude",
+      "reason": "사자 날개 제거·사람 마음·두발은 왕국 상징 풀이가 필요하다.",
+      "contextNote": "첫째 짐승 형상.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:7:5",
+      "textSha256": "8c77cc0b937aafcb1eeef56ad5051c46bf078ad80e9984035664c0ebfb5eb8a8",
+      "status": "exclude",
+      "reason": "곰·세 갈빗대·고기 명령은 폭력 국가 상징이다.",
+      "contextNote": "둘째 짐승 형상.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:7:6",
+      "textSha256": "265556c5f306139357cddba8385fc82df16a221ab8a30d23389d0d9e2e475076",
+      "status": "exclude",
+      "reason": "표범·네 날개·네 머리는 상징 해설을 먼저 요구한다.",
+      "contextNote": "셋째 짐승 형상.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:7:7",
+      "textSha256": "7ba29be8805838b21e0f3bd2ea730728532caac25f74e3060f964ebd8806928c",
+      "status": "exclude",
+      "reason": "철이·짓밟기·열뿔의 미완 묘사는 생활 선택에 참상만 준다.",
+      "contextNote": "넷째 짐승 형상.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:7:8",
+      "textSha256": "9cba3ee653b8f9057541e1efa5d423b70b8c77ce62f5a91fed93a59c82b5e157",
+      "status": "exclude",
+      "reason": "작은 뿔·뽑힌 셋·눈·큰 말은 왕권 상징 풀이가 필요하다.",
+      "contextNote": "작은 뿔 등장.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:7:9",
+      "textSha256": "caa70356f9d750503db56ad267604f361e4b32c8ee9b3d9b45da59500d78247a",
+      "status": "exclude",
+      "reason": "흰 옷·양털·불 보좌·바퀴는 신현 외형 묘사다.",
+      "contextNote": "항상 계신 이의 법정.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:7:10",
+      "textSha256": "f1bcad226c1b510c20a684d578337cd0113e7433f8893d2e50d57daa526fe4fb",
+      "status": "exclude",
+      "reason": "불 강·천천·만만·책은 종말 법정의 상징이다.",
+      "contextNote": "심판 법정 수종자.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:7:11",
+      "textSha256": "683c68fe21b85d5efd45dd3b99557ea2b4d710b8dd184fe62b23534fa1a5b26c",
+      "status": "exclude",
+      "reason": "뿔 목소리 뒤 죽어 불탄 짐승은 사적 자랑·표현의 결과가 아니다.",
+      "contextNote": "넷째 짐승의 멸망.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:7:12",
+      "textSha256": "df7676e56d7ca88457aaabf2a4a7f317b57e1a6637ce383f0ecd18f5d81649fe",
+      "status": "hold",
+      "reason": "권세 잃어도 생명 남음은 한계와 가능성에 닿지만 정한 시기 기다리는 국가 상징이라 직접성은 낮다.",
+      "contextNote": "남은 짐승의 제한된 생존.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:7:13",
+      "textSha256": "6c4ab8b5323f3a7d3ad353946519d9ea861e570fa401b9983768f7a7beb65bd9",
+      "status": "exclude",
+      "reason": "구름 타고 항상 계신 이에게 인도되는 인자는 특별 신학 장면이다.",
+      "contextNote": "인자 같은 이 등장.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:7:14",
+      "textSha256": "75bd49a491f6ea6de5dc1026bc3984541150af3e6a161a502b74069ab7df2d70",
+      "status": "exclude",
+      "reason": "영원 권세·나라·모든 민족 복종은 개인 역할의 성공을 말해주지 않는다.",
+      "contextNote": "인자에게 주는 나라.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:7:15",
+      "textSha256": "0d4cd7bea12121ed8084cf5e8322213d072f212d0bcbf02c62b15af7cb2dea73",
+      "status": "hold",
+      "reason": "놀라 번민하는 체험은 감정 인정에 닿지만 꿈 때문에 근심하는 상태만 있다.",
+      "contextNote": "다니엘의 환상 불안.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:7:16",
+      "textSha256": "4ea4b360fab99cfaf65cd516d688a83697bedf71242924a55d5f833b929f3bd0",
+      "status": "hold",
+      "reason": "모르는 것을 직접 묻는 모습은 도움 요청에 닿지만 가로되로 끝나 뒤 해석이 필요하다.",
+      "contextNote": "다니엘이 곁의 안내자에게 질문.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:7:17",
+      "textSha256": "828fa462f58ee49691a09ae68ea4f7816a3324373a4d4328aa8f4df7c8753717",
+      "status": "exclude",
+      "reason": "네 짐승을 네 왕으로 풀이한 미완절은 역사 예언이다.",
+      "contextNote": "네 짐승의 뜻.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:7:18",
+      "textSha256": "417ff8b797ee6517cc90fcd42e8b4a9e39d57240c6e9c51d45b1211f21e43684",
+      "status": "hold",
+      "reason": "누림이 영원하다는 위로는 있지만 개인 물건·여행 누릴 허락으로 국가 구원을 바꿀 수 없다.",
+      "contextNote": "성도의 나라 상속.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:7:19",
+      "textSha256": "455c1ee88d2476b2ea9b830e56abda08b93713a93b8ea844a08152dba2077cff",
+      "status": "exclude",
+      "reason": "넷째 철이·놋 발톱의 반복은 해설 없는 개인 연결이 어렵다.",
+      "contextNote": "넷째 짐승 질문 재서술.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:7:20",
+      "textSha256": "a8e6adcb1d81329fcb2835835f67dbc014afe9a220b686eea453cbb95c9b9caa",
+      "status": "exclude",
+      "reason": "열뿔·셋 빠짐·눈·입의 강함은 왕국 상징 풀이가 필요하다.",
+      "contextNote": "작은 뿔 질문 재서술.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:7:21",
+      "textSha256": "bdbfcae0d843aa2e2021f1727739aa0a65819b780ecba343061ef5b7dfabcf8b",
+      "status": "exclude",
+      "reason": "성도와 싸워 이기는 뿔은 현재 갈등 상대의 승리를 예측하지 않는다.",
+      "contextNote": "작은 뿔의 성도 박해.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:7:22",
+      "textSha256": "852a7dfcb201bccfcc31612fb8169116cfb5aac235a737f6db6de6d0b4304d0e",
+      "status": "hold",
+      "reason": "억울함 풀리고 나라 얻는 신원은 위로이나 개인 분쟁 승리를 보장 못 한다.",
+      "contextNote": "신이 성도 신원·나라 제공.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:7:23",
+      "textSha256": "e7c829e6440bd56bdb786b3371cc5cede06819399d484adc23a41b92a5bc811a",
+      "status": "exclude",
+      "reason": "천하를 삼키고 짓밟는 넷째 나라 예언은 생활 실마리가 아니다.",
+      "contextNote": "넷째 짐승 국가 해석.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:7:24",
+      "textSha256": "c250583a9ede432ba3c19e5593f603479f285871b08610160b692dc6628b7fa6",
+      "status": "exclude",
+      "reason": "열왕·새 왕·세왕 복종은 특정 정치적 예언이다.",
+      "contextNote": "열뿔과 작은 뿔 해석.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:7:25",
+      "textSha256": "3632be9901f73e768791b604f7cbad92ac04d7b9d98c905486d57d06a8117696",
+      "status": "exclude",
+      "reason": "때·법 변경·한두반때의 박해는 역사·기간 해설이 필요하다.",
+      "contextNote": "작은 뿔의 박해 기간.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:7:26",
+      "textSha256": "137ec2195c4f5c3e4df71d4953a073a8aac1458c72b99c3babff83206a94ff22",
+      "status": "exclude",
+      "reason": "권세 박탈·끝까지 멸망은 상대 불이익을 확정할 생활 근거가 아니다.",
+      "contextNote": "박해자 심판.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:7:27",
+      "textSha256": "4093d4134f992a1c477277bcaf82eabbb769f7cd3bef4a5ffaae3f9ce523cf12",
+      "status": "exclude",
+      "reason": "성민에게 나라·모든 권세 복종은 개인 관계의 유리한 결말을 보장하지 않는다.",
+      "contextNote": "성민의 영구 왕국.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:7:28",
+      "textSha256": "c0ec8cf4be214287072b30a75767acc431ec6052d603c82c1361b2dde31c7e7a",
+      "status": "hold",
+      "reason": "번민해도 마음에 잠시 간직함은 성찰에 닿지만 비밀 보존·감정 억압 중 어느지 불명확하다.",
+      "contextNote": "환상 끝 다니엘의 반응.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:8:1",
+      "textSha256": "fb3a10ee77501c2ec60f7e38785d0bdbb95746a4a9a3320c57d0a0c539aec0f9",
+      "status": "exclude",
+      "reason": "두 번째 이상 날짜만 있어 의미 내용이 없다.",
+      "contextNote": "숫양·숫염소 환상 도입.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:8:2",
+      "textSha256": "714b37a703d8ec45ab9ebec2c078bc5ed3b47bebf9b3ef164e84086ad7a9c73a",
+      "status": "exclude",
+      "reason": "엘람·수산·을래 장소 소개는 지명 풀이가 필요하다.",
+      "contextNote": "환상 배경 장소.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:8:3",
+      "textSha256": "f55ef8fedde03112b5c7a7a440a74c1f16ca8d9754baf2a96cddf9c65ba421f5",
+      "status": "exclude",
+      "reason": "길이가 다른 두 뿔은 다음 두 나라 대응 풀이가 필요하다.",
+      "contextNote": "숫양 두 뿔.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:8:4",
+      "textSha256": "f1f714606140870f41482fc3ef4bf784f2ba1056e5953cb7a3053059e1d40bfc",
+      "status": "exclude",
+      "reason": "막을 이 없는 공격·자의 행동을 도전의 긍정 의미로 바꿀 수 없다.",
+      "contextNote": "숫양의 세 방향 정복.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:8:5",
+      "textSha256": "f97ba3d40fca79b328163577e7d81b8fb5b8db1ba1484209328295d404a11744",
+      "status": "exclude",
+      "reason": "땅 안 닿는 염소·두눈 사이 뿔은 왕국 상징 묘사다.",
+      "contextNote": "서쪽 숫염소 등장.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:8:6",
+      "textSha256": "0d258db1f0eaf630452ce7504ab3e3b131b1fe7e5b54f1baf2b1654e8d11d863",
+      "status": "exclude",
+      "reason": "분노로 숫양에 달려가는 장면은 급한 메시지의 좋은 단서가 아니다.",
+      "contextNote": "숫염소 공격 시작.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:8:7",
+      "textSha256": "0228d633aedae0e64c4fd8aebfa6d47267889b3fca4ca987c4f84d42ac092771",
+      "status": "exclude",
+      "reason": "뿔 꺾고 짓밟아 구할 이 없음은 현재 관계 결과를 부당히 확정한다.",
+      "contextNote": "숫양의 패배.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:8:8",
+      "textSha256": "77e244fc32e64a9d1fe459b299de3d5c384924e4931125178f6f1acda2f69ebc",
+      "status": "hold",
+      "reason": "강할 때 꺾이는 무상함은 보이지만 넷뿔의 왕국 해석 없이는 비교·계획 실마리가 모호하다.",
+      "contextNote": "숫염소 큰 뿔 소멸·분열.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:8:9",
+      "textSha256": "9169abe1d4776efc6315a498cf4be48add56fc2f18d63c6024f0c5d7ba689ee5",
+      "status": "exclude",
+      "reason": "작은 뿔이 남동으로 커짐은 국가 확장 상징이다.",
+      "contextNote": "새 작은 뿔 확장.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:8:10",
+      "textSha256": "e1565b0afb66706660a456446cc0bdea7e722d61271531264ca2e3fad4eb18b1",
+      "status": "exclude",
+      "reason": "군대·별 짓밟는 미완 장면은 선택에 재난만 준다.",
+      "contextNote": "작은 뿔의 하늘 도전.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:8:11",
+      "textSha256": "03a50194b405c6fc1151930079aeacf915415e42ffa85c4d5144bdd10971ded0",
+      "status": "exclude",
+      "reason": "주재 대적·매일 제사 폐지·성소 파괴는 제의 박해 사건이다.",
+      "contextNote": "작은 뿔의 성소 침해.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:8:12",
+      "textSha256": "f10df27966cd5f7976fdb9bf6a109a9b84076819fefc008ad09e52201682cb09",
+      "status": "exclude",
+      "reason": "진리 버리고 형통한 가해를 이익 선택의 승인으로 읽으면 문맥이 뒤집힌다.",
+      "contextNote": "박해자의 일시 성공.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:8:13",
+      "textSha256": "c6a2c0ea5ad7e2c121f3cdedfca53c319f65205e1f5e4feae650393d40008da0",
+      "status": "exclude",
+      "reason": "제사·망하게 하는 죄·성소 박해 기간 질문은 종말 풀이가 필요하다.",
+      "contextNote": "박해 종료 시기 질문.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:8:14",
+      "textSha256": "7ef2719b1d71cfd60bc160a4c8043bb629d01ae143a073be8a62ae85fb32a52a",
+      "status": "exclude",
+      "reason": "이천삼백 주야의 성소 정결을 개인 기한으로 쓸 수 없다.",
+      "contextNote": "박해 기간 답.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:8:15",
+      "textSha256": "c12088aa11fc403a64f9f66d8fdf48bb47053d4f261a4d8b91c6eb252eeb5717",
+      "status": "exclude",
+      "reason": "뜻 알고자 할 때 사람이 나타난 미완 장면으로 실마리가 없다.",
+      "contextNote": "환상 해석자 등장.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:8:16",
+      "textSha256": "436dd74d6cd70a82e900d745edb8b1a6c02c909895dbc4c911d3c7c71c606b82",
+      "status": "exclude",
+      "reason": "을래·가브리엘 해석 명령은 환상 배경 풀이가 필요하다.",
+      "contextNote": "가브리엘에게 해석 지시.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:8:17",
+      "textSha256": "207a96189116d2ba361868c335ff01b8def6aca03f926e01effb860d9c66cae3",
+      "status": "exclude",
+      "reason": "정한 끝때 환상이라는 응답은 개인 마감·걱정의 현재를 말해주지 않는다.",
+      "contextNote": "천사가 환상 시점 지정.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:8:18",
+      "textSha256": "4288a2c138c0bba35f4de2cdf93bf4b0c17d7bef4b208bb930eff1d35e6c5fd3",
+      "status": "hold",
+      "reason": "두려워 엎드린 자를 어루만져 세움은 위로지만 깊이 잠드는 신현 반응과 미완절이다.",
+      "contextNote": "천사가 다니엘을 일으킴.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:8:19",
+      "textSha256": "a78c3edef84e067bb7e8f609dc1cde3f74ef951e825b5ccee8624348d0c21457",
+      "status": "exclude",
+      "reason": "진노 끝 후 일 알림은 특정 종말 예언이지 내 계획 미래가 아니다.",
+      "contextNote": "환상의 종말적 성격.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:8:20",
+      "textSha256": "6294c05fe0b62038f00d0f55c6640894acee0abb2b6d189c2b2bd78b06c62fd0",
+      "status": "exclude",
+      "reason": "숫양을 메대·바사로 풀이한 국가 대응은 생활 기준이 아니다.",
+      "contextNote": "두 뿔 숫양의 뜻.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:8:21",
+      "textSha256": "dc3ddabe96c2dc4212369d468d07c9eddb419ce84ab2e35c2844877f58b9e546",
+      "status": "exclude",
+      "reason": "헬라 왕·첫 왕 대응은 역사 상징의 풀이이다.",
+      "contextNote": "숫염소·큰 뿔의 뜻.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:8:22",
+      "textSha256": "5946193866daf4cfcc6adff14321adf0fd47bc8505de2531770aaafd78d3cba7",
+      "status": "exclude",
+      "reason": "네 나라로 갈리되 약해짐은 개인 새 기회 규모를 예측하지 않는다.",
+      "contextNote": "네 뿔의 국가 분열.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:8:23",
+      "textSha256": "bc50c0089cc4316db6e604596917453a8652e6d01bd56425e65440f389654830",
+      "status": "exclude",
+      "reason": "엄장·궤휼 왕의 미완 출현 예고는 옛말 풀이가 필요하다.",
+      "contextNote": "박해 왕 등장.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:8:24",
+      "textSha256": "19791c0a3a4a593d19f84c9deb6fe449f5caef258e0f6abab327f9370725c2b3",
+      "status": "exclude",
+      "reason": "자의 형통·성민 멸함은 부정직한 성과 추구의 허가가 아니다.",
+      "contextNote": "박해 왕의 힘·파괴.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:8:25",
+      "textSha256": "ea330c20e4d91be07590db06789f4b261e85bf54dc5a7142d28b3a517eb921af",
+      "status": "exclude",
+      "reason": "궤휼·만왕왕 대적·비인간적 파괴는 종말 해설이 필요하다.",
+      "contextNote": "박해 왕의 교만과 멸망.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:8:26",
+      "textSha256": "2dd64008f718c79049789f1a0b002f3e515f860385db3edaba9dab89ab5ac148",
+      "status": "exclude",
+      "reason": "확실한 미래 환상을 간수함은 개인 직감·추첨의 정답 인증으로 쓰기 어렵다.",
+      "contextNote": "환상을 보존하라는 명령.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:8:27",
+      "textSha256": "45b4a09fb081cb1f76fd36f7066b458571b2198451deb491cc0cc9884d76eab0",
+      "status": "candidate",
+      "reason": "놀람과 뜻 모름이 남아도 앓고 일어난 뒤 평소 일을 다시 한 전체 장면이 불확실한 기다림과 일상의 갈등에 닿는다.",
+      "contextNote": "환상 뒤 수일 앓은 다니엘이 왕 일을 보며 미해결 뜻을 인정.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H056",
+          "clue": "뜻을 다 깨달은 뒤에만 일상을 할 수 있는 것은 아니라는 개인 연결로 지금 가능한 작은 일상을 생각한다.",
+          "friction": "원문은 예언 환상 후 질병·회복 사건이다. 의학적 상태나 결과를 보장하며 일을 강요하는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DAN:9:1",
+      "textSha256": "0761ce004000541d587cde536466a88878dd45f3cfdc4a4188682adb3c15db5d",
+      "status": "exclude",
+      "reason": "다리오 혈통·왕 즉위의 미완 연대만 있다.",
+      "contextNote": "칠십년 기도 배경 연대.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:9:2",
+      "textSha256": "56a1112d774381598537948d7956fea3b746a4d1b1f68ea4f673aff2cd86ef30",
+      "status": "exclude",
+      "reason": "예루살렘 칠십년 황무 종료를 개인 기다림의 기한으로 옮길 수 없다.",
+      "contextNote": "예레미야 기록에서 기간을 읽음.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:9:3",
+      "textSha256": "c5b364adcb393c815ecb36ac0143b5b88eedb9279c81932f49d085297e8f8eda",
+      "status": "hold",
+      "reason": "걱정을 구체 간구로 바꾸는 결심은 있지만 금식·베옷·재의 애도와 미완절이 마찰이다.",
+      "contextNote": "다니엘의 회복 간구 준비.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:9:4",
+      "textSha256": "05dd061d8a6b6472d275619b17809c7e2222ed57e252bf3142389560478eb8f8",
+      "status": "hold",
+      "reason": "언약·긍휼 신뢰는 위로지만 두 생활 선택의 실마리가 직접적이지 않다.",
+      "contextNote": "자복 기도의 하나님 호칭.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:9:5",
+      "textSha256": "51847a7296a4eb4768bdb9c91ae04062b58eac5861b9288581ece1790f00220e",
+      "status": "exclude",
+      "reason": "우리 모두 반역·행악의 미완 고백은 작은 고민자의 죄를 새로 확정한다.",
+      "contextNote": "민족의 죄 자복.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:9:6",
+      "textSha256": "03fe34803ee777329e12654053922a461efb3bb12820c809e2eed7fa600bd107",
+      "status": "hold",
+      "reason": "듣지 않은 것을 인정하는 모습은 닿지만 선지자의 국왕·국민 대언이라는 사명이 생활 피드백과 다르다.",
+      "contextNote": "선지자 불응 자복.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:9:7",
+      "textSha256": "affc34c8a6366660ed5f0b4bfea83ae6cb012fa44c83d59ef2be6c491162863d",
+      "status": "exclude",
+      "reason": "여러 백성·국가의 수치와 죄가 길게 나와 작은 실수에 비례하지 않는다.",
+      "contextNote": "열방 포로의 수치 자복.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:9:8",
+      "textSha256": "cee6af8bef6287b33eb4e82fbd2494d8a808cbc3363aed380eddbab7a8ee6425",
+      "status": "exclude",
+      "reason": "왕·조상 죄의 수치 자복이 마는으로 끝나 응답이 미완이다.",
+      "contextNote": "세대 전체의 범죄 고백.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:9:9",
+      "textSha256": "241a7af7199f675cba8dc13dca8e6e29cd85168e9241254a265a8ea5433afcbb",
+      "status": "hold",
+      "reason": "긍휼·사유는 위로이나 옛말과 패역 고백의 미완 구문이 독립 읽기를 어렵게 한다.",
+      "contextNote": "반역에도 있는 신의 용서.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:9:10",
+      "textSha256": "44c8c95df471221f0908150e5dfc0d5ce3d85bb529821d1774ff5286f03ee9be",
+      "status": "hold",
+      "reason": "안 들은 책임을 인정함은 닿지만 여호와 선지자 율법 불응의 특정 죄목이다.",
+      "contextNote": "율법 불이행 고백.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:9:11",
+      "textSha256": "90fccc8b8a857bf1c3a5be91d738c852479b694948e74b65816fac52b49426b9",
+      "status": "exclude",
+      "reason": "모세 저주가 민족 전체에 내림은 일반 미완료 일을 재난 책임으로 만든다.",
+      "contextNote": "율법 저주 실현 고백.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:9:12",
+      "textSha256": "8090217ae4790bd1710123a31f598c8f2c01f316157076455858d96fbfdab253",
+      "status": "exclude",
+      "reason": "천하에 없는 예루살렘 재앙은 작은 선택 부담에 과하다.",
+      "contextNote": "심판 예언의 실현.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:9:13",
+      "textSha256": "207c19aa0c8710fec79dbd6a4c1cbe4b7638c1e8beba15a8a06e143a47ac6e0e",
+      "status": "hold",
+      "reason": "힘든 일 뒤 진리 구하기를 놓침은 보이나 모세 재앙·죄악이 현재 실패 원인을 정죄한다.",
+      "contextNote": "재앙에도 회개 안한 고백.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:9:14",
+      "textSha256": "561039b39d45c68e23a426b37221eb6b399d9f8f955246444a56a122e77cda77",
+      "status": "exclude",
+      "reason": "예비한 재앙이 불청종에 임한 인과는 현재 불행의 원인을 죄로 확정한다.",
+      "contextNote": "신 공의와 민족 불응.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:9:15",
+      "textSha256": "14b4ecb827ecc4ab41b844c3705746e431b9e19efa47978ba5ceb01815304951",
+      "status": "hold",
+      "reason": "받은 돌봄과 잘못을 함께 기억함은 닿지만 출애굽과 집단 범죄의 신앙 역사다.",
+      "contextNote": "출애굽 은혜 앞 자복.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:9:16",
+      "textSha256": "9b7f849b33dfbefb3dabf8f9f047674adb7cd05b066f126a558a6a74c0cd97a5",
+      "status": "exclude",
+      "reason": "조상 죄 때문에 성읍의 분노를 거둬달라는 큰 간구는 생활 실마리에 직접적이지 않다.",
+      "contextNote": "예루살렘을 위한 진노 철회 요청.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:9:17",
+      "textSha256": "ceaf4fc796a6cdc991b3575ff7f771c2cd77dba1a5c4503b010f8ebdfaf6b2ba",
+      "status": "hold",
+      "reason": "어두운 곳 비춰달라는 기도는 위로이나 황폐 성소 회복의 간구다.",
+      "contextNote": "성소 회복 기도.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:9:18",
+      "textSha256": "e9104e6c2db0311a5fa9cc9d620587a14c4e5cf0cedea4863e9808e1941fe879",
+      "status": "candidate",
+      "reason": "내 의를 증명하기보다 긍휼에 기대어 상황을 알리고 구하는 전체 기도가 도움 요청의 부담에 닿는다.",
+      "contextNote": "황폐한 성읍을 위해 자격 아닌 신의 긍휼을 의지한 중보.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "완벽히 잘해낸 사람이라야 도움을 구할 수 있는 것은 아니라는 개인 실마리로 내 상황을 솔직히 말해볼 수 있다.",
+          "friction": "기도의 대상은 하나님이며 황폐된 성의 중보다. 인간 상대가 반드시 도와줄 마음·여력이 있다는 보장은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DAN:9:19",
+      "textSha256": "76a0448e39bb2c9441272395ff16af69606070986415bcb9746d6fc99e21043f",
+      "status": "hold",
+      "reason": "들어달라·용서해달라 구체 표현은 닿지만 지체말라는 신적 성읍 회복을 친구 응답 기한으로 못 읽는다.",
+      "contextNote": "간절한 중보의 결론.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:9:20",
+      "textSha256": "cf7b17ad7ef625b7d9fad02a45bbeaf6440e74310b7244252a14febd5438f2ef",
+      "status": "exclude",
+      "reason": "죄 자복하며 기도할 때의 미완 배경만 있다.",
+      "contextNote": "기도 응답 천사 등장 전.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:9:21",
+      "textSha256": "36b92a7eda79e81730e1fda9f9e2e2e859daaa7b483b6a09d58a597331a7d140",
+      "status": "exclude",
+      "reason": "가브리엘이 저녁 제사 때 도착하는 사건은 내 요청의 빠른 응답을 보장하지 않는다.",
+      "contextNote": "기도 중 가브리엘 도착.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:9:22",
+      "textSha256": "8d0808410ccce86b09f91cbfbd53b3b7ae4e0bfa60de7b08533a2b20e18e776a",
+      "status": "hold",
+      "reason": "지혜·총명을 받는 격려는 있지만 나왔나니 결말과 천사 사명이 현재 배움 성과와 다르다.",
+      "contextNote": "천사의 계시 목적.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:9:23",
+      "textSha256": "79eb125c2a43b3f5ee15a6ac5e504c31eaf87907252df645ee3a1bb7b2e7e705",
+      "status": "hold",
+      "reason": "은총과 생각해 깨달음은 닿지만 기도 시작 즉시 명령이라는 사실을 내 요청 응답으로 확정 못 한다.",
+      "contextNote": "기도에 따른 계시 전달.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:9:24",
+      "textSha256": "9f8e3f72f7cddf2bd2e955503605ebc1d03ea535ab12fd8bf6898128dc84624a",
+      "status": "exclude",
+      "reason": "칠십이레·죄 영속·기름부음은 종말 기간·신학 해설이 필요하다.",
+      "contextNote": "칠십이레의 목적.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:9:25",
+      "textSha256": "7669d055989e70ef77ab99b75e3fcf67397238d9d1fc1671ca804c0a19aa5412",
+      "status": "exclude",
+      "reason": "일곱·육십이이레·중건·해자는 역사 계산 풀이가 필요하다.",
+      "contextNote": "예루살렘 중건부터 왕까지.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:9:26",
+      "textSha256": "ceae3716ae82235510755c628a1e3d94f47af818c42ba7f3beaae54fdc87b0a4",
+      "status": "exclude",
+      "reason": "기름부은 자 끊김·홍수 엄몰·전쟁은 특정 예언 해설과 큰 재난이다.",
+      "contextNote": "왕의 끊김과 도시 파괴.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:9:27",
+      "textSha256": "755ef015b5a152f7397c8b0d05d4a11f971f65a91787c75ab4e85ce002adc521",
+      "status": "exclude",
+      "reason": "한이레·절반·미운 날개 물건은 복잡한 종말 상징이다.",
+      "contextNote": "언약·제사 중단의 마지막 기간.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:10:1",
+      "textSha256": "32f1f5459f69729568a0211a0359669088401f962c115b167dedf63d2766dfa5",
+      "status": "exclude",
+      "reason": "고레스 연대·큰 전쟁의 참된 환상은 개인 직감 인증의 근거가 아니다.",
+      "contextNote": "마지막 이상 도입.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:10:2",
+      "textSha256": "84e4cbe8eaba88b1ce10ef85ee1aa310d3182150c622c22f51e3d5b04e75f452",
+      "status": "exclude",
+      "reason": "세이레 슬퍼하며의 미완 기간만 있어 선택 뜻이 없다.",
+      "contextNote": "다니엘의 애도 기간.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:10:3",
+      "textSha256": "f1460642f717978ddcc88998d47842cb50d2b370b111b327f9a9086e866492d5",
+      "status": "exclude",
+      "reason": "고기·포도주·기름 제한은 애도 표상이라 지출·건강 기준이 아니다.",
+      "contextNote": "애도 중 생활 절제.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:10:4",
+      "textSha256": "bc0f191950b0252ed32d57856fdf1ea0bf935b7f16f6515f1d71cc32190e65cb",
+      "status": "exclude",
+      "reason": "힛데겔과 날짜의 미완 장소 소개만 있다.",
+      "contextNote": "강가 환상 배경.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:10:5",
+      "textSha256": "5c2eab5e31d68ad7a929cd495f2a366c5b35cf73277e0e812565f82f1582d7e9",
+      "status": "exclude",
+      "reason": "세마포·우바스 정금띠는 신현 인물 외형 설명이다.",
+      "contextNote": "천상 인물 복장.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:10:6",
+      "textSha256": "a69562797ff624b1f6e03b38f0df17e369b04e2895dd844263950da17a0e8c01",
+      "status": "exclude",
+      "reason": "황옥 몸·번개 얼굴·놋 발의 연속은 상징 외형 묘사다.",
+      "contextNote": "천상 인물의 광채.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:10:7",
+      "textSha256": "4c339b73c14fbb00a128a3c79dc84df41378086ef40c774099b40419e1c39ccf",
+      "status": "exclude",
+      "reason": "다른 이는 안 보고 떨며 도망한 사건은 혼자 갈 용기를 주는 조건이 아니다.",
+      "contextNote": "다니엘과 동행자의 환상 반응.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:10:8",
+      "textSha256": "0ccbdab30cb76c33adde79145c1a66236326bb7b96b1aaa680cc32fec3633ddb",
+      "status": "hold",
+      "reason": "힘 빠지는 두려움은 닿지만 썩은듯 변화와 미완절은 건강 상태 예측으로 오독된다.",
+      "contextNote": "환상에 압도된 다니엘.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:10:9",
+      "textSha256": "abea6185e56133336fa9cabaa7a70d00d75a02ec2e89ad3dda4cce2858c0c5f5",
+      "status": "exclude",
+      "reason": "음성에 엎드려 잠든 사건은 자발적 쉬기의 단서와 다르다.",
+      "contextNote": "신현 앞의 실신.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:10:10",
+      "textSha256": "23f0389f6a61b1ef6175410c8ee76c3d52061da9706c1583091637cb02309057",
+      "status": "hold",
+      "reason": "떨던 사람을 일으키는 도움은 위로이나 구체 선택 실마리는 뒤 대화에 있다.",
+      "contextNote": "천사가 다니엘을 만져 일으킴.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:10:11",
+      "textSha256": "fd915b30b2acbc1f0028aa64a7798eeb89e4fb68325dbe0612d2b406d51b6136",
+      "status": "hold",
+      "reason": "떨면서도 일어남은 도전에 닿지만 특별 은총·천사 전달이라는 인증을 내 새 시도에 붙일 수 없다.",
+      "contextNote": "천사의 격려와 다니엘 기립.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:10:12",
+      "textSha256": "f6718668270991ab28d74ba1e7eaa09e4934f667022393d847af176580c63667",
+      "status": "hold",
+      "reason": "첫날부터 들은 응답은 위로지만 답장 늦은 친구가 이미 듣고 있다는 미확인 마음을 보장하면 안 된다.",
+      "contextNote": "천사가 기도 들림의 시점 설명.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G12",
+          "clue": "즉시 답이 없다고 거절만 생각하지 않을 여지는 있다.",
+          "friction": "원문은 하나님이 들은 기도와 천사 응답이다. 친구가 읽었거나 화 안 났음을 말해주지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DAN:10:13",
+      "textSha256": "83526079e85ead070ed63c78af581f1934d289c2ef3af5b01bb08703c1db6291",
+      "status": "exclude",
+      "reason": "바사 국군·미가엘·이십일 지연은 천상 전투 해설이 필요하다.",
+      "contextNote": "천사의 지연 이유.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:10:14",
+      "textSha256": "0da1e524001be105c53ea83d38927af2b74a56058d96c814a2ed356e80158b74",
+      "status": "exclude",
+      "reason": "오래 후 백성의 일 계시는 개인 불확실 선택의 전망이 아니다.",
+      "contextNote": "계시의 먼 미래 대상.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:10:15",
+      "textSha256": "e7d2edb21fe726aadf4727b3a96fa6db2929a3434fac26acb2fc8b906fc8d1ad",
+      "status": "exclude",
+      "reason": "벙벙한 상태만 서술하며 후속 위로가 빠졌다.",
+      "contextNote": "계시 앞 다니엘 침묵.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:10:16",
+      "textSha256": "90b0330aaf81a332a7fc3beb09a4f904acdb16a7e46170bb31f3b773962ec6d9",
+      "status": "hold",
+      "reason": "힘 없음 솔직히 말함은 도움 요청에 닿지만 입술 만짐·환상 앞 힘 소진이라는 특별 사건이다.",
+      "contextNote": "입 열린 다니엘의 한계 진술.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:10:17",
+      "textSha256": "be6bb67d2d2aaf854bc5c4e156bf3d9447a4c7c0406aa78ceaf73e6f1f484e83",
+      "status": "hold",
+      "reason": "힘·호흡 없어 말 못한다는 경계는 보이나 호흡 상실을 가벼운 업무 피로와 같게 하면 안 된다.",
+      "contextNote": "대화조차 힘든 한계 호소.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:10:18",
+      "textSha256": "fe814c48afc1794d0bf80b22394178f3dd17613abcfba84599ff1869f348f440",
+      "status": "hold",
+      "reason": "타인 접촉으로 강해짐은 위로지만 하여로 끝나는 단편이라 선택 연결이 약하다.",
+      "contextNote": "천사의 재차 회복 도움.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:10:19",
+      "textSha256": "4d71385531c82217a344e33d707b4c5586433c11e711f26651f595f2597a00f2",
+      "status": "candidate",
+      "reason": "혼자만 버티기보다 다른 이의 평안·격려로 힘을 얻어 다시 듣는 전체 장면이 도움 수용에 닿는다.",
+      "contextNote": "천상의 격려를 받아 힘 회복한 다니엘이 말씀을 청함.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "내 힘만으로 버텨야 하는 대신 나를 강하게 하는 말을 받아도 된다는 개인 연결을 읽는다.",
+          "friction": "은총을 받은 다니엘의 천사 체험이며 사람 도움이나 치료가 즉시 힘을 회복시킨다는 보장은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DAN:10:20",
+      "textSha256": "6eff4ca4eb75e6250d0f629eb955bbadf6ee042f8e28db576bce4420b7cdd692",
+      "status": "exclude",
+      "reason": "바사군·헬라군 전투의 천사 이동은 지정 영적 전쟁이다.",
+      "contextNote": "천사 전투 복귀 예고.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:10:21",
+      "textSha256": "6788feb01d158e53a231607aaea1a35240a78ba01cc858bfac7ffc81411c4421",
+      "status": "exclude",
+      "reason": "진리 글·미가엘 대적은 환상·천상전투 풀이가 먼저다.",
+      "contextNote": "계시와 천사 동맹.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:1",
+      "textSha256": "29490f4f101eb8d6192984aa94b32de3c405886a6aa181242d6c8ef40ebc82b2",
+      "status": "exclude",
+      "reason": "다리오 때 그를 돕고 강하게 한 사건은 앞 천사·왕 지시가 있어야 읽힌다.",
+      "contextNote": "천사가 이전 왕 지원을 회고.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:2",
+      "textSha256": "e27a0aaba2f9981e5c4f283e05f63c391995344531d8955514ebca3c953ec75d",
+      "status": "exclude",
+      "reason": "네 바사왕 부·헬라 침공은 개인 이익·새 기회 전망이 아니다.",
+      "contextNote": "바사 왕국 예언.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:3",
+      "textSha256": "02bcf0e2be55f1d76ecdc874d4b596735987ff7bf3953820cc69fafa19ba4d7c",
+      "status": "exclude",
+      "reason": "큰 왕의 자의적 통치를 개인 도전의 허가로 읽을 수 없다.",
+      "contextNote": "헬라 강한 왕 예언.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:4",
+      "textSha256": "49a76c23b53daae979432a75e0c08bbf4bf946c99d96302271589775960a3462",
+      "status": "exclude",
+      "reason": "국가 분열·상속 불가의 역사 예언은 개인 가족·성공 결과가 아니다.",
+      "contextNote": "강성 뒤 왕국 분열.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:5",
+      "textSha256": "b1ce47e14a4d696162e8faf5c41e196cd39f5f6f6bebaf73a75dc93ef98454fc",
+      "status": "exclude",
+      "reason": "왕과 군 중 더 강한 자의 권세는 다음 경쟁 정치 배경이다.",
+      "contextNote": "남방 왕국 권세 변화.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:6",
+      "textSha256": "f1d756fee2f75d7dcdd67dfc20d8ab62d7ef78a3c3c452825c5296f5f721e909",
+      "status": "exclude",
+      "reason": "혼인 동맹 뒤 공주·지원자 버림은 상대 고백 결과를 근거 없이 부정한다.",
+      "contextNote": "남북 혼인 동맹 실패.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:7",
+      "textSha256": "76b6efb2d850ce725ab8352406460e9154f929b8aabf42de756fba2492a4df96",
+      "status": "exclude",
+      "reason": "공주 본족이 성 들어가 이김은 개인 복수 성공의 신호가 아니다.",
+      "contextNote": "남방의 북방 보복.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:8",
+      "textSha256": "a8083e5ee32e13ac2c2110578eade4737d97c70e21a5d82d3b87e717628e967f",
+      "status": "exclude",
+      "reason": "우상·은금 약탈 뒤 몇년 쉼은 판매·휴식 선택과 다르다.",
+      "contextNote": "남방 약탈과 전쟁 휴지.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:9",
+      "textSha256": "8f08a9b38aee07962faeeaf570f3b0a706684a43072e62fb8c12c4adc5772c54",
+      "status": "hold",
+      "reason": "시도 뒤 본국으로 물러남은 전환에 닿지만 침공 실패의 역사라 현재 방법 변경 기준이 부족하다.",
+      "contextNote": "북방 침공과 후퇴.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:10",
+      "textSha256": "707613fd6321461b373fc24e916a8b865234011562725098050e0a8979c8ad7b",
+      "status": "exclude",
+      "reason": "물넘침 같은 군대·성 공격은 자기 도전의 속도·성공 의미가 아니다.",
+      "contextNote": "북방 아들들의 재침공.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:11",
+      "textSha256": "907f2690e5795f7e220a31b624a0491a474d1906f8a41cc8a4b0f98999e963ba",
+      "status": "exclude",
+      "reason": "크게 노해 싸워 포획함을 화 메시지의 효과로 보장 못 한다.",
+      "contextNote": "남방의 분노와 승리.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:12",
+      "textSha256": "a1d79435a30bc3014d5d0edbacbcdafa91fe64997520f80552cb2fd201fd6abd",
+      "status": "hold",
+      "reason": "많이 이겨도 힘 안 늘음은 성과 크기 성찰되나 수만 살륙·포획이 전체 연결을 무겁게 한다.",
+      "contextNote": "남방의 자만과 무익한 승리.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:13",
+      "textSha256": "d34ab55ece9f0feb5d6dc9b98323608f8f2b2281e8215504727bcd31ff2100a6",
+      "status": "exclude",
+      "reason": "몇해 뒤 더 큰 군대 준비는 현재 재도전 기한·자원을 주지 않는다.",
+      "contextNote": "북방의 재정비.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:14",
+      "textSha256": "61a379132464c8bff24dbff8c619e513cc7ae304a4e277793c1bb2a7379e61d6",
+      "status": "exclude",
+      "reason": "이상 이루려던 강포자 넘어짐은 계획 도전의 실패를 단정할 수 없다.",
+      "contextNote": "남방에 대한 다수의 반란.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:15",
+      "textSha256": "279a5f4df302ecbd213a8b2876c4f6b933e7a6efc1d03b57e885f1e3fe8dd558",
+      "status": "exclude",
+      "reason": "정예도 못 막는 침공은 지금 준비의 가치를 부당히 부정한다.",
+      "contextNote": "북방의 성 점령.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:16",
+      "textSha256": "80510c8beb835ecce8853dd580d69334acb74de0863417e2a409af962bad8456",
+      "status": "exclude",
+      "reason": "아무도 못 서는 가해자의 자의적 멸망은 생활 선택 단서가 아니다.",
+      "contextNote": "북방의 압도적 정복.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:17",
+      "textSha256": "3c1d6d500968c3b247ec38027abd099370302c054c7f771b8d07d44b7ffe5977",
+      "status": "exclude",
+      "reason": "공주로 나라 망하게 할 모략 실패는 결혼·고백 상대 의도를 지어낸다.",
+      "contextNote": "화친을 이용한 침투 실패.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:18",
+      "textSha256": "9f15ece7663a88ac44dba0ae36a862c7a88f86c6235a4bae79d8933b95ed55ee",
+      "status": "exclude",
+      "reason": "대장이 수욕 돌리는 미완 정치 예언은 역사 풀이가 필요하다.",
+      "contextNote": "해양 진출과 맞보복.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:19",
+      "textSha256": "1a5a90fd0be0178c251122cd38de93e91526ce004445d32ab86676ca2329538c",
+      "status": "exclude",
+      "reason": "돌아가 넘어져 다시 안 보임은 회복·재도전 불가를 예고하게 된다.",
+      "contextNote": "정복자의 본국 몰락.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:20",
+      "textSha256": "5bb6b4205b3007cb58c37fd09a0b35d773322b45f2377a86efd2bca402ef8104",
+      "status": "exclude",
+      "reason": "토색자·며칠 뒤 비전투 멸망은 국가 계승의 특수 사건이다.",
+      "contextNote": "후임 왕의 단명.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:21",
+      "textSha256": "4403b2a046c3ff3edb99bb83abf20ee2cd6e26720a0710211b93583911a9b6b9",
+      "status": "exclude",
+      "reason": "비천한 자의 궤휼 왕권은 정직한 낮은 출발을 부정적으로 오독하게 한다.",
+      "contextNote": "기만으로 왕위 차지함.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:22",
+      "textSha256": "c34cd00ef727b7f6dc395778b8832f8a7395ded331580d508f6ba1f7f330da58",
+      "status": "exclude",
+      "reason": "동맹한 왕도 군대도 패배함은 내 조언자·동료 결과를 보장하지 않는다.",
+      "contextNote": "새 왕의 적·동맹 패배.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:23",
+      "textSha256": "4def7e46a7fd526e28b7d8ab7dec21dd3305b70dc683d14fd65b0b9e8ada5146",
+      "status": "exclude",
+      "reason": "약속 뒤 거짓으로 강해짐은 거래 약속을 어겨도 된다는 승인처럼 오독된다.",
+      "contextNote": "약조 배반과 세력 성장.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:24",
+      "textSha256": "856b723427511971423de958fb4a4f9633e27ead6cdefbef614298727155d89b",
+      "status": "exclude",
+      "reason": "약탈품 나눔·산성 모략은 작은 나눔·선물의 출처와 다르다.",
+      "contextNote": "가해 왕의 기만적 통치.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:25",
+      "textSha256": "e56b538aa7db803eac85f616150613719334e7cc2b57a20597301e768c8e7069",
+      "status": "exclude",
+      "reason": "대군도 모략에 지는 지정 전쟁은 현재 준비 부족·상대 악의를 알려주지 않는다.",
+      "contextNote": "남방군의 패배 이유.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:26",
+      "textSha256": "f3fae26695ed714eeda5496604cd077f3a06cf88ea02e9e910402edbaeb192f2",
+      "status": "exclude",
+      "reason": "내 음식 먹는 자가 나를 죽임은 친구·동료 마음을 배신으로 확정한다.",
+      "contextNote": "남방 내부 배신.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:27",
+      "textSha256": "dcb7ee0b1cdd9bf29a0d0f95c80335761b19f74bc40060db012039ea444d8479",
+      "status": "hold",
+      "reason": "한 상에서 속이는 겉말·속뜻 대조는 정직에 닿지만 두 왕의 악의·정한 기한을 지금 상대에게 부여할 수 없다.",
+      "contextNote": "남북 왕들의 거짓 회담.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:28",
+      "textSha256": "f68a71d62dba392e9340d0003aa262df275147c00950a15a2390e9f7c243bcc3",
+      "status": "exclude",
+      "reason": "거룩한 언약 거스르고 재물 가져감은 판매 이익·일상 귀가와 다르다.",
+      "contextNote": "북방의 언약 대적.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:29",
+      "textSha256": "35c11fd05d8ff04f1051cca45d966ff625215de4e1b8ec72ac85f39d31339756",
+      "status": "hold",
+      "reason": "이번은 전만 못함은 과거 성과 반복 못함을 생각하게 하지만 특정 침공·정한 때의 사건이다.",
+      "contextNote": "북방의 두 번째 원정 차이.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:30",
+      "textSha256": "9725da30cbfd26b1ecfe922b2f7cf4112f44852138dc4e7bf540f929dd6cc448",
+      "status": "exclude",
+      "reason": "깃딤 해군·언약 분노·배반자 중시가 길어 역사 풀이가 필요하다.",
+      "contextNote": "군사 좌절 후 언약 박해.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:31",
+      "textSha256": "7438b9ef0188c868f07fa88534174d676e181909fdd90879d1d8e5a43d842771",
+      "status": "exclude",
+      "reason": "매일제사 폐지·멸망 물건은 성소 박해 상징 해설이 필요하다.",
+      "contextNote": "군대의 성소 모독.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:32",
+      "textSha256": "f13585526152b04b6e8c02173a8c1f54e528a1b49d642c64e1cc3b748368cca9",
+      "status": "hold",
+      "reason": "압박 속 신앙의 용기는 보이지만 궤휼·언약 배반의 고발과 확정 강함을 일반 실적 상황에 보장 못 한다.",
+      "contextNote": "배반자와 신앙 백성의 대조.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:33",
+      "textSha256": "0b1a9f661f28bde02c67d9c00fcfb51f8b82f64370aac7a44a41546375331fa0",
+      "status": "exclude",
+      "reason": "가르쳐도 칼·불·약탈 피해는 도움 결과를 불필요한 고통으로 예고한다.",
+      "contextNote": "지혜자의 박해.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:34",
+      "textSha256": "c745a2392e8557a99bd8decee636831071e1a10217a8ceb784333bec1e96857b",
+      "status": "hold",
+      "reason": "작은 도움은 있지만 친해진 이의 궤휼을 함께 말해 실제 동료 마음을 지어내기 쉽다.",
+      "contextNote": "박해 중 도움·거짓 친합.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:35",
+      "textSha256": "9d4f46a38a87fede0ef28f4c3a16a987db45670618fb655a1f4b15659c1ed9aa",
+      "status": "hold",
+      "reason": "어려움에도 정련의 의미는 있으나 작정 끝때까지 쇠함이라는 박해 조건이 회복 보장으로 읽힐 수 있다.",
+      "contextNote": "박해와 정결의 기간.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:36",
+      "textSha256": "d0d76c40f167e455f5cd48cef4051bcfc6fe50c94832b16e632a76b73e828e11",
+      "status": "exclude",
+      "reason": "자를 높여도 분노 끝까지 형통함은 부정직 이익의 허가로 읽으면 문맥을 뒤집는다.",
+      "contextNote": "신을 대적하는 왕의 일시 형통.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:37",
+      "textSha256": "0e8974a942df32e12c93b6499195e29e9417cc01bbd8c503105a2f17b8f1e48d",
+      "status": "exclude",
+      "reason": "어떤 신·사모도 돌아보지 않는 왕의 미완 고발은 일반 내 기준 선택과 다르다.",
+      "contextNote": "가해 왕의 종교적 자만.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:38",
+      "textSha256": "9034cdc950f11319c17289d1ab6431510bf53f9694782c1257989d3480e66c47",
+      "status": "exclude",
+      "reason": "권력 신에게 은금 봉헌은 작은 구매·선물 고민에 직접 대응되지 않는다.",
+      "contextNote": "세력 숭배의 재물.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:39",
+      "textSha256": "71c98b9e5d60783f1cd94ed3e6959a76c745d9d56be6cb3c283d758033fd8d47",
+      "status": "exclude",
+      "reason": "뇌물 받고 땅 나눔·명성은 이익을 위한 관계 이용의 승인처럼 오독된다.",
+      "contextNote": "뇌물 통치와 산성 점령.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:40",
+      "textSha256": "382bc48f1b119b44988cd7a27b1689121dc826754a2e9f438355ea28733ea732",
+      "status": "exclude",
+      "reason": "남북 회오리 침공은 개인 선택의 변화를 재난으로 오독시킨다.",
+      "contextNote": "마지막 남북 전쟁.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:41",
+      "textSha256": "91b6d2407eaf6df0588a8523cde2d4984008e25f7291e84141c5ef6d816c7bd2",
+      "status": "exclude",
+      "reason": "세 민족만 면하는 국가 침공은 현재 관계·회복의 안전 기준이 아니다.",
+      "contextNote": "영화로운 땅과 일부 민족 제외.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:42",
+      "textSha256": "149571925b8e22ffa58188ed1735e138610fc228a595d800edae16777bcba9a6",
+      "status": "exclude",
+      "reason": "애굽도 못 피하는 미완 침공 예언은 개인 실마리가 없다.",
+      "contextNote": "애굽의 점령 예고.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:43",
+      "textSha256": "100108676b54230bbeb4edc0af09b72f0b296934e3e6ad4c8fd042f5e18e5803",
+      "status": "exclude",
+      "reason": "애굽 보물·리비아·구스 복종은 생활 구매나 새 역할과 다르다.",
+      "contextNote": "북방 왕의 전리품·시종.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:44",
+      "textSha256": "8db1d09a7962bf4710c07c390e3e8b92c6f92389a6d9e26148e5a4ef114fc696",
+      "status": "exclude",
+      "reason": "소문에 분노해 도륙함은 사실 확인 없이 말할 행동의 경고지만 폭력 전제가 생활 갈등에 과하다.",
+      "contextNote": "가해 왕의 소문 대응.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:11:45",
+      "textSha256": "971c12433b1e04b00a90b22232f71d158b65b852896da4bf97ba12540df81e98",
+      "status": "exclude",
+      "reason": "마지막에 도울 자 없음은 도움 요청을 거절하는 신호로 만들 수 없다.",
+      "contextNote": "북방 왕의 최후.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:12:1",
+      "textSha256": "7689a254b0ea42655b597e1170ba1e5d6ea1d8bb7a9387646265801f7814f8e7",
+      "status": "exclude",
+      "reason": "미가엘·최대 환난·책 기록자의 구원은 종말 해설을 요구한다.",
+      "contextNote": "최후 환난과 선택된 구원.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:12:2",
+      "textSha256": "21a9e698433ecd13f2795cae497a00963f29812b5f188338c9a5f638536fe9e4",
+      "status": "exclude",
+      "reason": "영생·영원 수치의 부활 구별은 작은 삶의 두 선택 결과로 쓸 수 없다.",
+      "contextNote": "부활과 마지막 심판.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:12:3",
+      "textSha256": "83f17939361a16e2dbb64274e5afa1b472a5b1435bd068ddea5653af6a1c0a08",
+      "status": "hold",
+      "reason": "남의 길을 밝히는 지혜의 가치가 보이지만 옳은데로 돌림·영원한 빛은 실제 도움보다 종말 보상의 맥락이다.",
+      "contextNote": "지혜로운 성도의 빛.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:12:4",
+      "textSha256": "3fb79a63b50c08fefac9398964c00c56299a11f8a2b50eb45c853147df96b66f",
+      "status": "exclude",
+      "reason": "글 봉함·왕래·지식은 끝때 환상 보존의 특수 명령이다.",
+      "contextNote": "마지막 계시의 봉함.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:12:5",
+      "textSha256": "2dbf62fdadff657c55db7c318e15713a403c0469e818cbba5899ece8318607f6",
+      "status": "exclude",
+      "reason": "강 양편 두 사람의 장면만으로 선택의 양쪽 기준이 없다.",
+      "contextNote": "종결 질문의 장면.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:12:6",
+      "textSha256": "3c789bc63488990b027e1f84b09024db323a2cfb6d6de314e815768dd2afaa9c",
+      "status": "exclude",
+      "reason": "강위 인물에게 기사의 끝 묻는 질문은 지금 결정의 기한을 말하지 않는다.",
+      "contextNote": "종말 기간 질문.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:12:7",
+      "textSha256": "99a5b2b9853bcc9415a24ad8d51efb3b03c46a5f2475743621fbe805e68727c0",
+      "status": "exclude",
+      "reason": "한두반때·권세 깨짐의 신적 맹세는 풀이 없이 읽기 어렵다.",
+      "contextNote": "박해 종료 시점 답.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:12:8",
+      "textSha256": "c520219fbc877d5acf3f0d01253226fe08a5716629854fd1a484e6fe7650df10",
+      "status": "hold",
+      "reason": "듣고도 모르니 다시 묻는 정직은 조언 요청에 닿지만 모든 일의 결국은 지정 예언이라 생활 충분함은 낮다.",
+      "contextNote": "다니엘의 재질문.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:12:9",
+      "textSha256": "f057ebebf4ff16b5a6e1fe4e5d5f95249dffab07e34885f16a0b2d4ef28e5f45",
+      "status": "hold",
+      "reason": "다 알기 전에 가라는 여지는 있으나 마지막 때 봉함이라 개인 결정 즉시 실행의 허가로 못 쓴다.",
+      "contextNote": "모르는 계시의 봉함 유지.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:12:10",
+      "textSha256": "8fe6027c4a264688ddfed0b2f9822015a3282c027e8d8f8ae11928990b09bd02",
+      "status": "hold",
+      "reason": "훈련으로 분별 얻음은 보이나 악인은 아무도 깨닫지 못한다는 전체 정죄가 다른 의견을 배제하기 쉽다.",
+      "contextNote": "박해 속 지혜·악의 분별.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:12:11",
+      "textSha256": "02e33d5c4c3ada18af090784ee751df2f8473aae3cfd8f2e2dce5cabbdf32f35",
+      "status": "exclude",
+      "reason": "일천이백구십일과 제사 폐지는 개인 일정 기한의 답이 아니다.",
+      "contextNote": "박해 기간 수치.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:12:12",
+      "textSha256": "66dc3e1cfd5d6a0ed48babebd96db24985422b645a997c6652f23ca0ed107881",
+      "status": "exclude",
+      "reason": "일천삼백삼십오일까지 기다림을 오늘 마감·현금 기한에 적용 못 한다.",
+      "contextNote": "끝때를 견딘 자의 복.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DAN:12:13",
+      "textSha256": "5906a9c6b6f2df4b79e2b9e20c312327c904e7eefaf0d193df33ad47eef857f4",
+      "status": "hold",
+      "reason": "기다리며 쉬는 위로는 있지만 마지막 업 상속의 종말 약속이 현재 마감·치료의 결심과 다른 조건이다.",
+      "contextNote": "다니엘의 종말 안식과 기업.",
+      "readability": "clear",
+      "connections": []
+    }
+  ]
+}
