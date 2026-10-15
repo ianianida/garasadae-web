@@ -1,0 +1,693 @@
+{
+  "bookCode": "HAB",
+  "corpusSha256": "f8d5c8b377e243b05fb884b4a6965d2c06a95de74b64a716ee4b95989d61e971",
+  "criteriaVersion": "garasadae-corpus-2026-10-08-v1",
+  "reviewer": "Codex review_ezk_rev",
+  "method": "direct-codex-reading",
+  "entries": [
+    {
+      "id": "KRV:HAB:1:1",
+      "textSha256": "d70b6cf353d9c4b03b7c313877f8a438e3799575ca1d154502bc62079c33e8b8",
+      "status": "exclude",
+      "reason": "예언자의 경고라는 표제로 선택의 내용은 아직 없다.",
+      "contextNote": "하박국 묵시의 제목이다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAB:1:2",
+      "textSha256": "3fb7743dedc2ae045977bc32f5a6c798580711e5d19bcbac46def97c4fa1ade9",
+      "status": "hold",
+      "reason": "응답이 없다고 솔직히 묻는 말은 어려움을 숨기지 않을 여지가 있지만 언제까지인지에 대한 답이나 선택의 기준은 아직 없다.",
+      "contextNote": "폭력 속에서 구원을 못 보는 예언자의 질문이다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "지친 상태와 도움받지 못한 느낌도 말할 수 있음을 읽을 수 있다.",
+          "friction": "하나님께 호소하는 국가 폭력의 상황이다. 사람에게 부탁하면 들어준다는 뜻은 아니고 호소의 반복이 중심이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAB:1:3",
+      "textSha256": "18cd33320d56105264c6865525fdc6f9beaa9060167a234bff4a63edc8f149a5",
+      "status": "exclude",
+      "reason": "겁탈과 폭력 및 분쟁을 왜 보게 하느냐는 탄식은 실제 범죄 상황이며 불확실한 관계 갈등에 같은 원인을 붙일 수 없다.",
+      "contextNote": "예언자가 사회의 악을 하나님께 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAB:1:4",
+      "textSha256": "950fdbed9284757f8ed8007cf1e43bc5c56b44e15ca004d0483c261cf7dac576",
+      "status": "hold",
+      "reason": "악이 정직한 이를 에워싸 공의를 굽히는 모습은 집단 압력의 부담을 비추나 율법과 공적 재판의 배경이 강하다.",
+      "contextNote": "부패 때문에 정의가 시행되지 않는 현실이다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "부정한 분위기 안에서 사실을 지키기 힘든 부담을 알아볼 수 있다.",
+          "friction": "현재 팀을 성경의 악인 집단과 동일시하지 않고 사용자가 어떻게 말할지까지는 보여 주지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAB:1:5",
+      "textSha256": "d7bc8e97d5bbee399a5ed9b0ea707982799753d3295082594afd1ec5bb4f4350",
+      "status": "hold",
+      "reason": "현재 이해보다 큰 일이 있을 수 있다는 말은 시야의 한계를 비추지만 뒤의 뜻밖의 침략을 알아야 긍정 성공 약속이 아님이 선다.",
+      "contextNote": "하나님이 갈대아를 통한 심판으로 응답하기 시작한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H062",
+          "clue": "내가 예상한 경로만으로 모든 변화를 미리 판단하지 않을 여지는 있다.",
+          "friction": "이루어질 놀라운 일이 반드시 편한 결과는 아니며 사용자의 틀어진 계획이 곧 신적 반전이라고 보장하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAB:1:6",
+      "textSha256": "ef46037edba07829f29f3bb18f878290b36cfcfac0114b9f25a0d830ab5317ca",
+      "status": "exclude",
+      "reason": "자기 것이 아닌 땅을 점령할 성급한 갈대아는 특정 침략 세력으로 일반 소유 욕구와 단순 비교하기 어렵다.",
+      "contextNote": "하나님이 일으키실 심판 도구를 소개한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAB:1:7",
+      "textSha256": "30d34185e1d1407f39b3c66c10db398df2f341748939d1e596d4ab68c7f6f83c",
+      "status": "exclude",
+      "reason": "두려움과 위령의 주체를 소개한 접속 문장은 침략자 묘사로 독립된 생활 선택 내용이 없다.",
+      "contextNote": "갈대아의 독자적 권세와 위협을 말한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAB:1:8",
+      "textSha256": "859c5d075b7bd37908a6b11c78987d04a253871de87d4a31851b6c190494bc69",
+      "status": "exclude",
+      "reason": "표범·이리·독수리 같은 기병은 군대의 사납고 빠름을 묘사하여 조급한 판매를 같은 침략으로 볼 수 없다.",
+      "contextNote": "갈대아의 군사력을 비유한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAB:1:9",
+      "textSha256": "2b7dbe64c5d006372cceee76b433e709c8a589683fbf48436ae3bde768f8ed74",
+      "status": "exclude",
+      "reason": "모래처럼 많은 포로를 모으는 폭력은 일상 고민의 선택 부담보다 전쟁 피해가 중심이다.",
+      "contextNote": "침략의 목적과 피해를 말한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAB:1:10",
+      "textSha256": "66ec3a613e796573bdcf90394b01c1351257a0a53a6a9c318e6e02240677e1dc",
+      "status": "exclude",
+      "reason": "왕과 요새를 비웃고 흉벽을 쌓는 군대는 군사 기술 풀이와 실제 전쟁이 전제다.",
+      "contextNote": "갈대아의 거침없는 정복을 그린다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAB:1:11",
+      "textSha256": "e66d939b192b74f252867a66b8a9361b3c8e19435882f25486a6e8195345e7b7",
+      "status": "hold",
+      "reason": "자기 힘을 신으로 삼고 지나치게 행하는 모습은 성과의 의존을 비추지만 군사 폭력을 모든 자신감과 동일시할 수 없다.",
+      "contextNote": "심판의 도구인 갈대아 역시 죄를 범한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H046",
+          "clue": "빠른 힘과 성과가 곧 옳은 길이라는 내 기준을 점검할 수 있다.",
+          "friction": "정복자의 과도한 폭력이 배경이다. 남보다 빨리 일하는 사람을 악인으로 정하거나 현재 계획의 옳음을 보장하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAB:1:12",
+      "textSha256": "e7348aeb061842a1c95cd98595f7701bc2ab0e2962c22251a2032f63bdc4e7ef",
+      "status": "exclude",
+      "reason": "영원한 하나님이 그를 심판 도구로 두셨다는 긴 고백은 갈대아의 주체를 알아야 뜻이 선다.",
+      "contextNote": "예언자가 더 악한 나라를 쓰시는 이유를 묻기 시작한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAB:1:13",
+      "textSha256": "f3ac249670f29fe7c050735d07322ccdd1359551be6868ddeec130980063f709",
+      "status": "hold",
+      "reason": "불의가 더 의로운 이를 삼키는 이유를 묻는 탄식은 불공평을 말할 여지를 주나 현재 지적이나 작은 갈등을 같은 억압으로 채울 수 없다.",
+      "contextNote": "하나님의 정결과 침략자의 악 사이 모순을 질문한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "주변의 불의한 압박을 당연한 것으로만 삼키지 않고 질문할 수 있음을 읽을 수 있다.",
+          "friction": "실제 전쟁과 신정론의 질문이다. 거짓 수치 요구의 결과나 해결할 행동을 직접 보여 주지는 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAB:1:14",
+      "textSha256": "6741119e811b10e6c703c465781b957f02fd57594be633f43e12aa77051d7163",
+      "status": "exclude",
+      "reason": "지도자 없는 물고기와 곤충 같은 사람이라는 물음은 국가의 무력함을 표현하며 개인 능력의 평가가 아니다.",
+      "contextNote": "침략당하는 민족을 잡히는 생물에 비유한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAB:1:15",
+      "textSha256": "410b2bbbcfec84ba0fa6a26c0bd3e4325a3c562dd380d0466ff5c836416b740c",
+      "status": "exclude",
+      "reason": "그물과 초망으로 사람을 잡아 즐기는 장면은 옛 도구와 포로 비유 풀이가 필요하다.",
+      "contextNote": "갈대아의 정복을 고기잡이에 비유한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAB:1:16",
+      "textSha256": "ddafcf229cc57dace37693c4eea120f3bc1df0ffdf18b993842e668b650ace60",
+      "status": "hold",
+      "reason": "소득을 준 그물에 제사하는 모순은 수단의 우상화를 비추지만 초망과 포로 맥락이 없으면 상품 선택으로 읽기 어렵다.",
+      "contextNote": "정복 도구를 숭배하는 갈대아의 행태다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H006",
+          "clue": "좋은 도구가 주는 성과와 그 도구 자체에 마음이 지배되는 일을 구별할 여지는 있다.",
+          "friction": "현재 기기는 전쟁의 포획 그물이 아니다. 잘 작동하는 제품 교체의 구체 필요는 이 절로 판단할 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAB:1:17",
+      "textSha256": "6cb8b32d2bf33655a5b1980fb5497c7a36175856a8d6165a723ac45a7a1a2603",
+      "status": "exclude",
+      "reason": "계속 열국을 살륙하는 일이 옳냐는 물음은 학살의 고발로 일반 반복 실패나 경쟁 선택과 다르다.",
+      "contextNote": "침략이 계속되는 정의의 문제를 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAB:2:1",
+      "textSha256": "ad74b8031dd478ba711e2248b519c67cecd77027f45660cb5b1d1bfab1ce0081",
+      "status": "candidate",
+      "reason": "자기 질문 뒤 답을 기다리며 무엇을 들을지 살피는 태도는 불편을 더 바쁜 활동으로 덮을지 고민하는 마음을 비춘다.",
+      "contextNote": "하박국이 하나님의 응답을 기다리며 파수 자리에 선다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H063",
+          "clue": "곧바로 움직여 불편을 지우려 하기보다 잠시 서서 내 질문과 듣게 될 답을 살피는 흐름을 읽을 수 있다.",
+          "friction": "성루의 파수는 하나님 응답을 기다리는 예언자의 자세다. 실제 불편의 이유가 신앙 문제라고 확정하거나 곧 분명한 답이 온다고 약속하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAB:2:2",
+      "textSha256": "86ad4a359537de120b88e04faa8746bbcc424de077485caa5af1684e9a754d9f",
+      "status": "candidate",
+      "reason": "달리면서도 읽도록 명백히 기록하라는 말은 많은 설명보다 중요한 내용의 전달을 고민하는 공지 작성에 직접 실마리가 된다.",
+      "contextNote": "하나님이 하박국에게 받은 묵시를 분명하게 기록하게 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C012",
+          "clue": "움직이며 보는 사람도 읽을 수 있게 명백히 새긴다는 표현에서 긴 설명을 늘리기보다 핵심을 잘 보이게 정리할 방향을 얻을 수 있다.",
+          "friction": "원래 기록할 것은 하나님의 묵시다. 행사 안내를 같은 계시로 높이지 않고 읽는 사람의 조건을 고려하는 장면으로 연결한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAB:2:3",
+      "textSha256": "fd7b30638de3a2ece1ef03fe2f857e79cd2a33f33f7c9aedea99619f2e66cace",
+      "status": "candidate",
+      "reason": "더디게 느껴져도 정한 때를 두고 기다리는 문장은 남의 속도나 연락 없음만으로 급히 방향을 바꿀 부담을 비춘다.",
+      "contextNote": "포악한 자에 대한 하나님의 묵시가 정한 때 이루어질 것을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H046",
+          "clue": "다른 이보다 느리다는 감각만으로 내 계획을 즉시 버리지 않고 계획의 때와 근거를 다시 볼 수 있다.",
+          "friction": "확실히 이루어질 주체는 하나님의 묵시다. 사용자의 기존 계획이 반드시 옳거나 같은 성취를 보장받았다고 말하지 않는다.",
+          "expectedEnough": "yes"
+        },
+        {
+          "scenarioId": "G07",
+          "clue": "급한 현금 기한은 없는데 연락을 기다리기 지쳐 속도를 바꾸려는 마음에서 더딤과 기다림을 다르게 읽을 수 있다.",
+          "friction": "정한 때가 있다는 원뜻은 예언에 관한 말이다. 높은 가격에 팔리거나 매수자가 곧 나타난다는 시장 정보를 만들지 않는다.",
+          "expectedEnough": "yes"
+        },
+        {
+          "scenarioId": "G08",
+          "clue": "조급한 마음을 돌아볼 여지는 있다.",
+          "friction": "이번 주의 실제 현금 기한이 있고 판매는 보장되지 않는다. 예언의 확실한 성취를 대금 마련의 보장으로 바꾸어 기다림만 충분하다고 할 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAB:2:4",
+      "textSha256": "93b8618a4a84e3710c53a43ec6d4344b9addd0aec3d426038ff1cd143654ba2a",
+      "status": "hold",
+      "reason": "교만하고 정직하지 못한 마음과 믿음의 대비는 자신을 돌아보게 하나 평가를 꾸밀 구체 행위는 나오지 않는다.",
+      "contextNote": "불의한 정복자와 믿음으로 사는 의인을 대조한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "유리한 모습보다 내 속의 정직함이 어떤지 생각할 수 있다.",
+          "friction": "의인의 믿음은 삶 전체에 대한 고백이며 과장한 표현의 경계나 평가 결과를 정해 주지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAB:2:5",
+      "textSha256": "770188949d15abb43aef32bde985f4f805f58a7292f3fe31e407cb9b34ea2931",
+      "status": "hold",
+      "reason": "족함을 모르는 욕심은 이미 가진 것으로 충분할지의 고민을 비추지만 음부 같은 만국 정복의 전체 비유는 규모가 크다.",
+      "contextNote": "만민을 삼키려는 갈대아의 탐욕을 고발한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H001",
+          "clue": "많이 모아도 족한 줄 모르는 마음을 내 소유의 만족과 비춰 볼 수 있다.",
+          "friction": "본문은 술과 기만과 정복 욕심까지 포함한다. 운동화를 원하는 마음 전체를 이 제국의 죄로 판정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAB:2:6",
+      "textSha256": "74784e361c9e39026723ac23ccb13932ef56874f1654c61378d45f8abcba0d76",
+      "status": "hold",
+      "reason": "자기 것이 아닌 것을 모아 짐을 지는 모습은 소유 경계를 비추나 볼모와 열국의 풍자가 생활 허락 확인보다 복잡하다.",
+      "contextNote": "약탈 국가를 피해 민족들이 조롱할 것을 예고한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "C007",
+          "clue": "내가 모으고 처리하려는 물건이 누구의 것인지 돌아볼 수 있다.",
+          "friction": "폭력적 담보와 약탈을 쌓은 정복자에 대한 화다. 아직 가족의 의사를 모르는 고민과 구별한다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAB:2:7",
+      "textSha256": "ad5ff954b72f323b60ef9e9dbc93e9fa9d91dd9751172eda07c4019f5c85847f",
+      "status": "exclude",
+      "reason": "괴롭게 할 자가 일어나 약탈할 경고는 확인 없는 주변 적대와 미래 보복을 덧붙일 수 있다.",
+      "contextNote": "가해자가 약탈당하는 심판의 반전이다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAB:2:8",
+      "textSha256": "3bd85f2e72a93d6cc678bf7e7d9b74a1a9f205b2b4d5ae11d40d3d5b064a7737",
+      "status": "exclude",
+      "reason": "여러 나라의 피와 폭력 때문에 같은 약탈을 받는 선언은 국가 범죄의 응징으로 개인의 작은 갈등에 맞지 않는다.",
+      "contextNote": "정복자의 보응 이유를 밝힌다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAB:2:9",
+      "textSha256": "d2e2a90c2eace2539a871078ed82974237079e953c67047cb2de459d465e17af",
+      "status": "candidate",
+      "reason": "집을 안전하게 하려는 목적도 불의한 이익의 이유가 될 수 없다는 모습은 좋은 평가를 위한 사실 왜곡을 비춘다.",
+      "contextNote": "높은 둥지 같은 안전을 얻으려 부정 축적하는 자를 경고한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "내 자리와 팀의 안전을 위해서라는 이유가 불의한 이익을 충분히 정당화하는지 돌아볼 수 있다.",
+          "friction": "본문은 자기 집을 위한 부정 축적이며 실적 작성의 결과는 다르다. 사실대로 쓰면 지위가 안전해진다는 반대 보장도 없다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAB:2:10",
+      "textSha256": "63cb90fe6f7bd023fb349aeae1a09185bd36bf2cb31d1c9a71c31e595078f714",
+      "status": "exclude",
+      "reason": "다른 민족 멸망으로 자기 집에 죄와 욕을 부른다는 말은 국가 학살의 결과라 일상 불편과 강도가 다르다.",
+      "contextNote": "앞의 부정 축적이 실제로는 집을 해친다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAB:2:11",
+      "textSha256": "35c189aae31551de81c99643345a8af2b2d43d9977c80925406f1021905ea985",
+      "status": "hold",
+      "reason": "벽의 돌과 들보까지 말하는 그림은 숨긴 과정이 사라지지 않음을 떠올리게 하나 무엇을 증언하는지 앞절이 필요하다.",
+      "contextNote": "불의로 지은 집의 재료가 죄를 증언한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "내용을 꾸며도 그 과정이 완전히 없어지는지 생각할 수 있다.",
+          "friction": "부정 축적한 집의 비유라는 배경 없이 읽으면 무슨 말인지 모호하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAB:2:12",
+      "textSha256": "b9ea2a4aee5e96d44a968c744f3464ea110904b1040d3f5ccfdfac6eee82c0f9",
+      "status": "exclude",
+      "reason": "피로 도시를 세우는 자의 화는 폭력적 건설의 고발로 좋은 성과를 원하는 일반 노력과 다르다.",
+      "contextNote": "폭력으로 만든 도시의 심판을 선언한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAB:2:13",
+      "textSha256": "89ee37269a74ab0154351d9291077505c8712b2174f4d798e3c60addbcc07c3c",
+      "status": "hold",
+      "reason": "헛된 일로 지친다는 표현은 노력의 목적을 점검하게 하나 불탈 제국을 세운 수고이지 공부와 피로 자체의 부정은 아니다.",
+      "contextNote": "하나님이 폭력적 국가의 수고를 무너뜨리신다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G13",
+          "clue": "수고를 무조건 늘리는 것 외에 그 수고의 목적과 상태를 생각할 수 있다.",
+          "friction": "공부는 불의한 제국 건설이라는 정보가 없고 수면 필요를 본문으로 직접 판단하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAB:2:14",
+      "textSha256": "f07b1bca2c52a14c02d4c21dc928e00e994157373fa4915e0e279b8be3c063b2",
+      "status": "hold",
+      "reason": "물이 바다를 덮는 더 큰 시야는 내 성과만 보는 마음을 넓히지만 구체 대안의 부담에는 연결이 넓다.",
+      "contextNote": "불의한 국가와 달리 하나님의 영광이 널리 알려진다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H046",
+          "clue": "내 성과와 다른 사람의 성과 비교보다 넓은 기준을 잠시 볼 수 있다.",
+          "friction": "원뜻은 하나님의 영광을 아는 세상이며 계획 유지와 변경 중 무엇을 비출지는 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAB:2:15",
+      "textSha256": "b1c46b36e62b31d6c6a27d6b66d66eed13e7d32ff09e0ffa8b52b2b87875c8f9",
+      "status": "exclude",
+      "reason": "이웃을 취하게 해 몸을 드러내려는 행위는 성적 가해의 고발로 평범한 말다툼이나 술자리 선택과 다르다.",
+      "contextNote": "폭력 국가의 수치 주기와 착취를 비판한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAB:2:16",
+      "textSha256": "a9340d97761e1b283baf1337e08581f873a05d7f6790abec0fa7e8a35d28f0fe",
+      "status": "exclude",
+      "reason": "할례 없는 몸과 더러운 욕을 드러내는 보복은 성적 수치와 심판 잔의 풀이가 필요하다.",
+      "contextNote": "가해자의 영광이 자기 수치로 바뀐다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAB:2:17",
+      "textSha256": "2cb61421d8db35498aa6d95b9ad26212dbc83d59640bd727b9ccffa4b9675aa7",
+      "status": "exclude",
+      "reason": "레바논과 동물 및 사람에게 한 폭력이 돌아오는 선언은 생태·전쟁 범죄의 응징으로 일반 구매를 판단하지 않는다.",
+      "contextNote": "국가 폭력의 범위와 보응을 밝힌다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAB:2:18",
+      "textSha256": "4ad8da9dafdfb59eb676b92d7c5f313a3b7375ff1fe670f1744cb09238999b75",
+      "status": "hold",
+      "reason": "스스로 만든 말없는 것을 의지하는 유익을 묻는 말은 확답 의존을 비추지만 우상과 생활 도구나 조언은 같지 않다.",
+      "contextNote": "새긴 우상의 무력함을 고발한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H061",
+          "clue": "내가 의지하는 확답의 장치가 실제로 판단을 대신할 수 있는지 생각할 수 있다.",
+          "friction": "본문은 우상 숭배에 대한 말이지 장단점을 더 조사하거나 판단 보조를 받는 행위를 모두 금하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAB:2:19",
+      "textSha256": "e76b8f13759ca218d158e6d9ec55786849792fb828bbced725dc982d2c08d8fe",
+      "status": "exclude",
+      "reason": "나무와 돌을 깨워 교훈을 구하는 우상 비판은 생기 없는 신상의 맥락이 강해 현재 조언 비교에 바로 적용하기 어렵다.",
+      "contextNote": "금은으로 입힌 우상의 생명 부재를 드러낸다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAB:2:20",
+      "textSha256": "61bfe4ca71bf9c8a11206edaec6ab23bdee2b4f34336af2c62b6fe074a697283",
+      "status": "candidate",
+      "reason": "온 천하가 잠잠해지는 장면은 계속 활동하고 답을 내야 한다는 압박에서 잠시 멈출 다른 자세를 준다.",
+      "contextNote": "말없는 우상과 대비해 성전에 계신 하나님 앞의 경외를 요청한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H063",
+          "clue": "더 바쁘게 움직이기보다 잠잠히 머무는 시간이 가능하다는 문장에서 불편을 돌아볼 여지를 읽을 수 있다.",
+          "friction": "하나님 앞의 예배적 경외가 원뜻이다. 침묵하면 원인을 반드시 알게 되거나 필요한 문제 제기를 하지 말라는 말은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAB:3:1",
+      "textSha256": "5546a8dc97928ea482cbdafa01af2c807573f30fa017a6eb3224af115c34d297",
+      "status": "exclude",
+      "reason": "시기오놋에 맞춘 기도라는 음악 표제로 생활 선택의 내용을 주지 않는다.",
+      "contextNote": "하박국의 기도 노래를 소개한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAB:3:2",
+      "textSha256": "7a2b6bdf889abfc7e711b272a9aafca7eeca3fee4fd35fe8e2541e28c7efc57e",
+      "status": "candidate",
+      "reason": "진노 속에서도 긍휼을 잊지 말라는 청은 잘못에 대한 화와 상대를 다시 볼 마음을 함께 두게 한다.",
+      "contextNote": "하나님의 일을 드러내시고 심판 중에도 긍휼 베푸시기를 구한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C002",
+          "clue": "분노가 있다는 사실과 계속 벌하고 싶은 선택을 구별하며 그 안에서도 긍휼을 기억할 수 있는지 읽을 수 있다.",
+          "friction": "하나님께 공동체의 부흥을 구하는 기도이며 수년의 때를 개인 관계의 회복 기한으로 정하지 않는다. 피해와 경계의 필요도 사라지지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAB:3:3",
+      "textSha256": "413d5c825053bb66b983f57b2b032d050ec2a7159b1657fafc4753704159fcf4",
+      "status": "exclude",
+      "reason": "데만과 바란산 및 셀라는 하나님의 강림 찬양과 음악 지식이 있어야 읽히며 개인 이동의 방향이 아니다.",
+      "contextNote": "구원하러 오시는 하나님의 영광을 노래한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAB:3:4",
+      "textSha256": "0e98ce0816e353a745d2b3c35993f40b814db1110a0b026dcc2ef924dc869e22",
+      "status": "hold",
+      "reason": "빛 속에 권능이 감춰진 모습은 보이는 것만으로 힘을 다 재지 않는 이미지이나 생활 대안에는 직접성이 약하다.",
+      "contextNote": "강림의 광채와 숨은 권능을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "겉으로 바로 드러난 능력만이 전부인지 돌아볼 여지는 있다.",
+          "friction": "본문은 하나님의 빛과 권능이지 사용자의 숨은 실력을 보장하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAB:3:5",
+      "textSha256": "50417e15d265a2e87813d16131943d9f48ca230bcae4287283144da2bcacf03e",
+      "status": "exclude",
+      "reason": "온역과 불덩이는 강림의 위협적 장면으로 현재 질병을 같은 신적 표징으로 정할 수 없다.",
+      "contextNote": "하나님의 위엄을 재앙의 수행으로 묘사한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAB:3:6",
+      "textSha256": "6baa7fffc843971a7d2581bbc9dd5fab16fba9990e3f29cdf02518a6f68b2226",
+      "status": "exclude",
+      "reason": "열국과 산이 무너져 떠는 장면은 권능의 찬양이지 사용자의 계획 기반이 무너질 예고가 아니다.",
+      "contextNote": "예로부터 행하시는 하나님의 힘을 노래한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAB:3:7",
+      "textSha256": "9eb8b1f2b6a56baf90e008102c96eff79c78fba480942259bc73bfd148131beb",
+      "status": "exclude",
+      "reason": "구산과 미디안의 장막이 흔들리는 모습은 역사·지리 맥락을 풀어야 선택에 뜻이 생긴다.",
+      "contextNote": "강림 앞 이방의 두려움을 묘사한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAB:3:8",
+      "textSha256": "f59f357ea2de91c44af846f1b4f8f81f664746f2eafdb639d7864a03da359a8e",
+      "status": "exclude",
+      "reason": "강과 바다에 성내시냐는 병거의 수사적 질문은 출애굽 구원 맥락이 없으면 실제 분노 대상이 모호하다.",
+      "contextNote": "자연을 다루시는 목적이 구원임을 묻는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAB:3:9",
+      "textSha256": "f607423fca84f96164b4a16da601e4b55c542240ec126e435b7e0e3d8cb0dee3",
+      "status": "exclude",
+      "reason": "활과 살 및 갈라진 땅은 신적 전사의 묘사로 행동 준비의 일상 원리로 쓰기 어렵다.",
+      "contextNote": "하나님이 구원 전쟁을 행하시는 모습이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAB:3:10",
+      "textSha256": "cfadbf15f1e3a6af4db4f09d374ff25523246f01bb50df243889114bdd1166e4",
+      "status": "exclude",
+      "reason": "산과 창수와 바다가 흔들고 손을 드는 자연의 반응은 실제 생활 선택에 단서를 주지 않는다.",
+      "contextNote": "자연이 하나님께 반응한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAB:3:11",
+      "textSha256": "dc27bc611bb58b9235d017350c9d94c92ef351b7e5964186301f10b9dec33003",
+      "status": "exclude",
+      "reason": "해와 달이 창의 광채에 멈추는 사건은 기한을 멈추거나 더 시간이 생긴다는 현실 약속이 아니다.",
+      "contextNote": "하나님 전사의 우주적 권능을 묘사한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAB:3:12",
+      "textSha256": "dc796a3a93b0660347959fc67c2fe3e1fc498e357c5c814b5b07df659b039bcf",
+      "status": "exclude",
+      "reason": "분노로 열국을 밟는 장면은 심판자의 행위이며 사람을 이기거나 공격할 지시가 아니다.",
+      "contextNote": "국가를 심판하는 하나님의 행위를 노래한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAB:3:13",
+      "textSha256": "5ab3737f853dcb22405c737739545da22241cc6d9c7bf5fe3de4cbfcbfd59926",
+      "status": "exclude",
+      "reason": "악인의 집머리와 기초를 치는 구원은 폭력적 국가 전투의 비유로 개인의 문제 상대를 제거할 근거가 아니다.",
+      "contextNote": "백성과 기름 받은 자를 위한 구원 전쟁이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAB:3:14",
+      "textSha256": "c51f91d218e6fc6499496eba0413fdc43a77ceba0fd91814a0d151e9f01187d7",
+      "status": "exclude",
+      "reason": "가난한 이를 해친 전사의 머리를 자기 창으로 찌른 보복은 일반 말의 대응에 같은 폭력을 정당화할 수 없다.",
+      "contextNote": "침략자의 공격을 뒤집는 하나님의 심판이다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAB:3:15",
+      "textSha256": "e8680c818ee4cba44cb17df3ca47802dcb52a7e7aa627ac6bde5310d69d8fb58",
+      "status": "exclude",
+      "reason": "바다 파도를 말로 밟는 장면은 구원 찬양의 이미지이며 새로운 시도의 안전 보장이 아니다.",
+      "contextNote": "자연을 넘어서는 하나님의 힘을 노래한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAB:3:16",
+      "textSha256": "687a99f740bb1f2a84e73c86d5a24e7a81dc3a0f4b06d00574108e60f2524129",
+      "status": "hold",
+      "reason": "두려워 떠는 몸을 그대로 고백하는 태도는 감정을 인정하게 하나 실제 전쟁의 기다림을 일상의 불안과 동일시하지 않는다.",
+      "contextNote": "예언자가 다가올 침략 앞에서 자기 두려움을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H056",
+          "clue": "기다리는 동안 몸과 마음이 떠는 것을 숨기지 않을 여지는 있다.",
+          "friction": "진료 결과가 아니라 침략을 앞둔 반응이고 일상을 조금 하라는 실마리까지는 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAB:3:17",
+      "textSha256": "ab5c0378c04542de2cf0aab2febf228c76b2f1ea9c5ec8bd1c65ca9809fb72cd",
+      "status": "hold",
+      "reason": "열매와 식량과 가축이 없다는 전체 조건은 부족을 인정하지만 없을찌라도로 끝나 혼자서는 대응의 실마리가 완결되지 않는다.",
+      "contextNote": "다음 기쁨 고백을 위한 전적인 상실의 조건이다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G02",
+          "clue": "실제로 부족한 자원을 있는 척하지 않는 태도를 생각할 수 있다.",
+          "friction": "뒤의 기쁨 구절을 임의로 붙이거나 실제 생활비 부족을 믿음만으로 해결된 것으로 바꿀 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAB:3:18",
+      "textSha256": "360276bff0fec90b6b49f9ad45b951345ee53bdbbd81f573adc32e18a38c5385",
+      "status": "hold",
+      "reason": "외부 결핍과 별개인 기쁨은 내 기준을 돌아보게 하나 이 절만으로는 어떤 부담 속 기쁨인지 알 수 없어 일반 위로에 가깝다.",
+      "contextNote": "앞의 모든 수확 부재에도 하나님으로 기뻐하는 고백이다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H060",
+          "clue": "놓친 결과 하나만이 현재 기쁨의 전부인지 생각할 수 있다.",
+          "friction": "구원의 하나님을 기뻐하는 신앙 고백이며 놓친 일을 다시 잡을지 현재 할 일을 할지의 직접 단서는 적다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAB:3:19",
+      "textSha256": "ea51bffc09aef77351ba9e5f3e48610143e4ad29681a9f091ce6787b982025b0",
+      "status": "candidate",
+      "reason": "힘을 받고 사슴처럼 높은 곳을 걷는 그림은 첫 역할을 내 현재 자신감만으로 판단하던 마음에 다른 출발의 여지를 준다.",
+      "contextNote": "하박국이 불안 속에도 하나님의 힘으로 살아갈 것을 노래하며 연주 지시를 덧붙인다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "혼자 이미 강해야만 걸을 수 있다는 부담 대신 힘을 얻으며 높은 곳을 다니는 모습을 자기 도전에 비춰 볼 수 있다.",
+          "friction": "하나님을 힘으로 삼는 고백이고 끝의 영장과 수금은 연주 주석이다. 지원 성공과 구체 실력을 보장하거나 두려움을 죄로 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    }
+  ]
+}

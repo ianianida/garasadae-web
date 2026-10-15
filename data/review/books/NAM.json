@@ -1,0 +1,502 @@
+{
+  "bookCode": "NAM",
+  "corpusSha256": "f8d5c8b377e243b05fb884b4a6965d2c06a95de74b64a716ee4b95989d61e971",
+  "criteriaVersion": "garasadae-corpus-2026-10-08-v1",
+  "reviewer": "Codex review_ezk_rev",
+  "method": "direct-codex-reading",
+  "entries": [
+    {
+      "id": "KRV:NAM:1:1",
+      "textSha256": "e33ea2446690fcd7f01898db221c7407520099f0e2874785ebcbe108a5eb76f9",
+      "status": "exclude",
+      "reason": "니느웨와 나훔을 소개하는 표제로 독립된 선택 실마리는 없다.",
+      "contextNote": "니느웨 심판 묵시의 제목이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NAM:1:2",
+      "textSha256": "ec8cfe263a1d6d173da1a6b2511d4c0ca45b6ddb24c4e30e32b44e65b4f90f39",
+      "status": "exclude",
+      "reason": "대적에게 보복과 진노를 품는 하나님의 심판을 개인의 서운함에 같은 복수 명령으로 옮길 수 없다.",
+      "contextNote": "니느웨 심판자의 성품을 소개한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NAM:1:3",
+      "textSha256": "6a99109c74c4fbad87fa14ca4300715a66518acd53e2904266ca8b42c3fe2705",
+      "status": "hold",
+      "reason": "더딘 노와 큰 권능은 감정을 돌아보게 하지만 죄를 사하지 않는 심판과 광풍까지 포함되어 말투 조절의 조언만은 아니다.",
+      "contextNote": "오래 참으셔도 심판을 피하지 못함을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "감정이 있다고 즉시 화를 실행하는 것만이 힘은 아닌지 살필 수 있다.",
+          "friction": "하나님의 권능과 죄에 대한 심판이지 사용자 분노가 신의 정당한 심판이라는 뜻은 아니다. 긴 자연 비유의 연결도 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NAM:1:4",
+      "textSha256": "c71ef37e65ae0fc879dcbb76f03923147b339a828c6ff157d0b5fd7a6a588191",
+      "status": "exclude",
+      "reason": "강과 바산·갈멜·레바논의 마름은 지리와 심판 권능의 묘사로 소비나 건강 선택의 기준이 아니다.",
+      "contextNote": "자연을 마르게 하는 하나님의 힘이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NAM:1:5",
+      "textSha256": "8de4aabb9815ec4b12457b5308d2062ebd5345fd684ce4ca4cf4e657a21026ca",
+      "status": "exclude",
+      "reason": "산이 녹고 세계가 솟는 장면은 재앙의 크기를 말하며 실제 대안의 부담을 비추지 않는다.",
+      "contextNote": "하나님의 임재 앞 자연의 반응이다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NAM:1:6",
+      "textSha256": "79f8afcc84a7f6feadf764662796ed0e6d32d5dab86482004a62b45f4b658129",
+      "status": "exclude",
+      "reason": "분노 앞에 바위도 깨진다는 질문은 개인의 역할 도전에 실패 공포를 더할 수 있다.",
+      "contextNote": "심판의 진노를 감당할 자가 없음을 말한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NAM:1:7",
+      "textSha256": "3c3bd1a040b9126abac30deddb84eb99aa57ee7c468d23aacd3ddc8b4a8c9cf0",
+      "status": "hold",
+      "reason": "환난 중 산성이 되고 의뢰하는 이를 안다는 말은 기대어 쉬는 이미지를 주나 구체 선택보다 위로가 중심이다.",
+      "contextNote": "심판 속에서도 하나님을 의뢰하는 이의 보호를 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "지친 자신이 의지할 자리가 있다는 그림을 읽을 수 있다.",
+          "friction": "하나님을 산성으로 고백한 말이며 실제 도움 요청할 사람과 수락은 모른다. 부탁의 부담 자체를 다루는 정도는 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NAM:1:8",
+      "textSha256": "07aa1a3f0798437920de3e0bdb0340ab395bf44ed0bf858f584960f6f2dcad96",
+      "status": "exclude",
+      "reason": "대적을 범람한 물과 어둠으로 진멸하는 선언은 실제 관계의 상대를 대적으로 정할 수 없다.",
+      "contextNote": "니느웨 심판의 철저함을 예고한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NAM:1:9",
+      "textSha256": "da00de5f870f6b05461269c2590375eb1f732a8c44d811f11a716fea96494990",
+      "status": "exclude",
+      "reason": "재난이 다시 없다는 말은 적의 완전한 멸망 때문으로 평범한 고민이 두 번 생기지 않을 보장이 아니다.",
+      "contextNote": "하나님에 대항한 모략의 끝을 선언한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NAM:1:10",
+      "textSha256": "0aa5a467497ec7e94ed65e1140feb5b3b329c96a8144f62f45bff78885a9b793",
+      "status": "exclude",
+      "reason": "취한 이들이 마른 풀처럼 타는 비유는 니느웨 파괴이며 일반 놀이와 휴식의 죄를 말하지 않는다.",
+      "contextNote": "니느웨의 혼란과 소멸을 비유한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NAM:1:11",
+      "textSha256": "62f3e7827b8c516feffe8d79831d97ff91619072a92cf8fcd50ff623d53e24e2",
+      "status": "exclude",
+      "reason": "악을 꾀하고 사특함을 권하는 인물은 역사적 대적의 소개로 주변 조언자를 악인으로 단정할 수 없다.",
+      "contextNote": "니느웨에서 나오는 적대적 모략을 말한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NAM:1:12",
+      "textSha256": "d8ae20342593875e6aeb4d7f3ce07af5752f72ce7e5f19aa68dfe21978140699",
+      "status": "hold",
+      "reason": "많고 강한 세력도 사라지고 괴로움이 끝나는 반전은 압박의 크기를 다시 보게 하나 복수의 주체 전환과 옛말이 어렵다.",
+      "contextNote": "앗수르 심판과 유다의 회복을 대조한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H044",
+          "clue": "지금의 압박이 크다는 것만으로 영구히 짐을 져야 하는지 생각할 수 있다.",
+          "friction": "강장과 중다 및 너와 그들의 주체를 풀어야 한다. 실제 일이 사라진다거나 타인을 거절할 권한을 대신 확정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NAM:1:13",
+      "textSha256": "ed60379177218b950c7df3abf305e9d37399504299149d07deb7e99e1e6ac15c",
+      "status": "candidate",
+      "reason": "지운 멍에를 깨고 결박을 끊는 이미지는 짐을 내려놓을 여지를 보지 못한 과도한 책임 부담을 비춘다.",
+      "contextNote": "앗수르가 유다에 지운 지배를 하나님이 끝내시는 약속이다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H044",
+          "clue": "계속 짊어지는 모습만이 아니라 묶인 짐이 풀리는 그림에서 이번 부탁 앞에 내 한계를 말하는 길도 떠올릴 수 있다.",
+          "friction": "원뜻은 국가 지배에서의 해방이다. 모든 맡은 일을 억압으로 정하지 않고 책임이 저절로 사라지거나 거절 결과가 좋다는 보장도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NAM:1:14",
+      "textSha256": "f9787fc7b897abf0af0313496371e24f33f051b337087d77cc7950475e2fe8a7",
+      "status": "exclude",
+      "reason": "이름과 우상과 무덤에 대한 심판은 특정 왕국의 소멸로 소유 정리나 명예 관리에 적용할 기준이 없다.",
+      "contextNote": "니느웨 통치와 우상을 끝낼 것을 선언한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NAM:1:15",
+      "textSha256": "5fe8c0c1b2667e5584d015d84d96da7715cf3021351a614c89a551e88362ce89",
+      "status": "hold",
+      "reason": "평화 뒤 서원을 갚는 흐름은 새 여건에서도 약속을 기억하게 하지만 악인 전멸과 절기 회복까지 생활 거래와 바로 같지 않다.",
+      "contextNote": "해방된 유다에게 예배와 서원을 회복하게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H054",
+          "clue": "사정이 나아진 뒤에도 이전 약속을 갚는 태도를 생각할 수 있다.",
+          "friction": "유다가 전쟁에서 벗어난 뒤의 절기와 서원이다. 새 기회를 택하는 일과 악인의 통행을 동일시하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NAM:2:1",
+      "textSha256": "d9c8051f3b8e6fc4320e324946f48a3d8ddec5fae163000f2f7daaa65dae1759",
+      "status": "exclude",
+      "reason": "침략자 앞에서 요새를 지키라는 말은 뒤의 멸망을 향한 전쟁 경고로 개인 도전 준비의 직접 권유가 아니다.",
+      "contextNote": "니느웨 방어가 무너질 전투를 시작한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NAM:2:2",
+      "textSha256": "e9d448839bed2b63fccaa44e7e0c307e4e0052e30f36c36b9c33ac50b4a9d0c6",
+      "status": "hold",
+      "reason": "빼앗긴 포도나무 뒤 회복되는 영광은 상실 이후를 보여도 지금 할 행동보다 회복 약속의 비중이 크다.",
+      "contextNote": "니느웨의 약탈과 이스라엘 회복을 연결한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H060",
+          "clue": "잃은 흔적만으로 앞으로의 모든 가능성을 닫지 않는 그림을 볼 수 있다.",
+          "friction": "국가 회복의 예언이며 놓친 동일 기회를 다시 얻거나 현재 선택이 보상된다는 확정은 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NAM:2:3",
+      "textSha256": "6f60dcf55994282b09a7f10ac03bae360f62c0f3e6283e8d116d3fe75c812178",
+      "status": "exclude",
+      "reason": "붉은 방패와 옷 및 병거와 창의 번쩍임은 군대의 기세 묘사로 옷 구매나 역할 선택의 단서가 아니다.",
+      "contextNote": "니느웨를 치는 병력의 모습을 그린다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NAM:2:4",
+      "textSha256": "df39692f5cdc1f64ccdc8419c1454e14f0b26d7fefd9258f8b9705dc8ac8950d",
+      "status": "exclude",
+      "reason": "거리를 번개처럼 달리는 병거는 침입의 빠름이지 조급한 거래를 허용하거나 경계하는 독립 기준이 아니다.",
+      "contextNote": "침략 군대의 이동을 그린다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NAM:2:5",
+      "textSha256": "b145e5035b4c4bc9e32b1e2b8479b7c500aabfbd922a851e7e6a5a4dd4e27fc7",
+      "status": "hold",
+      "reason": "존귀한 자들을 불러 방어를 준비하는 장면은 협력에 여지가 있으나 급박한 전투의 혼란이라 평범한 조언 요청으로는 멀다.",
+      "contextNote": "니느웨가 허둥지둥 방어자를 소집한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "급한 일을 혼자 모두 맡지 않고 다른 이의 역할을 생각할 수 있다.",
+          "friction": "특정 성의 군사 방어 장면으로 준비가 제대로 되었는지와 조언의 효과는 알려 주지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NAM:2:6",
+      "textSha256": "55d680aa7c3da9760d4b4d645c9f4528cab07bcaed522492350dd962bccbc066",
+      "status": "exclude",
+      "reason": "수문과 왕궁 소멸만 기록한 접속 장면은 선택의 이유나 기준이 없다.",
+      "contextNote": "니느웨 방어가 무너진다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NAM:2:7",
+      "textSha256": "f02b34a0ea9217c86916642bf913b8010a494a118207b419241011710e59b243",
+      "status": "exclude",
+      "reason": "왕후가 벌거벗겨 끌리고 시녀가 우는 포로 장면은 평범한 관계의 민망함과 정도가 다르다.",
+      "contextNote": "왕실의 수치와 패배를 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NAM:2:8",
+      "textSha256": "2109ecd3b857896acb6c71ce9e62380254f8b675a6a98c002e460660129f0eae",
+      "status": "exclude",
+      "reason": "모두 도망하여 돌아보지 않는 못의 비유는 붕괴의 묘사로 불확실한 친구 반응을 확정해서는 안 된다.",
+      "contextNote": "니느웨의 인구와 힘이 빠져나간다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NAM:2:9",
+      "textSha256": "8cd222f1c7f0dfd3a3a48e6cea3dae492f8d0cb9f809ef0cb31c134aaaab5b58",
+      "status": "exclude",
+      "reason": "은과 금을 약탈하라는 전쟁의 말은 값진 물건을 얻거나 파는 일반 결정의 모델이 아니다.",
+      "contextNote": "니느웨의 부가 전리품이 된다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NAM:2:10",
+      "textSha256": "35cd2d85fa6cf7b88610b77f5f663d164234906f03d2f4f8cc4dc792659d5bec",
+      "status": "exclude",
+      "reason": "황폐와 낙담으로 몸이 떨리는 주민은 패전의 공포를 보여 주며 실제 건강과 선택 조건을 주지 않는다.",
+      "contextNote": "니느웨 붕괴 뒤 백성의 상태다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NAM:2:11",
+      "textSha256": "1ca2120637e9226e377ad6cd23526118062dee798aa0aa3bfbc2200596ef2327",
+      "status": "exclude",
+      "reason": "사자 가족이 두려움 없이 살던 굴을 묻는 비유는 앗수르 왕권을 알아야 뜻이 서며 단순 휴식의 모습이 아니다.",
+      "contextNote": "니느웨의 사라진 힘을 사자 굴에 비유한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NAM:2:12",
+      "textSha256": "f1983b399f6f44c4e02235cb49bd87ab814fd36d7dc8cb784bf4bfb940925c36",
+      "status": "exclude",
+      "reason": "새끼와 암사자 몫을 찢어 굴에 채우는 포식은 약탈한 제국의 축적이지 가족을 위한 정당한 소비의 원칙이 아니다.",
+      "contextNote": "사자 비유로 앗수르의 약탈을 설명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NAM:2:13",
+      "textSha256": "d2b743b0d4ae869566db4c75fd7c411f416795b28b4cea5fc5f81efe850e566d",
+      "status": "exclude",
+      "reason": "병거와 사자와 파견자를 끊는 선언은 군사 제국의 멸망으로 관계의 정리 행동을 대신 정할 수 없다.",
+      "contextNote": "니느웨 약탈 능력을 하나님이 끝내신다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NAM:3:1",
+      "textSha256": "de33e5ad83c4772617a22a54ea36f2d54a8b05570c0b31312350740581a76ce7",
+      "status": "exclude",
+      "reason": "피 성의 궤휼과 늑탈은 도시의 반복 폭력 고발로 옛말과 국가 상황 풀이가 필요하다.",
+      "contextNote": "니느웨의 죄를 요약한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NAM:3:2",
+      "textSha256": "ba863a7022eea826c6f51ef6b41c5aa3d1e08c3a9f95f27f90843e951f50f118",
+      "status": "exclude",
+      "reason": "채찍과 병거의 소리만 나열되어 그 사건에 대한 개인 판단의 단서가 없다.",
+      "contextNote": "전투 현장의 소음을 그린다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NAM:3:3",
+      "textSha256": "d92c1b897c02319b8bed8ff79c9c4f3f60e8dadbb4215c61c4538afa71324706",
+      "status": "exclude",
+      "reason": "무수한 시체에 걸려 넘어지는 전쟁은 가벼운 선택 경험에 재앙이 압도한다.",
+      "contextNote": "니느웨의 대량 살륙 장면이다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NAM:3:4",
+      "textSha256": "ee9ceb8e679701b5f7777dc7da58ee0f37998e4dabf790dc706b94e0205c6581",
+      "status": "exclude",
+      "reason": "여러 나라를 미혹한 기생 비유는 제국의 지배 고발로 고백할 상대나 소비의 매력을 부정할 근거가 아니다.",
+      "contextNote": "니느웨의 정치적 유혹을 음행에 비유한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NAM:3:5",
+      "textSha256": "cb1a7df7da19e9015929607fa7aca7f22c95a0371774412f1e3a07d6da4e4533",
+      "status": "exclude",
+      "reason": "벌거벗은 수치를 공개하는 심판은 상대의 잘못을 폭로할지의 일반 지시로 삼기 어렵다.",
+      "contextNote": "도시를 여인에 비유하여 수치를 선언한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NAM:3:6",
+      "textSha256": "d3d84eb4a33dccf1e13bfc7626d28cd293c459bd39401d2db564f38c328dd28a",
+      "status": "exclude",
+      "reason": "더러운 것을 던져 구경거리로 만드는 명령은 공개 조롱을 정당화하는 개인 행동으로 옮길 수 없다.",
+      "contextNote": "니느웨의 모욕적 심판을 이어 말한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NAM:3:7",
+      "textSha256": "85e68f539f59382227e502944fca33bd68ae4896cc5b68df31203c8183a1ca62",
+      "status": "exclude",
+      "reason": "황무한 도시를 위로할 이가 없다는 조롱은 도움 요청할 사람의 부재나 거절을 예측하지 않는다.",
+      "contextNote": "니느웨를 애도할 나라가 없음을 묻는다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NAM:3:8",
+      "textSha256": "bec22459a1fac56ac4b2d7b72046e6750560c67b4f0a07b6f1950ff6b0259ce0",
+      "status": "hold",
+      "reason": "다른 강한 도시보다 낫다는 확신을 묻는 비교는 자기 예외시를 비추나 노아몬의 역사와 뒤의 멸망이 필요하다.",
+      "contextNote": "니느웨에 앞서 무너진 도시를 상기한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "내 방식만은 틀리지 않을 것이라는 예외의 확신을 살필 수 있다.",
+          "friction": "비교 대상은 군사 도시이며 지적의 사실 여부를 이 절이 알려 주지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NAM:3:9",
+      "textSha256": "f7bdd323675befca8907e6fc818a92e91cc75db70ad258f48f10ea2cee14ac38",
+      "status": "exclude",
+      "reason": "구스와 애굽 및 붓과 루빔의 지원은 앞 도시의 힘을 나열하는 미완료 절이다.",
+      "contextNote": "노아몬을 도운 외교 세력을 열거한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NAM:3:10",
+      "textSha256": "bfa8a903559249e284cf3a05efedee627f733040fdf4595161615378ba4038a6",
+      "status": "exclude",
+      "reason": "아이의 죽음과 제비로 나뉜 포로는 폭력적 패망의 장면으로 일상 추첨이나 첫 도전에 적용하지 않는다.",
+      "contextNote": "노아몬도 동맹에도 불구하고 패했다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NAM:3:11",
+      "textSha256": "67d16c97755bc7382a5195d74ce78aa29f167c17a8b4ff6c8fba633cccf22886",
+      "status": "exclude",
+      "reason": "취하여 숨고 피난을 찾는 니느웨 예고는 실제 생활 선택의 안전을 판단하지 않는다.",
+      "contextNote": "니느웨에도 같은 패배가 올 것을 말한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NAM:3:12",
+      "textSha256": "e633bcaa163053145977af10bc110b3fc572c06d0608d0dbc51c47d94d91c135",
+      "status": "exclude",
+      "reason": "흔들면 떨어지는 무화과는 약한 요새의 비유로 구매나 기회가 쉽게 성취된다는 긍정 신호가 아니다.",
+      "contextNote": "니느웨 성벽의 무력함을 표현한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NAM:3:13",
+      "textSha256": "d1303e8bd8961d05741fea579767994fdb6e9988e6c6c7cb7bc1f35186db4355",
+      "status": "exclude",
+      "reason": "불탄 빗장과 약한 수비대의 성별 비유는 패전의 수사로 개인 능력 비교의 기준이 아니다.",
+      "contextNote": "도시 방어선이 열린다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NAM:3:14",
+      "textSha256": "8a7708bc141b53ab4f33c5623160723b47bcca4d0a9a34d9fd0e63d1352fadf4",
+      "status": "hold",
+      "reason": "물을 준비하고 성을 보강하는 행동은 대비를 떠올리게 하지만 곧 무너질 도시의 명령이어서 준비 충분함을 알려 주지 않는다.",
+      "contextNote": "포위전에 대비하라는 반어적 경고다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H050",
+          "clue": "원하는 결과보다 지금 손댈 준비가 무엇인지 생각할 여지는 있다.",
+          "friction": "준비해도 불과 칼을 못 막는 심판이 뒤따른다. 신청서를 내라거나 기다리라는 생활 실마리는 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NAM:3:15",
+      "textSha256": "fe76619d89971c9c27ba641bca197a9dd48258cc74d5810cbd22a7d73316e9f4",
+      "status": "exclude",
+      "reason": "늣과 메뚜기처럼 불어나도 불과 칼에 먹힌다는 반어는 해충과 포위전 풀이 없이 행동 권유로 읽기 어렵다.",
+      "contextNote": "군사를 늘려도 심판을 피하지 못한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NAM:3:16",
+      "textSha256": "96cdf490cdbc3b7cec58873bf90438708da90d394b5fbcdc659d11824b1212d0",
+      "status": "exclude",
+      "reason": "상고가 별처럼 많아도 황충처럼 떠나는 미완료 비교는 상업과 군대 비유의 뜻을 풀어야 한다.",
+      "contextNote": "니느웨의 번성한 상업이 사라진다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NAM:3:17",
+      "textSha256": "85924e40601760c87b470b7da06bed1a5b60262cd4030d8b3e9b339dcead78cb",
+      "status": "exclude",
+      "reason": "해가 뜨면 메뚜기처럼 떠나는 방백은 지도층 이탈의 비유로 동료의 잠깐 침묵을 배신으로 판단할 수 없다.",
+      "contextNote": "니느웨 지도자가 위기에서 흩어진다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NAM:3:18",
+      "textSha256": "c4465e8f073fc395d393bab5c30edce015bef12b75765c4bf415b01e2149e49a",
+      "status": "candidate",
+      "reason": "지도자들이 쉬는 동안 흩어진 백성을 모을 이가 없다는 대비는 운영자가 사람의 상태를 놓치고 있는지 비춘다.",
+      "contextNote": "패망한 앗수르의 지도력 상실과 백성의 방치를 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C005",
+          "clue": "운영이 돌아가는 것처럼 보여도 어려워 흩어지는 부원을 모을 사람이 누구인지 돌아보며 돌봄의 몫을 읽을 수 있다.",
+          "friction": "앗수르 패망의 지도자를 자는 목자에 비유한 말이다. 정상적인 휴식을 죄로 만들거나 운영자가 지치더라도 무조건 더 일하라는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NAM:3:19",
+      "textSha256": "dff0027f726bff488a85bbb578cf4557fcf1fae7486de84107a816a0ff4ded96",
+      "status": "exclude",
+      "reason": "고칠 수 없는 상처와 모두의 박수는 반복 악행 제국의 끝으로 실제 치료 결과나 다른 이의 속마음을 정할 수 없다.",
+      "contextNote": "니느웨의 멸망을 피해받은 나라들이 환영한다.",
+      "readability": "clear",
+      "connections": []
+    }
+  ]
+}

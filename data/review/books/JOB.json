@@ -1,0 +1,3124 @@
+{
+  "bookCode": "JOB",
+  "corpusSha256": "f8d5c8b377e243b05fb884b4a6965d2c06a95de74b64a716ee4b95989d61e971",
+  "criteriaVersion": "garasadae-corpus-2026-10-08-v1",
+  "reviewer": "Codex review_1ch_lam",
+  "method": "direct-codex-reading",
+  "entries": [
+    {
+      "id": "KRV:JOB:1:1",
+      "textSha256": "e8e469a61186061e80164e79aabc20a4f885593c6943fcb97d1f15453598855d",
+      "status": "hold",
+      "reason": "정직함을 인물 가치의 기준으로 소개한 태도는 과장 고민에 통하나 구체 선택의 부담보다 일반 인물 평가다.",
+      "contextNote": "우스의 욥을 순전한 사람으로 소개한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "정직함 자체가 사람을 소개하는 중요한 기준이 된다.",
+          "friction": "일반 인물 평가이며 어떤 보고를 어떻게 쓸지는 말하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:1:2",
+      "textSha256": "a4495503290a9c7eb31cd66ab49e78cbfa73957eab234cde4a9d3bed23ac17ee",
+      "status": "exclude",
+      "reason": "아들 일곱과 딸 셋이라는 가족 수만 있어 현재 선택의 내용은 없다.",
+      "contextNote": "욥의 가족 규모.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:1:3",
+      "textSha256": "8e50438237211e8291fdbcf70b70fd7bb24e8fdf138ac69d1cb7f21e481b34e4",
+      "status": "exclude",
+      "reason": "가축과 종 수량·동방 최고 지위는 재산 규모일 뿐 지금 소비의 필요·여력을 알려주지 않는다.",
+      "contextNote": "욥의 부와 지위 소개.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:1:4",
+      "textSha256": "a5a4da64f6a072b9402d12c6d7a698e12d680f733a08ad4f907e6cecc98ddc80",
+      "status": "candidate",
+      "reason": "특별한 날 형제자매를 불러 함께 먹고 마신 모습에서 한정된 즐거움을 가족과 누릴 실마리를 읽는다.",
+      "contextNote": "욥의 자녀들이 생일마다 가족 잔치를 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G06",
+          "clue": "특별한 날을 형제자매와 함께 먹고 마시며 누린 모습.",
+          "friction": "자기 생일의 집 잔치이고 가족이 다음 달에도 가능하다는 조건이나 축제의 가치를 대신 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:1:5",
+      "textSha256": "bb62b5eb1d9cf60e365729578a5162d4d0949f2790c108f6b0f2fcc896bec355",
+      "status": "exclude",
+      "reason": "혹시 마음으로 죄지었을까 걱정해 매번 번제를 드린 제의는 소비 죄책감을 덜기보다 근거 없는 죄 추정을 더할 수 있다.",
+      "contextNote": "욥이 자녀들을 위해 늘 속죄 번제를 한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:1:6",
+      "textSha256": "e27eb00aae338def0efc01a96d7cc1d383cc8c4dc8a46a1a573c3da367d97579",
+      "status": "exclude",
+      "reason": "하나님의 아들들과 사단의 회합 도입은 현재 생활의 선택 내용이 없다.",
+      "contextNote": "천상 대화 장면 시작.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:1:7",
+      "textSha256": "2308eaedf0bc0f6f6cc4a3d0067008261b035c7170b91506f90185f1e790e2e1",
+      "status": "exclude",
+      "reason": "사단이 다닌 곳을 묻고 땅을 돌아왔다고 답한 대화는 개인 결정의 실마리가 없다.",
+      "contextNote": "사단의 활동 범위를 묻는 문답.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:1:8",
+      "textSha256": "ddb0ed7d3b695774006aa0f23eca1663d8918f88fceedce770645571b02a36e2",
+      "status": "hold",
+      "reason": "정직함과 악을 떠난 태도가 주목받는 기준은 보이나 세상에 같을 이 없다는 평가를 내 평판 결과로 옮길 수 없다.",
+      "contextNote": "하나님이 욥의 온전함을 사단에게 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "외적 소유보다 정직과 태도가 주목받는 모습.",
+          "friction": "욥에게만 한 특별 평가이고 내 평가 결과나 완벽함을 확인해 주지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:1:9",
+      "textSha256": "bf2d0be15c36480ed95a55be54d771b2a12d237c4665efb578aefe5e79e10829",
+      "status": "exclude",
+      "reason": "욥의 신앙에 대가가 있을 거라는 사단의 의심은 현재 친구나 동료의 동기를 확정할 근거가 아니다.",
+      "contextNote": "사단이 욥의 믿음 동기를 의심한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:1:10",
+      "textSha256": "8bd922da1f925d7777eebdf86a4410a7bdf020cbc508c96871e014e91b46b2a4",
+      "status": "exclude",
+      "reason": "가족·재산을 보호해서 믿는다는 사단의 설명은 실제 생활비 안전이나 구매 결과의 정보가 아니다.",
+      "contextNote": "사단이 욥의 복을 신앙 이유로 주장한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:1:11",
+      "textSha256": "95edafc25cba4058c77cad0184a2987d84af2268088556ec50cf9c368ca88aaf",
+      "status": "exclude",
+      "reason": "재산을 치면 욕할 것이라는 시험 제안은 현재 계획을 포기하거나 남을 시험할 선택에 적용하기 어렵다.",
+      "contextNote": "사단이 욥의 소유 상실을 요구한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:1:12",
+      "textSha256": "503591d031e55993e4a1c6fff084ca81792476626419a1d77a3628d5d420d699",
+      "status": "exclude",
+      "reason": "몸을 제외한 재산을 사단에게 맡기는 천상 허가는 지금 어떤 위험이 허용됐는지 알려주는 말이 아니다.",
+      "contextNote": "욥의 소유에 대한 시험 허가.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:1:13",
+      "textSha256": "0eee971111be710d3a676d6425e4949592b61546e47bbefbc3e47d6ef64d8181",
+      "status": "exclude",
+      "reason": "자녀들이 형 집에서 먹고 마신 때라는 미완결 서두로 즐길지의 이유는 없다.",
+      "contextNote": "재앙 보고가 오는 날의 가족 상황.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:1:14",
+      "textSha256": "2945e867fe5c30d870c12eb48ad645335c2a911873535f5bb5140a6326857afd",
+      "status": "exclude",
+      "reason": "소는 밭 갈고 나귀는 풀 먹는 보고의 앞부분만 있어 생활 선택 내용은 없다.",
+      "contextNote": "첫 재앙 보고의 평소 일상 묘사.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:1:15",
+      "textSha256": "198dd00c26b0268cab8e28a2cd8faad7e8072f0a91fadefae3c9fd75e77f4db7",
+      "status": "exclude",
+      "reason": "약탈과 종 살해 뒤 홀로 생존한 보고는 돈을 확보할 자발적 선택과 조건이 다르다.",
+      "contextNote": "스바 사람의 가축 약탈과 종 살해.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:1:16",
+      "textSha256": "edbd170061d5d4349b989bca1a02c115a86914862fbbff11dce6c64bd7d7bd9d",
+      "status": "exclude",
+      "reason": "하늘 불로 양과 종이 죽었다는 보고를 현재 손실의 신적 원인으로 읽을 수 없다.",
+      "contextNote": "연이은 양떼와 종의 재앙 보고.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:1:17",
+      "textSha256": "f1a83845ea75797faf21b0a1dd824ceb22b60a18a8ce09e6dc232db1539881df",
+      "status": "exclude",
+      "reason": "세 떼의 공격·약대 약탈·종 살해와 단독 생존은 현재 사람 의도나 매물 성공의 근거가 아니다.",
+      "contextNote": "갈대아 사람들의 재산 약탈 보고.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:1:18",
+      "textSha256": "44586683162becbd2c0fb30e51ef62ef259ba390dd881a05e72140eb9ea01f3c",
+      "status": "exclude",
+      "reason": "자녀들이 형 집에서 식사했다는 미완결이 앞 보고와 이어질 뿐 지금 가족 방문의 기준은 없다.",
+      "contextNote": "자녀 재앙 보고의 도입.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:1:19",
+      "textSha256": "46a8cb4c8eda663dfcf6f17542a704e537bc5d3f9a6ff918cedd1d1f0bea5de6",
+      "status": "exclude",
+      "reason": "집을 무너뜨려 자녀를 죽인 폭풍은 미래 여행·가족 일정의 위험을 예고하는 정보가 아니다.",
+      "contextNote": "욥의 자녀 전원 사망 보고.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:1:20",
+      "textSha256": "2ca3bf4fc985882c04fe1193216dddd28ae5f39c3e49cc2c4d95100e7e900ed6",
+      "status": "exclude",
+      "reason": "겉옷을 찢고 머리를 민 애도의 경배 동작은 슬픔의 의미가 있어도 생활 선택으로 읽기엔 제의 해설이 크다.",
+      "contextNote": "재앙 뒤 욥의 애도와 경배 시작.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:1:21",
+      "textSha256": "581f337c14b9a7031762a67e5b7166ac49712151c8e1579e312254a13ed91a9a",
+      "status": "candidate",
+      "reason": "빈손으로 왔다 돌아간다는 고백에서 가진 것의 영속성만 붙잡기보다 물건과 돈을 나눌 마음을 생각할 실마리를 읽는다.",
+      "contextNote": "모든 상실 뒤 욥이 주신 분의 이름을 찬송한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H024",
+          "clue": "잠시 맡아 쓰는 소유에 모든 마음을 매지 않고 나눔을 생각한다.",
+          "friction": "욥은 자녀와 모든 소유를 잃은 큰 애도 중이다. 적신의 옛말과 신적 주고 거둠을 지금 거래·선물의 직접 지시로 설명하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:1:22",
+      "textSha256": "ffe0f5be2225cc657a3d9e3998eaff8916c03403d968a9ce7fa13264fc2549a5",
+      "status": "hold",
+      "reason": "큰 일에도 어리석게 원망하지 않은 태도는 변화를 받아들임에 통하지만 슬퍼하거나 호소하는 것까지 죄라 읽어서는 안 된다.",
+      "contextNote": "재앙 뒤 욥의 반응을 서술자가 평가한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H062",
+          "clue": "통제 못한 변화 속에서 원망만 붙들지 않는 태도.",
+          "friction": "욥은 이후에도 슬픔을 말하므로 호소 자체를 죄라 판단하는 말은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:2:1",
+      "textSha256": "fa8a111effd7bec0f4b5955589aecc9c77a01fbfe2bcc0baa4a581b982f77448",
+      "status": "exclude",
+      "reason": "천상 회합과 사단 등장 도입이 반복될 뿐 생활 결정의 내용은 없다.",
+      "contextNote": "두번째 천상 대화 장면 시작.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:2:2",
+      "textSha256": "2308eaedf0bc0f6f6cc4a3d0067008261b035c7170b91506f90185f1e790e2e1",
+      "status": "exclude",
+      "reason": "사단의 지상 왕래 문답은 현재 선택할 행동이나 생각의 실마리가 없다.",
+      "contextNote": "사단이 다닌 곳을 다시 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:2:3",
+      "textSha256": "3941a40ccae4ec896c15a7c38ea789d33a3885bc5a47b8f00fa7af93a72ecc79",
+      "status": "hold",
+      "reason": "까닭 없이 고통받아도 정직을 지킨 모습은 고통을 자기 죄 탓으로 단정하지 않게 하지만 천상 시험과 인물 평가가 길다.",
+      "contextNote": "하나님이 욥의 무고함과 순전을 다시 확인한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G14",
+          "clue": "고통이 있다고 곧 내 잘못의 증거라고 단정하지 않을 생각.",
+          "friction": "천상 대화와 긴 평가라 치료를 계속할지 바꿀지 실마리는 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:2:4",
+      "textSha256": "0f6e1b21edc5e1812ab01b551aac05151e26109aa13a7bf176ffffc060846e4a",
+      "status": "hold",
+      "reason": "재산보다 생명의 무게를 보이는 말은 실제 생활 필요에 통하나 사단이 사람을 시험하려 내세운 주장이다.",
+      "contextNote": "사단이 건강을 잃으면 믿음도 바뀔 거라고 주장한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G02",
+          "clue": "기본 생존은 재산을 많이 갖는 것과 다른 무게가 있다.",
+          "friction": "사단의 시험 논리이고 현재 소비 선택에 승인된 조언은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:2:5",
+      "textSha256": "5c328f5c8dfb7d0fd1c566970821ecdf7d85d2907aebf487cee4f4c5ed433a84",
+      "status": "exclude",
+      "reason": "뼈와 살을 쳐 믿음을 무너뜨리자는 사단의 요청은 현재 몸의 고통에 대한 원인·치료 결정을 알려주지 않는다.",
+      "contextNote": "사단이 욥의 신체 시험을 요구한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:2:6",
+      "textSha256": "33908133ed110c4d58383428a87738bb0fda8111797c11238499b4db9640e40c",
+      "status": "exclude",
+      "reason": "생명만 해하지 말라는 사단에 대한 허가는 현재 치료나 활동을 위험 없이 해도 된다는 보장이 아니다.",
+      "contextNote": "욥의 몸에 대한 제한된 시험 허가.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:2:7",
+      "textSha256": "28e6b38fe179fbc7765694d5de823c9581422cbb1a4d4e0e0051de769f82486d",
+      "status": "exclude",
+      "reason": "전신 악창을 사단이 나게 한 특정 사건을 현재 질환 원인이나 치료 전망으로 대입할 수 없다.",
+      "contextNote": "욥의 몸에 악창이 난다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:2:8",
+      "textSha256": "d648058b4c1722cdaa943c70d090b4e33ae62ee03d62ff5ac5e9133cd6a568bd",
+      "status": "exclude",
+      "reason": "기와로 몸을 긁으며 재에 앉은 고통의 상태는 치료 지속·변경의 실마리를 직접 주지 않는다.",
+      "contextNote": "몸 고통 속 욥의 모습.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:2:9",
+      "textSha256": "9647ae655d104f19c1ff40f923f163a5f056949cd010548d2e280982c61e6e6d",
+      "status": "exclude",
+      "reason": "하나님을 욕하고 죽으라는 말은 아내의 절망 발언으로 현재 고통의 선택에 권할 실마리가 아니다.",
+      "contextNote": "욥의 아내가 순전 고수를 비판한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:2:10",
+      "textSha256": "7d012a736a3093169d3dca1ec8c9e3731199adea79ea317e9fe7c0ff00c9b844",
+      "status": "hold",
+      "reason": "좋은 것뿐 아니라 나쁜 때도 신뢰하려는 마음은 보이나 아내를 어리석다고 하는 앞문장과 재앙 수용의 무게가 크다.",
+      "contextNote": "욥이 아내의 저주 권고를 거절한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H062",
+          "clue": "좋은 것만 있어야 한다는 기대에서 한걸음 물러서는 마음.",
+          "friction": "어리석은 여자라는 앞의 비판과 상실 수용이 함께 있어 가벼운 위로로 읽기 어렵다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:2:11",
+      "textSha256": "162d457625aa1ee464e91f72ff9a8a9eca18058c3358ca08bdb6cbc6175a80cc",
+      "status": "candidate",
+      "reason": "해결책을 가진 것이 아니라 위로하기 위해 친구들이 서로 약속해 찾아온 모습에서 작은 방문도 선택할 실마리를 읽는다.",
+      "contextNote": "세 친구가 욥의 재앙을 듣고 함께 위로하러 온다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "무엇을 해결해 주겠다고 하지 않아도 위로하려고 찾아가는 일.",
+          "friction": "세 친구의 지명과 이름이 길고 이후 친구 조언이 모두 옳았다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:2:12",
+      "textSha256": "ebf3e949111f4ebd0c045606aef1f7ddee02250b003b3dd8ddb1ef19b5e20684",
+      "status": "exclude",
+      "reason": "못 알아볼 만큼 달라진 친구를 보고 옷 찢고 티끌 뿌리는 애도는 보이나 의식·충격이 작은 도움의 행동을 가린다.",
+      "contextNote": "친구들이 욥을 보고 함께 운다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:2:13",
+      "textSha256": "0fab0258aaf70acbfc8455b2148631a519ab79855effa386828c5622684ae5d9",
+      "status": "candidate",
+      "reason": "고통이 큰 친구 곁에 말없이 함께 앉아 있는 행동이 대단한 해결을 못해도 건넬 수 있는 도움의 실마리가 된다.",
+      "contextNote": "친구들이 칠일칠야 말없이 욥과 함께한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "좋은 말을 반드시 만들어내지 않아도 곁에서 함께 있어 주는 도움.",
+          "friction": "칠일칠야는 실제 애도 장면이며 지금 그만큼 시간을 내야 하거나 친구가 반드시 위로받는다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:3:1",
+      "textSha256": "2d695d27faa8e4e584f285eeb42ebfbd2a5d1badc89461d9219fd7cb9c6bd054",
+      "status": "exclude",
+      "reason": "생일을 저주하는 절망의 시작은 현재 치료·일정 선택의 방향보다 생존 고통을 표현한다.",
+      "contextNote": "욥의 탄식 발언 시작.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:3:2",
+      "textSha256": "82647255abd1344c836b9300ddeb8f7f55f62d0613c63496e1a79a256b01bcbd",
+      "status": "exclude",
+      "reason": "욥이 말한다는 도입만 있어 독립적인 선택 내용은 없다.",
+      "contextNote": "욥의 생일 저주 인용 서두.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:3:3",
+      "textSha256": "578bb0113ace8b0a3775fe1b42a46730a17e91999481fb1e75c68c3ea0d5ca02",
+      "status": "exclude",
+      "reason": "태어난 날과 잉태의 밤이 사라졌길 바라는 탄식은 일상 미련을 풀 선택으로 가볍게 연결하기 어렵다.",
+      "contextNote": "욥이 자신의 존재 시작을 저주한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:3:4",
+      "textSha256": "7472d3b1b9f74732e04f7f43fcaeeda7d243bce54d52f1d4887ce57f5cc822e2",
+      "status": "exclude",
+      "reason": "태어난 날을 빛도 하나님도 돌아보지 말길 바라는 말은 오늘 행복이나 쉼을 고를 실마리가 아니다.",
+      "contextNote": "출생일의 어둠을 바라는 탄식.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:3:5",
+      "textSha256": "9a32291ed95fc758504d4a2e4421df30252f6d223fde8aec23d4ae3f27e8181f",
+      "status": "exclude",
+      "reason": "유암과 사망 그늘이 날을 차지하길 바라는 긴 비유는 설명이 필요하고 선택의 방향은 없다.",
+      "contextNote": "태어난 날의 소멸을 청하는 탄식 계속.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:3:6",
+      "textSha256": "37ee0476cdb5f18207bb92e534a58af3070214dfdc02a3ea7b4a33213a057eb3",
+      "status": "exclude",
+      "reason": "태어난 밤이 해·달의 수에서 빠지길 바라는 시어는 일정 줄이기가 아니라 출생 부정이다.",
+      "contextNote": "자신이 태어난 밤을 지워 달라는 탄식.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:3:7",
+      "textSha256": "e27b251db5c7a6c28e27ca3568187898ace6355b68da1f664f7e94f2c77162f3",
+      "status": "exclude",
+      "reason": "즐거운 소리가 없었길 바라는 말은 지금 조용히 쉴지의 선택보다 자기 출생의 부정이다.",
+      "contextNote": "출생 밤의 적막을 바란다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:3:8",
+      "textSha256": "22ed4d55247b9b0e6bd98b170bea4bf5a055304e93b14f1150e7d636279a1cdc",
+      "status": "exclude",
+      "reason": "날 저주자와 큰 악어의 시어는 배경 해설을 필요로 하고 오늘의 두 선택을 건드리지 않는다.",
+      "contextNote": "출생의 밤을 저주할 힘을 부른다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:3:9",
+      "textSha256": "c26cc1265d4f270b72894f70031c374e5e51441aeba9ef189b5503c7abf67cb4",
+      "status": "exclude",
+      "reason": "새벽 별과 광명이 안 오길 바라는 말은 미래 기회가 없는 사실이 아니라 욥의 출생 탄식이다.",
+      "contextNote": "출생의 새벽이 오지 않았길 바란다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:3:10",
+      "textSha256": "ef757021ac35b91eacaf0d55cc260ee7fdfd564a7cf225e744ac1cc5dd1b2f59",
+      "status": "exclude",
+      "reason": "태의 문이 닫혀 고통을 보지 않았길 바란다는 이유는 실제 건강 선택의 기준과 다르다.",
+      "contextNote": "태어나지 않기를 바란 이유를 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:3:11",
+      "textSha256": "b15a97c3015192c38ec81cd63ae000755f1c59f12162be347180381ceb817ccf",
+      "status": "exclude",
+      "reason": "태에서 죽지 않은 것을 묻는 탄식은 지금 피로에 쉬는 선택과 같은 의미로 읽을 수 없다.",
+      "contextNote": "욥이 태중·출산 때 죽지 않은 것을 탄식한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:3:12",
+      "textSha256": "d1ae1ad7a6928d9161579a0d8219502a79cf27cd73d22e05ba8e0128d69c6e9a",
+      "status": "exclude",
+      "reason": "자기를 받아 기른 무릎과 젖을 묻는 말은 돌봄을 거절하라는 결론이 아니라 삶의 고통이다.",
+      "contextNote": "욥이 자신이 양육된 일을 탄식한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:3:13",
+      "textSha256": "ce05f91fd59e106966c8df9e4d33c65f3378f1a0d1716e1c8fd3075483dd7aa2",
+      "status": "exclude",
+      "reason": "평안히 자고 쉰다는 표현은 앞의 태중 죽음 뒤를 말하므로 일상 수면을 권하는 절로 쓰면 의미를 바꾼다.",
+      "contextNote": "죽었더라면 쉬었을 거라는 탄식.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:3:14",
+      "textSha256": "91e3313f37644d942ced247d5025e26661c5e09c0217137ad9b4b82a17535743",
+      "status": "exclude",
+      "reason": "왕과 의사와 함께 있었을 것이라는 단편은 죽음의 안식을 가리켜 현재 일·휴식과 바로 통하지 않는다.",
+      "contextNote": "죽음에서 함께 있을 권력자들을 열거한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:3:15",
+      "textSha256": "2c2e67eccf3ef53d6ed32d083d87f8a04160583cd2c651378dfeb7d5933ee32f",
+      "status": "exclude",
+      "reason": "은금 가진 목백과 함께라는 미완결은 사후 동등함의 일부로 구매의 충분함을 알려주지 않는다.",
+      "contextNote": "죽음에서 함께 있을 부자들의 묘사.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:3:16",
+      "textSha256": "f737cd8a3942e0baae4b563acd5fcebf05bbb9fe18bea27fba7ce60a91111d85",
+      "status": "exclude",
+      "reason": "낙태한 아이처럼 세상에 없길 바라는 말은 기회 놓침이나 일 포기의 가벼운 개인 실마리로 읽기 어렵다.",
+      "contextNote": "존재하지 않은 아이와 자신을 비교한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:3:17",
+      "textSha256": "c39adc2e683a58ac7194ab8a5d6b46bec405af1cf767e3e64cda09b2acdd2638",
+      "status": "exclude",
+      "reason": "곤비한 이가 평강 얻는 거기는 죽음의 자리라 과로 중 쉬라는 말로 보여주면 문맥을 잃는다.",
+      "contextNote": "죽음에서 멈추는 혼란과 피로.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:3:18",
+      "textSha256": "abf5508953c734c56e623844dd0faf59cf5e9a1d2fc86bd82997f52c581e91b5",
+      "status": "exclude",
+      "reason": "갇힌 이도 평안한 거기는 죽음이어서 현재 도움 요청이나 직장 쉼의 선택과 같지 않다.",
+      "contextNote": "죽음의 자리에서 그치는 감독의 압제.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:3:19",
+      "textSha256": "73be8983b831f2dd12f9efb81725cdfbb3bc73518585ec4bf855ce23a16d4d5e",
+      "status": "exclude",
+      "reason": "크고 작은 이가 동등하고 종이 놓이는 곳은 죽음이므로 행사 공평 배분으로 연결하면 뒷뜻을 지운다.",
+      "contextNote": "죽음의 동등함과 해방을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:3:20",
+      "textSha256": "b9daeea2dcd463afb55bdb332466cf3f03885101a0b49ea8303d0dc089a6e0f7",
+      "status": "exclude",
+      "reason": "괴로운 사람에게 왜 생명을 줬냐는 항의는 괴로움의 표현일 뿐 현재 선택의 실마리는 아니다.",
+      "contextNote": "욥이 고통 속 생명의 이유를 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:3:21",
+      "textSha256": "ce33376e875b8357cbf83932841418f1257d5eeaf9ad56feb22ed3af2c06f621",
+      "status": "exclude",
+      "reason": "죽음을 숨긴 보배보다 찾는 탄식은 지금 잃은 물건·기회를 다시 구하는 이야기와 다르다.",
+      "contextNote": "죽음을 찾으나 얻지 못하는 절망.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:3:22",
+      "textSha256": "66ce61aa34df99b19ca2985c0de679b012c8edaffd233dda9d342989440931dc",
+      "status": "exclude",
+      "reason": "무덤을 얻어 기뻐한다는 반어적 절망은 오늘의 즐거움을 누릴 이유로 읽을 수 없다.",
+      "contextNote": "앞 절의 죽음 찾음을 계속 말한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:3:23",
+      "textSha256": "f7504f756dc9aad4b780d31f7b674217c6bc97028ea5b390ed1340e49943a92a",
+      "status": "exclude",
+      "reason": "하나님이 막아 길 아득한 사람의 생명을 묻는 탄식은 결정지를 좁힐 선택 단서보다 막막함을 전한다.",
+      "contextNote": "갈 길을 잃은 생명의 고통을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:3:24",
+      "textSha256": "d53e409c3980980733b9296997dc846584ada0dac85a357af43e789fef0c9be4",
+      "status": "exclude",
+      "reason": "먹기 전 탄식과 쏟아지는 앓음은 고통 상태의 공감은 있으나 치료·쉼 중 선택할 단서가 없다.",
+      "contextNote": "욥의 지속되는 탄식과 신음.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:3:25",
+      "textSha256": "cb43c741c46df84e57ed6dd738f9537b3c04cc04f93343807176a5351432a99c",
+      "status": "exclude",
+      "reason": "두려워하던 일이 실제 임했다는 고백은 현재 아직 안 생긴 불편을 사실이나 예언으로 만들 근거가 아니다.",
+      "contextNote": "욥이 닥친 재앙의 공포를 말한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:3:26",
+      "textSha256": "fda6065db30df4994ce33f5157ce4239a94c1cf2c1741dea909a97f81f85c015",
+      "status": "exclude",
+      "reason": "안식 없이 고난만 있다는 상태만으로 지금 더 일할지 쉴지의 개인 선택을 읽기 어렵다.",
+      "contextNote": "욥의 첫 탄식 결론.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:4:1",
+      "textSha256": "0936ac882704505ef45645d7b01a0ec629afc94493dd17ce5e52fd22d3e6790f",
+      "status": "exclude",
+      "reason": "엘리바스가 답한다는 화자 소개만 있어 독립적인 선택 내용이 없다.",
+      "contextNote": "첫 친구의 답변 시작.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:4:2",
+      "textSha256": "90e18a95d8c4a6dc219ceffd1fac3bc29968181acc7b7d30860d7042daf4ab9f",
+      "status": "hold",
+      "reason": "말을 해도 될지 묻는 접근은 조심스런 대화에 통하나 참고 말 안 할 수 없다는 뒷질문은 충고를 강요하는 태도일 수 있다.",
+      "contextNote": "엘리바스가 자기 충고를 시작한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H026",
+          "clue": "말하기 전에 상대가 들을 수 있을지 묻는 접근.",
+          "friction": "누가 참고 말 안 하겠냐는 강권과 친구의 이후 비난 문맥이 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:4:3",
+      "textSha256": "75857cadf6d25728cda1e50af76f2004258c52c2ae24566cab2bb07af2e1c3dc",
+      "status": "candidate",
+      "reason": "늘어진 손을 강하게 하는 말과 가르침을 떠올린 모습에서 작은 격려도 사람에게 도움이 될 실마리를 읽는다.",
+      "contextNote": "엘리바스가 욥이 예전 남들을 도왔음을 상기시킨다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "늘어진 손을 다시 세우는 격려도 도움이라는 생각.",
+          "friction": "엘리바스는 욥의 과거를 현재 비판에 사용한다. 내가 친구를 가르칠 권위나 회복 결과가 있다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:4:4",
+      "textSha256": "ef04af60ef8bb78f13067eefcf336a465e381120fd9ed02661b23028dd3fd672",
+      "status": "candidate",
+      "reason": "넘어지는 사람을 말로 붙들어 주었다는 구체 돌봄이 큰 해결책 없는 친구 도움의 부담을 건드린다.",
+      "contextNote": "친구가 욥의 과거 격려를 뒤의 비판과 대조한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "말로도 넘어지는 사람을 붙들어 줄 수 있는 작은 도움.",
+          "friction": "거늘의 끝은 뒤의 욥 책망에 이어진다. 이후 친구들의 추정처럼 아픈 이를 훈계하라는 서비스 결론은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:4:5",
+      "textSha256": "a663cbac9de537b6a08a99955b1ff08ffaa246494d06d110610f71e13d378961",
+      "status": "exclude",
+      "reason": "남은 도왔으면서 자신 일엔 답답하냐는 책망은 도움이 필요한 이를 이중 기준으로 탓해 공감의 방향을 흐린다.",
+      "contextNote": "엘리바스가 욥의 현재 낙담을 지적한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:4:6",
+      "textSha256": "f7505fdea1e4dcc71969108bb3245871c88c3a928b0e483ebde9ae9aee21ea7c",
+      "status": "hold",
+      "reason": "경외와 자기 태도에서 소망을 찾는 질문은 정직 기준에 통하지만 완전한 행위가 소망 조건이라는 부담이 있다.",
+      "contextNote": "엘리바스가 욥의 경외와 온전함을 근거로 든다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "내가 중요하게 지켜온 태도를 기준으로 삼는다.",
+          "friction": "친구가 무고한 욥에게 고통 원인을 추정하는 흐름이고 완벽주의를 더할 수 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:4:7",
+      "textSha256": "f6c9b4f1920f8ad0d0ec0df58374bd1682216bec81e292e64063a6020664ea2a",
+      "status": "exclude",
+      "reason": "죄 없으면 망하지 않는다는 친구의 전제가 욥의 무고한 고난과 충돌하므로 현재 병·실패를 죄의 증거로 읽게 한다.",
+      "contextNote": "엘리바스의 보응 논리 질문.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:4:8",
+      "textSha256": "2409bb1951b858ec21e5efc55803acf0670e7aa9e39555d2d532767dc269556e",
+      "status": "hold",
+      "reason": "해를 뿌리면 그 영향이 돌아온다는 비유는 분노 메시지에 통하지만 친구가 무고한 욥에게 죄를 추정하는 문맥이다.",
+      "contextNote": "엘리바스가 악을 뿌린 자의 결말을 일반화한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "해를 뿌리는 말은 그 영향이 나와 관계에도 돌아올 수 있다는 비유.",
+          "friction": "악을 뿌렸으니 고통받는다는 욥에 대한 적용은 잘못됐고 친구가 실제로 보복할지는 알 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:4:9",
+      "textSha256": "db26b3190ba6910c6f3837da492e00eca0506030624a28954d8aba32c2e03c5e",
+      "status": "exclude",
+      "reason": "하나님의 콧김으로 사라지는 이들의 심판은 앞 악인 전제를 알아야 하고 작은 선택의 부담을 크게 키운다.",
+      "contextNote": "엘리바스가 악인의 멸망을 말한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:4:10",
+      "textSha256": "6803f4f8e7948c9af162826ef582e5a73696e8458b19b19b47264316851118dc",
+      "status": "exclude",
+      "reason": "사자 소리와 이가 꺾이는 비유는 누구의 어떤 선택을 가리키는지 풀이가 필요하다.",
+      "contextNote": "악인의 세력이 꺾임을 사자로 비유한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:4:11",
+      "textSha256": "5c1bca88e0b109144dc3debb4983854a8a8b66aa543c77a71a1386f5430d6b0e",
+      "status": "exclude",
+      "reason": "늙은 사자 죽음과 새끼 흩어짐은 사람의 보응 비유로 현재 가족 일정·돌봄과 직접 통하지 않는다.",
+      "contextNote": "사자 집안 몰락으로 악인 결말을 묘사한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:4:12",
+      "textSha256": "d6edf7b8577f98c5c9f9e039c5690f15c41d81863e40f6cc2c9ee3384d6836ef",
+      "status": "exclude",
+      "reason": "희미한 음성을 들었다는 회고 도입은 들은 내용이 없어 마음의 직감이 옳단 단서가 아니다.",
+      "contextNote": "엘리바스의 신비 체험 서두.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:4:13",
+      "textSha256": "7fcd04c8a9947c9ebc8d8b985fc4074bb9067808a848954d09aef2ceed83183b",
+      "status": "exclude",
+      "reason": "잠들 때 밤의 이상에 생각이 번거로운 미완결은 수면·휴식을 선택할 실마리를 아직 주지 않는다.",
+      "contextNote": "밤 환상 체험의 시기 묘사.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:4:14",
+      "textSha256": "2a2bc45232770cb83e88bae459f2b27e83ad01ca55d2c8fedc8416373e37b5a2",
+      "status": "exclude",
+      "reason": "골절이 흔들릴 두려움의 신체 묘사는 현재 불안과 공감은 있어도 어떤 선택을 할 기준은 없다.",
+      "contextNote": "환상 앞 엘리바스의 공포.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:4:15",
+      "textSha256": "b7761b58a60278aacb76ccbedcd936f4fd2da482c2fad740250dcee2a1d598c7",
+      "status": "exclude",
+      "reason": "영이 지나 털이 선 체험만으로 현재 선택이 신적 신호라는 근거가 생기지 않는다.",
+      "contextNote": "영을 느낀 엘리바스의 모습.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:4:16",
+      "textSha256": "665c1016744a2eb90410f052ea7ca9d688517afb6dc9a5f85e40e2f3c670fc92",
+      "status": "exclude",
+      "reason": "모양을 분별 못한 영과 음성의 도입으로 내용이 없고 종용의 옛말 풀이도 필요하다.",
+      "contextNote": "환상의 음성을 인용할 준비.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:4:17",
+      "textSha256": "ea95071029179a45b58c99fbf6f79873568867d0a22259911261b230118f74f7",
+      "status": "hold",
+      "reason": "자기 판단의 절대성을 내려놓을 실마리는 있으나 창조자보다 의롭거나 성결하냐는 질문은 친구 의견 수용과 권위가 다르다.",
+      "contextNote": "엘리바스가 환상 속 인간 한계를 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "내 관점이 전부라고 여기지 않는 겸손.",
+          "friction": "창조자와 인간의 비교라 팀원의 말을 하나님 말로 동일시할 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:4:18",
+      "textSha256": "6b15f6ac9a36724c5d00253303ffd37d29502d62dcb95d6e923dc7f4dd8f8f3e",
+      "status": "exclude",
+      "reason": "하나님이 종과 사자를 믿지 않는다는 환상 주장을 현재 도와줄 친구 불신의 근거로 옮길 수 없다.",
+      "contextNote": "엘리바스의 천상 존재 불완전성 주장.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:4:19",
+      "textSha256": "9749e2892fe637df0d47c62c8a13b847524d0f096855fe669a7a27b1b04cf246",
+      "status": "exclude",
+      "reason": "티끌 집과 하루살이에 눌리는 죽음 비유는 겸손보다 비천함을 강조하며 선택의 실마리는 약하다.",
+      "contextNote": "인간의 연약함에 관한 환상 주장.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:4:20",
+      "textSha256": "f8bea55e79406f41b75ccf2a4586c469ac6223a987f677e62ec9cdfdaa3d21a2",
+      "status": "exclude",
+      "reason": "아무도 생각하지 않은 영원 멸망은 현재 계획·회복의 결과를 알려주는 정보가 아니다.",
+      "contextNote": "인간의 짧고 기억 안 되는 죽음을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:4:21",
+      "textSha256": "cdd770e412545de748ab2bacf294aadf495bbf1aab048e71d3e0a973dbdb6a31",
+      "status": "exclude",
+      "reason": "장막 줄 뽑힘과 지혜 없이 죽음의 비유는 텐트·집 선택이 아니라 죽음의 취약함이라 풀이가 필요하다.",
+      "contextNote": "인간의 무지와 죽음으로 환상을 끝맺는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:5:1",
+      "textSha256": "02ea258f91da966b9928c90579552ed3b4fe8e78789a22a6a1b2b53d000ce955",
+      "status": "exclude",
+      "reason": "불러도 누가 응답하겠냐는 회의는 도움을 구할지의 고민에 유용한 근거 없이 요청을 막는 질문이다.",
+      "contextNote": "엘리바스가 욥의 항의를 제지한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:5:2",
+      "textSha256": "080d10aac03ce12976362bd876e39835b69d8425463fb65a65b7dc407c5d8fbb",
+      "status": "candidate",
+      "reason": "분노와 시기가 스스로를 해친다는 직접적인 대조에서 감정대로 메시지를 보낼지 멈출지의 실마리를 읽는다.",
+      "contextNote": "엘리바스가 미련한 자의 분노·시기 결과를 경고한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "분노와 시기에 사로잡히는 일이 나 자신도 해칠 수 있다는 말.",
+          "friction": "친구의 욥 비난에 포함된 일반 경구이며 현재 분노가 죄라 확정하거나 죽음·관계 결과를 예고하는 말은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:5:3",
+      "textSha256": "1715db0d8cf17bc626211d2d61b11eb45b67728ccfe89cf4862f7926363bf8b3",
+      "status": "exclude",
+      "reason": "남의 집을 보고 당장 저주했다는 친구의 예시는 실수 지적이나 관계 경계를 선택할 일반 근거가 아니다.",
+      "contextNote": "엘리바스가 미련한 자의 몰락 사례를 든다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:5:4",
+      "textSha256": "77d738ff0d7e06e0e0c372a596cbde27d4265a7b328ad3863cdf36a63c903669",
+      "status": "exclude",
+      "reason": "자식이 평안을 잃고 성문에서 눌려도 구원 못 받는 미완결은 생활 선택보다 집안 심판의 설명이다.",
+      "contextNote": "저주받은 집 자녀의 고난을 열거한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:5:5",
+      "textSha256": "7c3e7517e7e93d3b1f3ea39ab7aaeb6024272d73af5e44c91b0b2b66fc18d78f",
+      "status": "exclude",
+      "reason": "주린 이와 올무가 재산을 삼킨 비유는 실제 소유·거래 위험의 정보가 아니고 악인 몰락의 주장이다.",
+      "contextNote": "미련한 자 재산 상실을 묘사한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:5:6",
+      "textSha256": "32cfd48e7137f023b8d9b07a97ad8f649b3b6d0968994cfcdde63dd1d0cb8aad",
+      "status": "exclude",
+      "reason": "고난이 흙에서 저절로 나지 않는다는 미완결 주장만으로 현재 어려움의 원인을 단정할 수 없다.",
+      "contextNote": "엘리바스가 고난의 원인을 논한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:5:7",
+      "textSha256": "b19f5f6fc929caca5b13990bfee7400770dbd1457a8cfd41cb65272c253db2c5",
+      "status": "hold",
+      "reason": "고난이 나만의 실패 증거만은 아니라는 생각은 가능하지만 고난 위해 태어났다는 일반화와 불티 비유가 현재 선택을 약하게 한다.",
+      "contextNote": "인생의 고난을 일반화한 친구의 말.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H062",
+          "clue": "어려움이 나만의 예외적 실패 증거라는 생각을 내려놓을 여지.",
+          "friction": "고난 위해 났다는 비관과 불티 비유로 선택 실마리가 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:5:8",
+      "textSha256": "7da13b09cf69979bf20407af92def57e86c2d679d9e4f6332f12eeebd188e9b6",
+      "status": "hold",
+      "reason": "모든 통제를 혼자 붙잡지 않고 구하며 의탁하는 방향은 보이나 구체 두 길 중 무엇을 택할 실마리는 적다.",
+      "contextNote": "엘리바스가 자기라면 하나님께 맡기겠다 권한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H061",
+          "clue": "완벽한 답과 통제를 혼자 붙들지 않고 의탁할 마음.",
+          "friction": "기다리지 말고 하나를 선택하라는 행동 단서는 직접 없고 친구의 조언이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:5:9",
+      "textSha256": "292d94817681761c611360b073c86219726e0adb85dc99bf0e6c8f956ca2a457",
+      "status": "exclude",
+      "reason": "기이한 일을 많이 한다는 찬양은 신뢰의 근거일 수 있으나 현재 갈등에서 읽을 행동의 실마리는 없다.",
+      "contextNote": "하나님의 능력에 관한 친구의 설명.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:5:10",
+      "textSha256": "7e3f6eef6c7ddf2f313c36ce0da3cd71a13e5c94078eced70b7b1b4ed161aa7d",
+      "status": "exclude",
+      "reason": "비와 밭물의 공급 장면만 있어 현재 지출·일정의 선택 조건과 직접 통하지 않는다.",
+      "contextNote": "하나님의 자연 공급을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:5:11",
+      "textSha256": "592339a04c53848cceea61786f34be85210e5295e65dcfcf15780573635615fb",
+      "status": "hold",
+      "reason": "낮고 슬픈 이를 일으키는 돌봄은 도움의 용기를 주나 현재 선택보다 지위·안전 회복의 약속이다.",
+      "contextNote": "엘리바스가 하나님이 낮은 이를 높이신다 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "낮고 슬픈 자리에도 도움과 회복을 기대하는 마음.",
+          "friction": "지금 부탁할지나 누구에게 말할지의 구체 실마리는 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:5:12",
+      "textSha256": "369c93bf63ec4a9084c14165a4557602065538c11dbe4d1e7846e5010264d700",
+      "status": "exclude",
+      "reason": "궤휼한 자의 일을 막는다는 진술은 현재 거래 상대나 팀원이 기만하는지 알려주지 않는다.",
+      "contextNote": "악한 계략을 막으시는 하나님을 말한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:5:13",
+      "textSha256": "082aa5d86d8c822ab6b128eaa50af25f5b7696dd0873db80ac62a00ada503308",
+      "status": "exclude",
+      "reason": "사특한 이가 자기 속임에 빠진다는 고어 비유는 현재 과장 보고의 부작용을 개인에게 풀이 없이 연결하기 어렵다.",
+      "contextNote": "간교함이 스스로 패하는 보응 설명.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:5:14",
+      "textSha256": "4aacafebc0e5a2eec5b8040f5324425dfaf17ef7f50724be54a05ee015f73a11",
+      "status": "exclude",
+      "reason": "낮에도 더듬는 그들은 앞의 간교한 자라 대명사와 비유를 풀어야 하며 현재 막막함의 원인으로 대입할 수 없다.",
+      "contextNote": "악인이 길을 잃는 모습을 비유한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:5:15",
+      "textSha256": "f083e87e9fe03bfeb763e0c9b4fb8ee24b507698bb5272b1e5c1ad5746b161ee",
+      "status": "hold",
+      "reason": "말과 강자의 손에서 피곤한 이가 보호받는 내용은 희망이 되지만 부탁·거리두기 중 어떤 선택을 읽을지는 약하다.",
+      "contextNote": "하나님의 약자 구원을 친구가 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H029",
+          "clue": "강한 말과 권력에 눌리는 사람도 보호받을 수 있다는 생각.",
+          "friction": "현재 친구가 강자처럼 악한지 알려주지 않고 거리두기 선택은 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:5:16",
+      "textSha256": "c2661a6ca121610822020c05c94dab6c7dccae8c3fe43fd63e3a72f0e9442685",
+      "status": "hold",
+      "reason": "가난한 이에게 소망 있다는 말은 기본 필요의 부담에 통하지만 불의의 입이 닫힌다는 비유가 있고 구체 선택 기준은 없다.",
+      "contextNote": "가난한 이의 소망과 불의 제지.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G02",
+          "clue": "기본 필요가 부족한 이에게도 소망이 있다는 생각.",
+          "friction": "불의 입 막음의 비유와 보응 맥락으로 소비 갈등 선택에는 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:5:17",
+      "textSha256": "9e2288f2a2dd63685ca083efda117418b8597f829896af47aa5359d14051c2b0",
+      "status": "candidate",
+      "reason": "불편한 경책도 무조건 업신여기지 말라는 말에서 자존심 때문에 지적을 버릴지 돌아볼 실마리를 읽는다.",
+      "contextNote": "엘리바스가 현재 고난을 징계로 규정하며 욥을 권한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "불편한 경책을 그저 무시하지 않고 내 태도를 살핀다.",
+          "friction": "엘리바스가 욥의 재난을 징계라 단정하는 적용은 잘못됐다. 팀원의 말이 신적 명령이거나 아픔이 처벌이라고 해설하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:5:18",
+      "textSha256": "baa448ea21839e0cf07068261fc6e262ca73a3f1534f2b526db9271acd6147c0",
+      "status": "hold",
+      "reason": "아픔이 끝 전부가 아니라 싸매는 손도 있다는 신뢰는 회복 의지가 되나 지금 치료의 지속·변경 선택은 직접 다루지 않는다.",
+      "contextNote": "징계와 회복을 연결한 엘리바스의 말.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G14",
+          "clue": "아픔 속에도 싸매고 고치는 손을 바라볼 마음.",
+          "friction": "징계로 고통을 설명하는 친구의 말이며 현재 회복 보장·치료 지속/중단 결론은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:5:19",
+      "textSha256": "9163be565c78149a1eee00cafc6c5aa573d7fa0cb80b77c66b12cfcaa9966bde",
+      "status": "hold",
+      "reason": "여러 어려움에도 도움을 바라는 믿음은 읽히지만 재앙이 안 미친다는 확언을 현재 상황에 어떻게 연결할지는 불확실하다.",
+      "contextNote": "친구가 여러 환난으로부터 구원을 약속한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G15",
+          "clue": "어려움이 하나가 아니어도 도움을 신뢰할 마음.",
+          "friction": "친구가 재앙 불침을 확언하고 있어 현재 지원 결과와 동일시하기 어렵다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:5:20",
+      "textSha256": "d7f3226ca69be6b4d0ee440b6999f27b430fe15091733aeb0f020884e1be655f",
+      "status": "hold",
+      "reason": "절박한 때 보호를 신뢰하는 실마리는 있으나 기근·전쟁과 죽음의 구원 약속은 보통 여행 불편과 거리가 크다.",
+      "contextNote": "기근과 전쟁의 안전을 친구가 확언한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H013",
+          "clue": "두려운 때 보호를 신뢰할 여지.",
+          "friction": "기근과 전쟁 생존의 특별 확언이며 여행 불편이나 위험 여부는 알 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:5:21",
+      "textSha256": "eaeace53936cddf7031ee51bbd07dcbc6dccaf7c426226f57caf91166a2b4a9d",
+      "status": "hold",
+      "reason": "남의 거친 말에 모든 마음을 맡기지 않을 생각은 보이나 멸망을 두려워 안 한다는 보장까지 있어 현재 거절 반응은 알 수 없다.",
+      "contextNote": "언어적 모욕과 파멸에서의 보호를 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H026",
+          "clue": "거친 말의 두려움이 나의 모든 선택을 좌우할 필요만 있는 것은 아니란 생각.",
+          "friction": "멸망 앞 두려움 없음의 확언이며 친구가 어떤 반응을 할지 알 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:5:22",
+      "textSha256": "fb751fb33189ab35df3ba3e7d9f335000476e14662813d8d1077ee80eab40592",
+      "status": "exclude",
+      "reason": "기근과 멸망을 비웃는 이유가 다음 절에 있어 절만으로 신뢰의 조건을 읽기 어렵다.",
+      "contextNote": "자연 위협을 두려워 안 할 것이라는 주장 서두.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:5:23",
+      "textSha256": "49b4b9d9af4c64f5cc61e97277c85ed9edb16194562a5517d4b2ef5e805b6d9f",
+      "status": "exclude",
+      "reason": "밭의 돌과 짐승이 화친한다는 비유는 자연과의 안전 언약 해설이 필요해 일상 선택의 단서가 약하다.",
+      "contextNote": "안전을 자연의 평화로 표현한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:5:24",
+      "textSha256": "bac57b1fd32202378d8ce521e8299e2141bd72796bc1ef72f10d0e4a2f85cbf1",
+      "status": "exclude",
+      "reason": "우리를 살펴도 잃은 것이 없을 거라는 미래 확언은 지금 실제 수량 확인 여부를 대신하지 않는다.",
+      "contextNote": "가정과 가축의 장래 안전을 확언한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:5:25",
+      "textSha256": "f0d6bcd05d9d2dbb2fb4c3debba89fa5bf268ab0838deb5fb580eccfde0a6996",
+      "status": "exclude",
+      "reason": "후손이 풀처럼 많아질 거라는 약속은 현재 제시된 구매·관계·업무 선택과 직접 통할 단서가 없다.",
+      "contextNote": "친구의 자손 번성 약속.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:5:26",
+      "textSha256": "9673d645b9acc4e5df6c842ff8e34c96d2424ef50545f018184dcfee96d0996a",
+      "status": "exclude",
+      "reason": "장수 끝 무덤에 이르는 것을 곡식단으로 비유한 죽음 약속은 지친 사람이 오늘 쉬는 선택과 같지 않다.",
+      "contextNote": "수명 충만한 죽음을 친구가 확언한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:5:27",
+      "textSha256": "e49a3235d2a2ce4f3f1bf3a8feda729c142de9b88fe4e81c1b7cd536d5bf5180",
+      "status": "exclude",
+      "reason": "연구했으니 유익하다고 알라는 요구는 구체 근거 없이 친구의 설명을 받아들이라고 해 지적의 사실 여부를 가리지 못한다.",
+      "contextNote": "엘리바스가 자기 조언을 단정하며 끝낸다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:6:1",
+      "textSha256": "6e432eb41091f2b4077fe347703fb37615a4e3a45f9b3ead4a29e1a2b2065a30",
+      "status": "exclude",
+      "reason": "욥이 답한다는 도입만 있어 현재 선택을 건드릴 내용이 없다.",
+      "contextNote": "욥의 첫 반박 시작.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:6:2",
+      "textSha256": "eb0d999e55dcd547c72cfc56ab34aeec18350a127686da5942b2feec4a681f61",
+      "status": "hold",
+      "reason": "분한 마음의 실제 무게를 알아 달라는 요청은 감정 표현에 통하지만 저울에 둘 수 있으면이라는 미완결이다.",
+      "contextNote": "욥이 고통의 무게를 헤아려 달라 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H026",
+          "clue": "내 마음의 무게를 상대가 헤아려 주기를 청한다.",
+          "friction": "저울에 올릴 수 있으면으로 끝나 뒤 내용이 필요하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:6:3",
+      "textSha256": "0d579eae4d56f4b9cf54bb7e0bc6b53f962c31630c4212018e7cbf49b7632a4b",
+      "status": "hold",
+      "reason": "말이 경솔했다고 돌아보는 실마리는 있으나 바다 모래보다 무거운 것의 주어가 앞 절의 고통이며 자기 변론이다.",
+      "contextNote": "고통 때문에 말이 거칠었음을 욥이 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "아픈 마음 때문에 말이 경솔해질 수 있음을 돌아본다.",
+          "friction": "무거운 대상은 앞 절의 재앙이며 욥이 자기 탄식을 변호하는 상황이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:6:4",
+      "textSha256": "795e3fd623bbcb5f8295c0d00d9ce64de6a1437d9f3cef18f51264d7c1d4bbd0",
+      "status": "exclude",
+      "reason": "하나님의 독화살이 영을 친다는 고통 비유를 현재 질환 원인이나 마음 진단으로 적용할 수 없다.",
+      "contextNote": "욥이 고통을 전능자의 공격으로 느낀다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:6:5",
+      "textSha256": "6258ac10315d1f178f0160b70564c7bac4163f6a9738a341ad23fd4d3bfdb410",
+      "status": "candidate",
+      "reason": "먹을 것이 있으면 짐승도 울지 않는다는 질문에서 힘든 이의 소리를 탓하기보다 필요한 것이 무엇인지 살필 실마리를 읽는다.",
+      "contextNote": "욥이 자기 탄식에도 실제 이유가 있음을 동물로 비유한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "탄식이 나오면 비난하기보다 필요한 것이 없는지 살펴 보는 생각.",
+          "friction": "욥은 자기 탄식의 이유를 동물로 비유한다. 현재 친구의 고통이 음식 부족 때문이라고 단정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:6:6",
+      "textSha256": "d4319c1db13480b5b3a302eaf51d7029555c8b1ccfdba7c4a4157111861b36f4",
+      "status": "hold",
+      "reason": "싱거운 음식의 비유에서 겉도는 위로를 돌아볼 수 있으나 닭 흰자와 소금의 문장만으로 작은 선물의 가격 고민에는 연결이 약하다.",
+      "contextNote": "욥이 친구의 말을 맛없는 음식처럼 여긴다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H007",
+          "clue": "작은 것에도 실제 마음을 채울 요소가 있어야 한다는 생각.",
+          "friction": "음식의 맛없는 비유를 선물의 진정성으로 옮기는 해석이 길고 비용 선택은 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:6:7",
+      "textSha256": "83b11be18b55a4f06f578bc397192f6a0390d25f5fde4a64abab32e0d8392231",
+      "status": "exclude",
+      "reason": "이런 것을 못된 음식처럼 싫어한다는 지시어는 앞의 비유를 알아야 해 구매 물건 호불호로 바로 읽을 수 없다.",
+      "contextNote": "욥이 친구의 조언을 거부한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:6:8",
+      "textSha256": "4b6b9434deea2b1078f204446058682b7d7a631fcfa918054db364fbdb5205ba",
+      "status": "exclude",
+      "reason": "사모하는 것을 얻고 싶다는 일반 청원은 다음 절에서 죽음이므로 원하는 도전·구매를 청하는 구절로 떼어 읽기 어렵다.",
+      "contextNote": "욥의 죽음 소원 간구 서두.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:6:9",
+      "textSha256": "0caa1b57dcad31435fd8a0490e46a1bb6ce62843fb45e29b197a3f04d2ee76ba",
+      "status": "exclude",
+      "reason": "하나님이 나를 끊어 멸하길 바라는 말은 현재 치료 지속이나 휴식의 선택과 같게 읽을 수 없다.",
+      "contextNote": "욥이 죽기를 원한다고 밝힌다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:6:10",
+      "textSha256": "8779b48bb29e8f443becbf7f90fb86f54bf97b67125ff6cac223eff3d4bd483a",
+      "status": "exclude",
+      "reason": "위로와 기쁨이 있어도 그러할지라도는 앞의 죽음에 걸려 있어 앞뒤를 무시하고 회복 격려로 쓰기 어렵다.",
+      "contextNote": "죽음 소원 속 말씀을 버리지 않았음을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:6:11",
+      "textSha256": "53bbeec1422f195084bdab3b94b17fd77e1382936270183c2f29190a7b782bcc",
+      "status": "candidate",
+      "reason": "무슨 힘으로 더 기다리고 참겠냐는 한계의 호소에서 끝없이 견디는 것만 요구하는 부담을 돌아볼 실마리를 읽는다.",
+      "contextNote": "욥이 희망과 기력이 없는 상태를 친구에게 호소한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H044",
+          "clue": "끝없이 참으라는 요구 앞에 내게 남은 힘과 한계를 말한다.",
+          "friction": "욥의 큰 상실과 죽음 소원 뒤 호소이며 치료 포기나 생명 중단의 결론으로 쓰지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:6:12",
+      "textSha256": "978a3e140dfc75a85c571bc5f8f0b2ef97d33cf58ed0b39ce17fc36092ab529a",
+      "status": "candidate",
+      "reason": "내 힘과 살이 돌이나 놋쇠가 아니라는 질문은 한계를 인정하지 않고 계속 무리할지의 고민을 직접 건드린다.",
+      "contextNote": "욥이 무한한 인내를 요구하는 친구에게 신체 한계를 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G13",
+          "clue": "내 몸이 돌이나 금속이 아니어서 무한히 버티지 못한다는 분명한 질문.",
+          "friction": "놋쇠의 비유와 욥의 극심한 고통 문맥이 있고 오늘 수면 시간·시험 결과를 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:6:13",
+      "textSha256": "33886883db89e83ea029dcbd2310725bcd7f40f4fb8a6dc22ec03532db92c141",
+      "status": "hold",
+      "reason": "내 안의 힘만으로 도움이 충분하지 않다는 인식은 외부 도움 요청에 통하지만 지혜가 쫓겨났다는 절망의 자평도 함께 있다.",
+      "contextNote": "욥이 자력 회복의 불가능함을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "내 안의 힘만으로 충분하지 않음을 인정한다.",
+          "friction": "지혜가 사라졌다는 절망의 자기평가까지 있어 도움 요청의 긍정 단서가 가려진다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:6:14",
+      "textSha256": "cba51013deb24fef2ad1be6f3f3e43f17bd36a005fe114c9bb105ddcdd1a5f7d",
+      "status": "candidate",
+      "reason": "피곤한 이를 그 벗이 불쌍히 여겨야 한다는 말이 큰 해결을 못해도 연민과 곁을 건넬 실마리를 준다.",
+      "contextNote": "욥이 신앙까지 흔들린 지친 사람에게 친구의 인애를 요구한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "지친 이를 친구가 불쌍히 여겨야 한다는 연민의 방향.",
+          "friction": "전능자 경외를 폐한 사람이라는 종교 표현과 문장 쉼표가 어렵다. 친구의 신앙을 판정하거나 어떤 도움을 강요하는 말은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:6:15",
+      "textSha256": "b5d20b8eca3e65b1c01e2ad6796d1fdb09fbef82d1cf17021709582bf665f7b8",
+      "status": "candidate",
+      "reason": "성실하지 못한 도움을 마른 시내에 비유한 말에서 계속 같은 기대만 걸지 않을 경계의 실마리를 읽는다.",
+      "contextNote": "욥이 친구들의 위로를 마르는 시냇물에 비유한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H029",
+          "clue": "필요할 때 마르는 시냇물처럼 성실하지 않은 도움에 같은 기대만 걸지 않을 생각.",
+          "friction": "고통 속 욥의 친구 평가이며 현재 친구의 숨은 동기를 단정하지 않는다. 반복 위반을 다시 무조건 부드럽게 말하라는 방향은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:6:16",
+      "textSha256": "6b3c61cfc13671193f86445ef0aed6d5948f1479a676f1731af984049d9d57d7",
+      "status": "exclude",
+      "reason": "눈과 얼음이 녹는 개울 비유의 중간으로 사람 관계에 대한 결론은 앞뒤 없이는 읽히지 않는다.",
+      "contextNote": "배신하는 시냇물 비유의 계절 묘사.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:6:17",
+      "textSha256": "ab48529c8cb68191d677896f36988b81b9d786fb86ce028473e6ffa37f7844c0",
+      "status": "exclude",
+      "reason": "따뜻하면 사라진다는 그것은 앞의 개울이어서 현재 친구의 연락이나 약속을 예측할 말이 아니다.",
+      "contextNote": "시내가 더위에 마르는 비유.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:6:18",
+      "textSha256": "1843a4380e6001c84fa50a8a3e817a5cef7a9fb0afde8a2727e7541c73bb4d3e",
+      "status": "exclude",
+      "reason": "길 찾던 객들이 광야에서 죽는 비유는 현재 혼자 여행 참여의 실제 위험을 알려주지 않는다.",
+      "contextNote": "물 없는 개울을 찾던 행인의 몰락.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:6:19",
+      "textSha256": "63cb930c4201e9b1b38786dcc3dbc3c74f23142219f73fc74701d035abd69b44",
+      "status": "exclude",
+      "reason": "데마·스바 행인이 그것을 사모한 미완결로 사모 대상과 결과 모두 다른 절에 의존한다.",
+      "contextNote": "개울을 기대한 대상들을 열거한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:6:20",
+      "textSha256": "6261a34557b7844238dd27079eb09793a87551ec9963bf2be8765185501813f5",
+      "status": "exclude",
+      "reason": "기대하고 왔다 낙심한 이야기만으로 지금 기다릴지 바꿀지의 실마리는 없고 거기의 대상도 생략됐다.",
+      "contextNote": "물을 못 찾은 행인의 실망.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:6:21",
+      "textSha256": "635593ccab539d646f15bcc5409351f6669dfffe0ff4bf9f855970930399a127",
+      "status": "exclude",
+      "reason": "친구들이 허망하고 겁낸다는 비판은 현재 친구의 마음을 확인해주는 정보가 아니며 단순 비난에 가깝다.",
+      "contextNote": "욥이 두려워하는 친구들을 책망한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:6:22",
+      "textSha256": "c3954feb5dde77998354e49a02abe7e2c15e8117a4413f4af5a29e220414dd62",
+      "status": "candidate",
+      "reason": "큰 재물이나 공급을 요구한 것이 아니라고 분명히 밝힌 질문에서 필요한 것은 경청이라고 말할 실마리를 읽는다.",
+      "contextNote": "욥이 물질적 구조 요구가 아닌 위로를 바랐음을 반문한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B011",
+          "clue": "물질을 달라는 요구와 나의 고통을 들어 달라는 마음은 다를 수 있음을 분명히 말한다.",
+          "friction": "욥은 이미 친구들과 대화 중이며 현재 친구가 실제 오해했다는 사실이나 긍정 답변을 지어내지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:6:23",
+      "textSha256": "9cde129106112094213a3ac49a94ca8ffc03bf965c6464186e7ce17f79ef3214",
+      "status": "hold",
+      "reason": "모든 문제를 대신 해결해 달라는 요구가 아니라는 선은 보이나 대적에게서 속량할 재정·포로 상황의 비유다.",
+      "contextNote": "욥이 친구에게 구출을 청한 것이 아니라고 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B011",
+          "clue": "모든 문제를 구출해 달라는 요구와 위로받고 싶은 마음을 구별한다.",
+          "friction": "대적과 포악자의 손에서 속량하는 배경은 생활 대화보다 크다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:6:24",
+      "textSha256": "3a75214323c6377f25b23532d1116964a434731523ea70bde46952359e6bc6e6",
+      "status": "candidate",
+      "reason": "구체적으로 내 허물을 가르쳐 주면 잠잠히 듣겠다는 말이 기분 상해 지적을 거부할지의 부담을 직접 건드린다.",
+      "contextNote": "욥이 근거 있는 잘못 지적을 요청한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "내가 잘못한 부분을 구체적으로 알려 주면 듣겠다는 태도.",
+          "friction": "욥은 근거 없는 죄 추정을 반박하고 있다. 현재 확인된 실수를 부인하거나 팀원 말을 신적 권위로 만들지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:6:25",
+      "textSha256": "7016f7bc4d9f0a95130846d8bc4242b28a85af880c0908283abc9958ba611755",
+      "status": "hold",
+      "reason": "맞는 말의 힘은 인정하며 무엇이 잘못인지 구체 확인하는 실마리는 있지만 모호한 책망에 반박하는 상황이다.",
+      "contextNote": "욥이 친구 책망의 근거를 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "옳은 말은 받아들이되 실제 무엇을 지적하는지 묻는다.",
+          "friction": "이미 내 실수를 알려준 팀원 말까지 근거 없다고 확정하면 안 된다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:6:26",
+      "textSha256": "ce4eff7c23835e3b1e9d7180e6563724a36856afd67b8d04b8b3d684b875721d",
+      "status": "hold",
+      "reason": "절망 중의 말만 따져 책망하지 말라는 마음은 힘든 친구 돕기에 통하지만 현재 친구가 거친 말을 했다고 입력에 없는 조건을 넣으면 안 된다.",
+      "contextNote": "욥이 절망의 말을 바람처럼 넘길 인애를 요청한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "절망한 사람의 말만 따져 훈계하기보다 그 고통을 헤아린다.",
+          "friction": "현재 친구가 거친 말을 한 입력은 없고 비유와 불완전한 상황 연결이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:6:27",
+      "textSha256": "b6415d1596af62751a80d1a34297175ae6feacb4b3aeaea2a0c43d10656858a9",
+      "status": "exclude",
+      "reason": "고아 제비와 친구 매매의 과격한 비난은 공평한 제비·친구 거래의 단어가 같아도 행위 의미가 반대다.",
+      "contextNote": "욥이 친구의 무정함을 매매로 비판한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:6:28",
+      "textSha256": "a12f3e3bc746009edfb4620a43695a1df3e5cff50eb62cef0c209d6b95ba17c1",
+      "status": "candidate",
+      "reason": "대면하여 결코 거짓말하지 않겠다는 분명한 태도에서 좋은 인상보다 실제 진실을 말할 실마리를 읽는다.",
+      "contextNote": "욥이 직접 자기 말을 들어 달라며 정직을 주장한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "상대 앞에서 거짓을 말하지 않겠다는 분명한 기준을 세운다.",
+          "friction": "욥이 무고함을 변호하는 상황이며 현재 보고의 모든 사실이나 좋은 평가를 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:6:29",
+      "textSha256": "c48de81b637fab80b140352e9a06c752519744b1189de2a5afd9ee08df630028",
+      "status": "hold",
+      "reason": "성급한 판단을 돌이켜 불의하지 않게 하자는 요청은 소문 확인에 통하지만 내 일이 의롭다는 욥의 입장과 현재 친구 사실은 다르다.",
+      "contextNote": "욥이 친구에게 공정한 재고를 요청한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "판단을 돌이켜 불의한 오해가 없게 직접 살펴 달라는 요청.",
+          "friction": "욥은 자기 무고함을 알고 있고 지금 친구의 실제 사정은 아직 미확인이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:6:30",
+      "textSha256": "4f4ca0b703f722a14dcd9ee2b766fb21dda09d1a02a81b8316b3177a815427f2",
+      "status": "exclude",
+      "reason": "자기 혀에 불의가 없다는 자평과 분별의 질문만으로 현재 보고의 사실 여부나 수정할지 기준은 알 수 없다.",
+      "contextNote": "욥이 자기 정직과 분별을 재차 주장한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:7:1",
+      "textSha256": "db0a390b7f8e4e730b058ec9ed63ba77c8d765884a49356ca4e4d8b11d6095d7",
+      "status": "hold",
+      "reason": "인생의 하루를 고된 품꾼에 비유해 수고를 알아볼 수 있으나 전쟁·품군 비유만으로 추가 일을 맡을지의 실마리는 적다.",
+      "contextNote": "욥이 노동자의 끝나는 날을 빗대어 고통을 말하기 시작한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H044",
+          "clue": "하루가 품삯 노동처럼 고되다는 현실을 말할 여지.",
+          "friction": "전쟁·품군의 비유와 다음 절의 저녁 기다림이 있어 한계 요청의 단서는 아직 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:7:2",
+      "textSha256": "81951664786e821508401fb0f515e09bedefd0185a3d83da28083853aade7829",
+      "status": "hold",
+      "reason": "일하는 사람이 끝나는 시간과 대가를 바라는 현실은 보이나 기다림 자체라 내 추가 업무·휴식 선택은 약하다.",
+      "contextNote": "욥이 자기 생애 고통을 종과 품꾼에 빗댄다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B005",
+          "clue": "일하는 사람도 하루의 끝과 정당한 삯을 바란다는 현실.",
+          "friction": "욥이 생애의 끝을 기다리는 비유이고 지금 대가를 줄 선택은 직접 말하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:7:3",
+      "textSha256": "818119cb2a19630f219300f76b602b0aa1d24a13b67108fd369df78c4bafe52f",
+      "status": "exclude",
+      "reason": "수개월의 고통과 힘든 밤이 정해졌다는 상태는 공감은 있어도 실제 치료·쉼의 선택 실마리는 없다.",
+      "contextNote": "욥이 계속된 고통의 시간을 말한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:7:4",
+      "textSha256": "618ef423f672bdaed8f34f49dfe4aa5c715e29deec772062a59ddbdc78057926",
+      "status": "exclude",
+      "reason": "새벽까지 뒤척이는 불면의 묘사만 있어 오늘 공부할지 잠잘지의 기준을 직접 읽기 어렵다.",
+      "contextNote": "욥의 고통스러운 밤.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:7:5",
+      "textSha256": "cec4a35e79422adc83f51c50ec8143161220b0aab9328bc40b6b0c6486abbfb9",
+      "status": "exclude",
+      "reason": "구더기·흙·터지는 피부의 상세 증상은 현재 질환의 근거도 치료 선택의 조언도 아니다.",
+      "contextNote": "욥이 악창의 고통을 묘사한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:7:6",
+      "textSha256": "644d01e319e4cd0d02ff44aaa2562c3d49ebf24c40406622b284b5d9a39d5669",
+      "status": "exclude",
+      "reason": "날이 빠르게 소망 없이 간다는 베틀 비유는 현재 일을 시작할지의 방향 없이 절망을 전한다.",
+      "contextNote": "소망 없이 흐르는 욥의 시간.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:7:7",
+      "textSha256": "955d12650fb79fd316aaf85f456370c3e57584a2002057db747246ee1ec2c619",
+      "status": "exclude",
+      "reason": "앞으로 복을 다시 못 볼 것이라는 죽음 가까운 탄식은 현재 기회나 회복 전망의 사실이 아니다.",
+      "contextNote": "욥이 짧은 생명과 희망 상실을 호소한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:7:8",
+      "textSha256": "eac4829c4ba32e894c52622e474bbb27bad9e22348500a2f2550819e872b33f4",
+      "status": "exclude",
+      "reason": "다시는 자신이 안 보일 거라는 죽음의 전망은 오늘 친구 연락을 기다릴지와 연결할 수 없다.",
+      "contextNote": "죽은 뒤 찾을 수 없을 자신을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:7:9",
+      "textSha256": "6031cc647e17051699f5daf50a685c33dd1567646d6c15703f9e8200c3b9a9bb",
+      "status": "exclude",
+      "reason": "구름 소멸과 음부의 돌아오지 못함은 죽음의 비유여서 쉬고 재시작할 생활 고민과 다르다.",
+      "contextNote": "욥이 죽음의 불가역성을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:7:10",
+      "textSha256": "11b1068ec9bfba6f930428adcafdd009b3d77a537aa3d9d0fd5f25a91f3171f0",
+      "status": "exclude",
+      "reason": "집이 다시 자신을 모르리라는 말은 죽음 뒤 귀환 불가라 가족 방문의 행선지와 같게 읽을 수 없다.",
+      "contextNote": "죽음으로 집을 영원히 떠남.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:7:11",
+      "textSha256": "87f94e393ba062c410ed7816522be06d5a1bbdc445faa4043446265d4b1c7c64",
+      "status": "candidate",
+      "reason": "아픈 마음을 계속 감추지 않고 말하겠다는 표현에서 서운함을 묻어 둘지 알릴지의 실마리를 읽는다.",
+      "contextNote": "욥이 유한한 생명 때문에 탄식을 숨기지 않겠다고 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H026",
+          "clue": "마음 아픈 것을 아예 막아 두기보다 말할 여지를 택한다.",
+          "friction": "하나님께 쏟는 욥의 원망이며 친구에게 지금 화난 메시지를 그대로 보내라는 결론은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:7:12",
+      "textSha256": "02619c38302b5d40522e79e9c8bfccc7222ce06ad67c86e7e4971ba4b317ce80",
+      "status": "exclude",
+      "reason": "바다·용처럼 감시하냐는 항의는 신화적 배경과 하나님에 대한 감시 호소를 알아야 하며 현재 친구 의도를 알려주지 않는다.",
+      "contextNote": "욥이 감시받는 듯한 괴로움을 항의한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:7:13",
+      "textSha256": "c9fae24f6c85ae470845e265f71cb81ddc7c2684d98fd96f186413b79e8cbb40",
+      "status": "exclude",
+      "reason": "침상이 위로하길 바라는 가정은 다음의 악몽 반박에 걸려 있어 편히 자라는 말로 분리할 수 없다.",
+      "contextNote": "휴식 기대와 뒤의 악몽을 대조하는 서두.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:7:14",
+      "textSha256": "3672f56eee9829be4dba870e88e93ecc977b4b5010f09b1eda9e84619ecd0ad2",
+      "status": "exclude",
+      "reason": "꿈과 이상으로 두렵게 한다는 하나님 원망은 현재 악몽의 원인이나 휴식 효과를 말하는 진단이 아니다.",
+      "contextNote": "욥이 잠에도 고통받는다고 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:7:15",
+      "textSha256": "94edb99c2d9bdf1e3164fae5446476d941fbf21655c4b9cfdc1dc3072e962d5f",
+      "status": "exclude",
+      "reason": "숨 막혀 죽는 게 낫다는 절망은 오늘의 피로에서 회복·휴식을 고르는 선택과 전혀 다른 무게다.",
+      "contextNote": "욥이 죽음을 원하는 고통을 표현한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:7:16",
+      "textSha256": "2770899be9a71941d6ce956358ff9e78f6f593eec2bda24728f0538b3ad09c82",
+      "status": "exclude",
+      "reason": "생명이 싫고 놓아 달라는 죽음의 호소는 단순히 하던 일을 그만두는 선택의 실마리로 옮기기 어렵다.",
+      "contextNote": "욥이 생애 고통의 끝을 호소한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:7:17",
+      "textSha256": "0fa2b39cd71f6eaca6fd3c4a48bee307337ba89250addf0d6d4f15c937c6c235",
+      "status": "exclude",
+      "reason": "사람에게 마음 둔다는 앞말은 뒤의 분초별 시험 항의로 이어지는 미완결이라 돌봄의 칭찬으로 떼어 쓰기 어렵다.",
+      "contextNote": "욥이 과도한 감찰을 반문하는 서두.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:7:18",
+      "textSha256": "ba80b7079be686559ef993f83f1ed30a37ee2df43599b7cf47e70ff9dc8cd942",
+      "status": "exclude",
+      "reason": "분초마다 권징·시험한다는 질문은 현재 계속 확인하는 피로의 해결보다 신적 감시의 괴로움이다.",
+      "contextNote": "하나님이 자신을 쉬지 않고 살피는 이유를 묻는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:7:19",
+      "textSha256": "33bb5c75545fa1c035ae25867728fbc12ee2ab92586609c8add50153e238ea24",
+      "status": "candidate",
+      "reason": "침 삼킬 동안도 놓지 않는다는 호소에서 잠깐의 여유도 필요한 사람의 한계를 말할 실마리를 읽는다.",
+      "contextNote": "욥이 감찰을 잠시라도 거두어 달라고 탄식한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H044",
+          "clue": "침 삼킬 잠깐의 시간도 필요하다고 자기 한계를 표현한다.",
+          "friction": "하나님의 감찰을 느끼는 욥의 항의이며 상대가 나를 일부러 괴롭힌다고 판정하거나 생명 중단을 뜻하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:7:20",
+      "textSha256": "b91a7e247dd95b650d5a9305d40bee8f4785f96e1eb1b2e361dc68c95af50c4d",
+      "status": "exclude",
+      "reason": "하나님의 과녁이 되어 무거운 짐이라는 탄식은 타인이 나를 노린다는 현재 사실도 해결 선택도 아니다.",
+      "contextNote": "욥이 왜 자신을 표적으로 삼는지 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:7:21",
+      "textSha256": "99cf3211b3803c7b60dc3d02777ddb5fc3453ed9e661a0b48ac5279f4494a02a",
+      "status": "hold",
+      "reason": "허물을 용서받고 싶다는 청원은 사과의 마음과 통하지만 흙에 누우면 못 찾는 죽음의 뒷문장이 길다.",
+      "contextNote": "욥이 용서 못 받는 이유를 묻고 임박한 죽음을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G10",
+          "clue": "허물을 사하여 달라는 간절한 마음.",
+          "friction": "곧 죽어 흙에 누울 거라는 뒷문장이 크고 지금 친구 수락을 말하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:8:1",
+      "textSha256": "c88d7d6144add62c85ace8f00f311a628b7d3a7ea3ec17ad983548c66c94b71d",
+      "status": "exclude",
+      "reason": "빌닷이 답한다는 화자 소개만 있어 선택의 내용은 없다.",
+      "contextNote": "두번째 친구의 첫 답변 시작.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:8:2",
+      "textSha256": "0422c9b421885e69a2b470304a5cb2c93a8c38380a9498ecb537f510e24d9e90",
+      "status": "exclude",
+      "reason": "언제까지 광풍 같은 말을 하냐는 질책은 아픈 사람을 듣는 태도보다 감정 표현을 비난한다.",
+      "contextNote": "빌닷이 욥의 탄식을 거칠게 책망한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:8:3",
+      "textSha256": "3275cd8b2e01db3f936e4173846422fd4d4e46dd56f94a2f5e31d6f1f88605e3",
+      "status": "exclude",
+      "reason": "하나님이 공의를 굽히냐는 원론 질문만으로 현재 특정 관계나 실수의 사실 판단은 할 수 없다.",
+      "contextNote": "빌닷이 공의의 하나님을 전제로 논쟁한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:8:4",
+      "textSha256": "a26e8437b664f62c324ff3e95c678c30423b1dd0b059e3507542d69573feadde",
+      "status": "exclude",
+      "reason": "죽은 자녀가 죄를 지어 그렇게 됐다는 단정은 확인 없는 죄 추정이라 현재 가족 고난의 판단으로 사용할 수 없다.",
+      "contextNote": "빌닷이 자녀 죽음을 죄의 결과라 주장한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:8:5",
+      "textSha256": "bc6ab4c21039987d9c709637d0e8901822f8688422a92fde1b36c875841d99d5",
+      "status": "exclude",
+      "reason": "부지런히 하나님께 빈다는 조건 앞부분만 나와 결과와 선택의 실마리가 다음에 의존한다.",
+      "contextNote": "빌닷의 회개 촉구 조건절 시작.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:8:6",
+      "textSha256": "874a6bb165362e8b32746b9fa6ea4feaa5df064fe2fcf2577df81734fb31d77a",
+      "status": "candidate",
+      "reason": "좋은 평가를 바라는 마음 앞에서 정직하게 행할 때를 바라보라는 조건이 솔직함을 택할 개인 실마리가 된다.",
+      "contextNote": "빌닷이 청결·정직 뒤 욥의 집 회복을 확언한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "유리한 꾸밈보다 청결하고 정직한 태도에 소망을 두는 생각.",
+          "friction": "빌닷은 무고한 욥에게 회개 후 집의 형통을 확언한다. 현재 평가 성공이나 재산 회복을 서비스가 약속하지 않고 병·실패를 죄라 판단하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:8:7",
+      "textSha256": "06fc49722bde27fbeedd72cde38ba38f8bf30a1f8450eef6c6962ce2934c5388",
+      "status": "candidate",
+      "reason": "작은 시작이 모든 가능성을 정하지 않는다는 대조에서 처음부터 완벽히 준비될 때만 기다리지 않을 실마리를 읽는다.",
+      "contextNote": "빌닷이 욥에게 작은 시작 뒤 큰 회복을 약속한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H057",
+          "clue": "지금 시작이 작아도 그것으로 끝을 미리 한정할 필요만 있는 것은 아니라는 대조.",
+          "friction": "빌닷의 큰 회복 확언이며 현재 운동이 반드시 꾸준해지거나 성과가 커진다고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:8:8",
+      "textSha256": "9858ed7d1d83b059df710915c795323b59b4bd32f617616f129cb1a78adb0d9f",
+      "status": "candidate",
+      "reason": "이미 시간을 지나 배운 이에게 묻고 배워 보라는 직접 요청이 선배 조언을 망설이는 부담을 건드린다.",
+      "contextNote": "빌닷이 조상들의 경험을 배우라고 권한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "먼저 경험해 터득한 사람에게 물어보고 배운다.",
+          "friction": "옛시대 조상의 지혜 호소이지 나이만으로 조언이 모두 옳거나 선배가 응할 거라는 보장은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:8:9",
+      "textSha256": "857156f277ca25409b24599dffac22aaf93efb7bc28188d47fab7241fdea0416",
+      "status": "hold",
+      "reason": "짧은 경험으로 모든 것을 알지 못함을 인정하는 생각은 완벽한 답 집착에 통하지만 망매·그림자 비유와 괄호 설명이다.",
+      "contextNote": "앞 세대에게 배울 이유로 인간 경험의 짧음을 든다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H061",
+          "clue": "짧은 경험으로 완벽히 다 알 수는 없음을 인정한다.",
+          "friction": "망매의 고어·그림자 비유이며 결정을 내리라는 행동까지는 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:8:10",
+      "textSha256": "ff8c79bbc352afa9f56a084721b84874338757ae318d3f2ab20b5df619d4e2c6",
+      "status": "hold",
+      "reason": "마음에서 나온 가르침을 다른 이에게 얻는 여지는 보이나 그들이 누구인지 앞 절을 알아야 한다.",
+      "contextNote": "옛 사람의 가르침을 기대하라는 빌닷의 말.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "다른 사람이 마음으로 배운 것을 가르쳐 줄 수 있다.",
+          "friction": "그들의 지시 대상이 앞 세대이고 반드시 좋은 조언이란 보장은 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:8:11",
+      "textSha256": "c7ae827abbb1789e2bf82ae4d5909366d34bcfc16c938f8c7a82921e9e80c365",
+      "status": "candidate",
+      "reason": "물 없이 갈대가 자라겠냐는 질문에서 기본 조건이 모자란데도 원하는 것만 더할지의 부담을 돌아볼 실마리를 읽는다.",
+      "contextNote": "빌닷이 물에 의존하는 식물로 보응 논리를 시작한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G02",
+          "clue": "자라려면 실제 물이 필요하듯 기본 생활 조건을 빼고 원하는 것만 더할 수 없다는 생각.",
+          "friction": "진펄의 옛말과 보응 논리의 식물 비유다. 생활비 부족을 죄나 장래 실패의 확정으로 바꾸지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:8:12",
+      "textSha256": "9f675b55a722d1a5b396ae7af1291dc413c6793ba3e3286940881a3d28eb18ec",
+      "status": "exclude",
+      "reason": "다른 풀보다 빨리 마르는 이런 것의 조건은 앞의 물 없는 식물을 알아야 하며 현재 계획 실패의 예고가 아니다.",
+      "contextNote": "물 없는 풀의 마름 비유.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:8:13",
+      "textSha256": "79b849710a892db1a33bd4694852b0199a43e8bb8521200790ae304d133529d1",
+      "status": "exclude",
+      "reason": "소망 소멸을 하나님 잊은 자의 길로 단정한 사곡의 고어 문장은 현재 좌절이 죄의 증거란 오해를 더한다.",
+      "contextNote": "빌닷이 시든 식물을 악인의 결말에 적용한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:8:14",
+      "textSha256": "dc186a48281331e2d3b70a24897e89aa3bf1e2dd593aa232f0322ef1291832d3",
+      "status": "hold",
+      "reason": "거미줄처럼 약한 의지처를 생각하게 하지만 대상은 사곡한 자로 현재 늦게 갚은 친구를 그렇게 판정할 수 없다.",
+      "contextNote": "불안정한 악인의 소망 비유.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H038",
+          "clue": "내가 믿고 싶은 것과 실제로 버틸 의지처가 같은지 돌아본다.",
+          "friction": "거미줄은 사곡한 자의 소망이며 친구가 못 갚거나 악하다고 확인하는 말은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:8:15",
+      "textSha256": "e16dacb4fe0262f8fb93cb2079c281121bf162a6c7a28bc9e572d3895211ee67",
+      "status": "exclude",
+      "reason": "집을 붙들어도 안 선다는 예고는 앞 악인의 몰락 비유라 현재 재산·주거 안정의 사실로 읽을 수 없다.",
+      "contextNote": "악인의 집과 의지처 붕괴 비유.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:8:16",
+      "textSha256": "b29c492bea37e589c961a39f995b1a5d8c7c402f69096507c7d661efe6da3b72",
+      "status": "exclude",
+      "reason": "햇빛에 푸른 식물의 가지 확장이라는 미완결로 사람과 선택에 대한 의미는 아직 없다.",
+      "contextNote": "겉으로 무성한 악인을 식물에 비유한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:8:17",
+      "textSha256": "4e0375da6d63ad3e16506a124ca5fb8d9b7bed8ded1be458bd8ae2f716d31f62",
+      "status": "exclude",
+      "reason": "뿌리가 돌 틈에 들어간 조건절은 뒤 뽑힘 비유와 이어져 지금 버틸 근거로 읽기 어렵다.",
+      "contextNote": "번성 식물의 뿌리 비유 계속.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:8:18",
+      "textSha256": "2cb41a7ad7aec6dcc65586ba5a4a59f0593c5aa988e48aeb84bf24df2ce497c3",
+      "status": "exclude",
+      "reason": "뽑힌 식물을 자리가 모른 체한다는 의인화는 직장·모임이 나를 버릴 사실을 예고하지 않는다.",
+      "contextNote": "악인의 완전 소멸을 식물로 비유한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:8:19",
+      "textSha256": "193e4c6b13ea5cb6e750dcd3272b3dff398516843ec3356fe21f1334253eb9d2",
+      "status": "exclude",
+      "reason": "그 길의 희락과 다른 식물의 대체는 앞 비유를 알아야 하며 새 직업 기회를 보장하는 말이 아니다.",
+      "contextNote": "악인의 짧은 번성과 대체의 결론.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:8:20",
+      "textSha256": "3714e2221072d6a91130af5f9a42627a117194f2549dd188657f5f037e396cc2",
+      "status": "candidate",
+      "reason": "정직한 태도와 악한 수단을 다르게 보는 기준에서 유리한 과장보다 순전함을 지킬 실마리를 읽는다.",
+      "contextNote": "빌닷이 순전한 사람의 회복과 악인 거부를 주장한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "당장 유리해 보이는 악한 수단보다 순전함을 지키려는 기준.",
+          "friction": "빌닷의 보응 주장이고 현재 좋은 평가나 성공을 보장하지 않으며 욥의 고통이 악함 증거라는 적용은 잘못됐다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:8:21",
+      "textSha256": "04cd691bf1441dce4dccb5ed37e9fd752dc3bdbf0db54ecc3a6b0249e33061eb",
+      "status": "hold",
+      "reason": "웃음이 다시 채워질 희망은 읽히나 무엇을 선택해야 할지보다 미래 기쁨의 약속이 중심이다.",
+      "contextNote": "빌닷이 욥의 웃음 회복을 확언한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H060",
+          "clue": "지금 낙심한 모습만이 모든 미래를 결정하지 않는다는 희망.",
+          "friction": "현재 어느 일을 다시 붙들지의 행동 단서 없이 웃음 회복을 확언한다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:8:22",
+      "textSha256": "1737eb7a64d394949f52dc6f0a4a85d60bd4baf4750528ccb5317868c1990cee",
+      "status": "exclude",
+      "reason": "미워한 이가 부끄러워지고 악인 집이 사라진다는 약속은 현재 친구·경쟁자의 운명과 연결할 근거가 없다.",
+      "contextNote": "빌닷이 적의 수치와 몰락을 약속한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:9:1",
+      "textSha256": "6e432eb41091f2b4077fe347703fb37615a4e3a45f9b3ead4a29e1a2b2065a30",
+      "status": "exclude",
+      "reason": "욥이 답한다는 도입만 있어 독립적 선택 내용은 없다.",
+      "contextNote": "욥의 빌닷 답변 시작.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:9:2",
+      "textSha256": "9146bc3843963f235df4ee76084dd2838544867b58c96dbf44d61aa757b765cb",
+      "status": "hold",
+      "reason": "인간 판단이 하나님 앞에서 전부일 수 없다는 겸손은 보이나 그 일의 대상이 앞에 있고 욥은 무고함을 포기한 것이 아니다.",
+      "contextNote": "욥이 하나님 앞 의로움의 한계를 논한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "내 판단만이 모든 진실이라고 고집하지 않을 마음.",
+          "friction": "욥은 잘못이 확인된 사람이 아니며 인간과 하나님 비교다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:9:3",
+      "textSha256": "bb47a0d07f71de2ceb0264ccd6cd6557e1098ef0fb79018068759e1f0e6facc0",
+      "status": "exclude",
+      "reason": "천 마디에 한 마디도 못 답한다는 신적 쟁변의 한계는 현재 의견을 말하지 말라는 근거가 아니다.",
+      "contextNote": "하나님과의 논쟁이 불균형함을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:9:4",
+      "textSha256": "c9e6e013133befe5882d7795a48195fc5d20ce2e3dc5f106760bbf83482e86a3",
+      "status": "hold",
+      "reason": "완고함보다 지혜 앞에서 낮아질 생각은 보이나 하나님 거역하면 형통 못한다는 권력의 논증이라 팀원 지적과 다르다.",
+      "contextNote": "욥이 하나님의 지혜와 힘을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "강퍅하게 버티는 마음을 먼저 돌아본다.",
+          "friction": "하나님의 권능에 거역하는 논증으로 현재 팀원의 말이 옳단 근거는 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:9:5",
+      "textSha256": "b236395fa2a1d7506e32681e45d24b5c958b67eafe59e5c2ceb8ff03787b9c08",
+      "status": "exclude",
+      "reason": "산이 무너져도 깨닫지 못한다는 신적 진노 묘사는 지금 계획 변경의 구체 이유가 아니다.",
+      "contextNote": "하나님의 산을 움직이는 능력.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:9:6",
+      "textSha256": "0b8a1f7f3117e0684666bfe414e7ee911215f3705503385ab6292d6393c7b2aa",
+      "status": "exclude",
+      "reason": "땅과 기둥이 흔들리는 우주 묘사는 일상 불안의 원인이나 대응을 알려주지 않는다.",
+      "contextNote": "하나님의 땅 움직이는 능력 묘사.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:9:7",
+      "textSha256": "d416adaf0855dbcd26695b8b28def96a36b30f31a840da3d69109dbd0cac09f7",
+      "status": "exclude",
+      "reason": "해와 별을 봉하는 미완결 묘사로 오늘 일정의 기회나 장애를 읽을 수 없다.",
+      "contextNote": "하나님의 천체 통제 묘사.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:9:8",
+      "textSha256": "479edd5ac57e0e7d62fc4a27a5e56248ce32b6dedc67e8006cc4aa3df43acd84",
+      "status": "exclude",
+      "reason": "하늘을 펴고 파도를 밟는 신적 행위만으로 현재 구체 선택의 부담을 짚기 어렵다.",
+      "contextNote": "하나님의 창조와 지배 능력 묘사.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:9:9",
+      "textSha256": "1993381732640e749b677a2089c5908d76800bc199e1870769d5c7d41dc3affd",
+      "status": "exclude",
+      "reason": "별자리와 남방 밀실의 창조는 천문 배경 풀이가 필요하고 개인 선택 행동은 없다.",
+      "contextNote": "하나님이 만드신 천체들을 열거한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:9:10",
+      "textSha256": "61d5ab0a433198863c79a7c92db7e8b82a150dd9061b2b8c2331e32ea10180a6",
+      "status": "exclude",
+      "reason": "셀 수 없는 기이한 일의 진술은 일반 신뢰를 주어도 현재 둘 중 택할 방향의 실마리는 약하다.",
+      "contextNote": "욥이 하나님의 큰 능력을 요약한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:9:11",
+      "textSha256": "85ec28ee04c39f56f6d494a3fa284d49e63c429390ca66681bb032fbca34f1b3",
+      "status": "hold",
+      "reason": "내가 못 본다고 없는 것이라 단정 못하는 생각은 불확실함에 통하지만 하나님의 보이지 않는 통과를 말한다.",
+      "contextNote": "욥이 알 수 없는 하나님의 움직임을 고백한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H061",
+          "clue": "내가 아직 보거나 깨닫지 못하는 영역이 있을 수 있다는 생각.",
+          "friction": "보이지 않는 하나님을 말하며 지금 선택지 중 더 나은 쪽을 알려주지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:9:12",
+      "textSha256": "04d3ce4f4f7439875234b7157546b707693cf2b464881063357b110fa27e69fc",
+      "status": "exclude",
+      "reason": "빼앗는 분께 누가 묻냐는 항변은 주권 앞의 무력감이며 물건을 팔거나 줄 선택의 기준은 아니다.",
+      "contextNote": "하나님 권세에 인간이 항의 못함을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:9:13",
+      "textSha256": "ace8371765cacd6e15e3b839c87c7a79db5e43d1a42752df802f3712be4f7248",
+      "status": "exclude",
+      "reason": "라합을 돕던 자의 굴복은 배경을 풀어야 하고 미완결 비교라 개인 판단의 실마리가 없다.",
+      "contextNote": "진노 아래 굴복한 세력의 비유.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:9:14",
+      "textSha256": "690c14594d64c85a9956afdbb3f2646239dc0174b7413a11f02dd9468da9e157",
+      "status": "exclude",
+      "reason": "어떤 말을 골라도 하나님과 변론 못하겠다는 절망은 친구에게 부드럽게 말할지의 대화와 권력이 다르다.",
+      "contextNote": "욥이 자신은 더더욱 변론 못한다고 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:9:15",
+      "textSha256": "a0b345fc45180c53604397402bebc2cf6961487b217945dcc587f78a00c70e0c",
+      "status": "hold",
+      "reason": "옳음을 주장하기보다 간구하는 낮은 태도는 보이나 의로워도 말 못하는 신적 불균형을 친구 사과와 같게 읽기는 어렵다.",
+      "contextNote": "욥이 의로워도 심판자에게 간구할 뿐임을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H027",
+          "clue": "옳음을 내세우는 승부보다 낮아져 간구하는 태도.",
+          "friction": "욥은 무고해도 말 못하는 권력 차이를 호소해 친구에게 잘못 사과하는 상황과 다르다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:9:16",
+      "textSha256": "f9c9698790f1231e56e31c9e21cf5090ef1e5e20208490560d57401abd947993",
+      "status": "exclude",
+      "reason": "응답받아도 들으셨다고 못 믿겠다는 불신은 현재 상대가 무시한다는 사실도 소통 선택의 단서도 아니다.",
+      "contextNote": "욥이 하나님과 대화의 불가능함을 느낀다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:9:17",
+      "textSha256": "3b053f593b9b31a69ab9fb208a786b4965ba7e5bdeb3444c526cf5b543299d77",
+      "status": "exclude",
+      "reason": "까닭 없이 폭풍과 상처로 친다는 욥의 체감은 현재 병이나 사고의 신적 원인을 판정하지 않는다.",
+      "contextNote": "욥이 부당하게 다친 고통을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:9:18",
+      "textSha256": "820017c9bd085f69e288461ac9a95b8f6d4489256448645433025abc5a8c69c6",
+      "status": "exclude",
+      "reason": "숨도 못 쉬게 괴로움으로 채운 상태는 현재 과로의 한계와 공감은 있으나 구체 선택 행동은 없다.",
+      "contextNote": "욥이 압도된 괴로움을 말한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:9:19",
+      "textSha256": "ec8141eba4872bbe3201e6276ded5b7500c9e77f81708f48126b138843ce6827",
+      "status": "exclude",
+      "reason": "힘과 심판에서 상대가 절대적이라는 질문은 현재 팀원·친구의 옳고 그름을 정할 기준이 아니다.",
+      "contextNote": "하나님 앞 권력 불균형의 호소.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:9:20",
+      "textSha256": "6357e420a7ffbe42cdb77118e6b86d48d2bd57f1dfb92096b3fe4cf6766c9df6",
+      "status": "hold",
+      "reason": "말이 나를 불리하게 만들 수 있다는 경계는 보이나 무고해도 입이 정죄한다는 불공정 재판의 탄식이다.",
+      "contextNote": "욥이 자기 변론도 정죄될 것이라 호소한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "말이 오히려 나에게 불리하게 작용할 수 있다는 경계.",
+          "friction": "무고해도 정죄당하는 재판의 탄식이지 메시지가 경솔했다는 자성이 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:9:21",
+      "textSha256": "4fda0ce43a0afaa999e5b17738129cbdc3a55329ba49ecb2fe9e6a992455be7f",
+      "status": "exclude",
+      "reason": "순전해도 생명을 천히 여긴다는 절망은 자기 존중이나 휴식의 긍정 실마리로 바로 쓸 수 없다.",
+      "contextNote": "욥이 무고함 속 생명 경시를 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:9:22",
+      "textSha256": "590124c705a7a7be58c4d9a53a01fdd1dfa094be340c05b9e8bcbfbd874f0378",
+      "status": "exclude",
+      "reason": "선악 모두 멸망한다는 고통의 주장은 어떤 정직·관계 선택도 무의미하다는 결론으로 오해될 수 있다.",
+      "contextNote": "욥이 친구의 단순 보응 논리를 반박한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:9:23",
+      "textSha256": "43c7299514a5f2e67833477c47e80cca524a6376d4abc1ee50f32291d441c1a6",
+      "status": "exclude",
+      "reason": "무죄한 사람의 죽음을 하나님이 비웃는다는 탄식은 현재 고통의 원인도 치료 판단의 사실도 아니다.",
+      "contextNote": "욥이 무고한 죽음 앞의 신적 공의를 항의한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:9:24",
+      "textSha256": "11ebe2bdad62fbee40f769c18c43530f7dc2aee8a54bc601b598b52b6e606d4e",
+      "status": "exclude",
+      "reason": "가려진 재판관과 악인 지배의 원인 질문은 현재 조언자·상대의 불공정을 판정할 근거가 아니다.",
+      "contextNote": "욥이 세상의 불의와 신적 주권을 함께 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:9:25",
+      "textSha256": "701d236344d19962cee9cc25a741997a8af9c5d1c91dae59477f491a2477b7bf",
+      "status": "exclude",
+      "reason": "배달꾼보다 빠르게 복 없이 흐른 날이라는 탄식은 지출·지금의 즐거움을 택할 이유를 충분히 주지 않는다.",
+      "contextNote": "욥이 행복 없이 빠르게 간 시간을 비유한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:9:26",
+      "textSha256": "514e722bc2290d7c7ff7e042d45ca7614dd0826f0e5912c9fb8d8f72672e0ddc",
+      "status": "exclude",
+      "reason": "배와 독수리로 빠른 시간을 비유한 대명사 문장은 선택 방향 없이 속도만 표현한다.",
+      "contextNote": "욥의 덧없는 시간 비유 계속.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:9:27",
+      "textSha256": "d77d4664e8b053d763a4036ede9cf81166b5418c8c4f8629ff7426d17d71062f",
+      "status": "exclude",
+      "reason": "즐거운 얼굴을 하자는 가정은 다음 고통의 반박과 이어져 지금 즐기라는 권고로 떼어 쓰기 어렵다.",
+      "contextNote": "억지로 웃어도 고통은 남는다는 대조 서두.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:9:28",
+      "textSha256": "a3feb838adf146406af7d4cd8b67538623903b2ce98a4ccb2209ca46330265fc",
+      "status": "exclude",
+      "reason": "무죄하게 안 보실 것이란 욥의 두려움을 현재 친구가 나를 부정적으로 본다는 사실로 읽을 수 없다.",
+      "contextNote": "욥이 즐거운 체해도 정죄가 두렵다 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:9:29",
+      "textSha256": "629f6c54466f60df6988cda3d1d60ed03a68ec2c233da6d70632a82148187cf2",
+      "status": "exclude",
+      "reason": "정죄가 정해졌다면 수고가 헛되다는 호소는 현재 노력 결과가 이미 나쁘다는 판단 근거가 아니다.",
+      "contextNote": "불공정 심판에 대한 욥의 항의.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:9:30",
+      "textSha256": "f9b608914ab39c34ecb8159301b688ade63a2f9b24b0f63c6f6f08ee2af673ae",
+      "status": "exclude",
+      "reason": "눈물과 잿물로 씻어도라는 미완결 비유는 뒤의 더럽혀짐과 연결돼 일상 정리 선택과 다르다.",
+      "contextNote": "자기 정화 노력의 무용함 비유 서두.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:9:31",
+      "textSha256": "9838255c2bbf7bc098449f873169a64a620f09e86bac291c48df06f71419d3ba",
+      "status": "exclude",
+      "reason": "개천에 빠지고 옷도 자신을 싫어하리라는 비유는 현재 실수 뒤 회복 전망을 알려주지 않는다.",
+      "contextNote": "깨끗이 해도 정죄될 거라는 탄식.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:9:32",
+      "textSha256": "cafcdb33439a68c5905f2a6ab85d3a80df0349c496c4652e6f32d05dcf00b69f",
+      "status": "exclude",
+      "reason": "하나님은 사람이 아니라 대질 못한다는 진술은 실제 사람인 친구에게 말할지의 고민과 핵심 조건이 다르다.",
+      "contextNote": "욥이 하나님과 대등한 재판이 불가함을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:9:33",
+      "textSha256": "0685f73657658197fd412d2e55f1085806bfe90ddd7a2e6026d431a5c138e518",
+      "status": "exclude",
+      "reason": "양척과 판결자의 옛말에 더해 조정자 부재만 호소하여 도움을 구할 구체 방향을 읽기 어렵다.",
+      "contextNote": "두 당사자 사이 중재자가 없음을 탄식한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:9:34",
+      "textSha256": "ac5d953f5e54e5728879963bad3cf53addd13c4eeabf287d8f3c0853ad7d3cfd",
+      "status": "hold",
+      "reason": "두려움 없이 이야기할 환경을 바라는 실마리는 보이나 징계 막대기를 거두어 달라는 신적 재판의 호소다.",
+      "contextNote": "욥이 위협이 멎어야 말할 수 있다고 청한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H026",
+          "clue": "겁을 주는 환경을 멈추고 말할 수 있게 해 달라는 필요 표현.",
+          "friction": "징계 막대기와 신적 재판을 친구와 같은 강제 상황으로 대입할 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:9:35",
+      "textSha256": "0f9eb1bdb132ce54c71ca5fcbb5658c30af96982ce8dba81898dee4f556fb7b9",
+      "status": "hold",
+      "reason": "겁내지 않고 말하고 싶은 마음은 보이나 그리하시면과 본래 그런 자의 의미가 앞에 의존한다.",
+      "contextNote": "위협이 없으면 변론하겠다는 욥의 결론.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "B011",
+          "clue": "두려움이 줄면 마음을 말하고 싶은 욕구.",
+          "friction": "그리하시면의 앞 요청과 본래 그런 자의 의미가 설명을 요구한다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:10:1",
+      "textSha256": "a40a1931b6e9c1f5163e886effad4e3d41d8b29eee51800399df001c5a06e34e",
+      "status": "candidate",
+      "reason": "괴로운 마음을 계속 묻어두지 않고 원통함을 말하겠다는 선택이 서운함을 표현할지의 부담을 건드린다.",
+      "contextNote": "욥이 삶의 피로 속 자신의 항의를 말하기로 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H026",
+          "clue": "괴로운 마음을 감추고 견디기만 하지 않고 말하겠다는 선택.",
+          "friction": "삶에 지친 욥이 하나님께 하는 원통의 말이며 친구에게 감정대로 쏟으라는 명령도 상대 수락의 예고도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:10:2",
+      "textSha256": "c43704607ee0e0f752316dcf81550e0b96e56d866ae4a4e5ebc350eda24d79ae",
+      "status": "hold",
+      "reason": "이유 모른 채 정죄받지 말고 까닭을 알려 달라는 요청은 확인에 통하지만 하나님과의 쟁변이며 현재 친구 무고함은 미확인이다.",
+      "contextNote": "욥이 정죄의 원인을 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "먼저 정죄하지 말고 무슨 이유인지 알려 달라는 요청.",
+          "friction": "하나님과의 쟁변이고 욥의 무고함처럼 현재 친구 소문이 틀렸다고 확정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:10:3",
+      "textSha256": "18ff30d4f582d23d8b2408959799389695cdd8b93b28db3035e8777bd4d08f7f",
+      "status": "exclude",
+      "reason": "지은 존재를 학대하고 악인을 돕는 것이 좋으냐는 신적 공의 항의는 현재 사람의 숨은 뜻을 판정하지 않는다.",
+      "contextNote": "욥이 창조주 행동의 부당함을 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:10:4",
+      "textSha256": "0b9921c2175d81e6b6e9683cde0ed01b95ba18fa24e77e26144430e927b64b64",
+      "status": "exclude",
+      "reason": "하나님이 육신 눈처럼 보느냐는 질문은 시야 차이의 신학적 항의로 현재 소문 확인의 방법은 없다.",
+      "contextNote": "하나님과 사람의 보는 방식을 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:10:5",
+      "textSha256": "3a51b2f055830c35042f5f0d200f7ac0a1a782079fa839182792964425f32d0b",
+      "status": "exclude",
+      "reason": "하나님과 사람의 해·날 비교가 다음 죄 조사 항의에 이어져 오늘 기한을 연기할 근거가 아니다.",
+      "contextNote": "하나님 시간과 인간 수명의 차이 질문.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:10:6",
+      "textSha256": "91265a51b58891fcacb61ea42405e94d2e662247af0299dd6852ab636b672505",
+      "status": "exclude",
+      "reason": "왜 죄를 조사하냐는 짧은 질문은 앞의 시간 비교에 의존하고 실제 지적을 수용할 선택과 거리가 있다.",
+      "contextNote": "하나님의 집요한 죄 추궁을 항의한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:10:7",
+      "textSha256": "5e3fa6a4426ec6406918032f1b24798c5cc9dfdeca3ed1f68fd149732a73b7e0",
+      "status": "exclude",
+      "reason": "죄 없음을 알면서도 벗어날 수 없다는 말은 지금 내 실수가 없단 확인이나 도움 불가능의 정보가 아니다.",
+      "contextNote": "욥이 무고함과 구출 불가를 호소한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:10:8",
+      "textSha256": "9da422ca0dfeaf5546e4d1ad407f827a9c853b24fd26e6e1617fb873c030cfde",
+      "status": "exclude",
+      "reason": "만드신 몸을 멸한다는 창조·죽음의 역설은 현재 몸을 돌볼 방식의 선택을 직접 주지 않는다.",
+      "contextNote": "욥이 자신의 창조와 파괴를 대조한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:10:9",
+      "textSha256": "a4780cab307952a1afbbb0beff868607c104044420f64b3f194625ff7d99c1ba",
+      "status": "hold",
+      "reason": "흙으로 지은 연약한 몸을 기억하라는 호소는 한계에 통하나 다시 티끌로 돌리냐는 죽음 항의가 포함된다.",
+      "contextNote": "욥이 몸의 연약함과 창조를 호소한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G13",
+          "clue": "흙 같은 몸의 연약함을 기억한다.",
+          "friction": "다시 티끌로 보내냐는 죽음의 질문이 전체 절에 포함돼 수면의 실마리가 무겁다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:10:10",
+      "textSha256": "e26d48fb6fb865acaddabecc923ab9364f7620849a1b9d97f5b21d635d085f16",
+      "status": "exclude",
+      "reason": "젖이 엉기는 태생 비유는 생성 과정 해설이 필요하고 제시된 생활 고민과 연결될 선택 내용이 없다.",
+      "contextNote": "욥이 태중 형성을 비유한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:10:11",
+      "textSha256": "e1436bbd8a12a0efc646f58f9b6ae25467e692d98e3485ba150d6029a9283139",
+      "status": "exclude",
+      "reason": "가죽·살·뼈·힘줄을 만든 미완결 창조 서술은 몸 소중함의 주제는 있지만 지금 쉬어야 할 실마리는 약하다.",
+      "contextNote": "몸 형성에 대한 회고.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:10:12",
+      "textSha256": "a60da2662c8aeb6950cb700bae0e438bb312b1868249f35277df1e7430883bba",
+      "status": "hold",
+      "reason": "생명과 은혜를 주고 영을 지킨 돌봄에 감사하는 마음은 회복에 통하지만 구체 치료·휴식 선택을 말하지 않는다.",
+      "contextNote": "창조와 생명의 돌봄을 욥이 회고한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H055",
+          "clue": "내 생명과 영을 보살피는 돌봄을 알아본다.",
+          "friction": "현재 치료·쉼을 택할 구체 실마리보다 과거 생명의 은혜 고백이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:10:13",
+      "textSha256": "74740a9448084d142ee45aee6bc33b4ff3f6b8f9589f0a53114a3c1768ed08dc",
+      "status": "exclude",
+      "reason": "이것들과 이 뜻의 지시 대상이 불명확한 추궁이라 현재 하나님의 뜻을 안다는 선택 신호로 읽을 수 없다.",
+      "contextNote": "과거 돌봄 뒤 현재 고통의 숨은 뜻을 의심한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:10:14",
+      "textSha256": "9b4a016ca1752f202169df4411b8e5e1cf30c83ca2b888e32054d37d6860a203",
+      "status": "exclude",
+      "reason": "죄를 사하지 않는다는 욥의 절망은 하나님 일반의 무용서를 확정한 가르침이 아니어서 사과를 포기할 근거가 아니다.",
+      "contextNote": "하나님께 용서받지 못한다고 느끼는 욥의 말.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:10:15",
+      "textSha256": "d71d56d7f402f7bfae8dcb4904c733569e9b2da04efd48595cdcdae090396ea5",
+      "status": "exclude",
+      "reason": "의로워도 부끄러워 머리 못 든다는 무력감은 사과를 패배로만 보는 마음을 풀 구체 단서를 주지 않는다.",
+      "contextNote": "선악과 무관한 정죄의 고통을 호소한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:10:16",
+      "textSha256": "3d50a6754d13dbfd888a87c964b3b3076156b6e8a688996a48faf825f6b13393",
+      "status": "exclude",
+      "reason": "머리를 들면 사자처럼 사냥한다는 신적 공격 비유는 현재 자기 의견을 말할 위험을 예측하지 않는다.",
+      "contextNote": "욥이 자신감마저 꺾이는 고통을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:10:17",
+      "textSha256": "4dfca60cb93ca41eacb9a5449ba1fd17aae799d0df3e3037d563dc988c7b4f14",
+      "status": "exclude",
+      "reason": "갈마들어 치는 군대·증인의 고어 비유는 해설이 필요하고 현재 동료의 의도나 조사 사실을 알려주지 않는다.",
+      "contextNote": "욥이 연속 공격받는 듯한 심문을 호소한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:10:18",
+      "textSha256": "a9c51333b2732a21629a94c72721e892c88d0274262888565e3df8a362e2260f",
+      "status": "exclude",
+      "reason": "태어나지 않고 죽었길 바라는 탄식은 새 일에 나서지 말라는 현재 선택으로 옮길 수 없다.",
+      "contextNote": "욥이 다시 출생을 탄식한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:10:19",
+      "textSha256": "99d873667b24ad93132e25f3cbbfc8bc357bdd3b0c46c3438d21966a69165cb6",
+      "status": "exclude",
+      "reason": "태에서 무덤으로 갔을 것이라는 소원은 지금 잠깐 쉬는 일과 같은 뜻이 아니다.",
+      "contextNote": "태어나자마자 죽었길 바라는 욥의 말.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:10:20",
+      "textSha256": "794895bed72a32236ca97d2e607e0e087eff46707b0696af097d9f65dd1de10c",
+      "status": "hold",
+      "reason": "잠시 놓아주고 평안하게 해 달라는 한계 표현은 보이나 적은 날과 죽음 전의 평온을 청하는 큰 맥락이다.",
+      "contextNote": "임박한 죽음 전 잠시 고통 멎기를 청한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H044",
+          "clue": "잠시라도 평안을 얻도록 놓아 달라는 한계 표현.",
+          "friction": "삶이 얼마 안 남았다는 죽음 전 청원이라 일상 업무 요청과 무게가 다르다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:10:21",
+      "textSha256": "ec940fa8091ff7c771891ce0d6e5133e5ffc3730831f5d8f8ce46f283d2ca4b3",
+      "status": "exclude",
+      "reason": "돌아오지 못할 죽음의 땅 전이라는 요청은 앞 절 의존이고 일상 여행이나 일시 휴식과 다르다.",
+      "contextNote": "죽음 전의 평온 요청 계속.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:10:22",
+      "textSha256": "89880c1eff74910d9f30a26bcf7c126795a11636f8cf9c0ae9143bf94d1d9b8b",
+      "status": "exclude",
+      "reason": "죽음의 땅의 어둠과 무질서는 지금 선택의 두려움보다 사후의 암흑 묘사다.",
+      "contextNote": "음부의 어두움을 말하며 욥의 호소를 마친다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:11:1",
+      "textSha256": "fb60f0eedbb523cbdd16da921342cbdbd7d2d21b973aed3cb54b6a44d8a535dc",
+      "status": "exclude",
+      "reason": "소발이 답한다는 인물 소개만 있어 독립된 선택 내용이 없다.",
+      "contextNote": "세번째 친구의 첫 답변 시작.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:11:2",
+      "textSha256": "b8602054526f2f08e14fdda22189d360d3c7f035a80f8c16401724053daf494c",
+      "status": "exclude",
+      "reason": "말 많은 욥을 입 부푼 사람이라 공격한 말은 과장 보고를 고치라는 구체 조언이 아니라 인신 책망이다.",
+      "contextNote": "소발이 욥의 긴 변론을 비난한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:11:3",
+      "textSha256": "3b0f28b436cba50ee6a8571577acfe0d0d4531763d7493ecee2ee319191d03d9",
+      "status": "exclude",
+      "reason": "상대를 부끄럽게 하겠다는 반문은 서운함을 부드럽게 말하는 태도와 다르고 실제 자랑 여부도 추정이다.",
+      "contextNote": "소발이 욥의 말을 교만한 비웃음으로 몰아간다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:11:4",
+      "textSha256": "b0f76e0a21cbcdf9d69a6e32623b1c84892f538e4acf4ca3b0ff9b152793cef8",
+      "status": "exclude",
+      "reason": "네가 깨끗하다고 말한다는 인용만 있어 그 주장이 실제 맞는지나 지금 행동의 기준은 없다.",
+      "contextNote": "소발이 욥의 무고 주장을 요약한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:11:5",
+      "textSha256": "9a057241d80051bb083cb1045d3e2be6d099e561199ef1442fc02ef51d14091a",
+      "status": "exclude",
+      "reason": "하나님이 입을 여시길 바라는 미완결만 있어 어떤 지혜·행동을 기대할지 내용이 없다.",
+      "contextNote": "소발이 신적 책망을 요청하는 서두.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:11:6",
+      "textSha256": "2397a54fb6c08f7455c20ab8e8fd4f5cc5261b8b1706cc0f7af33d82abebda1a",
+      "status": "exclude",
+      "reason": "지혜가 크다는 앞말 뒤 네 죄보다 벌이 가볍다는 근거 없는 단정이 있어 지혜 칭찬만 떼어 쓰기 어렵다.",
+      "contextNote": "소발이 욥에게 더 큰 죄가 있다고 주장한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:11:7",
+      "textSha256": "816a9b2f3e4ca6a930b093eeb36b93e5b922f0c9f3743560713561ec50cbc31b",
+      "status": "hold",
+      "reason": "모든 것을 온전히 알아야만 한다는 부담을 낮출 여지는 있지만 하나님의 오묘 측량 불가가 구체 결정 방향은 아니다.",
+      "contextNote": "소발이 하나님의 무한한 지식을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H061",
+          "clue": "완벽한 이해를 내 힘만으로 다 얻을 수 있다는 기대를 낮춘다.",
+          "friction": "하나님의 지식 불가측을 말하며 지금 하나를 고를지 기다릴지는 직접 다루지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:11:8",
+      "textSha256": "7507915bc6b26e0272f9581c1b62d0b90643981a57522bb991562038e3d161d2",
+      "status": "exclude",
+      "reason": "하늘과 음부의 높이·깊이로 무지를 강조한 질문은 현재 어느 정보를 더 알아볼지 기준을 주지 않는다.",
+      "contextNote": "하나님의 지혜를 공간으로 비유한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:11:9",
+      "textSha256": "4ab92fa6993cabb1fc74cbe1ea92665e3d70b756d971a55cc37101a9355d1275",
+      "status": "exclude",
+      "reason": "땅과 바다보다 크다는 도량의 주체는 앞의 신적 지혜여서 현재 양쪽 선택의 실마리는 약하다.",
+      "contextNote": "지혜의 넓이 비유 계속.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:11:10",
+      "textSha256": "a434053c4286d71ab091bc282d156f86d3a3c2f315cbae3ccb5a3a9615be2d77",
+      "status": "exclude",
+      "reason": "가두고 재판을 열면 못 막는 신적 권세는 대화나 도움 요청의 인간 관계와 직접 통하지 않는다.",
+      "contextNote": "소발이 하나님의 사법 권세를 강조한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:11:11",
+      "textSha256": "a7169b85641457a50fbfa4c550f801439b80095dec6f9b6a11872e469d566528",
+      "status": "candidate",
+      "reason": "남이 안 보는 듯해도 악한 일을 다 본다는 진술에서 묻지 않은 결함을 감출지 솔직히 밝힐지 기준을 읽는다.",
+      "contextNote": "소발이 하나님이 숨은 악을 보신다고 주장한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H022",
+          "clue": "구매자가 모르거나 묻지 않아도 실제로 있는 잘못을 안 보이는 것으로 취급하지 않을 기준.",
+          "friction": "소발의 하나님 전지 주장이고 숨은 악과 물리적 결함 자체는 다르다. 결함 가진 판매자가 악인이라는 판정이나 처벌 예고를 하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:11:12",
+      "textSha256": "18a5d5d186d02e13ab76b245d6a6895927e4e6124c9cfe84ff0a681a07e4c5cc",
+      "status": "exclude",
+      "reason": "사람을 지각 없는 들나귀 새끼로 부르는 비하를 처음 일하는 사람의 용기나 조언 수용에 쓰기 어렵다.",
+      "contextNote": "소발이 인간의 무지를 비난한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:11:13",
+      "textSha256": "00dcf6a98aebfb976ead1c00278d4316b030e77ab7025d710f92de946ea96b4e",
+      "status": "exclude",
+      "reason": "마음을 정하고 손 든다는 조건절만 있어 무엇을 버리고 어떤 선택을 하라는지는 다음에 있다.",
+      "contextNote": "회개 촉구의 조건 서두.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:11:14",
+      "textSha256": "4720a119f1c6f80f230b42df254f58b1e40a7ebdb28298af6ae1c59574dd5dfe",
+      "status": "candidate",
+      "reason": "내 손에 잘못이 있으면 멀리 버리고 안에 머물게 하지 말라는 구체 표현에서 보고의 과장을 계속 둘지 돌아볼 실마리를 읽는다.",
+      "contextNote": "소발이 욥의 죄를 전제하며 제거를 촉구한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "손안에 있는 잘못된 요소를 알아차렸다면 계속 두지 말고 치우는 태도.",
+          "friction": "소발이 무고한 욥의 죄를 추정한 문맥이다. 현재 보고에서 실제 과장하려는 선택에만 연결하며 어려움이 죄의 증거라고 말하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:11:15",
+      "textSha256": "12f13b757f72fff8573811f96cd946c6a1985cd4c9b180c3862708b716810556",
+      "status": "exclude",
+      "reason": "흠없이 두려움 없어질 거라는 결과는 앞의 죄 제거 조건에 의존해 현재 작품 완벽함·평판 회복으로 읽기 어렵다.",
+      "contextNote": "회개 뒤 부끄러움과 공포가 없을 것을 확언한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:11:16",
+      "textSha256": "1671a804e8ddb68b66e201321f391633f70ad14591f1a9e6db93d0662dc2d390",
+      "status": "candidate",
+      "reason": "지나간 일을 물처럼 흘러가게 기억하는 비유가 친구의 작은 실수를 자꾸 다시 붙드는 부담을 건드린다.",
+      "contextNote": "소발이 회개 뒤 환난 기억이 흐려질 것이라 약속한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H028",
+          "clue": "기억은 남아도 그 일을 물 흐르듯 계속 흘러가게 볼 수 있다는 비유.",
+          "friction": "소발이 회개 뒤 환난 망각을 약속한 말이며 실제 기억이 없어질 거라는 예고가 아니다. 반복된 침해를 또 무시하라고 확대하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:11:17",
+      "textSha256": "7836a9dac8016c91f7981745acf8ed5461fd6eb8351a094df1813ae25c1a6341",
+      "status": "hold",
+      "reason": "지금 어둠만이 전부는 아니라는 미래 희망은 보이나 구체 현재 선택보다 밝아질 날의 확언이다.",
+      "contextNote": "소발이 회복될 날을 아침에 비유한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H060",
+          "clue": "현재 어둡다고 미래도 전부 어둡다고 단정하지 않을 희망.",
+          "friction": "밝아질 결과의 확언이며 놓친 기회가 돌아온다는 사실은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:11:18",
+      "textSha256": "7e51243e9e19e64466e93d4e54dcbef8b7eb540d7c0155082c197dc728ddef9b",
+      "status": "candidate",
+      "reason": "소망을 붙들면서 두루 살펴보고 쉬는 행동에서 회복을 위해 잠시 놓고 휴식할 실마리를 읽는다.",
+      "contextNote": "소발이 미래의 안정과 평안한 휴식을 약속한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H055",
+          "clue": "소망을 지키며 필요한 것을 살피고 쉬는 행동.",
+          "friction": "소발의 회개 뒤 평안 약속이며 현재 안전이나 회복 결과의 의학적 확인을 대신하지 않는다. 이미 쉬라는 설명을 들은 고민과 대조했다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:11:19",
+      "textSha256": "cf7b7f17529a8d14ce4916523f0ba4d47de028f0650fbe2cd4b9c124dd5d4bc4",
+      "status": "hold",
+      "reason": "누워 쉬는 평안은 보이나 많은 사람이 첨을 드린다는 호감·아첨의 뒷문장과 보응 약속이 건강 휴식 연결을 흔든다.",
+      "contextNote": "소발이 안전과 사회적 대우 회복을 확언한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H055",
+          "clue": "두려움 없이 눕는 평안을 바라는 마음.",
+          "friction": "많은 이의 아첨을 받는다는 뒷말과 첨의 고어가 휴식 연결을 가린다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:11:20",
+      "textSha256": "fcdea6f93def6b070484f8d72a85a4d4e4e58357e2524f10c8bb2daadc4a81b7",
+      "status": "exclude",
+      "reason": "악인의 마지막 희망이 죽음이라는 심판은 현재 정직함이나 실패를 평가할 자료가 아니다.",
+      "contextNote": "소발이 악인 몰락으로 첫 답변을 끝낸다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:12:1",
+      "textSha256": "6e432eb41091f2b4077fe347703fb37615a4e3a45f9b3ead4a29e1a2b2065a30",
+      "status": "exclude",
+      "reason": "욥이 답한다는 도입만 있어 선택의 독립 내용은 없다.",
+      "contextNote": "욥의 세 친구에 대한 반박 시작.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:12:2",
+      "textSha256": "f395042f6dd942989f181e223bd73bf01b1bd7a7f9dad8a5a05523953bbe6fdc",
+      "status": "hold",
+      "reason": "너희만 지혜롭냐는 반어에서 다수의 확신을 절대화하지 않을 생각은 있으나 비꼼을 그대로 읽으면 뜻이 반대다.",
+      "contextNote": "욥이 친구들의 독점적 지혜를 비꼰다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H064",
+          "clue": "한 무리만 모든 지혜를 가진 것처럼 말하는 태도를 돌아본다.",
+          "friction": "반어를 알아야 하고 현재 다른 의견 전체가 그릇됐다고 단정할 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:12:3",
+      "textSha256": "d9ba651fb942344a1f882da3615adb0f81defe897e2cfb4438dc50e06dd215f2",
+      "status": "hold",
+      "reason": "나도 총명이 있다는 자기 존중은 비교 두려움에 통하지만 친구를 반박하는 말이고 현재 내 역량이 동등한지는 알 수 없다.",
+      "contextNote": "욥이 친구에게 자기 분별도 동등함을 주장한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "다른 사람 앞에서 자기 생각의 가치까지 지우지 않는 태도.",
+          "friction": "친구를 향한 반박과 그같은 일의 지시어가 있고 실제 내 역량을 인증하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:12:4",
+      "textSha256": "4545603b5f93f5567ddfcf1d223c91689e374edb52c73cdefe3951e735dbaa2a",
+      "status": "exclude",
+      "reason": "정직한데도 조롱받는 고통은 현재 소외가 사실임을 확인하거나 그 모임을 떠날 기준을 주지 않는다.",
+      "contextNote": "욥이 무고한 사람도 조롱받는 현실을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:12:5",
+      "textSha256": "c6dc406443a41e211462a0c35c7914f8eea7c38d71fa1553e8dc184cb45ebf02",
+      "status": "hold",
+      "reason": "편안한 사람이 남의 재난을 가볍게 보는 태도는 공감에 통하지만 실족에 재앙이 기다린다는 뒷말은 해설 부담이다.",
+      "contextNote": "고통 밖에 있는 이들의 무정함을 욥이 비판한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "내가 평안하다고 남의 고통을 작게 보지 않는 마음.",
+          "friction": "실족과 재앙의 뒷문장이 해설을 요구하며 현재 친구의 원인을 확정할 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:12:6",
+      "textSha256": "26d9c6fc4229448ddb7dd1e86781e5ca373f95418041537a925408c1c3bba46c",
+      "status": "exclude",
+      "reason": "강도가 형통하는 현실은 단순 보응의 반례지만 현재 과장·부정행위가 유리할 거라는 선택 근거는 아니다.",
+      "contextNote": "욥이 악인도 잘사는 현실을 제시한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:12:7",
+      "textSha256": "c28f24b8c158c0b6461af22d82989a8e754c34252320551758293a714b0e8ed0",
+      "status": "hold",
+      "reason": "자기 안에만 답을 찾지 말고 다른 곳에서 배우라는 실마리는 있으나 동물에게 묻는 창조 비유여서 선배 조언과는 거리가 있다.",
+      "contextNote": "욥이 자연도 아는 하나님의 권능을 말하기 시작한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "나 혼자 말고 다른 곳의 배움에도 귀 기울이는 생각.",
+          "friction": "동물의 창조 증언 비유로 선배의 실무 조언과 거리가 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:12:8",
+      "textSha256": "540e3833c370fc90812a77fe71d3784fc32e6becae93c6b4a70fe3942032306a",
+      "status": "exclude",
+      "reason": "땅과 물고기에게 말하라는 의인화는 어떤 내용을 배울지 앞뒤가 필요하고 현재 사람 조언의 방법은 아니다.",
+      "contextNote": "자연의 증언 비유 계속.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:12:9",
+      "textSha256": "94774c4e3287595c2310ad8658e82ce8360bc71e9a94b852d720c05cc7677c34",
+      "status": "exclude",
+      "reason": "이것들이 하나님의 손을 안다는 질문은 지시 대상이 앞의 자연이며 개인 선택의 구체 실마리는 없다.",
+      "contextNote": "창조물도 아는 하나님의 주권을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:12:10",
+      "textSha256": "fd8a626f9a9bb74fd408a1b126ae36b6788e23d83d45949c4bf3959a29f80e4c",
+      "status": "hold",
+      "reason": "생명과 영을 혼자 통제하는 것이 아니라는 신뢰는 보이나 현재 선택 행동보다 주권 고백이 중심이다.",
+      "contextNote": "모든 생명이 하나님의 손에 있음을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H061",
+          "clue": "내가 생명의 모든 조건을 통제해야만 하는 것은 아니라는 신뢰.",
+          "friction": "주권의 고백이며 두 선택 중 하나를 고를 구체 실마리는 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:12:11",
+      "textSha256": "70a8b8779860d70ed56c0cc341f258f1ec21cf3ffae6b8f96901435ae1787aa1",
+      "status": "candidate",
+      "reason": "맛을 구분하듯 들은 말도 분별하라는 비유에서 추천을 그냥 믿기보다 내게 맞는지 따져 볼 실마리를 읽는다.",
+      "contextNote": "욥이 친구의 말도 귀로 분별해야 한다고 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H003",
+          "clue": "맛을 구분하듯 남의 말을 듣고도 내 판단으로 분별하는 모습.",
+          "friction": "맛과 귀의 비유이며 조사하지 않고 기기가 불필요하다고 확정하거나 추천자가 거짓말이라 단정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:12:12",
+      "textSha256": "5a77ad88523dc1b82aa42d8e40ed49ea4405322616bab2b3fe0a1d9d54201c4d",
+      "status": "candidate",
+      "reason": "오래 살아 얻은 지혜와 명철을 인정하는 말이 선배에게 배우려는 마음을 수치로만 보지 않을 실마리가 된다.",
+      "contextNote": "욥이 연륜의 지혜를 말한 뒤 더 큰 하나님의 지혜를 논한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "시간을 거치며 얻은 지혜와 명철을 가진 사람에게 배울 여지를 본다.",
+          "friction": "이후 노인 지식도 유한함을 말하며 모든 선배 조언의 정답이나 수락을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:12:13",
+      "textSha256": "ee326947ce561f7da28dd4b9c49578208e21a8dc4f7febedfbd1adad5dab38d2",
+      "status": "hold",
+      "reason": "계획과 판단이 내 것만은 아니라는 겸손은 보이나 하나님께 지혜가 있다는 원론이 구체 두 길 선택을 직접 건드리지 않는다.",
+      "contextNote": "하나님의 지혜와 권능에 관한 욥의 말.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H061",
+          "clue": "내 판단이 전부여야 한다는 부담을 내려놓을 신앙적 여지.",
+          "friction": "지혜와 권능의 고백이며 현재 선택 방향은 직접 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:12:14",
+      "textSha256": "01c0fba68aa78ba0ddb31c9bf7286a6ea118fbe113ebfbd91f57424a397658d7",
+      "status": "exclude",
+      "reason": "헐거나 가두시면 되돌릴 수 없다는 권세 진술은 현재 다시 시작할 기회가 없다는 정보가 아니다.",
+      "contextNote": "인간이 되돌릴 수 없는 신적 행위 묘사.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:12:15",
+      "textSha256": "45caa0965aa4d15cbcdc7057fff76ac17dd17f2d99d3c9980e747822695339c9",
+      "status": "exclude",
+      "reason": "물 막힘과 넘침의 재난 묘사는 실제로 지금 막을 수단이나 선택 조건을 주지 않는다.",
+      "contextNote": "하나님의 물과 땅에 대한 권세.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:12:16",
+      "textSha256": "0cbf32f50e1911562ae7734c0bfcdd2427bebbbd807d2992b044452a89819431",
+      "status": "exclude",
+      "reason": "속는 이와 속이는 이 모두 하나님께 속했다는 미완결은 섭리 논의이며 지금 상대가 속이는지 알려주지 않는다.",
+      "contextNote": "하나님의 능력과 양쪽 당사자 지배를 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:12:17",
+      "textSha256": "0b3bc6c6f1499e6048e78ccb8072dcea31322269f54025c4155ce1e02929d705",
+      "status": "exclude",
+      "reason": "모사와 재판관의 수치·무지를 말하는 권력 반전은 지금 선배의 조언 정확도를 판정할 자료가 아니다.",
+      "contextNote": "하나님이 인간 지도층을 낮추심을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:12:18",
+      "textSha256": "44d6c50edc9630be4a313e0e4f36b79b58382cd4eb61dd43eecb6dfb5d8677c1",
+      "status": "exclude",
+      "reason": "왕의 묶음을 풀고 허리를 동이는 권세 묘사는 이미 한 거래 약속을 풀어도 된다는 의미가 아니다.",
+      "contextNote": "왕의 지위와 구속을 바꾸시는 하나님 묘사.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:12:19",
+      "textSha256": "2aaf6dc38ed0e7f7a1630e9f2fb2e6cd6e9cdb0a9106ee8e1d74b28fec642e15",
+      "status": "exclude",
+      "reason": "제사장과 권력자의 몰락은 사회 지위가 절대 아님을 보여도 현재 개인 선택의 구체 실마리는 약하다.",
+      "contextNote": "종교·정치 권력자의 역전 묘사.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:12:20",
+      "textSha256": "51c89aca2eed3fe255c6cc384951a2850a83f4528553645041bfb8f25a68e931",
+      "status": "hold",
+      "reason": "나이가 지식을 절대 보장하는 것은 아니라는 경계는 보이나 하나님이 말을 끊고 지식을 빼앗는 주권의 맥락이다.",
+      "contextNote": "충성된 이와 노인의 권위도 하나님 앞에 유한함을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "연륜이 있어도 지식이 절대적이지 않음을 함께 생각한다.",
+          "friction": "지식을 거두시는 신적 주권의 말이고 현재 선배가 틀렸단 정보는 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:12:21",
+      "textSha256": "c9fc005fdfb4ba886d0faed27a3c770ca4aad9ebce4d8d883beba66e40cb86af",
+      "status": "exclude",
+      "reason": "방백의 수치와 강자의 띠가 풀리는 미완결 권력 묘사로 현재 역할을 맡을지의 선택 기준은 없다.",
+      "contextNote": "지도층을 낮추시는 권능 열거 계속.",
+      "readability": "thinkable",
+      "connections": []
+    }
+  ]
+}

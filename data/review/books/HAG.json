@@ -1,0 +1,491 @@
+{
+  "bookCode": "HAG",
+  "corpusSha256": "f8d5c8b377e243b05fb884b4a6965d2c06a95de74b64a716ee4b95989d61e971",
+  "criteriaVersion": "garasadae-corpus-2026-10-08-v1",
+  "reviewer": "Codex review_ezk_rev",
+  "method": "direct-codex-reading",
+  "entries": [
+    {
+      "id": "KRV:HAG:1:1",
+      "textSha256": "f351749c1bfc54d06802a90b1d639dcf24e53d3fb8b0f438c95a18a4f4fa8cf9",
+      "status": "exclude",
+      "reason": "왕의 연도와 두 지도자의 계보는 말씀 배경이며 생활 선택의 내용은 없다.",
+      "contextNote": "성전 재건에 관한 첫 말씀의 때와 수신자다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAG:1:2",
+      "textSha256": "18f99cd69260404ef70c83d24d4d765dfa3516f89ad7caf77c9c6a0a97e9b667",
+      "status": "hold",
+      "reason": "아직 때가 아니라는 백성의 말은 미룸을 점검하게 하지만 그 말의 타당함은 뒤의 황폐한 성전 대비가 있어야 읽힌다.",
+      "contextNote": "재건을 미루는 백성의 주장을 인용한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H053",
+          "clue": "진짜 시기 문제인지 지루한 일을 미루는 말인지 돌아볼 수 있다.",
+          "friction": "이 절은 백성의 인용만 있고 뒤의 응답이 필요하다. 모든 기다림이 핑계라고 정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAG:1:3",
+      "textSha256": "6862690bdcd916e59da8f06567cb0bcfd4fc043266b1dfa86b92e96d3d013a2f",
+      "status": "exclude",
+      "reason": "말씀이 임해 이르셨다는 연결문에는 판단할 내용이 없다.",
+      "contextNote": "뒤의 질문을 소개한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAG:1:4",
+      "textSha256": "48375cb924f4c4d8fd8b2722482522c5497d688850d2f84386d099d8eecbb59e",
+      "status": "candidate",
+      "reason": "공동의 전은 황폐한데 자기 집만 꾸민다는 대비는 내 사용이 끝난 공용 공간을 방치할지의 부담을 비춘다.",
+      "contextNote": "성전은 버려 둔 채 자기 거처에만 힘쓰는 백성을 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C004",
+          "clue": "내가 머문 곳의 편함만 챙기면서 함께 쓰는 자리는 황폐하게 남기는지 돌아볼 수 있다.",
+          "friction": "원뜻은 예루살렘 성전의 재건이다. 공용 작업실을 같은 성전으로 높이거나 모든 개인 꾸밈을 금하지 않고 사적 편의와 공동 몫의 대비로 읽는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAG:1:5",
+      "textSha256": "7692499eee70e79382344b4ca07d61e9ebc72aa5568f21908b8b15468b8ea795",
+      "status": "candidate",
+      "reason": "자기의 행한 바를 살피라는 요청은 이유 모를 불편을 더 활동으로 덮기 전 멈춰 돌아볼 실마리가 된다.",
+      "contextNote": "생활의 결핍을 보며 자신의 우선순위를 살피게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H063",
+          "clue": "불편을 없앨 새 활동을 찾기 전에 지금 내가 하고 있는 일을 살펴보는 방향을 읽을 수 있다.",
+          "friction": "소위는 행한 바라는 옛말이고 원문은 성전 방치의 책임을 묻는다. 불편의 원인이 죄라고 단정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAG:1:6",
+      "textSha256": "9ec47d443766538290e83626a8b2d6a3e4858c48c7bf733c937e2d8718ad3d37",
+      "status": "candidate",
+      "reason": "받은 삯을 구멍 난 주머니에 넣는 그림은 수입만 늘려도 사라지는 돈의 흐름을 직접 비춘다.",
+      "contextNote": "성전을 방치한 백성의 수고가 만족과 보존으로 이어지지 않음을 지적한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C013",
+          "clue": "더 많이 얻는 일만 반복하기보다 구멍 난 주머니처럼 새는 지출이 있는지 확인할 실마리가 생긴다.",
+          "friction": "원문의 수확과 의식주 결핍은 공동체의 신앙적 책망이다. 개인 지출 누수가 하나님의 벌이거나 모든 부족이 낭비 탓이라고 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAG:1:7",
+      "textSha256": "04502fcd6a75cc9481d9d0ae855aeb9ae2aace207b2f345f5ff999238b587a1a",
+      "status": "candidate",
+      "reason": "행한 바를 살피라는 짧은 요청이 수입을 더 늘리는 일보다 실제 지출 흐름을 돌아보는 선택을 비춘다.",
+      "contextNote": "앞의 구멍 난 전대와 부족을 짚은 뒤 살핌을 반복한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C013",
+          "clue": "다시 더 벌겠다는 말만 하기보다 내가 실제로 한 결제들을 살펴볼 방향을 읽을 수 있다.",
+          "friction": "성전 방치를 돌이키라는 맥락이며 지출 항목을 직접 알려 주거나 소득 부족의 원인을 확정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAG:1:8",
+      "textSha256": "35857ba52b9e9fe5e9bf55247d601d92e097b1cae6b01f19949c69a74dd1dd46",
+      "status": "hold",
+      "reason": "산에서 나무를 가져와 짓는 단계는 시작을 구체화하지만 성전 재건이라는 고유한 일과 하나님의 기쁨이 중심이다.",
+      "contextNote": "백성에게 실제 건축을 시작할 행동을 요청한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H053",
+          "clue": "막연히 끝내야 한다는 마음보다 필요한 재료와 다음 작업으로 움직이는 모습을 생각할 수 있다.",
+          "friction": "사용자의 일이 성전 건축과 같은 신적 명령은 아니며 지금 끝내는 것과 새 일을 비교할 다른 조건은 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAG:1:9",
+      "textSha256": "c3988864ca1ec7dc7e8a1aa03f01b9cfbfe87cb6f3ffdfbf038ff7ecac938f8d",
+      "status": "hold",
+      "reason": "자기 집에는 빠르고 공동의 집에는 무심한 대비는 우선순위를 비추지만 수확을 불어버린 심판까지 일반 개인 지출과 같게 볼 수 없다.",
+      "contextNote": "생활 결핍의 이유를 성전 방치에서 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C004",
+          "clue": "내 일에는 신속하면서 함께 쓰는 공간의 뒷정리만 늦추는지 돌아볼 수 있다.",
+          "friction": "원문은 공동체의 수확 심판이다. 치우지 않으면 재물이 사라진다는 거래식 결과를 만들지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAG:1:10",
+      "textSha256": "aa39fcef4d71a7aee9e47c054ca195fb16479defc5a5d915027ca901578d6ce3",
+      "status": "exclude",
+      "reason": "너희 때문에 이슬과 산물이 그쳤다는 인과는 특정 언약 책망으로 현재 실제 부족을 개인 탓이라 확정할 수 없다.",
+      "contextNote": "백성의 잘못과 가뭄을 연결한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAG:1:11",
+      "textSha256": "19225a680b6e58f147ec87c49d39bd870767987d17305f4617c6e38aafa4d0d0",
+      "status": "exclude",
+      "reason": "사람과 가축 및 모든 수고에 가뭄이 온다는 심판은 생활 과로의 원인을 알려 주는 말이 아니다.",
+      "contextNote": "가뭄이 미친 전체 범위를 열거한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAG:1:12",
+      "textSha256": "b40debd971a29a71e93d13cd361e3c668cd1c4e2f0ce8339a7f74f09428f7d14",
+      "status": "hold",
+      "reason": "지도자와 백성이 듣는 모습은 지적 수용을 비추나 긴 계보와 파송의 신적 권위가 생활 팀의 조언과는 다르다.",
+      "contextNote": "학개의 말에 공동체가 반응한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "불편한 경고를 듣고 실제 반응을 바꾸는 장면을 볼 수 있다.",
+          "friction": "학개는 하나님이 보내신 선지자다. 인간의 모든 지적을 같은 권위로 확정할 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAG:1:13",
+      "textSha256": "9f4683957a091637bb720e062f644df87da8ef115e6ca3fc1ce9d4a82e9313d8",
+      "status": "hold",
+      "reason": "함께하신다는 응답은 새 일의 두려움에 위로가 있지만 이 절의 구체 일은 앞의 재건을 알아야 한다.",
+      "contextNote": "말씀을 들은 공동체에 하나님이 동행을 선언한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "새 역할을 오직 혼자 견뎌야 한다는 시선에 다른 의지의 여지를 읽을 수 있다.",
+          "friction": "성전 재건에 대한 동행의 약속이지 지원 결과와 특정 역할 선택의 보장이 아니다. 일반 격려의 비중이 크다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAG:1:14",
+      "textSha256": "6279c11512b507837d1d7a606cb7406ae843080e6ac6c97b6f47fda911f96c9e",
+      "status": "hold",
+      "reason": "여러 사람이 마음을 얻어 함께 일한 장면은 실행의 시작을 비추지만 긴 직함·계보와 신적 재건 사명이 독립 읽기를 어렵게 한다.",
+      "contextNote": "공동체가 실제 성전 공사를 시작한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H053",
+          "clue": "결심만 머물던 일에서 함께 손을 대는 시작을 떠올릴 수 있다.",
+          "friction": "문장 끝에 시점이 이어지는 구조이고 사용자의 마무리와 새 일의 부담은 직접 나오지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAG:1:15",
+      "textSha256": "d4dd85d2e9b648416c5a29b31a73f95b3c30ea4713791d1a5eb213c00fc89527",
+      "status": "exclude",
+      "reason": "공사를 시작한 연월일만 있어 개인의 선택 실마리는 없다.",
+      "contextNote": "앞의 행동이 시작된 날을 기록한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAG:2:1",
+      "textSha256": "b3bec2c965806f8fc7fab1ace792da96e2973667aee35cb48f9989232ecfba2f",
+      "status": "exclude",
+      "reason": "다음 말씀이 임한 날짜와 소개만 있고 실제 내용이 없다.",
+      "contextNote": "재건 중 낙심에 관한 말씀을 시작한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAG:2:2",
+      "textSha256": "e572bf599ad0cf8e8312f655df2da3361d26e96a2fab78e745f2ee4a493e6311",
+      "status": "exclude",
+      "reason": "두 지도자와 백성에게 고하라는 수신자 소개로 선택의 내용은 다음에 있다.",
+      "contextNote": "뒤의 격려를 들을 대상을 부른다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAG:2:3",
+      "textSha256": "e42712ba3e836547cb35cc7ea6608115d263d802f53febb2418224cac8c0872c",
+      "status": "hold",
+      "reason": "이전 영광과 비교해 지금을 보잘것없게 보는 시선은 작품의 불완전함을 비추지만 이 질문만으로는 작음이 어떤 의미인지 완결되지 않는다.",
+      "contextNote": "재건 성전이 초라해 보인 백성의 낙심을 묻는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H042",
+          "clue": "실제 작품보다 더 화려한 기준과 비교한 내 시선 때문에 끝없이 작게 보는지 생각할 수 있다.",
+          "friction": "이 절은 보잘것없어 보이지 않느냐는 질문이며 다음의 격려가 있어야 방향이 읽힌다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAG:2:4",
+      "textSha256": "5d1eae31d7d6aab6bdbd7afdc50d29982cf1ff9d0cae8f2ceda65bff5e559ece",
+      "status": "candidate",
+      "reason": "여러 직분과 온 백성이 굳세게 일하라는 격려는 비교와 낙심 때문에 하던 일을 놓을지의 고민을 비춘다.",
+      "contextNote": "초라한 재건 앞에서 지도자와 백성에게 동행과 실행을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H053",
+          "clue": "보이는 규모가 작거나 과정이 힘들어도 이미 하던 일에 손을 대는 모습을 읽고 마무리를 계속할 실마리를 얻을 수 있다.",
+          "friction": "고유 이름이 길고 성전 재건에 주신 명령이다. 사용자의 프로젝트 전체가 하나님의 뜻이라거나 모든 피로를 무시하고 더 일하라는 말은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAG:2:5",
+      "textSha256": "4ca0f3b522b21ec2d859223347c11b6343116851f97825d968ce09d16cf9be9c",
+      "status": "hold",
+      "reason": "오래된 약속과 여전히 머무는 신은 두려움 속 지속을 비추지만 출애굽 언약을 현재 개인 계약과 같게 둘 수 없다.",
+      "contextNote": "재건의 근거를 남아 있는 하나님의 언약과 신에 둔다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "두려운 지금의 감정만이 새 역할의 가능성을 모두 정하는지 생각할 수 있다.",
+          "friction": "이스라엘의 출애굽 언약이며 사용자가 같은 파송을 받았다는 주장은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAG:2:6",
+      "textSha256": "0a20bbef653e4c9a84a46358ae964e37c987219f217b571bc67c85a4fbc1be91",
+      "status": "exclude",
+      "reason": "곧 하늘과 땅과 바다를 진동한다는 예고는 현재 계획 변화의 시점이나 징조가 아니다.",
+      "contextNote": "재건 뒤 하나님의 큰 행동을 예고한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAG:2:7",
+      "textSha256": "2d36f8725637021db71ebe95190706728888914a91a97d859f6941858a130b4f",
+      "status": "hold",
+      "reason": "눈앞의 전이 영광으로 채워지는 그림은 작은 시작의 가능성을 비추나 만국 진동과 보배의 도착을 현실 성과로 확정할 수 없다.",
+      "contextNote": "성전이 하나님의 영광으로 채워질 것을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H042",
+          "clue": "지금 보이는 빈약함이 미래 모습의 전부인지는 다시 볼 수 있다.",
+          "friction": "개인 작품이 반드시 나중에 인정받거나 더 좋게 된다는 보장은 아니고 지금 공개할 기준도 직접 주지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAG:2:8",
+      "textSha256": "ede089c49f5eb8cc7fd934a8e410cf0ebd1fb0df419bac9aa77c1ba526516dd4",
+      "status": "hold",
+      "reason": "은금의 궁극 소유를 묻는 선언은 재물에 대한 시야를 넓히지만 무엇을 살지의 양쪽 부담에는 구체성이 적다.",
+      "contextNote": "성전 영광이 인간의 재력에만 달리지 않음을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G01",
+          "clue": "모아 둔 재물이 내 소유와 소비만으로 끝나는지 생각할 수 있다.",
+          "friction": "은금이 하나님의 것이라는 고백이지 구매 허용이나 금지의 결론이 아니다. 사용 여력은 원래 입력을 따라야 한다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAG:2:9",
+      "textSha256": "4fcdf6ea65f47e88d103444e4dcd436353ee0efa167e552455b6906115dc598e",
+      "status": "hold",
+      "reason": "나중 영광이 더 클 수 있다는 반전은 현재 초라함을 다시 보게 하나 공개 시점보다 미래 소망이 중심이다.",
+      "contextNote": "재건 성전에 이전보다 큰 영광과 평강을 약속한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H042",
+          "clue": "완성 전의 지금 모습이 가치의 최종 판단인지 돌아볼 수 있다.",
+          "friction": "이 성전의 평강 약속이며 개인 작품이 반드시 더 인정받는다는 예측이 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAG:2:10",
+      "textSha256": "d4c4b628090af9468e41d48a16ca13e7317c8fb8651bf0a53dedc9a3793f109d",
+      "status": "exclude",
+      "reason": "말씀의 연월일과 소개만 있어 생활의 대안을 비추는 내용이 없다.",
+      "contextNote": "성결에 관한 말씀의 날짜다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAG:2:11",
+      "textSha256": "16abdb5dd6e5415faed68966ae1bdb802325ed0ea8d456cbc360456c5d4dad8f",
+      "status": "exclude",
+      "reason": "율법을 제사장에게 물으라는 도입에는 실제 질문과 답이 아직 없다.",
+      "contextNote": "성결 질문을 준비한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAG:2:12",
+      "textSha256": "8d5c6cbf46ab4287faca67869575508374d109789c565dc52d82d62270dfd6a6",
+      "status": "exclude",
+      "reason": "거룩한 고기를 싼 옷자락이 다른 음식에 거룩함을 옮기는지는 제의 성결 규정을 알아야 의미가 선다.",
+      "contextNote": "거룩함이 단순 접촉으로 전파되지 않음을 묻는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAG:2:13",
+      "textSha256": "6f2e1625ac62d4ad231ed0c90d39c6022b7c3230455842349a2e58f873eeccfd",
+      "status": "exclude",
+      "reason": "시체로 부정해진 사람이 만지면 부정한가라는 문답은 종교 정결법이며 의료적 감염 판단의 원리가 아니다.",
+      "contextNote": "부정함의 전파를 제사장에게 묻는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAG:2:14",
+      "textSha256": "6d14a72e6231ddc8c9fa7364a8a40509ff5bc65d8a33720e5651d3e1d1c4a618",
+      "status": "exclude",
+      "reason": "손의 모든 일과 제물이 부정하다는 판단은 앞의 정결 문답이 있어야 뜻이 서고 현재의 평범한 실수를 전체 무가치로 만들 수 있다.",
+      "contextNote": "성결 없는 백성의 제물도 부정함을 적용한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAG:2:15",
+      "textSha256": "6f515f570c12f1ac583d88f4cd8aeb7d78ebf076bc0de9a53d575434defafb5a",
+      "status": "hold",
+      "reason": "기초를 놓기 전을 돌아보라는 요청은 지난 방식의 점검을 비추나 성전 재건 전후를 알아야 판단의 초점이 선다.",
+      "contextNote": "과거의 결핍을 기억하게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H043",
+          "clue": "같은 방식으로 견디는 일 전에 지금까지의 실제 흐름을 돌아볼 수 있다.",
+          "friction": "실패가 곧 성전 방치와 같은 죄라는 주장이 아니고 현재 바꿀 방식은 나오지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAG:2:16",
+      "textSha256": "1c76cbd2043c5bda96782878ee57d07735d803bd1776bb2c830dacbea433d53a",
+      "status": "hold",
+      "reason": "기대량보다 실제량이 적은 차이는 현실을 확인하게 하나 왜 줄었는지는 앞뒤의 심판 설명을 요구한다.",
+      "contextNote": "수확과 포도주가 기대에 못 미쳤던 과거다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C013",
+          "clue": "막연히 많았을 것이라 여기기보다 실제 남은 양을 비교할 여지는 있다.",
+          "friction": "예상 수확 부족이지 지출 누수 기록은 아니다. 실제 수입과 소비 차이를 계산해 주지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAG:2:17",
+      "textSha256": "8bc847b1702782b84cd7b0a66e51fca5f7c667876cf0752c426bdd624790b772",
+      "status": "exclude",
+      "reason": "폭풍과 곰팡이와 우박을 내린 심판은 개인의 반복 실패 원인을 죄라고 정할 근거가 아니다.",
+      "contextNote": "재난에도 돌아오지 않은 백성을 상기한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAG:2:18",
+      "textSha256": "f64a186fba8fc8c00338eb0feef35a13d6559c50a69af2ecd9c5752cf11edf25",
+      "status": "exclude",
+      "reason": "구월 이십사일의 기초 날짜를 기억하라는 말은 앞뒤 설명 없으면 개인에게 왜 중요한지 알 수 없다.",
+      "contextNote": "축복 선언의 기준 날짜를 다시 밝힌다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAG:2:19",
+      "textSha256": "8061aab023d1aa6900c87670317aaea2ac0cd611e8a151b82ebbf4e512b63337",
+      "status": "hold",
+      "reason": "아직 열매가 없어도 새 축복의 시점을 말하는 반전은 시작의 여지를 주나 오늘부터의 기한을 개인에게 옮기면 안 된다.",
+      "contextNote": "재건 뒤 하나님의 복을 받는 전환을 선언한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H057",
+          "clue": "눈앞의 열매가 아직 없다는 이유만으로 첫 시도를 닫는 마음을 돌아볼 수 있다.",
+          "friction": "농사와 성전 재건에 대한 약속이다. 운동을 시작하면 오늘부터 효과를 얻는다는 약속이 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:HAG:2:20",
+      "textSha256": "f3f351408fefbacc6df28d171acea3f66a6a3cf019b449467661a57f3b1bde7f",
+      "status": "exclude",
+      "reason": "말씀이 다시 임한 날짜 소개뿐이어서 선택 실마리는 다음에 있다.",
+      "contextNote": "마지막 스룹바벨 말씀을 시작한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAG:2:21",
+      "textSha256": "fa5092d52ff2315ae5b99c8e848afa3f0dd3565abe4e6cd1eb2061811762d962",
+      "status": "exclude",
+      "reason": "스룹바벨에게 전할 진동 예고는 다음 열국 심판의 도입으로 개인의 계획 변경과 다르다.",
+      "contextNote": "총독에게 국가적 변화를 알린다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAG:2:22",
+      "textSha256": "767978403fdcd487f7d983b941c3d474ec16d0182cc1e40f2d85796cdd50bb2a",
+      "status": "exclude",
+      "reason": "보좌와 병거가 무너지고 동료의 칼에 죽는 전쟁은 현재 관계의 배신이나 경쟁 결과를 예측할 수 없다.",
+      "contextNote": "열국의 군사 권력이 무너질 것을 말한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:HAG:2:23",
+      "textSha256": "742bf90e404d1ab6b375d8e26ccb2f7a5d0f894470c5fed1c54b2b4409578321",
+      "status": "hold",
+      "reason": "인을 삼는 선택은 맡겨진 자의 존중을 보여도 인장과 다윗계 총독의 특별 지위를 풀어야 한다.",
+      "contextNote": "스룹바벨을 하나님의 인장처럼 택할 것을 말한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "한 사람에게 몫을 맡기고 귀하게 여기는 모습을 새 역할에 비춰 볼 수 있다.",
+          "friction": "특정 인물의 선택이며 지원자가 같은 선택을 받았다는 증거가 아니다. 새 직무의 조건도 알리지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    }
+  ]
+}

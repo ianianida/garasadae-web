@@ -1,0 +1,636 @@
+{
+  "bookCode": "JON",
+  "corpusSha256": "f8d5c8b377e243b05fb884b4a6965d2c06a95de74b64a716ee4b95989d61e971",
+  "criteriaVersion": "garasadae-corpus-2026-10-08-v1",
+  "reviewer": "Codex review_ezk_rev",
+  "method": "direct-codex-reading",
+  "entries": [
+    {
+      "id": "KRV:JON:1:1",
+      "textSha256": "6d383aeeb3e387fff3a042c6c7693f0b39c3eee2de2c1f7b48ef34ddf8fe638c",
+      "status": "exclude",
+      "reason": "말씀이 임했다는 소개만 있어 내용은 다음 절에 있다.",
+      "contextNote": "요나에게 주어질 일을 소개한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JON:1:2",
+      "textSha256": "7077dc51cac2ead7a09ac74ff0ca6415f36a0c83ff7e0c8e85b9d2e876b12ff2",
+      "status": "exclude",
+      "reason": "니느웨의 악을 외치라는 특정 파송은 사용자 상대가 악하다고 새로 판단해야 생활 갈등에 옮겨진다.",
+      "contextNote": "요나를 큰 성읍의 죄를 경고할 사람으로 보낸다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JON:1:3",
+      "textSha256": "9192b6afaa7123bd035d320e01f0c1b4ff8fc7c6fdf7bdaad3be33ceb3fb775f",
+      "status": "hold",
+      "reason": "해야 할 일을 피하려 배까지 타는 모습은 회피를 비추지만 사용자의 일이나 새 역할을 곧바로 하나님의 명령으로 정할 수 없다.",
+      "contextNote": "요나가 파송과 반대 방향으로 도망한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H053",
+          "clue": "다른 곳으로 옮기는 행동이 하고 싶은 새 출발인지 맡은 일의 회피인지 살필 수 있다.",
+          "friction": "요나에게는 분명한 특정 파송이 있었다. 사용자의 모든 미완료 일이 같은 명령인 것은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JON:1:4",
+      "textSha256": "7921afd625ba9b6ca98103bcd5d164223389005d3a72623d1ce90d430dc15d06",
+      "status": "exclude",
+      "reason": "배가 깨질 폭풍은 도망의 결과 장면으로 여행과 첫 시도의 불안에 같은 재앙을 예고할 수 없다.",
+      "contextNote": "도망하는 요나가 탄 배에 폭풍이 온다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JON:1:5",
+      "textSha256": "99897fafb162848310df5f5d4cf87fd3bbccbe2e961913d9dffd0eab5dd8311c",
+      "status": "hold",
+      "reason": "위기 속 일하는 이들과 잠든 요나의 대비는 주변 부담을 보게 하지만 잠 부족에 필요한 수면을 책임 회피로 판정하면 안 된다.",
+      "contextNote": "선원들이 기도하고 짐을 버리는 동안 요나는 잠든다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G13",
+          "clue": "내 상태와 다른 이의 급한 역할이 실제로 어떤지 생각할 여지는 있다.",
+          "friction": "이 사례는 이미 수면 부족이 명시되어 있다. 잠든 요나의 도피를 같은 것으로 삼아 밤샘을 권할 수 없다.",
+          "expectedEnough": "no"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JON:1:6",
+      "textSha256": "684dca38b7c021db20244034bb6a5a587cd36aa9386d139a33a8d4b85ab35492",
+      "status": "hold",
+      "reason": "일어나 구하되 결과는 혹시라고 두는 선장은 무력할 때 호소하는 여지를 주나 실제 생명 위기와 일상 도움 요청은 다르다.",
+      "contextNote": "선장이 요나도 함께 기도하도록 깨운다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "확실히 해결될지 모르더라도 구하는 행동이 가능하다는 모습을 읽을 수 있다.",
+          "friction": "선장의 신에게 구하는 말이지 지인이 도움을 줄 가능성에 대한 정보는 아니고 잠을 비난하는 명령으로 쓰지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JON:1:7",
+      "textSha256": "251b76a1865acc7561bfc36252f303ca01f489dbe5b7e1b16827215ee91c5396",
+      "status": "exclude",
+      "reason": "제비로 재앙의 책임자를 찾은 사건은 뽑기 결과를 죄인 판정이나 하나님의 뜻 확인으로 승격시킬 수 있다.",
+      "contextNote": "선원들이 원인을 찾는 과정에서 요나가 뽑힌다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JON:1:8",
+      "textSha256": "7ce0f8bbb202cbb5809ec2f4cd72097e3c809b5b08f04a1b6e9f730fa58938ff",
+      "status": "hold",
+      "reason": "원인과 배경을 묻는 선원은 먼저 듣는 모습을 보여도 재앙의 책임 조사와 친구의 소문 확인은 강도가 다르다.",
+      "contextNote": "선원들이 요나의 정체와 폭풍 원인을 묻는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "이미 결론 내리기 전에 당사자의 말을 묻는 태도를 생각할 수 있다.",
+          "friction": "요나는 재앙의 원인으로 뽑힌 상태이고 친구가 같은 책임자라는 근거는 없다. 일상 대화보다 심문에 가깝다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JON:1:9",
+      "textSha256": "dc35657c6d8341c244a722a85cc1bf94a9ae859334534d0b0ce839e9115300ff",
+      "status": "hold",
+      "reason": "바다와 육지의 하나님을 경외한다는 고백은 삶의 기준을 생각하게 하지만 도망의 모순은 앞뒤 문맥이 있어야 드러난다.",
+      "contextNote": "요나가 자기 신앙과 민족을 밝힌다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C001",
+          "clue": "말하는 신앙과 실제 내 행동이 맞는지 돌아볼 수 있다.",
+          "friction": "이 절 자체에는 내 판단을 하나님의 뜻으로 포장하는 문제가 나오지 않아 연결은 간접적이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JON:1:10",
+      "textSha256": "1785d78e75488c1b1a841f9e21c10234a5b75c7d0226340c7f44abc22a85e5ab",
+      "status": "exclude",
+      "reason": "왜 이렇게 했느냐는 질문은 요나의 특정 도피를 아는 전제라 사용자의 행동을 먼저 유죄로 물을 수 없다.",
+      "contextNote": "요나의 고백을 듣고 선원들이 두려워한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JON:1:11",
+      "textSha256": "65140b72756c1361273e7770d14a2b3b96becc4a8254153b4c1284ba22c7db96",
+      "status": "exclude",
+      "reason": "너를 어떻게 해야 바다가 잔잔하냐는 질문은 뒤의 위험한 행동을 준비하며 평범한 관계 해결책을 주지 않는다.",
+      "contextNote": "폭풍 속 선원들이 요나에게 방도를 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JON:1:12",
+      "textSha256": "59a3f484cb9d6697d6242ff6c0e8f1a94aae1a97e372f83b324c89d891c4b44e",
+      "status": "exclude",
+      "reason": "자신을 바다에 던지면 남이 안전해진다는 말은 특수 서사의 행동으로 자기희생이나 책임 인정의 일반 결론으로 옮길 수 없다.",
+      "contextNote": "요나가 폭풍의 책임을 인정하고 투하를 제안한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JON:1:13",
+      "textSha256": "3482ef1430a992823315ee3b69035d7e8074a3bd8f09b0f187d452199648ca9c",
+      "status": "candidate",
+      "reason": "힘껏 노를 저어도 더 거세진 바다 때문에 못 간 장면은 같은 방식의 노력과 실제 한계를 구별할 실마리를 준다.",
+      "contextNote": "선원들이 요나를 바로 던지지 않고 육지로 되돌리려 애쓴다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H043",
+          "clue": "힘써 계속하는 노력도 현재 조건에서는 안 될 수 있다는 장면에서 더 견딤만이 유일한 선택인지 생각할 수 있다.",
+          "friction": "선원들은 생명을 구하려 애쓰고 있었으며 노 젓기가 악한 방식은 아니다. 지금 일을 중단하라거나 바꾸면 반드시 된다는 결론은 없다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JON:1:14",
+      "textSha256": "e4cafb4601cc5a2829ebf28d48a0d8dbff63c3ad21de4c264812b19536532f2d",
+      "status": "exclude",
+      "reason": "사람을 바다에 던지기 전 피의 책임을 면해 달라는 기도는 위험한 특수 상황으로 일반 협업 책임의 기준이 아니다.",
+      "contextNote": "선원들이 요나를 해칠 책임을 두려워하며 기도한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JON:1:15",
+      "textSha256": "ce28623362453d301299230b2598d70c93b2ee7da350ae12f3f3dbb9ceb95888",
+      "status": "exclude",
+      "reason": "사람을 버리니 폭풍이 멎은 사건은 갈등 상대를 제거하면 해결된다는 행동 결과로 오해되기 쉽다.",
+      "contextNote": "요나 투하 뒤 배의 위기가 끝난다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JON:1:16",
+      "textSha256": "c3e6a92880fa6bafb0eab6f9980ad9dcc07995aeb186e9dd7beceb969268a164",
+      "status": "hold",
+      "reason": "위기 뒤 제물과 서원을 드리는 감사는 받았던 도움을 기억하는 여지가 있지만 구체 약속과 대안 내용은 없다.",
+      "contextNote": "선원들이 하나님을 두려워하고 예배한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H054",
+          "clue": "위기 뒤 자신이 한 다짐을 기억하는 모습은 약속의 무게를 떠올리게 한다.",
+          "friction": "본문에는 실제 서원의 내용이 없고 사용자의 이전 약속과 새 기회 사이를 바로 가르지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JON:1:17",
+      "textSha256": "0742365d3a60ac42c26aa1bd8fae2ebcfe753b5e435b8f0f714204dc3740ed11",
+      "status": "exclude",
+      "reason": "큰 물고기 속 삼일 삼야는 요나를 살리는 고유 사건으로 회복 기간이나 준비 시간을 지정할 근거가 아니다.",
+      "contextNote": "요나가 삼켜져 물고기 안에 머문다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JON:2:1",
+      "textSha256": "9049288964dca01fc2def7be88dc17887295459560e851085f66b138b59036c8",
+      "status": "exclude",
+      "reason": "물고기 속에서 기도했다는 접속 문장만 있어 실제 기도와 선택 내용은 뒤에 있다.",
+      "contextNote": "요나의 감사 기도를 시작한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JON:2:2",
+      "textSha256": "8afcc3853451042ff13c6ab9890567fbac60ce5965cc679fd25c2a4074238e8d",
+      "status": "hold",
+      "reason": "고난 중 부르짖고 들으심을 경험한 고백은 도움 청함에 여지를 주지만 스올의 배와 구원 회고가 사람 간 부탁의 결과는 아니다.",
+      "contextNote": "요나가 죽음 가까운 자리에서 받은 응답을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "고난을 혼자 삼키는 대신 음성을 내어 아뢰는 모습을 생각할 수 있다.",
+          "friction": "하나님께 한 기도의 회고다. 실제 지인의 수락이나 치료 결과는 알리지 않으며 서사 속 구원 위로의 비중이 크다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JON:2:3",
+      "textSha256": "4bbe1d200c8f2d57f2cda865783b524efa1d2b40dd4204afa045900ae7b18b08",
+      "status": "exclude",
+      "reason": "깊은 바다와 넘치는 파도의 묘사는 고난을 표현하나 개인의 선택에 다음 단서를 주지 않는다.",
+      "contextNote": "요나가 물에 잠겼던 상태를 회상한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JON:2:4",
+      "textSha256": "744e3e31b107d6fa1d1028258d774966055d8ea85ae28a80f1ab4ec631824128",
+      "status": "candidate",
+      "reason": "쫓겨난 것 같은 자리에서도 다시 바라보겠다는 고백은 잘못과 민망함 때문에 다시 다가가지 못하는 마음에 실마리를 준다.",
+      "contextNote": "요나가 죽음과 단절 속에서도 하나님의 성전을 향한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G10",
+          "clue": "이미 멀어진 듯 느껴도 다시 바라보겠다는 방향에서 민망함 때문에 관계 회복의 시도를 닫아 둔 마음을 살필 수 있다.",
+          "friction": "요나는 하나님과 성전을 향한다. 친구에게 실제로 쫓겨났다는 정보나 사과를 받아준다는 약속을 새로 넣지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JON:2:5",
+      "textSha256": "f31aeeb545273cb13e81feef2fc00acb1771f41cff5411d2a850bbf2236d0119",
+      "status": "exclude",
+      "reason": "머리의 바다풀과 영혼까지 둘러싼 물은 익사 직전 묘사로 휴식이나 감정 정리의 구체 선택을 주지 않는다.",
+      "contextNote": "바다에서 겪은 죽음의 위험을 말한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JON:2:6",
+      "textSha256": "34626c7157dc69742f8b43f320f5bbf8df639367f03251da3742465488708b63",
+      "status": "hold",
+      "reason": "구덩이에서 건진 생명의 반전은 다시 시작할 희망이 있으나 산의 뿌리와 땅의 빗장은 풀이가 필요하다.",
+      "contextNote": "요나가 죽음에서 구원받은 사실을 감사한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H060",
+          "clue": "막힌 자리까지 내려갔어도 이야기가 끝나지 않는 반전을 볼 수 있다.",
+          "friction": "실제 죽음의 구원 회고이며 놓친 기회를 다시 붙잡거나 현재 작업을 시작할 기준은 간접적이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JON:2:7",
+      "textSha256": "c86bc788ff92ba1ba4377231dc733a9e260e830dc33bbdba688b09cf280a8038",
+      "status": "candidate",
+      "reason": "내면이 피곤할 때 생각하고 기도하는 전환은 더 바빠져 불편을 덮을지 잠시 돌아볼지의 고민에 조용한 실마리가 된다.",
+      "contextNote": "요나가 지칠 때 하나님을 생각하고 기도가 닿았음을 고백한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H063",
+          "clue": "피곤한 영혼을 더 많은 움직임으로 몰기보다 잠시 생각하고 마음을 아뢰는 흐름을 내 상황에 읽을 수 있다.",
+          "friction": "기도는 하나님과 성전을 향하며 원문의 피곤은 바다의 생명 위기와 연결된다. 현재 불편의 원인을 영적 문제로 정하거나 쉬면 답을 얻는다고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JON:2:8",
+      "textSha256": "2a001c03daf84b92bd0d8f4d49f26b41f9d658e8df61792b978b18c492b9514a",
+      "status": "hold",
+      "reason": "헛된 것을 숭상하며 받은 은혜를 버리는 대비는 무엇을 좇는지 살피게 하나 이어지는 자신의 감사가 있어야 대조가 완성된다.",
+      "contextNote": "요나가 우상 숭배와 은혜의 관계를 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H008",
+          "clue": "희소한 것을 붙드는 사이 이미 가진 것을 잊는지 돌아볼 수 있다.",
+          "friction": "소비 물건과 우상 숭배는 동일하지 않으며 나로 끝나는 문장이라 단독 충분함은 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JON:2:9",
+      "textSha256": "72ac3e728ec7bdfa63bc863f47c4ed462e94a6a58ee5624acaa86f1976e12d38",
+      "status": "hold",
+      "reason": "감사와 서원을 갚겠다는 말은 받은 도움 뒤 약속을 기억하게 하지만 구원의 출처가 중심이어서 거래 선택에는 간접적이다.",
+      "contextNote": "요나의 감사 기도를 구원은 하나님께 있다는 고백으로 마친다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H054",
+          "clue": "당시 한 서원을 갚는다는 태도에서 상황이 바뀐 뒤의 약속을 돌아볼 수 있다.",
+          "friction": "제사와 서원은 하나님께 대한 것으로 이전 업무 약속을 반드시 그대로 수행하라는 명령은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JON:2:10",
+      "textSha256": "e8e9de8cf00b2ac631f192d4ca2eba3943876a6faf5da01b1bbd8f8850adc0f3",
+      "status": "exclude",
+      "reason": "물고기가 육지에 토한 사건은 고유한 구조 장면으로 계획 변경이나 치료 중단의 단서를 주지 않는다.",
+      "contextNote": "요나가 다시 육지로 나온다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JON:3:1",
+      "textSha256": "54edf9611b2fd5523c6cf1ad6e9077acc38f4c31b67644c48049c27b1ae961e1",
+      "status": "hold",
+      "reason": "두 번째 말씀이 임한 사실은 첫 회피 뒤 재시작의 가능성을 보여도 이르시되에서 끝나 부름의 내용이 없다.",
+      "contextNote": "요나에게 처음과 같은 파송을 다시 주기 시작한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H060",
+          "clue": "한 번 놓쳤다고 모든 시작이 끝난 것은 아닌 장면을 볼 수 있다.",
+          "friction": "사용자에게 같은 기회가 다시 주어진다는 정보가 아니고 무엇을 할지는 다음 절이 필요하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JON:3:2",
+      "textSha256": "2ed4eb6f99f8fb8b001a334439aad2806a2d6457fc26cb452b5db9d765c8375a",
+      "status": "exclude",
+      "reason": "니느웨에서 명한 바를 외치라는 재파송은 특정 대상과 계시가 있어 일반 지원이나 고백을 결정할 수 없다.",
+      "contextNote": "처음 파송을 다시 명한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JON:3:3",
+      "textSha256": "ecaeb2e0fd5c53e7a1107ad46eb21c1b133a2377317d892c02205ba48832b838",
+      "status": "hold",
+      "reason": "이번에 실제로 일어나 가는 행동은 미뤘던 일의 시작을 비추지만 삼일 길과 특정 파송이 있어 상황 연결이 간접적이다.",
+      "contextNote": "요나가 두 번째 명령에 따라 니느웨로 간다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H053",
+          "clue": "피하던 일을 다시 맡아 실제 걸음을 옮기는 전환을 생각할 수 있다.",
+          "friction": "본문에는 지루한 마무리나 새 프로젝트의 비교는 없고 사용자 일을 신의 명령으로 정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JON:3:4",
+      "textSha256": "87d011403eeb43af74170b2874802e6238d2cb993b2be14db98880a54024efb3",
+      "status": "exclude",
+      "reason": "사십 일 뒤 성이 무너진다는 고유 예언은 신청이나 현금 기한을 새로 정하는 신호가 아니다.",
+      "contextNote": "요나가 니느웨에 심판을 전한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JON:3:5",
+      "textSha256": "ded61677d34089ecf5a5f6d095eeb92daaee761e033596e5c5e4fdffef8cd93b",
+      "status": "hold",
+      "reason": "지위와 관계없이 회개하는 모습은 체면보다 수정을 생각하게 하나 금식과 굵은 베만으로 행동 변화의 뜻을 알려면 문맥이 필요하다.",
+      "contextNote": "니느웨의 모든 계층이 경고에 반응한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H027",
+          "clue": "높고 낮은 위치와 관계없이 잘못 앞에 반응하는 모습을 읽을 수 있다.",
+          "friction": "상대에게 사과하는 장면은 아니고 굵은 베의 종교적 뜻을 알아야 한다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JON:3:6",
+      "textSha256": "8f08202cc01addb36a5af6f0ecf6c6951ba2188e4ac51a1f79aae8dad153b9b3",
+      "status": "candidate",
+      "reason": "왕이 보좌에서 일어나 격식을 벗고 재에 앉는 장면은 먼저 잘못을 인정하면 지는 것 같다는 체면 부담을 비춘다.",
+      "contextNote": "니느웨 왕도 심판 소식을 듣고 회개한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H027",
+          "clue": "왕도 자신의 높아 보이는 자리를 내려놓고 반응하는 모습에서 사과와 인정이 체면만의 문제가 아닌지 생각할 수 있다.",
+          "friction": "조복과 굵은 베는 옛 회개 표식이다. 왕처럼 하라는 직접 명령이나 사과 뒤 관계 회복의 보장이 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JON:3:7",
+      "textSha256": "01a122e6e293ebba24c7ccfab93175df1ae1df4674bce3106e7ff523eca1e065",
+      "status": "exclude",
+      "reason": "사람과 가축도 음식과 물을 금하라는 조서는 국가 회개의 특정 명령으로 현재 건강과 식사 결정에 적용할 수 없다.",
+      "contextNote": "왕이 공동체 금식을 명한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JON:3:8",
+      "textSha256": "82bac1b9b9759e122fa8132d3087a1dda831a7e3d11d99b753d2697fccfed00c",
+      "status": "hold",
+      "reason": "옷과 부르짖음에 더해 실제 강포를 떠나라는 요청은 말뿐 아닌 변화를 비추지만 사람과 가축의 베옷까지 읽기 부담이 있다.",
+      "contextNote": "금식의 실제 내용이 악행 중단이어야 함을 밝힌다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C002",
+          "clue": "미안하다는 말 외에 실제 행동이 달라지는지를 보는 기준을 떠올릴 수 있다.",
+          "friction": "상대는 이미 변화 중이라는 정보가 있고 강포와 가축의 회개 표식까지 같은 것으로 묶을 필요는 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JON:3:9",
+      "textSha256": "cbdc5dda43312b7812b4396aed26fce197db1af9c4c77fe0ff520415cf16a3a5",
+      "status": "candidate",
+      "reason": "뜻이 바뀔지 누가 알겠느냐는 희망은 결과를 확신하지 못해도 돌아서는 시도가 가능함을 보여 준다.",
+      "contextNote": "니느웨 왕은 회개의 결과를 보장하지 않고 긍휼을 기대한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G10",
+          "clue": "받아줄지 확실히 알아야만 먼저 움직일 수 있다는 부담에서 혹시와 누가 알겠느냐의 여지를 읽을 수 있다.",
+          "friction": "도시의 심판과 하나님의 긍휼이 원뜻이다. 친구의 분노나 마음을 확정하지 않고 사과하면 반드시 받아준다고 말하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JON:3:10",
+      "textSha256": "7663e9eb7e9145aa87fb81354fa962345fe28c6b575762327fa407800d8c6905",
+      "status": "candidate",
+      "reason": "실제로 악한 길을 떠난 행동을 보고 예고한 재앙을 거두는 장면은 변화하는 친구를 계속 벌하고 싶은 마음을 비춘다.",
+      "contextNote": "하나님이 니느웨의 행동 변화에 반응하여 심판을 거두신다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C002",
+          "clue": "잘못을 기억하는 것과 실제로 돌아선 모습을 보는 일이 다른지를 읽으며 계속 혼내기보다 변화도 볼 여지가 생긴다.",
+          "friction": "하나님의 심판 철회 이야기이며 모든 사람에게 즉시 친밀함 회복이나 무조건 신뢰를 요구하지 않는다. 반복 위반이 그대로인 H029와 구별한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JON:4:1",
+      "textSha256": "57e85c728afef7b002eef3a48c5ded81bf925e67cc7eb073e3e024107baca627",
+      "status": "exclude",
+      "reason": "심히 싫어하고 화냈다는 미완료 반응은 무엇을 싫어한 것인지 앞절 없이는 독립적으로 알 수 없다.",
+      "contextNote": "니느웨가 용서받자 요나가 분노한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JON:4:2",
+      "textSha256": "3947f2734e1d4c8c0810519608d362472f05baa0d39210d126426bc507596039",
+      "status": "hold",
+      "reason": "자비를 알고 오히려 도망한 모순은 원하는 처벌을 돌아보게 하나 긴 고백에서 왜 은혜 때문에 달아났는지 앞 사건이 필요하다.",
+      "contextNote": "요나가 처음 도망한 까닭이 하나님의 긍휼을 알았기 때문임을 밝힌다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C002",
+          "clue": "용서받는 모습을 못마땅해하는 내 마음이 원하는 것이 무엇인지 생각할 수 있다.",
+          "friction": "요나의 도망 경위와 니느웨 사건을 모르면 자비를 알기에 도망했다는 연결을 이해하기 어렵다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JON:4:3",
+      "textSha256": "7015ada4de0102f6f163ea1d123b3b77c39f19ed30fe46584c639d53a07e23b6",
+      "status": "exclude",
+      "reason": "차라리 죽게 해 달라는 분노의 기도는 용서받은 타인을 싫어하는 반응이며 고통 속 사용자의 행동 결론으로 삼을 수 없다.",
+      "contextNote": "요나가 자기 뜻과 다른 긍휼에 죽음을 구한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JON:4:4",
+      "textSha256": "329abb4e353ba44e7ae7b5c25392775bb5c58b9758c0f8c3c2d6d6b636be2a1c",
+      "status": "candidate",
+      "reason": "내 성냄이 합당한지 묻는 짧은 질문은 화난 메시지를 보내기 전 감정과 표현을 구별할 직접 실마리가 된다.",
+      "contextNote": "하나님이 니느웨의 회복을 싫어하는 요나에게 묻는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "보내기 직전의 화를 곧바로 행동 이유로 삼지 않고 이 성냄이 합당한지 한 번 물어볼 수 있다.",
+          "friction": "요나의 분노는 다른 이에게 베푼 긍휼에 대한 것이다. 사용자의 서운함이 모두 부당하다거나 필요한 문제 제기를 하지 말라고 정하지 않는다.",
+          "expectedEnough": "yes"
+        },
+        {
+          "scenarioId": "C002",
+          "clue": "친구의 실제 변화 앞에서도 계속 벌하고 싶은 화가 합당한지 스스로 질문할 수 있다.",
+          "friction": "용서가 개인의 경계를 없애거나 피해를 무시하는 결론은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JON:4:5",
+      "textSha256": "c02e5c890620d3c9809509ce5dd94b94daa5bd64370ea8a18cef1429d934ac63",
+      "status": "hold",
+      "reason": "성 밖에서 결과를 기다리는 모습은 집착을 비출 수 있으나 성이 멸망할지 지켜보는 까닭을 알아야 기다림의 뜻이 선다.",
+      "contextNote": "요나가 초막을 짓고 니느웨를 관망한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C002",
+          "clue": "상대가 바뀌었는데도 잘못될 결과만 기다리고 있는지 돌아볼 수 있다.",
+          "friction": "본문 자체는 자리를 마련하는 묘사라 그 기다림의 대상이 앞의 심판임을 알아야 한다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JON:4:6",
+      "textSha256": "9c0f4631d9e4d7b47f7270bc5ae26cdae714eb3db9edd68b5e6c99d9c0e26f70",
+      "status": "candidate",
+      "reason": "머리를 덮는 그늘로 괴로움을 덜고 기뻐하는 모습은 계속 버티는 일 외에 돌봄을 받아들이는 여지를 준다.",
+      "contextNote": "하나님이 박 넝쿨을 주어 요나를 돌보고 뒤의 질문을 준비한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H055",
+          "clue": "불편을 견디기만 하지 않고 그늘 아래 괴로움을 덜어 받는 모습에서 이미 들은 휴식 권고를 받아들이는 실마리를 얻을 수 있다.",
+          "friction": "요나의 상태와 박 넝쿨은 서사의 특정 사건이다. 사용자의 회복 속도나 치료 결과를 보장하지 않고 모든 일을 그만두라는 뜻도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JON:4:7",
+      "textSha256": "24665e9f626c09f21b820bbfd7c1295e511e4b809dfdae202314a1431566c24f",
+      "status": "exclude",
+      "reason": "벌레가 넝쿨을 시들게 한 사건만으로는 휴식과 활동의 선택에 관한 기준이 없다.",
+      "contextNote": "요나가 아낀 그늘을 거두어 다음 반응을 이끈다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JON:4:8",
+      "textSha256": "cabdba9477f18dbdc9bed3d4d5177f83815cb6f6cccd04d76eddf75b2a9b7015",
+      "status": "exclude",
+      "reason": "뜨거운 바람과 해에 혼곤해 죽음을 바라는 장면은 큰 신체 고통의 반응으로 생활 판단의 실마리로 쓰기 어렵다.",
+      "contextNote": "그늘을 잃은 요나가 다시 죽음을 구한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JON:4:9",
+      "textSha256": "758381d80d48bb6ce9bcf0aa297fa3cea0ffa3c15498d000f5e68c6e6f5c9417",
+      "status": "hold",
+      "reason": "성냄을 묻는데 끝까지 합당하다고 버티는 대화는 방어적 마음을 비추지만 죽기까지 화낸다는 강도가 크다.",
+      "contextNote": "요나가 넝쿨 상실에 대한 분노를 정당화한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "질문을 받았는데도 내 기분이 옳다는 말만 반복하는지 돌아볼 수 있다.",
+          "friction": "요나는 실제 피로와 넝쿨 상실을 겪고 있으며 이 반응을 모든 비판 거절과 동일시할 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JON:4:10",
+      "textSha256": "b6290ff202ccf4eba8648bef29e68e4393aced9d25103495cbb1ebb9c99b2a6a",
+      "status": "hold",
+      "reason": "수고하지 않은 작은 넝쿨도 아끼는 마음은 돌봄의 폭을 생각하게 하지만 비교할 성읍이 다음 절에 있어 의미가 덜 완성된다.",
+      "contextNote": "요나의 넝쿨 사랑과 하나님의 성읍 사랑을 대비하기 시작한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C005",
+          "clue": "내가 공들인 것만 가치 있다고 보는지 돌아볼 여지가 있다.",
+          "friction": "이 절은 네가 아꼈거든으로 끝나 사람을 돌보는 대조를 완성하려면 다음 절이 필요하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JON:4:11",
+      "textSha256": "48411d3f6958823b58baee94a9f468961f356b3907a6a7aecd6a30a71dba3869",
+      "status": "candidate",
+      "reason": "분별하지 못하는 사람과 짐승까지 아끼는 것이 합당하냐는 물음은 눈에 보이는 성과와 별개로 구성원을 돌볼 이유를 비춘다.",
+      "contextNote": "니느웨를 아끼는 하나님의 긍휼로 요나에게 열린 질문을 남긴다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C005",
+          "clue": "잘 적응하지 못하는 사람도 아낄 가치가 있지 않느냐는 물음을 내 공동체에 비춰 성과가 적어도 돌봄의 시간을 생각할 수 있다.",
+          "friction": "좌우를 분변치 못하는 니느웨와 신입을 같은 무지로 판정하지 않는다. 원뜻은 하나님의 성읍과 피조물에 대한 긍휼이며 시간 배분을 정해 주지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    }
+  ]
+}

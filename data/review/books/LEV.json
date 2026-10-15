@@ -1,0 +1,5021 @@
+{
+  "bookCode": "LEV",
+  "corpusSha256": "f8d5c8b377e243b05fb884b4a6965d2c06a95de74b64a716ee4b95989d61e971",
+  "criteriaVersion": "garasadae-corpus-2026-10-08-v1",
+  "reviewer": "Codex review_gen_2ki",
+  "method": "direct-codex-reading",
+  "entries": [
+    {
+      "id": "KRV:LEV:1:1",
+      "textSha256": "027cf3ae9843255d9bb5b875c2993921e091d8af700c8f4de779b5a997d515c0",
+      "status": "exclude",
+      "reason": "회막에서 말씀한 도입만 있어 독립 생활 판단이 없다",
+      "contextNote": "제사 예물 말씀 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:1:2",
+      "textSha256": "9da17a36bcfdd9a56e9c6a0f80d73ea93097b1355a510f8f5edad85e5ccb41cb",
+      "status": "hold",
+      "reason": "H007의 예물에 여러 방식이 있음은 비추나 소 양이라는 종류만으로 선물 부담을 가르기 어렵다",
+      "contextNote": "번제 예물의 기본 가축 종류",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:1:3",
+      "textSha256": "d09124c9552ab94ff76e99519ac4409fab3aac654e591f5fe00d388bb1e66e7b",
+      "status": "exclude",
+      "reason": "흠 없는 수컷과 열납의 조건은 내 구매 물건이나 선물의 완벽함과 다른 제사 자격이다",
+      "contextNote": "소 번제의 제물 조건",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:1:4",
+      "textSha256": "9f997c224980a824e0c14f3987b7c81cb0f3a0eabe4cf673a6b73157d4790180",
+      "status": "hold",
+      "reason": "G10의 잘못을 풀 길은 비추나 머리 안수와 속죄의 의식이라 상대에게 사과할 실마리는 간접적이다",
+      "contextNote": "제물에 안수하여 열납과 속죄를 얻음",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:1:5",
+      "textSha256": "655ada1c02c1a522fe5d6dc2b4d4de537628404a6e8bb419809fd726f22fc106",
+      "status": "exclude",
+      "reason": "소를 잡고 피를 사면에 뿌리는 동작은 현재 선택의 부담을 다루지 않는다",
+      "contextNote": "소 번제의 희생과 피 처리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:1:6",
+      "textSha256": "dde3ceb0868b3c56f3e41c057a7b71c00e8a8a53f5e4cd6a0ee3d205f8e334f1",
+      "status": "exclude",
+      "reason": "가죽과 각 뜨기는 일상 행동의 실마리 없이 제사 준비를 설명한다",
+      "contextNote": "번제 희생물의 해체",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:1:7",
+      "textSha256": "787326450379666f389894c47c64158bd6dec67ff64e401611a29be9c935706a",
+      "status": "exclude",
+      "reason": "불과 나무의 배치는 지금 실행이나 준비의 적정함을 알려 주지 않는다",
+      "contextNote": "제단 불의 준비",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:1:8",
+      "textSha256": "a1cec916f5ec0250d3bbb7bf5dae5472698e7e57a04a8dc646bdbe798f04f6e7",
+      "status": "exclude",
+      "reason": "희생물의 머리와 기름 배열은 생활 선택 이유가 없는 제사 절차다",
+      "contextNote": "번제물을 나무 위에 배열함",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:1:9",
+      "textSha256": "cdfa36124107e29bd8782537a31a7e9f689efa915643e2e51a441921c1443b66",
+      "status": "exclude",
+      "reason": "내장 세척과 전체 소각의 제사법은 과로와 헌신의 일반 기준으로 옮길 수 없다",
+      "contextNote": "소 번제 완성 절차",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:1:10",
+      "textSha256": "62b6fb122292bf704082a2968b61fb8439903c8a8298f4bd601910cb0a8ff8a5",
+      "status": "exclude",
+      "reason": "양 염소 수컷의 흠 조건은 옷의 작은 흠을 받아들일지의 기준과 다르다",
+      "contextNote": "양과 염소 번제의 제물",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:1:11",
+      "textSha256": "779384d1725ad9ae005b6466f2dedb72d20e9ba8364b0bb7b0058cdd24e0738b",
+      "status": "exclude",
+      "reason": "북편에서 잡고 피를 뿌리는 지시는 현재 관계 대화의 방법이 아니다",
+      "contextNote": "양 번제의 희생과 피 처리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:1:12",
+      "textSha256": "e15e720feeeae909fdce4d41be40ecccc1f235d9379af53ee39324ccd4c83dbf",
+      "status": "exclude",
+      "reason": "머리 기름과 각 뜬 고기 배열은 일상 역할의 부담을 직접 다루지 않는다",
+      "contextNote": "양 번제물의 준비",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:1:13",
+      "textSha256": "d698d630d340408a82a5a03e6fe217be4a7e364d03fae2e6b94e223ef18e5d59",
+      "status": "exclude",
+      "reason": "내장과 정강이 세척 뒤 전부 태우는 말은 일상 자기희생의 처방이 아니다",
+      "contextNote": "양 번제 완성 절차",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:1:14",
+      "textSha256": "f838be372647d787b57d7d9a6bb1699cbc357ffc92d032bdd1e55298a0364c8a",
+      "status": "hold",
+      "reason": "H007의 작은 종류 선택은 떠올릴 수 있으나 이 절에는 여력에 맞춘다는 이유가 없다",
+      "contextNote": "새 번제의 종류",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:1:15",
+      "textSha256": "0512b8eeabd712a8a0c5618ef1eb84bbf41f677a7d532e1a41a94d950e3b25da",
+      "status": "exclude",
+      "reason": "새 머리를 비틀어 끊고 피 흘리는 절차는 일상 선택에 자연스럽게 연결되지 않는다",
+      "contextNote": "새 번제의 희생 절차",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:1:16",
+      "textSha256": "f8085ffff5fb38aac3681339aec65978e01238eea424c2c1644fdb094730007f",
+      "status": "exclude",
+      "reason": "멱통 제거와 재 장소는 물건 정리에 비유 풀이를 더해야 하는 해부 지시다",
+      "contextNote": "새 번제물의 불필요 부위 처리",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:1:17",
+      "textSha256": "3d6369aea5eebefaa4fad5c3a92e4d9da7a054e17453a747c8c46cb8404dc21d",
+      "status": "exclude",
+      "reason": "새를 찢어 태우는 전체 제사 과정은 지금 선택의 양쪽 이유를 다루지 않는다",
+      "contextNote": "새 번제의 마무리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:2:1",
+      "textSha256": "a60b64536ba1bfa4a423461b8b91eec50495e90cc18ced7c384227842f9fe4d4",
+      "status": "exclude",
+      "reason": "곡식 기름 유향 조합은 현재 소박한 선물의 적정함을 말할 이유가 없다",
+      "contextNote": "소제 예물의 기본 재료",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:2:2",
+      "textSha256": "fa39dd932be9cdd50396f1d8d38e827440fd5812dc7fc5cac14c81b0bf5b72a1",
+      "status": "exclude",
+      "reason": "한 줌의 소각과 기념물 의미는 일상 나눔의 작은 양을 허용하는 이유와 다르다",
+      "contextNote": "소제 기념물의 제사 처리",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:2:3",
+      "textSha256": "79b2d4f3fc46bb79a7993e64aea9efa9aca63e45dd1c5ed89b83e39bec71eeca",
+      "status": "hold",
+      "reason": "A006의 섬기는 자에게 몫이 돌아감은 있으나 소제물과 화제의 거룩 규정이 해설을 요구한다",
+      "contextNote": "소제 나머지의 제사장 귀속",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:2:4",
+      "textSha256": "366b9c8bc90c9bd163b15d607f98e153896bb2693d18dda558d7425970b14da8",
+      "status": "exclude",
+      "reason": "구운 무교 음식 종류는 선물이나 음식 구매의 선택 부담을 다루지 않는다",
+      "contextNote": "화덕 소제 조리법",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:2:5",
+      "textSha256": "abd19991158fab49fb482a69a604a887b5c2399ad72e598ba04d4648b0ecaaf2",
+      "status": "exclude",
+      "reason": "번철과 기름의 미완 조리법은 현재 일의 준비량이나 순서의 기준이 아니다",
+      "contextNote": "번철 소제의 재료",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:2:6",
+      "textSha256": "807608b31db0ad1e6b386d4d4ce04a1255b13d9cd347821422f5b71a16f474ae",
+      "status": "exclude",
+      "reason": "기름 부을 소제의 해체는 관계나 업무를 나누는 뜻으로 바로 읽기 어렵다",
+      "contextNote": "소제물의 나눔과 기름",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:2:7",
+      "textSha256": "3426d1140d05a2fc31e3ef32c0b68f13a3aa565dc11c304f310bbdb5152f51c6",
+      "status": "exclude",
+      "reason": "솥에 삶을 제사 음식 재료는 지금의 먹을 것 필요를 판단할 정보가 아니다",
+      "contextNote": "솥 소제 조리법",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:2:8",
+      "textSha256": "62bc643f3f6ad7368cbfe127e0c715e92d2fb13eb77a4eb0ebaee704409666d9",
+      "status": "exclude",
+      "reason": "제사장에게 주어 단으로 옮기는 미완 절차는 선택 이유를 담지 않는다",
+      "contextNote": "소제물의 전달",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:2:9",
+      "textSha256": "b40cbe51542fb84aed2bf9a9d8e8819aa010b4ca85b10d31d4ee0bc9cdef275d",
+      "status": "exclude",
+      "reason": "일부를 불사를 기념 제사는 내 감사의 표현 크기를 정할 기준이 아니다",
+      "contextNote": "소제의 기념 부분 소각",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:2:10",
+      "textSha256": "78e000068bad9ac72f1cdb5805eacfdee212b198de75683a08eafae03b4a661a",
+      "status": "hold",
+      "reason": "A006의 봉사의 몫은 비추나 속한 제사 제도와 소제물 정의 없이는 충분함이 약하다",
+      "contextNote": "소제 남은 부분의 제사장 몫",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:2:11",
+      "textSha256": "c40d0aed8d0007f49a3f8f1ba60b47ca85f420ed4a3741527ee913b326df1c51",
+      "status": "exclude",
+      "reason": "누룩 꿀 금지는 현재 할인 구매나 절제의 실마리에 음식 금기를 비약해 잇게 된다",
+      "contextNote": "소제 첨가물 제한",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:2:12",
+      "textSha256": "ea57af3eca9d7ad6a039241636445e532fcc9a2ac65d0bb5172ae0ea9fa51f2b",
+      "status": "exclude",
+      "reason": "첫 소산과 단 위 향기의 차이는 일상 첫 기회 선택의 기준이 아니다",
+      "contextNote": "첫 소산 예물의 별도 취급",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:2:13",
+      "textSha256": "2d699caa17ec3cf50c2cf76d8c5e30d9d1df15ad991c3e477bbe96f4d1a2c645",
+      "status": "exclude",
+      "reason": "언약 소금의 상징은 설명 없이 소비의 적정함이나 관계 약속에 잇기 어렵다",
+      "contextNote": "소제에 소금을 더할 규정",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:2:14",
+      "textSha256": "786a3cd9280b9a9b289a95125995546d94db4c37a5bcc1cb7513489313560eba",
+      "status": "exclude",
+      "reason": "볶고 찧은 첫 이삭은 새 일을 미룰지와 무관한 제물 조리 조건이다",
+      "contextNote": "첫 이삭 소제의 준비",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:2:15",
+      "textSha256": "eea37f8ed1da7894b9b4d47a745ee4b587e9051489697af2a73de2d524c99a09",
+      "status": "exclude",
+      "reason": "기름과 유향 추가는 소비에 더 보태야 할 이유를 말하지 않는다",
+      "contextNote": "첫 이삭 소제의 첨가물",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:2:16",
+      "textSha256": "22fbe6447d1d67927fbf2a5c071139aeb14f2687131899edfa5398c5220117ce",
+      "status": "exclude",
+      "reason": "일부 곡식과 기름 유향을 태우는 규정은 일상 도움의 충분량 판단과 다르다",
+      "contextNote": "첫 이삭 소제의 화제",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:3:1",
+      "textSha256": "2af412a9a76b5640af67673b7ce33ca7d2ba859b38caeae5d07a20b465360eb6",
+      "status": "exclude",
+      "reason": "수암 구분과 흠 없는 소의 조건은 현재 어느 선물이 필요한지 직접 알려 주지 않는다",
+      "contextNote": "소 화목제의 제물 자격",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:3:2",
+      "textSha256": "882a693ed87e9b22876f84cc390280fb596f23bfb9370f5b317fdb99d02eaa28",
+      "status": "exclude",
+      "reason": "안수와 도살 피뿌림은 사과나 관계 화목의 구체 대화 방법이 아니다",
+      "contextNote": "화목제의 희생과 피 처리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:3:3",
+      "textSha256": "131feee01719adefe5b838c0ab9730f3225355be3054152155ff3d5573c904e7",
+      "status": "exclude",
+      "reason": "내장 지방 취급이 미완으로 이어져 생활 선택의 독립 의미가 없다",
+      "contextNote": "소 화목제의 태울 기름 시작",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:3:4",
+      "textSha256": "9b58248400883eda8e3b9a265965aa37ef5e16c85eefc10c48cc13973daa7d1d",
+      "status": "exclude",
+      "reason": "콩팥과 간 꺼풀 지정은 일상 선택의 기준이 없는 해부 지시다",
+      "contextNote": "소 화목제의 부위 지정",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:3:5",
+      "textSha256": "697e742f679b9f1d2c7eb665cc69d9a873975f83f4c6a92707504d14f0cf2017",
+      "status": "exclude",
+      "reason": "나무 위 제물 소각과 향기는 사람의 도움 요청이나 관계 화답과 직접 대응하지 않는다",
+      "contextNote": "소 화목제의 소각",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:3:6",
+      "textSha256": "bb9cb7fafd56b14701c7748789d6e482668dd5453736bb093ec3e03a06260e0d",
+      "status": "exclude",
+      "reason": "흠 없는 암수 양 규정은 소비 물건의 흠이나 가격의 판단 기준이 아니다",
+      "contextNote": "양 화목제의 제물 자격",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:3:7",
+      "textSha256": "8a32e15be67350801b36773ce2d81dbab484f71c17c25ef33aa9aea997d3ce81",
+      "status": "exclude",
+      "reason": "어린양을 끌고 오는 미완 조건은 현재 선택할 행동의 이유가 없다",
+      "contextNote": "어린양 화목제 도입",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:3:8",
+      "textSha256": "f9ba2631c08076b1ebbb3d3825c86ce2f29f194e32ba3768974b11980f202435",
+      "status": "exclude",
+      "reason": "안수 도살과 피 처리는 다툼 후 사과의 일반적인 처방으로 옮길 수 없다",
+      "contextNote": "어린양 화목제 실행",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:3:9",
+      "textSha256": "306a9eddc2b67e755c2855e54597e75e69ea3ab84f9d62df763181fe8327648c",
+      "status": "exclude",
+      "reason": "꼬리와 내장 기름의 긴 지정은 현재 생활 부담을 다루지 않는다",
+      "contextNote": "어린양 화목제의 태울 부위",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:3:10",
+      "textSha256": "9b58248400883eda8e3b9a265965aa37ef5e16c85eefc10c48cc13973daa7d1d",
+      "status": "exclude",
+      "reason": "콩팥과 허리 기름 지정은 구체 고민에 잇는 비유 설명을 요구한다",
+      "contextNote": "어린양 화목제 부위의 끝",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:3:11",
+      "textSha256": "683aa72f248b07277c2606fcb03af069454e619c41c9989da9caf5bbed926381",
+      "status": "exclude",
+      "reason": "제물 소각을 하나님 식물이라 하는 의식은 보통 식사 선택의 뜻이 아니다",
+      "contextNote": "화목제의 식물 의미",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:3:12",
+      "textSha256": "283ed11de9d377b53a68287e4f5b756f09f1a43a8c405581bcc8e9a90b6391e1",
+      "status": "exclude",
+      "reason": "염소를 끌어오는 미완 절차만으로 생활 선택의 기준은 없다",
+      "contextNote": "염소 화목제 도입",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:3:13",
+      "textSha256": "746baa0e26b74d4dda2bd43905ffbaba0ed7cab6504c41f551c0980241d0c881",
+      "status": "exclude",
+      "reason": "머리 안수와 피뿌림은 일상 사람에게 부탁하거나 고백할 방법과 다르다",
+      "contextNote": "염소 화목제 희생과 피 처리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:3:14",
+      "textSha256": "b90800dc6eea07aac32bed9f54454c38b554eb5b396f116ecd1dbd9838d68e68",
+      "status": "exclude",
+      "reason": "내장 기름의 제물 지정은 현재 나눌 물건이나 일의 판단 근거가 아니다",
+      "contextNote": "염소 화목제의 기름 시작",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:3:15",
+      "textSha256": "9b58248400883eda8e3b9a265965aa37ef5e16c85eefc10c48cc13973daa7d1d",
+      "status": "exclude",
+      "reason": "콩팥과 간 꺼풀의 취급은 선택 부담의 이유를 다루지 않는다",
+      "contextNote": "염소 화목제의 부위 지정",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:3:16",
+      "textSha256": "447613b3c016b299b965f6cd78fd2dcc414b798c45c706810d756ddd79b38fab",
+      "status": "exclude",
+      "reason": "기름의 신적 귀속 뒤 소각은 일상 자원 분배의 선택과 다르다",
+      "contextNote": "화목제 기름의 귀속 정리",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:3:17",
+      "textSha256": "befb0aab1654aef1428554dbb177547230c0f6e2348633f2dbde13987956be37",
+      "status": "exclude",
+      "reason": "피 기름 음식 금기는 보통 소비의 절제 여부로 그대로 옮기기 어렵다",
+      "contextNote": "모든 처소의 피 기름 식용 금지",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:4:1",
+      "textSha256": "1213bc72e4be9e9f17f4b9129e3f0d4cbde2d4cf24000ea629c6671d78ca8075",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 독립된 선택 내용이 없다",
+      "contextNote": "속죄제 규정 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:4:2",
+      "textSha256": "4481038b4226db8e2048540ae41f111b67982880caa6797ff4c6cce78d07b3ad",
+      "status": "hold",
+      "reason": "H048의 모르고 한 잘못을 깨달음은 비추나 구체 처리 없이 조건이 미완이다",
+      "contextNote": "부지중 금령 위반의 전제",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:4:3",
+      "textSha256": "2382d08524e2b2d1d96439327b76a1b741cc3c64b3923e5454a5fff95a276584",
+      "status": "hold",
+      "reason": "H048의 책임자도 잘못을 인정함은 닿으나 죄얼과 수송아지 속죄의 긴 절차가 있다",
+      "contextNote": "제사장 범죄의 속죄제",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:4:4",
+      "textSha256": "99856eaa1dc9daaa560564192abe45f7659f867f499482c83606fcf69d3ba949",
+      "status": "exclude",
+      "reason": "송아지의 안수와 도살은 일반 실수 뒤 수정의 방법으로 잇기 어렵다",
+      "contextNote": "제사장 속죄 희생 실행",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:4:5",
+      "textSha256": "275dc730998512f604cd842c9954d93b9a5332c58d933ba6505272d31fb8f4ad",
+      "status": "exclude",
+      "reason": "피를 들고 회막에 들어가는 단편은 현재 결정 이유가 없다",
+      "contextNote": "속죄 피를 회막으로 옮김",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:4:6",
+      "textSha256": "160bb6a5ca312dece23b44b246a3662d0d24ac87a7f5786cee1724bcfaf08427",
+      "status": "exclude",
+      "reason": "휘장 앞 일곱 번 피뿌림은 현재 반복 실패 뒤 방법 변경의 기준이 아니다",
+      "contextNote": "성소 앞 속죄 피 처리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:4:7",
+      "textSha256": "2909c75609f72365cdc186f1e58433204f20d698d5034d302c2849f9582f5e8e",
+      "status": "exclude",
+      "reason": "향단 뿔과 번제단 밑에 피를 바르는 장소는 일상 선택의 기준이 없다",
+      "contextNote": "속죄 피의 제단 처리",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:4:8",
+      "textSha256": "ce4a996c7ea5ab794f33102f17432057760b8a78fa352df24d7ff97e2d622442",
+      "status": "exclude",
+      "reason": "수소의 지방 취급은 행동 이유가 없는 제사 부위 목록 시작이다",
+      "contextNote": "제사장 속죄제의 기름",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:4:9",
+      "textSha256": "26f0fc9aa8ef0e6a031a6382d3340bf4f542b44b2c1108ec4e705d339c547362",
+      "status": "exclude",
+      "reason": "콩팥 간과 지방 지정은 일상 선택에 독립적인 실마리를 주지 않는다",
+      "contextNote": "제사장 속죄제 부위의 끝",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:4:10",
+      "textSha256": "5b17d92c255e08bfb0479ee136a244639f227b0adea10ffde5af4445df1546d1",
+      "status": "exclude",
+      "reason": "화목제와 같은 소각법은 앞 제사 지식이 있어야 이해할 절차다",
+      "contextNote": "속죄제 기름의 소각",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:4:11",
+      "textSha256": "970824977d0d5368134a7ea7eb9256efefe151897dbf87649aeded698b26e69a",
+      "status": "exclude",
+      "reason": "가죽 고기 머리 다리 내장의 목록만 있어 선택 의미가 미완이다",
+      "contextNote": "진 밖 소각 부위 열거",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:4:12",
+      "textSha256": "421ee733122775b5ba64a072fe6b7042b648053f3fc58f2b79a562c094f4be75",
+      "status": "exclude",
+      "reason": "똥과 송아지 전체를 태우는 장소는 일반 물건 정리의 실마리로 쓰기 어렵다",
+      "contextNote": "속죄제 잔여물 소각",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:4:13",
+      "textSha256": "78953bb306457d49a30f07879b1f6c99a9728866247da707fc4f23a9cb475c24",
+      "status": "hold",
+      "reason": "H048의 집단도 모르게 잘못할 수 있음은 비추나 아직 행동이 없는 미완 조건이다",
+      "contextNote": "회중의 부지중 잘못 전제",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:4:14",
+      "textSha256": "651adb5514ff757ca78fd65c90e75a2f0c498636fc4a87e382f25b0f73425e1e",
+      "status": "hold",
+      "reason": "H048의 깨달은 뒤 행동할 실마리는 있으나 수소 제물의 의식 내용이 바로 붙는다",
+      "contextNote": "회중이 깨달은 뒤 속죄제 준비",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:4:15",
+      "textSha256": "c1946b23df9b3515488670c71c68d53e60260e50cf2512e27921033d4bb47708",
+      "status": "exclude",
+      "reason": "장로들의 가축 안수와 도살은 공동체 사과의 일반 방법이 아니다",
+      "contextNote": "회중 속죄제의 희생",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:4:16",
+      "textSha256": "122c60d7441bf12e22aad8d59b61b4177ee095d564c2ff6886a4091848560b53",
+      "status": "exclude",
+      "reason": "피를 회막에 옮기는 지시는 독립 생활 판단 내용을 담지 않는다",
+      "contextNote": "회중 속죄 피의 이동",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:4:17",
+      "textSha256": "bac080c9fd590530e00d2f72121b4c4d25516125a0da01162b1254fbc5490fa6",
+      "status": "exclude",
+      "reason": "일곱 번 피 뿌리기는 현재 실수 수정의 적정한 반복량 기준이 아니다",
+      "contextNote": "회중 속죄의 휘장 앞 피 처리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:4:18",
+      "textSha256": "f573a2820166a643281fa2902d61282405a0375debc856151b68f3f11aebb710",
+      "status": "exclude",
+      "reason": "피를 뿔과 단 밑에 처리하는 절차는 생활 선택의 이유가 없다",
+      "contextNote": "회중 속죄 피의 제단 처리",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:4:19",
+      "textSha256": "57ce4986ac605c4cfeba06f4cc4237a5cc015756d34be946d396e59b06cc9359",
+      "status": "exclude",
+      "reason": "기름을 태우는 미완 문장은 무엇을 왜 하는지 앞 의식에 의존한다",
+      "contextNote": "회중 속죄 지방 소각",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:4:20",
+      "textSha256": "ac0053aad65adf8090875e61c2d1ed9b4ad628c30e14be6cf0e8f9656a52e4cb",
+      "status": "hold",
+      "reason": "G10의 용서 가능성은 힘이 되나 특정 제사로 사함을 얻는 선언을 상대의 수락 조건으로 옮길 수 없다",
+      "contextNote": "회중의 속죄와 사함",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:4:21",
+      "textSha256": "c6fb33221a969e1e5278f5f56d572ee9c7e4fe5055451803a2b4cf0925cde0e5",
+      "status": "exclude",
+      "reason": "앞 수송아지와 같은 소각법은 진 밖 제사 처리로 일상 선택과 거리가 있다",
+      "contextNote": "회중 속죄 희생의 진 밖 소각",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:4:22",
+      "textSha256": "da69d765afe7ae0b48c533e73176fbb6847ae460c04f93822fec97711490e9c6",
+      "status": "hold",
+      "reason": "H048의 책임자도 부지중 실수할 수 있음은 닿으나 조건만 제시하고 미완으로 끝난다",
+      "contextNote": "족장의 부지중 잘못",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:4:23",
+      "textSha256": "7e08b80763869ade2d6d69f2c7d8cdc23d47d093cfc8f9b18ed6ee32ce20e8eb",
+      "status": "hold",
+      "reason": "H048의 지적 뒤 대응은 비추나 수염소 준비가 핵심이고 수정할 행동은 바로 읽기 어렵다",
+      "contextNote": "족장이 깨달은 뒤 제물을 준비함",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:4:24",
+      "textSha256": "28dacade279fc73fea1acc4f5099db6d754f21b2e3bf6f3d4c11157162ac6936",
+      "status": "exclude",
+      "reason": "염소 안수와 도살 장소는 일반 과실 수정의 기준이 아니다",
+      "contextNote": "족장 속죄제의 희생 실행",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:4:25",
+      "textSha256": "a1398d5dd286d68321c43214656d0fd6db7204e93e12f39ba9730e648fce8851",
+      "status": "exclude",
+      "reason": "피를 뿔과 밑에 쓰는 절차는 현재 책임 인정의 선택 이유를 주지 않는다",
+      "contextNote": "족장 속죄제의 피 처리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:4:26",
+      "textSha256": "0a64cea3742420727a9ed637cb720177a80214fdd3d5d7ad568fc502e2af1113",
+      "status": "hold",
+      "reason": "G10의 잘못 뒤 용서는 위로가 되나 지방 소각과 대리 속죄라는 긴 조건이 붙는다",
+      "contextNote": "족장 속죄제의 소각과 사함",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:4:27",
+      "textSha256": "09aeebe49e52fd7f305753c05e46c364c87802defe20c644a3f7cf2f2642a4b1",
+      "status": "hold",
+      "reason": "H048의 부지중 실수를 인정함은 닿으나 허물의 조건만 있어 처리 실마리는 다음 절에 있다",
+      "contextNote": "평민의 부지중 과실 전제",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:4:28",
+      "textSha256": "8d4c0c41815a3cda8e894bd462764d4ad7819488029e8495ea7660f07ecfb7a5",
+      "status": "hold",
+      "reason": "H048의 깨달음 뒤 조치는 비추나 암염소 제물이 바로 붙고 현대 수정의 방법은 간접적이다",
+      "contextNote": "평민 속죄제의 제물 준비",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:4:29",
+      "textSha256": "4df6bc15332eb29c76a40cc309a9966fb94e644a9063dcb444bde80e32ef120c",
+      "status": "exclude",
+      "reason": "희생에 안수하고 잡는 절차는 사과의 자연스러운 행동으로 옮길 수 없다",
+      "contextNote": "평민 속죄 희생의 실행",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:4:30",
+      "textSha256": "83b630604d9616cfaa92080e254861d55a3dc9ddc89cee69fb22df4a1ebf6685",
+      "status": "exclude",
+      "reason": "제단 피 처리만 있어 일상 선택 기준이 없다",
+      "contextNote": "평민 속죄제 피의 취급",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:4:31",
+      "textSha256": "d8b4b8bd3fba47abb2af5f2bc14fa34e133095a1d172a820071ae06a68ac715a",
+      "status": "hold",
+      "reason": "G10의 사함 가능성은 있으나 지방과 향기 및 제사장 속죄의 긴 절차를 알아야 한다",
+      "contextNote": "평민 속죄제 소각과 사함",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:4:32",
+      "textSha256": "345283d0cb2cf112715facbf8f70421847080a541b1d029ebddbcb1d17d554a9",
+      "status": "exclude",
+      "reason": "어린양 암컷의 흠 조건은 구매할 물건의 작은 흠을 판단할 기준이 아니다",
+      "contextNote": "평민 속죄제의 대체 제물",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:4:33",
+      "textSha256": "e8a754f7ab4d9d95e85e0aa75a54ad7fd7dbe3e50ee85dd095e634bcba3bfafe",
+      "status": "exclude",
+      "reason": "어린양 도살과 안수는 생활 실수의 수정 방법으로 바로 읽기 어렵다",
+      "contextNote": "양 속죄제 실행",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:4:34",
+      "textSha256": "20a8f7a53f6cf1b997e4b798330e03c1dd237fd34b62d421bae85b41254f73db",
+      "status": "exclude",
+      "reason": "속죄 피를 손가락과 제단에 쓰는 방식은 현재 선택 부담을 다루지 않는다",
+      "contextNote": "양 속죄제의 피 처리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:4:35",
+      "textSha256": "00c3ce69e38baa65a8e3f187b637ebb96bd2ab2b350bc6854fc63bc99ffcab44",
+      "status": "hold",
+      "reason": "G10의 용서는 있으나 지방 소각과 화목제 비교가 길어 사과의 실마리보다 제사 이해가 먼저다",
+      "contextNote": "양 속죄제 소각과 사함",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:5:1",
+      "textSha256": "fa8057b9bdabf2a51d3250d9f93db34db618f2f3748260119054c270c2a0ac6c",
+      "status": "hold",
+      "reason": "A016의 사실 진술 책임과 닿으나 실제 본 일을 안 말한 상황이라 미목격 증언 강요와 반대 조건이다",
+      "contextNote": "증인의 진술 거부 책임",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:5:2",
+      "textSha256": "2aaea28e8c36910c048acbe2d67cab16ac3756ac285bf6d44be0037a3c5077fb",
+      "status": "exclude",
+      "reason": "사체 접촉의 부정 규정은 미확인 관계의 의도나 내 잘못을 정할 정보가 아니다",
+      "contextNote": "동물 사체 접촉의 부정",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:5:3",
+      "textSha256": "e4ae6360143e2a9c0b39d92720a6e34671df81417deb7194fdf21f4f10132e73",
+      "status": "exclude",
+      "reason": "사람 부정에 닿은 허물은 단순 교류를 잘못이라고 판단할 기준으로 옮길 수 없다",
+      "contextNote": "사람의 의식 부정 접촉",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:5:4",
+      "textSha256": "080efdbdfe2ea079db7c5a58744bb37b2378c52504e8ec949b349823adf3ecc5",
+      "status": "hold",
+      "reason": "H054의 가벼운 약속을 돌아볼 실마리는 있으나 선악 맹세와 허물 판정이 반복되어 풀이가 필요하다",
+      "contextNote": "무심한 맹세의 책임",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:5:5",
+      "textSha256": "7bd9c89b50ff988432bdb7640cad72397c6041c8472cc682c839e395bd8ebeb8",
+      "status": "candidate",
+      "reason": "무엇을 잘못했는지 먼저 말로 인정하는 실마리가 짧은 문장에 드러난다",
+      "contextNote": "열거한 과실을 자복하게 함",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G10",
+          "clue": "아무 일에 잘못했는지 말로 인정하는 모습에서 먼저 사과를 시작할 실마리를 얻는다.",
+          "friction": "범과 자복의 옛말과 앞의 여러 과실 목록을 가리키는 도입이 있다. 상대가 받아줄 것이라고 확정하지 않는다.",
+          "expectedEnough": "yes"
+        },
+        {
+          "scenarioId": "H048",
+          "clue": "틀린 것을 밀어붙이기보다 어느 점의 잘못인지 인정하는 방향을 읽는다.",
+          "friction": "속죄제 앞의 자복 규정이며 구체 수정 방법이나 비판의 정당성 전부를 새로 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:5:6",
+      "textSha256": "a114274bc305a0489676de6ca2a1ffcd3bb058cb8454ba4e3f8048a49638f897",
+      "status": "exclude",
+      "reason": "양이나 염소의 속죄 절차는 현재 상대에게 사과할 방법과 다른 제사 조건이다",
+      "contextNote": "자복 뒤 속건 속죄 제물 지시",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:5:7",
+      "textSha256": "4f64d6c910fe01c1a5c27e3bc5a895220c27ed94ab8f1fc269e42e7a96a5e2cb",
+      "status": "candidate",
+      "reason": "큰 예물을 감당 못 하면 작은 것으로 바꿀 수 있다는 이유가 분명해 부담을 낮출 실마리다",
+      "contextNote": "어린양 여력 부족 시 새 두 마리 허용",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H007",
+          "clue": "큰 예물에 여력이 미치지 못하면 더 작은 것으로 드릴 수 있다는 말에서 비싼 선물의 부담을 낮출 수 있다.",
+          "friction": "속죄와 번제의 새 두 마리라는 종교 의무다. 모든 선물을 속죄 의무로 설명하거나 친구가 더 큰 것을 요구한다고 가정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:5:8",
+      "textSha256": "ed18ba7f2d1ea0a655a0fdc031f55f8b08b38ae93e1707f7320a8691ef25d2b8",
+      "status": "exclude",
+      "reason": "새 목을 비틀어 끊는 구체 절차는 지금 선물 준비의 실마리를 주지 않는다",
+      "contextNote": "새 속죄제의 희생 방법",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:5:9",
+      "textSha256": "e15a12a3dc8d52cb7483534fae3833fa4829c18ab31173627c6150d3396d8f8d",
+      "status": "exclude",
+      "reason": "피를 단 곁과 밑에 처리하는 방법은 생활 선택의 이유가 없다",
+      "contextNote": "새 속죄제의 피 처리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:5:10",
+      "textSha256": "b3df796de23de7e28990cc90b920f038c9b931c967b848d71be704b6fec531d6",
+      "status": "hold",
+      "reason": "G10의 용서 가능성은 있지만 다음 번제를 전제한 의식이 현재 상대의 마음을 정할 수 없다",
+      "contextNote": "새 번제 뒤 속죄와 사함",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:5:11",
+      "textSha256": "7a9f1a537b5066351296cb99e55f697ab8eda5061641b3cb4aa7e3b45b657b58",
+      "status": "candidate",
+      "reason": "더 작은 예물도 감당 못 할 때 가루로 단순하게 드릴 수 있다는 선택지가 부담의 실마리다",
+      "contextNote": "새도 부담되는 사람의 곡식 속죄제",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H007",
+          "clue": "비둘기조차 부담되면 가루와 최소한의 방식으로 드린다는 선택에서 값보다 가능한 마음을 읽는다.",
+          "friction": "에바 단위와 속죄제 및 기름 유향 금지의 긴 규정이다. 값싼 선물이 모든 상황에 충분하다는 보장은 붙이지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:5:12",
+      "textSha256": "689a5904ca403f13efd5c8037e70192032f1376ef5e109c0ec27bc95d162cbef",
+      "status": "exclude",
+      "reason": "가루 한 움큼을 불사르는 절차는 지금 도움이나 선물의 적정량 판단이 아니다",
+      "contextNote": "가난한 자 속죄제의 제물 처리",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:5:13",
+      "textSha256": "ffb3ab2fdddebd21427af6b15bb3e32d1c0bb81ef3c21137d1459ddfb73bc629",
+      "status": "hold",
+      "reason": "A006의 제사장 몫과 G10의 용서는 있으나 앞 과실 목록과 제사 방식에 의존하는 긴 문장이다",
+      "contextNote": "곡식 속죄제 사함과 남은 몫",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:5:14",
+      "textSha256": "1213bc72e4be9e9f17f4b9129e3f0d4cbde2d4cf24000ea629c6671d78ca8075",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 독립된 생활 판단 내용이 없다",
+      "contextNote": "성물 범과의 속건제 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:5:15",
+      "textSha256": "cf55d0ec3ea676631f95e4ac7b99bd69ae8c36ed619b83181e2532c94ffc5d09",
+      "status": "exclude",
+      "reason": "수양의 값과 세겔 지시는 현재 지인의 일 보수나 사과 비용의 정보가 아니다",
+      "contextNote": "성물에 대한 잘못의 제물",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:5:16",
+      "textSha256": "721498fc42d5c26f0af8fa5bcc0455a1e8f64a79af040c0116b9050db1e9a1e7",
+      "status": "hold",
+      "reason": "A017의 책임 배상은 닿으나 성물 피해의 오분 일 추가와 수양 속죄까지 있어 수리비 결정과는 다르다",
+      "contextNote": "성물 손해 배상과 속건 제사",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:5:17",
+      "textSha256": "1a52bfb6cbf81c613f54ef0ab0a27a4d15913767b025227cd4de1f244140d3b8",
+      "status": "hold",
+      "reason": "H048의 몰랐던 잘못도 돌아봄은 있으나 금령과 벌의 선언만으로 수정 행동은 약하다",
+      "contextNote": "부지중 금령 위반의 책임",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:5:18",
+      "textSha256": "140f6ed9d0cd86a7c30749fd6db61088d210f11bb16c28e5d80a2f7a5b69777a",
+      "status": "hold",
+      "reason": "G10의 잘못 뒤 용서는 위로가 되나 지정 가격의 수양과 제사장 중재가 선택 연결을 길게 한다",
+      "contextNote": "부지중 과실의 속건제",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:5:19",
+      "textSha256": "dbb5d4e8b00416d6b508b0c12075e8216c8247997848d2e564a57691da2e9c4d",
+      "status": "exclude",
+      "reason": "범과임을 확인하는 의식 결론은 어떤 잘못인지 앞 문맥을 요구한다",
+      "contextNote": "속건제 규정 정리",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:6:1",
+      "textSha256": "1213bc72e4be9e9f17f4b9129e3f0d4cbde2d4cf24000ea629c6671d78ca8075",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 선택의 내용이 없다",
+      "contextNote": "이웃 재산 침해 규정 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:6:2",
+      "textSha256": "adcbcf0624140fc698aa9a6d56fa03997945f6b6782d753a92f8dc95049ea4f9",
+      "status": "hold",
+      "reason": "A010의 남의 것을 속여 갖지 않음은 닿으나 강도와 늑봉의 적극 침해가 미확인 송금과 다르다",
+      "contextNote": "남의 재산 침해와 부인의 조건",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:6:3",
+      "textSha256": "c3dc191298217a3f0c40b3656a5052b774aa26ee9d8fcff9fd33dc3f8e7406fd",
+      "status": "hold",
+      "reason": "A019의 유실물을 숨기지 않을 실마리는 있으나 이미 거짓 맹세한 범죄 조건이라 현재 고민과 간격이 있다",
+      "contextNote": "유실물 부인과 거짓 맹세",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:6:4",
+      "textSha256": "0d9a07ef34700aee05fad596aa7f79c3abb8f278d380359f250aecb42f7e869c",
+      "status": "exclude",
+      "reason": "물건 종류의 열거와 죄 판정이 다음 반환 지시로 이어져 독립 실마리가 미완이다",
+      "contextNote": "돌려줘야 할 침해 재산의 목록",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:6:5",
+      "textSha256": "9fadf69f9e4f4d93b0f4de736beb99ece8e88ccc163b59bcc09c1c1a7076d8d1",
+      "status": "hold",
+      "reason": "A019의 주인에게 반환하는 실마리는 있으나 거짓 맹세와 오분 일 추가 배상이 전체 문장의 무게다",
+      "contextNote": "부당한 재산의 반환과 추가 배상",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:6:6",
+      "textSha256": "f0d1eed2b3042c8597377f5efeeb249949c3f3ff7bc374ab8e95b031c5a06da0",
+      "status": "exclude",
+      "reason": "지정 가치의 수양을 제사장에게 가져오는 규정은 현재 돈 돌려줄 액수 판단과 다르다",
+      "contextNote": "배상 뒤 속건 제물",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:6:7",
+      "textSha256": "46387461c052f7b23d19deb580fff1446e94e2ab286a8490b1091891188d08f4",
+      "status": "hold",
+      "reason": "G10의 사함은 위로가 되나 여호와 앞 제사장 속죄가 미확인 친구 수락의 조건이 아니다",
+      "contextNote": "이웃 재산 죄의 속죄와 사함",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:6:8",
+      "textSha256": "1213bc72e4be9e9f17f4b9129e3f0d4cbde2d4cf24000ea629c6671d78ca8075",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 생활 선택의 이유가 없다",
+      "contextNote": "제사장 집행 규정 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:6:9",
+      "textSha256": "6a337bbe5f8a7c8b78580b2470a8a68fd8df5391758ef94e45dafdaeae371856",
+      "status": "hold",
+      "reason": "H053의 지속할 태도는 비추나 밤새 제단 불 관리의 의무를 사용자 과로에 전이하면 안 된다",
+      "contextNote": "번제의 밤새 유지",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:6:10",
+      "textSha256": "7fb0aa4fc9db5de9bc5d36a73e34cedcfaa93ebd43da477d1bb7e6ad1c924bc8",
+      "status": "exclude",
+      "reason": "옷으로 하체를 가리고 재를 옮기는 일은 일상 옷 구매나 정리 선택의 기준이 아니다",
+      "contextNote": "제사장 재 수거 복식",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:6:11",
+      "textSha256": "053b346c35265c73ccbe0b61770befb6082e31532cf4a99d31c07dc8799d38ea",
+      "status": "exclude",
+      "reason": "다른 옷으로 갈아입어 재를 내가는 규정은 새 옷 구매의 필요를 설명하지 않는다",
+      "contextNote": "재 반출 시 복장 변경",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:6:12",
+      "textSha256": "5afda2d041b1714ee7145f034634e5f6c1f112a06088b2f75d31d56e169afcab",
+      "status": "hold",
+      "reason": "H053의 매일 유지할 실마리는 있으나 번제 지방과 아침의 제단 의무가 길어 작은 마무리와 간격이 있다",
+      "contextNote": "제단 불을 매일 보충하는 방법",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:6:13",
+      "textSha256": "f1bd9ed27fa5e9fca4c5f49167160a4974d2d83934c7f489a8dc3d8331abd91a",
+      "status": "candidate",
+      "reason": "불이 꺼지지 않게 지킨다는 짧은 말에서 흥미가 줄어도 현재 일의 불씨를 유지할 실마리를 읽는다",
+      "contextNote": "상번제의 불을 계속 유지하게 함",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H053",
+          "clue": "남은 일을 마치기 전 새 흥미로 옮기고 싶을 때 지금 불씨를 꺼뜨리지 않을 실마리를 읽는다.",
+          "friction": "제단 상번제의 지속이며 쉬지 말고 과로하라는 처방으로 쓰지 않는다. 이미 회복을 위해 쉬어야 한다는 H055와 구별한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:6:14",
+      "textSha256": "1932fe3a92e140a745d96b7013b57190bac6015f2ebb2122ee12b92ae1c4a9a5",
+      "status": "exclude",
+      "reason": "소제의 제사장 절차 도입은 생활 판단의 내용이 미완이다",
+      "contextNote": "소제 집행 규정 시작",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:6:15",
+      "textSha256": "d7b1136185993bbf4e83a3d3f863b39c75e44611d5c334b89141a2eadc4307d5",
+      "status": "exclude",
+      "reason": "가루 기름 유향을 한 움큼 태우는 방법은 지금 나눌 자원의 실제 적정량이 아니다",
+      "contextNote": "소제 기념분 소각",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:6:16",
+      "textSha256": "e1382bbc28e894c1c1da5eac483976df4046b4452e6fe5c45f3fc578c7dc4949",
+      "status": "exclude",
+      "reason": "누룩 없이 거룩한 곳에서 먹는 의식은 일상 휴식과 소비의 이유를 직접 다루지 않는다",
+      "contextNote": "제사장 소제 잔여 식사",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:6:17",
+      "textSha256": "03911cd083dbfbe6ea803a28fe46853bd0841ec5b434caa95698e07370f81565",
+      "status": "hold",
+      "reason": "A006의 섬기는 자 소득은 비추나 누룩 금지와 속죄제 비교의 의식 내용이 읽기를 막는다",
+      "contextNote": "소제물의 제사장 소득 성격",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:6:18",
+      "textSha256": "d95c49ac0bfcd0b3ee57c1ff0d7031f61fbc75897720f9d119090690d7a8d34b",
+      "status": "exclude",
+      "reason": "접촉 거룩함과 아론 남자 자손의 영구 몫은 일상 보수의 적합성을 설명 없이 정하지 않는다",
+      "contextNote": "소제 식사의 자격과 거룩함",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:6:19",
+      "textSha256": "1213bc72e4be9e9f17f4b9129e3f0d4cbde2d4cf24000ea629c6671d78ca8075",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 독립 생활 기준이 없다",
+      "contextNote": "위임 소제 규정 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:6:20",
+      "textSha256": "c8d32a5660f8b5ba0afd500f23315d8cdec29edb1105e0faa4366747c4162a68",
+      "status": "exclude",
+      "reason": "아침저녁 가루 분량과 기름 부음은 일반 작은 습관 시작이나 시간 배분과 다른 조건이다",
+      "contextNote": "기름 부음의 날 소제 분량",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:6:21",
+      "textSha256": "3cb2d3605b666711611dfe63f3c0609f3b3b30489f5e50e1a1121d32c23cb69b",
+      "status": "exclude",
+      "reason": "번철 조리와 소제의 향기는 현재 선물의 가치를 말하는 내용이 아니다",
+      "contextNote": "위임 소제의 조리법",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:6:22",
+      "textSha256": "1d36ac525d6d814a25207cf9261143a575269218ed398af28da8d60cab980cf3",
+      "status": "exclude",
+      "reason": "후계 제사장의 영구 소각 규정은 현재 일을 바꿀지의 판단 근거가 아니다",
+      "contextNote": "위임 소제의 후계 의무",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:6:23",
+      "textSha256": "43006b674816bf0a40a19231487103e6ea39cf73d8d23e2c76c0e14c5ab64b34",
+      "status": "exclude",
+      "reason": "먹지 말고 전부 태울 제사 규정은 과소비나 음식 잔여 처리의 일반 원리가 아니다",
+      "contextNote": "제사장 소제의 식용 금지",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:6:24",
+      "textSha256": "1213bc72e4be9e9f17f4b9129e3f0d4cbde2d4cf24000ea629c6671d78ca8075",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 생활 선택의 내용이 없다",
+      "contextNote": "속죄제 집행 규정 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:6:25",
+      "textSha256": "d91b4d6ba6afc9f3430a622358706614fdac26d2f3c15b8f3b9ad770f2bc1d7d",
+      "status": "exclude",
+      "reason": "희생 잡을 장소와 거룩함은 지금 내 사과나 실수 수정의 방법을 말하지 않는다",
+      "contextNote": "속죄 희생의 도살 장소",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:6:26",
+      "textSha256": "7c8971254104c0c85f923ff62b7fc88739eeda54e1be87323c7e09d6eabdda93",
+      "status": "hold",
+      "reason": "A006의 섬긴 제사장이 먹는 몫은 비추나 회막 식사의 의식적 뜻이 현재 보수 요청과는 간접적이다",
+      "contextNote": "속죄제를 집행한 제사장의 식사",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:6:27",
+      "textSha256": "f8ad34d3f8f0d6855781cee0041243ad1feb29faf2ab4d2a0c1027799eb80276",
+      "status": "exclude",
+      "reason": "접촉 고기와 묻은 피의 세탁은 일상 관계의 죄책감이나 옷 구매에 잇기 어렵다",
+      "contextNote": "속죄 희생 접촉과 세탁 규정",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:6:28",
+      "textSha256": "215b3d5a10e99978f107fcda475c47d250ebc23f6718ba22378da6e9dbbd1f8f",
+      "status": "exclude",
+      "reason": "토기 파괴와 유기 세척의 차이는 현재 작동하는 기기를 바꿀지의 조건과 다르다",
+      "contextNote": "속죄 고기 조리 용기의 처리",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:6:29",
+      "textSha256": "a09cc1ab790e2d56984eed4b73d8ad88383aae96b83eb2a9eca5db993c9448a6",
+      "status": "exclude",
+      "reason": "제사장 남자만 먹는 자격은 일반 모임 구성이나 나눔의 기준이 아니다",
+      "contextNote": "속죄 고기의 식사 자격",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:6:30",
+      "textSha256": "d66d0bea1d6d066d21cdd065d404aae48c56a5d5da448282440860bd4847132d",
+      "status": "exclude",
+      "reason": "피를 회막으로 가져간 제물의 식용 금지는 일반 음식 선택과 다른 속죄 조건이다",
+      "contextNote": "일부 속죄 희생의 식용 금지",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:7:1",
+      "textSha256": "7dccabcf022a76a8c18f41321039c077013b709665fef975f640ea309c37159c",
+      "status": "exclude",
+      "reason": "속건제의 거룩함이라는 도입은 앞뒤 풀이 없이 선택 실마리가 약하다",
+      "contextNote": "속건제 집행 규정 시작",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:7:2",
+      "textSha256": "88ab0dba384af7903f937419c176488571fc7059a40c803cbaefccdd3e9e46e8",
+      "status": "exclude",
+      "reason": "잡을 장소와 사면 피뿌림은 생활 선택 기준이 없는 제사 절차다",
+      "contextNote": "속건제 희생과 피 처리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:7:3",
+      "textSha256": "7d8701b72872f8b3956e62ec866ca135eab698f7c20fe9109fca7c5554b0ecca",
+      "status": "exclude",
+      "reason": "기름진 꼬리와 내장 목록은 독립된 행동의 이유가 미완이다",
+      "contextNote": "속건제 지방 부위 시작",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:7:4",
+      "textSha256": "39da8f41220170d76844d4fe78462ef44316c717239bd0858bc0450bb332ecbe",
+      "status": "exclude",
+      "reason": "콩팥과 간 꺼풀은 현재 재산이나 일의 분배를 말하지 않는 해부 지시다",
+      "contextNote": "속건제 태울 부위의 끝",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:7:5",
+      "textSha256": "270b233a9382436d2d102a3dc6f201e2a92ddc4c183e875404f917ae5e36a99f",
+      "status": "exclude",
+      "reason": "속건제 소각을 일반 자원 포기나 헌신의 처방으로 바로 읽기 어렵다",
+      "contextNote": "속건제 화제 집행",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:7:6",
+      "textSha256": "cdb382db9d58efb562199ada6cb6955be966b5c139785c4e358786dbcf593ab7",
+      "status": "exclude",
+      "reason": "제사장 남자의 거룩한 식사 장소는 보통 휴식이나 외식 선택의 이유가 아니다",
+      "contextNote": "속건제 식사 자격",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:7:7",
+      "textSha256": "f8f205a05a9d9cadc5500df8cdfc28f4de207d3b50b87a1a8e5ed89649e1a602",
+      "status": "hold",
+      "reason": "A006의 봉사자 몫은 있으나 제육과 속한다는 옛말이 독립 읽기를 막는다",
+      "contextNote": "속죄 속건 고기의 집행자 귀속",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:7:8",
+      "textSha256": "d47ba222f477c666c1603d3775edacc102b663ecb0b206fa9bfeef1f7ffe724d",
+      "status": "candidate",
+      "reason": "번제를 맡아 드린 사람이 몫을 얻는 모습에서 지속한 도움의 보수를 말할 실마리를 읽는다",
+      "contextNote": "번제 희생 가죽을 담당 제사장에게 줌",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A006",
+          "clue": "맡아 드린 사람이 몫을 얻는 모습을 통해 친분이 있어도 일을 한 대가를 말할 실마리를 읽는다.",
+          "friction": "제사장이 희생 가죽을 받는 제사 제도다. 지인의 지급 수락이나 구체 액수는 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:7:9",
+      "textSha256": "4ce22aaba389a03cd57c8c33a833e28aa9ead7a545873f5df57ab98fc3daa5b7",
+      "status": "candidate",
+      "reason": "일을 맡아 드린 사람에게 돌아가는 몫이 있다는 문장이 보수 요청의 부담에 실마리가 된다",
+      "contextNote": "조리한 소제물의 담당 제사장 귀속",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A006",
+          "clue": "직접 맡아 한 사람에게 돌아갈 몫이 있다는 말이 계속 무료로만 돕는 부담을 비춘다.",
+          "friction": "소제 음식의 담당 제사장 귀속이며 현대 서비스 가격표가 아니다. 상대가 먼저 대가를 약속했다고 가정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:7:10",
+      "textSha256": "a40819fb0d423a1e4ca6a8a48275157b77363eb9bc9df8b798186c3e696ca391",
+      "status": "candidate",
+      "reason": "어떤 종류든 함께 고르게 나눈다는 말에서 자기 몫만 더 둘지의 부담을 읽을 수 있다",
+      "contextNote": "소제물을 아론 자손에게 고르게 분배함",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A021",
+          "clue": "종류에 관계없이 함께 고르게 나눈다는 말에서 내 몫을 더 챙길지의 부담을 풀 실마리를 읽는다.",
+          "friction": "아론 자손의 제물 식사 분배로 현대 팀의 기여도를 정하는 법은 아니다. 현재 같은 분량으로 일했다는 입력 조건에 대조한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:7:11",
+      "textSha256": "6694629f5b375b7f59a7ae5dc825170f7d54b0f0e7ee54cf5528419f833c2eea",
+      "status": "exclude",
+      "reason": "화목제 규정의 도입만 있어 독립 생활 판단이 없다",
+      "contextNote": "화목제 집행 규정 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:7:12",
+      "textSha256": "89d301dd78463537367a6c221c276de2016f6f575d1bab474fa0500038217ad6",
+      "status": "exclude",
+      "reason": "감사 예물의 여러 무교 음식은 선물의 마음보다 제물 조리 종류를 설명한다",
+      "contextNote": "감사 화목제의 음식",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:7:13",
+      "textSha256": "cbfbab00a2b28713cac50e87a053ce5bc9368b690f59c5235edb1b0fa370e60c",
+      "status": "exclude",
+      "reason": "유교병을 함께 드리는 미완 절차는 생활 선택의 이유가 없다",
+      "contextNote": "감사 화목제의 추가 제물",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:7:14",
+      "textSha256": "2f06c7c9780ba0895ffcc65c6196f468657f54e27b04b65183999ca9c9ccf78a",
+      "status": "hold",
+      "reason": "A006의 집행자에게 몫을 줌은 비추나 거제와 피뿌림의 규정이 보수 요청보다 의식에 가깝다",
+      "contextNote": "감사 예물 일부의 제사장 귀속",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:7:15",
+      "textSha256": "e4ad9f6aaf7ecfc58d26eac797e20bf40c5b3f2b9bcfafb588d40582c8ec27b7",
+      "status": "hold",
+      "reason": "H004의 감사와 오늘 누림은 떠올릴 수 있으나 제사 고기의 이튿날 보관 금지가 실제 여행 선택과 다르다",
+      "contextNote": "감사 희생 고기의 당일 식사",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:7:16",
+      "textSha256": "3aec12f1ffcb27fcfa630451a7ca0629670b965363089fa5bdef26647ee8cd10",
+      "status": "exclude",
+      "reason": "서원 예물 고기의 이튿날 식사 허용은 현재 미룰 일의 기한을 정할 기준이 아니다",
+      "contextNote": "서원 자원 제물의 식사 기간",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:7:17",
+      "textSha256": "159dc0b097f2a03e9e4b3ac1dbe325051304121ca315de7ce1442ccd0c199138",
+      "status": "exclude",
+      "reason": "사흘 고기를 태우라는 조건은 실제 사용 기한과 무관한 제사 음식 규정이다",
+      "contextNote": "화목제 고기 잔여 소각",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:7:18",
+      "textSha256": "669a90d4ebe01201c58a7fccc6695aa95f36eee50ab132966f89ee89fa71d220",
+      "status": "exclude",
+      "reason": "사흘째 먹으면 죄가 된다는 긴 제재는 내 식사나 활동 선택에 맞는 이유가 아니다",
+      "contextNote": "화목제 식사 기한 위반",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:7:19",
+      "textSha256": "2d9b09f8c9e7b4b67ae29d5f255bbbfb6dea8c412ad80ef51e21c85695a8ce43",
+      "status": "exclude",
+      "reason": "고기 접촉 부정과 깨끗한 식사자는 현재 사람의 성품을 정할 정보가 아니다",
+      "contextNote": "제물의 부정 접촉 처리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:7:20",
+      "textSha256": "61293356b2d2605d15c754b7a45dc3c27de7ad764b1ded1f2ab8081c8c4c5ae4",
+      "status": "exclude",
+      "reason": "부정한 사람 식사의 추방 제재는 일상 소비나 모임의 선택 기준으로 읽기 어렵다",
+      "contextNote": "부정한 자의 화목제 식사 제재",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:7:21",
+      "textSha256": "a3cfe10eb201dc46340867147e0fe10a1f4c1a71a8863d99f520504e73f1b114",
+      "status": "exclude",
+      "reason": "다양한 부정 접촉 뒤 추방은 일반 교류의 경계 실마리로 옮길 수 없다",
+      "contextNote": "부정 접촉자의 제사 음식 금지",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:7:22",
+      "textSha256": "1213bc72e4be9e9f17f4b9129e3f0d4cbde2d4cf24000ea629c6671d78ca8075",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 생활 선택 내용이 없다",
+      "contextNote": "기름 피 금령 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:7:23",
+      "textSha256": "898bab00c1efddbf40d24f80d8cc0e695b2feaf11f16a504c15b746bfad5f99b",
+      "status": "exclude",
+      "reason": "가축 기름 식용 금지는 실제 지출과 절제의 부담을 다루지 않는다",
+      "contextNote": "소 양 염소의 기름 금지",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:7:24",
+      "textSha256": "633ca74d20ae6350652cc4ec7bb181570ba9ba5703e05166c2545c2040a002b4",
+      "status": "exclude",
+      "reason": "죽은 짐승 기름의 다른 용도는 현재 중고 물건을 팔지 줄지의 조건과 다르다",
+      "contextNote": "사체 기름의 사용과 식용 구별",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:7:25",
+      "textSha256": "92a1de33b37bf26ca3ab3c8c1305d55e7f9db40e44aff16d0761017e45bd6021",
+      "status": "exclude",
+      "reason": "희생 기름을 먹으면 추방된다는 제재는 일상 식사나 구매에 자연스러운 단서를 주지 않는다",
+      "contextNote": "제사 지방 식용의 제재",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:7:26",
+      "textSha256": "9d2888e174d972c8fd7bd2087bf1daef64d5bd9885000aef6330623bce45a3d8",
+      "status": "exclude",
+      "reason": "모든 새 짐승 피를 금하는 음식 규정은 현재 선택의 필요나 효용과 무관하다",
+      "contextNote": "피 식용의 전면 금지",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:7:27",
+      "textSha256": "31ca791e4573fb9ab7b2f97c7f4f8abaacaca838db5079313709a23685b7fd7e",
+      "status": "exclude",
+      "reason": "피 섭취 추방은 현재 다른 행동의 실패 위험을 판단할 정보가 아니다",
+      "contextNote": "피 식용자의 제재",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:7:28",
+      "textSha256": "1213bc72e4be9e9f17f4b9129e3f0d4cbde2d4cf24000ea629c6671d78ca8075",
+      "status": "exclude",
+      "reason": "말씀 시작만 있어 독립 생활 판단이 없다",
+      "contextNote": "화목제의 제사장 몫 규정 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:7:29",
+      "textSha256": "8c47d7498f5e6096f9b6a378515a23d70793a74ef4a0c2bbf64145faf39ab42c",
+      "status": "exclude",
+      "reason": "화목제 예물 준비의 미완 도입은 선물과 보수의 크기를 판단하지 않는다",
+      "contextNote": "화목제 예물 전달 준비",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:7:30",
+      "textSha256": "da0cf32323563b43de053e258d5bbfa5202ca8820b5d0af2aea1761a809b886e",
+      "status": "hold",
+      "reason": "A012의 직접 가져온 감사는 있으나 지방 가슴을 요제로 흔들 의식까지 길게 붙는다",
+      "contextNote": "헌납자가 가져오고 제사장이 흔드는 제물",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:7:31",
+      "textSha256": "c08d7cf1595f8955e3a62aeb07264001d79f7588a6f201ca5a5bf605cfb9ec37",
+      "status": "hold",
+      "reason": "A006의 역할별 몫은 비추나 기름 소각과 가슴의 제사장 가계 귀속이 간접적이다",
+      "contextNote": "화목제 지방과 가슴의 배분",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:7:32",
+      "textSha256": "d2cab67ea526f4feb5ee3ea68b1427d247c328b96e12b003e2e1a2bdfe89b490",
+      "status": "exclude",
+      "reason": "오른 뒷다리를 거제로 드리는 지정은 선물의 적정액을 직접 말하지 않는다",
+      "contextNote": "화목제 뒷다리의 제사장 몫",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:7:33",
+      "textSha256": "bb8309467dff38c285fe767cda33f86d97790e5229861d563708ca1d020aaa0c",
+      "status": "candidate",
+      "reason": "피와 기름을 드리는 일을 한 사람이 자기 소득을 얻는 문장에서 보수의 자리를 읽는다",
+      "contextNote": "화목제 담당 제사장의 몫",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A006",
+          "clue": "제물을 드리는 일을 맡은 사람의 소득을 인정하는 문장에서 내 보수도 말할 수 있다는 실마리를 읽는다.",
+          "friction": "화목제 피와 기름 및 뒷다리라는 구체 몫이다. 사용자가 이미 보수를 약속받았거나 지인이 수락할 것이라는 설명을 붙이지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:7:34",
+      "textSha256": "b185b674d6a049f70c71c3d7ff635671a4f2b7f44538d50c9e8d894ebc20a390",
+      "status": "hold",
+      "reason": "A006의 봉사자 소득은 있으나 흔든 가슴과 든 다리 및 가문 영구 몫이 길어 개별 보수보다 간접적이다",
+      "contextNote": "가슴 뒷다리의 제사장 소득 근거",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:7:35",
+      "textSha256": "472533b9602b6115748735c7b832513f23955ee65e6e092da1e6535c1f68ce04",
+      "status": "exclude",
+      "reason": "직분을 맡긴 날이라는 미완 설명은 앞뒤 소득 규정을 알아야 한다",
+      "contextNote": "제사장 분깃의 기원 도입",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:7:36",
+      "textSha256": "da3db92207e0f0cab449d63d690b5815b78323139047c0843b05702cecf60ff3",
+      "status": "hold",
+      "reason": "A006의 맡은 역할에 몫이 있음은 읽히나 그들 대상과 돌릴 것을 앞 문장에서 찾아야 한다",
+      "contextNote": "기름 부음 날 지정된 영구 소득",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:7:37",
+      "textSha256": "46cea2158c991308127998f931454886dcbc1c1b0a8ee7963bd05be8e31d688a",
+      "status": "exclude",
+      "reason": "여섯 제사 종류의 목록은 지금 구체 선택에 대한 기준이 없다",
+      "contextNote": "앞 제사 법규의 총괄",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:7:38",
+      "textSha256": "e6368fd20c99659bbf3b4c5e706da9c864d82bda3b0ba6e907fc605b7a338253",
+      "status": "exclude",
+      "reason": "시내산 명령의 시점은 오늘의 고민에서 필요한 일정 정보가 아니다",
+      "contextNote": "제사 규정 전달의 장소와 때",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:8:1",
+      "textSha256": "1213bc72e4be9e9f17f4b9129e3f0d4cbde2d4cf24000ea629c6671d78ca8075",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 독립된 선택 내용이 없다",
+      "contextNote": "제사장 위임 실행 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:8:2",
+      "textSha256": "f08b865f66e506ba9d948f3a9f7f37fa6d334a5e47c1b5d7f786375eee5c01a3",
+      "status": "exclude",
+      "reason": "가족 의복 관유 희생물 목록은 현재 역할을 맡을지의 부담을 직접 다루지 않는다",
+      "contextNote": "아론 위임식의 준비물",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:8:3",
+      "textSha256": "a15e33753f4ce220652567a8a3b83d844c93eb4cae5440f32384a03f34368e55",
+      "status": "hold",
+      "reason": "H033의 함께 사람을 부름은 떠올릴 수 있으나 회중 소집만으로 도움 요청의 실마리는 약하다",
+      "contextNote": "위임식에 회중을 모으게 함",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:8:4",
+      "textSha256": "ac14184139da3d366b959a40a757e305c9eca253b980fcd3bf86185da447c93a",
+      "status": "exclude",
+      "reason": "회중이 모인 결과는 지금 사람들이 내 요청을 받아줄지의 정보가 아니다",
+      "contextNote": "모세가 소집 명령을 실행함",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:8:5",
+      "textSha256": "50945c5f7e0f48633a706b728a36fb026a382ee66de6ffdb079306bf3aaa0f61",
+      "status": "exclude",
+      "reason": "명하신 것이 이러하다는 도입은 다음 의식 내용 없이 판단이 미완이다",
+      "contextNote": "모세가 위임식의 근거를 말함",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:8:6",
+      "textSha256": "61deec6e52d3e4ebb5f33c68a9ec9e8d37b91b18043a52a62ca25eb4ac1b7486",
+      "status": "exclude",
+      "reason": "가족을 씻기는 의식은 지금 역할 준비의 적정함을 판단할 기준이 아니다",
+      "contextNote": "제사장 위임 전 세정",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:8:7",
+      "textSha256": "0e0f52e7a83b6cdd6e19445ac3a581a0df7dedfacaa814347e3b3511a1ce3ad8",
+      "status": "exclude",
+      "reason": "속옷과 에봇 띠의 착용 순서는 의복 구매의 죄책감이나 효용을 다루지 않는다",
+      "contextNote": "아론의 위임 복식 착용",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:8:8",
+      "textSha256": "a93d3d8fbc3a5a2d829af29a2df3c072da27a0466c165afd7a25e62135582e57",
+      "status": "exclude",
+      "reason": "우림 둠밈을 흉패에 넣는 방법은 오늘 고민의 결정 도구로 풀이 없이 읽기 어렵다",
+      "contextNote": "판결 흉패의 착용",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:8:9",
+      "textSha256": "c4e342bab66d0c64eaf3236e54e363c4e4c987f3c278eac6570a5038df884c69",
+      "status": "exclude",
+      "reason": "관과 금패 착용은 오늘 역할 자격이나 옷 구매의 필요를 판단하지 않는다",
+      "contextNote": "아론의 머리 위임 복식",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:8:10",
+      "textSha256": "aef73f8c0079c8f02a7bfb5f706d99167fb38211dad1aeae286cac73bb96048d",
+      "status": "exclude",
+      "reason": "관유로 장막을 거룩케 하는 의식은 현재 물건 정리나 소비의 뜻이 아니다",
+      "contextNote": "성막의 관유 성별",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:8:11",
+      "textSha256": "85764ae1466efbbe0730883c75860e2f04e5100bf263afd629062a71457741fe",
+      "status": "exclude",
+      "reason": "일곱 번 기름을 뿌리는 제사 기구 정결은 내 준비의 완벽함을 가를 기준이 아니다",
+      "contextNote": "단과 기구 물두멍의 성별",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:8:12",
+      "textSha256": "f24fce77952a6e5a1415f61f0f6e56683ac61ae5b62693b2bb4b922b8af08dba",
+      "status": "exclude",
+      "reason": "아론 머리 기름 부음은 실제 사용자의 직무 능력을 확인할 정보가 아니다",
+      "contextNote": "아론의 성별 실행",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:8:13",
+      "textSha256": "14b51d33c71950f629503ed553202422645361b9ac58204172ae54d6ca2db6e7",
+      "status": "exclude",
+      "reason": "가족에게 위임 복식을 입힌 일은 보통 가족 선물이나 복장 선택 이유가 없다",
+      "contextNote": "아론 아들들의 위임 복식",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:8:14",
+      "textSha256": "533de9a417da4d350b69ca1f525e948f186588ba3b81f63965fcc3b691bbaf22",
+      "status": "exclude",
+      "reason": "송아지 안수는 현재 잘못을 인정할 대화 방법과 다른 제사 절차다",
+      "contextNote": "위임식 속죄 희생의 안수",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:8:15",
+      "textSha256": "d1e3b1620f24ded605dac4e7fc5edc23e906dc2d2a56c5ae6f1632ab6cba45ea",
+      "status": "exclude",
+      "reason": "단의 뿔과 밑의 피 처리는 생활 선택의 양쪽 부담을 다루지 않는다",
+      "contextNote": "위임식 제단 속죄 실행",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:8:16",
+      "textSha256": "21d2cee54bf5cf5336dfb078aa1cb908fe7a0599f59ea9131a0de587d6729f9f",
+      "status": "exclude",
+      "reason": "내장 지방과 콩팥의 소각은 생활 선택 전에 의식의 뜻을 알아야 한다",
+      "contextNote": "위임식 속죄제 기름 소각",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:8:17",
+      "textSha256": "1741b8248cc2c6b5d979adcf360971895c6ce80286ecb662cd37001ad3977907",
+      "status": "exclude",
+      "reason": "가죽 고기 똥의 진 밖 소각은 물건 버림의 일반 처방이 아니다",
+      "contextNote": "위임식 송아지 잔여물 처리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:8:18",
+      "textSha256": "77cdea8caf15df1eee0c333c025c1091e6c1ee2c976052af5a84f7d83f19387b",
+      "status": "exclude",
+      "reason": "번제 수양 안수의 과정은 현재 역할을 수락할 기준을 담지 않는다",
+      "contextNote": "위임식 번제 안수",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:8:19",
+      "textSha256": "aafe5cbd0c6f9efa93c41737a2ae50c79a3468d932276d6ea23f46309b6a0632",
+      "status": "exclude",
+      "reason": "잡아 피를 뿌리는 단편은 생활 행동의 이유가 없다",
+      "contextNote": "번제 수양의 피 처리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:8:20",
+      "textSha256": "6ebc680231e520fa68cac09dc043a185988084433e6098e5cc2cddf6a92359e1",
+      "status": "exclude",
+      "reason": "각 뜬 머리와 기름 소각은 일상 나눔의 몫을 설명하지 않는다",
+      "contextNote": "위임식 번제 희생의 준비",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:8:21",
+      "textSha256": "e11cbee7368cb621afcd779619a714d6556fe84425d1088ccce90d3dd50b0407",
+      "status": "exclude",
+      "reason": "세척 뒤 전부 소각하는 제사법은 오늘 일의 마무리보다 의식 절차에 집중된다",
+      "contextNote": "위임식 번제의 마무리",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:8:22",
+      "textSha256": "f07733317e1abe3ca496f8f53546d4bbe6d1b9d2b944fa74de01e679ac9fd6d1",
+      "status": "exclude",
+      "reason": "또 다른 수양 머리 안수는 현재 새 과제를 맡을지의 이유가 없다",
+      "contextNote": "위임식 수양의 안수",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:8:23",
+      "textSha256": "05fb007745504a6bed6f804be300f99e2b0c4f447802c0cf61b7b014b9d174ef",
+      "status": "exclude",
+      "reason": "귀와 손발에 피 바르는 행위는 생활 약속의 표시로 바로 읽기 어렵다",
+      "contextNote": "아론의 신체 위임 표시",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:8:24",
+      "textSha256": "d8d6ea1406e29a8dfb442fab07de746ca6a498c1970c575ec2e03521d1a2e86e",
+      "status": "exclude",
+      "reason": "아들들에게 피 바르고 단에 뿌리는 지시는 선택 실마리 없이 의식을 설명한다",
+      "contextNote": "아론 아들들의 신체 위임 표시",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:8:25",
+      "textSha256": "dd686343c6a6af30438c408adac1d28066d9befc27c2c3952b2cda69a2f26523",
+      "status": "exclude",
+      "reason": "기름 꼬리 콩팥 다리의 목록은 현재 필요한 도움이나 일의 분배 기준이 아니다",
+      "contextNote": "위임식 수양의 부위 준비",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:8:26",
+      "textSha256": "356d2bcc0141a41b24edbd5c9bfb4874842e0b41d26fdd8749ba2b36e7d7cf6b",
+      "status": "exclude",
+      "reason": "떡 세 종류와 지방 다리의 배열은 지금 선물의 적정 크기를 말하지 않는다",
+      "contextNote": "위임식 제물 조합",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:8:27",
+      "textSha256": "60b928ddaf2740ad4d361b63dee69a38b41198f43c2b0699b53984304f0d31c7",
+      "status": "exclude",
+      "reason": "손에 놓고 흔드는 요제는 일상 감사를 전할 방법으로 풀이 없이 읽기 어렵다",
+      "contextNote": "위임식 요제 실행",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:8:28",
+      "textSha256": "133af2d814c8183de40f296594e97886b6360aa9e431d3dac43c0099b944cc77",
+      "status": "exclude",
+      "reason": "손에서 취해 불사른 제물은 현재 헌신할 양이나 소비의 적정함을 정하지 않는다",
+      "contextNote": "위임식 화제 실행",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:8:29",
+      "textSha256": "a57f27d452d63b76ef3df012df0e98579eb513da7b8e2f1342325b94b0200b6b",
+      "status": "hold",
+      "reason": "A006의 섬기는 자의 몫은 비추나 요제와 응식이라는 옛말이 가죽 몫 구절보다 어렵다",
+      "contextNote": "모세의 위임식 수양 가슴 몫",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:8:30",
+      "textSha256": "e35cc0ae86e70d233e7030261d46ab8e8b5cad4a41f160be58c35a648322001f",
+      "status": "exclude",
+      "reason": "기름 피를 가족과 옷에 뿌리는 거룩 의식은 현재 옷 구매의 부담과 다르다",
+      "contextNote": "제사장과 복식 성별",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:8:31",
+      "textSha256": "492ddb55b1e537660b6365a4414a4ae12fed58f050ae76da47b8fabfdddf6a7f",
+      "status": "exclude",
+      "reason": "특정 제사 고기와 떡을 회막에서 먹는 명령은 일반 식사나 휴식 선택의 이유가 약하다",
+      "contextNote": "위임자의 제사 음식 식사",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:8:32",
+      "textSha256": "22bc28ce1b020ed47f60a0099964c2aa1d13a6dcf7a04b127bda0e431030ea9b",
+      "status": "exclude",
+      "reason": "남은 고기를 불사르는 단편은 과소비나 음식 나눔의 보편 이유를 담지 않는다",
+      "contextNote": "위임식 음식 잔여물 처리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:8:33",
+      "textSha256": "b8d6d911c49fc126d0fa7739bcccbc8f6c1b4ae4fff49a8d57e6699f6a7c3eba",
+      "status": "hold",
+      "reason": "H053의 맡은 과정을 끝낼 실마리는 있으나 위임식 칠 일 외출 금지라는 특수 조건이다",
+      "contextNote": "위임식을 마칠 때까지 회막문에 머묾",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:8:34",
+      "textSha256": "1ecd92232b261d83b85dab0e1c3df56ef662af238ae454c4927ccc544ef8c9b2",
+      "status": "exclude",
+      "reason": "오늘 행한 속죄의 목적 설명은 현재 사과의 구체 방법이나 선택 기준이 아니다",
+      "contextNote": "위임식의 속죄 이유",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:8:35",
+      "textSha256": "1adf71efebfee68f6aee1bca745919a447d0f5c647a99e7680627401c413b97b",
+      "status": "exclude",
+      "reason": "칠 일 머물러 죽음을 면하라는 후반은 일반 성실함의 실마리로 옮기기에 제재가 과하다",
+      "contextNote": "위임식 중 체류의 생명 조건",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:8:36",
+      "textSha256": "beb5544fd9908486bd2a5cb91c0aad8c53115300f3dd7456c9ecb4cb065e0df1",
+      "status": "candidate",
+      "reason": "맡겨진 모든 과정을 행한 모습에서 흥미가 줄어도 마무리할 실마리가 읽힌다",
+      "contextNote": "아론 가족이 위임식 명령을 다 이행함",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H053",
+          "clue": "맡은 과정을 모두 행한 모습에서 새 일 전에 현재 일을 마칠 실마리를 읽는다.",
+          "friction": "제사장 위임식을 준행한 아론 가족이다. 죽음 제재가 있는 앞 절의 내용을 현재 사용자의 업무 처벌로 끌어오지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:9:1",
+      "textSha256": "29cbc72f7768f76e7e60c269cb1da3415b7eb9cab041bb37436669c63d499a13",
+      "status": "exclude",
+      "reason": "팔 일째 부른 인물의 도입은 지금 사람을 고를 기준이 없다",
+      "contextNote": "위임 후 첫 제사 소집",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:9:2",
+      "textSha256": "5d42b551c5b2b02fc14b59766b3e9d6c3528c250e4cd1c37723eae243f77b26b",
+      "status": "exclude",
+      "reason": "송아지와 수양의 흠 조건은 현재 준비물을 얼마나 갖춰야 할지의 기준이 아니다",
+      "contextNote": "아론의 첫 제사 예물",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:9:3",
+      "textSha256": "3fd45f8d84ba2d90ed8d4743614ca9e9e590ca9a44fa5eee687b5d23419fdb6c",
+      "status": "exclude",
+      "reason": "여러 가축의 나이와 종류는 일반 선물이나 구매 필요의 이유를 주지 않는다",
+      "contextNote": "회중 제사 예물의 조건",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:9:4",
+      "textSha256": "fdfe92c21383d5b89dbef39f37763fef40722321b149405db66900cfa7093092",
+      "status": "exclude",
+      "reason": "가축과 곡식 예물 뒤 나타날 현현은 현재 선택의 결과를 알려 주지 않는다",
+      "contextNote": "회중 화목제와 소제 준비",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:9:5",
+      "textSha256": "f8627fad04d5b3074cc4e6cc029ca51962b5788fe5fa53afd8eee47ca8756768",
+      "status": "hold",
+      "reason": "H033의 함께 응하는 모습은 있으나 이미 회중이 다 모인 결과라 지금 부탁의 수락을 확정할 수 없다",
+      "contextNote": "백성이 제물을 가져와 섬",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:9:6",
+      "textSha256": "f3a3113c48ac84c684235e29b6852e9da139c2f3a3ba5a7df576810c521d0619",
+      "status": "hold",
+      "reason": "G15의 맡은 일을 할 용기는 주나 이는 무엇인지 앞 제사 지식이 필요하고 영광 출현이 붙는다",
+      "contextNote": "영광을 볼 제사의 실행을 권함",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:9:7",
+      "textSha256": "7662c53b26b8cad0eed78c4ce24bbbb6938c84adc3437904052a614d5ea58c6a",
+      "status": "hold",
+      "reason": "H048의 자기 책임을 먼저 풀어 감은 비추나 자기와 백성을 위한 여러 제사가 길다",
+      "contextNote": "아론에게 자기와 백성 속죄를 지시함",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:9:8",
+      "textSha256": "6f28f9ec7d9acc7c645d37165c0a5e7a62530486ce22abe9e08d53de31384055",
+      "status": "exclude",
+      "reason": "자기 속죄 송아지를 잡는 동작은 현재 사과의 말과 행동을 직접 알려 주지 않는다",
+      "contextNote": "아론의 자기 속죄제 시작",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:9:9",
+      "textSha256": "18eca5466adc9b0f88ca94cb340520bb6f1a6cfab640d32815df0347c6b12262",
+      "status": "hold",
+      "reason": "A009의 아들들의 보조는 있으나 피를 주고 바르는 제사 절차가 대부분이라 분담 실마리는 간접적이다",
+      "contextNote": "아들들이 아론에게 속죄 피를 전함",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:9:10",
+      "textSha256": "aab67cd884e27fac75ca77a59646d9fdb85dbb52b16c2113e0934838a1f1669d",
+      "status": "exclude",
+      "reason": "기름 콩팥 간을 소각한 보고는 현재 선택 이유가 없는 해부 제사법이다",
+      "contextNote": "아론 속죄제 지방 소각",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:9:11",
+      "textSha256": "1f10fa4dbf66fc474cf99828f36ce1b7ecd282cae773c54792c68900bc9cc75c",
+      "status": "exclude",
+      "reason": "고기 가죽을 진 밖에 태운 행위는 현재 물건 정리의 조건과 다르다",
+      "contextNote": "아론 속죄제 잔여 처리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:9:12",
+      "textSha256": "fc9dd856c6357369af7f578be6286497f7b8de3823fdf8d0813cfc52bc5d7fa8",
+      "status": "exclude",
+      "reason": "번제 피 전달과 뿌림은 일반 업무 분담의 이유가 아니라 의식 실행의 순서다",
+      "contextNote": "첫 번제의 피 처리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:9:13",
+      "textSha256": "1178ae1caf157f0c794a73abfe0cfdf043ed0ab7aa6f804f09b46d4b7148ae7b",
+      "status": "exclude",
+      "reason": "머리와 고기를 가져와 태우는 행위는 현재 도움의 부담을 직접 다루지 않는다",
+      "contextNote": "첫 번제물 전달과 소각",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:9:14",
+      "textSha256": "69ff973d4c48054ea9ecdcb019a94f0997b0fc7b1dfa81e4d0f72881ff47e11b",
+      "status": "exclude",
+      "reason": "내장과 정강이 세척 소각은 일상 일의 우선순위를 정할 기준이 아니다",
+      "contextNote": "첫 번제의 세척과 마무리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:9:15",
+      "textSha256": "f819cd5d24280cddc05184a15d09ba8457b2b5c92ffe06abbc4b72bacefc4dfe",
+      "status": "exclude",
+      "reason": "전과 같이 드린 속죄 염소는 현재 반복 방법을 계속할 근거가 아니다",
+      "contextNote": "백성의 속죄제 실행",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:9:16",
+      "textSha256": "cb92f3a72a4dccba3fbc81331272360355921521be6193ae2ae92a2a81b734aa",
+      "status": "exclude",
+      "reason": "규례대로 번제했다는 단편은 무엇을 맡았는지 제사 지식을 요구한다",
+      "contextNote": "백성의 번제 실행",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:9:17",
+      "textSha256": "7dabbf60ed6c41d4044e0550cc09881581166923a99e6e0e2d7b6604df77777f",
+      "status": "exclude",
+      "reason": "가루 한 움큼을 태운 양은 현재 작은 선물의 적정액으로 읽기 어렵다",
+      "contextNote": "첫 제사의 소제 실행",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:9:18",
+      "textSha256": "5ed3eb46b320c9ae54aef3e4eeb81a14586d75cf41d0e12a0433f0efe612f054",
+      "status": "exclude",
+      "reason": "수소 수양 도살과 피 전달은 일반 협업의 선택 기준이 약하다",
+      "contextNote": "백성 화목제의 희생과 피 처리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:9:19",
+      "textSha256": "c816129229f05acb78e0bd16493437ff8d6298dd9adab6481df00620c4d4e4af",
+      "status": "exclude",
+      "reason": "가축의 기름과 콩팥 목록은 독립 생활 판단이 없는 제물 준비다",
+      "contextNote": "화목제 지방 전달",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:9:20",
+      "textSha256": "dc41c952db5a34fcbcf4f59ee4932a4a85bca1be12dcdd6cce5fa49039ce9454",
+      "status": "exclude",
+      "reason": "가슴 위 기름의 소각은 사람의 일을 나눌 이유가 아니라 의식 순서다",
+      "contextNote": "화목제 지방 소각",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:9:21",
+      "textSha256": "eb76960acd041f980c6b178f546eaab983ede5ee886310dcbc3d13375c67e16e",
+      "status": "exclude",
+      "reason": "가슴과 다리를 흔드는 요제는 선택 실마리 전에 제사 해설을 요구한다",
+      "contextNote": "화목제 요제 실행",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:9:22",
+      "textSha256": "9fa2e3fb324f269482b2d9202bf484bc5fb124c155e2d828b8cb0198919664b9",
+      "status": "hold",
+      "reason": "H053의 일을 마친 뒤 다른 이를 축복함은 비추나 세 제사와 필한다는 옛말이 연결을 어렵게 한다",
+      "contextNote": "아론이 제사를 마치고 축복함",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:9:23",
+      "textSha256": "0ffcaa4f6e8e33140568211d8f4c445cabe8f7770dbbc93f2ff404d0f5662020",
+      "status": "hold",
+      "reason": "H041의 역할 후 기쁨은 있으나 영광이 나타난 결과를 내 발표 성공에 전이할 수 없다",
+      "contextNote": "모세 아론의 축복과 현현",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:9:24",
+      "textSha256": "c006c148cc9d44e2efa5ef9e9ee73ccb1e60d90d20dc648587640d2944a8ebab",
+      "status": "exclude",
+      "reason": "제단을 태운 신적 불과 백성 반응은 오늘 선택의 충분함을 판단할 정보가 아니다",
+      "contextNote": "첫 제사 뒤 불의 응답",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:10:1",
+      "textSha256": "8072a8691e2a5afa347abb1d4978cbc8d3f59c0859696e602b1cf4df9e061ea9",
+      "status": "hold",
+      "reason": "H054의 받은 기준과 다른 실행을 돌아볼 수 있으나 다른 불의 뜻과 다음 죽음을 알아야 한다",
+      "contextNote": "나답 아비후의 금지된 분향",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:10:2",
+      "textSha256": "09474296b7f9c5f85cc1757bb86ea35baa64f2c8109fd33c7d03927fb786a3df",
+      "status": "exclude",
+      "reason": "불에 삼켜진 죽음은 오늘 다른 방법을 시도할지의 일반 결과로 옮길 수 없다",
+      "contextNote": "두 제사장의 죽음",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:10:3",
+      "textSha256": "d36a62fbd2a58361771069c26063eb0a505a1baf505807801ef3784aa0e95cf8",
+      "status": "exclude",
+      "reason": "두 아들을 잃은 아론의 침묵은 단순 분노 메시지의 진정 실마리로 잇기 어렵다",
+      "contextNote": "하나님의 거룩함 말씀 뒤 아론의 침묵",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:10:4",
+      "textSha256": "e7fca98eca2dbf5955d30f1f0aafe2a066aa8f733aa70d2d4cb3ab13fbc8f2f6",
+      "status": "exclude",
+      "reason": "친족에게 시신 운반을 시키는 말은 일반 도움 요청의 방법보다 장례 처리 지시다",
+      "contextNote": "죽은 두 제사장 시신 반출 명령",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:10:5",
+      "textSha256": "b59dae188d73329745b7cd5653a268f83903d294b91581f5ba97f17f724c21c5",
+      "status": "exclude",
+      "reason": "옷째 시신을 운반한 행위는 현재 옷 구매나 관계 거리의 기준이 아니다",
+      "contextNote": "두 시신을 진 밖에 옮김",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:10:6",
+      "textSha256": "58abdee12a912a72a38ca9b411a8a96b4b7482e4f5ba62dedd29bbdeca493f51",
+      "status": "exclude",
+      "reason": "옷을 찢거나 머리를 풀면 죽는 제재와 애도의 분리는 보통 슬픔 표현의 기준이 아니다",
+      "contextNote": "제사장 애도 행동의 제한",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:10:7",
+      "textSha256": "71c403a5dd7e2b2902466c112c40d9ad9d3157e7c1301e9a3bdbec062bf9d2fa",
+      "status": "exclude",
+      "reason": "관유 때문에 나가면 죽는 지시는 반복 침해 자리에서 떠날지의 조건으로 옮길 수 없다",
+      "contextNote": "남은 제사장의 회막 체류",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:10:8",
+      "textSha256": "dcf6e46eccb120e3d0c0484c6e3431428a445874e9584be9e62d438456640fc7",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 독립 생활 기준이 없다",
+      "contextNote": "제사장의 음주 규정 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:10:9",
+      "textSha256": "6588d674e5b0472b7a40fee9b8465d2b4c720198a0d3e8e7c8b385fd9cb4d5b4",
+      "status": "exclude",
+      "reason": "회막 출입 전 음주와 사망 조건은 게임과 내일 일정의 선택에 같은 자기통제로 묶기 어렵다",
+      "contextNote": "제사장 음주 금지",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:10:10",
+      "textSha256": "94cc29fa6332ae6c4d96b424b89b120d91ad8348f181d706045071c3dd2476b8",
+      "status": "hold",
+      "reason": "H064의 분별은 필요하지만 거룩 속됨과 정결의 판정이 무엇인지 앞 음주 규정을 요구한다",
+      "contextNote": "음주를 금한 분별의 이유",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:10:11",
+      "textSha256": "714c9c1c2e2b73b298fdec2e52d79a58cd4855638719dab42b0d46f9154fb7c0",
+      "status": "exclude",
+      "reason": "모세 규례를 가르칠 직무는 사용자의 진로 가치나 내 말의 사실 여부를 정하지 않는다",
+      "contextNote": "제사장의 규례 교육 임무",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:10:12",
+      "textSha256": "ae5e4ca6bd8e56899be20c53ea1732ee1673edb6002d4e92d186641a64e5f77f",
+      "status": "exclude",
+      "reason": "남은 두 아들과 누룩 없는 제사 음식을 먹는 긴 지시는 일반 선물과 식사 선택 이유가 없다",
+      "contextNote": "소제 잔여 식사 재확인",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:10:13",
+      "textSha256": "71c5f0e3c7603efb4c81acb5d218374393e1a93888a9a3d9db382287ddbdb1c5",
+      "status": "hold",
+      "reason": "A006의 제사장 몫은 있지만 응식과 거룩한 장소의 의식 조건이 독립 읽기를 막는다",
+      "contextNote": "아론 가족의 소제 응식",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:10:14",
+      "textSha256": "b979230613185ca24807099cac66471a72472fda4185b915c419fecb938ffe3b",
+      "status": "hold",
+      "reason": "A006의 가족에게 주어진 소득은 있으나 흔든 가슴과 든 다리의 제사 절차를 풀이해야 한다",
+      "contextNote": "화목제의 가족 식사 몫",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:10:15",
+      "textSha256": "e88f1584748511a5ec5a4323a911ded1997108d0a228ba57ff77786710cce985",
+      "status": "exclude",
+      "reason": "요제와 영구 응식의 긴 규정은 소득과 같은 단어만으로 보수 요청에 충분하지 않다",
+      "contextNote": "제사장 몫의 의식적 근거",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:10:16",
+      "textSha256": "e70d8bc02f30dbc6d4d1414a264d927201a0e63134b9c10d73dd64cbc4465435",
+      "status": "hold",
+      "reason": "H026의 사실을 찾아 묻는 모습은 있으나 무엇이 왜 잘못인지 다음 속죄제 규정을 알아야 한다",
+      "contextNote": "모세가 없어진 속죄 염소에 노함",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:10:17",
+      "textSha256": "1018e05772627537b6f414979ee1657321d9b52045495d4d7be30a83d98393e0",
+      "status": "exclude",
+      "reason": "먹지 않은 속죄 고기와 회중 죄 담당의 이유는 현재 관계 불만을 말할 조건과 다르다",
+      "contextNote": "모세의 속죄 고기 식사 책망",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:10:18",
+      "textSha256": "489642ad07f3607d3cf17ede857d794b6331ee1d7c2c5dc78a4d7237f230cda0",
+      "status": "exclude",
+      "reason": "성소에 피를 안 들인 고기를 먹을 의무는 현대 약속의 이행 방법을 직접 알려 주지 않는다",
+      "contextNote": "속죄 고기 규례 위반의 지적",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:10:19",
+      "textSha256": "efff5e4aeb203165aabdcce3d5272c098cbcd58c4dd417adcfac1dfe401bb6e9",
+      "status": "hold",
+      "reason": "A013의 큰 일 후 평소처럼 못 함은 비추나 속죄 제육과 신적 평가의 긴 질문이다",
+      "contextNote": "아론이 아들 상실 후 제사 식사를 설명함",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:10:20",
+      "textSha256": "44c85cefa421ea7d9d4bab2fce0c08a3da9fb6a3ef451042ed019a1cd1ee0ed6",
+      "status": "candidate",
+      "reason": "상대의 설명을 듣고 다시 좋게 여긴 모습에서 자기 첫 판단만 고집하지 않을 실마리를 읽는다",
+      "contextNote": "모세가 아론의 사정을 듣고 수용함",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A013",
+          "clue": "상대가 힘든 사정을 말했을 때 내 기준대로 꾸짖기보다 듣고 받아들일 여지가 보인다.",
+          "friction": "아들들을 잃은 아론이 제사 고기를 못 먹은 이유를 모세가 수용한 문맥이다. 현재 친구의 숨은 의도를 확정하지 않는다.",
+          "expectedEnough": "yes"
+        },
+        {
+          "scenarioId": "H048",
+          "clue": "상대의 말을 들은 뒤 좋게 받아들일 수 있다는 모습에서 지적을 무조건 밀어내지 않을 실마리를 읽는다.",
+          "friction": "이 절만으로 비판의 사실 여부를 새로 정하지 않으며 고민에 이미 자기 실수라는 조건이 있을 때 대조한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:11:1",
+      "textSha256": "60718733d1d39b4599fd9eb1a4b6c7cd3b0ddb3d6961ba7a334424fbbb9b9c13",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 생활 선택의 내용이 없다",
+      "contextNote": "정한 음식 규정 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:2",
+      "textSha256": "adcbd7d808616696cb98260fe3eb83d44bef7ee172bf4218f412c5ed5454d776",
+      "status": "exclude",
+      "reason": "먹을 생물 목록의 도입만 있어 현재 선택 이유가 미완이다",
+      "contextNote": "육상 동물 음식 규정 도입",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:3",
+      "textSha256": "6e79e6de7d7094e4ac69c319035f164a8b187a1b9fb764ac5d6cc541d31ee173",
+      "status": "exclude",
+      "reason": "굽과 새김질은 의식 음식 자격이며 현재 제품 구매의 가치 기준이 아니다",
+      "contextNote": "먹을 육상 동물의 조건",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:4",
+      "textSha256": "3a2f0df5592fb0b889ab6243ca77fa9a0531bafffedc5d4ea17d2d46803228ed",
+      "status": "exclude",
+      "reason": "낙타 음식 금지의 조건을 현대 진로의 부족한 한 조건에 비유해 붙여야 한다",
+      "contextNote": "낙타의 정결 분류",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:5",
+      "textSha256": "b7268dd1761d3f7bc028e7aca69eeb1cac251bb06e2eafbbc19d16f9df903cc9",
+      "status": "exclude",
+      "reason": "사반의 새김질과 굽은 현재 생활 선택의 두 부담을 다루지 않는다",
+      "contextNote": "사반 식용 금지",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:6",
+      "textSha256": "2c10f4416b59db3569a4c16fcd2b0eba9c1b5e6465d5737e4fd5964936f3773c",
+      "status": "exclude",
+      "reason": "토끼 식용의 정결 조건은 일반 친절과 소비의 적정함을 말하지 않는다",
+      "contextNote": "토끼 식용 금지",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:7",
+      "textSha256": "9dab9f5dc8e5cccfd02cf2618d5b4a72ac8bcdbe6742453b8970416fe6571eaa",
+      "status": "exclude",
+      "reason": "돼지 굽과 새김질은 실제 입력 물건의 장단점을 평가할 정보가 아니다",
+      "contextNote": "돼지 식용 금지",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:8",
+      "textSha256": "26ceb192273c7ad45206bf29537468452c9dfac4f6a9cea3d1dfd9d76452367b",
+      "status": "exclude",
+      "reason": "특정 짐승 고기와 사체 접촉 금지를 사람의 성품이나 접촉의 정당함으로 옮길 수 없다",
+      "contextNote": "금지 가축의 섭취와 접촉",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:9",
+      "textSha256": "da3c93279604094528c1ca08199c083807e1299ac673dd4cdaa7911e0ae5aadf",
+      "status": "exclude",
+      "reason": "지느러미와 비늘은 어류 식용의 구체 자격이며 일반 구매의 필요 기준이 아니다",
+      "contextNote": "먹을 수중 생물의 조건",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:10",
+      "textSha256": "125641e4bf18b533212ee84f7a19fed92e56fcb4c9b252bbdf005b9097d2a520",
+      "status": "exclude",
+      "reason": "비늘 지느러미 없는 생물의 가증함은 현재 선택지를 나쁘다고 할 근거가 아니다",
+      "contextNote": "금지 수중 생물의 분류",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:11",
+      "textSha256": "f83f98ab12905060904559ec78031c402ffc4d67fa2242f3167ba830f234bb0b",
+      "status": "exclude",
+      "reason": "고기와 주검을 가증히 여기는 규정은 일상 관계의 거부 처방과 다르다",
+      "contextNote": "금지 수중 생물의 취급",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:12",
+      "textSha256": "6d6d62732b1311282ee0c0966971e32aedd034cb653a2e2bef2f48de42253984",
+      "status": "exclude",
+      "reason": "비늘 지느러미 조건의 반복은 오늘 고민의 양쪽 부담을 다루지 않는다",
+      "contextNote": "수중 생물 음식 규정 요약",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:13",
+      "textSha256": "9fce1eca74845e2a09d29a228aba68657990984e3479f82404c75b7b321cd519",
+      "status": "exclude",
+      "reason": "독수리 솔개 어응의 목록은 선택의 이유 없이 금지된 종을 소개한다",
+      "contextNote": "금지 새 목록 시작",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:14",
+      "textSha256": "e2ff24356b6581ddb22dc0d8588c1cb650750453a350be461a6d8204ff0e547a",
+      "status": "exclude",
+      "reason": "매의 종류만 있어 생활 판단의 독립 의미가 없다",
+      "contextNote": "금지 새 중 매",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:15",
+      "textSha256": "84650039264074cc2f7669ee878731dd99f38c3c7a6656a88df14a369ae3a79e",
+      "status": "exclude",
+      "reason": "까마귀 종류만 있어 현재 선택 부담을 말하지 않는다",
+      "contextNote": "금지 새 중 까마귀",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:16",
+      "textSha256": "c7fe75bf7430fa956b2bbaa4c65d60e61560905056a68cfd2ebe0170929d6c2d",
+      "status": "exclude",
+      "reason": "타조와 여러 새 이름은 지금 제품 효용이나 관계의 정보를 주지 않는다",
+      "contextNote": "금지 새 목록의 중간",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:17",
+      "textSha256": "4ddf70a0327286387d35a90f31f6a2499405ece026e94d0e218634ca8e224964",
+      "status": "exclude",
+      "reason": "올빼미 노자 부엉이 이름은 구체 고민과 잇는 문장이 없다",
+      "contextNote": "금지 새 목록의 야행성 새",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:18",
+      "textSha256": "63ae8a19aa4d6d51a09a567fe985d1ae8af109b7e8f2b187ee6016ef019fdea4",
+      "status": "exclude",
+      "reason": "따오기 당아 올응은 종의 이름이어서 선택 기준으로 읽을 내용이 없다",
+      "contextNote": "금지 새 목록의 계속",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:19",
+      "textSha256": "a4ac5e4b362a725748a58df5f0b296234651d82601b54b046a327adcefa937b0",
+      "status": "exclude",
+      "reason": "새와 박쥐의 종 목록은 현재 선택의 이유를 제공하지 않는다",
+      "contextNote": "금지 새 목록 끝",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:20",
+      "textSha256": "55033bf2c3175a1b6214a3a459eb3d2b025786dfe8c109c31bb637dea568429f",
+      "status": "exclude",
+      "reason": "네 발 곤충의 의식 분류는 지금 지출이나 관계 선택과 직접 닿지 않는다",
+      "contextNote": "날개 있는 곤충의 음식 규정",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:21",
+      "textSha256": "074b0b6f276a9728df4f2219706cb7fd51f293c3ce50659018173b39d510ae2d",
+      "status": "exclude",
+      "reason": "뛰는 다리의 조건은 일반적인 기회나 능력의 기준으로 옮길 이유가 없다",
+      "contextNote": "먹을 곤충의 신체 조건",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:22",
+      "textSha256": "6cdc9e6219b083be706641a00073a5e6738233f3a73e2394b34fe6c33fdce654",
+      "status": "exclude",
+      "reason": "메뚜기 등 종의 열거는 현재 물건의 필요를 판단할 내용이 아니다",
+      "contextNote": "허용 곤충 목록",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:23",
+      "textSha256": "55b61ceee8b24f66892ab8ab2a995e0f8498d729c26380861b3880d0701088ab",
+      "status": "exclude",
+      "reason": "기어다니는 곤충 금령은 일상 작은 욕구의 절제 이유와 다르다",
+      "contextNote": "금지 곤충의 정리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:24",
+      "textSha256": "feb206e56e68b46e416da3f6da68f9d6e38492537d6fe4d5c63a4511d05e28b8",
+      "status": "exclude",
+      "reason": "사체 접촉 후 저녁까지 부정함은 치료나 감정이 끝날 시점을 알려 주지 않는다",
+      "contextNote": "금지 동물 사체 접촉의 부정 기간",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:25",
+      "textSha256": "9f4e7e5ab09966a390b4ef1a28516886404ead44888928e99c2655ae91b94c97",
+      "status": "exclude",
+      "reason": "옷 세탁과 부정 기간은 일반 옷 교체나 사과의 시기를 정할 기준이 아니다",
+      "contextNote": "사체 운반자의 정결 절차",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:26",
+      "textSha256": "efccac15c2764c18254bd4e61818b69a05bd48d1793c1a69dbb70a619588b105",
+      "status": "exclude",
+      "reason": "굽과 새김질에 따른 사체 규정은 미확인 사람의 마음을 판정하는 실마리가 아니다",
+      "contextNote": "육상 금지 동물 사체 접촉",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:27",
+      "textSha256": "e17462453799965b2cd1c4a6ce967c3c988f39989a94c904d5cd425679c68b1a",
+      "status": "exclude",
+      "reason": "발바닥으로 다닌 짐승의 부정은 지금 선택지의 효용과 다른 음식 자격이다",
+      "contextNote": "발바닥 짐승 사체 규정",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:28",
+      "textSha256": "76c024abea68e3a466a1a95ed0125f93d960794726397e10e34e0034c22dc484",
+      "status": "exclude",
+      "reason": "옷 세탁을 통한 사체 운반 정결은 일반 외모 고민의 이유를 다루지 않는다",
+      "contextNote": "금지 짐승 운반 뒤 정결",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:29",
+      "textSha256": "c22f1efcbad396dba430b565a0e4cb97241e7a88375580bfa8a205d67dedd0d2",
+      "status": "exclude",
+      "reason": "족제비 쥐 도마뱀의 열거는 일상 의사결정의 기준이 없다",
+      "contextNote": "부정한 기는 동물 목록 시작",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:30",
+      "textSha256": "d349b5216e81d94ebea31ab8c4165f104dfd80dadca095e00b01d46435b03a2b",
+      "status": "exclude",
+      "reason": "낯선 종 이름 다섯은 선택 부담의 뜻을 담지 않는다",
+      "contextNote": "부정한 기는 동물 목록 끝",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:31",
+      "textSha256": "33978949187c317f4fe99d5eeb96afff46f8dbaa18837436233c4a5fc8000d0d",
+      "status": "exclude",
+      "reason": "사체를 만진 부정 기간은 현대 사람의 잘못이나 회복 시기를 가르는 기준이 아니다",
+      "contextNote": "기는 동물 사체 접촉의 부정",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:32",
+      "textSha256": "18af3aef4969133a97140bbcca15dc676b1ad779609e490816a070de03552b4b",
+      "status": "exclude",
+      "reason": "물건에 떨어진 사체와 세척 기간은 현재 기기의 필요나 일반 청소의 판단과 다른 의식 조건이다",
+      "contextNote": "사체에 닿은 기물의 정결 절차",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:33",
+      "textSha256": "038c1de061c559af833a661a17374003630e1bc2a1524fa9891db30a09232835",
+      "status": "exclude",
+      "reason": "질그릇의 사체 접촉과 파괴는 작은 흠의 제품을 버릴 일반 이유가 아니다",
+      "contextNote": "부정한 질그릇 처리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:34",
+      "textSha256": "6cb292ce54d4c930440282cc0b663041ed76e6679d7159095c96fe2c72580939",
+      "status": "exclude",
+      "reason": "젖은 음식과 음료의 부정은 실제 식품 상태 정보 없이 소비를 판단할 수 없다",
+      "contextNote": "부정 그릇 안 음식의 상태",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:35",
+      "textSha256": "3d3fccf0d093d457862ed4490aec854bbc34d2e1b01fda23f90cd68f19ccd7d5",
+      "status": "exclude",
+      "reason": "오염 화덕 파괴 규정은 흠 있는 중고 물건의 구매 판단과 다르다",
+      "contextNote": "사체가 닿은 조리 기구의 처리",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:36",
+      "textSha256": "615025d01abb509533020c2cb7cb38c8b8a3e8d80c83dd76edd2a1d97e600e4e",
+      "status": "exclude",
+      "reason": "저장 물과 사체의 접촉 구별은 일상 관계의 거리 두기에 비유 설명을 더해야 한다",
+      "contextNote": "샘과 웅덩이의 부정 예외",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:37",
+      "textSha256": "8702c8893050b2f0ee1c1fe938197d144364be1df4da0a32f7eb0b3c4304826a",
+      "status": "exclude",
+      "reason": "마른 종자의 정결 조건은 지금 작은 운동 시작의 가능성을 말하는 비유가 아니다",
+      "contextNote": "종자에 사체가 닿은 경우",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:38",
+      "textSha256": "e53034fa0d380ac5d73d73e047d18ca05d039016ca95589b885e5b9788a9566d",
+      "status": "exclude",
+      "reason": "물 더한 종자의 부정은 현재 자원을 보태면 나빠진다는 선택 근거가 아니다",
+      "contextNote": "젖은 종자의 부정 조건",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:39",
+      "textSha256": "f926a96737ae8ea41c9ba94c9f984a0209dd11cc6c692affa3e46969ad3b1cfa",
+      "status": "exclude",
+      "reason": "먹는 가축도 죽으면 부정한 의식은 미확인 치료 결과를 알려 주지 않는다",
+      "contextNote": "허용 동물의 사체 접촉",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:40",
+      "textSha256": "d4830c99adad7ee71b2ba298fbfaa1d1fd7ba6e89d59224dc45102d5866ad65d",
+      "status": "exclude",
+      "reason": "사체 섭취와 운반 뒤 세탁은 일상 회복이나 옷 구매의 판단 기준이 아니다",
+      "contextNote": "허용 동물 사체 취급자의 정결",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:41",
+      "textSha256": "3e8419232903eaecab5886571e43a24102ce42a9b2d4b5f84e3d05c8af55d5c5",
+      "status": "exclude",
+      "reason": "기는 동물 식용 금지는 돈과 같은 주제의 절제 선택으로 바로 읽기 어렵다",
+      "contextNote": "기는 생물 식용 금지 총칙",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:42",
+      "textSha256": "0350cb55eeba0fc623ebaf33f8c2532b47bd9baec6946743424d93ba34f59541",
+      "status": "exclude",
+      "reason": "배와 발로 기는 종의 분류는 현재 양쪽 선택의 부담을 다루지 않는다",
+      "contextNote": "금지 기는 생물의 범위",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:43",
+      "textSha256": "fa047c258d0e8eb9860af8d01ed4a86f94093be7c2711f162f5ecec279a3b681",
+      "status": "exclude",
+      "reason": "의식 부정을 피하라는 말을 단순 친구 교류의 더러움으로 바꿀 근거가 없다",
+      "contextNote": "기는 생물로 인한 부정 경고",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:44",
+      "textSha256": "2f95f5f33039ef03dfd52297d9cafaefda5c7ecdef35517c13510e7dc204939e",
+      "status": "exclude",
+      "reason": "거룩하라는 앞부분 뒤 기는 생물 금령이 붙어 일반 자기계발의 실마리로는 연결이 깨진다",
+      "contextNote": "거룩함을 위한 음식 구별",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:45",
+      "textSha256": "6e9ba3d4f61e8d5ede1d0c5df164d48ecd9970950b183eff77676182958f810f",
+      "status": "hold",
+      "reason": "H064의 나만의 중심을 지킴은 떠올릴 수 있으나 출애굽과 거룩함이 개인 진로 가치의 구체 기준은 아니다",
+      "contextNote": "거룩하심에 따른 백성의 거룩함",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:46",
+      "textSha256": "fcec6a63ca9c44d3fa05b8797892d54b07434b913cd37f61b9c5744b44b1a6c8",
+      "status": "exclude",
+      "reason": "여러 생물 규례의 목록은 현재 선택의 기준을 요약해 주지 않는다",
+      "contextNote": "음식 법규의 대상 정리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:11:47",
+      "textSha256": "3d26f54680f87b170ab94ce64402b141849926a0b6bb22277fa6257607df48cd",
+      "status": "hold",
+      "reason": "H003의 구별하며 판단할 태도는 있으나 식용과 정결이라는 구체 기준을 물건 효용으로 그대로 옮길 수 없다",
+      "contextNote": "정결과 식용 생물의 분별 목적",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:12:1",
+      "textSha256": "1213bc72e4be9e9f17f4b9129e3f0d4cbde2d4cf24000ea629c6671d78ca8075",
+      "status": "exclude",
+      "reason": "말씀 시작만 있어 생활 판단의 독립 내용이 없다",
+      "contextNote": "출산 정결 규정 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:12:2",
+      "textSha256": "b4341d5e26c2b3bb927a99d513ad507b5288b0ff22a89256e7dbc04656a1a480",
+      "status": "exclude",
+      "reason": "남아 출산의 부정 칠 일은 일반 휴식 기간이나 여성이 잘못했다는 기준이 아니다",
+      "contextNote": "아들 출산 뒤 의식 부정 기간",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:12:3",
+      "textSha256": "17984668850ceb95dcec251a45997ff86d9f50b0011a758d12da9dfe043e4832",
+      "status": "exclude",
+      "reason": "아이의 팔 일 할례는 오늘 약속이나 마감의 시점을 정하지 않는다",
+      "contextNote": "출생 남아 할례 시점",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:12:4",
+      "textSha256": "2ce363f83f5c863691e5aa03214af4813fd5325b827447f6147d49c192292daf",
+      "status": "exclude",
+      "reason": "산혈과 성소 금지는 현재 치료의 회복 시기나 일정으로 옮길 정보가 아니다",
+      "contextNote": "산모 정결 전 출입 제한",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:12:5",
+      "textSha256": "bcc110ca1e079c5a1d2d1acf2c38f1378235d937770469af307bb2a649b8bb50",
+      "status": "exclude",
+      "reason": "여아 출산의 부정 기간은 현재 몸 상태를 판단하거나 여아를 가치 낮게 보는 실마리로 사용할 수 없다",
+      "contextNote": "딸 출산 뒤 의식 부정 기간",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:12:6",
+      "textSha256": "d3aff4ab684306120bd8dc829bb9de2f111fe44eab85aad678260122eaeadc87",
+      "status": "exclude",
+      "reason": "양과 새를 가져오는 출산 제사는 사과나 작은 선물의 자연스러운 목적과 다르다",
+      "contextNote": "출산 정결의 제물 준비",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:12:7",
+      "textSha256": "abc7ad71cd6f4d47c74ffc0c1cf3974fb137b8fe00dcdec6d7af59f4a48d64ed",
+      "status": "exclude",
+      "reason": "출산 뒤 속죄와 산혈 정결은 현재 다른 질환의 치료 결과를 확정할 조건이 아니다",
+      "contextNote": "출산 제사의 정결 선언",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:12:8",
+      "textSha256": "44476c93a41de7c5e2ff8720efc0bbc43019f63b46de377ac0833e3bda5c9ab9",
+      "status": "candidate",
+      "reason": "어린양의 여력이 없으면 새로 바꿀 수 있다는 말이 더 작은 선물의 선택에 실마리를 준다",
+      "contextNote": "산모에게도 여력별 제물 대안을 허용함",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H007",
+          "clue": "큰 것을 감당 못 하면 더 작은 대안도 된다는 이유를 읽어 선물의 부담을 낮출 수 있다.",
+          "friction": "산모의 정결 제물과 제사장 속죄의 긴 규정이다. 친구 선물을 속죄 의무로 설명하거나 출산을 잘못으로 판단하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:13:1",
+      "textSha256": "07f1b732cd444edc8e86264b81332a2c28d29d9cfd1390eddcbf51baf33b3e50",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 생활 선택의 내용이 없다",
+      "contextNote": "피부병 정결 규정 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:2",
+      "textSha256": "58eae7547eb60aa8962ee215226aaa47cb1711534e0cb820d375290600588c75",
+      "status": "hold",
+      "reason": "G14의 전문가에게 보임은 닿으나 피부 증상이 생겼다는 조건이 현재 치료 고민에는 없다",
+      "contextNote": "의심 피부 환자를 제사장에게 보이게 함",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:3",
+      "textSha256": "393e916c7b0df5914ccf7cd8104ffd8f255a0c5ba0187ea4de51248801f56e4d",
+      "status": "exclude",
+      "reason": "흰 털과 깊은 환처의 판정은 현재 진단 정보가 없는 고민에 대입할 수 없다",
+      "contextNote": "피부 환처의 의식 진단 조건",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:4",
+      "textSha256": "fe38db242b141450b5a4967e57d902c64fc1cae467127adeb7f246eebedfc70f",
+      "status": "hold",
+      "reason": "H056의 성급히 결론내리지 않음은 있으나 피부 함몰과 흰 털 여부를 전제한 칠 일 격리다",
+      "contextNote": "불확실 피부 환처의 관찰 기간",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:5",
+      "textSha256": "c37bd382cc2003c0b236a3be1f8d780e2f54c9251fcd8d3640d16897ab8a23c0",
+      "status": "hold",
+      "reason": "G14의 경과를 더 살핌은 비추나 병색이 안 퍼진 조건과 칠 일 격리를 치료 기간으로 정할 수 없다",
+      "contextNote": "변화 없는 환처의 추가 관찰",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:6",
+      "textSha256": "9d869209bdc04e7dc0eecacfc99e439b7cca845dce6318b1bb9474b003f7b9f8",
+      "status": "exclude",
+      "reason": "환처가 엷어진 뒤 정하다 판정하는 결과는 현재 치료 호전을 확정할 정보가 아니다",
+      "contextNote": "관찰 후 피부병 정결 판정",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:7",
+      "textSha256": "1952f25986ebf2cc50bf3420765ddde1299e1658b5f24ed32c57fe6ff5d51e1a",
+      "status": "hold",
+      "reason": "G14의 변화 뒤 재확인은 가능하나 실제 병이 퍼졌다는 조건을 입력에 추가하면 안 된다",
+      "contextNote": "피부에 퍼질 때 재진찰 규정",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:8",
+      "textSha256": "f7722989d86960781c6f44689a730c75bf3687bbcb6dd21f7310939bbb0a138d",
+      "status": "exclude",
+      "reason": "피부 확산과 문둥병 판정은 지금 미확인 건강의 결과를 정할 정보가 아니다",
+      "contextNote": "확산 피부병의 부정 진단",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:9",
+      "textSha256": "4922ac97d71a7efa43ee408bdf536bd137cb957f4f54edd9a797bfe3f5ec121a",
+      "status": "hold",
+      "reason": "G14의 혼자 두지 않고 전문가에게 보이는 모습은 있으나 문둥병이라는 특정 조건이 현재 입력과 다르다",
+      "contextNote": "문둥병 환자를 제사장에게 데려감",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:10",
+      "textSha256": "69046d8e63c0ad17edeb81a179afc4ecaef4d32b880c2d99cd96782f7e4c1407",
+      "status": "exclude",
+      "reason": "흰 점 털과 난육의 조건만 제시돼 다음 판정 없이 의미가 미완이다",
+      "contextNote": "오래된 피부 환처의 진찰 조건",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:11",
+      "textSha256": "15294958facda53313b7aebcccd10b858addef77f2c58c1db03b2b978a516acf",
+      "status": "exclude",
+      "reason": "오래된 피부병의 부정과 격리 생략은 지금 치료 지속의 방식으로 옮길 수 없다",
+      "contextNote": "오랜 피부병의 즉시 진단",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:12",
+      "textSha256": "28ea6d8b26bbbff16f318c452a2d4ca11afb65f2d79d3814cb2de57b79c9d7d4",
+      "status": "exclude",
+      "reason": "전신 확산 조건의 도입은 독립된 선택 의미가 없다",
+      "contextNote": "전신 피부병의 조건",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:13",
+      "textSha256": "d3532cf5faae1f5b59acf9c0a3907308fc428d8bdc6c7242f368cbc191920914",
+      "status": "exclude",
+      "reason": "전신이 희면 정하다는 의식 판정을 치료나 외모의 호전 보장으로 읽을 수 없다",
+      "contextNote": "전신 흰 피부의 예외 판정",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:14",
+      "textSha256": "1fe81d5183aee3f7986eebaba514342098eee84a362cc4980dfb4e3914b47e76",
+      "status": "exclude",
+      "reason": "난육이 생겼다는 미완 조건은 실제 사용자의 신체 정보가 아니다",
+      "contextNote": "난육 발생의 부정 조건",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:15",
+      "textSha256": "c73c8f5182df95013066f9ac20d913aca4643364193f3bb172d41fe4c9aa15e3",
+      "status": "exclude",
+      "reason": "난육을 문둥병으로 판정한 규정은 현대의 진단 기준으로 옮길 수 없다",
+      "contextNote": "난육의 부정 진단",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:16",
+      "textSha256": "3b2109e049f8a520c775c90c2f2d9fec4c0b5b6fa8adccd19701529a3e6df595",
+      "status": "exclude",
+      "reason": "난육이 희어질 때 재진찰은 현재 알려지지 않은 증상 변화를 가정해야 한다",
+      "contextNote": "변화한 난육의 확인",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:17",
+      "textSha256": "be850404cf152e742904b0c5a07681b4d50dcb32c688e8f6d2e1f775d1d565a2",
+      "status": "exclude",
+      "reason": "희어진 환처의 정결 선언은 실제 치료 결과가 확인됐다는 정보가 아니다",
+      "contextNote": "회복된 환처의 정결 판정",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:18",
+      "textSha256": "76843c30a2751b5f56616f278ee80a731393ebb5dc8d3980546faa073290c5cb",
+      "status": "exclude",
+      "reason": "종기가 나았다는 조건 단편은 현재 선택의 이유를 담지 않는다",
+      "contextNote": "종기 후 피부병 규정 도입",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:19",
+      "textSha256": "4c3ab905146782e1aa5d3a73f2509bfe3fd0cae7b616cb160a107d1d7792f80d",
+      "status": "exclude",
+      "reason": "종기 후 색점으로 진찰할 조건은 입력에 없는 신체 사실을 요구한다",
+      "contextNote": "종기 자리에 색점이 생긴 경우",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:20",
+      "textSha256": "6990d460c84b9c709d57b96ee2542b6384f7a420b1787d9602ed598f9940c449",
+      "status": "exclude",
+      "reason": "털과 종처 깊이를 통한 진단은 일상 선택의 실마리로 쓸 수 없다",
+      "contextNote": "종기에서 나온 문둥병 판정",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:21",
+      "textSha256": "8cd0d5ec9f654faab588d8ac2f3d62e4993beb6897ec50edb809b343be9fdb59",
+      "status": "hold",
+      "reason": "H056의 기다려 살피는 태도는 있으나 특정 환처의 진찰과 격리 조건이 길다",
+      "contextNote": "확정 전 종기 환처 관찰",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:22",
+      "textSha256": "203dafa0d9bcb696a47d8462a82be52ec37d84429b4da46a61cc8d5085804d74",
+      "status": "exclude",
+      "reason": "퍼진 병을 부정하다 하는 결과는 지금 치료의 성패를 판단할 정보가 아니다",
+      "contextNote": "확산된 종기 환처 진단",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:23",
+      "textSha256": "2f364ae551adec600507c965f61e2ff0de286be431ae8ed0483f0b1397a8b276",
+      "status": "exclude",
+      "reason": "안 퍼진 흔적의 정결은 실제로 병색이 변했는지 모르는 고민에 옮길 수 없다",
+      "contextNote": "종기 흔적의 정결 진단",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:24",
+      "textSha256": "e570544e4c282f836652d8312021673b34471de14b21a4f4f8f0a5f6e339347a",
+      "status": "exclude",
+      "reason": "화상 뒤 색점의 조건만 있어 판단 내용이 다음 절에 있다",
+      "contextNote": "화상 후 피부병 규정 도입",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:25",
+      "textSha256": "4831b311d6860122cbdf9265d573f50e5fc0885d08a82dac50d6179d7638413e",
+      "status": "exclude",
+      "reason": "화상 털과 깊이에 따른 부정 판정은 현재 사용자의 몸 정보가 아니다",
+      "contextNote": "화상 부위의 문둥병 진단",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:26",
+      "textSha256": "845276fb214e39c1c1182b8c85fc8e64b1413d0b4ba9f45107ca85847e14fc50",
+      "status": "hold",
+      "reason": "H056의 확정 전 관찰은 있으나 흰 털과 함몰이 없다는 실제 진찰 조건이 필요하다",
+      "contextNote": "불확실 화상 환처의 격리",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:27",
+      "textSha256": "9007ba31db36f8360b27b18e9e9b3e7d2c8a1a45d39ea162e6174e6ccec78525",
+      "status": "exclude",
+      "reason": "병 확산 뒤 문둥병 판정은 오늘 치료 결과의 예고로 읽을 수 없다",
+      "contextNote": "화상 환처의 추가 진찰",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:28",
+      "textSha256": "0749fa6d5885b51ae610ac22b9a6839903f96e89135a6ceb57e92ec46f48f603",
+      "status": "exclude",
+      "reason": "안 퍼지고 엷어진 색점은 화상 흔적이라는 예외로 일반 불안 해소 보장이 아니다",
+      "contextNote": "화상 흔적 정결 판정",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:29",
+      "textSha256": "890bd35766258d74cff9f4772effc94ba2cee21ed929181709666b011bd16fe4",
+      "status": "exclude",
+      "reason": "머리 수염 환처의 조건만 있어 독립 선택의 의미가 없다",
+      "contextNote": "머리 수염 피부병 도입",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:30",
+      "textSha256": "9ee2aec26affa5fd80e6947549abc31c4753b899808766543027b9e7c02ce1c9",
+      "status": "exclude",
+      "reason": "누런 털과 함몰을 옴 문둥병으로 정한 기준은 현재 건강 판단의 자료가 아니다",
+      "contextNote": "두피 수염 환처의 진단",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:31",
+      "textSha256": "4498614299c6414b1c20efc3dd25bf0e3fe142141b2d363d1afa9dfeed890c2a",
+      "status": "hold",
+      "reason": "H056의 확정 전 기다림은 비추나 옴과 털 상태의 조건이 구체 치료에 없는 사실이다",
+      "contextNote": "불확실 두피 환처 관찰",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:32",
+      "textSha256": "8e967cdbd8d988636658b258bd04be7656652c12e2542f6423aa17ffa76b4c22",
+      "status": "exclude",
+      "reason": "옴 확산과 털의 색 조건이 미완으로 이어져 생활 실마리가 독립적으로 없다",
+      "contextNote": "두피 추가 관찰의 전제",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:33",
+      "textSha256": "7d9c5138e14d8cd90b85c37eb8845e66be33df31878311b6ec8c41ea9272fd04",
+      "status": "exclude",
+      "reason": "모발을 미는 부위와 격리 기간은 외모 자신감이나 현대 치료 방법으로 옮길 수 없다",
+      "contextNote": "환처 주변 면도와 추가 격리",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:34",
+      "textSha256": "beb0a8abc7dffdbdd9bf473a736617b510139d5fd654fa36775a3ea156eb3f20",
+      "status": "exclude",
+      "reason": "진찰 뒤 정결 세탁의 긴 조건은 현재 치료 호전을 확인한 정보가 아니다",
+      "contextNote": "두피 환처 정결 판정",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:35",
+      "textSha256": "46b4b656eb430c8c980561aef8366250091d33171d86b1cb4e34e7d329731d94",
+      "status": "exclude",
+      "reason": "정결 뒤 다시 확산한다는 미완 조건은 입력에 없는 병력이다",
+      "contextNote": "재발한 옴의 조건",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:36",
+      "textSha256": "cebe18576f898f2fe626f39b2d132cd06754f5e3ffb252405e59c588043b0246",
+      "status": "exclude",
+      "reason": "누런 털 없이도 부정한 판정은 실제 건강 결과를 단정할 정보가 아니다",
+      "contextNote": "확산한 두피병의 부정 진단",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:37",
+      "textSha256": "44168ad41ac347f61e23344f1ff620e6b110b66b276bdc121dff5d69e19acec7",
+      "status": "exclude",
+      "reason": "검은 털과 고정된 환처는 실제로 나았다는 진찰 조건이며 미확인 치료의 약속이 아니다",
+      "contextNote": "두피병 회복의 정결 진단",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:38",
+      "textSha256": "ebfb05b79130af75b9aa04dcfa67d3bae2c02bb74578f1da78e998fcd8bdd552",
+      "status": "exclude",
+      "reason": "흰 색점이 있다는 전제만 있어 생활 선택의 독립 내용이 없다",
+      "contextNote": "흰 피부 색점의 규정 도입",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:39",
+      "textSha256": "3fcf73bb2c96f088371e5829dc60ae4c67355ef6d41fa8694edf0077d1bdb643",
+      "status": "exclude",
+      "reason": "어루러기 정결 진단은 실제 피부 상태가 없는 현재 고민에 넣을 수 없다",
+      "contextNote": "엷은 흰 색점의 예외 판정",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:40",
+      "textSha256": "adbbfc3912a08b73a74c66ebcad33508f6d010133330d5fa4a8f23846cc6a3b4",
+      "status": "candidate",
+      "reason": "머리털이 빠진 모습 자체로 부정하지 않다는 짧은 말에서 외모 수치를 덜 실마리가 있다",
+      "contextNote": "피부병 규정과 단순 대머리를 구별함",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A022",
+          "clue": "대머리여도 정하다는 말에서 머리숱 때문에 내가 부끄럽고 숨겨야 할 사람은 아니라는 실마리를 읽는다.",
+          "friction": "의식적 정결의 구별이지 외모 미추 평가나 현대 탈모 진단이 아니다. 모임 사람들이 어떻게 반응할지도 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:13:41",
+      "textSha256": "c229c08e9f1dcc46e927b81f611d66b3a97f3a587b71928b78ca8683cd2c9536",
+      "status": "candidate",
+      "reason": "앞머리가 빠져도 정하다는 말이 앞머리 때문에 숨고 싶은 부담을 정확히 비춘다",
+      "contextNote": "이마 대머리도 부정이 아님을 확인함",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A022",
+          "clue": "앞머리가 빠진 모습까지 짚어 정하다고 한 말이 내 외모 때문에 모임을 피할 부담을 덜 수 있다.",
+          "friction": "고대 정결 규정이며 미용상 매력이나 주변의 호감을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:13:42",
+      "textSha256": "782cc4b3ff0a979b8f9b309567968ea5a082e638a2749e97b3dc467184ed8840",
+      "status": "exclude",
+      "reason": "대머리 위 환처를 병으로 가르는 조건은 외모의 부끄러움만 있는 고민에 추가할 수 없다",
+      "contextNote": "대머리 부위 색점의 예외",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:43",
+      "textSha256": "2eb8bae5a728fb007d4bafa6a33be5273af75e392ee547d27aeeef1dbae649d3",
+      "status": "exclude",
+      "reason": "색점 진찰 조건의 미완 문장은 판단 자체가 다음 절에 있다",
+      "contextNote": "대머리 환처의 진찰 전제",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:44",
+      "textSha256": "e5ae1ce64875c4966f917fb84804b506a1d2626fa284fff4b7fa439924e2af53",
+      "status": "exclude",
+      "reason": "머리 환처로 확실히 부정하다 한 판정을 단순 탈모 고민에 대입하면 조건을 바꾸게 된다",
+      "contextNote": "두피 문둥 환자의 부정 진단",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:45",
+      "textSha256": "d78cd273fcf69b58541341e51c516d1a3d19ff6351ec6b1fb0b869b7692af70d",
+      "status": "exclude",
+      "reason": "옷 찢고 부정하다 외치는 의식은 외모 수치를 덜 실마리와 반대로 낙인 조건을 덧붙인다",
+      "contextNote": "문둥 환자의 식별 행동",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:46",
+      "textSha256": "fc3e67f25b3c04da592047f104656ddb07f88b210960d6e91b3b3c97fde861f8",
+      "status": "exclude",
+      "reason": "병으로 진 밖 혼자 살라는 규정은 원치 않는 스킨십 피해자나 단순 외모 고민에 옮길 수 없다",
+      "contextNote": "부정 환자의 공동체 밖 거주",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:47",
+      "textSha256": "3ef33eb8a818433e4bff5ff7757588f9bb95dd9d8029b56b15e1913d0e6044f1",
+      "status": "exclude",
+      "reason": "의복 색점의 도입은 작은 긁힘이 있는 중고 물건의 실제 상태와 다르다",
+      "contextNote": "의복의 문둥병 규정 시작",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:48",
+      "textSha256": "4872b81d30bbdb991474b2772a727733dd53be3e1333de57440de538f49d6d82",
+      "status": "exclude",
+      "reason": "섬유 날 씨와 가죽의 목록은 선택 이유 없이 병색 발생 대상을 열거한다",
+      "contextNote": "병색 있는 옷감의 종류",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:49",
+      "textSha256": "5981c8ec3f955697986fd46f10206c3aad40318b8c5b20bcce427481dfae122b",
+      "status": "hold",
+      "reason": "H005의 흠을 살필 태도는 가능하나 푸른 붉은 병색이 현재 작은 긁힘보다 다른 상태다",
+      "contextNote": "의복 병색을 제사장에게 보이게 함",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:50",
+      "textSha256": "c27f4a24c0727ffff10ed8b7a18e57f17a6ec00c31a39b4e955af6d503115d59",
+      "status": "hold",
+      "reason": "H005의 상태 확인 후 결정은 비추나 칠 일 보관과 제사장 판정을 현재 거래 절차로 정할 수 없다",
+      "contextNote": "병색 의복의 관찰 시작",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:51",
+      "textSha256": "f59c4cc2454bd2d2ddcdb8a12d83eb5befe424f948d9b8fb334f0fe76a271f31",
+      "status": "exclude",
+      "reason": "여러 직물의 병색 확산 진단은 단순 작은 흠의 상품 상태를 정할 근거가 아니다",
+      "contextNote": "의복 병색 확산의 부정 판정",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:52",
+      "textSha256": "5772a15457304108839e87f3c0e2ffb1897d72752084bbee5d3d9b47e6261efa",
+      "status": "exclude",
+      "reason": "병색 옷감의 소각을 현재 물건의 작은 흠에도 요구할 근거가 없다",
+      "contextNote": "악성 병색 의복의 폐기",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:53",
+      "textSha256": "ec89638585fdb9afccdae5e8bad3e1fe22296bc47e3447400f1141c9059685f7",
+      "status": "exclude",
+      "reason": "안 퍼진 색점의 미완 조건은 다음 세탁 규정 없이는 생활 판단이 끝나지 않는다",
+      "contextNote": "의복 병색의 비확산 관찰 전제",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:54",
+      "textSha256": "e3938eadad3a96838631f99c4a9cd959a5d1869683a336da7de1236c8a66cc62",
+      "status": "hold",
+      "reason": "H005의 흠 상태를 더 살핌은 가능하나 세탁 후 칠 일 보관을 거래의 실질 기한으로 정할 수 없다",
+      "contextNote": "색점 의복의 세탁 관찰",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:55",
+      "textSha256": "46544f3e6c7c8ce136dd649bdceffce0ef7c39f6afa31f8cf26787c6614f0f4e",
+      "status": "exclude",
+      "reason": "색점 고정에도 옷을 태우는 판정은 작은 긁힘의 중고품에 추가할 조건이 아니다",
+      "contextNote": "변치 않는 의복 병색의 폐기",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:56",
+      "textSha256": "eb9c5a0bb8241e26e3009c4518b5c4b0755004a9319b814013b61bc49546a922",
+      "status": "hold",
+      "reason": "H043의 문제 부분을 덜어 냄은 비추나 색점이 엷어졌다는 실제 상태가 입력에는 없다",
+      "contextNote": "엷어진 색점 부분을 찢어 냄",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:57",
+      "textSha256": "8261e5a385db270c4e5745459122f9e7185da956011f4c16acfd5dbe45c30137",
+      "status": "hold",
+      "reason": "H029의 고친 뒤 반복됨을 알아봄은 있으나 복발과 병색 소각을 사람의 성품 판정으로 옮기기 어렵다",
+      "contextNote": "다시 생긴 의복 색점의 처리",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:58",
+      "textSha256": "772d1d4e7f60510df239802d5649e2a4bd5a1223dde760ba1f3679eb9c21c2d4",
+      "status": "exclude",
+      "reason": "색점이 벗겨진 옷의 재세탁은 현재 작은 흠의 제품을 받아들일지와 조건이 다르다",
+      "contextNote": "회복된 병색 의복의 정결",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:13:59",
+      "textSha256": "bb40540acbc5622f0b34bd1f804e6933bebd432efebad0fe975674eeb08919d4",
+      "status": "exclude",
+      "reason": "여러 직물 문둥병 정결의 요약은 현재 생활 선택 기준으로 풀이 없이 읽기 어렵다",
+      "contextNote": "의복 색점 규정의 정리",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:1",
+      "textSha256": "1213bc72e4be9e9f17f4b9129e3f0d4cbde2d4cf24000ea629c6671d78ca8075",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 독립 생활 판단이 없다",
+      "contextNote": "환자 정결 의식 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:2",
+      "textSha256": "f57706e572859353d16a382ed4cb40b2096ad3850c3719901dbdd75f926b3463",
+      "status": "hold",
+      "reason": "G14의 치료 상태 확인은 비추나 나은 날의 정결 의식이므로 현재 낫지 않은 고민의 결과를 정하지 않는다",
+      "contextNote": "정결 회복 환자를 제사장에게 데려감",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:3",
+      "textSha256": "5c3679f4ff196519b7196a623903d2c73d81c849605a533bafc33c14cb76ee73",
+      "status": "exclude",
+      "reason": "환처가 나았으면의 전제는 현재 치료 호전이 확인됐다는 정보가 아니다",
+      "contextNote": "진 밖에서 회복 여부를 진찰함",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:4",
+      "textSha256": "06f7c47c3f413b8c718ad887150dc5d761bd5f3fcd41084f1e9041ae23adad02",
+      "status": "exclude",
+      "reason": "새 목재 실 우슬초 조합은 보통 준비와 선물의 이유를 제공하지 않는다",
+      "contextNote": "회복 환자 정결 재료",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:5",
+      "textSha256": "01ab777ec5c06fa5f3164ca1e36a30abfb83e0e8cd265b4837f422c9d7a9d592",
+      "status": "exclude",
+      "reason": "질그릇과 흐르는 물 위 새 도살은 일상 선택에 잇는 실마리가 없다",
+      "contextNote": "정결 의식의 새 희생",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:6",
+      "textSha256": "4000ccaab4cde9df479d7c3428860158d818f39eb4090adb9b316a45510083b7",
+      "status": "exclude",
+      "reason": "산 새와 목재에 피를 찍는 미완 절차는 생활 행동의 이유가 없다",
+      "contextNote": "새 피에 정결 도구를 찍음",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:7",
+      "textSha256": "9faab9160ffee3f5717b945f31a2a349dd570c14de779d54f8da060f1a5cca68",
+      "status": "hold",
+      "reason": "H028의 놓아 보내는 이미지는 있으나 환자에게 피 뿌리고 산 새를 놓는 의식이라 관계 선택에는 풀이가 필요하다",
+      "contextNote": "환자 정결 선언과 새 방생",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:8",
+      "textSha256": "5d26a534e6cd1d8e5b52028a5dcd8614fd097a087c0faae0ae0e6d335dd46287",
+      "status": "exclude",
+      "reason": "면도 세탁 뒤 칠 일 장막 밖 대기는 실제 치료 종료나 모임 복귀 기준으로 전이할 수 없다",
+      "contextNote": "회복 환자의 진 복귀 절차",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:9",
+      "textSha256": "5dca7b80108261d15e43f29fb4051518a3f37bb038537363f30744097dfe4c0f",
+      "status": "exclude",
+      "reason": "머리 수염 눈썹을 미는 정결법은 단순 탈모 자신감이나 현대 관리의 방법이 아니다",
+      "contextNote": "칠 일째 정결 세정",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:10",
+      "textSha256": "3852af9145fb27fb5b6daa4bba0afca02c114255102753f171618e91cfeb3f8f",
+      "status": "exclude",
+      "reason": "수양과 암양 곡식 기름의 분량은 실제 자원 여력이나 선물 크기 판단이 아니다",
+      "contextNote": "팔 일째 정결 제물 준비",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:11",
+      "textSha256": "4db2f900da9096c7085f293dbed9607a3fc06776ed4cc8ca11cce1e5fb7c6973",
+      "status": "exclude",
+      "reason": "환자와 물건을 회막에 두는 동작은 독립된 생활 선택 의미가 없다",
+      "contextNote": "회복 환자를 회막 앞에 세움",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:12",
+      "textSha256": "cae45ecc21cfc6df1ee29bc67ff7e9e78d9bd93ca0cf205a68337424a4581d82",
+      "status": "exclude",
+      "reason": "기름과 수양을 흔드는 요제는 일상 감사를 표현할 방법과 다르다",
+      "contextNote": "환자 속건제 요제",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:13",
+      "textSha256": "e75fbbcce439471e43f9577cc712c15c81a5ed27b6946df8b57257b44d24ef23",
+      "status": "hold",
+      "reason": "A006의 봉사자 몫은 있지만 도살 장소와 속죄 속건의 비교가 길어 현재 보수 요청에는 간접적이다",
+      "contextNote": "정결 속건 제물의 제사장 귀속",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:14",
+      "textSha256": "fd37f079ddf18ce179a1727a059696bc6cb9e705cff4406e977199e421042334",
+      "status": "exclude",
+      "reason": "피를 귀와 손발에 바르는 행위는 현대 회복이나 사과의 처방으로 옮길 수 없다",
+      "contextNote": "정결 회복자의 신체에 피 바름",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:15",
+      "textSha256": "88183dbc4223b8a40aeb3fd9aa18938dd0a3106cfac1ef451f0c1fe222af430f",
+      "status": "exclude",
+      "reason": "손에 기름 한 록을 따르는 절차는 현재 도움의 양을 정하지 않는다",
+      "contextNote": "정결 관유의 준비",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:16",
+      "textSha256": "1476357bf76f7be9a5c6faa94b33cb65d1792a0a64fddad8473207aa17e48a91",
+      "status": "exclude",
+      "reason": "손가락의 기름을 일곱 번 뿌리는 의식은 현재 반복할 노력의 충분량이 아니다",
+      "contextNote": "정결 기름의 뿌림",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:17",
+      "textSha256": "c1f5a19d08547164fe94488ae282f9d870f8891caa799a3feabe1efc57eaf84a",
+      "status": "exclude",
+      "reason": "피 위 기름의 신체 도포는 일상 생활 선택에 설명 없이 잇기 어렵다",
+      "contextNote": "귀와 손발의 기름 도포",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:18",
+      "textSha256": "7957d3f65c5d3761f829ffacb61f1bb71612b14c52828f98f37b65b706637e1f",
+      "status": "exclude",
+      "reason": "머리에 남은 기름을 바르는 속죄 절차는 사과나 마음 정리의 실마리가 약하다",
+      "contextNote": "정결 회복자의 머리 성별",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:19",
+      "textSha256": "e77f4c1df4d9e6a31905d290f9323d6563b5f98741a06fe7fd260cf50e0773da",
+      "status": "exclude",
+      "reason": "부정함과 여러 제사의 순서는 현대 치료가 필요한 기간이나 선택을 말하지 않는다",
+      "contextNote": "환자의 속죄제와 번제 실행 순서",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:20",
+      "textSha256": "64ead5f3771527412cf9ddaf9df224d909fa6bf99b3a090cb1d4e1368cc51c57",
+      "status": "hold",
+      "reason": "G14의 정결 회복 위로는 있으나 번제 소제 후 선언을 현재 치료 결과의 보장으로 옮길 수 없다",
+      "contextNote": "정결 제사의 마무리와 선언",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:21",
+      "textSha256": "26e7cf38b9a4a67bcd296ea2ecc8a6945d1980b23b25d0e1dd51cc95add8386b",
+      "status": "hold",
+      "reason": "H007의 여력에 맞춤은 있으나 수양 곡식 기름 분량이 길고 줄어든 양은 앞 제물 규정을 알아야 한다",
+      "contextNote": "가난한 회복 환자의 제물 대안 시작",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:22",
+      "textSha256": "fe7b98cdd5b718ddd1af8c47f7e247e9880b4d60f9141fd1d1ac6fe2c0c68374",
+      "status": "candidate",
+      "reason": "힘이 미치는 만큼 택한다는 말이 비싼 선물의 부담보다 현재 가능한 정성을 살필 실마리다",
+      "contextNote": "가난한 회복 환자의 새 제물 허용",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H007",
+          "clue": "힘이 미치는대로 택해 드리는 예물에서 비싼 선물을 무리해 준비해야 한다는 부담을 낮출 수 있다.",
+          "friction": "가난한 회복 환자의 속죄 번제 새 제물이다. 친구 선물을 의식 의무로 정하거나 가격이 사랑의 증거라고 설명하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:14:23",
+      "textSha256": "476f9cca5f1af034f348fe8dc5315c3db68ffc98e3a7075ee53e16338573e76f",
+      "status": "exclude",
+      "reason": "팔 일째 결례의 장소 시점은 오늘 마감이나 다음 기회의 정보가 아니다",
+      "contextNote": "대안 정결 제물의 전달 시점",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:24",
+      "textSha256": "98b9f51f180c4d6d3196bc53bbdd45a0e3fa96e03aaf45e4fc129d52636fac11",
+      "status": "exclude",
+      "reason": "수양과 기름을 흔드는 절차는 생활 도움의 적절함을 설명하지 않는다",
+      "contextNote": "대안 정결 속건제의 요제",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:25",
+      "textSha256": "efa6404fa5a33febbed84558d6efc8c32beefb4833bfb9037875eca8c71938b1",
+      "status": "exclude",
+      "reason": "양의 피를 신체에 바르는 의식은 지금 회복이나 관계 개선의 방법으로 읽기 어렵다",
+      "contextNote": "가난한 환자 정결의 피 처리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:26",
+      "textSha256": "7a78523d0c8740b8dcb6163a7931693d213d53a457ac2b926baeab8449ae91de",
+      "status": "exclude",
+      "reason": "왼손에 기름을 따르는 동작은 독립 생활 판단이 없다",
+      "contextNote": "정결 기름 준비의 반복",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:27",
+      "textSha256": "446e4892fa49ad6860a3c9385bb23f7cd7dac2a543ed035e436acafafa8be05a",
+      "status": "exclude",
+      "reason": "기름 일곱 번 뿌림은 오늘 되풀이할 노력이나 습관의 기준이 아니다",
+      "contextNote": "정결 기름 뿌림의 반복",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:28",
+      "textSha256": "8bcc578c5ca75f120e529db29001a86d32fa6f2a0372f3acd203c0bfe475ccd0",
+      "status": "exclude",
+      "reason": "피 바른 귀와 엄지에 기름을 바름은 일상 실수 수정의 처방과 다르다",
+      "contextNote": "정결 기름 도포의 반복",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:29",
+      "textSha256": "0d293d59e1201e737b8fef80901bb1d1bc1c9463fe91259d137dcbc2eb05d7fe",
+      "status": "exclude",
+      "reason": "머리 기름과 속죄는 지금 상대의 사과 수락을 판단할 정보가 아니다",
+      "contextNote": "대안 정결제의 머리 성별",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:30",
+      "textSha256": "68cd885e696c5fca8c4fef6ee7c0475ca7dca1e8fae2c862de6c27721f422831",
+      "status": "candidate",
+      "reason": "힘이 미치는대로 드린다는 짧은 말에서 무리해 큰 것을 고집하지 않을 실마리를 읽는다",
+      "contextNote": "가난한 환자에게 허용한 새 제물",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H007",
+          "clue": "내 힘이 미치는 만큼 드린다는 말에 작은 정성도 가능한 방향을 읽는다.",
+          "friction": "새 한 마리의 제사 절차이며 끝이 뒤의 집행과 이어진다. 상대가 어느 선물을 좋아할지 확정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:14:31",
+      "textSha256": "7e85d01fab2b5d987990bdfd2513389ac22409bf02300c604580d555fa9f291d",
+      "status": "hold",
+      "reason": "H007의 여력 안의 예물은 있으나 세 제사와 속죄의 긴 문장으로 실제 선물 선택은 간접적이다",
+      "contextNote": "여력별 제사의 집행",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:32",
+      "textSha256": "ff0d9bb000d25ad9ed572b242f5e931d93baa588fc9bcc04a9aa83d00e1f0989",
+      "status": "hold",
+      "reason": "H007의 힘 부족을 고려함은 비추나 앞 의식을 요약할 뿐 이 절에 대안의 내용이 없다",
+      "contextNote": "부족한 환자의 결례 규정 정리",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:33",
+      "textSha256": "07f1b732cd444edc8e86264b81332a2c28d29d9cfd1390eddcbf51baf33b3e50",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 생활 선택의 내용이 없다",
+      "contextNote": "가옥 색점 규정 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:34",
+      "textSha256": "4201b96a729693f139254f2251eaeeaf55f6637a200134a0618983969b5497f3",
+      "status": "exclude",
+      "reason": "가나안 정착 후 집에 색점이 생길 조건은 지금 사는 곳의 실제 상태를 알려 주지 않는다",
+      "contextNote": "집 색점 규정의 전제",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:35",
+      "textSha256": "c80976337ecb6a450097d62e6653dbf9f760af5751b25eafae78f097c952aac7",
+      "status": "hold",
+      "reason": "H051의 모르는 상태를 말하고 확인함은 비추나 집 색점과 제사장이라는 대상이 현재 업무 조언과 다르다",
+      "contextNote": "집주인이 색점 발생을 신고함",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:36",
+      "textSha256": "aee75f91e2fda09b7c5d8d0fc12d546f97ee3883a5f4ace1bad43462671048ff",
+      "status": "hold",
+      "reason": "A014의 살피기 전 물건을 보호함은 닿으나 가장집물과 부정 판정의 옛 절차가 어렵다",
+      "contextNote": "집 검사 전 살림 물건을 내보냄",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:37",
+      "textSha256": "69eaa896c0930db9db9682066d87e14ea21e53104519917634faacaf442b7175",
+      "status": "exclude",
+      "reason": "색점의 빛과 깊이는 실제 입력에 없는 집 상태 정보다",
+      "contextNote": "집 벽 색점의 검사 조건",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:38",
+      "textSha256": "1b7b9f3d9e7821fc58999632c9564f24806727d9e9949822dcf6004e8e22d267",
+      "status": "hold",
+      "reason": "H056의 잠시 기다려 확인함은 가능하나 집의 칠 일 폐쇄를 현대 치료나 생활 중단 기간으로 옮길 수 없다",
+      "contextNote": "색점 집의 관찰 폐쇄",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:39",
+      "textSha256": "6ec68f463cfea01ad52f1cc9b3e4ce62ee2ec9b2945eeb29ea356e4bcae46f39",
+      "status": "exclude",
+      "reason": "색점 확산 여부의 미완 전제는 현재 내 계획이나 관계의 상태를 말하지 않는다",
+      "contextNote": "칠 일째 가옥 재검사",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:40",
+      "textSha256": "b80a9b37c4d7ae28732140fc09710d5755bdcf290b471fae17501996dc022720",
+      "status": "hold",
+      "reason": "H029의 문제 부분 제거는 비추나 사람을 병색 돌이나 부정한 것으로 단정하는 비유가 거칠다",
+      "contextNote": "색점 있는 돌을 빼어 버림",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:41",
+      "textSha256": "251b428c4359cb30cfe8d56c3ab577ef8b38378a095a288fb96a1a3bb91b367a",
+      "status": "exclude",
+      "reason": "벽 흙을 긁어 밖에 버리는 지시는 현재 소유 물건이나 감정을 정리할 기준이 아니다",
+      "contextNote": "집안 벽의 오염 흙 제거",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:42",
+      "textSha256": "68508511627555969992c255269bd83bcc2b7b1e0538538743f2455a4bd01bd8",
+      "status": "candidate",
+      "reason": "기존 부분만 붙들지 않고 다른 재료로 바꿔 다시 고치는 모습이 방법 변경의 실마리가 된다",
+      "contextNote": "새 돌과 흙으로 가옥을 수리함",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H043",
+          "clue": "같은 것을 계속 붙들기보다 다른 돌과 흙으로 바꿔 고치는 모습에서 새로운 방법을 시험할 실마리를 얻는다.",
+          "friction": "가옥 색점 수리이며 이후 재발 시 철거 규정도 있다. 새 방법이 반드시 성공하거나 관계 상대가 바뀐다는 보장은 없다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:14:43",
+      "textSha256": "2b0e190df1ea29d92ea5de53d24d6c69a8842fc3eb3dabc636043a90dc6580fa",
+      "status": "hold",
+      "reason": "H029의 고쳤는데도 되풀이됨은 닿으나 집 색점의 재발 조건만 있고 행동은 다음 절에 있다",
+      "contextNote": "수리 후 색점 재발의 전제",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:44",
+      "textSha256": "a8604b608dd7cbb1d3d7b9f7e39570a6e5d45341261ccedfc8c7f9da28b53861",
+      "status": "exclude",
+      "reason": "집 병색 확산의 악성 진단은 현재 친구나 일의 상태를 정할 정보가 아니다",
+      "contextNote": "재발한 가옥 색점의 부정 판정",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:45",
+      "textSha256": "51b4e52656c31408d645b4afa57c0ca574b5ac471fc66b76bb0749075eb6fecf",
+      "status": "hold",
+      "reason": "H029의 여러 번 고친 관계를 끝내는 이미지는 가능하나 집 전체 철거와 성밖 폐기는 사람의 경계를 설명하기에 과하다",
+      "contextNote": "회복 안 되는 집을 철거함",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:46",
+      "textSha256": "67f8d8ac840380d1c6dfb4cde72fff942f53f07779210de567ddbf90a97966b0",
+      "status": "exclude",
+      "reason": "폐쇄 집의 출입 부정 기간은 지금 피할 관계나 장소를 정할 실제 조건이 아니다",
+      "contextNote": "격리 가옥 출입자의 부정",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:47",
+      "textSha256": "909f886aa8c7c81354b275bfd37d3e710e497c960b80596c68642279ded2d1f7",
+      "status": "exclude",
+      "reason": "자거나 먹은 뒤 세탁하는 의식은 일반 외출 후 정리의 필요를 판단하지 않는다",
+      "contextNote": "색점 집 이용자의 정결",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:48",
+      "textSha256": "4ef333e9fa1aad9d4d4f3ae9aefd7328c4b4f699ad90f1633293bc46dbcde7ec",
+      "status": "exclude",
+      "reason": "집 색점이 안 퍼졌다는 판정은 미확인 관계나 치료가 좋아졌다고 읽을 정보가 아니다",
+      "contextNote": "수리 후 가옥의 정결 판정",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:49",
+      "textSha256": "e24d4dc2a997e8081bbf494485d0733b1407956ca5c0f9cf8f4bbf1ac25d6248",
+      "status": "exclude",
+      "reason": "새와 목재 실 우슬초의 의식 재료는 일상 집 정리나 선물 선택의 기준이 아니다",
+      "contextNote": "정결 가옥의 의식 준비",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:50",
+      "textSha256": "bc4b79f5e305e4e61dd8fa048a481ad689c11d5481106e41043fc446c23519af",
+      "status": "exclude",
+      "reason": "새 도살과 질그릇 물의 절차는 현재 생활 행동의 자연스러운 실마리가 없다",
+      "contextNote": "가옥 정결의 새 희생",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:51",
+      "textSha256": "4e57abdecdd256f218301b9288f25c0c8d2d891db31832064a06dca366b7df74",
+      "status": "exclude",
+      "reason": "새 피를 찍어 집에 일곱 번 뿌리는 의식은 일반 청소나 문제 수정의 반복량이 아니다",
+      "contextNote": "가옥 정결의 피뿌림",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:52",
+      "textSha256": "40df15fa205be32deb38217071762cf6c2a9948496cacf02a6da871e7da0ea10",
+      "status": "exclude",
+      "reason": "여러 의식 도구의 정결법은 현재 사는 곳의 실제 안전이나 상태를 정하지 않는다",
+      "contextNote": "가옥 정결 도구의 총괄",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:53",
+      "textSha256": "36217349d2011aaab77635eae521c7716b498148e9b239bca460bb4dfaf49065",
+      "status": "hold",
+      "reason": "H028의 놓아 보내고 정리함은 비추나 집을 속하는 새 방생의 의식 의미를 풀이해야 한다",
+      "contextNote": "가옥 정결과 산 새 방생",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:54",
+      "textSha256": "b48d051b83723897d4304d8a53f3f2d569e83a47d042f2a6f7fed2ba7740a5c6",
+      "status": "exclude",
+      "reason": "환처와 옴의 규정 도입은 선택 이유가 없는 질환 목록이다",
+      "contextNote": "피부와 가옥 정결 법의 총괄 시작",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:55",
+      "textSha256": "600264f04fb473a4043e761f41c80431afd58d0a2261d3be45706e6d5bf14fa8",
+      "status": "exclude",
+      "reason": "의복 가옥의 문둥병 목록만 있어 독립 생활 의미가 없다",
+      "contextNote": "정결 법의 적용 대상 목록",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:56",
+      "textSha256": "17366d8855067259800f4c936788a8dc741c53ead52c420e8a4d3dd003670863",
+      "status": "exclude",
+      "reason": "피부병 붓기 색점의 열거는 현재 건강 결과나 생활 선택의 정보가 아니다",
+      "contextNote": "정결 법의 증상 목록",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:14:57",
+      "textSha256": "fd71a1131e661cf047018df8a4451cc9d39b31d46771e620c97acce5af124e95",
+      "status": "exclude",
+      "reason": "정한 시기를 가르칠 결론은 실제 진찰이 없는 현재 고민에 임의 기준을 주지 않는다",
+      "contextNote": "문둥병 정결 법의 목적",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:15:1",
+      "textSha256": "07f1b732cd444edc8e86264b81332a2c28d29d9cfd1390eddcbf51baf33b3e50",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 생활 판단 내용이 없다",
+      "contextNote": "유출 부정 규정 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:15:2",
+      "textSha256": "54fb7c73bfdabb0d9a6ee949e77ec5964895653ee331b912af6193936da91595",
+      "status": "exclude",
+      "reason": "몸 유출의 의식 부정을 지금 사람의 성품이나 사회적 관계의 기준으로 옮길 수 없다",
+      "contextNote": "유출병자의 의식 지위",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:15:3",
+      "textSha256": "14863e68bbc1d37ec213133256309d14ab0936aac4e7048eda302e59ea58cb5c",
+      "status": "exclude",
+      "reason": "흐름과 엉김의 부정 조건은 일상 선택의 양쪽 부담을 다루지 않는다",
+      "contextNote": "유출의 부정 상태 정의",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:15:4",
+      "textSha256": "85f20b94598e067383f6b5575db2af3e718d034fbdc5bebd2e21d143029ee559",
+      "status": "exclude",
+      "reason": "침상 좌석의 부정은 현재 혼자 지낼지와 다른 유출 접촉 조건이다",
+      "contextNote": "유출병자의 침상과 좌석",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:15:5",
+      "textSha256": "238a6f846218e246c03bf28928474d5ed9c354ba709a0ef05734204240e67422",
+      "status": "exclude",
+      "reason": "침상 접촉 후 세정은 일반 인간 접촉을 피하라는 판단 근거가 아니다",
+      "contextNote": "침상 접촉자의 정결",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:15:6",
+      "textSha256": "477579935c64503f293e44358dbeca514b3e3ea01b5df441c4624fcba00bdd42",
+      "status": "exclude",
+      "reason": "앉았던 자리의 세정 규정은 현재 모임 참석 여부의 실제 정보가 아니다",
+      "contextNote": "유출 좌석 사용자의 정결",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:15:7",
+      "textSha256": "c605e8a732568440293147564fd40830618f820e0e00490ce488a59237c19cf6",
+      "status": "exclude",
+      "reason": "몸에 닿은 부정과 세정은 원치 않는 스킨십의 동의 문제와 다른 의식 조건이다",
+      "contextNote": "유출병자 신체 접촉자의 정결",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:15:8",
+      "textSha256": "54a612b1aa9e3a75b92e44b0b1b2e585411d5227ba754bb2c3fc317b36fa4d50",
+      "status": "exclude",
+      "reason": "침의 부정과 세탁은 지금 다툼 상대를 더럽다고 판정할 근거가 아니다",
+      "contextNote": "유출병자의 침 접촉 정결",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:15:9",
+      "textSha256": "4989e19e6b83b2c8cb40d6c5da7f3193d37b1d1962890cf968c8081c295988fd",
+      "status": "exclude",
+      "reason": "안장의 부정만 있어 현재 이동이나 관계 선택의 의미가 없다",
+      "contextNote": "유출병자의 안장",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:15:10",
+      "textSha256": "401da98869cc59c6d385b08060ae628112feae2326e610b25e5daf0d17d4153e",
+      "status": "exclude",
+      "reason": "신체 아래 물건 접촉의 부정은 오늘 사용 물품의 실제 상태와 다르다",
+      "contextNote": "유출병자 물건 접촉과 운반",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:15:11",
+      "textSha256": "dd3ae2515b42f8bc7d51b250770de570ae8dad0153352e3922736e50ad270bbf",
+      "status": "exclude",
+      "reason": "손 세정 없는 접촉의 의식 조건은 일반 도움 요청이나 악수의 기준이 아니다",
+      "contextNote": "유출병자의 미세정 접촉",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:15:12",
+      "textSha256": "50e1297f25bca13abd849adadcca78aa54b9e6149729348980409c537baa39a3",
+      "status": "exclude",
+      "reason": "질그릇과 목기의 차등 처리는 작동하는 물건의 업그레이드를 결정할 정보가 아니다",
+      "contextNote": "유출 접촉 기물의 처리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:15:13",
+      "textSha256": "eae97b7278900381ed38f8b2aa871a770aea2bd595f119136598a4763e396f4d",
+      "status": "exclude",
+      "reason": "유출이 멈췄다는 전제와 칠 일은 현재 치료 결과나 회복 기간을 알려 주지 않는다",
+      "contextNote": "유출 회복자의 정결 절차",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:15:14",
+      "textSha256": "81351876c2a2c440d9c1315a87709607d7d6b1ead752e5f0faba9a4c36785af7",
+      "status": "exclude",
+      "reason": "팔 일째 새 두 마리 제물은 실제 생활 기한이나 선물 필요와 조건이 다르다",
+      "contextNote": "유출 회복의 제물 준비",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:15:15",
+      "textSha256": "c979c5333f19acfc2b3a4c5b00b2876ac06ab0414bce0e2ef25ade4c46db225e",
+      "status": "exclude",
+      "reason": "유출 속죄 제사는 현재 치료 지속의 선택이나 상대 사과의 정보가 아니다",
+      "contextNote": "유출 회복 제사의 실행",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:15:16",
+      "textSha256": "7269094e5026e67acc5fa88debe8e22bd42cc77167d6fa70662beb6a89f6c156",
+      "status": "exclude",
+      "reason": "설정의 의식 부정을 현재 사람의 도덕성이나 관계 가능성으로 판정할 수 없다",
+      "contextNote": "설정 뒤 정결 규정",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:15:17",
+      "textSha256": "d1b10bfac6646c1b081f3d74b5d81755154ad813ace85bfacf1f1e93d585b80e",
+      "status": "exclude",
+      "reason": "정액 묻은 옷 세탁은 일반 의복 구매의 필요와 다른 접촉 조건이다",
+      "contextNote": "설정된 옷과 가죽의 정결",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:15:18",
+      "textSha256": "749234c8dec942b36ea24715911317ce6aee3a4a260555c0faa015b7e1c47e94",
+      "status": "exclude",
+      "reason": "동침 뒤 세정은 동의 여부나 혼인 사실이 없는 고민의 선택 기준이 아니다",
+      "contextNote": "동침한 남녀의 의식 정결",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:15:19",
+      "textSha256": "8b397e38f3409cedf0d646c56f5e09694900d9e397fd54204d608398495c9197",
+      "status": "exclude",
+      "reason": "월경 접촉의 의식 기간을 현재 여성의 가치나 사회적 참여 제한으로 옮길 수 없다",
+      "contextNote": "여성 유출의 의식 부정 기간",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:15:20",
+      "textSha256": "d1109b9fe9532ab99379eb5c82fdf9d10d448d82c03bcac4e25a65de27e0f213",
+      "status": "exclude",
+      "reason": "앉고 누운 자리의 부정은 일상 관계를 멀리할지의 실제 이유가 아니다",
+      "contextNote": "월경 중 침상 좌석의 의식 지위",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:15:21",
+      "textSha256": "53f19d23a2738a9ec37d7d7c6c4732d1a2dde8f5e946e3b32dca34c670aba88f",
+      "status": "exclude",
+      "reason": "침상 접촉의 세정 기간은 현재 회복을 위해 쉬어야 할 기간이 아니다",
+      "contextNote": "월경 침상 접촉자의 정결",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:15:22",
+      "textSha256": "4b761f31bbd8d410f6554d173f253123fc9b5630fccc1998cf78cdf57d66c631",
+      "status": "exclude",
+      "reason": "좌석 접촉 세탁은 지금 모임 참석의 안전을 판단할 정보가 아니다",
+      "contextNote": "월경 좌석 접촉자의 정결",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:15:23",
+      "textSha256": "f70e1e7e621b2cf7b310402387a2175b95b5c3770ee5cc859c6ceff173badbd4",
+      "status": "exclude",
+      "reason": "자리 물건 접촉의 부정은 현재 빌린 물건의 사고 책임과 다르다",
+      "contextNote": "월경 중 물건 접촉의 부정",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:15:24",
+      "textSha256": "b8ae511bd31f9d9a6759c75189068da86551bd15d39dc053410ff41f8319bc3f",
+      "status": "exclude",
+      "reason": "월경 동침의 의식 기간을 미확인 관계의 정당성 판단에 추가할 수 없다",
+      "contextNote": "월경 동침자의 부정",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:15:25",
+      "textSha256": "9d1862e7983a253fdb2c4c26035981f6e5d155c3b6a51f295f4d0dd352032e10",
+      "status": "exclude",
+      "reason": "계속되는 출혈은 실제 건강 정보가 없으므로 치료 성패에 넣을 조건이 아니다",
+      "contextNote": "장기 출혈의 의식 부정",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:15:26",
+      "textSha256": "76fb720db7f44b5a3ec8910fc78ddca9b20d0fccd8eb92965ccc13498ff2ef9e",
+      "status": "exclude",
+      "reason": "출혈 중 침상 좌석의 지위는 일반 쉼이나 사람 관계의 선택 기준이 아니다",
+      "contextNote": "지속 출혈자의 물건 규정",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:15:27",
+      "textSha256": "8fd9c7665441e122fb7abdb41e77c6427cfe47765cd33fa075ee31c842d63278",
+      "status": "exclude",
+      "reason": "부정한 물건 접촉의 세정은 일상 관계의 마음 정리로 바로 잇기 어렵다",
+      "contextNote": "장기 출혈 접촉자의 정결",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:15:28",
+      "textSha256": "d8d3b78f3f0b5dcfc16bcdcb775ee4a53ac5b756800096f61a937ff4d4467de2",
+      "status": "exclude",
+      "reason": "유출 중단 뒤 칠 일은 지금 치료의 회복 시기를 알려 주지 않는다",
+      "contextNote": "출혈 회복 뒤 정결 시점",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:15:29",
+      "textSha256": "3ef0d4182aed6cecac35939f7eb07b8fcd19eaea439d63b85431e1e35afd2ab2",
+      "status": "exclude",
+      "reason": "팔 일 새 제물 준비는 지금 돈이나 선물 선택의 실제 조건이 아니다",
+      "contextNote": "여성 유출 회복 제물",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:15:30",
+      "textSha256": "aee83651308d2253cd48a78bebe18142ee31469c1137765bdcefa4a7e0c6022f",
+      "status": "exclude",
+      "reason": "유출의 속죄 제사는 현대 치료 지속이나 사과 수락의 정보가 아니다",
+      "contextNote": "유출 회복 제사 실행",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:15:31",
+      "textSha256": "5e6cc8af6907a7834618ee060e349c2c63224d67468b8bb9e878790d22cfc4a7",
+      "status": "exclude",
+      "reason": "장막을 더럽혀 죽는 제재는 일반 접촉이나 관계 경계의 처방으로 옮길 수 없다",
+      "contextNote": "유출 부정의 생명 제재",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:15:32",
+      "textSha256": "ddb318ca64499b4615e965f934b146bc05f4094f7fb149aaa43a51b07c39e873",
+      "status": "exclude",
+      "reason": "설정과 유출 대상의 목록은 판단 의미가 미완이다",
+      "contextNote": "유출 규정 대상 요약 시작",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:15:33",
+      "textSha256": "605f37c1e5e4700db870b56a3a2fcc94f71373a35a1431f0d9b3f5792945e83e",
+      "status": "exclude",
+      "reason": "유출과 동침의 대상은 현재 관계의 미확인 사실을 정하지 않는다",
+      "contextNote": "유출 규정 대상 요약 끝",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:16:1",
+      "textSha256": "3c56fa97251f1fd585af94e383273f8d62372a550853aa38e284935eaa7c25fc",
+      "status": "exclude",
+      "reason": "두 아들 사망 뒤라는 배경만으로 현재 선택의 방향이 없다",
+      "contextNote": "대속죄일 말씀의 사건 배경",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:16:2",
+      "textSha256": "eb6022781496baac36946070d2c1b7b2dc9454a54fd81461e249022bda656cf4",
+      "status": "exclude",
+      "reason": "속죄소 출입과 죽음의 조건은 일반 대화나 정보 확인에 적용할 수 없다",
+      "contextNote": "성소 접근 제한",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:16:3",
+      "textSha256": "b7790491e449a990bad594e7da75ed60197907173e17813f314bf7caee221bae",
+      "status": "exclude",
+      "reason": "수소 수양 준비의 미완 조건은 현재 역할 준비의 충분함을 정하지 않는다",
+      "contextNote": "대속죄일 제물 준비",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:16:4",
+      "textSha256": "82240323a0a91828fb6f01256f586b8db0be72a4d9a6c3cf06e652196b66d9cd",
+      "status": "exclude",
+      "reason": "복식과 목욕의 긴 절차는 현재 의복 구매나 공개 준비의 조건이 아니다",
+      "contextNote": "대속죄일 세마포 복식",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:16:5",
+      "textSha256": "3c3b3614bd190e24a60ab10f34747245034da84916108b6483dc563f6a80eb8c",
+      "status": "exclude",
+      "reason": "회중의 염소 둘 수양 하나는 개인 선물이나 실제 여력의 정보가 아니다",
+      "contextNote": "백성의 제물 지정",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:16:6",
+      "textSha256": "1e0cc1628b3ef23f096ac28385bc3ab465da1f7c66a51c7260f613cb563591f6",
+      "status": "hold",
+      "reason": "H048의 먼저 자기 책임도 봄은 가능하나 가족과 수소 속죄의 제사 풀이가 필요하다",
+      "contextNote": "아론 가족의 속죄 준비",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:16:7",
+      "textSha256": "f0ee9f7379496bd75772cdf497af729f76aafb1b9d9d63a421e83a102bf8e75e",
+      "status": "exclude",
+      "reason": "두 염소를 세우는 동작만 있어 현재 두 대안의 판단 기준이 없다",
+      "contextNote": "대속죄일 염소 배치",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:16:8",
+      "textSha256": "b7bbfd07b7a10aaad267db2e8154dff7bab103d1872f5b739e62eb8f5aaa39f1",
+      "status": "exclude",
+      "reason": "염소의 신적 역할과 아사셀을 풀이해야 하므로 단순 제비뽑기로 개인 결정을 해결할 근거가 아니다",
+      "contextNote": "두 염소의 제비 규정",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:16:9",
+      "textSha256": "0a2895c85610541907d21d236a115756075a7104b1e6023afc0d5c02bfba4a77",
+      "status": "exclude",
+      "reason": "제비 뽑힌 염소를 희생한 의식은 말씀 뽑기 결과의 권위를 보장하는 말이 아니다",
+      "contextNote": "여호와 몫 염소의 속죄제",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:16:10",
+      "textSha256": "c6c74e41e2bf9232493548ff53bee512f586c25f5cee8836ad71c437232c1b41",
+      "status": "hold",
+      "reason": "H028의 내려놓음은 비추나 아사셀과 염소 속죄의 뜻을 풀이해야 개인 연결이 된다",
+      "contextNote": "산 염소의 광야 방출 규정",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:16:11",
+      "textSha256": "d9d8645f6ab7212d53c0214c149e5637cf5fe2275c129fab91f425a1d4dcdb87",
+      "status": "exclude",
+      "reason": "자기 가족을 위한 수소 희생은 일반 사과나 수정의 행동으로 바로 읽기 어렵다",
+      "contextNote": "아론의 자기 속죄제 실행",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:16:12",
+      "textSha256": "a3183903f8956fc51c4e3462576979a57ce95b3810daa54a41f7ae125f954a4e",
+      "status": "exclude",
+      "reason": "향로와 향의 휘장 진입은 생활 선택의 이유를 담지 않는다",
+      "contextNote": "지성소 분향 준비",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:16:13",
+      "textSha256": "fdf7f307f8f0dfead23ffb12b348a8075966b7c75f2125bcac3ab0d55f217112",
+      "status": "exclude",
+      "reason": "연기로 가려 죽음을 면하는 조건은 보통 준비와 보호의 기준이 아니다",
+      "contextNote": "속죄소 향연의 기능",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:16:14",
+      "textSha256": "1e7310bbbee6ee388cced06a3100e47a34f82b6de30300beaddcdd5baa17af4c",
+      "status": "exclude",
+      "reason": "피의 위치와 일곱 번은 현재 수정 노력의 충분량을 말하지 않는다",
+      "contextNote": "자기 속죄 피의 취급",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:16:15",
+      "textSha256": "b5f7af58899a6571434f5e553a57046053cf312b6602b4f868a3cddbc5e1d830",
+      "status": "exclude",
+      "reason": "백성 염소의 피뿌림은 사람에게 사과할 일반 방법과 다르다",
+      "contextNote": "회중 속죄 피의 취급",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:16:16",
+      "textSha256": "6ff7c55c78fcca834ecc2d1a98b9c12b0a55917f6411e6b515c8916f1d004b14",
+      "status": "exclude",
+      "reason": "성소와 회막의 속죄는 현재 공간이나 관계의 상태를 알려 주지 않는다",
+      "contextNote": "성소 회막 속죄의 이유",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:16:17",
+      "textSha256": "fb20bc892e8caf86e93d83b0c37fd0d366148f07ed7dcfd5823563fe84390c4c",
+      "status": "exclude",
+      "reason": "속죄 중 출입 금지는 혼자 버틸지 도움 청할지의 생활 기준이 아니다",
+      "contextNote": "회막 단독 접근 규정",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:16:18",
+      "textSha256": "f95d1987e5771876fe0ebd57f443aa9e9b3b63336ab41946e0709320dd3afcf9",
+      "status": "exclude",
+      "reason": "제단 뿔에 두 가축 피를 바르는 절차는 선택 부담의 정보가 없다",
+      "contextNote": "바깥 제단 속죄",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:16:19",
+      "textSha256": "6c398428451125529a80105d257fb38dbd5cf9c555a9ab701d1fee4d28fd532c",
+      "status": "exclude",
+      "reason": "일곱 번의 피로 단을 거룩케 함은 일상 세정이나 준비량으로 옮길 수 없다",
+      "contextNote": "제단 정결 실행",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:16:20",
+      "textSha256": "8ef986c93be37e33686238dce988cbf2d07c7c85ddeb4ac50aa81c9db8aa63ea",
+      "status": "exclude",
+      "reason": "속죄 후 산 염소의 순서만 있어 의미가 미완이다",
+      "contextNote": "산 염소 의식 도입",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:16:21",
+      "textSha256": "782b214b0f4abb8c50ebb5eab8104e7a121366c8ddddb6a580c714e5c4f27417",
+      "status": "hold",
+      "reason": "G10의 잘못 고백과 내려놓음은 있으나 염소로 죄를 옮기는 의식이 길고 어렵다",
+      "contextNote": "염소에게 죄를 고해 전가함",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:16:22",
+      "textSha256": "46db42c23b902d2275411c9b5b5d82424a506e2511b23baa7a284731a569f8aa",
+      "status": "hold",
+      "reason": "H028의 잘못을 보내는 상징은 가능하나 불의를 진 염소의 의식을 먼저 알아야 한다",
+      "contextNote": "광야에 죄 진 염소를 놓음",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:16:23",
+      "textSha256": "e7a33da36be59303d3e8098d49527f3ee16d4ea1d2f5faf629371ad1b295ab8b",
+      "status": "exclude",
+      "reason": "성의를 벗어 두는 행동은 일반 옷 판매나 나눔의 이유가 아니다",
+      "contextNote": "대속죄 뒤 탈의",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:16:24",
+      "textSha256": "748688d8faa850be2a31b60bac7da27ffced39e1a3b4557d13133e71dd9d6e24",
+      "status": "exclude",
+      "reason": "목욕 복장 변경 뒤 제사 순서는 현재 회복의 대안 정보를 주지 않는다",
+      "contextNote": "대제사장 세정과 번제",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:16:25",
+      "textSha256": "49db68f6292285b836a5f7a858eee6e04d93a23a86a4e5192abeb869d4f33368",
+      "status": "exclude",
+      "reason": "속죄 희생 지방의 소각만 있어 독립 생활 선택의 뜻이 없다",
+      "contextNote": "속죄제 기름 처리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:16:26",
+      "textSha256": "2c528844d23b678eb08960e66d34d06bb2ebc6e6c7509f8adcdd683decf4e529",
+      "status": "exclude",
+      "reason": "광야 담당자의 세정은 관계 정리 뒤의 보편 행동 기준이 아니다",
+      "contextNote": "염소 보낸 자의 진 복귀 정결",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:16:27",
+      "textSha256": "3c14d4f11763b7b7440cee84a5344fa8294b9e24c9e03ee827f925057ee5589b",
+      "status": "exclude",
+      "reason": "가죽 고기 똥의 소각은 지금 물건 버림이나 업무 마무리의 조건과 다르다",
+      "contextNote": "속죄 희생의 진 밖 소각",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:16:28",
+      "textSha256": "758b45b26ab6331f24ffcdbfc15f192a0678ec677888d8d6326a996ca4b46a85",
+      "status": "exclude",
+      "reason": "소각자의 목욕 후 복귀는 일반 모임이나 사람 접촉의 기준이 아니다",
+      "contextNote": "소각 담당자의 정결",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:16:29",
+      "textSha256": "3843e09423802a7bf2990f9964fc47e3e70675bc2ad62ffc682ab1fd88fc43e9",
+      "status": "hold",
+      "reason": "H063의 멈추어 성찰함은 있으나 정한 달의 스스로 괴롭게 함을 풀이해야 한다",
+      "contextNote": "대속죄일 금식과 노동 중단",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:16:30",
+      "textSha256": "e19ba14453d0b5ec1920861ae92cd29cb4639c11ba541c307cdca4c34d485d20",
+      "status": "hold",
+      "reason": "G10의 죄책감에 위로는 있으나 이 날의 제사 정결이 미확인 상대 수락의 조건은 아니다",
+      "contextNote": "대속죄일 정결의 의미",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:16:31",
+      "textSha256": "23f08319e8b9b1535a12c1ef852fc51d9ff5e0c784aabcb3617fb678d9cc6570",
+      "status": "hold",
+      "reason": "H063의 돌아봄은 비추나 큰 안식과 스스로 괴롭게 함은 단순 쉬는 것과 다른 금식 규정이다",
+      "contextNote": "대속죄일의 안식 성격",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:16:32",
+      "textSha256": "3dc3637795feac9d28193deeb5ace8082d0160322c988c45bc03c1d3b2c0dfb4",
+      "status": "exclude",
+      "reason": "세습 제사장의 세마포는 현재 내 역할 능력을 알려 주지 않는다",
+      "contextNote": "대속죄일 직무 계승",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:16:33",
+      "textSha256": "f8b53ac3e8df78feff18c8aab1891895972716e865b163f7f1841c871fb65c2a",
+      "status": "exclude",
+      "reason": "성소와 제사장 백성의 속죄 목록은 현재 사과의 구체 방법이 아니다",
+      "contextNote": "대속죄 대상 총괄",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:16:34",
+      "textSha256": "5475a5c1556cc4c95d74a5cb038df900ddda15669f2c25124cd94da4e57b298a",
+      "status": "hold",
+      "reason": "H054의 정한 일 이행은 비추나 해마다 속죄하는 영구 규정은 개인 자원 약속과 다르다",
+      "contextNote": "대속죄일 연례 이행",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:17:1",
+      "textSha256": "1213bc72e4be9e9f17f4b9129e3f0d4cbde2d4cf24000ea629c6671d78ca8075",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 독립 판단 내용이 없다",
+      "contextNote": "희생 장소와 피 규정 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:17:2",
+      "textSha256": "8356054707a1079491729b355678aea5d38aedd89627ff7d1a794a2ab9044a5b",
+      "status": "exclude",
+      "reason": "명령을 전할 대상만 있어 선택 내용이 다음 절에 있다",
+      "contextNote": "제사 법규 전달 도입",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:17:3",
+      "textSha256": "13586eda47ea11ba80f2bf6152d886fdf36381fd3f2b57acd62ee4b792b910c5",
+      "status": "exclude",
+      "reason": "진 안팎의 도살 조건만으로 판단이 끝나지 않는다",
+      "contextNote": "희생 도살 장소의 전제",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:17:4",
+      "textSha256": "69f551eb0a2ec4e03787a35667521fd624f9ba2c092a8de1c02924bf63a41502",
+      "status": "exclude",
+      "reason": "회막 예물 없는 도살의 추방은 일반 식사나 행사 불참의 결과로 옮길 수 없다",
+      "contextNote": "희생 장소 위반 제재",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:17:5",
+      "textSha256": "5224cba6e5ad83ad5e7241ebb4d17cc57d7af567d92fde6a3f8aded09c54feb2",
+      "status": "exclude",
+      "reason": "들에서 잡던 것을 화목제로 드리는 규정은 현대 방법 변경의 충분함을 말하지 않는다",
+      "contextNote": "희생을 회막으로 모으는 이유",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:17:6",
+      "textSha256": "8e544ac303b9e9d5a623ccc3f9efb60d028df40d2e721d389b06e7bf59799946",
+      "status": "exclude",
+      "reason": "피뿌림과 지방 소각은 현재 나눔이나 소비의 선택 이유가 없다",
+      "contextNote": "중앙 희생의 제사장 처리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:17:7",
+      "textSha256": "c9903045582589a85fe21826dfe9d900608ffbffbdf54b4ec2feff3389f6977f",
+      "status": "exclude",
+      "reason": "수염소 신 숭배의 금령은 현재 다른 의견을 따를지와 다른 조건이다",
+      "contextNote": "이교 희생 금지",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:17:8",
+      "textSha256": "972ca714fd18431a8b9ddcb8d93bfbd560a10fbeae656cd00782f9d13b13d65e",
+      "status": "exclude",
+      "reason": "내외국인의 제사 도입만 있어 판단 의미가 미완이다",
+      "contextNote": "타국인에게도 희생 법규 적용",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:17:9",
+      "textSha256": "1142fc2a46e6a0751e170575796f49238aa92e46d3651609f9ea22e3880fac5d",
+      "status": "exclude",
+      "reason": "회막에 안 드릴 때 추방은 보통 약속이나 모임의 선택 결과가 아니다",
+      "contextNote": "희생 장소의 동일 제재",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:17:10",
+      "textSha256": "21017e40b7823bbeb985fc39546cfed6e4ffcd6c0eef4642a5b4310a5ec4b7c6",
+      "status": "exclude",
+      "reason": "피 섭취자의 추방은 소비 절제의 일상 부담보다 전혀 다른 조건이다",
+      "contextNote": "피 식용의 금지와 제재",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:17:11",
+      "textSha256": "f63b787eb6d98e7abd723e96612a1f1c9279efa93791db573db81d3585191fa3",
+      "status": "exclude",
+      "reason": "생명과 피의 속죄 신학은 현재 치료 결과나 선택할 자원량의 기준이 아니다",
+      "contextNote": "피를 금한 신학적 이유",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:17:12",
+      "textSha256": "09450a63385601c5db9c1bd79570da1b46e8b196d6167a627bc4f29726aa01a3",
+      "status": "exclude",
+      "reason": "내외국인 피 금령은 현재 음식 구매의 효용이나 실제 상태를 말하지 않는다",
+      "contextNote": "피 섭취 금령의 적용",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:17:13",
+      "textSha256": "3588b71ba4d84a7b5bc95f6e8d2bcd3373bf021bc4c0055fd7093b7177844d4e",
+      "status": "exclude",
+      "reason": "사냥한 동물 피를 덮는 의식은 비밀 유지나 물건 정리와 목적이 다르다",
+      "contextNote": "사냥 희생의 피 처리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:17:14",
+      "textSha256": "01bbeb315ae7c82b49cde0f6432a97265b770d8bc27ac9f2fd1149c0d58bda10",
+      "status": "exclude",
+      "reason": "피의 생명성과 추방 제재를 현재 사람 관계의 실패 위험으로 옮길 수 없다",
+      "contextNote": "피 금령의 이유 재강조",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:17:15",
+      "textSha256": "770d56720144be53fd605cc220bc54a509c9342b6197125d61d1590afbf2446b",
+      "status": "exclude",
+      "reason": "사체 식용자의 정결 절차는 실제 건강 상태나 치료 호전을 알려 주지 않는다",
+      "contextNote": "사체 먹은 자의 세정",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:17:16",
+      "textSha256": "a56ad7da5ba6c6e3ce16bc3309b59f8e29eecf336d9402b6c81a2e2c61b78a61",
+      "status": "exclude",
+      "reason": "씻지 않을 죄는 앞 의식 사건을 알아야 의미가 성립한다",
+      "contextNote": "사체 섭취 정결 불이행",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:18:1",
+      "textSha256": "1213bc72e4be9e9f17f4b9129e3f0d4cbde2d4cf24000ea629c6671d78ca8075",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 독립 생활 선택 내용이 없다",
+      "contextNote": "거룩한 관계 규정 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:18:2",
+      "textSha256": "06c498939c639edf37bd90e243cd0e19f0803419d2bb077dbc76cc193f29062e",
+      "status": "exclude",
+      "reason": "하나님의 정체 서문만으로 지금 두 선택을 가를 기준은 없다",
+      "contextNote": "관계 법규의 권위 서문",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:18:3",
+      "textSha256": "cbdec099d981ae9a40dd2e2db865febf8fe310d9e356bc56283cd83d0d6528af",
+      "status": "candidate",
+      "reason": "살던 곳과 새로 갈 곳의 관습도 무조건 따를 필요는 없다는 실마리가 있다",
+      "contextNote": "애굽과 가나안의 풍속 경계",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H064",
+          "clue": "주변에서 익숙하거나 앞으로 들어갈 곳의 관습도 무조건 내 선택 기준일 필요는 없다는 실마리다.",
+          "friction": "애굽과 가나안의 구체 관습에 관한 말이다. 가족이나 조언자의 의견 전체를 악한 풍속으로 판정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:18:4",
+      "textSha256": "903a849494cec70ee3ceba5ec97e918713ab59237d14f8090e9192ea70c0e22f",
+      "status": "candidate",
+      "reason": "다른 흐름보다 지킬 법도를 중심에 두는 말에서 내 기준을 살필 실마리를 얻는다",
+      "contextNote": "백성이 지킬 법도를 제시함",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H064",
+          "clue": "갈리는 의견 속에서 내가 지킬 기준을 중심에 두고 행동할 실마리를 읽는다.",
+          "friction": "하나님의 법도와 규례이며 내 모든 바람이 하나님의 뜻이라고 확정하는 문장이 아니다. 어느 진로를 택하라는 해설은 붙이지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:18:5",
+      "textSha256": "0ee8e76c89f24ae05feceb5c6c3acab2c1a903463238019f3b83c2897a0aa9c0",
+      "status": "hold",
+      "reason": "H064의 원칙 유지는 읽히나 이 규례가 무엇인지 없고 삶의 약속을 진로 성과로 정할 수 없다",
+      "contextNote": "법도 준수와 삶의 선언",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:18:6",
+      "textSha256": "038e21bca1711957180b754f5d57453a4a8ca4e1b8e6ebacda1021d498028d4f",
+      "status": "exclude",
+      "reason": "근친 성관계는 고백 고민에 친족 조건이 없어 대입할 수 없다",
+      "contextNote": "가까운 혈족과 성관계 금지 총칙",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:18:7",
+      "textSha256": "e138a36a21c4b1d88e071a701c689e908ae03fe543075547d48c84b9296ccb29",
+      "status": "exclude",
+      "reason": "부모 성관계 금지는 방문과 진로 갈등의 실제 조건과 다르다",
+      "contextNote": "부모 하체를 범함 금지",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:18:8",
+      "textSha256": "f9a21883fffc58e896a7f479650a70aa2c3b44be08175d742e068f4b0266d7e3",
+      "status": "exclude",
+      "reason": "계모 관계는 현재 고백 대상에게 주어진 사실이 아니다",
+      "contextNote": "계모의 하체 규정",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:18:9",
+      "textSha256": "2d3c9fa4c36d3d5176e1c1d11893e703a97cb3d713c665f280399e15274d1fa5",
+      "status": "exclude",
+      "reason": "자매 출생 장소 규정은 일반 연애 고민에 친족 조건을 더하게 한다",
+      "contextNote": "자매 성관계 금지",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:18:10",
+      "textSha256": "c251c26ff8b70acff01bf701869586a5461a8430b497d3a633695c4a7fffcafd",
+      "status": "exclude",
+      "reason": "손녀 외손녀 관계는 현재 고민에 주어진 상대 조건이 아니다",
+      "contextNote": "후손과 성관계 금지",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:18:11",
+      "textSha256": "23e93ee9ba7d2bdfdfb33c8f9bb5fd0c5a01ba724f77295fd0e4f935279287f4",
+      "status": "exclude",
+      "reason": "계모 소생 누이라는 혈연 조건은 현재 지인에게 추가할 수 없다",
+      "contextNote": "이복 누이 성관계 금지",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:18:12",
+      "textSha256": "980fda6532f4fdf1f0b3b098410c88ff16758615d5c2d9b450f234e20bafe0c4",
+      "status": "exclude",
+      "reason": "고모와 혈연은 일반 관계 선택과 다른 구체 친족 조건이다",
+      "contextNote": "고모 성관계 금지",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:18:13",
+      "textSha256": "92abd34d3f1b54e66561f0905f4673213dd0491ff0fee3901fb382e011c79765",
+      "status": "exclude",
+      "reason": "이모와의 친족 지위는 주어진 고백 고민의 정보가 아니다",
+      "contextNote": "이모 성관계 금지",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:18:14",
+      "textSha256": "4f034392a71bb343ed0c72f528b8f2e208aa6a7299b324f88fc7cb4611bda75a",
+      "status": "exclude",
+      "reason": "백숙모 관계는 A023의 지인에게도 주어지지 않은 조건이다",
+      "contextNote": "숙모 성관계 금지",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:18:15",
+      "textSha256": "e5ce54b2c2ef556e88d178ff06c8f40d5c3500e301a18e5c6639df31567b4f60",
+      "status": "exclude",
+      "reason": "며느리라는 지위는 현재 사례에 없는 아들 배우자 조건이다",
+      "contextNote": "며느리 관계 금지",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:18:16",
+      "textSha256": "95d1a0c32e01e7cb30ab6ce9f3fd206f7011b3d01512295e4c3b64a4406007cc",
+      "status": "exclude",
+      "reason": "형제 아내라는 사실은 A023의 기혼 지인에게도 제공되지 않았다",
+      "contextNote": "형제 배우자 성관계 금지",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:18:17",
+      "textSha256": "76b69f1d58842b961847c1435233337e4772356b33917bf24db8691300c11cb1",
+      "status": "exclude",
+      "reason": "세대가 다른 여성 친족을 함께 취하는 조건은 현재 관계의 부담과 다르다",
+      "contextNote": "모녀와 손녀 중복 성관계 금지",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:18:18",
+      "textSha256": "8c468096c3f939eda38419f460182e0d0de4d4bdf021b85446379b23f8eea639",
+      "status": "exclude",
+      "reason": "살아 있는 아내의 자매를 취한 질투는 지금 지인 관계에 없는 가족 조건이다",
+      "contextNote": "아내 자매의 중복 혼인 금지",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:18:19",
+      "textSha256": "4315ebdb22b3b5507fc115504abe51e528ad24deb64761d58a1398918f3cd3f0",
+      "status": "exclude",
+      "reason": "월경의 의식 제한은 상대 마음과 동의가 불확실한 고민에 추가할 수 없다",
+      "contextNote": "월경 중 성관계 제한",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:18:20",
+      "textSha256": "9e26cb9c94916804cf80d7db55733f271f58f73fbb0b52bdb0ee638122e69a9b",
+      "status": "candidate",
+      "reason": "상대가 남의 배우자라는 사실을 중심에 두어 관계의 선을 정할 실마리가 있다",
+      "contextNote": "타인의 아내와 간음 금지",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A023",
+          "clue": "좋아하는 마음과 별개로 상대가 다른 이의 배우자라는 사실에 관계의 선을 정할 실마리를 얻는다.",
+          "friction": "통간과 더럽힘이라는 강한 표현이다. 아직 시작하지 않은 현재를 이미 성관계한 사실로 바꾸지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:18:21",
+      "textSha256": "701abdc38f23721e1b539a79bc0d3e3ddfcd00807733ed4746c13204ea8e39a6",
+      "status": "exclude",
+      "reason": "몰렉의 자녀 불 의식은 보통 가족 의무와 선물 부담의 조건이 아니다",
+      "contextNote": "자녀 희생 의식 금지",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:18:22",
+      "textSha256": "a4e063de7ce2e78008c4b84d38f31c0540821fe5c931aafc02ac00f47e73a559",
+      "status": "hold",
+      "reason": "H032에는 상대 성별과 관계 배경이 없어 이 금령으로 고백을 판정할 수 없다. 신앙과 지향의 별도 고민도 맥락 검토가 필요하다",
+      "contextNote": "남성 간 성관계의 금령",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:18:23",
+      "textSha256": "0d265ed476b8a8e36d516e3a065d0234f5388ce26c3909a0a1e036e448589cae",
+      "status": "exclude",
+      "reason": "짐승과의 성관계는 현재 사람 간 고백이나 동의 고민과 다르다",
+      "contextNote": "수간 금지",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:18:24",
+      "textSha256": "1bb972b840f21f271a6f477b34c9bd4b4969321b9f987b2e203bc1ecfb6ff240",
+      "status": "exclude",
+      "reason": "모든 일의 부정은 앞 성관계 대상을 알아야 의미가 성립한다",
+      "contextNote": "가나안 관습의 부정과 연결",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:18:25",
+      "textSha256": "eb2032dd7ac101821f0daeb0ecc0c8f230bbc82af4b3b146d656d8cddeaaf530",
+      "status": "exclude",
+      "reason": "땅이 거민을 토하는 심판은 새 직장이나 도시 선택 결과의 정보가 아니다",
+      "contextNote": "거민과 땅의 부정 심판",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:18:26",
+      "textSha256": "13d75bb0a0967d75dc1c5adc7094cda6a15718080aeced77de89306b84c53eca",
+      "status": "hold",
+      "reason": "H064의 원칙 유지는 있지만 이런 일은 앞 성관계 목록이라 일반 가치 갈등에 간접적이다",
+      "contextNote": "내외국인의 관계 법 준수",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:18:27",
+      "textSha256": "4a183652f25afda866c7dadb1912458c6e24cd0a85e2745e271e8ec3e433c4d7",
+      "status": "exclude",
+      "reason": "과거 거민의 가증함으로 현재 주변 사람의 성품을 확정할 수 없다",
+      "contextNote": "가나안 과거의 부정 확인",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:18:28",
+      "textSha256": "38a3c2bc83699125b7fce17c06f0cdcf81a996dea4f30449e3e7c783b5c7475d",
+      "status": "exclude",
+      "reason": "땅에서 토해 낼 경고는 일반 이직이나 선택 실패의 결과로 읽을 수 없다",
+      "contextNote": "같은 관습에 대한 축출 경고",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:18:29",
+      "textSha256": "07f670def5d6126f3161d0a3b2775f5b5d6c0f8d725741ee689fa196b91883ad",
+      "status": "exclude",
+      "reason": "특정 금령 위반의 추방은 미확인 고백 결과를 알려 주지 않는다",
+      "contextNote": "관계 법규 위반 제재",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:18:30",
+      "textSha256": "b1e244d01ba738a5cad89d26596f724a1982a99df80c5f2ea7d76bd657a2cbbf",
+      "status": "hold",
+      "reason": "A004의 집단 풍속을 따르지 않음은 닿으나 앞의 성관계 목록과 가증함의 맥락을 알아야 한다",
+      "contextNote": "관습 모방 금지의 결론",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:19:1",
+      "textSha256": "1213bc72e4be9e9f17f4b9129e3f0d4cbde2d4cf24000ea629c6671d78ca8075",
+      "status": "exclude",
+      "reason": "말씀 시작만 있어 생활 선택의 기준이 없다",
+      "contextNote": "거룩한 생활 규정 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:19:2",
+      "textSha256": "c7e62c3c204a466b0ef6423e35e4999cf158c1a1f2f0ec25757107c3f790191f",
+      "status": "hold",
+      "reason": "H064의 중심은 가능하나 거룩하라는 추상 지향만으로 두 진로의 부담을 가르기 어렵다",
+      "contextNote": "거룩하심을 삶의 기준으로 삼음",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:19:3",
+      "textSha256": "5814df682ba33f993f704b710b6140ad1cc09431e8432e5a843cbd08401d518d",
+      "status": "candidate",
+      "reason": "부모를 귀히 여기라는 말에서 이번에 방문할 선택의 실마리가 보인다",
+      "contextNote": "부모 경외와 안식일 준수",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H010",
+          "clue": "부모를 귀히 여기는 가치를 이번에 찾아뵐 선택의 실마리로 읽는다.",
+          "friction": "안식일 준수도 함께 있다. 이번 주말이 특정 안식일이라는 조건이나 다음 방문 기회의 소멸을 지어내지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:19:4",
+      "textSha256": "ac07ca94073942bda22e994ae0a7741f255ca9c2f1796ffc9821b814db166b81",
+      "status": "exclude",
+      "reason": "우상과 헛것 금령을 현재 기기나 소비가 헛되다고 단정하는 근거로 쓸 수 없다",
+      "contextNote": "우상 제작과 의지 금지",
+      "readability": "thinkable",
+      "connections": []
+    }
+  ]
+}

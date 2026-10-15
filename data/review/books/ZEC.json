@@ -1,0 +1,2516 @@
+{
+  "bookCode": "ZEC",
+  "corpusSha256": "f8d5c8b377e243b05fb884b4a6965d2c06a95de74b64a716ee4b95989d61e971",
+  "criteriaVersion": "garasadae-corpus-2026-10-08-v1",
+  "reviewer": "Codex review_ezk_rev",
+  "method": "direct-codex-reading",
+  "entries": [
+    {
+      "id": "KRV:ZEC:1:1",
+      "textSha256": "8eccc69a04683535c5c9a7cc43d639cf010eb8ea942ac4f28db7aa105e6d9bea",
+      "status": "exclude",
+      "reason": "왕의 연도와 예언자 계보는 표제 정보로 생활 선택의 내용이 없다.",
+      "contextNote": "첫 회개 말씀의 배경이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:1:2",
+      "textSha256": "673eec75ed17512ceec1b37bd321037a9b4dbfcc69c4866943db38c5ed4ae6bc",
+      "status": "exclude",
+      "reason": "조상에게 진노했다는 선언만으로는 사용자의 현재 행동이나 선택 부담을 알 수 없다.",
+      "contextNote": "조상의 실패를 본받지 말라는 요청을 준비한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:1:3",
+      "textSha256": "8f1f29f1c853caf51870ee10f00b214c4012c17aeffbbc4f2ed81c9f76bc1684",
+      "status": "hold",
+      "reason": "돌아오라는 초청과 서로 향하는 응답은 관계 회복을 비추지만 사람의 사과 수락까지 같은 응답으로 정할 수 없다.",
+      "contextNote": "백성에게 하나님께 돌아오라고 부른다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G10",
+          "clue": "멀어짐을 그대로 두기보다 먼저 돌아설 방향을 생각할 수 있다.",
+          "friction": "하나님이 응답을 약속한 언약 관계다. 친구의 마음과 화해 여부는 미확인이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:1:4",
+      "textSha256": "7e37de7782720caf2df745a592a45d05e50dd726446bb2676241a69597b73f83",
+      "status": "hold",
+      "reason": "반복된 경고를 안 듣던 조상을 본받지 않는 요청은 관행 점검을 비추지만 잘못된 길이 무엇인지는 개인이 따져야 한다.",
+      "contextNote": "옛 선지자의 경고를 거절한 역사와 현재를 대조한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H043",
+          "clue": "이미 되풀이된 방식이 잘 안 됐다는 사실을 무시하는지 돌아볼 수 있다.",
+          "friction": "실패한 시도 자체가 악한 행실은 아니고 원문은 회개를 거절한 조상의 이야기다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:1:5",
+      "textSha256": "aa17fccda21e35fb6238d1cb806df39c568d3cd5d7417ed6a95ba8918d166798",
+      "status": "hold",
+      "reason": "조상과 선지자도 영원히 살지 않는 질문은 사람의 권위가 전부인지 돌아보게 하나 실제 선택할 기준은 아직 없다.",
+      "contextNote": "사람보다 오래 남는 말씀을 말하기 전 질문이다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H064",
+          "clue": "주변 권위자의 의견 자체만 영원한 기준으로 둘 필요가 있는지 생각할 수 있다.",
+          "friction": "그 의견이 틀렸다는 결론은 없고 어떤 가치를 택할지는 다음의 말씀 성취 문맥이 필요하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:1:6",
+      "textSha256": "c2ef4ae440be7389e9d70d1af6ac4e0fa1189917d20a4fcf1df18cfe3b6e45c1",
+      "status": "exclude",
+      "reason": "조상에게 임한 전례와 돌쳐 인정한 보응은 긴 인용과 옛말 풀이가 필요하여 단독 실마리가 어렵다.",
+      "contextNote": "조상도 하나님의 말씀대로 된 심판을 인정한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:1:7",
+      "textSha256": "072271ce5daeedbc2ab736ee26c3b49fdf830f2f1b57340058aceeec96fc9a93",
+      "status": "exclude",
+      "reason": "스밧월 날짜와 계보 소개뿐이어서 실제 판단 내용은 없다.",
+      "contextNote": "첫 환상의 시점을 밝힌다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:1:8",
+      "textSha256": "1fc0c8786ec80946650591380588d13609c1cf6bc4192ecf6028433728400c98",
+      "status": "exclude",
+      "reason": "화석류 사이의 여러 말과 기수는 환상 도입으로 상징 풀이 없이 선택에 연결되지 않는다.",
+      "contextNote": "말을 탄 사람들의 모습을 본다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:1:9",
+      "textSha256": "796fb995af6bdd2183225dc83f1286c6b9678eec3051b9dcbca5069ddf5e4263",
+      "status": "hold",
+      "reason": "무엇인지 모르기에 묻고 설명을 듣는 대화는 조언의 여지를 주나 이들의 주체가 앞의 환상에 있다.",
+      "contextNote": "천사가 말들의 의미를 보이겠다고 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "모르는 것을 묻는 일이 대화의 시작일 수 있음을 읽을 수 있다.",
+          "friction": "앞의 말과 기수에 대한 질문이라 구체 대상이 생략되어 있고 선배의 실제 답은 보장하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:1:10",
+      "textSha256": "5735fec965a9aea0c1d352d3d82b566cc94f6c0da8c9e443a1e431ad38d6553c",
+      "status": "exclude",
+      "reason": "땅을 두루 다닐 사자들의 정체는 화석류 환상의 설명으로 사용자 일의 분배 원칙은 아니다.",
+      "contextNote": "환상의 기수들이 보냄받은 존재임을 밝힌다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:1:11",
+      "textSha256": "3461365c9bbc5fa661baa0035efc3678c979ad7a1e0c26d13fd40ca50ad1a51b",
+      "status": "hold",
+      "reason": "두루 살핀 뒤 평안을 보고하는 모습은 확인을 먼저 하는 여지가 있으나 편안한 열국과 고난의 유다라는 대비가 필요하다.",
+      "contextNote": "사자들이 땅의 상태를 보고한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H037",
+          "clue": "보지 못한 마음을 단정하기 전에 실제로 살핀 사실을 구별할 수 있다.",
+          "friction": "국가들의 상황 보고이지 동료 감정의 확인 사례는 아니고 다음의 유다 고난 대비가 중요하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:1:12",
+      "textSha256": "8e1f67586c31a057802c4aa2250f72e8e500f0f79095de219a30b9e1e3306b86",
+      "status": "hold",
+      "reason": "오랜 고난을 언제까지냐고 호소하는 중보는 지침을 말할 여지가 있으나 칠십 년의 국가 회복을 개인 기한으로 옮길 수 없다.",
+      "contextNote": "여호와의 사자가 유다를 위해 긍휼을 구한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "오래 지친 상태를 그대로 말하며 혼자 삼키지 않는 모습을 생각할 수 있다.",
+          "friction": "공동체의 포로 고난이며 현재 건강 결과나 도움 시점을 정해 주지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:1:13",
+      "textSha256": "c1dc9abdcfd3e6dd1746635e1ee902745f835ea2fa2c8a7995c3697a8b926ddf",
+      "status": "hold",
+      "reason": "좋은 위로의 말로 대답하는 모습은 돌봄의 방식을 보여도 그 말의 내용이 없어 실제 선택의 실마리는 얕다.",
+      "contextNote": "하나님이 천사에게 위로로 응답한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "큰 해결을 못 해도 위로하는 말의 몫을 생각할 수 있다.",
+          "friction": "하나님의 구체 회복 응답을 요약한 말이며 말만으로 친구 문제가 해결된다고 보장하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:1:14",
+      "textSha256": "caf02ed2405c8821b4f43f6836ea18cf0ef9b233a71d7e1008d0cc4b55434f03",
+      "status": "exclude",
+      "reason": "예루살렘을 질투하는 하나님의 말씀은 다음 이유와 회복이 있어야 의미가 완결된다.",
+      "contextNote": "시온을 위한 하나님의 열심을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:1:15",
+      "textSha256": "b9a4d277a7b810e6128171681d097c9fbdab266547e283a03f6d2e3157a3cdcf",
+      "status": "hold",
+      "reason": "이미 고난 겪는 이에게 힘을 보태 더 괴롭게 한 잘못은 미운 동료의 실패에 조롱을 더할지의 부담을 비춘다.",
+      "contextNote": "심판 도구였던 열국이 고난을 더한 책임을 묻는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C009",
+          "clue": "남이 이미 힘든 상황에서 내 반응이 고난을 더하는지 돌아볼 수 있다.",
+          "friction": "국가의 폭력과 하나님의 노가 배경이다. 가벼운 조롱과 군사적 가해를 똑같이 정하지 않으며 실제 보복의 결과는 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:1:16",
+      "textSha256": "4ad0dcdd8ea3fa9874ca8e39f76fda69ee5d1bb6d0963e2c0804577db4300ad8",
+      "status": "hold",
+      "reason": "긍휼 뒤 다시 건축하고 줄을 대는 모습은 재정비의 여지가 있으나 예루살렘의 귀환 약속이 중심이다.",
+      "contextNote": "황폐한 성과 성전의 재건을 약속한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H060",
+          "clue": "잃은 자리에서도 다시 재고 쌓는 일을 할 수 있다는 그림을 읽을 수 있다.",
+          "friction": "개인에게 같은 기회가 오거나 작업이 반드시 회복된다는 뜻은 아니며 구체 행동보다 예언의 비중이 크다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:1:17",
+      "textSha256": "b25c4c8be968e7c35de463f3ee216e76ff96c7458021d670b8a545a2b7a78ebd",
+      "status": "hold",
+      "reason": "다시 풍부하고 위로받는 도시의 반전은 소망이 있으나 생활 대안의 어느 부담을 비출지는 넓다.",
+      "contextNote": "하나님이 다시 시온을 택할 것을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H060",
+          "clue": "지난 황폐가 앞으로의 모든 가능성을 닫지는 않는 이미지를 볼 수 있다.",
+          "friction": "도시의 회복 약속이고 놓친 기회를 다시 잡을지 현재 일을 할지에는 구체 단서가 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:1:18",
+      "textSha256": "a651bddc2156f045e7475d24246c9c8a3a00d563c72f72b3e609a26d6c632ae6",
+      "status": "exclude",
+      "reason": "네 뿔이 보였다는 미완료 관찰만 있어 의미를 독립적으로 알 수 없다.",
+      "contextNote": "두 번째 환상의 물체를 소개한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:1:19",
+      "textSha256": "7bd5babcf3f8b737f498f44931d9faa76f3e250d901bed5ca486a7e4fc3e43e4",
+      "status": "exclude",
+      "reason": "이스라엘을 흩은 뿔이라는 답은 열국을 뿔로 표현한 환상 풀이가 필요하다.",
+      "contextNote": "네 뿔의 상징을 밝힌다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:1:20",
+      "textSha256": "d6c6d56983d4457b1025231cd46d53324977a11ac51acbaeef84d76cc9b5e741",
+      "status": "exclude",
+      "reason": "공장 네 명을 보인다는 말은 옛 직업명과 앞뒤 환상이 있어야 뜻이 선다.",
+      "contextNote": "뿔을 떨어뜨릴 장인들을 소개한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:1:21",
+      "textSha256": "331c4c8199cf51d9d85d021921ce9dc7897fb688a747740a646edffe26a203f7",
+      "status": "exclude",
+      "reason": "장인이 나라의 뿔을 떨어뜨리는 긴 답은 환상 상징의 풀이가 필요하며 개인 억압자를 지목하지 않는다.",
+      "contextNote": "유다를 흩은 나라들의 권세를 꺾는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:2:1",
+      "textSha256": "a94db9dcdd46ae40b86b57466bbe26887ce7671bddc9465238f635a360fd1ab0",
+      "status": "exclude",
+      "reason": "척량 줄을 든 사람만 보인 미완료 장면은 측정의 목적이 뒤에 있다.",
+      "contextNote": "예루살렘 측량 환상을 시작한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:2:2",
+      "textSha256": "4ecf5cb2928512296b685cc4f08d46793114ae02cfbabeb38cc05cde64b3532c",
+      "status": "hold",
+      "reason": "도시를 재러 가는 대화는 시작 전 실제 범위를 볼 여지가 있지만 장광이라는 옛말과 환상의 뜻이 중요하다.",
+      "contextNote": "측량할 도시의 폭과 길이를 묻는다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H044",
+          "clue": "맡을 범위를 먼저 재어 보는 태도를 떠올릴 수 있다.",
+          "friction": "인구가 늘어 성벽 밖으로 펼칠 예루살렘의 환상이다. 실제 일의 양과 내 여력을 계산해 주지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:2:3",
+      "textSha256": "b6661862744ab0d0852c52669c5a11852ad1a8254dcca43fcb83abf582c992aa",
+      "status": "exclude",
+      "reason": "두 천사가 나와 만나는 접속 장면뿐이므로 생활 판단 내용이 없다.",
+      "contextNote": "측량자에게 전할 말을 연결한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:2:4",
+      "textSha256": "41ff4b9d7abe9bb86bb44093cc5ff2dfc05d027658fe1aba258d55d3b74c683a",
+      "status": "hold",
+      "reason": "기존 성곽 밖까지 사람이 많아진 모습은 정해 둔 틀의 한계를 비추지만 국가 회복의 수가 현재 계획의 근거는 아니다.",
+      "contextNote": "도시가 성벽을 넘어 확장됨을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H062",
+          "clue": "처음 정해 둔 틀 밖의 모습도 가능한지 생각할 여지는 있다.",
+          "friction": "사람과 가축이 실제 늘어나는 예언이며 변경된 계획이 풍요로 이어진다고 보장하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:2:5",
+      "textSha256": "b6a6d1d0df52e855552b32358f32f9ac85cd900c42dd3d1dba9323f0691a61d6",
+      "status": "hold",
+      "reason": "겉의 성곽보다 하나님이 둘러선 불의 보호는 의지의 중심을 바꾸는 그림이나 직접적인 선택 조건은 적다.",
+      "contextNote": "성벽 없는 도시를 하나님이 보호하신다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "새로운 역할을 혼자 힘으로만 지켜야 한다는 부담을 돌아볼 수 있다.",
+          "friction": "예루살렘의 보호 약속이다. 현재 위험이 없거나 도전이 성공한다는 보장이 아니며 위로의 비중이 크다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:2:6",
+      "textSha256": "59a0a6569b949a6c189af313e4d8d594da542299feff68dde38ba6ce30e07a73",
+      "status": "exclude",
+      "reason": "북방에서 도망하라는 특정 귀환 명령은 현재 직장·관계·거처를 떠날 근거가 아니다.",
+      "contextNote": "포로 백성을 바벨론에서 부른다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:2:7",
+      "textSha256": "2829db85adcf86886ac25036d29b3e5920f730b64e480224050f9ab20933d908",
+      "status": "exclude",
+      "reason": "바벨론에서 피하라는 대상과 장소가 특정되어 있어 일상 선택의 방향으로 그대로 쓸 수 없다.",
+      "contextNote": "시온 백성의 귀환을 다시 촉구한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:2:8",
+      "textSha256": "876e0944196721d5256590218f94ad7663f8caea44ccdd63525d672ac1030f4c",
+      "status": "hold",
+      "reason": "눈동자 같은 귀함은 상처의 가치를 인정하지만 약탈 국가를 향한 파송과 주체가 길어 단독으로는 설명이 필요하다.",
+      "contextNote": "백성을 해한 열국에 대한 하나님의 보호를 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "실수한 뒤에도 자신을 함부로 대할 존재로만 볼 필요가 있는지 생각할 수 있다.",
+          "friction": "원문은 피해 백성을 보호하는 말이고 실제 업무 잘못의 책임과 가해·피해 위치를 혼동하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:2:9",
+      "textSha256": "b8307ceefc86cc7f65fba1125200060fd0ebe5e9a6fdb92f2a4c25246816c02c",
+      "status": "exclude",
+      "reason": "섬기던 자가 약탈자를 뒤집는 응징은 특정 국가 관계의 역전으로 개인의 복수나 성공 예고가 아니다.",
+      "contextNote": "하나님의 파송을 확인할 열국 심판이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:2:10",
+      "textSha256": "b5f952349901eafd0bd6f9ffb5905b6e7eb9fa0e0b5a1f3bb9aaa3d724fd17d6",
+      "status": "hold",
+      "reason": "가운데 거하시는 분 때문에 기뻐하는 그림은 기쁨의 여지가 있지만 생활 선택의 양쪽 부담을 바로 건드리지는 않는다.",
+      "contextNote": "시온이 하나님의 거주를 즐기게 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H009",
+          "clue": "현재 삶을 계속 억제하는 것 외에 기뻐할 여지가 있는지 생각할 수 있다.",
+          "friction": "시온 회복의 기쁨이며 물건을 사는 일이 그 임재와 같다고 정할 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:2:11",
+      "textSha256": "541e4b54e0d91cca027bec67e6eca84685623b363ca79542a8d99cefd09f4a78",
+      "status": "hold",
+      "reason": "여러 나라를 내 백성으로 받아들이는 모습은 소속의 폭을 비추나 현재 모임의 타인 마음은 알리지 않는다.",
+      "contextNote": "열국까지 포함한 하나님의 거주와 백성 확장이다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H035",
+          "clue": "소속될 자격을 너무 좁게 스스로 정하는지 돌아볼 수 있다.",
+          "friction": "미확인 소외와 실제 추방을 같은 것으로 만들지 않고 모임의 반응을 보장하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:2:12",
+      "textSha256": "2890cde57d8dc38912d5c698903197b3706ed3c9014ba8cf32ccf8be7bf21d44",
+      "status": "exclude",
+      "reason": "다시 유다와 예루살렘을 소유로 택하는 미완료 선언은 뒤의 침묵과 이어지는 국가 약속이다.",
+      "contextNote": "하나님의 유다 선택을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:2:13",
+      "textSha256": "11a10f1907b253683ac1b47b4fd034004894642e09dd66d1a16327ec9d550abf",
+      "status": "candidate",
+      "reason": "혈기 있는 사람들이 더 움직여 해결하기보다 잠잠히 서는 장면은 바쁨으로 마음의 불편을 덮는 선택을 비춘다.",
+      "contextNote": "성소에서 일어나시는 하나님 앞에 온 사람이 잠잠하도록 부른다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H063",
+          "clue": "내가 계속 움직여야만 한다는 태도에서 잠시 잠잠히 머물며 돌아보는 길을 읽을 수 있다.",
+          "friction": "하나님의 강림 앞 경외가 원뜻이다. 인간의 문제 제기나 도움이 필요한 말을 금하지 않으며 멈추면 답이 온다고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:3:1",
+      "textSha256": "a74b7cd5fe2de1ffc6f7230c720bb5a3345b62e55b227501f5279deea8fd9a95",
+      "status": "exclude",
+      "reason": "사단이 대제사장을 대적하는 환상은 인물과 상징 풀이가 필요하며 비판하는 동료를 악마로 정할 근거가 아니다.",
+      "contextNote": "여호수아의 정결 환상을 연다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:3:2",
+      "textSha256": "66a029f0b9d04e0000f941e80ad5503463c490efba719da13ead9290d130c974",
+      "status": "hold",
+      "reason": "불에서 꺼낸 그슬린 나무는 구원받은 자의 흔적을 비추나 사단 책망과 예루살렘 선택의 문맥을 알아야 한다.",
+      "contextNote": "대적의 고발에 하나님이 여호수아를 보호한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "그슬린 흔적이 있다는 이유로 구출받은 존재 전체를 버릴 것은 아닌 그림을 읽을 수 있다.",
+          "friction": "사용자를 고발하는 생각을 곧 사단이라고 정하지 않고 이미 해야 할 책임을 끝냈는지는 입력을 따른다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:3:3",
+      "textSha256": "b130a3196ddf6aa6d1d3b5a856640b5267221937499c5c9491a12c61d46b46ff",
+      "status": "exclude",
+      "reason": "더러운 옷으로 천사 앞에 섰다는 묘사만으로는 의복 선택이나 죄책감의 방향을 알 수 없다.",
+      "contextNote": "다음 정결 행동 전 여호수아의 상태다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:3:4",
+      "textSha256": "7b2b4938d63899e6655a8776a9416e23106c1f5f9f4b79203ea1578437bdf586",
+      "status": "candidate",
+      "reason": "죄과를 제하고 더러운 옷을 갈아입히는 장면은 이미 고친 잘못을 여전히 내 정체성처럼 입고 있는 자책을 비춘다.",
+      "contextNote": "하나님이 대제사장 여호수아를 정결하게 하여 새 옷을 주신다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "지난 잘못을 인정한 뒤에도 계속 그 옷만 입어야 하는지, 새 모습으로 다시 서는 일이 가능한지 읽을 수 있다.",
+          "friction": "하나님의 정결과 대제사장 회복이다. 사용자의 실제 피해 복구나 미완료 책임을 대신 면제하지 않고 의복 구매의 허가로 바꾸지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:3:5",
+      "textSha256": "c1f1e4e41da3c43144e5dc28b8fd33956aeb4714864e569cd3f94e03873e51d6",
+      "status": "hold",
+      "reason": "정한 관과 옷을 입히는 복귀는 새 자리를 보여도 정결 의복의 뜻과 앞 죄과 제거가 있어야 완전히 읽힌다.",
+      "contextNote": "여호수아에게 정결한 제사장 복장을 갖춘다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "잘못 이후에도 다시 역할의 자리에 설 가능성을 볼 수 있다.",
+          "friction": "정한 관은 종교 직분의 표지이며 죄과 제거가 앞절에 있어 단독 충분함은 낮다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:3:6",
+      "textSha256": "cb2c4c7f09f83fb6f1a3a64a1f095364a99caadf8077d92c143e277317377ead",
+      "status": "exclude",
+      "reason": "사자가 증거해 이르렀다는 연결문에는 실제 증거 내용이 없다.",
+      "contextNote": "여호수아에게 주어질 조건을 소개한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:3:7",
+      "textSha256": "a35f601316c6951a01540b0592f5df2c4ee9ee8ccc57e05ce419c7bc9f480b36",
+      "status": "hold",
+      "reason": "역할과 그에 따르는 길을 함께 말하는 조건은 책임을 돌아보게 하나 성전 직분의 특별 임명과 현재 직무는 다르다.",
+      "contextNote": "정결케 된 대제사장에게 성전 관리 책임을 준다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "역할을 잘할 두려움만이 아니라 어떤 기준을 지키며 맡는지 생각할 수 있다.",
+          "friction": "사용자는 아직 지원 여부를 고민하며 이 절처럼 신이 직분을 이미 맡겼다는 조건은 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:3:8",
+      "textSha256": "2cae42a8ee3ded3d14b715e1dd508d1aff4623685077467c4d9273e7264f971b",
+      "status": "exclude",
+      "reason": "동료와 순의 예표는 상징 인물의 의미를 풀어야 뜻이 서며 새싹의 성공을 보장하는 일반 말이 아니다.",
+      "contextNote": "순으로 불릴 하나님의 종을 예고한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:3:9",
+      "textSha256": "b8c607f644c432a8eec3b24781a7d7d21237099d762716c7afd225eb261a8fae",
+      "status": "exclude",
+      "reason": "한 돌의 일곱 눈과 하루의 죄악 제거는 복합 환상으로 풀이 없이 전체를 생활에 연결하기 어렵다.",
+      "contextNote": "정결 회복과 하나님의 돌 표징을 말한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:3:10",
+      "textSha256": "1a5062ed87ec318eac6306d9281171e837f45a9dd8bb38cfe3e7ac8b409be715",
+      "status": "candidate",
+      "reason": "나무 아래로 서로 초대하는 작은 평안의 그림이 큰 해결을 못 해도 힘든 친구에게 내 자리를 내어 주는 실마리가 된다.",
+      "contextNote": "정결과 회복의 날에 백성이 함께 평안을 누리는 모습이다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "문제를 모두 해결하는 도움만 있는 것이 아니라 잠시 함께 머물도록 초대하는 몫도 떠올릴 수 있다.",
+          "friction": "회복된 백성의 포도·무화과 아래 평안이 원뜻이다. 초대가 받아들여지거나 친구의 문제가 해결된다고 약속하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:4:1",
+      "textSha256": "dd895d3ff38a84e559b4e68b5e8e95704fc058e4fa61cf34e19f73f91441ddb8",
+      "status": "hold",
+      "reason": "누군가 와서 깨워 주는 장면은 도움의 여지를 보여도 환상을 다시 보게 한 사건이라 실제 쉼을 끝내라는 뜻이 아니다.",
+      "contextNote": "천사가 스가랴를 깨워 등대 환상을 보인다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "내가 혼자 정신을 차려야만 하는 것 외에 타인의 도움을 생각할 수 있다.",
+          "friction": "졸음에서 환상으로 들어가는 이야기라 몸의 피로와 도움 요청의 직접 기준은 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:4:2",
+      "textSha256": "28f52e5e1dcad5214c40011552a9c791fcf1aea139f60707c8a38b39266da89e",
+      "status": "exclude",
+      "reason": "등대와 주발 및 일곱 관의 배치는 상징 해설이 없으면 뜻이 서지 않는다.",
+      "contextNote": "금 등대 환상의 구조를 관찰한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:4:3",
+      "textSha256": "6a7484b96c33140f3a37cb16580fc9650128a61343b83bbc9c0cab86f48a73a2",
+      "status": "exclude",
+      "reason": "등대 양쪽 감람나무의 위치만 있어 주체와 의미가 아직 드러나지 않는다.",
+      "contextNote": "기름 공급의 표징을 소개한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:4:4",
+      "textSha256": "c713535b5396d0421943887f42f9dc31116cb375b2d1fb5e8d9cb4ef8f13f8d2",
+      "status": "hold",
+      "reason": "모르는 것을 천사에게 묻는 모습은 질문의 여지를 보여도 이것들이 무엇인지 앞 장면이 필요하다.",
+      "contextNote": "스가랴가 등대 환상의 뜻을 묻는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "모른다는 말을 숨기지 않고 설명을 구하는 태도를 읽을 수 있다.",
+          "friction": "앞의 환상 물체를 가리키는 단편이므로 조언을 구할 문제 자체는 생략되어 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:4:5",
+      "textSha256": "32b999c39cc97b061f0824b60a1b0a2efdc2fec55ce08b87a64b3bb4e016e191",
+      "status": "candidate",
+      "reason": "알지 못한다는 직접적인 인정이 질문을 피하면 부족해 보일까 두려운 마음을 가볍게 비춘다.",
+      "contextNote": "천사의 질문에 스가랴가 모름을 인정한 뒤 설명을 듣는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "묻는 사람이 알아야 하는 척하기보다 내 주여 알지 못한다고 말하는 모습에서 조언 구함의 출발을 읽을 수 있다.",
+          "friction": "천사에게 환상의 뜻을 묻는 상황이다. 선배의 실제 평가와 답의 옳음을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:4:6",
+      "textSha256": "95da41da2a393cbf1b066cfd493b6c67a0dc73ad4f655af53e882175e97a4602",
+      "status": "candidate",
+      "reason": "힘과 능력만으로 되는 일이 아니라는 대비가 이미 내 힘을 다 써야만 새 역할을 할 수 있다는 부담을 비춘다.",
+      "contextNote": "스룹바벨의 성전 재건이 하나님의 신으로 이루어질 것을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "현재 내 능력만을 유일한 기준으로 지원 가능성을 닫고 있는지, 힘을 얻으며 맡는 여지도 있는지 생각할 수 있다.",
+          "friction": "특정 성전 재건의 신적 약속이다. 준비와 실력을 생략해도 되거나 사용자의 역할이 같은 부르심이라는 뜻이 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:4:7",
+      "textSha256": "370b9f2d5752839c097ec734848da30dfc1e1009ae2c13ed3f0d1fda5387c8a2",
+      "status": "hold",
+      "reason": "큰 산이 평지가 되는 이미지는 장애의 크기를 다시 보게 하지만 머릿돌과 은총은 재건의 특정 성취 맥락이 강하다.",
+      "contextNote": "스룹바벨이 방해를 넘어 성전 공사를 마칠 것을 예고한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "두려워 보이는 어려움만으로 시작 가능성을 모두 닫지 않는 그림을 읽을 수 있다.",
+          "friction": "사용자의 실제 어려움이 저절로 평평해지거나 준비 없이 성공한다는 보장은 없다. 이름과 재건 배경 풀이가 필요하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:4:8",
+      "textSha256": "d80f64c74466735890f0e38292da375b0a0ec48e42ba77cef849f80e52a6bc56",
+      "status": "exclude",
+      "reason": "말씀이 임했다는 소개뿐이라 독립된 선택 실마리가 없다.",
+      "contextNote": "재건 완공 약속을 다시 소개한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:4:9",
+      "textSha256": "53c7231807b1b8a727346e8cafc334f1d58056c82b77786d4e5d3d3cde442dd5",
+      "status": "candidate",
+      "reason": "기초를 놓은 손이 마침도 맡는다는 그림은 시작 이후 마무리의 지루함에 계속 손을 대는 의미를 준다.",
+      "contextNote": "스룹바벨이 성전을 시작하고 마쳐 파송이 입증될 것을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H053",
+          "clue": "새로운 시작의 손과 현재 일을 마무리하는 손이 같은 손일 수 있다는 문장에서 끝내는 일의 몫을 읽을 수 있다.",
+          "friction": "스룹바벨에게 주어진 특정 성취 약속이다. 지금 방식이 반드시 옳다거나 모든 일을 끝낼 때까지 바꾸지 말라는 보편 명령은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:4:10",
+      "textSha256": "0e1353129b447e776c82337b4655eb63b980656bb08c8599783a1a6f8f580d9e",
+      "status": "hold",
+      "reason": "작은 시작을 멸시하지 않는 앞부분은 실마리가 있지만 뒤의 일곱 눈과 다림줄을 풀어야 전체를 받아들이기 쉽다.",
+      "contextNote": "성전의 작은 시작을 하나님이 보고 기뻐함을 환상으로 말한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H057",
+          "clue": "작게 시작한다는 이유로 가치 없다고 보는 마음을 돌아볼 수 있다.",
+          "friction": "일곱과 온 땅의 눈 및 스룹바벨 다림줄이라는 뒷부분이 어렵다. 좋은 첫 문장만 떼어 운동의 직접 권유로 만들지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:4:11",
+      "textSha256": "992c9a9c4db34fafe275adec422ac1ef31fd9499a2d8170fa819810c37d6c201",
+      "status": "exclude",
+      "reason": "두 나무의 뜻을 묻는 질문은 앞의 등대와 상징 대상 없이는 무엇이 문제인지 알 수 없다.",
+      "contextNote": "감람나무의 의미를 다시 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:4:12",
+      "textSha256": "90f53d7fce73ca2d6879108ed74f80b72fa74ee320a34ea9d8d280a5ac36d351",
+      "status": "exclude",
+      "reason": "두 금관과 기름 흐르는 가지의 질문은 환상 구조의 풀이가 필요하여 생활 도움의 일반 질문과 다르다.",
+      "contextNote": "기름 공급 표징의 자세한 뜻을 묻는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:4:13",
+      "textSha256": "d0b0ac531b8db0cdae70838c8ccad90870b66f2d921d2ddc5951a822de569933",
+      "status": "candidate",
+      "reason": "모른다는 인정으로 대화가 이어지는 모습은 부족해 보일까 설명을 구하지 못하는 부담을 비춘다.",
+      "contextNote": "천사가 감람 가지의 뜻을 아는지 묻고 스가랴가 모름을 인정한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "알지 못하나이다라고 말하는 데서 필요한 도움과 배움의 대화가 시작되는 모습을 읽을 수 있다.",
+          "friction": "환상 해설을 위한 천사와의 문답이다. 실제 선배가 부정적으로 평가하지 않는다고 보장하지 않으며 질문의 대상은 앞 문맥에 있다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:4:14",
+      "textSha256": "ccb43b0e1f6ea6165016bd1f7e5a24e3058a4043c973d61b9ce8afcc8077a3e1",
+      "status": "exclude",
+      "reason": "기름 발리운 둘이 주 앞에 섰다는 답은 종교 직분 상징의 풀이가 필요하다.",
+      "contextNote": "감람나무가 기름부음 받은 이들을 뜻함을 밝힌다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:5:1",
+      "textSha256": "bfc5bfff401281e699d741c62c9dda6cdb29af6bd82895141ab10d0977d459bb",
+      "status": "exclude",
+      "reason": "날아가는 두루마리가 보인 관찰만 있어 내용과 역할을 알 수 없다.",
+      "contextNote": "새 환상의 물체를 소개한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:5:2",
+      "textSha256": "9fe299ff7b35b5b52272a63f2d2bde0e8312a1347eaf19332dd68147b3b3c2b5",
+      "status": "exclude",
+      "reason": "두루마리의 규빗 치수는 고대 단위와 환상 맥락을 알아야 읽히며 일상 규모 판단의 원칙이 아니다.",
+      "contextNote": "저주 두루마리의 크기를 묘사한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:5:3",
+      "textSha256": "54027a5c2ce8a7820f20a5a50c9e92c43e669b4508fe4d0e306451229eb9565f",
+      "status": "exclude",
+      "reason": "도둑과 맹세하는 이를 끊는 두루마리 저주는 환상의 상징과 글의 면을 알아야 뜻이 선다.",
+      "contextNote": "날아가는 두루마리의 심판 내용을 설명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:5:4",
+      "textSha256": "2db1f7bfbd0b0d4fffbd2bbd041e9b0d1087818d20d40210ac6381f1147fa38a",
+      "status": "hold",
+      "reason": "신의 이름을 거짓 맹세에 쓰는 책임은 의견 포장을 비추지만 집의 나무와 돌까지 태우는 심판의 비중이 크다.",
+      "contextNote": "도둑과 망령된 맹세자의 집을 저주가 심판한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C001",
+          "clue": "내 말의 설득을 위해 하나님의 이름을 근거 없이 사용하는 무게를 생각할 수 있다.",
+          "friction": "도둑과 집의 소멸까지 포함한 고유 심판이다. 인간 의견을 말하는 일 자체를 같은 파괴와 연결하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:5:5",
+      "textSha256": "ef931482f4c99fdbb92292acc6b8e53e42a2d24b0df4f72f015d1d357cfad5fc",
+      "status": "exclude",
+      "reason": "눈을 들어 이것을 보라는 지시만 있어 대상의 의미가 없다.",
+      "contextNote": "에바 환상을 새로 보인다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:5:6",
+      "textSha256": "564514d1a5059f618dd7e27987dc62fc0addc34b6b7e54a483587f26fdcbebf7",
+      "status": "exclude",
+      "reason": "나오는 에바와 온 땅의 모양이라는 답은 단위와 환상의 뜻을 풀어야 한다.",
+      "contextNote": "에바의 모습을 소개한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:5:7",
+      "textSha256": "725f17ea3aceed3a7ca58b6a7ba950f640ef9415f10c4d5492a5f8a91fdb9cb7",
+      "status": "exclude",
+      "reason": "에바 안의 여인과 들린 납 조각은 상징 배치일 뿐 생활 선택의 단서를 주지 않는다.",
+      "contextNote": "악을 담을 그릇의 장면이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:5:8",
+      "textSha256": "aa2755eaed0ee9a689e81a90e8a46d6f1b4950f783d6b3fa2502a4c80ecdbbdd",
+      "status": "exclude",
+      "reason": "악을 여인으로 표시해 에바에 넣어 덮는 환상은 풀이 없이는 사람을 가두라는 행동처럼 읽힐 수 있다.",
+      "contextNote": "악을 제어하고 옮길 준비를 한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:5:9",
+      "textSha256": "efe9b30703202c4851e6ecfedd07d6f69889bb3ea54f2ce3fb4ff55d6bea8d21",
+      "status": "exclude",
+      "reason": "날개 달린 두 여인이 에바를 하늘에 드는 모습은 환상의 상징 설명을 요구한다.",
+      "contextNote": "악을 담은 그릇을 운반한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:5:10",
+      "textSha256": "5261b514cf416693a037676c8e8ec19ea63fa75d6407c77362ce6869eefa0c1d",
+      "status": "exclude",
+      "reason": "에바를 어디로 옮기는지 묻는 질문에는 판단할 목적지가 아직 없다.",
+      "contextNote": "환상의 운반 목적을 묻는다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:5:11",
+      "textSha256": "fac0776ade57dc15e3c53b6bef2e350289a807122c72db5718f09f312506285d",
+      "status": "exclude",
+      "reason": "시날의 집에 머무는 주체는 앞의 악을 담은 에바여서 주거 정착의 긍정 약속으로 자를 수 없다.",
+      "contextNote": "악이 바깥 시날 땅으로 옮겨짐을 설명한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:6:1",
+      "textSha256": "2558f568671b296269c07066d4a7cc81fe1f0e82ad206d192023ccae16e33364",
+      "status": "exclude",
+      "reason": "놋산 사이 네 병거는 새 환상의 소개로 상징 해설이 있어야 의미가 선다.",
+      "contextNote": "마지막 병거 환상을 시작한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:6:2",
+      "textSha256": "08c4850f0dfacb0d2f1bbc42529dc2f4c914aed5c50fa1188ffad5247ce3b7ea",
+      "status": "exclude",
+      "reason": "첫째와 둘째 병거의 말 색상만 나열되어 선택에 관한 내용은 없다.",
+      "contextNote": "병거를 끄는 말의 색을 소개한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:6:3",
+      "textSha256": "69a584dec104f05be7efec6e6888b78dea85422bbd1431e64d995aa082d56d13",
+      "status": "exclude",
+      "reason": "셋째와 넷째 병거의 말 무늬는 환상 분류이며 일상 대안 비교 기준이 아니다.",
+      "contextNote": "나머지 병거의 말을 묘사한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:6:4",
+      "textSha256": "72e96cb51c0f7d58fc0c838400f9237db934ec44b474463293519af99ee15f94",
+      "status": "exclude",
+      "reason": "이것들이 무엇인지 묻는 절은 앞의 병거가 없으면 질문 대상부터 모호하다.",
+      "contextNote": "천사에게 환상의 뜻을 묻는다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:6:5",
+      "textSha256": "431a058e7f29d2e5e105b3319387ec30ac3041a98ca0002e9a639206c174a0b6",
+      "status": "exclude",
+      "reason": "온 세상 주 앞에서 나간 네 바람은 천상 상징의 풀이가 필요하다.",
+      "contextNote": "병거가 뜻하는 존재를 설명한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:6:6",
+      "textSha256": "e119dbbf0711a574096acd6c45cb5ec6c1d28d92af7d98eb66790c3d8c991d2a",
+      "status": "exclude",
+      "reason": "검고 희고 어룽진 말의 방향은 앞 환상의 배치이며 사용자의 여행과 이동 방향을 정하지 않는다.",
+      "contextNote": "병거가 각각 맡은 지역으로 간다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:6:7",
+      "textSha256": "5bec39a5821309317b200cbad7822bc82442492ece0ee08eba5109781c1f054b",
+      "status": "hold",
+      "reason": "두루 다니고자 하여 실제 나아가는 모습은 실행을 떠올리게 하나 하늘의 병거 순찰을 개인 도전과 같게 읽기는 어렵다.",
+      "contextNote": "건장한 말들이 허락을 받고 땅을 순찰한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "생각만 하던 움직임이 실제 첫 걸음으로 이어지는 모습을 볼 수 있다.",
+          "friction": "환상 속 보냄과 순찰의 명령이다. 사용자 지원이 같은 신적 파송이라는 뜻은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:6:8",
+      "textSha256": "bea71ffb0aa66ad72660f6a36231c1e5652bb5a282192959558fcc68ab0d864a",
+      "status": "exclude",
+      "reason": "북방에서 마음을 시원케 했다는 말은 심판 임무를 알아야 뜻이 서며 개인 여행의 후련함 보장이 아니다.",
+      "contextNote": "북방으로 간 병거가 하나님의 뜻을 이룬다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:6:9",
+      "textSha256": "b68bc1e5bd880cd364f849c5190aa187d1586b7303a58d18e396d2e4e12ced22",
+      "status": "exclude",
+      "reason": "말씀의 도입만 있어 선택을 비추는 내용이 없다.",
+      "contextNote": "상징적 면류관 행동을 소개한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:6:10",
+      "textSha256": "0c8f2bc1992b9935f2c565c9c767316eeac6b3f41a902a49789f8048e0df9fa4",
+      "status": "exclude",
+      "reason": "귀환자들의 이름과 방문할 집 및 취하라는 연결은 다음 은금의 행동이 있어야 의미가 완성된다.",
+      "contextNote": "면류관 재료를 얻을 사람을 지정한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:6:11",
+      "textSha256": "571c918d79bb07d4c614f617547593599b947fb4e3f214afb13f50fb4f8a6c61",
+      "status": "exclude",
+      "reason": "은금 면류관을 대제사장 머리에 씌우는 고유 행동은 직분과 표징 풀이가 필요하다.",
+      "contextNote": "여호수아에게 상징적 관을 씌운다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:6:12",
+      "textSha256": "23a152203e994172fb6581b186c94f19648c5db3d9ecb30abcce43594b4b1721",
+      "status": "exclude",
+      "reason": "순이라는 사람과 성전 건축은 예표와 이름의 뜻을 알아야 읽히며 모든 작은 시작의 성공 보장이 아니다.",
+      "contextNote": "미래의 건축자 순을 선언한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:6:13",
+      "textSha256": "9b53abf35b4ff39628c1be2a2234e020acf8d89a7d849a23bc855ba7a6d9adf8",
+      "status": "hold",
+      "reason": "두 직분 사이 평화의 의논은 협력을 비추지만 왕좌와 제사장의 예표를 풀어야 일상 역할 차이에 연결된다.",
+      "contextNote": "건축과 왕권 및 제사장 사이 조화를 말한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "C010",
+          "clue": "같은 일을 하더라도 다른 역할 사이에 의논의 자리가 필요한지 생각할 수 있다.",
+          "friction": "장차 올 통치와 제사 직분의 이야기이며 두 친구의 목표 차이가 저절로 해소된다는 뜻은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:6:14",
+      "textSha256": "e00ff767d4be7ad79594bc1024f860892b8979faf031ef8152c0ddf2a7760691",
+      "status": "exclude",
+      "reason": "면류관을 특정 인물들의 기념으로 성전에 두라는 말은 대상과 제의 맥락이 강하여 물건 보관의 원칙이 아니다.",
+      "contextNote": "귀환자들의 기념물을 남긴다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:6:15",
+      "textSha256": "826dfc6f0825b4412e8ddf78e6395f1a8de2e57622ce01b76049d35f5fe38763",
+      "status": "hold",
+      "reason": "먼 사람이 와 함께 짓는 모습은 도움의 범위를 넓히지만 말씀 순종과 파송 입증의 긴 조건을 알아야 한다.",
+      "contextNote": "성전 재건에 먼 이들도 참여할 약속이다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "익숙한 나 혼자만으로 일을 끝내야 한다는 시야를 넓힐 수 있다.",
+          "friction": "실제로 특정 사람이 와서 도와줄지의 정보는 없고 조건은 하나님의 말씀을 듣는 공동체에 관한 것이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:7:1",
+      "textSha256": "76d2bbe481e57e4fedffb09a65ec1e696f6ad6c8d38778d2474393bb5ac34bbe",
+      "status": "exclude",
+      "reason": "왕의 연도와 기슬래월 날짜는 말씀의 시점으로 생활 선택 내용이 없다.",
+      "contextNote": "금식 질문 단락의 날짜다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:7:2",
+      "textSha256": "01a9470a58399fab868b0ffcd17850f56fa45d6887a1a2bb1d40a32f9352a2ac",
+      "status": "exclude",
+      "reason": "벧엘의 사절 이름과 파견 목적은 다음 질문을 준비하는 소개다.",
+      "contextNote": "사람들이 예루살렘에 은혜를 구하러 온다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:7:3",
+      "textSha256": "e11ba87cd785d578e5a589f73a6adb82acefdfbbed8ee32a09b8ecc22aba173d",
+      "status": "hold",
+      "reason": "여러 해 지킨 슬픔의 관행을 계속할지 묻는 모습은 익숙한 방식 점검에 여지가 있으나 오월 금식의 역사를 알아야 한다.",
+      "contextNote": "백성이 성전 파괴를 기억하는 금식을 묻는다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H043",
+          "clue": "오래 해왔다는 이유만으로 같은 방식을 계속하는지 물을 수 있다.",
+          "friction": "실패한 작업 방식이 아니라 추모 금식의 유지 여부이며 답은 다음에 주어진다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:7:4",
+      "textSha256": "721706a954be51c9a3dcfde8c52873896ac880988937f461a02f74b4aa93c9ac",
+      "status": "exclude",
+      "reason": "말씀이 임했다는 연결만 있어 실제 판단 내용이 없다.",
+      "contextNote": "금식 질문에 대한 응답을 소개한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:7:5",
+      "textSha256": "0d78e365ebc9335677624be1e4b4f44087fbb04197e178ec4bb12a1cbc64c565",
+      "status": "candidate",
+      "reason": "오래 지킨 행동도 누구를 위한 것이었는지 묻는 질문이 선물의 가격으로 마음을 증명할 부담을 비춘다.",
+      "contextNote": "하나님이 칠십 년의 금식 동기를 묻는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H007",
+          "clue": "비싼 선물을 준비하려는 마음이 친구를 위한 것인지 내 좋은 모습과 안심을 위한 것인지 잠시 돌아볼 수 있다.",
+          "friction": "원뜻은 하나님을 위한 금식인가라는 질문이다. 친구에게 주는 비싼 선물의 동기를 이기심으로 확정하지 않고 상대가 요구한 적 없다는 조건을 따른다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:7:6",
+      "textSha256": "106615536355dc57ef71a00b2ee547f83a4d822e0821b9c56ca596c6c14f48fe",
+      "status": "hold",
+      "reason": "먹고 마시는 자기 목적을 묻는 말은 소비의 동기를 비추나 모든 자기 즐거움이 죄라는 결론은 문맥과 다르다.",
+      "contextNote": "앞의 금식과 평소 식사의 자기중심을 연결한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H009",
+          "clue": "누리려는 일의 마음과 목적을 돌아볼 수 있다.",
+          "friction": "예배의 동기를 묻는 맥락이지 즐거움 자체의 금지가 아니다. 여력 있는 구매 죄책감을 더할 명분만으로 삼지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:7:7",
+      "textSha256": "5bc9f1bc3d83b3ebf2e21406e4835c97ef55e66e36b4e6ac9f8a89afdbed5007",
+      "status": "exclude",
+      "reason": "옛 예언의 형통한 유다 도시를 회상하는 긴 질문은 듣지 않은 말씀의 내용이 앞뒤에 있어 독립 연결이 약하다.",
+      "contextNote": "평안할 때 듣지 않은 선지자의 말을 기억시킨다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:7:8",
+      "textSha256": "2482838e06702127cfaef2c2526b982b2ae6175106d8da42a16b39d04b019b2c",
+      "status": "exclude",
+      "reason": "말씀이 임해 이르셨다는 소개로 생활 판단 내용은 뒤에 있다.",
+      "contextNote": "실제 금식보다 필요한 행동을 말하기 시작한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:7:9",
+      "textSha256": "2e107e612db46b4022e7f2ffb7ee293526a9f8e9bc796f039cda8020d5092fd4",
+      "status": "candidate",
+      "reason": "진실한 판단과 서로의 인애를 함께 요구하는 말은 사실을 바꾸지 않는 일과 관계를 돌보는 일이 양립할 여지를 준다.",
+      "contextNote": "하나님이 이미 요구한 정의와 긍휼을 상기한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "진실하게 판단하는 것과 사람에게 인애를 보이는 것을 함께 읽으며 거짓 수치에 동참해야만 관계를 지킨다는 틀을 다시 볼 수 있다.",
+          "friction": "공적 재판과 공동체 윤리의 말씀이다. 거절의 구체 말투와 그 후 평가가 좋을지는 정해 주지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:7:10",
+      "textSha256": "07e355af3e3cd66c0dc345df6dd2a60b3a82dff78063711664952203d7cc9919",
+      "status": "candidate",
+      "reason": "약한 이를 압제하지 않고 마음으로 해를 꾸미지 않는다는 말은 서운했던 사람의 실패를 더 아프게 만들 유혹을 비춘다.",
+      "contextNote": "과부와 고아와 나그네 및 궁핍한 이의 보호를 요청한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C009",
+          "clue": "내 상처와 별개로 상대에게 해가 되길 바라는 생각을 보태는지 스스로 살필 수 있다.",
+          "friction": "본문의 약자 보호는 실제 사회적 억압을 다룬다. 동료가 모든 열거된 약자와 같다고 정하지 않고 과거 무시의 정당성도 인정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:7:11",
+      "textSha256": "0d2aef8b02d2fe9e1fa98bd72861d57fb98e7afe3f90c499c39467c5d0010031",
+      "status": "hold",
+      "reason": "등을 돌리고 귀를 막는 모습은 지적을 안 듣는 자기 반응을 비추지만 주어와 말씀의 권위는 앞뒤 문맥에 있다.",
+      "contextNote": "공동체가 공의와 인애의 요청을 거절한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "기분이 상해서 내용까지 보지 않으려 귀를 막는 모습을 내 반응에 비춰 볼 수 있다.",
+          "friction": "이 절은 하며로 이어지고 하나님의 말씀 거절이 배경이다. 모든 팀원 지적을 같은 권위로 정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:7:12",
+      "textSha256": "127e8dd19289c0b19efbbf8d04d8093398f10bfcf33e8ec6e12db1c249643665",
+      "status": "hold",
+      "reason": "금강석 같은 마음은 실제 실수 인정 앞 완고함을 비추지만 신적 율법과 큰 진노의 뒷말을 같이 읽어야 한다.",
+      "contextNote": "선지자를 통한 말씀을 안 들은 백성의 완고함이다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "내 마음이 수정이 닿지 않는 돌처럼 굳었는지 돌아볼 수 있다.",
+          "friction": "하나님의 법을 거절한 집단의 심판이다. 지적 수용을 거부하면 큰 벌이 온다는 협박으로 옮기지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:7:13",
+      "textSha256": "6569a521975e10a540877fc1fc509bcfab1fc05991e07170860fa2c560fa6861",
+      "status": "exclude",
+      "reason": "부를 때 안 들었으므로 나도 안 듣겠다는 응징은 친구의 답장 없음이나 부탁 거절의 원인을 새로 정할 수 있다.",
+      "contextNote": "백성의 불청종에 대한 응답 단절을 말한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:7:14",
+      "textSha256": "23dc26e486ff927da8da2ebeea54b09bc7e3b73ede144c2429bd92e355ace4f5",
+      "status": "exclude",
+      "reason": "알지 못하는 나라에 흩어져 아름다운 땅이 황무해진 결과는 추방의 심판으로 개인 계획 변경과 다르다.",
+      "contextNote": "완고함이 포로와 황폐로 이어진 역사다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:8:1",
+      "textSha256": "33cf0bd1624e0813ba217b7e3553601212b385928fdc76e023b244d861f5f019",
+      "status": "exclude",
+      "reason": "말씀의 소개만 있어 선택에 관한 내용은 없다.",
+      "contextNote": "시온 회복 약속을 새로 시작한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:8:2",
+      "textSha256": "3c933711936512dbf6d97649bde7e6b5334a47098ebd49a63f744c081f672bf3",
+      "status": "exclude",
+      "reason": "크게 질투하고 분노하는 말은 시온을 위한 열심의 선언이며 개인 분노의 정당성 검증이 아니다.",
+      "contextNote": "시온을 돌보시는 하나님의 열심을 말한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:8:3",
+      "textSha256": "3e2a0830bc0f925ed77795202c2144bd4e69391a988c8b6b01b7f521d7855dbe",
+      "status": "hold",
+      "reason": "진리의 성읍으로 다시 불리는 회복은 정직한 공동체의 기준을 비추지만 거주와 성산의 약속이 중심이다.",
+      "contextNote": "하나님이 예루살렘에 돌아와 함께 사신다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C005",
+          "clue": "공동체가 크기 외에 어떤 성격으로 불릴지 생각할 수 있다.",
+          "friction": "예루살렘이 성산이 되는 예언이며 동아리 운영이 같은 거룩함을 보장받았다는 뜻은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:8:4",
+      "textSha256": "dcf5eabe52afe3a198e500ca9fe37a06335214908d51e5d518ee1e4610c9d37e",
+      "status": "hold",
+      "reason": "노년의 사람들이 거리에서 앉아 있는 모습은 생산과 속도 외에 머무는 가치를 비추나 개인 선택에는 위로가 중심이다.",
+      "contextNote": "전쟁 없는 도시의 평범한 일상을 보여 준다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H015",
+          "clue": "쉼과 머무름 자체도 회복된 삶의 그림에 포함되는지 볼 수 있다.",
+          "friction": "지아비와 지어미라는 옛말이 있고 노인들의 안전한 거리이지 이번 주말의 실제 조건을 알려 주지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:8:5",
+      "textSha256": "5d01583b7052062aea5ecc927cc01015015062f33e75dc2c93290371f2be8f0d",
+      "status": "hold",
+      "reason": "아이들이 노는 거리의 그림은 즐거움의 자리를 보여도 어른의 일정과 의무 양쪽 부담에는 직접 단서가 적다.",
+      "contextNote": "회복된 예루살렘의 생기와 안전이다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G04",
+          "clue": "놀이와 기쁨도 평안한 생활의 일부라는 모습을 읽을 수 있다.",
+          "friction": "원문은 아이들의 놀이이며 내일 피로와 오늘 할 일을 어떻게 나눌지는 보여 주지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:8:6",
+      "textSha256": "2ad882b165e2277cf4729fa64afdeb852d0cad70983e6685b1b4339aaef9c3d0",
+      "status": "hold",
+      "reason": "내 눈에 기이한 일이 전부는 아니라는 질문은 시야를 넓히지만 이 일의 내용이 앞 도시 회복에 있다.",
+      "contextNote": "백성의 불가능해 보이는 회복을 하나님 시야와 대조한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "내가 어렵게 보는 모습만으로 모든 가능성을 재단하는지 돌아볼 수 있다.",
+          "friction": "특정 회복 약속의 확신을 개인의 지원 성취와 동일시하지 않고 이 일이 무엇인지 앞절이 필요하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:8:7",
+      "textSha256": "fb64a728c82c2dadd956c3c31b8a6607d995ca5b3187bff2047c5861fee983a0",
+      "status": "exclude",
+      "reason": "동서에서 구원해 낸다는 접속 문장은 목적지와 관계가 다음 절에 있어 단독 의미가 덜 완성된다.",
+      "contextNote": "흩어진 백성의 귀환을 시작한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:8:8",
+      "textSha256": "4852da705280b63ce422ba57abbcedea008b91fde7bcff528e802ac862d67138",
+      "status": "hold",
+      "reason": "성실과 정의로 맺는 관계는 공동 기준의 가치를 보여도 예루살렘 거주와 언약 회복의 선언이 중심이다.",
+      "contextNote": "돌아온 백성과 하나님의 관계가 회복된다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C010",
+          "clue": "함께 거하는 일에 편의 외에도 성실과 공정한 기준이 필요한지 생각할 수 있다.",
+          "friction": "사람 사이 동업 계약을 정하는 말이 아니며 수익과 작품의 목표 차이를 직접 풀어 주지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:8:9",
+      "textSha256": "1638da865c4b8bf0614d559d4da7664b60380f376364de5a627b8c742f8e719a",
+      "status": "hold",
+      "reason": "기초를 놓던 말의 기억을 붙잡고 손을 굳게 하는 모습은 마무리의 지속을 비추지만 성전과 예언의 긴 소개가 부담이다.",
+      "contextNote": "성전 재건자들에게 격려를 준다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H053",
+          "clue": "처음 시작한 뜻을 떠올려 현재 일에 다시 손을 대는 모습을 읽을 수 있다.",
+          "friction": "성전 재건의 특정 신적 격려이며 사용자 일을 같은 사명으로 정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:8:10",
+      "textSha256": "c3eef420b081f5208b47a0c83d298b404c46b1aaf3857e5311cae4daf5b94ed7",
+      "status": "exclude",
+      "reason": "삯도 평안도 없고 서로 싸우게 했던 과거는 다음 회복의 대비이며 현재 수입 부족을 신의 심판으로 해석할 수 없다.",
+      "contextNote": "재건 전의 결핍과 갈등을 회고한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:8:11",
+      "textSha256": "b003b5327df79e09794e131e609a3c44eb9597b28299c022e93a8ba86b6887c2",
+      "status": "exclude",
+      "reason": "전과 다르게 대하겠다는 미완료 선언은 어떻게 달라지는지 다음 내용이 필요하다.",
+      "contextNote": "남은 백성에게 회복 전환을 약속한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:8:12",
+      "textSha256": "52463aca7dd93b99812cd50a79b1830d91b91c4701ad2a561d0545d37e55d76b",
+      "status": "hold",
+      "reason": "평안한 추수와 땅의 열매를 누리는 그림은 수고 뒤의 만족을 보여도 현재의 소비·판매 결과를 정해 주지 않는다.",
+      "contextNote": "재건 뒤 백성이 다시 수확을 누리는 약속이다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H009",
+          "clue": "좋은 것을 얻는 것뿐 아니라 누리는 삶의 가치도 돌아볼 수 있다.",
+          "friction": "농업과 공동체의 회복이다. 사용자의 물건 구매가 그 복의 성취라거나 누릴 여력이 생겼다는 정보는 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:8:13",
+      "textSha256": "3c2a3392423037b9858346f53b3e8626aeb1a5e81ef4e674349a79fb9967b519",
+      "status": "candidate",
+      "reason": "저주로 보이던 사람이 축복의 몫을 갖고 손을 굳게 하는 반전은 수정한 실수로 현재 전체를 정한 자책을 비춘다.",
+      "contextNote": "열국 가운데 수치였던 이스라엘을 구원하고 힘주실 약속이다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "과거에 안 좋게 보였던 나와 앞으로 손으로 할 일의 의미를 구별하며 다시 시작할 여지를 읽을 수 있다.",
+          "friction": "공동체의 구원과 축복이다. 사용자가 실제로 저주받았거나 모든 사람이 평가를 바꿀 것이라고 만들지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:8:14",
+      "textSha256": "6c4e3452492f409ec3ccc7722b0ee0a694cbd03d69fb355c5cb51c71c254e437",
+      "status": "exclude",
+      "reason": "조상에게 재앙을 정했던 과거의 조건은 다음 은혜와 대비되어야 문장이 완성된다.",
+      "contextNote": "과거 심판을 다음 회복과 대조한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:8:15",
+      "textSha256": "53bf93d7f46a0bd188433125b856711cfecd305cc60eb02d3fb83b41921ecf72",
+      "status": "hold",
+      "reason": "은혜를 뜻하니 두려워 말라는 말은 자책에 여지가 있으나 구체 행동보다는 약속의 위로가 중심이다.",
+      "contextNote": "유다와 예루살렘에 새 은혜를 선언한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "지난 잘못 뒤에 두려움만 이어져야 하는지 다른 마음의 여지를 볼 수 있다.",
+          "friction": "하나님의 국가적 회복 약속이지 실제 보상 책임과 인간의 판단이 모두 없어졌다는 뜻은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:8:16",
+      "textSha256": "21a00c3e26fd268991145a5e6344f0097ef5d1d0ae50f8c8893e3dbd58ab4241",
+      "status": "candidate",
+      "reason": "이웃에게 진실을 말하면서 진실하고 평화롭게 판단하는 두 기준은 사실을 말하면 반드시 싸움만 된다는 부담을 비춘다.",
+      "contextNote": "회복된 백성이 행할 공적·상호적 정직을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H026",
+          "clue": "진실함과 화평이 함께 놓인 문장에서 서운함을 감추는 것과 공격적으로 말하는 것 사이 다른 대화를 생각할 수 있다.",
+          "friction": "성문 재판의 공적 문맥이다. 부드럽게 말하면 친구가 반드시 받아준다는 보장이나 이미 반복 위반인 G11의 재차 양보 명령은 아니다.",
+          "expectedEnough": "yes"
+        },
+        {
+          "scenarioId": "H022",
+          "clue": "묻지 않은 하자라도 이웃에게 진실을 말한다는 기준으로 미리 알려 줄 의미를 읽을 수 있다.",
+          "friction": "구매자의 가격 반응과 판매 성공은 본문이 알리지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:8:17",
+      "textSha256": "1d0ee40a9bc3d533be9c167a64b96f9e450f00e262131761c73c9e4c1fb21a8f",
+      "status": "candidate",
+      "reason": "해를 꾸미거나 거짓 맹세를 좋아하지 말라는 말은 내 설득을 위해 사실보다 큰 신앙의 확언을 붙일지의 부담을 비춘다.",
+      "contextNote": "하나님이 미워하는 마음의 가해와 거짓을 밝힌다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C001",
+          "clue": "효과가 좋을 것 같다는 이유로 내 생각을 확실한 신의 말처럼 맹세해도 되는지 돌아볼 수 있다.",
+          "friction": "거짓 맹세와 남을 해하는 마음의 경고이며 모든 의견 차이가 해악은 아니다. 확인된 말씀 없는 자기 판단이라는 조건에 연결한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:8:18",
+      "textSha256": "721706a954be51c9a3dcfde8c52873896ac880988937f461a02f74b4aa93c9ac",
+      "status": "exclude",
+      "reason": "말씀의 소개만 있어 선택 실마리는 뒤에 있다.",
+      "contextNote": "금식이 기쁨이 될 응답을 소개한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:8:19",
+      "textSha256": "d158a7c2b610d142bfe3cf0ec5389c20a72a7ff1506fbb8bf444dd495b9990f4",
+      "status": "hold",
+      "reason": "슬픔의 금식이 기쁨으로 바뀌되 진실과 화평을 사랑하는 모습은 정직과 즐거움의 양립을 비추지만 달별 제의의 풀이가 필요하다.",
+      "contextNote": "포로의 애도 절기들이 회복 축제가 된다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "진실하게 잘못을 돌아본 뒤에도 계속 슬픔만 유지하는 것이 유일한 모습인지 생각할 수 있다.",
+          "friction": "네 달의 금식은 공동체 역사에 관한 것이며 사용자의 책임이 끝났다는 사실은 본문으로 대신 정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:8:20",
+      "textSha256": "edeca0a42f9338454efa3c39c8635a24f343a3b6ac3ed5e2c09b5864db1de0bc",
+      "status": "exclude",
+      "reason": "여러 성읍의 주민이 올 것이라는 예고는 목적과 행동이 다음에 있어 독립 연결이 약하다.",
+      "contextNote": "예배하러 모일 열국을 소개한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:8:21",
+      "textSha256": "44d921240393abef7e90b6aa397e89a03e68089df16fda2be401e5eb53e9a562",
+      "status": "hold",
+      "reason": "함께 은혜를 구하자고 초대하고 응하는 모습은 작은 동행의 도움을 비추지만 예배의 장소와 목적이 특정되어 있다.",
+      "contextNote": "도시들이 서로 권하여 하나님을 찾는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "모든 문제를 해결하지 못해도 함께 가자고 말하는 몫을 떠올릴 수 있다.",
+          "friction": "하나님께 은혜를 구하러 가는 일이다. 친구가 원치 않는 동행이나 종교 행동을 대신 정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:8:22",
+      "textSha256": "4d2c770e15f7d8d722b37fee4effb7cca5fbfed2fb7ad10bd24d5fb60a4f24b4",
+      "status": "exclude",
+      "reason": "강한 나라가 예루살렘에 와 은혜를 구하는 선언은 국가적 예배 회복으로 개인 관계의 수락을 알리지 않는다.",
+      "contextNote": "하나님을 찾는 열국의 규모를 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:8:23",
+      "textSha256": "ba2810050b48cd07f9f3a97039c6b22ce672db83a21535f074fdb2c64e44e4de",
+      "status": "hold",
+      "reason": "다른 말 쓰는 이도 함께 가려 손을 내미는 모습은 도움 구함의 벽을 낮추지만 열국의 옷자락이라는 상징 풀이가 필요하다.",
+      "contextNote": "여호와의 백성과 동행하려는 열국을 예고한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "완전히 같은 배경이 아니어도 함께 가자고 청할 가능성을 읽을 수 있다.",
+          "friction": "하나님이 함께하심을 듣고 오는 열국의 예언이다. 현재 상대가 나를 도와줄 의향을 보였다고 가정할 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:9:1",
+      "textSha256": "0ee94ddbd11c9d53c6d2df520a1d86e2439945675df73fd68838ecff3c4b7735",
+      "status": "exclude",
+      "reason": "하드락과 다메섹에 임한 경고는 지리와 예언 맥락이 필요해 생활의 두 선택을 비추기 어렵다.",
+      "contextNote": "주변 나라 심판을 시작한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:9:2",
+      "textSha256": "dd9616c20c8c4edd4707a68596d20119e3926d05cdbb7e344bb065a06e084d3d",
+      "status": "exclude",
+      "reason": "하맛과 두로와 시돈의 넓은 지혜도 경고를 피하지 못하는 접속 절로 도시 역사를 풀어야 한다.",
+      "contextNote": "경고가 미치는 지역을 넓힌다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:9:3",
+      "textSha256": "226118f6910865be7660ec9c48cec0b07cbf20af4d7d8faf81ad7db1fb9942b9",
+      "status": "hold",
+      "reason": "은금을 먼지처럼 쌓아 요새를 만든 모습은 축적과 안전의 관계를 비추지만 이 절만으로 그 결과의 판단은 아직 없다.",
+      "contextNote": "두로가 의지한 부와 방어를 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C013",
+          "clue": "더 모으면 반드시 안심할 수 있다는 생각을 돌아볼 수 있다.",
+          "friction": "상업 도시의 군사적 축적이지 소비 누수의 실제 원인을 보여 주지는 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:9:4",
+      "textSha256": "26b656ab1c97a579ce1a8d3e2634a17e3deadd86e32a91c48fa58b77e00ab99f",
+      "status": "exclude",
+      "reason": "바다 권세가 불에 삼켜지는 두로의 심판은 현재 거래 시장의 성패를 예측하는 말이 아니다.",
+      "contextNote": "두로의 자랑이 무너진다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:9:5",
+      "textSha256": "abb9ad9b697b161e8acf816b371c6147d7015c747949da8106f391e3bd665e54",
+      "status": "exclude",
+      "reason": "가사와 아스글론 및 에그론의 수치와 단절은 지명별 전쟁 심판의 나열이다.",
+      "contextNote": "주변 도시들의 공포와 멸망을 말한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:9:6",
+      "textSha256": "d044c38196f57ac26d140f6daa1b072076158ff7fea02e203711dc56fd909f05",
+      "status": "exclude",
+      "reason": "아스돗의 잡족과 블레셋 교만 제거는 특정 민족의 재편이라 공동체의 다른 배경 사람을 배제할 근거가 아니다.",
+      "contextNote": "블레셋의 심판과 변화가 이어진다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:9:7",
+      "textSha256": "3824a0d7661d86d94030ef40866ef1cfd698b7efb224b6dbecb006228afc3da6",
+      "status": "exclude",
+      "reason": "피와 가증한 것을 입에서 제거하고 유다 두목과 여부스인이 되는 변화는 제의·역사 풀이를 요구한다.",
+      "contextNote": "남은 블레셋도 하나님께 돌아옴을 말한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:9:8",
+      "textSha256": "218eb3021677767114da8685ede3549779d6e55d5983cf1a58cece7d058a7916",
+      "status": "hold",
+      "reason": "집을 둘러 지키고 침략을 막는 보호는 경계의 이미지를 주지만 실제 반복 위반 상대가 더 오지 않을 보장은 아니다.",
+      "contextNote": "하나님이 직접 성소와 백성을 보호하신다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G11",
+          "clue": "무조건 열어 두는 관계만이 돌봄은 아니고 보호할 경계도 있는지 생각할 수 있다.",
+          "friction": "군사 침입을 막는 국가 보호이며 친구를 악한 침략자로 판정하지 않는다. 현실의 안전 조건은 별도로 남는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:9:9",
+      "textSha256": "65d572e9512e22dac6bd2945b325d0a42ea607a626b49eaa56ebd12d2f5d8132",
+      "status": "candidate",
+      "reason": "구원과 공의를 가진 왕이 작은 나귀를 타는 대비는 커 보이는 격식만으로 마음과 가치를 증명할 부담을 비춘다.",
+      "contextNote": "시온에게 겸손한 왕의 도래를 기뻐하라고 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H007",
+          "clue": "귀한 존재가 꼭 크고 화려한 것으로 와야 하는지, 작은 모습에도 마음과 가치가 있는지 읽을 수 있다.",
+          "friction": "특정 왕의 겸손과 구원에 관한 예언이다. 작은 선물과 그 왕을 동일시하거나 비싼 선물은 나쁘다고 정하지 않고 상대 취향도 대신 판단하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:9:10",
+      "textSha256": "f96789236bd1b94abbf3bcdc26f94ec7ebdb9dc3574cc014aaf7fc088d4b01e5",
+      "status": "hold",
+      "reason": "무기를 끊고 화평을 전하는 모습은 분노의 다른 표현을 비추지만 유브라데까지의 왕권이라는 긴 예언이 생활 연결을 넓힌다.",
+      "contextNote": "겸손한 왕의 통치가 전쟁을 끝내고 확장된다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "세게 치는 말보다 화평을 전할 방향으로 내 표현을 바꿀지 생각할 수 있다.",
+          "friction": "민족의 무기와 통치에 대한 말이지 정당한 문제 제기를 삼키라는 뜻은 아니다. 땅의 범위는 개인 메시지와 무관하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:9:11",
+      "textSha256": "500fa10dd4975dd1e735d16799356861f36be8b1439c0b31a6d82a64948d45ea",
+      "status": "hold",
+      "reason": "물 없는 구덩이에서 놓아주는 모습은 막힘 뒤 탈출의 여지가 있으나 언약의 피라는 배경을 알아야 한다.",
+      "contextNote": "언약 때문에 갇힌 백성을 해방한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "잘못과 자책의 구덩이에 계속 머물러야만 하는지 다른 모습을 볼 수 있다.",
+          "friction": "포로의 해방과 언약 피가 원뜻이며 현재 책임을 끝냈다는 사실을 새로 대신 정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:9:12",
+      "textSha256": "bef0f7d31b4f4636861e8a85a664e2541c1829830bcb911919f91dcffc43ccea",
+      "status": "hold",
+      "reason": "소망을 품고 돌아오라는 초청은 재출발을 비추지만 배로 갚는 보상이 잃은 기회의 실익 보장처럼 읽히기 쉽다.",
+      "contextNote": "갇힌 백성에게 견고한 곳과 회복을 약속한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H060",
+          "clue": "손실만 보며 머물기보다 소망을 품고 돌아설 그림을 읽을 수 있다.",
+          "friction": "보장은 요새라는 옛말이고 배로 갚음은 하나님의 회복 약속이다. 개인 기회의 두 배 보상이나 재등장을 확정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:9:13",
+      "textSha256": "11e0766eb01073bfb7968948809d6303665e22db8841438524872d32e0f1267e",
+      "status": "exclude",
+      "reason": "유다의 활과 에브라임의 살로 헬라를 치는 비유는 민족 전쟁의 표징이라 역할 도전의 격려로 잘라 쓰기 어렵다.",
+      "contextNote": "백성이 하나님의 무기처럼 쓰일 것을 말한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:9:14",
+      "textSha256": "4d103ce8077f7422db1931898b35badaf171d4e0f05b3f535dc9e6ac8c88aa22",
+      "status": "exclude",
+      "reason": "번개 화살과 회리바람의 나팔은 신적 전사의 강림 묘사로 현재의 징조 찾기나 선택을 대신할 수 없다.",
+      "contextNote": "하나님이 백성을 위해 싸우시는 장면이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:9:15",
+      "textSha256": "8e6ac93b707556f74a44ffa217d224f1a5ff9afb40f3d00dd05b05baf0010fa3",
+      "status": "exclude",
+      "reason": "원수와 피를 삼키고 취한 듯 부르는 전투는 보호의 첫말만 떼어 일반 위로로 만들 수 없다.",
+      "contextNote": "하나님의 보호 아래 벌어지는 전쟁 승리를 묘사한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:9:16",
+      "textSha256": "1d646ffcd9e38105273ab5dca072c4abd5be911215248d41e190ddce8a5f1fed",
+      "status": "hold",
+      "reason": "양떼처럼 구원받고 보석처럼 빛나는 이미지는 존재의 귀함을 보이나 선택의 구체 부담보다 회복 위로가 중심이다.",
+      "contextNote": "구원된 백성을 면류관 보석에 비유한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "지난 실수의 흔적만으로 내 가치를 전부 정한 것은 아닌지 돌아볼 수 있다.",
+          "friction": "이스라엘의 구원과 영광이며 인간의 모든 평가나 실무 성공이 바뀐다는 보장은 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:9:17",
+      "textSha256": "6c78d33d83f33e881840a6559ba69f2fbb5baed0548e87e91f73bbd5df142010",
+      "status": "hold",
+      "reason": "곡식과 포도주로 힘과 기쁨을 얻는 회복은 생활의 필요를 보여도 현재 치료·휴식 선택을 직접 다루지는 않는다.",
+      "contextNote": "백성의 아름다움과 풍요를 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H055",
+          "clue": "몸이 먹고 힘을 얻는 일도 귀한 삶의 일부라는 그림을 볼 수 있다.",
+          "friction": "회복된 땅의 청년들에 관한 예언이며 사용자의 피로 원인과 회복 시점은 모른다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:10:1",
+      "textSha256": "54e6c12bc8b29ce3dd181dfb6c3fa5f244253e4358cab8b7be506c4725eb1599",
+      "status": "hold",
+      "reason": "필요한 때 비를 구하는 모습은 부족한 자원을 청할 여지가 있으나 각자 밭에 내리는 비의 약속을 사람에게서 받을 답으로 옮길 수 없다.",
+      "contextNote": "우상보다 비를 주시는 여호와를 찾게 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "필요한 것이 있음을 인정하고 구하는 행위를 생각할 수 있다.",
+          "friction": "하나님께 농업의 비를 구하는 말이고 부탁할 지인의 여력과 마음은 미확인이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:10:2",
+      "textSha256": "114aec29cdbaee2a5ee603fb08ee48ff07eec221b6aa09b17c3b5a1707557f18",
+      "status": "hold",
+      "reason": "허탄한 답의 헛된 위로와 목자 없음은 실제 도움을 점검하게 하나 드라빔과 복술의 뜻부터 설명이 필요하다.",
+      "contextNote": "우상 예언 때문에 백성이 돌봄 없이 헤맨다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "C001",
+          "clue": "근거 없는 확언은 좋은 위로처럼 보여도 상대를 제대로 돕는지 돌아볼 수 있다.",
+          "friction": "점술과 우상에 대한 고발이고 자기 판단을 의견으로 솔직히 말하는 것까지 같은 악으로 정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:10:3",
+      "textSha256": "3522efa81738c49d69507bf58529912614c0d38a11ca105364fed40b2d361169",
+      "status": "exclude",
+      "reason": "목자와 수염소를 벌하고 유다를 준마로 만드는 상징은 지도자와 군사 회복의 풀이가 필요하다.",
+      "contextNote": "잘못된 지도자 대신 하나님이 백성을 돌보신다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:10:4",
+      "textSha256": "616be9066c08e9ae0ddb6c39bef4178b6a94692a5e9abde125714100235b953f",
+      "status": "exclude",
+      "reason": "모퉁이돌과 말뚝과 활 및 권세자의 나열은 그에게서라는 주체와 다음 행동이 있어야 완결된다.",
+      "contextNote": "유다에서 나올 지도력과 전력의 상징이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:10:5",
+      "textSha256": "c040ae35a9cdc794174b82758936efa0ad28693fc79dfe8b23e03809dc7fe453",
+      "status": "exclude",
+      "reason": "대적을 거리 진흙에서 밟는 전투는 개인 경쟁에서 이김을 보장하거나 상대를 해할 근거가 아니다.",
+      "contextNote": "하나님과 함께하는 유다의 전쟁 승리를 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:10:6",
+      "textSha256": "e42bd96c838c28de6052b4e19abd25ce730b2e4914ac07ed1b8565c45c13a052",
+      "status": "candidate",
+      "reason": "버린 적 없는 것처럼 다시 돌아와 들으신다는 모습은 과거의 실수 뒤 영구히 밀려났다고 보는 마음을 비춘다.",
+      "contextNote": "유다와 요셉에게 긍휼과 귀환을 약속한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "한 번의 잘못이 나를 영원히 버려진 사람으로 결정한다는 생각을 돌아보며 다시 서는 여지를 읽을 수 있다.",
+          "friction": "하나님이 흩어진 민족을 회복하는 말이다. 인간 상대의 용서나 모든 실무 책임의 완료를 새로 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:10:7",
+      "textSha256": "4d07c7ccea75a00a248742763e06906a4d66a3e1a805630357ee63cf730c6069",
+      "status": "hold",
+      "reason": "세대가 함께 기뻐하는 회복은 기쁨의 공간을 보이나 용사와 술의 비유는 개인 즐거움에 직접 기준을 주지 않는다.",
+      "contextNote": "회복된 에브라임과 자손의 기쁨이다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H009",
+          "clue": "기쁨을 계속 의심만 하는 것 외에 함께 누리는 삶의 모습을 볼 수 있다.",
+          "friction": "전쟁 뒤 공동체의 회복이며 구매를 즐길 여력이 있다는 증거를 새로 만들지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:10:8",
+      "textSha256": "e644af21355d7036f06a508f71b25a4524216da90930e9666381f643eaace4d7",
+      "status": "hold",
+      "reason": "휘파람으로 모으는 목자의 모습은 흩어진 데서 돌아옴을 비추지만 번성의 약속만으로 현재 모임의 수용을 알 수 없다.",
+      "contextNote": "구속한 백성을 다시 모아 번성하게 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H035",
+          "clue": "소속의 가능성을 스스로 닫기 전 다시 모이는 이미지를 볼 수 있다.",
+          "friction": "입력의 소외 여부는 미확인이며 주변인이 나를 이미 불렀다는 조건을 만들 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:10:9",
+      "textSha256": "a79f6801d9463ddd551f918f1d6a84d2b57c98c237ff3e11b4c677f61c710ab1",
+      "status": "hold",
+      "reason": "먼 땅에 있어도 기억하며 자녀와 돌아오는 모습은 변경된 환경과 지속을 비추지만 가족 생존의 국가적 회복 선언이다.",
+      "contextNote": "흩어진 백성이 하나님을 기억하고 귀환한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H062",
+          "clue": "예상한 장소를 벗어났다고 중요하게 여긴 것까지 모두 사라지는지 돌아볼 수 있다.",
+          "friction": "원방의 생존과 귀환 약속이지 바뀐 계획이 성공한다는 현실 정보는 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:10:10",
+      "textSha256": "f16abfa2dfaba64204235c96f139a5e40ec1b328847270c2955ccd62f344dcdc",
+      "status": "exclude",
+      "reason": "애굽과 앗수르에서 길르앗과 레바논으로 모이는 풍부한 귀환은 지리 맥락이 필요하고 거처 선택의 정보가 아니다.",
+      "contextNote": "백성을 넓게 모아도 공간이 부족할 회복이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:10:11",
+      "textSha256": "2d6f33071ad116441ce1919ac831c369aa3eb237cd5e861748ba6b89eff72965",
+      "status": "exclude",
+      "reason": "고해와 나일의 마름 및 앗수르·애굽 권세의 몰락은 출애굽과 국가 심판의 풀이가 필요하다.",
+      "contextNote": "귀환을 막는 지리와 제국을 넘어선다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:10:12",
+      "textSha256": "7ada1a4b60ba7ecdc888f75f7abc49181fb9f6c54740a00e2effea1b635bc00c",
+      "status": "hold",
+      "reason": "의지하여 힘을 얻고 걸어가는 모습은 새 걸음의 여지가 있으나 구체 역할보다 신앙 동행의 선언이 중심이다.",
+      "contextNote": "하나님 이름을 받드는 백성의 회복이다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "처음부터 혼자 강해야만 시작할 수 있다는 부담을 다시 볼 수 있다.",
+          "friction": "특정 백성의 힘과 왕래에 대한 약속이며 지원의 성공이나 필요한 준비를 대신 판단하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:11:1",
+      "textSha256": "22c53a128ab4247bd8361712ce6f3b53db9e48a9caad024e0609a0434b56ac90",
+      "status": "exclude",
+      "reason": "레바논의 문을 열어 백향목을 불태우는 명령은 심판의 비유로 일을 포기하거나 물건을 버릴 근거가 아니다.",
+      "contextNote": "숲의 파괴로 새 심판을 시작한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:11:2",
+      "textSha256": "2a5a0f7f93f10379644f1d766c78bd75b25e657bbfb14aabff760e5f78fd2548",
+      "status": "exclude",
+      "reason": "잣나무와 상수리의 곡은 지도력과 땅의 멸망 비유여서 나무들의 배경을 알아야 한다.",
+      "contextNote": "아름답고 강한 것들의 붕괴를 애도한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:11:3",
+      "textSha256": "700921618bb024d5c763705f023b8e79298c56e7dd0d07c85f363604d49e52d2",
+      "status": "exclude",
+      "reason": "목자와 사자의 영화가 없어지는 울음은 지도층과 요단 숲 비유의 해석이 필요하다.",
+      "contextNote": "앞의 파괴를 목자와 사자의 슬픔으로 잇는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:11:4",
+      "textSha256": "4361c6c3d7106c3e7b41f6da3c6b2ccb1eba88dd2f51beb08e5c0d8cc7d65659",
+      "status": "hold",
+      "reason": "잡힐 운명의 양도 먹이는 요청은 약한 자를 돌볼 가치를 비추지만 목자 상징 행동의 목적을 알아야 한다.",
+      "contextNote": "예언자에게 학대받는 양떼를 먹이게 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C005",
+          "clue": "성과를 내기 어려워 보이는 구성원에게도 지금 필요한 돌봄이 있는지 생각할 수 있다.",
+          "friction": "예언자의 상징적 목양이며 신입이 도살될 양과 같은 운명이라는 뜻은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:11:5",
+      "textSha256": "e740902222d4ae2d20ecc42e337b8d2bff7561dfb1e241a7cf72a071e7c3f462",
+      "status": "hold",
+      "reason": "사고판 이의 이익과 찬송 뒤 양을 불쌍히 여기지 않는 대조는 성과를 얻는 과정의 돌봄을 비추나 양의 도살 맥락이 무겁다.",
+      "contextNote": "양떼를 이용하는 소유자와 목자의 잔혹함이다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C005",
+          "clue": "운영의 이득과 만족이 남아도 사람의 어려움은 외면되고 있는지 돌아볼 수 있다.",
+          "friction": "동아리 행사 성과를 도살·매매와 동일시할 수 없고 하나님 찬송의 위선이 문맥의 큰 부분이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:11:6",
+      "textSha256": "c9f92a6524835756bd91b5f95fd52a45115830f1e151e8e3514b661d9a8d34c4",
+      "status": "exclude",
+      "reason": "백성을 이웃과 왕에게 넘기고 구하지 않는 심판은 부탁할 이의 거절이나 적의를 새로 단정하게 할 수 있다.",
+      "contextNote": "학대 사회에 대한 하나님의 보호 철회다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:11:7",
+      "textSha256": "1c1b92f010e4fdb2e4bdff9b79c999c56d63724220c26aec3359728738a8f2c9",
+      "status": "exclude",
+      "reason": "은총과 연락이라 이름 붙인 두 지팡이는 상징 행동 풀이가 필요하고 양 먹임의 뜻도 다음에서 드러난다.",
+      "contextNote": "예언자가 양떼를 먹이며 지팡이 두 개를 준비한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:11:8",
+      "textSha256": "e0760848cf9e4d4b0948bdad207c6b592e278d1691dadb01ca5ce1692773c1cf",
+      "status": "exclude",
+      "reason": "한 달 안에 세 목자를 끊은 서로의 미움은 특정 지도력 교체로 실제 사람을 배제할 근거가 아니다.",
+      "contextNote": "목자 역할의 갈등과 단절이 나타난다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:11:9",
+      "textSha256": "fb44557c6022a21cfb14320fdaf22858b572c12da7b6604029256fc3b18bb039",
+      "status": "exclude",
+      "reason": "죽고 망하고 서로 살을 먹도록 둔다는 선언은 고유 심판의 상징으로 관계의 건강한 경계로 바꾸기 어렵다.",
+      "contextNote": "예언자의 목양 포기를 선언한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:11:10",
+      "textSha256": "bf42541fe7fbc97253767375a3aca0bd388480289d65adf28f99cbd5d2565a64",
+      "status": "exclude",
+      "reason": "은총 지팡이를 잘라 언약을 폐하는 행위는 상징의 뜻을 알아야 하며 이전 약속 파기의 허가가 아니다.",
+      "contextNote": "백성과의 언약 단절을 표현한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:11:11",
+      "textSha256": "b3fdef7fb3ba9835e962a1943fb754b49ef577d2d51f38b48b6624662914dd85",
+      "status": "exclude",
+      "reason": "언약 폐함을 가련한 양들이 알아본 장면은 앞의 지팡이 상징이 없으면 뜻이 서지 않는다.",
+      "contextNote": "지팡이 단절이 하나님의 말씀이었음이 드러난다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:11:12",
+      "textSha256": "855ec4ede90a30f06c81a143a7c0f79013920f814cc250ddfdb29a6186bc7070",
+      "status": "hold",
+      "reason": "원하면 품삯을 주고 아니면 말라는 태도는 거래의 여지를 보여도 고가의 옛 뜻과 은 삼십의 상징을 알아야 한다.",
+      "contextNote": "목양의 가치를 은 삼십으로 평가받는 상징 행동이다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H025",
+          "clue": "상대 가격을 억지로 바꾸려 하지 않고 거래할지의 여지를 남길 수 있는지 생각할 수 있다.",
+          "friction": "목자에 대한 모욕적 평가의 상징이고 일반 물건 가격의 최저선이나 적정 가치를 정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:11:13",
+      "textSha256": "29cbc779b42055b3908eec0f3c84f60e314002b33269e8e090f06ca6d44740ea",
+      "status": "exclude",
+      "reason": "은 삼십을 성전의 토기장이에게 던지는 행동은 가격과 예표의 풀이 없이 생활 판매에 적용되지 않는다.",
+      "contextNote": "낮게 매긴 품삯을 되돌려 보내는 상징이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:11:14",
+      "textSha256": "56a3810ab9d2ea1ec17ecd908177ddb176d735eacbd1aa8166b3715a0de74944",
+      "status": "exclude",
+      "reason": "연락 지팡이를 잘라 두 나라 형제의 의를 끊는 일은 국가적 분열 표징으로 개인의 경계 결론을 대신할 수 없다.",
+      "contextNote": "두 번째 지팡이로 공동체 관계의 단절을 표현한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:11:15",
+      "textSha256": "bea8c10f08692759642f709dc602294d71a5a3e989465e7fd0c95410e5adc2e6",
+      "status": "exclude",
+      "reason": "우매한 목자 기구를 취하라는 지시는 상징 행동 도입이라 일상 도구나 역할 선택 내용이 없다.",
+      "contextNote": "새로운 악한 목자 표징을 준비한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:11:16",
+      "textSha256": "f9d2392829f2a23e4ca6ca9b1d0759ee4e2c7d0b3dedc2a7707b0b1aff7693da",
+      "status": "candidate",
+      "reason": "잃은 자를 찾지도 상한 자를 돌보지도 않는 목자는 운영의 외형에 비해 구성원을 놓친 태도를 구체적으로 비춘다.",
+      "contextNote": "보호가 사라진 공동체에 돌봄 없는 악한 목자가 설 심판을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C005",
+          "clue": "운영자에게 필요한 일이 흩어진 사람을 찾고 힘든 사람을 돌보는 것임을 그 부재의 모습에서 읽을 수 있다.",
+          "friction": "끝에는 살을 먹고 굽을 찢는 잔혹한 착취가 있다. 행사 지표를 중시한 사람을 같은 가해자로 판정하지 않고 버려진 돌봄의 항목을 개인적으로 비춰 읽는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:11:17",
+      "textSha256": "d45e5faaf5aa19f20373d55f38365ad599b971e516806d96b0e5b2cbe2d37a84",
+      "status": "exclude",
+      "reason": "양을 버린 목자의 팔과 눈을 칼로 치는 벌은 지도 책임의 심판이며 정상적 휴식이나 역할 조정을 같은 죄로 정할 수 없다.",
+      "contextNote": "못된 목자에 대한 화를 선언한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:12:1",
+      "textSha256": "fb3f4e094789b4662337c32d1fb5863b6169f028d7368cfbdc48057249ec3bca",
+      "status": "exclude",
+      "reason": "하늘과 땅과 심령의 창조주 소개 뒤 경고가 시작되는 절로 실제 선택 내용은 아직 없다.",
+      "contextNote": "예루살렘 심판과 회복의 새 경고를 연다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:12:2",
+      "textSha256": "95bfdb8b4eb9dbbf5efb4a6dc4e55c0df9fc36c399e64038babfd5b14756f4bf",
+      "status": "exclude",
+      "reason": "예루살렘이 취하게 하는 잔이 된다는 비유는 포위와 국가 심판의 의미 풀이가 필요하다.",
+      "contextNote": "예루살렘을 공격하는 나라가 당할 혼란이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:12:3",
+      "textSha256": "368793214130680592da7db26f8c6d1a83ac06a83abf586c08251b841d07a90b",
+      "status": "exclude",
+      "reason": "들면 다치는 돌로 둘러싼 만국을 해치는 예언은 개인 경계를 침해한 상대가 벌받을 보장이 아니다.",
+      "contextNote": "예루살렘이 공격자에게 무거운 돌이 된다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:12:4",
+      "textSha256": "5430fa69a566f359390323607c9730d101a9fc1aff6cff3fcae770bf07e08514",
+      "status": "exclude",
+      "reason": "말과 기수가 놀라고 미치며 눈이 머는 전쟁 재앙은 현재 불안이나 건강의 뜻을 정하는 본문이 아니다.",
+      "contextNote": "하나님이 유다를 돌보며 적의 군대를 치신다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:12:5",
+      "textSha256": "f3074fd12d66e9cecdd58a68cc6298738e4e01cc817bd56e89ab950b3862de39",
+      "status": "hold",
+      "reason": "거민의 힘의 출처를 알아보는 지도자는 사람을 다시 볼 여지가 있지만 구체 일의 갈등보다 신앙의 선언이 중심이다.",
+      "contextNote": "유다 지도자들이 예루살렘의 힘을 하나님에게서 본다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C005",
+          "clue": "운영의 힘이 지도자 자신만 아니라 거민에게도 있는지 돌아볼 수 있다.",
+          "friction": "예루살렘 거민이 하나님께 받은 군사적 힘에 관한 고백이고 신입 돌봄의 구체 선택은 직접 나오지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:12:6",
+      "textSha256": "b6035dddb0316218dc4e75c15a617612703f9ae7a8d1b0db8d42fab36f66bd90",
+      "status": "exclude",
+      "reason": "화로와 횃불처럼 주변 민족을 태우는 지도자는 전쟁 심판의 비유라 개인의 리더십 모델로 옮기기 어렵다.",
+      "contextNote": "유다가 침략 세력을 이기고 본거지에 거한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:12:7",
+      "textSha256": "f1a9541fbccd4b03f759d1abe424d92e7fa488c938de8d3c09ceb3d0b57b07dc",
+      "status": "hold",
+      "reason": "한 집단의 영광만 더 커지지 않도록 먼저 다른 장막을 구하는 방식은 공정한 돌봄을 비추지만 국가 집단의 맥락이 필요하다.",
+      "contextNote": "다윗 집과 성읍이 유다보다 과시하지 않도록 구원한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C005",
+          "clue": "눈에 띄는 성과 집단만 앞세우지 않고 덜 드러나는 구성원을 먼저 볼 수 있는지 생각할 수 있다.",
+          "friction": "유다와 예루살렘 및 왕가의 구원 순서다. 신입과 기존 부원을 같은 대립 집단으로 만들거나 배분을 정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:12:8",
+      "textSha256": "670d7414457cf220faee16e1b30cd6f5390c45608079117ab98ca310a287ff82",
+      "status": "hold",
+      "reason": "약한 이도 다윗 같은 힘을 얻는 반전은 첫 역할의 두려움을 비추지만 왕가가 하나님 같다는 전체 비교는 과장과 역사 이해가 필요하다.",
+      "contextNote": "예루살렘의 보호와 힘을 극적으로 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "현재 약함만이 앞으로 할 수 있는 몫의 전부인지 돌아볼 수 있다.",
+          "friction": "전쟁의 보호 약속이며 다윗과 천사 같은 왕가의 비유까지 있다. 지원의 성공이나 능력 향상을 보장하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:12:9",
+      "textSha256": "0688a6070f5bdfa5b326f09f69bb8a2047c11110fc33ab91b7d9d27b17e42ff7",
+      "status": "exclude",
+      "reason": "공격해 오는 열국을 멸하려 힘쓰는 선언은 실제 동료를 적으로 정해 상대를 없애는 근거가 아니다.",
+      "contextNote": "예루살렘의 침략자를 심판한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:12:10",
+      "textSha256": "b4f8e33894589fd161f6530c25d058d93018e8914f06d7e434179fd547360c26",
+      "status": "hold",
+      "reason": "자신들이 찌른 이를 보고 애통하는 모습은 실제 잘못을 직면하는 여지를 주나 은총의 심령과 외아들 애도의 예표가 복합적이다.",
+      "contextNote": "백성이 찌른 이를 향해 깊이 애통할 것을 말한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H027",
+          "clue": "내가 행한 상처를 보는 일 자체가 관계 회복의 태도인지 생각할 수 있다.",
+          "friction": "특정한 찔림과 온 공동체의 애통이며 일상의 잘못을 외아들 죽음의 강도로 확대하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:12:11",
+      "textSha256": "91311d4e0b5a5121d05d5e7114f91bb189899fd7f7ae2505bf3a228b8415e8e3",
+      "status": "exclude",
+      "reason": "므깃도와 하다드림몬의 애통 비교는 과거 사건과 지리를 알아야 정도가 읽힌다.",
+      "contextNote": "다가올 예루살렘 애통의 크기를 말한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:12:12",
+      "textSha256": "7bc335894f478f86d228e3cbc1507ee41d7d4c764c37cac969e34ddad002f6a0",
+      "status": "exclude",
+      "reason": "다윗과 나단 집 및 아내들의 분리된 애도는 집단 나열로 개인의 선택 방향을 주지 않는다.",
+      "contextNote": "각 가문이 애도할 모습을 열거한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:12:13",
+      "textSha256": "de7abe3ac837409472c5b5c0c7109a4e43fb0c6c9ce4dc231046e43083ad9a7a",
+      "status": "exclude",
+      "reason": "레위와 시므이의 가문과 아내가 따로 애도하는 목록은 고유 집단과 앞 사건이 필요하다.",
+      "contextNote": "애도의 가문 나열을 이어 간다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:12:14",
+      "textSha256": "835e8ba91970da724d2f1e5e3d17806f5a6b372ba4286f4ccac206d19a96fcc8",
+      "status": "exclude",
+      "reason": "남은 가문과 아내들도 따로 애도한다는 끝맺음은 왜 슬퍼하는지 앞 사건이 있어야 읽힌다.",
+      "contextNote": "전 공동체가 참여한 애도를 마친다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:13:1",
+      "textSha256": "dea66f9774f4884f07cc13bc088248a5ee45311c451973a28c83bee7269a26ea",
+      "status": "candidate",
+      "reason": "죄와 더러움을 씻는 샘이 열린다는 그림은 이미 고친 과거를 계속 내 모습으로만 붙잡은 자책에 다시 깨끗이 설 여지를 준다.",
+      "contextNote": "다윗 집과 예루살렘을 정결하게 할 회복의 샘을 약속한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "잘못의 흔적을 영원히 지녀야만 책임 있는 태도인지, 씻고 새로 서는 길도 있는지 읽을 수 있다.",
+          "friction": "하나님의 공동체 정결 약속이다. 해결하지 않은 피해와 필요한 사과를 덮거나 실제 업무 책임을 면제하는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:13:2",
+      "textSha256": "448ef4e1e4a94bdf349cc3984b5905a27dca9a8ca0e7785a8f1bb36fb8679e82",
+      "status": "exclude",
+      "reason": "우상 이름과 거짓 선지자 및 사귀를 땅에서 내보내는 선언은 제의 정결 맥락이 강해 의견 차이를 같은 악으로 정할 수 없다.",
+      "contextNote": "회복 때 거짓 예언과 부정한 숭배가 사라진다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:13:3",
+      "textSha256": "5b4f8e9d2688117b27db12b98f016b3536dd82a3cb9d6a8746ce69abdf8fdff9",
+      "status": "exclude",
+      "reason": "거짓 예언하는 자식을 부모가 찌르는 장면은 진실성의 경고이지만 가정의 폭력을 행동 결론으로 옮길 수 없다.",
+      "contextNote": "거짓 예언의 철저한 배제를 극단적으로 표현한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:13:4",
+      "textSha256": "1d6a885ff8e0767acc5966d88e37a0c24a2faffad41db27068ee75633d7b0b3b",
+      "status": "hold",
+      "reason": "사람을 속이려 입던 털옷을 벗는 모습은 권위의 포장을 비추나 예언 복장의 뜻을 알아야 맥락이 선다.",
+      "contextNote": "거짓 선지자가 자기 이상과 외형을 부끄러워한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C001",
+          "clue": "설득하려고 신앙적 권위의 옷을 입히는 대신 자기 말의 실제 근거를 드러내는지 돌아볼 수 있다.",
+          "friction": "가짜 예언자가 쓰던 실제 표식이며 모든 종교적 표현이나 옷을 사기라고 정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:13:5",
+      "textSha256": "141a3df3918cc3aea48201402c5a5c9ca98d483f0943fb7db6bda6b1f72eac6a",
+      "status": "hold",
+      "reason": "선지자가 아니라 농부라는 말은 자기 역할의 한계를 비추지만 앞의 거짓 예언자가 숨는 말인지까지 문맥 검토가 필요하다.",
+      "contextNote": "예언자 지위를 부인하는 말을 인용한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C001",
+          "clue": "내가 받은 말씀이 아니라 내 역할과 판단이라는 점을 솔직히 구별할 여지가 있다.",
+          "friction": "거짓 예언 뒤의 자기 부인 장면으로 단순 정직의 모범이라 확정할 수 없고 종이었던 신분까지 포함된다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:13:6",
+      "textSha256": "d47ce237c27e8b07f4f5d9ef9ca0fd1c2a10eab08a90a63e6425c632ee7b7ffe",
+      "status": "exclude",
+      "reason": "상처를 친구 집에서 받았다는 답은 거짓 선지자 문답의 일부여서 친구가 상처 줘도 받아들이라는 교훈으로 쓸 수 없다.",
+      "contextNote": "정체를 묻는 상처 질문과 답을 인용한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:13:7",
+      "textSha256": "f82d3f251c5502c35c5150a63fb58b7e1b4f600fb4ad44a19ab56c4e692521c2",
+      "status": "exclude",
+      "reason": "목자를 치고 작은 자에게 손을 드는 칼의 명령은 특정 목자와 공동체의 예표라 실제 지도자를 공격하거나 떠날 근거가 아니다.",
+      "contextNote": "목자 죽음과 양떼 흩어짐을 예고한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:13:8",
+      "textSha256": "058750f8083be090ba6193143952df83e91baf4d62c32c2ed81ed11eb3c5626a",
+      "status": "exclude",
+      "reason": "삼분의 이가 죽고 일부가 남는 수치는 국가 심판의 분량이며 개인 성공 가능성의 정보가 아니다.",
+      "contextNote": "남길 백성과 멸할 백성을 구분한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:13:9",
+      "textSha256": "1290eeddb28b5c7b1a55aa9c6d6cb19a8803f83d12d9e9925cee19c9a150323c",
+      "status": "hold",
+      "reason": "불에서 연단한 뒤 서로 관계를 확인하는 그림은 실패 이후 배움을 비추지만 필요한 고난을 더 받아야 한다는 결론으로 쓰면 안 된다.",
+      "contextNote": "남은 백성의 정련과 하나님 관계 회복이다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "잘못을 지나온 시간이 무가치한 낙인만 남기는지 배운 점도 있는지 생각할 수 있다.",
+          "friction": "하나님이 심판을 거쳐 남은 자를 정결케 하시는 말이다. 자책과 추가 처벌을 스스로 가하는 근거가 아니고 이미 고친 책임의 조건을 보존한다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:14:1",
+      "textSha256": "34f7eb37ed96f1156d2006501a7feb3217e2ed3c8daf23cc58d9599eae208f90",
+      "status": "exclude",
+      "reason": "재물이 약탈돼 나뉠 날은 국가 전쟁의 예고로 거래 가격과 판매 시점을 정하는 실마리가 아니다.",
+      "contextNote": "여호와의 날과 예루살렘의 약탈을 시작한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:14:2",
+      "textSha256": "c152c3641cc607bf18dca48b0d32f44a06a51bc1450973caef14d12aaf735e9f",
+      "status": "exclude",
+      "reason": "성 함락과 성폭력 및 포로행은 참혹한 전쟁으로 현재 생활의 작은 갈등을 비추기에는 재앙이 압도한다.",
+      "contextNote": "열국의 예루살렘 침공을 말한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:14:3",
+      "textSha256": "4340bbe61033d21218c34005d198a595fc151f6d077fe00c362860a24e043daf",
+      "status": "exclude",
+      "reason": "하나님이 나가 나라와 싸우는 고유 전투는 개인의 분쟁 상대가 심판받는다는 보장이 아니다.",
+      "contextNote": "침략에 대한 하나님의 개입이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:14:4",
+      "textSha256": "4b186b5109cbc89b824a7d83dea1bfcb0e3687e55f951fcd29e67a312fd0b457",
+      "status": "exclude",
+      "reason": "감람산이 동서로 갈라져 남북으로 옮기는 상세 지형은 종말 환상의 풀이가 필요하다.",
+      "contextNote": "하나님의 발이 서는 날 지형이 바뀐다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:14:5",
+      "textSha256": "81b25074577fa31434a8929506c74a601fd35dc55873e7ce1b1f8ebafe691ee8",
+      "status": "exclude",
+      "reason": "아셀과 웃시야 때 지진에 비긴 피난은 역사·지리 설명과 종말 강림의 주체가 필요하다.",
+      "contextNote": "갈라진 골짜기가 피난길이 된다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:14:6",
+      "textSha256": "f6a702d3a1df4adca5df526f6d9141c2b5aaa323c29a66774dfd94a4686e7757",
+      "status": "exclude",
+      "reason": "빛과 광명한 자의 부재는 그 날의 우주 변화를 뜻하며 현재 기분이나 미래의 불길함을 예고하지 않는다.",
+      "contextNote": "여호와의 날의 빛 변화를 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:14:7",
+      "textSha256": "4f7f3a33e7637d8a1728ffb9b34f45071f7bd9ddfa8d4903821ec29a42228830",
+      "status": "hold",
+      "reason": "어두워질 때 빛이 있다는 반전은 늦었다는 시선을 넓히지만 낮도 밤도 아닌 한 날은 종말 표현을 알아야 한다.",
+      "contextNote": "하나님만 아시는 날의 특별한 빛이다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H060",
+          "clue": "끝나고 어두워졌다고만 본 시간에 다른 가능성을 읽을 여지는 있다.",
+          "friction": "개인 기회가 다시 나타난다는 예측이 아니며 한 날의 시간 구분이 특이해 전체 절을 풀이 없이 받기는 불확실하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:14:8",
+      "textSha256": "120daadb13e5f4c4cd509f043faec3bf06b9bc27ffc81d81f3b49d2055c80d01",
+      "status": "hold",
+      "reason": "여름과 겨울 모두 흐르는 생수는 꾸준한 공급의 이미지지만 두 바다와 예루살렘의 환상은 실제 조건을 대신하지 않는다.",
+      "contextNote": "회복된 성에서 생명의 물이 흘러간다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H057",
+          "clue": "어느 한 번의 특별한 시점만이 아니라 이어지는 흐름의 가치를 생각할 수 있다.",
+          "friction": "운동 습관의 방법이 아니라 회복의 생수 예언이며 꾸준함이나 건강 효과를 보장하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:14:9",
+      "textSha256": "d2912535e3177fe6a42fc536a04ae5e78cf8e96267a1b00f91e2b0fc829d06f9",
+      "status": "exclude",
+      "reason": "홀로 한 왕과 한 이름이 되는 통치는 신앙의 선언으로 개인 대안의 어느 부담을 비출지는 알 수 없다.",
+      "contextNote": "온 땅의 왕이신 하나님을 선포한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:14:10",
+      "textSha256": "6381949ac91bdcb0100cc046219d96f4ebdbd901ff128f639aa386616738f34d",
+      "status": "exclude",
+      "reason": "게바와 림몬 및 여러 문과 망대 경계는 지리 목록이라 풀이 없이 생활 선택에 연결되기 어렵다.",
+      "contextNote": "변화될 예루살렘 지형과 경계를 말한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:14:11",
+      "textSha256": "3ce448c4ef3476580319f81f5235beb2a51c1b9a42451add921b6725ccc48f96",
+      "status": "hold",
+      "reason": "저주 없이 안전히 머무는 회복은 자책에 다른 그림을 주나 개인의 행할 일보다 안정의 위로가 중심이다.",
+      "contextNote": "회복된 예루살렘의 거주를 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "계속 벌받는 곳에 서야 한다는 생각 외에 안연히 서는 삶을 읽을 수 있다.",
+          "friction": "도시의 회복 약속이며 현재 모든 위험과 책임이 사라졌다는 뜻은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:14:12",
+      "textSha256": "969c9316d16705cbbfb523809f652dd9de3ced0690bfd71ef1f9f4b712d0578e",
+      "status": "exclude",
+      "reason": "살과 눈과 혀가 썩는 재앙은 침략자 심판으로 치료나 대화의 선택에 옮기기에는 폭력이 압도한다.",
+      "contextNote": "예루살렘을 친 나라의 육체적 심판이다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:14:13",
+      "textSha256": "dbada911b0b3dbc5c093c24f883c589ae00062d7037a871d14781367f5737e44",
+      "status": "exclude",
+      "reason": "서로 붙잡고 쳐 혼란해지는 심판은 실제 갈등의 양쪽이 같은 적대자라는 근거가 아니다.",
+      "contextNote": "침략국 내부의 혼란을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:14:14",
+      "textSha256": "8350b33d65fb3b2b085d2041843459d0f60ef4e0280436953448e7c49f0c124c",
+      "status": "exclude",
+      "reason": "전투로 금은과 의복이 모이는 전리품은 평범한 물건 구매나 판매 이익의 근거가 아니다.",
+      "contextNote": "전쟁에서 얻은 재물을 묘사한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:14:15",
+      "textSha256": "1eea4772da8f00f73c5518692e79be6a7d142532dc125f96a8217aea91dd4b3c",
+      "status": "exclude",
+      "reason": "가축에도 같은 재앙이 미친다는 말은 앞의 썩는 심판을 알아야 읽히며 건강 결과를 알려 주지 않는다.",
+      "contextNote": "침략군의 동물에도 심판이 미친다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:14:16",
+      "textSha256": "77c74c48bb6d4846e05fb39e2aef54a950672787b0cb4e15ee21d8eff6e41ed9",
+      "status": "exclude",
+      "reason": "공격했던 나라의 남은 이가 초막절을 지키는 예배 회복은 절기의 뜻과 국가 변화 풀이가 필요하다.",
+      "contextNote": "열국이 하나님께 예배하게 된다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:14:17",
+      "textSha256": "a7f29159da7857020dfdfdba4466e386f62e4d8aeab857ed3e0522730ee03768",
+      "status": "exclude",
+      "reason": "예루살렘 예배에 안 오면 비가 없다는 고유 조건을 봉사나 모임 불참의 벌로 옮길 수 없다.",
+      "contextNote": "열국의 예배와 비의 심판 조건이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:14:18",
+      "textSha256": "34198791ec5200acd791e901e442a5844066f204b7307d513ce9b2c78f93019f",
+      "status": "exclude",
+      "reason": "애굽의 창일함과 초막절 불참 재앙은 나일과 절기 관계 설명이 필요하다.",
+      "contextNote": "애굽에도 같은 예배 책임이 있음을 말한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:14:19",
+      "textSha256": "1d657c683bc039f67671a23c655751cfe102672aa9cc2b02d28a641d6744e3d6",
+      "status": "exclude",
+      "reason": "초막절 불참의 벌을 요약한 말은 피로로 약속한 모임을 조정하는 고민에 같은 벌을 부과하지 않는다.",
+      "contextNote": "앞의 제의적 심판 규정을 마친다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEC:14:20",
+      "textSha256": "9256b7599414d0a467e9c6cc8cdfcb2c94493bf25b3596afab9070eec7196dbc",
+      "status": "hold",
+      "reason": "말방울과 보통 솥도 성결한 주발이 되는 그림은 평범한 일의 가치를 비추나 성결과 제의 기구의 뜻을 풀어야 한다.",
+      "contextNote": "모든 생활 영역에 성결이 퍼짐을 표현한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "C004",
+          "clue": "사소한 공용 도구와 정리도 귀하게 여길 일인지 생각할 수 있다.",
+          "friction": "정결한 예배 도구로 변화하는 종말의 약속이다. 도구가 거룩하니 특정 청소를 신이 명령한다는 설명은 아니며 전체 상징의 난도가 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEC:14:21",
+      "textSha256": "28db6ede64ed0eba84fd299c7a9742c957af0e8ed41bc60ee0a02fb2bc07d59c",
+      "status": "exclude",
+      "reason": "모든 솥이 제물이 되고 가나안인이 성전에 없다는 결말은 제의와 민족·상업 용어 풀이가 필요하며 특정 사람 배제의 근거가 아니다.",
+      "contextNote": "완전한 성결과 성전 정결로 스가랴를 마친다.",
+      "readability": "needs_explanation",
+      "connections": []
+    }
+  ]
+}

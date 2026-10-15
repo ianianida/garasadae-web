@@ -1,0 +1,1883 @@
+{
+  "bookCode": "EST",
+  "corpusSha256": "f8d5c8b377e243b05fb884b4a6965d2c06a95de74b64a716ee4b95989d61e971",
+  "criteriaVersion": "garasadae-corpus-2026-10-08-v1",
+  "reviewer": "Codex review_1ch_lam",
+  "method": "direct-codex-reading",
+  "entries": [
+    {
+      "id": "KRV:EST:1:1",
+      "textSha256": "6bd782a0ed627f1eec5b90438c3cbd48ea8575c975554a3083caba4d1d340b7b",
+      "status": "exclude",
+      "reason": "왕의 이름과 127도 통치 범위 소개만 있어 현재 선택 행동은 없다.",
+      "contextNote": "아하수에로 시대와 제국 범위 도입.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:1:2",
+      "textSha256": "8b44957bbfb8f29979f3d29b2741d07b8fe26e4fd624168faada440ae870db5c",
+      "status": "exclude",
+      "reason": "수산궁에서 즉위했다는 미완결 시점 정보만으로 생활 실마리를 읽기 어렵다.",
+      "contextNote": "왕 잔치 이야기의 장소·시기 도입.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:1:3",
+      "textSha256": "6fe0404ad3feff252fbdb0bd22451aa250234e1cda40483561f298e34ecb0672",
+      "status": "exclude",
+      "reason": "왕 삼년 잔치의 여러 참석 계층을 열거한 서술은 즐길지의 고민에서 이유를 제공하지 않는다.",
+      "contextNote": "제국 지도층을 초청한 잔치.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:1:4",
+      "textSha256": "d9a56989f83fcbbc2ae3282c544056c34ac2740e624daa98f05f26d47d7c1016",
+      "status": "hold",
+      "reason": "180일 부와 위엄을 과시한 모습은 겉으로 보이는 평가 집착을 비추지만 일반 구매·공개 고민과 연결은 약하다.",
+      "contextNote": "왕이 잔치로 제국의 부를 과시한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "내가 실제 갖춘 것과 보여주려는 위엄을 돌아본다.",
+          "friction": "장기간 왕의 부 과시이고 과장 보고의 선택을 직접 말하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:1:5",
+      "textSha256": "ae61af38ee3554144a69037062d445772baf095020acbe03bd5e47ef94b8736c",
+      "status": "hold",
+      "reason": "높고 낮은 시민을 함께 초청한 모습은 공평한 행사에 통하지만 왕의 칠일 잔치 규모·장소가 먼저다.",
+      "contextNote": "수산 시민을 위한 추가 잔치.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B003",
+          "clue": "높고 낮은 시민 모두를 함께 초청한다.",
+          "friction": "동일 몫을 말하지 않고 궁궐과 칠일 잔치가 앞선다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:1:6",
+      "textSha256": "e158eaf884089781be68926bb4aa0ac632b55a7f03553d7abf99e396021d68c1",
+      "status": "exclude",
+      "reason": "천·기둥·걸상·돌 바닥의 호화 장식 목록만 있어 소비의 필요와 여력을 판단할 단서는 없다.",
+      "contextNote": "왕궁 잔치 공간의 장식 묘사.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:1:7",
+      "textSha256": "22ff11c38a0cb3145e643a9ee821b50517d3c2b4d41d4f4fdad5ce1343ae496c",
+      "status": "exclude",
+      "reason": "각기 다른 금잔과 무한한 술의 풍요는 소비를 할지 충분한지 고를 기준을 말하지 않는다.",
+      "contextNote": "왕의 풍부한 잔치 음료 제공.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:1:8",
+      "textSha256": "7ebbe50e78ef82f10fe11c6fed47069d7532bc1a6813b6d613c50e6e9b8bdf51",
+      "status": "candidate",
+      "reason": "강요하지 않고 각 사람 마음대로 마시게 한 모습은 분위기 때문에 원치 않는 음주를 할지의 부담에 바로 통한다.",
+      "contextNote": "왕이 잔치 음주를 자발적으로 하게 정한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B010",
+          "clue": "술 마심을 억지로 시키지 않고 각자가 원함에 맡긴다는 분명한 장면.",
+          "friction": "규모는 규정이라는 옛말이고 본래 왕의 잔치다. 현재 친구들이 받아줄지나 음주의 효과는 말하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:1:9",
+      "textSha256": "38c3c9d8c5fc4b731c00909adf9f2836f69d21701058f699851a63969f600899",
+      "status": "exclude",
+      "reason": "와스디가 부녀 잔치를 연 사실만 있어 지금 참여하거나 쉴 이유를 제공하지 않는다.",
+      "contextNote": "왕후도 따로 잔치를 베푼다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:1:10",
+      "textSha256": "64ec7a33e4d088c788194babcf850ec5e314e63411aa1fd98b3475da8b39ec39",
+      "status": "exclude",
+      "reason": "주흥이 오른 왕과 일곱 내시 이름의 명령 도입이라 판단 내용은 다음에 있다.",
+      "contextNote": "와스디 소환의 서두.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:1:11",
+      "textSha256": "535f7ad53665446261934dec74e8cdbec8a86343210f551dbae941ae93bf1688",
+      "status": "exclude",
+      "reason": "왕후의 아름다움을 사람들에게 보여주라는 명령은 외모 평가의 맥락이며 자기 공개 선택과 조건이 다르다.",
+      "contextNote": "왕이 와스디를 장식하여 나오게 명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:1:12",
+      "textSha256": "527f668c59e4b57f537d51a63edbced7c824ef63630f40c38684681da8b74703",
+      "status": "hold",
+      "reason": "거절당해 마음이 불붙는 분노는 감정 메시지를 비추지만 절 자체에 멈추거나 되돌아볼 선택이 없다.",
+      "contextNote": "와스디 거절에 왕이 격노한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "거절을 당한 뒤 불붙는 마음을 자기 감정에 비춰 본다.",
+          "friction": "아직 반응을 멈출 행동 단서가 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:1:13",
+      "textSha256": "33be138a5386676135d5546ea180c3de606e0b7de937ea2d3931eced65b66bb9",
+      "status": "hold",
+      "reason": "왕도 전문 지식 있는 이에게 묻는 실마리는 있으나 열린 괄호와 미완결 전례 설명이 다음 절에 걸친다.",
+      "contextNote": "법률 전문가들에게 처리를 묻는다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "왕도 전문 지식 있는 이에게 묻는 모습.",
+          "friction": "미완결 괄호이며 뒤 조언이 현명하다는 뜻은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:1:14",
+      "textSha256": "219c3b7deb3b7ac74629df9dfaef37e348f89385c3e070757a37be44933f06c6",
+      "status": "exclude",
+      "reason": "왕 측근의 조건과 일곱 방백 이름으로 괄호 설명을 마쳐 조언 내용은 아직 없다.",
+      "contextNote": "왕의 자문 방백 명단.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:1:15",
+      "textSha256": "01ef32afc8bc8876dd39159131001e0828c484a334dc7d3c02bc6bdfb259c953",
+      "status": "exclude",
+      "reason": "와스디를 규례대로 어떻게 처벌할지 묻는 질문은 현재 상대를 알아볼 대화보다 권력자의 징계 판단이다.",
+      "contextNote": "왕이 왕후의 명령 거부 처분을 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:1:16",
+      "textSha256": "4b3426d008b34669fd23996a1659452fc2d45536aed6c4d6923009112486642e",
+      "status": "hold",
+      "reason": "한 사람의 거절을 모든 백성의 피해로 키운 말을 보며 과잉 일반화를 돌아볼 수 있으나 조언자의 편향을 역으로 읽어야 한다.",
+      "contextNote": "므무간이 왕후 행위를 국가적 잘못으로 확대한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H028",
+          "clue": "한 사람의 거절을 모두의 피해로 크게 키운 말을 돌아본다.",
+          "friction": "조언자의 과장을 반대로 읽어야 하고 왕후의 잘못을 사실로 단정하면 안 된다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:1:17",
+      "textSha256": "5a40beb9eb290c627fa21586023ac5c9986d7a29d996159f8cf034b193d3246a",
+      "status": "exclude",
+      "reason": "모든 여자가 남편을 멸시할 것이라는 미확인 예측을 현대 관계의 결과로 읽을 수 없고 문장이 다음에 이어진다.",
+      "contextNote": "방백이 왕후의 영향에 대한 두려움을 주장한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:1:18",
+      "textSha256": "9719ce51042f6a2c5ae5e8d4e79585aacec2612dc44cb07973a5a8d58a5f3939",
+      "status": "exclude",
+      "reason": "왕후 소문으로 분노와 멸시가 퍼질 거라는 예측은 사실 확인된 상담 내용이 아니어서 현재 선택 근거가 될 수 없다.",
+      "contextNote": "므무간이 여성들의 반발을 예고한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:1:19",
+      "textSha256": "86c7532007a76323b1a8545a2d5bfa27614af177bdef750195c139abcabd4789",
+      "status": "exclude",
+      "reason": "왕후 지위를 빼앗아 더 나은 이에게 주라는 영구 조서의 요청은 반복 친구 침해와 무게·권한이 다르다.",
+      "contextNote": "와스디 폐위의 법제화를 제안한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:1:20",
+      "textSha256": "e35f523da8fcf23c6488d6c6131fbc386e490a8f2cfd99cd502da4241ca640ef",
+      "status": "exclude",
+      "reason": "조서만 내리면 모든 부녀가 존경하리라는 주장을 실제 관계 회복의 보장으로 읽어서는 안 된다.",
+      "contextNote": "방백이 조서의 효과를 확언한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:1:21",
+      "textSha256": "b5c6e562c6e6d593df7d83ab0222af866a4f3403546c0c44bf1a11b056c92c22",
+      "status": "exclude",
+      "reason": "왕과 방백이 좋게 여겨 시행했다는 미완결 승인만 있어 좋은 조언인지 직접 판단할 내용은 없다.",
+      "contextNote": "폐위 조언을 왕이 채택한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:1:22",
+      "textSha256": "ebcf273b5429fe24357113b8c59c3b36d794d2f6bf8ae899d0ca218e8ecfc1ac",
+      "status": "exclude",
+      "reason": "남편의 가정 지배와 언어를 명한 전국 조서는 현대 가족 의견 차이에 그대로 옮길 수 없는 권력 규정이다.",
+      "contextNote": "왕의 가정 통제 조서 공포.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:2:1",
+      "textSha256": "5e09c3b8afd745c2126422526803d9d97b27f08878d19833b795ac926eab1c95",
+      "status": "candidate",
+      "reason": "분노가 그친 뒤 자기 행동과 내려버린 결정을 다시 생각한 모습에서 지금 감정대로 보내기 전 멈출 실마리를 읽는다.",
+      "contextNote": "왕이 화가 가라앉자 와스디와 폐위 조서를 돌아본다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "화가 가라앉은 뒤 이미 한 결정과 상대 행동을 다시 생각하는 모습.",
+          "friction": "왕의 왕후 폐위 회고이며 친구에게 내린 판단과 무게가 다르다. 가라앉은 뒤 화해됐다고 말하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:2:2",
+      "textSha256": "b6a3a76c923bfda253b45b890f8c824937c248644738235c2f0886233c344d5b",
+      "status": "exclude",
+      "reason": "왕을 위해 아름다운 처녀를 찾자는 제안은 현재 연애 감정 고백이나 선택 갈등과 조건이 다르다.",
+      "contextNote": "새 왕후 선발 제안 시작.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:2:3",
+      "textSha256": "f569c3ad4eb35e5f154d3b011775fbcf61fe9acca5a9733c8015fc6ff54bb93d",
+      "status": "exclude",
+      "reason": "여성들을 후궁에 모아 신체를 관리하게 하는 특정 왕실 제도는 작품 준비·공개에 단어만으로 연결하기 어렵다.",
+      "contextNote": "전국 처녀 수집과 후궁 관리 제안.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:2:4",
+      "textSha256": "092e4fa42d365970f4631f9f61b08e70be19d2cfa53b0b1ab69bf9a322b05c29",
+      "status": "exclude",
+      "reason": "외모로 새 왕후를 뽑으라는 제안과 왕의 승인은 현재의 성과·인격 판단 기준으로 옮길 수 없다.",
+      "contextNote": "왕이 새 왕후 선발안을 시행한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:2:5",
+      "textSha256": "333d2e8cdb5a1c64ae0a0eb37867c4d2774ce4f10abfb84a5c27fd2e0ea5688c",
+      "status": "exclude",
+      "reason": "모르드개의 장소·민족·삼대 계보가 대부분이라 선택 행동이 없다.",
+      "contextNote": "모르드개의 신분 소개.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:2:6",
+      "textSha256": "ee6829caeef510c93d9228ea0a48040d474ba9c8135cff2bbb8e145ed1b6b027",
+      "status": "exclude",
+      "reason": "포로행의 왕과 이동 경위를 말하는 배경만 있어 현재 자발적 행선지 선택과 통하지 않는다.",
+      "contextNote": "모르드개 가문의 포로 배경.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:2:7",
+      "textSha256": "d98309c895aba87eb34b0a4a41975d14f3039fc056452bafaeb27090a3d8d7df",
+      "status": "hold",
+      "reason": "부모 잃은 이를 자기 딸처럼 돌본 실질 도움은 보이나 친족 계보·미모와 평생 양육이 작은 도움 고민보다 크다.",
+      "contextNote": "모르드개의 에스더 양육 소개.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "어려운 사람을 가족처럼 곁에서 돌본다.",
+          "friction": "친족의 평생 양육과 미모 설명이며 작은 도움의 범위와 다르다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:2:8",
+      "textSha256": "c3b4b85a1d186bd3db69d0c030c7dfe2d2e9a8ce543a679395cc04fab3ec6aca",
+      "status": "exclude",
+      "reason": "에스더가 이끌려 궁에 속하게 된 미완결 수용 과정은 자발적 도전의 선택과 다르다.",
+      "contextNote": "에스더가 왕후 선발 후궁에 들어간다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:2:9",
+      "textSha256": "ad3603eb2a1974c3b0a57e6f17a85c9c2f6818d596f7060909e98c2ececcbe1b",
+      "status": "hold",
+      "reason": "필요한 생활 물품과 거처를 주는 돌봄은 보이나 일곱 시녀와 특별한 처소를 준 큰 특혜의 배경이 있다.",
+      "contextNote": "헤개가 에스더를 좋게 보고 지원한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "필요한 일용품과 지낼 곳을 마련해 준다.",
+          "friction": "후궁 시녀 일곱과 특혜 처소라는 큰 규모이고 현재 내 자원이 확인된 것은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:2:10",
+      "textSha256": "accc8e6cccdbd769142bce14eb00c391ca51fca76f2cdd27855fa88fca3b6602",
+      "status": "hold",
+      "reason": "공개하지 말라는 요청을 지킨 모습은 비밀 보호에 통하지만 자기 민족의 숨김이며 친구 비밀 약속과 차이가 있다.",
+      "contextNote": "모르드개 당부대로 에스더가 정체를 숨긴다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H039",
+          "clue": "밝히지 말라는 당부를 듣고 함부로 말하지 않는 모습.",
+          "friction": "다른 친구 비밀이 아닌 자기 민족을 보호하려 숨긴 것이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:2:11",
+      "textSha256": "791a66881be1214d1aff476f9dc536420bee6af9b4b93ef1703d5ab7f28639d8",
+      "status": "candidate",
+      "reason": "매일 안부와 형편을 알아보려는 지속된 관심에서 큰 해결책이 없더라도 작은 돌봄을 건넬 실마리를 읽는다.",
+      "contextNote": "모르드개가 후궁 앞에서 에스더 소식을 살핀다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "큰 해결책 대신 날마다 안부와 형편에 관심을 두는 돌봄.",
+          "friction": "본래 양육하던 가족 에스더의 궁중 안부이고 현재 친구의 답이나 결과를 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:2:12",
+      "textSha256": "1fcc464dc34284cbbc2ed263bdac7fd44c3a60ae143799429ff1bb2dde2c03e5",
+      "status": "exclude",
+      "reason": "열두 달 외모 준비의 두 기간과 향품 목록은 완벽해야 공개한다는 부담을 풀 기준이 아니다.",
+      "contextNote": "왕 앞에 가기 전 후궁 여성의 준비 규정.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:2:13",
+      "textSha256": "d3d928d0daac885cb7e11ea91404167fd48f3b127f6245ff0536f17e781ddde9",
+      "status": "exclude",
+      "reason": "원하는 물품을 모두 주는 왕실 규정은 현재 생활비·구매 여력을 알려주는 말이 아니다.",
+      "contextNote": "왕을 만날 여성의 물품 선택 허가.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:2:14",
+      "textSha256": "e0b0d5e7ab69286d39e358a4f720c65f85c472521c8e008cf5a2afb66ab8f5b3",
+      "status": "exclude",
+      "reason": "왕이 다시 부를 때만 나올 수 있는 후궁 통제는 현재 답장이나 고백에서 상대 마음을 짐작할 근거가 아니다.",
+      "contextNote": "왕을 만난 뒤 비빈 후궁의 대기 규정.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:2:15",
+      "textSha256": "f4f04caca36227799cdfe21fb480fca45feb3a40430243f2a3a6b00a078b5a02",
+      "status": "hold",
+      "reason": "정해 준 것 외 더 요구하지 않은 절제는 충분함 고민에 통하지만 긴 양육 계보와 모두에게 굄을 얻은 결과가 묶인다.",
+      "contextNote": "에스더가 헤개 조언만 따라 왕에게 나간다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H001",
+          "clue": "더 구할 수 있어도 정해 준 것만 갖고 나가는 태도.",
+          "friction": "양육 계보가 길고 모두에게 사랑받은 결과가 포함돼 적게 사면 호감 얻는다는 보장이 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:2:16",
+      "textSha256": "b276603bc7c1859764424669994191423a6b0384e128703ff212897f98f17b4d",
+      "status": "exclude",
+      "reason": "왕 칠년 시월 입궁의 날짜와 동작만 있어 현재 공개나 참여 선택의 이유가 없다.",
+      "contextNote": "에스더가 왕 앞에 나간 날짜.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:2:17",
+      "textSha256": "9e7fba461f772a11705a38e7ead4776bf8ff2c69a98a8241b898a4cbe12deeb1",
+      "status": "exclude",
+      "reason": "다른 여성보다 사랑받아 왕후가 된 특별한 선발 결과는 현재 고백 상대의 마음이나 역할 합격을 알려주지 않는다.",
+      "contextNote": "에스더 왕후 선발.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:2:18",
+      "textSha256": "72ac670e2456a0ab9a30f270d1af64ba0f3a5b1c7131c78b242ad1f4d128db95",
+      "status": "hold",
+      "reason": "다른 사람의 기쁜 일을 크게 축하하는 모습은 보이나 왕의 세금 면제와 상의 규모가 생활 축하와 거리가 있다.",
+      "contextNote": "왕이 에스더를 위한 잔치를 베푼다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H040",
+          "clue": "다른 사람의 기쁜 일을 크게 함께 기념한다.",
+          "friction": "왕의 세금 면제와 상까지 포함된 특별한 왕후 잔치다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:2:19",
+      "textSha256": "c38d34609c90bb32193a58272acc5c00d8d1997cd90acfe0c28f09e2a3ccfc6d",
+      "status": "exclude",
+      "reason": "처녀 모을 때 문에 앉은 모르드개 위치만 있어 행동 선택의 실마리는 없다.",
+      "contextNote": "모르드개가 궁문에 있는 시기 설명.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:2:20",
+      "textSha256": "67fd178e232311ab3a8f104947dd3b08e00a00b4f546e4abe9c6c669e57f7012",
+      "status": "hold",
+      "reason": "상태가 바뀌어도 맡은 비밀을 함부로 밝히지 않은 모습은 보이나 자기 종족을 숨기는 보호 목적이다.",
+      "contextNote": "왕후가 된 에스더도 모르드개의 정체 비공개 당부를 따른다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H039",
+          "clue": "상황이 바뀌어도 이미 비공개하던 정보를 함부로 말하지 않는다.",
+          "friction": "자기 민족을 숨기는 당부로 친구 비밀 보호와 완전히 같지 않다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:2:21",
+      "textSha256": "1ab21213d6bfb2330f0394e14a2e389ea498f715ba97bdef4c53b6281eb9329d",
+      "status": "exclude",
+      "reason": "두 내시의 부정적 감정과 왕 암살 계획은 현재 친구의 무응답이나 동료 의도와 연결할 근거가 없다.",
+      "contextNote": "모르드개가 알게 된 궁문 암살 모의.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:2:22",
+      "textSha256": "75e0d14788c2145e542fcacd84e29a2d6b824d6684ccea046b151fd9241d0695",
+      "status": "candidate",
+      "reason": "다른 사람이 알아낸 일을 그 사람 이름으로 보고한 정직한 공로 표기가 좋은 평가를 위해 내 성과로 꾸밀지의 부담을 건드린다.",
+      "contextNote": "에스더가 모르드개 이름을 밝혀 암살 계획을 왕에게 보고한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "남이 알아낸 일은 그 사람의 이름으로 밝힌다.",
+          "friction": "왕 암살 보고의 상황이며 지금 보고를 그대로 어떻게 쓸지나 좋은 평가를 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:2:23",
+      "textSha256": "a8071caa9f3fb60c7bfc29f8f70d7dfc4b9030f6f2afb250aa3c6d727fb90d84",
+      "status": "hold",
+      "reason": "직접 조사하여 사실을 확인한 절차는 보이나 두 사람 교수형과 기록까지 있어 소문 확인의 생활 단서만으로 읽기 어렵다.",
+      "contextNote": "조사 뒤 암살범 처형과 사건 기록.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "들은 고발을 바로 확정하지 않고 조사해 사실을 얻는다.",
+          "friction": "교수형과 궁중 기록까지 있어 친구 소문 확인에 생활 단서만으로 충분한지 불확실하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:3:1",
+      "textSha256": "6a46459762809f601e8974db39180e4f43b83c8754c9fd8fa176757b3f734e13",
+      "status": "exclude",
+      "reason": "하만 계보와 승진 사실만 있어 현재 역할을 맡을지의 개인 실마리는 없다.",
+      "contextNote": "하만의 지위 상승 소개.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:3:2",
+      "textSha256": "8a194cda3b1cab8c7325d788c32c0e071d23113d9edf89ac03d8fc2ebc049244",
+      "status": "hold",
+      "reason": "모두 따를 때도 혼자 다른 선택을 한 모습은 자기 기준에 통하지만 왜 절하지 않는지 절 안에는 없다.",
+      "contextNote": "모르드개가 왕명에도 하만에게 절하지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H064",
+          "clue": "모두 따르더라도 자기 기준과 다른 행동을 택하는 모습.",
+          "friction": "모르드개의 기준 이유가 절 안에 없고 왕의 명령 거부다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:3:3",
+      "textSha256": "c18f81c7f5eafb6387f436048603ae0e329d8bb5426fceb543bcba41b8a403f1",
+      "status": "exclude",
+      "reason": "왕명을 왜 거스르냐는 신하들의 질문만 있어 어느 의견을 택할지 기준을 알 수 없다.",
+      "contextNote": "신하들이 모르드개의 거절 이유를 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:3:4",
+      "textSha256": "c52e9a1e38955cc8310aaebfe68614004df15f91df52ceae7231392b5ae79c0a",
+      "status": "exclude",
+      "reason": "날마다 권해도 듣지 않자 결과 보려 고발한 사실은 반복 경계가 존중된 장면이 아니고 민족 설명이 길다.",
+      "contextNote": "모르드개의 태도를 하만에게 알린다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:3:5",
+      "textSha256": "27ce0f8a061f209f8403ea2c5b02c3b7b92d5d1c03c98f9d549d159c8d4baf6f",
+      "status": "hold",
+      "reason": "존중받지 못한 분노를 드러낸 모습은 화난 메시지 마음에 통하지만 대응 방식은 아직 없어 첫 결과 충분함이 약하다.",
+      "contextNote": "하만이 모르드개의 불복에 분노한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "존중받지 못했다고 느껴 크게 화난 마음을 알아본다.",
+          "friction": "아직 어떻게 대응할지의 단서는 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:3:6",
+      "textSha256": "c2b3cce63602cbdd74b5d4655d38b18639a526263dfa497859c66694a33a81ce",
+      "status": "exclude",
+      "reason": "한 사람에 대한 분노를 민족 전멸로 확대한 악행은 개인 다툼 선택과 극단의 무게가 너무 다르다.",
+      "contextNote": "하만이 전체 유다인 학살을 계획한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:3:7",
+      "textSha256": "421827bd6d19d3f34bd96a2d584c5a9cf558290e44ef94da7500afa58d31e98c",
+      "status": "exclude",
+      "reason": "살육 날짜를 제비로 고른 사건으로 공평한 모임 순서 제비와 목적이 반대이며 긴 달 이름이 있다.",
+      "contextNote": "하만이 부르로 학살일을 정한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:3:8",
+      "textSha256": "3894d8ecdf1a10a0d2045d96026aff897da9eb597894abe2773aaaafd9634eda",
+      "status": "exclude",
+      "reason": "다른 민족이라 왕에게 무익하다는 고발은 편향된 주장으로 현재 모임 소외 판단의 근거가 될 수 없다.",
+      "contextNote": "하만이 유다인을 왕에게 고발한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:3:9",
+      "textSha256": "618c71490a2a3a600c92cf6487ffeebc6331d53804fd43d2c793473e6acb6100",
+      "status": "exclude",
+      "reason": "학살 대가로 막대한 은을 주겠다는 제안은 개인 돈 절약이나 정당한 대가 고민에 적용할 수 없다.",
+      "contextNote": "하만의 진멸 요청과 재정 제안.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:3:10",
+      "textSha256": "700ade617ba8663c0b204abe01e592ca6121ef8174202e7368d4af9083862d08",
+      "status": "exclude",
+      "reason": "왕이 하만에게 반지를 준 동작과 긴 계보만으로 현명한 위임이나 신뢰 판단을 읽기 어렵다.",
+      "contextNote": "왕이 하만에게 조서 권한을 준다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:3:11",
+      "textSha256": "381c417007d947969abfbfe2f0e1b555532c5abf8244a4eda5827c763a26bad1",
+      "status": "exclude",
+      "reason": "좋은 대로 하라는 재량은 유다인 학살 허가이므로 원하는 소비를 허락하는 말로 떼어 읽으면 전체 목적을 뒤집는다.",
+      "contextNote": "왕이 하만의 계획을 허락한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:3:12",
+      "textSha256": "fbb18400e0bedb0ac7126838fd9e1e3db53dd7fe48bfc422ed74fae041147cfc",
+      "status": "exclude",
+      "reason": "날짜·여러 직급·문자·방언·인장의 조서 발행 절차가 길고 학살의 전달이 목적이다.",
+      "contextNote": "학살 조서 작성과 인침.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:3:13",
+      "textSha256": "79e52d6c2e63ecc968fe5e299b34e237d733cbc5d2f6999e487969d1bef8b481",
+      "status": "exclude",
+      "reason": "노소와 아이까지 죽이고 재산을 탈취하라는 학살 명령은 생활 선택의 실마리로 옮길 수 없다.",
+      "contextNote": "하만 조서의 진멸·약탈 내용.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:3:14",
+      "textSha256": "21921d00e245bbc37dcb9e321ec45b4a8d807ed175a37442f164bfef19dd4b4b",
+      "status": "exclude",
+      "reason": "학살을 준비하도록 조서 사본을 공포하는 지시라 준비라는 말만으로 도전 고민과 연결할 수 없다.",
+      "contextNote": "진멸일 준비를 전국에 알린다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:3:15",
+      "textSha256": "0803a7b75556c7096587b199d46a0168f5b7fc5319d8f2b5193c67447081f6fa",
+      "status": "hold",
+      "reason": "윗사람은 마시고 시민은 혼란한 대비에서 타인의 고통을 놓치는 마음은 보이나 지금 선택에 관한 단서는 간접적이다.",
+      "contextNote": "학살 조서 뒤 왕·하만과 시민의 상반된 상태.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H059",
+          "clue": "내 즐거움과 주변 사람의 실제 곤란을 함께 돌아본다.",
+          "friction": "학살 조서와 수산성 혼란이라는 큰 배경이 필요하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:4:1",
+      "textSha256": "272dc93aff14941abb6ef0de28b9263ce3de81db9da41f308119fc7dcf658423",
+      "status": "exclude",
+      "reason": "옷 찢기·굵은 베·재와 대성통곡의 재난 반응은 일상 슬픔 돌봄으로 옮기기에 의식 설명이 크다.",
+      "contextNote": "모르드개가 학살 조서를 듣고 애통한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:4:2",
+      "textSha256": "9e5b939ac1025ae4ad0266c14855762de3811da627093feabc53576fd34712ac",
+      "status": "exclude",
+      "reason": "굵은 베로 궁문을 못 들어가는 복장 제한으로 현재 도움 부탁이나 접근의 판단을 대신할 수 없다.",
+      "contextNote": "모르드개가 궁문 밖에 머무른 까닭.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:4:3",
+      "textSha256": "a7f7c570532791f9c756255882226a34c187b0f641fad130e5644640c33d5208",
+      "status": "exclude",
+      "reason": "금식과 베옷·재의 대규모 국가적 애통은 선택 방향보다 재난 충격을 표현한다.",
+      "contextNote": "각지 유다인이 학살 위기에 애통한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:4:4",
+      "textSha256": "2d8b0a92789246952fd377706410188a147e33b516ab78734cf8f3aa78266979",
+      "status": "hold",
+      "reason": "힘든 사람에게 물품을 보내도 받지 않을 수 있는 구체 장면은 보이나 베옷을 바꾸려는 제안이라 원래 고통 원인은 해결하지 못한다.",
+      "contextNote": "에스더가 모르드개에게 옷을 보내나 거절된다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "내가 좋은 뜻으로 건넨 도움도 상대는 지금 원하지 않을 수 있다.",
+          "friction": "베옷을 벗게 하려는 의복이었고 원래 애통 원인은 다음 대화에서 알아야 한다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:4:5",
+      "textSha256": "249d9575d08a1f8528a74b8ba8e2b529889169228065ff0db7fea93b3d0d2354",
+      "status": "candidate",
+      "reason": "겉모습이나 추측으로 결론내리지 않고 무슨 일이고 무슨 까닭인지 알아보라는 요청에서 직접 확인할 실마리를 읽는다.",
+      "contextNote": "에스더가 하닥을 보내 모르드개의 근심 이유를 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H037",
+          "clue": "겉으로 추측해 단정하지 않고 실제로 무슨 일인지 알아본다.",
+          "friction": "내시를 통해 왕궁 밖 소식을 묻는 장면이며 현재 동료의 마음이 긍정·부정 어느 쪽인지 확정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:4:6",
+      "textSha256": "b197e0f644293d63126da31f896a717d20c032c97e9a827f876f39584db60fbc",
+      "status": "exclude",
+      "reason": "하닥이 모르드개 있는 광장에 도착한 동작만으로 알아볼 내용이나 선택 이유는 없다.",
+      "contextNote": "하닥이 모르드개를 찾아간다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:4:7",
+      "textSha256": "e73bc424a0c28b0a9083eb8637fe274dd04115fbe6dddd3892f5fc99510c12b2",
+      "status": "hold",
+      "reason": "당한 일과 금액을 정확히 말한 사실은 정직 보고에 통하지만 학살 매수의 재정 정보가 특정하다.",
+      "contextNote": "모르드개가 조서 배경과 정확한 은 액수를 알린다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "겪은 일과 실제 금액을 정확하게 전한다.",
+          "friction": "학살 매수의 보고라 내 평가를 위한 과장과 조건이 다르다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:4:8",
+      "textSha256": "30bc98c49b8ad43b83d8ce06c1d4f211dd41f7a37a7f8098554dcf464f082f19",
+      "status": "hold",
+      "reason": "원문 사본을 보여 사실을 전하고 필요한 행동을 요청한 실마리는 있으나 민족 학살과 왕에게 청원의 위험이 긴 전제다.",
+      "contextNote": "학살 조서 사본을 보내 에스더의 중재를 청한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "원문 사본으로 사실을 확인하게 하고 필요한 일을 부탁한다.",
+          "friction": "긴 학살·왕실 중재의 문장으로 현재 친구 소문과는 무게가 다르다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:4:9",
+      "textSha256": "d466186f5dfa10891b31d62c30cff0bdc28c34e3b01dceb2627fa2401fb09f84",
+      "status": "exclude",
+      "reason": "하닥이 돌아와 전했다는 미완결 연결로 말 내용과 선택 판단은 이전에 의존한다.",
+      "contextNote": "모르드개 말을 에스더에게 전달한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:4:10",
+      "textSha256": "d50a030ede732e889224eb638b2e309fadc13d276114edfbcfcd1a33e85ff9d3",
+      "status": "exclude",
+      "reason": "에스더가 답신을 전하라 한 서두뿐이라 무엇을 선택했는지 없다.",
+      "contextNote": "에스더 회답의 전달 도입.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:4:11",
+      "textSha256": "f420abf1f2157d1c5550f49150d279a2872f44793dac83f03a7a99aec2493795",
+      "status": "hold",
+      "reason": "실제 요청의 위험과 한계를 밝히는 말은 도전 두려움을 구체화하지만 무단 접견 사형과 금홀의 왕실 법이 길다.",
+      "contextNote": "에스더가 왕 접근의 죽음 위험을 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "G15",
+          "clue": "막연한 두려움과 실제 제약을 나누어 말한다.",
+          "friction": "사형·금홀·삼십일 접견 중단이라는 긴 왕실 법 설명이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:4:12",
+      "textSha256": "a61c61528a8f3e0f5268134eb05f4a908db6b40b63696cb5854f340804f42faf",
+      "status": "exclude",
+      "reason": "에스더 말을 전했다는 연결 동작만 있어 독립적인 선택 실마리가 없다.",
+      "contextNote": "모르드개에게 에스더의 위험 설명 전달.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:4:13",
+      "textSha256": "8fe9792c6bfac1dc9c91db80dadbcc589f00e740556fbc104a46b7eaaec3b285",
+      "status": "exclude",
+      "reason": "왕궁 안도 생존 보장이 없다는 경고는 실제 학살 위기에 관한 말로 현재 편안한 자리의 선택과 무게가 다르다.",
+      "contextNote": "모르드개가 에스더만 안전하지 않다고 경고한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:4:14",
+      "textSha256": "d47d08c0879a4f29d7da2fa5f440e1978aa314d22e0af69b98772f2ed8665140",
+      "status": "hold",
+      "reason": "자기 자리가 필요한 때일 수도 있다는 목적의 실마리는 있으나 침묵하면 집안 멸망·다른 구원 예고가 앞서 부담이 크다.",
+      "contextNote": "모르드개가 에스더의 중재 책임과 왕후 자리의 때를 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G15",
+          "clue": "지금 내 자리가 의미 있게 쓰일 때일 수도 있다는 생각.",
+          "friction": "침묵하면 집안 멸망과 다른 구원 예고가 함께 있어 보통 도전을 크게 압박할 수 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:4:15",
+      "textSha256": "89c2e09f0a0dfa4ada3659f035752221abc7ea3f3f748c075771b59d3eab0dd2",
+      "status": "exclude",
+      "reason": "에스더가 회답한다는 도입뿐으로 결심 내용은 다음 절에 있다.",
+      "contextNote": "에스더의 최종 회답 서두.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:4:16",
+      "textSha256": "fa704cceb807dc9fc67ca2776bf8d1dbbb9b76ae9c1657f55aa4b4c81eec53d4",
+      "status": "hold",
+      "reason": "두려움 속에도 함께 도움을 청하고 나아가는 결심은 도전에 통하나 삼일 물도 안 먹는 금식과 죽음 각오가 긴 전체 내용이다.",
+      "contextNote": "에스더가 공동 금식 후 왕을 만나기로 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G15",
+          "clue": "혼자 무턱대고 버티기보다 함께 도움을 청한 뒤 나아가는 결심.",
+          "friction": "물도 삼일 마시지 않는 금식과 죽음 각오 전체가 있으며 내 지원을 그런 희생 명령으로 설명할 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:4:17",
+      "textSha256": "0c71c0c59c9b7b65d8a90a6028d4a658b82fd8436e1f0c0d1cb1e2fd881411f5",
+      "status": "exclude",
+      "reason": "모르드개가 명대로 다 한 사실만 있어 명령 내용 없는 절에서 어떤 결정을 할지 실마리가 없다.",
+      "contextNote": "모르드개가 에스더 금식 요청을 이행한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:5:1",
+      "textSha256": "5815209cf5a69d4792339bb971a515f156a59c30396c6ee6dd87521afbe5d4c8",
+      "status": "exclude",
+      "reason": "왕후 예복과 왕궁 뜰·왕좌 위치의 미완결 장면은 두려움 후 실행의 개인 실마리를 가린다.",
+      "contextNote": "에스더가 왕 앞 뜰에 나간다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:5:2",
+      "textSha256": "b843422e52030a02fbe59877a133aae7ac5fe7643408d6dc6dc56c543d54b4b8",
+      "status": "hold",
+      "reason": "두려워하던 접근이 받아들여진 장면은 희망을 주나 왕의 마음과 금홀의 법을 알아야 하며 현재 상대 수락은 알 수 없다.",
+      "contextNote": "왕이 에스더에게 금홀을 내밀어 접근을 허락한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H032",
+          "clue": "두려웠던 접근이 받아들여질 가능성을 생각한다.",
+          "friction": "왕의 사랑스러움과 금홀 허가가 확인된 과거 사건으로 현재 상대의 마음을 알려주는 말은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:5:3",
+      "textSha256": "2a5346597b8cc05cafcd8c6c42c722ed38e6cf35dfb9bc141e3c458f7bd4cd39",
+      "status": "hold",
+      "reason": "원하는 것을 말해 보라는 초청은 도움 요청 부담에 통하지만 나라 절반도 준다는 특별한 왕의 약속이다.",
+      "contextNote": "왕이 에스더의 소원을 묻는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "원하는 것을 말해 보라는 초청 앞에서 필요한 것을 표현할 여지.",
+          "friction": "왕의 나라 절반 약속이며 현재 친구의 지원 여력은 알 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:5:4",
+      "textSha256": "37e0579c93d9f6b8bb6c3a3c18b830888dc2471c6e6741078375f0232a380673",
+      "status": "hold",
+      "reason": "바로 문제를 터뜨리기보다 함께할 자리를 여는 모습은 대화에 통하나 하만 동석을 부탁한 잔치 준비만 있고 말할 내용은 아직 없다.",
+      "contextNote": "에스더가 왕과 하만을 잔치로 초대한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H026",
+          "clue": "바로 다툼을 시작하기보다 대화할 자리를 먼저 연다.",
+          "friction": "이 절만으로는 속에 전할 내용이 없고 왕·하만 잔치 초대다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:5:5",
+      "textSha256": "7baf8b5d031b11e2a45d161f87ad30bec2536fc95f1380ad1dedd82c028b7012",
+      "status": "exclude",
+      "reason": "왕과 하만이 잔치에 온 결과는 현재 상대가 초청에 응할지 알려주는 정보가 아니며 선택 내용은 없다.",
+      "contextNote": "첫 잔치 초대가 이루어진다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:5:6",
+      "textSha256": "45a7139e7eeb526611b863b52491796dc53a499475e09153ce9fd4dc99210a9f",
+      "status": "hold",
+      "reason": "말할 기회를 다시 주는 모습은 요청에 용기가 되지만 왕의 나라 절반 약속이 현재 상대의 여력과는 다르다.",
+      "contextNote": "첫 잔치 중 왕이 소원을 다시 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "한 번에 말을 못해도 다시 요청할 기회가 있는 장면.",
+          "friction": "나라 절반 허용의 과거 상황이고 현재 다시 기회가 온다는 보장은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:5:7",
+      "textSha256": "eda1344d285637681fdc38c3b0109f3b034c635922e9b8aa3e4f220139d3f56f",
+      "status": "exclude",
+      "reason": "나의 요구는 이러하다는 서두만 나와 요구 내용이 다음 절에 있다.",
+      "contextNote": "에스더 요청의 도입.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:5:8",
+      "textSha256": "295d9004946bc159dd20a75cadb65492218f9628a10f36bfc43defd4d36f38e0",
+      "status": "hold",
+      "reason": "시기를 정해 다시 대화할 자리를 청하는 모습은 성급한 말의 부담을 건드리지만 긴 존대·재초청과 내일 약속이 특정하다.",
+      "contextNote": "에스더가 두번째 잔치로 요청 시점을 미룬다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "즉각 말을 쏟기보다 대화 시점을 정해 둔다.",
+          "friction": "두번째 잔치와 내일의 약속이 구체적으로 허용된 장면이며 현재 기한을 미룰 수 있단 뜻은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:5:9",
+      "textSha256": "8623ebcbf1d32d117ba6fa6771b711950ff58c37d6af4cd7a493b11b1aa7fdc3",
+      "status": "hold",
+      "reason": "기쁜 날도 한 사람의 행동 때문에 곧 분노한 모습은 작은 실수 집착을 비추지만 반응을 멈출 선택은 다음에 있다.",
+      "contextNote": "하만이 모르드개 불복을 보고 다시 분노한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H028",
+          "clue": "좋던 마음이 한 사람 행동에 모두 뒤집히는 모습을 돌아본다.",
+          "friction": "아직 그 마음을 어떻게 할지 행동은 없고 왕궁 반감이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:5:10",
+      "textSha256": "2f8d9f70744e0be296a5915554acbb81c1553f42106f3655690e1bb3517976ea",
+      "status": "hold",
+      "reason": "일단 참고 집으로 돌아가는 멈춤은 보이나 친구들과 모의하는 다음 문맥이 보복이어서 기다림 자체가 해결인 것처럼 읽기 어렵다.",
+      "contextNote": "하만이 분노를 품고 가족·친구를 부른다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "바로 터뜨리지 않고 일단 참고 집으로 돌아온 모습.",
+          "friction": "뒤에서 살해를 모의하므로 참고 기다리면 자동으로 좋은 결정이 된다는 교훈은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:5:11",
+      "textSha256": "8bdc32654734b02d6e6bf9f4752f9c273e91d8e03d3c724409d8021acaaff264",
+      "status": "exclude",
+      "reason": "부·자녀·승진을 자랑하는 미완결 말은 충분함을 느낀 고백이 아니라 불만 호소의 앞부분이다.",
+      "contextNote": "하만이 자신의 여러 영광을 늘어놓는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:5:12",
+      "textSha256": "99402ab54bee0baa1c0d55fbb11ad74d5ad4b272e6be7e3046ce5f6034af7d39",
+      "status": "exclude",
+      "reason": "자기만 특별 초대받았다는 자랑은 관계 비교를 벗어나는 단서보다 우월감 서술이다.",
+      "contextNote": "하만이 왕후 잔치 초대의 특혜를 자랑한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:5:13",
+      "textSha256": "5301751aa0c1f55c7c7e7947165ca2ac495e2d7dd6ca5f061effd2c0f38e8e09",
+      "status": "candidate",
+      "reason": "한 사람의 행동 때문에 가진 모든 것이 만족스럽지 않다는 고백에서 작은 서운함을 계속 붙잡는 마음을 비춰 볼 실마리를 읽는다.",
+      "contextNote": "하만이 많은 영광에도 모르드개 때문에 만족 못한다고 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H028",
+          "clue": "한 가지 서운한 일에 매달려 다른 좋은 것까지 모두 무가치하게 느끼는 태도를 비춰 본다.",
+          "friction": "하만의 교만과 적대감이며 친구의 반복된 침해를 무조건 작다고 넘기라는 말은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:5:14",
+      "textSha256": "004ab322edea0b9effa29060003bd388bbb62fb848abff77e40ceab1a201019b",
+      "status": "exclude",
+      "reason": "먼저 교수대를 세워 상대를 죽인 뒤 즐기라는 조언 전체는 작은 서운함을 풀 조언으로 읽을 수 없다.",
+      "contextNote": "하만의 가족·친구가 모르드개 살해를 권한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:6:1",
+      "textSha256": "7f6c39b122f096a3559f27a407920bcf2689fd6c6be892106da3dc4900ce0229",
+      "status": "exclude",
+      "reason": "잠 안 와서 일기를 읽게 한 왕의 동작만으로 수면 부족에 더 일할지 쉴지의 기준은 없다.",
+      "contextNote": "왕이 잠 못 들어 궁중 기록을 읽는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:6:2",
+      "textSha256": "77b734e869a5cd6c7bae5cc14d25fe82114fbd5ab78c659964510d5a198fec68",
+      "status": "exclude",
+      "reason": "두 내시 암살 계획을 모르드개가 고발했다는 기록의 내용으로 현재 소문이나 정직의 선택은 아직 없다.",
+      "contextNote": "읽던 기록에서 공로 사건을 발견한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:6:3",
+      "textSha256": "47ab342311db669ae6e3a4b08429546aeb1c212ef630b1942dc87699f003ebe1",
+      "status": "hold",
+      "reason": "도움받은 뒤 보답했는지 확인하는 질문은 대가 고민에 통하지만 왕실 존귀·관작의 보상과 당장 친구 작업비는 다르다.",
+      "contextNote": "모르드개 공로가 보상 안 됐음을 왕이 확인한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B005",
+          "clue": "받은 도움에 합당한 보답을 했는지 돌아본다.",
+          "friction": "관작·존귀의 왕실 보상으로 작업비 지급과는 다르다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:6:4",
+      "textSha256": "416c60db664505108042b10e6e44f41b63cf6d789ff78d0fad0f847a03a6ed75",
+      "status": "exclude",
+      "reason": "교수대 요청하려던 하만 도착과 왕의 질문이 묶인 극적 상황이라 개인 선택의 기준보다 우연 전개다.",
+      "contextNote": "모르드개 보상 논의 때 하만이 들어온다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:6:5",
+      "textSha256": "a1db96e5242cfba631a2681e11c5fdfd0ba012e9146990de4f08a2bef8be2722",
+      "status": "exclude",
+      "reason": "하만이 왔다고 보고하고 들이라 한 짧은 대화에 현재 대화 선택의 내용은 없다.",
+      "contextNote": "왕이 하만 입장을 허락한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:6:6",
+      "textSha256": "72344b6652e91f2b3d274ff7124f0dbfdd4ca7fba2fadf407cba6386e0d93ff9",
+      "status": "candidate",
+      "reason": "대상이 누군지 듣지도 않고 나일 것이라 채워 넣은 하만의 속생각에서 확인 전 나 중심의 추측을 경계할 실마리를 읽는다.",
+      "contextNote": "왕의 모호한 질문을 하만이 자기 보상으로 단정한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H035",
+          "clue": "확인 안 된 말의 빈자리를 나에 대한 이야기로 먼저 채워 넣지 않는 생각.",
+          "friction": "하만은 자기 명예를 확신한 긍정 추측이고 현재 모임의 소외 여부는 미확인이다. 뒤 반전은 추측의 한계를 보여주지만 현재 상대의 뜻을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:6:7",
+      "textSha256": "2814e9ba0ae52617396d15e8ecf6d82ac9e22ce497cee750aca05dcc1354df09",
+      "status": "exclude",
+      "reason": "존귀하게 하려면이라는 답변 서두만 있어 무엇을 제안했는지 내용이 없다.",
+      "contextNote": "하만의 보상안 제안 도입.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:6:8",
+      "textSha256": "d1d566e2e9142efedfa28a7daa0f78cdc46335e702da6cc48b7039afc31aff44",
+      "status": "exclude",
+      "reason": "왕복·말·왕관을 취하라는 준비 목록만 있어 생활에서 어떤 존중이 필요한지 판단 기준은 없다.",
+      "contextNote": "하만이 원하는 왕실 의장 제안.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:6:9",
+      "textSha256": "06709c4df9fe2a54ab5a9f2d080003cf699d76c9c2435e48d938db732892c108",
+      "status": "exclude",
+      "reason": "왕복·말·방백·거리 선포의 의식 전체는 비싼 선물과 작은 마음 사이의 생활 선택에 풀이 부담이 크다.",
+      "contextNote": "하만이 왕의 공개적 명예 행렬을 제안한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:6:10",
+      "textSha256": "c264addfaa4165a063978245ba9bc3695a10f62104befeb9cb0d85ae72b91a35",
+      "status": "hold",
+      "reason": "자신이 원한 영광을 남에게 그대로 주라는 반전은 비교 마음을 건드리지만 왕의 강제 명령과 왕복·말의 의식이다.",
+      "contextNote": "왕이 하만에게 모르드개 포상을 집행하게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H040",
+          "clue": "원하던 영광이 다른 사람에게 갈 때도 그를 기리는 역할을 맡는 장면.",
+          "friction": "하만은 적에게 강제로 집행하고 현재 친구를 진심으로 축하할지와 다르다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:6:11",
+      "textSha256": "38a8606de39d2812cae4d5f8c4b03401d5166439d7afc12e26b5c3926d449e70",
+      "status": "hold",
+      "reason": "다른 사람을 공개적으로 기리는 행동은 축하에 통하지만 하만의 적대와 강제 집행 배경으로 순수한 축하 예시로 읽기 어렵다.",
+      "contextNote": "하만이 원수 모르드개의 영예 행렬을 이끈다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H040",
+          "clue": "다른 사람이 존중받는 일을 겉으로라도 함께한다.",
+          "friction": "내가 선택한 축하가 아니라 왕의 강제 명령이고 하만은 여전히 분노한다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:6:12",
+      "textSha256": "472a5916e4123f38463dc23515e37952a13cdd0836f70e6378b1dafb40401939",
+      "status": "exclude",
+      "reason": "한 사람은 일상으로 돌아오고 다른 이는 부끄러워 귀가한 미완결 결과로 비교 뒤 어떤 선택을 할지 단서는 없다.",
+      "contextNote": "포상 행렬 뒤 모르드개와 하만의 반응 대조.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:6:13",
+      "textSha256": "29d6dc7e6323474b220cc2cf56869af6d969cd6591bea4f125a720672fe4a3bd",
+      "status": "exclude",
+      "reason": "유다인이면 반드시 이길 수 없다는 가족의 예언적 확언을 현재 경쟁·친구 관계의 결과로 옮길 수 없다.",
+      "contextNote": "하만 가족과 친구가 몰락을 예고한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:6:14",
+      "textSha256": "343d9669e34321a0a973030a92423198ab1c369d7d968e50f0afac21e2e0cd2e",
+      "status": "exclude",
+      "reason": "내시가 하만을 잔치로 급히 데려간 사건만 있어 지금 초청을 받아들일지의 자발적 선택이 없다.",
+      "contextNote": "하만이 곧 두번째 잔치에 소환된다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:7:1",
+      "textSha256": "8c76a7b24f85095131e65621d74a04562d1f8ef1819fa5b7a07f1711ff15bc72",
+      "status": "exclude",
+      "reason": "왕과 하만이 또 잔치에 갔다는 한 동작은 즐거움을 선택할 이유나 부담을 말하지 않는다.",
+      "contextNote": "두번째 잔치 시작.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:7:2",
+      "textSha256": "c2b4d691138024c68d47f960a7cd26d0fe5e30bc546f8de0a7e9214c60a08ed6",
+      "status": "hold",
+      "reason": "말하지 못했던 소원을 다시 묻는 기회는 도움 요청에 통하지만 왕의 나라 절반 약속과 잔치 배경이 길다.",
+      "contextNote": "왕이 다시 에스더의 소원을 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "말할 기회를 다시 열어 주는 질문.",
+          "friction": "왕의 나라 절반 약속이며 현재 친구 여력이나 기회는 알 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:7:3",
+      "textSha256": "edcf28c766218aeee1d6bf37244771a6b28636569d706fbd4061b472bc116ac2",
+      "status": "candidate",
+      "reason": "내가 정말 필요한 생명과 사람을 위해 구하는 것을 솔직히 밝힌 요청에서 두려워도 필요를 말할 실마리를 읽는다.",
+      "contextNote": "에스더가 왕에게 자기와 민족의 구원을 청한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "정말 필요한 것을 감추거나 에둘러 넘기지 않고 청한다.",
+          "friction": "왕에게 생명과 민족 구원을 청하는 극한 상황이며 현재 부탁을 그 정도 위험으로 만들거나 수락을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:7:4",
+      "textSha256": "d5a9a2e561bd217b5ba6229ceddcceda0b22a367b6d044974cc9916846a925e2",
+      "status": "exclude",
+      "reason": "노예였다면 침묵했을 것이라는 가정까지 포함한 민족 학살 호소는 일상 한계·서운함 표현과 무게가 매우 다르다.",
+      "contextNote": "에스더가 진멸 위기와 왕의 손해를 설명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:7:5",
+      "textSha256": "881780329cc1edfd3216ff0497bdd4c5a8a67c8bbf42459cf8938f2d2f8e97a0",
+      "status": "exclude",
+      "reason": "왕이 가해자 신원을 묻는 질문만 있어 현재 소문의 사실과 반응을 결정할 기준은 없다.",
+      "contextNote": "왕이 학살 계획 주동자를 묻는다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:7:6",
+      "textSha256": "05c2fc1d65cd5f529f4a03d59fa6e6f9e433a688bf82870e7ea11c5ef595b68a",
+      "status": "exclude",
+      "reason": "하만을 악한 원수라 지목하고 두려워하는 반응을 기록한 장면은 현재 동료 의도를 밝히는 정보가 아니다.",
+      "contextNote": "에스더가 하만을 고발한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:7:7",
+      "textSha256": "56a54c02e35284d8082a67f4dc447f9a78a0d916dfeeabc81926218670b44117",
+      "status": "hold",
+      "reason": "분노 중 자리를 벗어난 멈춤은 감정 메시지에 통하지만 하만이 생명 구하는 뒷문장과 처벌 결정이 긴 비중이다.",
+      "contextNote": "왕이 후원으로 나가고 하만은 에스더에게 살려 달라 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "불붙는 감정 속 일단 대화 자리를 벗어나는 모습.",
+          "friction": "하만의 생명 간구와 왕의 처벌 결심이 함께 있고 이후 오판도 있어 멈춤만으로 해결을 보장하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:7:8",
+      "textSha256": "26c005b626050f1bb2aee441641299ac0acbc768ec1960c8d5f7dcc5144afac6",
+      "status": "exclude",
+      "reason": "걸상에 엎드린 것을 강간 시도로 해석해 포박한 장면은 오해의 위험을 보여도 성폭력 고발과 제재의 무게가 크다.",
+      "contextNote": "왕이 돌아와 하만의 자세를 보고 체포를 명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:7:9",
+      "textSha256": "38a624b06ce3133ab9e75553d473dd566ff5cc3dacda037deaac5842836ddd0f",
+      "status": "exclude",
+      "reason": "긴 인명·교수대 높이·모르드개 공로 뒤 처형 명령은 작은 관계의 잘못을 바로잡을 실마리로 쓰기 어렵다.",
+      "contextNote": "하르보나가 교수대를 알려 하만 처형이 결정된다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:7:10",
+      "textSha256": "c707b04f59ac8f0d8550af7dd42639d789117da06d99bb8e6cbe5ea832dc5606",
+      "status": "exclude",
+      "reason": "원수를 죽이려던 나무에 본인이 달리고 왕의 화가 끝난 결과는 일상 분노의 해소 방법으로 읽기 어렵다.",
+      "contextNote": "하만 처형으로 왕의 분노가 그친다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:8:1",
+      "textSha256": "aa5b466727bfb468c65f8fe769962646dc73d9e1122e8c4c9ac126e102b2566e",
+      "status": "exclude",
+      "reason": "적의 집을 받아 친족 관계를 공개한 왕실 재산·신원 변화는 지금 친구에게 비밀을 말할지의 조건과 다르다.",
+      "contextNote": "하만 재산 이전과 모르드개 신분 공개.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:8:2",
+      "textSha256": "bef15309ddde2c3cf75dd311e735eaee73a5938bd343bbf227bf84a6f3e3ac1b",
+      "status": "exclude",
+      "reason": "반지와 집 관리권을 이전한 사실만 있어 현재 신뢰·역할 선택의 이유가 없다.",
+      "contextNote": "모르드개에게 조서 권한과 하만 집 관리권이 간다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:8:3",
+      "textSha256": "808f47e0d5977a39a14c6a4435f5c01d952219cacbbef4a51d64ac5514662b2d",
+      "status": "hold",
+      "reason": "문제 한 부분이 끝나도 남은 피해를 위해 다시 부탁한 지속은 보이나 하만·아각·학살 계획 설명이 필요하다.",
+      "contextNote": "에스더가 남아 있는 진멸 조서 해결을 재청한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H053",
+          "clue": "한 부분이 끝났어도 남은 일을 위해 다시 요청을 이어 간다.",
+          "friction": "앞은 하만 처분 뒤 학살 조서의 잔존이고 일상 마무리보다 배경이 크다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:8:4",
+      "textSha256": "7326661b0151ce0f2017bf4dc27aa36b3064ced7cd280d6047489e28388c8627",
+      "status": "exclude",
+      "reason": "금홀을 내밀고 왕 앞에 선 접견 동작의 미완결로 요청의 선택 내용은 아직 없다.",
+      "contextNote": "에스더의 추가 요청을 왕이 듣게 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:8:5",
+      "textSha256": "0765bcefa3c688cc275948278d24016bd759d63cf50029c95c39ae80a258883c",
+      "status": "hold",
+      "reason": "잘못된 결정을 실제로 취소해 달라는 구체 요청은 수정 고민에 통하지만 긴 인명 계보·왕의 은혜·학살 조서가 대부분이다.",
+      "contextNote": "에스더가 하만 조서 취소를 청한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "말만 후회하기보다 해로운 결정을 실제로 바꾸어 달라고 요청한다.",
+          "friction": "여러 인물·계보·민족 진멸의 긴 문장이며 내 실수 수정과 역할이 다르다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:8:6",
+      "textSha256": "4cc1044294d90828557ad0fe52278a9518122d031ff15a2b524439a662b0785b",
+      "status": "exclude",
+      "reason": "민족과 친족 멸망을 두고 볼 수 없다는 긴급 호소를 작은 도움의 망설임과 같게 읽기에는 상황이 극단적이다.",
+      "contextNote": "에스더가 왕에게 민족 구원의 절박함을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:8:7",
+      "textSha256": "75fedf6636bc1efa814c0cf864aea3d08faf5dc7a77ba28a1ef02395500e2cc6",
+      "status": "exclude",
+      "reason": "하만 교수형과 집 이전을 말한 왕의 미완결 답변은 현재 문제의 해결 선택까지 아직 전하지 않는다.",
+      "contextNote": "왕이 이미 한 하만 처분을 상기시킨다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:8:8",
+      "textSha256": "f22eeaee10a2862eea03eeba55e3faf27cc44c33c41e6aaa9f525455161fc016",
+      "status": "hold",
+      "reason": "기존 결정을 되돌릴 수 없어도 새 방식으로 대응하는 실마리는 보이나 왕의 인장 조서 불가역 제도와 재량 명령이다.",
+      "contextNote": "기존 조서 대신 새 조서를 쓰도록 허락한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H043",
+          "clue": "같은 길이 막혔을 때 허용된 새 수단으로 문제를 다룬다.",
+          "friction": "왕 조서 불가역 제도와 새 조서 권한을 알아야 하며 현재 대안이 있다고 보장하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:8:9",
+      "textSha256": "ced8316335775292eb5496e20b0c16b932d567d6f3c7dc1effbd8ea35aab1af7",
+      "status": "exclude",
+      "reason": "날짜·제국 범위·여러 직급·문자와 방언의 조서 배포 서두가 길어 생활 선택 내용이 가려진다.",
+      "contextNote": "새 조서의 작성과 수신 대상.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:8:10",
+      "textSha256": "bb997f6dfd3b2ddee67b8fdb3f1777fead6ce3b99369e1ccb07cad4070d938f2",
+      "status": "exclude",
+      "reason": "왕의 반지와 역졸 준마의 전달 체계로 결정 내용이나 선택 이유는 보이지 않는다.",
+      "contextNote": "새 조서를 빠르게 보내는 절차.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:8:11",
+      "textSha256": "f537cedc5105865cd9cf9a8d7e21f108ad4c4041dceaf3bfd26e98100eef2f30",
+      "status": "exclude",
+      "reason": "자기방어 허가 뒤 처자까지 죽이고 재산을 탈취하는 명령이 함께 있어 앞의 생명 보호만 떼어 경계 설정에 쓸 수 없다.",
+      "contextNote": "새 조서가 유다인의 반격과 살육·약탈을 허가한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:8:12",
+      "textSha256": "6a8a5442a9c9fe485ea8236b6a7519897ad361154a305467a359a6af38ee3001",
+      "status": "exclude",
+      "reason": "십이월 십삼일의 하루라는 허용 기간만 말해 오늘 마감과 즐거움 갈등에 적용할 내용이 없다.",
+      "contextNote": "반격 조서의 시행일 규정.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:8:13",
+      "textSha256": "03e98652c2626193399b79e4027b662c208b47a56c656734a93f25736ec809b6",
+      "status": "exclude",
+      "reason": "원수를 갚도록 조서를 공표한 내용은 개인 갈등의 거리두기와 무게가 다르다.",
+      "contextNote": "새 조서를 알려 반격을 준비시킨다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:8:14",
+      "textSha256": "af4b8fdb7ac6d416bd4de9902c61d79a1523c1dbd46e852b6cd280a64245fa29",
+      "status": "exclude",
+      "reason": "급한 왕명으로 역졸과 준마가 달린 전달 장면은 단지 서두름일 뿐 현재 기한의 이유를 알려주지 않는다.",
+      "contextNote": "새 조서의 긴급 전국 전달.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:8:15",
+      "textSha256": "7c9e0a6f1bbf0bad6ca0ac35a51b8eb2142fadcbaefef80a923c7a6ee1f8cb67",
+      "status": "hold",
+      "reason": "한 사람의 회복을 도시가 함께 기뻐하는 모습은 축하에 통하지만 왕복·금관·겉옷의 외적 영광 묘사가 길다.",
+      "contextNote": "모르드개가 왕복을 입고 나오자 시민이 기뻐한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H040",
+          "clue": "다른 사람의 회복과 영광을 함께 기뻐하는 모습.",
+          "friction": "왕복·면류관·수산의 정치적 반전이 긴 비중이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:8:16",
+      "textSha256": "f588fd35c2787caf1fa7dde3bc42453d1f1e99e97ee7b220b5bbcf0ee5f75dba",
+      "status": "exclude",
+      "reason": "즐거움·기쁨·존귀가 있다는 상태만으로 누리거나 미룰 구체 생활 선택의 실마리는 약하다.",
+      "contextNote": "구원 소식 뒤 유다인의 기쁜 상태.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:8:17",
+      "textSha256": "5ebde249a8f4ed2d3dd4b24aab7ebe5f499117ae32350161bf25a76cdc8fe7c0",
+      "status": "hold",
+      "reason": "기뻐하며 기념일을 만든 모습은 누림에 통하나 두려워 유다인이 된 사람이 많다는 뒷문장이 축하 연결을 흔든다.",
+      "contextNote": "새 조서 뒤 잔치와 다른 주민들의 유다인 편입.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H009",
+          "clue": "기쁨을 잔치와 기념으로 받아들이는 모습.",
+          "friction": "다른 주민의 두려움과 개종이라는 뒷문장이 긴 비중이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:9:1",
+      "textSha256": "d9cf30d5ea2b493bdd5a1e4f139bf5d64938a1c40bae570019ae222d95c96182",
+      "status": "exclude",
+      "reason": "권력 관계가 뒤집힌 날짜의 미완결 서두라 현재 소외·경쟁 관계가 역전될 것이라고 볼 근거는 없다.",
+      "contextNote": "진멸 예정일에 대적과 유다인의 위치가 반전된다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:9:2",
+      "textSha256": "1acd36309ade8bdcab5cfce85a5cdc7734a3eaa678b7170268d15a55f22e6683",
+      "status": "exclude",
+      "reason": "두려움으로 못 막는 가운데 해치려는 자를 죽이려 모인 전투는 현재 사적 관계 선택과 통할 단서가 약하다.",
+      "contextNote": "유다인들이 반격을 위해 모인다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:9:3",
+      "textSha256": "c00d5fde3132c3d04b989b23b641433e2119622e979901c7098de67776065534",
+      "status": "exclude",
+      "reason": "모르드개를 두려워해 관원들이 도왔다는 권력 동기를 현재 친구 도움이나 조언의 마음으로 옮길 수 없다.",
+      "contextNote": "관원들이 유다인을 지원하는 이유.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:9:4",
+      "textSha256": "08de1599d3015d98c0997d597b06faa29b2cbce8e98886a157edfbce45e615ec",
+      "status": "exclude",
+      "reason": "명성과 권력이 퍼진 결과만 나와 첫 역할에 도전할 이유를 구체적으로 읽기 어렵다.",
+      "contextNote": "모르드개의 높아진 위상과 명성.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:9:5",
+      "textSha256": "0ba8089cd7a957c1def25ef399ced184d353455e33a69b4f2cb2f89e0c6fb433",
+      "status": "exclude",
+      "reason": "미워하는 자를 칼로 죽이고 마음대로 한 서술은 개인의 분노 메시지나 관계 단절에 바로 대입하기 어렵다.",
+      "contextNote": "유다인의 대적 살육.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:9:6",
+      "textSha256": "3d8e9dea50d4b29ef6070aa3b8750cf8c22b8e15cb58ad3cc54a1ddac246d1d3",
+      "status": "exclude",
+      "reason": "수산에서 500명을 죽였다는 집계로 생활 선택의 실마리를 읽을 수 없다.",
+      "contextNote": "수산성 전투 사망 집계.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:9:7",
+      "textSha256": "6ca6f08a478b09a0dd231788ac5758acf26cf433f26a342174af29979d52167a",
+      "status": "exclude",
+      "reason": "바산다다·달본·아스바다 이름만 이어져 선택의 독립된 내용을 담지 않는다.",
+      "contextNote": "하만 아들 명단 시작.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:9:8",
+      "textSha256": "6f7a03490e0c598c698508a01604c8cf2d77539d641d1e02db74534de175da44",
+      "status": "exclude",
+      "reason": "보라다·아달리야·아리다다 세 이름 외의 행동 판단이 없다.",
+      "contextNote": "죽은 하만 아들 명단 계속.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:9:9",
+      "textSha256": "ea345eef8ff6769090e43ce0dba5a9acdc1280e4b0e9a8ada938d391f25b6c99",
+      "status": "exclude",
+      "reason": "바마스다·아리새·아리대·왜사다 이름으로 목록을 이을 뿐 선택 실마리가 없다.",
+      "contextNote": "하만 아들 명단 마지막.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:9:10",
+      "textSha256": "52b98f664aebed42bb050b3ad789638f2cc62f2dce9923e53ab489e4d82a5a0a",
+      "status": "exclude",
+      "reason": "재산에 손 안 댄 절제가 있어도 하만 열 아들을 죽인 전체 행위를 가벼운 물질 절제와 연결하기는 어렵다.",
+      "contextNote": "하만 아들 살해와 재산 불취.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:9:11",
+      "textSha256": "7e6a683e7405cf9b13fa08f199b6c44bb9c7a7ed57aeaf00cd83c93dfaeb268b",
+      "status": "exclude",
+      "reason": "죽인 수효를 왕에게 보고한 미완결로 현재 정직 보고의 선택 기준은 없다.",
+      "contextNote": "수산 전투 결과의 보고.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:9:12",
+      "textSha256": "47866eb66aaadf7bb15b9da8493032dac345bcdfbfd25f0b08a1643fa6557059",
+      "status": "exclude",
+      "reason": "500명과 열 아들 살해를 확인한 뒤 더 소원을 묻는 왕의 말은 민폐 걱정의 요청과 무게가 크게 다르다.",
+      "contextNote": "왕이 에스더에게 추가 요구를 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:9:13",
+      "textSha256": "4f0c6df520c270bcda99abced354a057f38395897389efc4e3834e684cc3356b",
+      "status": "exclude",
+      "reason": "하루 더 살육 허가와 시신 전시를 청하는 구체 요청을 현재 한계·일정 조정의 요청으로 옮길 수 없다.",
+      "contextNote": "에스더의 추가 반격과 시신 게시 요청.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:9:14",
+      "textSha256": "ef537afb332daaa96528211022f25fd2d165bc5a43ae59adc9ba212de1eb5eaa",
+      "status": "exclude",
+      "reason": "시신을 나무에 단 처분 결과는 생활 관계를 끝내는 선택의 단서가 되기 어렵다.",
+      "contextNote": "왕이 에스더 요청을 이행한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:9:15",
+      "textSha256": "a7df6c19f885f287176b3f97de2a7edda8fe834511f0777b3c3bc922fbf1b9e6",
+      "status": "exclude",
+      "reason": "재산을 안 취한 부분 뒤에도 300명 살육이 핵심이라 재산 욕심을 놓는 개인 실마리로 쓰면 전체 무게를 버린다.",
+      "contextNote": "둘째 날 수산 전투 결과.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:9:16",
+      "textSha256": "99df1996fc2c687188d8384bbe13cfd951a9534406cc5477ae42a502cfa42317",
+      "status": "exclude",
+      "reason": "생명 보호와 재산 불취가 있지만 75000명 도륙까지 포함된 전체 절은 생활 절제·거리두기와 연결하기 어렵다.",
+      "contextNote": "지방 전투의 사망 수효와 재산 불취.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:9:17",
+      "textSha256": "8da2d63829b7fb837523ef8cc7a8139bed2ea39ceb8d930a380729908468150b",
+      "status": "candidate",
+      "reason": "할 일을 한 뒤 다른 날 쉬며 잔치를 즐긴 순서에서 마친 일 뒤 누림을 허락할 실마리를 읽는다.",
+      "contextNote": "유다인들이 전투 다음 날 쉬고 잔치를 베푼다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G04",
+          "clue": "일을 마친 뒤 쉬고 기쁜 시간을 누리는 순서.",
+          "friction": "그 일은 원래 큰 전투와 살육이다. 현재 콘서트의 가치나 다음날 피로가 없어짐을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:9:18",
+      "textSha256": "0db2cebdb5c793f88cfb4b3af00eabb014af03d52a78224afa62a06712e7e412",
+      "status": "candidate",
+      "reason": "지역마다 일을 마친 때에 맞춰 쉬고 즐기는 모습에서 다른 사람과 무조건 같은 속도보다 내 마무리 뒤 쉼을 생각할 수 있다.",
+      "contextNote": "수산 사람들은 이틀 전투 뒤 십오일에 쉰다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G04",
+          "clue": "남과 날짜를 똑같이 맞추기보다 자기 일을 마친 뒤 쉬고 즐기는 모습.",
+          "friction": "수산의 추가 전투 이후 휴식 날짜 기록이며 오늘 미완료 마감이 연장된다는 말은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:9:19",
+      "textSha256": "67b4cce7fd4da0d722a68b63ce89eacba2678371afb68d86fa7488a2ff037463",
+      "status": "candidate",
+      "reason": "기쁜 날을 서로 예물을 주는 날로 삼은 모습이 가진 것을 아낄지 마음을 나눌지의 부담을 건드린다.",
+      "contextNote": "지방 유다인들이 부림절 잔치와 예물 나눔을 시작한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H059",
+          "clue": "기쁜 것을 혼자만 누리지 않고 서로 선물로 나누는 모습.",
+          "friction": "부림절의 지역 관행과 날짜이며 현재 나눔 뒤의 이익이나 기쁨을 확약하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:9:20",
+      "textSha256": "1945187416395c70178571ee6add34094a9b9c6e2718bdc7b31130b96a8edcb3",
+      "status": "exclude",
+      "reason": "원근의 모든 유다인에게 기록을 보낸 서두로 어떤 생활 행동을 택할지 내용은 다음에 있다.",
+      "contextNote": "모르드개 부림절 서신의 시작.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:9:21",
+      "textSha256": "6b07bad24c60ebc4499849522befe0fad2b156af12b7105a17b251789df6b8c1",
+      "status": "exclude",
+      "reason": "매년 두 날짜를 지키라는 절기 규례만 있어 지금 어느 일정을 선택할지 실마리는 없다.",
+      "contextNote": "부림절 기념일 규정.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:9:22",
+      "textSha256": "cf6ac89d7ef28d67140c4037e6deb0393878dd5f378608985153e37a514c59fc",
+      "status": "candidate",
+      "reason": "슬픔에서 기쁨으로 바뀐 날을 즐기고 서로 선물하며 가난한 이도 돌보는 선택에서 나눔과 누림을 함께 볼 실마리가 된다.",
+      "contextNote": "구원 기념을 잔치·선물·구제로 지키게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H059",
+          "clue": "기쁨을 즐기는 날에도 서로 예물을 나누고 가난한 사람을 돌보는 구체 행동.",
+          "friction": "민족 구원의 기념일이며 지금 내 상황이 같은 구원 사건이라는 뜻은 아니다. 생활비 부족과 여유 있는 나눔을 구별한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:9:23",
+      "textSha256": "599b1e1375a19e9797dc32f754410c6536477c7706d7a94300b489c9fca58252",
+      "status": "exclude",
+      "reason": "이미 하던 대로 계속했다는 미완결은 지속할 내용과 이유가 다른 절에 의존한다.",
+      "contextNote": "유다인들이 부림절 관행을 이어간다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:9:24",
+      "textSha256": "047ef77edbbf45bbb2a94c5b77ccc59bb0f16a7715ad78dc61329c99ebf94312",
+      "status": "exclude",
+      "reason": "긴 하만 계보와 민족 진멸 날짜 제비가 대부분인 미완결로 공평한 순서 제비와 연결할 수 없다.",
+      "contextNote": "부림절 유래로 하만 계획을 회고한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:9:25",
+      "textSha256": "d7d9ba803db5d07449c2b413f29845d0c82186c951d44327fe4b9f9c4591a0f9",
+      "status": "exclude",
+      "reason": "악한 꾀가 돌아가 하만과 아들들이 교수형 당한 결과는 작은 친구 잘못의 응징으로 읽기 어렵다.",
+      "contextNote": "하만 몰락을 부림절 유래로 설명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:9:26",
+      "textSha256": "9c7267ba3afea558a07ab0931f5bd407fd1c51d16d3c82d0cde9c3c146f53e1e",
+      "status": "exclude",
+      "reason": "부르에서 부림 이름이 나왔다는 설명과 미완결 참여 조건은 절기 해설 없이는 개인 실마리가 없다.",
+      "contextNote": "부림절 명칭의 유래와 언약 서두.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:9:27",
+      "textSha256": "069f5a2e258e1b400d907807d0dff2b777819a02daebf514453892c4d51cb08c",
+      "status": "hold",
+      "reason": "좋게 여긴 일을 계속 지킬 뜻을 정하는 책임은 보이나 해마다 이틀 절기를 지키는 결정으로 현재 선택 기준은 약하다.",
+      "contextNote": "공동체가 부림절 준수를 정한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H054",
+          "clue": "좋게 시작한 일을 이어 지킬 뜻을 정한다.",
+          "friction": "매년 절기 이틀의 규정이고 새 기회와 기존 약속의 갈등은 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:9:28",
+      "textSha256": "e7f9011b8f96d5e9659d1a7e27a40491b39433369d23adcfdb81df7442a33370",
+      "status": "exclude",
+      "reason": "대대로 기념을 폐하지 않는 규정은 관계 약속이나 현재 일정의 구체 부담을 다루지 않는다.",
+      "contextNote": "부림절을 후손까지 전할 규례.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:9:29",
+      "textSha256": "b8836fa05699b9fdcb7d60ce489d567800299e3531f91eb77800eaf39b2b07d0",
+      "status": "exclude",
+      "reason": "에스더 계보와 전권 서신의 강제 준수 도입으로 개인 선택 내용은 아직 없다.",
+      "contextNote": "에스더와 모르드개의 두번째 부림절 편지.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:9:30",
+      "textSha256": "669f1565588450c221c36f6bf37afb940c11110a2f91e5033a574963589119fb",
+      "status": "hold",
+      "reason": "화평함과 진실함을 함께 담아 글을 쓰는 태도는 서운함을 말할 고민에 맞지만 전국 부림절 서신의 미완결이다.",
+      "contextNote": "화평하고 진실한 말로 부림절 서신을 보낸다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H026",
+          "clue": "진실한 말을 하되 화평함도 함께 담아 글을 쓴다.",
+          "friction": "전국 부림절 서신의 인용으로 지시어와 미완결이 있고 상대의 수락은 알 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:EST:9:31",
+      "textSha256": "4010d3579cfc633bdb9951606e86430042470855e181215f8665413ed4a28af3",
+      "status": "exclude",
+      "reason": "금식·부르짖음과 명령·후손의 절기 근거를 긴 한 절에 묶어 생활 일정 선택의 실마리는 가려진다.",
+      "contextNote": "부림절 기한과 공동체 약속의 근거.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:9:32",
+      "textSha256": "2efdd400efb5268a31bfceeddcf3e4292d91a69eb8a3c1d4e771060f58215f37",
+      "status": "exclude",
+      "reason": "부림절 일이 명령과 책 기록으로 확정된 사실만 있어 내 물품 기록의 선택과는 목적이 다르다.",
+      "contextNote": "부림절 규례의 문서 확정.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:10:1",
+      "textSha256": "6dd5a3baebc7879737b721ea347e1450bd095c9027584abb09e35c7f4fa76732",
+      "status": "exclude",
+      "reason": "본토와 섬에 조공을 부과한 사실은 개인 지출 여력이나 나눔의 자발성을 말하지 않는다.",
+      "contextNote": "왕의 조공 통치 요약.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:10:2",
+      "textSha256": "674f301441a1f2596de39618cd2b2d300ca7cd26458666c71add8a5baa236b21",
+      "status": "exclude",
+      "reason": "왕과 모르드개의 사적이 열왕 일기에 있다는 출처 질문으로 현재 선택의 내용을 담지 않는다.",
+      "contextNote": "왕실 기록 출처 안내.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:EST:10:3",
+      "textSha256": "ba88b8e9de820e6ce5cfb5bb8cbfcf8685d867e2af4ac2b9bc97ecdbdb35597e",
+      "status": "candidate",
+      "reason": "높은 자리의 목적을 자기 명예뿐 아니라 사람의 이익과 안위에서 찾는 모습이 운영 역할 도전의 의미를 읽을 실마리가 된다.",
+      "contextNote": "모르드개의 지위·존중과 공동체를 위한 활동으로 책을 끝낸다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G15",
+          "clue": "역할을 맡는 의미를 다른 사람의 이익을 도모하고 안위하는 데서 찾는다.",
+          "friction": "왕 다음의 높은 지위와 사람들의 사랑은 모르드개의 결과이며 내 역할 선발·인기를 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    }
+  ]
+}

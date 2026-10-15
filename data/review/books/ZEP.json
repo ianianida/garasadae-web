@@ -1,0 +1,647 @@
+{
+  "bookCode": "ZEP",
+  "corpusSha256": "f8d5c8b377e243b05fb884b4a6965d2c06a95de74b64a716ee4b95989d61e971",
+  "criteriaVersion": "garasadae-corpus-2026-10-08-v1",
+  "reviewer": "Codex review_ezk_rev",
+  "method": "direct-codex-reading",
+  "entries": [
+    {
+      "id": "KRV:ZEP:1:1",
+      "textSha256": "a26b0a7c93a4a2371d3214302b5750ee5a3fb93e0eecbe7d9cc393a0daf4feda",
+      "status": "exclude",
+      "reason": "요시야 때와 스바냐의 긴 계보는 표제로 생활 선택의 내용이 없다.",
+      "contextNote": "예언자의 시대와 혈통을 소개한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEP:1:2",
+      "textSha256": "6aca66dc04f27df45c6ef868d4a50b40ccefa04be665f66de8609ce635b94ed4",
+      "status": "exclude",
+      "reason": "지면의 모든 것을 진멸하는 선언은 선택의 기준 없이 전면 재난을 예고한다.",
+      "contextNote": "광범위한 심판을 시작한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEP:1:3",
+      "textSha256": "87d089e770b33809f337cc0e0cd8e8299ac8fb5ee11abae1fde6996daf9f94da",
+      "status": "exclude",
+      "reason": "사람과 동물과 악인의 멸절은 심판 범위를 열거하며 현재 개인의 대안에 연결할 단서가 없다.",
+      "contextNote": "창조 세계 전체에 심판이 미친다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEP:1:4",
+      "textSha256": "b1c18ed7688b4a63970dd86392c0428cd6d2e48d00aeb26a519e07d471589198",
+      "status": "exclude",
+      "reason": "바알과 그마림 및 제사장의 제거는 우상 직분의 풀이가 있어야 읽힌다.",
+      "contextNote": "유다와 예루살렘의 우상 숭배를 심판한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEP:1:5",
+      "textSha256": "124f0d82b790593f33eff87dc2e78b83e3beb188dab4b5868443874137647be0",
+      "status": "exclude",
+      "reason": "천체와 말감에게 맹세하는 제의는 뒤의 멸절 대상 나열로 일반 의견 갈등을 다루지 않는다.",
+      "contextNote": "뒤섞인 종교 의존을 열거한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEP:1:6",
+      "textSha256": "4ab2fa90190068f099b115dfacf922ebef664ee6373a8cf20b8473b060648336",
+      "status": "exclude",
+      "reason": "찾지도 구하지도 않은 이를 멸절하는 고발은 도움 요청을 망설인 사람에게 같은 죄와 벌을 붙일 수 없다.",
+      "contextNote": "하나님을 배반한 이들의 심판을 마친다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEP:1:7",
+      "textSha256": "c3bfc41c6643914954a5dc5fb4e37c8e45cc0b65d1852fec2eb98a9b57713a39",
+      "status": "hold",
+      "reason": "잠잠함은 돌아볼 여지를 주나 그 이유가 희생으로 준비된 심판 날이어서 단순 쉼의 권유로 읽기 어렵다.",
+      "contextNote": "여호와의 날 앞에 경외와 침묵을 요청한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H063",
+          "clue": "계속 활동하기보다 잠시 멈추는 태도를 떠올릴 수 있다.",
+          "friction": "희생과 초청자의 구별은 재판의 비유다. 불편한 이유를 모르는 사람에게 곧 재앙이 온다는 뜻으로 주면 안 된다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEP:1:8",
+      "textSha256": "46255ecc5e086e314969edf396089779458e8d75eb388bd9181bf2af5400d6b9",
+      "status": "exclude",
+      "reason": "왕자와 이방 의복의 벌은 지배층과 제의·문화 맥락의 고발로 옷을 갖고 싶은 죄책감과 동일시할 수 없다.",
+      "contextNote": "심판 대상인 지도층을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEP:1:9",
+      "textSha256": "0a882b6ee65fad3c68af05f6941a203472882d2db50b937e3ff80cd5bd86b87c",
+      "status": "exclude",
+      "reason": "문턱을 뛰며 강포와 궤휼로 집을 채우는 행위는 관행 풀이와 실제 약탈이 전제된다.",
+      "contextNote": "권력자의 집을 채우는 부정한 행위를 심판한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEP:1:10",
+      "textSha256": "0d31e6c7276d6be3ccf231006e3a5ef65fbe700207e3a2e3c01ca3417d52a020",
+      "status": "exclude",
+      "reason": "어문과 둘째 구역의 무너지는 소리는 도시 지형과 전쟁을 알아야 뜻이 연결된다.",
+      "contextNote": "예루살렘 여러 구역에 재난이 닥친다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEP:1:11",
+      "textSha256": "faf56e6147c2f603006597a87364bba5fe65fc53463d997dba3d44b8923c5d2e",
+      "status": "exclude",
+      "reason": "막데스와 은 운반자의 끊김은 상업 지구의 파괴로 중고 판매의 성공 여부를 말하지 않는다.",
+      "contextNote": "상인들이 재난 때문에 애곡한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEP:1:12",
+      "textSha256": "81341b4b158621526172b00a6a2e07db330ef019342ab96782776eff9998dfeb",
+      "status": "hold",
+      "reason": "복과 화에 무감각해 가라앉은 찌끼의 비유는 안일함을 점검하게 하나 등불의 형벌까지 있어 정상적 휴식과 다르다.",
+      "contextNote": "하나님이 예루살렘의 무감각한 이들을 찾으신다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H053",
+          "clue": "마무리의 책임에 무감각해져 있는지 생각할 여지는 있다.",
+          "friction": "사회적 불신앙과 자기만족이 원뜻이며 일이 지루한 감정을 같은 죄로 판정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEP:1:13",
+      "textSha256": "3ab78dd91042f99fe0f663d1819127742809c4edf0da48ea751412455078ae0e",
+      "status": "exclude",
+      "reason": "집과 포도원을 누리지 못하는 약탈 예고는 실제 소유 선택의 손익이나 다음 기회를 알려 주지 않는다.",
+      "contextNote": "부정한 안전이 무너지는 심판이다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEP:1:14",
+      "textSha256": "3589cf3958382f78818d5179e6c0587d862ba808737c3eda68a9840c3905a726",
+      "status": "exclude",
+      "reason": "빠르고 가까운 날에 용사가 우는 경보는 실제 기한 없는 고민에 재난의 시급성을 더할 수 있다.",
+      "contextNote": "심판의 임박함을 강조한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEP:1:15",
+      "textSha256": "32ad3fa03ea3f7a4ee0e53ce79333db252ccb40026c6cc3c5d9bf2b5936ee499",
+      "status": "exclude",
+      "reason": "분노와 고통과 어둠을 나열한 날은 현재 기분을 해석할 기준 없이 재앙만 묘사한다.",
+      "contextNote": "심판 날의 성격을 열거한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEP:1:16",
+      "textSha256": "54ac0c171f1953b7a1efeb45dbe98c54da20b42100efb252fe4a337450f41283",
+      "status": "exclude",
+      "reason": "나팔로 경고하고 요새를 치는 전투는 개인의 역할 도전이나 준비 원칙이 아니다.",
+      "contextNote": "도시와 망대의 파괴를 예고한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEP:1:17",
+      "textSha256": "89505414a5644d30f291f490093f004c936f850a3bd5fcde4ad3907f91531892",
+      "status": "exclude",
+      "reason": "죄 때문에 피와 살이 티끌과 분토가 되는 고난은 건강과 피로를 같은 형벌로 볼 수 없어 생활 실마리가 어렵다.",
+      "contextNote": "백성의 죄와 참혹한 심판을 연결한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEP:1:18",
+      "textSha256": "aa8b069b648b7b86af1542cb4fecf0d7c44204268ffeb5fdf969b2f395c83ff6",
+      "status": "hold",
+      "reason": "은금이 모든 것을 건지지 못한다는 한계는 재물의 비중을 돌아보게 하나 온 땅 멸절까지 전체로 읽으면 작은 구매 고민과 강도가 다르다.",
+      "contextNote": "재물도 심판 날에 백성을 지키지 못한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H009",
+          "clue": "물건과 돈이 삶의 전부인지 돌아볼 여지는 있다.",
+          "friction": "구매 여력이 있는 기쁨 자체를 전면 멸망과 연결할 이유는 없다. 재물의 한계만으로 지금 사지 말아야 한다는 실마리는 충분하지 않다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEP:2:1",
+      "textSha256": "084e489f93cd89c4fdc7269fe63f4a8ebb3c1e51464738c171b418fae231d291",
+      "status": "exclude",
+      "reason": "수치 모르는 백성에게 모이라는 짧은 호소는 무엇을 바꾸려 모이는지 다음 절들이 필요하다.",
+      "contextNote": "심판 전 회개할 모임을 부른다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEP:2:2",
+      "textSha256": "95748b0db4ce26fc72a162fe1c8e0c3a31d13c26f3fda819c2707ea110054eea",
+      "status": "hold",
+      "reason": "시간이 겨처럼 지나기 전이라는 호소는 미루는 태도를 비추지만 명령 시행과 진노를 현재 마감과 같게 볼 수 없다.",
+      "contextNote": "모여 돌아와야 할 긴급성을 반복한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H050",
+          "clue": "더 기다리기 전에 지금 할 수 있는 일을 볼 여지는 있다.",
+          "friction": "신의 심판 전에 회개하라는 말이다. 신청의 준비 정도나 다음 기회를 알리는 구체 정보는 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEP:2:3",
+      "textSha256": "0ca2c563c367979edd5377db874d94249f959ac7f8c3add9daab47460adfee85",
+      "status": "candidate",
+      "reason": "공의와 겸손을 구하면서도 숨김의 결과는 혹시라 두는 태도는 불확실한 평가 앞에서 정직을 지킬 부담을 비춘다.",
+      "contextNote": "여호와를 찾고 규례를 지키는 남은 자에게 회개를 요청한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "유리한 결과가 확정되어야만 공의를 택한다는 조건을 내려놓고 어떤 기준으로 행동할지 생각할 수 있다.",
+          "friction": "분노의 날에 숨김 받는 공동체의 이야기다. 직장 불이익을 신의 진노라거나 사실대로 쓰면 반드시 보호받는다고 말하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEP:2:4",
+      "textSha256": "309a9e98d565fe40a65460b78b1dcd2216ea0323a38704c66d1303dcf549528e",
+      "status": "exclude",
+      "reason": "가사·아스글론·아스돗·에그론의 붕괴는 지리별 심판의 나열로 개인 이동의 기준이 아니다.",
+      "contextNote": "블레셋 도시들의 심판을 선언한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEP:2:5",
+      "textSha256": "b6de4c9161a68951a405ee00d9931e12e1c730650e6ad21a35ea10590851ec29",
+      "status": "exclude",
+      "reason": "그렛과 해변 가나안의 주민 멸절은 특정 민족 심판으로 일반적 비움이나 여행의 신호가 아니다.",
+      "contextNote": "해변 민족을 심판한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEP:2:6",
+      "textSha256": "30f8239822eb8fbb3332932ae918bd8297f8b9b187851550439e6e00bde62220",
+      "status": "hold",
+      "reason": "도시 해변이 양떼의 초장으로 변하는 모습은 바뀐 용도를 떠올리게 하나 파괴 뒤의 장소 설명이 중심이다.",
+      "contextNote": "황폐한 해변이 목양지로 바뀐다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H062",
+          "clue": "원래 계획한 형태가 아니어도 다른 쓰임이 생길 여지를 생각할 수 있다.",
+          "friction": "전쟁으로 비워진 땅의 예언이며 계획 변경이 곧 좋은 쓰임을 보장하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEP:2:7",
+      "textSha256": "181ec933dc8c70041479baf45edd6b00472d1c7fc2e33ffe3fec252e75c8dde7",
+      "status": "hold",
+      "reason": "양을 먹이고 저녁에 눕는 회복은 안정된 리듬의 이미지지만 아스글론과 포로 귀환의 맥락이 필요하다.",
+      "contextNote": "남은 유다가 되찾은 땅에서 머문다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H015",
+          "clue": "활동 뒤 저녁에 눕는 생활을 가치 없는 빈 시간으로만 볼 필요가 있는지 읽을 수 있다.",
+          "friction": "유다의 회복 선언이며 주말을 비울 실마리보다는 생활 안정의 위로 비중이 크다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEP:2:8",
+      "textSha256": "d2afb7cd10afb948aebe3d223753d80322ba169ca9b4f713f7d94ef92a0e0369",
+      "status": "hold",
+      "reason": "교만과 모욕에 더해 경계를 침범한 죄는 남의 영역을 생각하게 하나 후욕과 국가 분쟁의 풀이가 필요하다.",
+      "contextNote": "모압과 암몬의 적대 행위를 고발한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "C007",
+          "clue": "내 편의를 위해 다른 사람 영역에 들어가는 경계 문제를 떠올릴 수 있다.",
+          "friction": "영토 침범과 민족 모욕의 고발이다. 가족의 뜻을 묻기 전 상태와 실제 침략은 구별한다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEP:2:9",
+      "textSha256": "63c7ad30363d07558b6f4099be60a946059c2d66b4744ff5225639e8854ba04e",
+      "status": "exclude",
+      "reason": "모압과 암몬의 소금 구덩이 및 약탈은 소돔·고모라와 영토 역사 풀이가 필요하며 거래 결과의 판단이 아니다.",
+      "contextNote": "모욕한 국가의 황폐와 유다의 기업을 예고한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEP:2:10",
+      "textSha256": "4435f235c94b7d7e85b20e40e05e067414025d3cb1890e53feadcc3f38403d05",
+      "status": "exclude",
+      "reason": "교만과 훼방의 보응은 이런 일이 무엇인지 앞절이 있어야 읽혀 독립된 관계 선택 실마리가 약하다.",
+      "contextNote": "두 나라가 심판받을 이유를 요약한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEP:2:11",
+      "textSha256": "983499d2d163de870f7db65eb5619e68774c22d9aa792d4355f7a78162ecb3a5",
+      "status": "hold",
+      "reason": "각자 처소에서 같은 하나님을 경배하는 확장은 함께함의 그림이나 현재 주변 의견의 차이를 풀 기준은 넓다.",
+      "contextNote": "우상 쇠진 뒤 열국의 예배를 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C010",
+          "clue": "서로 있는 자리와 공동의 지향을 함께 생각할 여지는 있다.",
+          "friction": "예배에 대한 예언이지 수익과 재미라는 다른 프로젝트 목표가 저절로 합쳐진다는 약속은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEP:2:12",
+      "textSha256": "ea177e2c6acf153bd5eedc912e841c711cf2e9f1fb846bc1e1a13b58aca573ed",
+      "status": "exclude",
+      "reason": "구스가 칼에 살륙될 선언만 있어 생활 선택에 적용할 이유와 방향이 없다.",
+      "contextNote": "구스의 심판을 말한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEP:2:13",
+      "textSha256": "6e5316539aba6a2ef582cf5affc6c2bce56c7aacf4910121d9304ae7a957870e",
+      "status": "exclude",
+      "reason": "앗수르와 니느웨가 사막처럼 되는 파괴는 특정 국가 심판으로 현재 계획의 실패 예고가 아니다.",
+      "contextNote": "북방 제국을 심판한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEP:2:14",
+      "textSha256": "5e3f3763b6b711cb3f17083cc5dd59defb63a24ca5acda46968ddaabc92baa5c",
+      "status": "exclude",
+      "reason": "당아와 고슴도치가 버려진 기둥에 사는 모습은 동물명과 황폐한 도시 맥락 풀이가 필요하다.",
+      "contextNote": "니느웨 폐허의 적막을 묘사한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEP:2:15",
+      "textSha256": "7f0480b26726ae0acf6de2060dcc084359f9fb568be30dcfecd33bc261729117",
+      "status": "hold",
+      "reason": "나만 있다는 자만 뒤의 황폐는 자기 예외시를 돌아보게 하나 즐겁고 걱정 없는 상태 자체를 죄로 정할 수 없다.",
+      "contextNote": "니느웨의 과거 자랑과 현재 조롱을 대조한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "내 방식만이 답이라고 보는 마음 때문에 실제 지적을 못 듣는지 살필 수 있다.",
+          "friction": "도시 전체의 교만과 몰락이며 팀원 실수 지적의 옳음을 새로 확정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEP:3:1",
+      "textSha256": "8c5f962543a6bfca2d1f6cbddeb937ca4966e439bb36229de5a0dee7a6284ac1",
+      "status": "exclude",
+      "reason": "더럽고 폭력적인 성읍의 화는 고발 대상의 소개로 개인의 구체 대안을 다루지 않는다.",
+      "contextNote": "다시 예루살렘의 죄를 부른다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEP:3:2",
+      "textSha256": "8575bf92aa5a61b2c9a177b6b8d48c6e67a2b0b48ea83e8d10910199cecf3dae",
+      "status": "hold",
+      "reason": "교훈을 받지 않고 가까이 가지 않는 모습은 지적 수용을 비추지만 하나님의 명령 거부와 모든 인간 조언은 다르다.",
+      "contextNote": "도시의 불순종과 불신을 고발한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "기분이 나빠서 도움이 되는 교훈까지 안 받으려는지 생각할 수 있다.",
+          "friction": "주체는 하나님을 멀리한 성읍이다. 부당한 비판도 무조건 받으라는 의미가 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEP:3:3",
+      "textSha256": "981ce273976bceb663e1e137e5a577a7b82173245000b84a675c8f127e6abcd3",
+      "status": "exclude",
+      "reason": "방백과 재판장의 포식을 사자와 이리로 표현하여 일상 운영의 실수를 같은 범죄로 정하기 어렵다.",
+      "contextNote": "예루살렘 권력층의 착취를 비유한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEP:3:4",
+      "textSha256": "471c40892b12a6e94f588cf92a7bc78c97259187daa9f18864165ff275425356",
+      "status": "exclude",
+      "reason": "선지자의 간사와 제사장의 성소 훼손은 직분과 율법의 책임이 있어 개인 의견 차이에 곧바로 적용할 수 없다.",
+      "contextNote": "종교 지도층도 부패했음을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEP:3:5",
+      "textSha256": "7a2e6b37d8e5ed210c0c3f0106d1e973177df0dd3ba9cc7ebb7576fa25512e6c",
+      "status": "hold",
+      "reason": "날마다 공의를 드러내는 하나님과 수치 모르는 불의를 대비해 정직한 반복을 생각하게 하지만 구체 갈등의 연결은 넓다.",
+      "contextNote": "도시 부패 가운데 하나님의 의로움을 대조한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "분위기와 별개로 매번 공정한 기준을 드러내는 일의 가치를 읽을 수 있다.",
+          "friction": "아침마다 나타나는 하나님의 공의이며 사용자의 수치 작성이 같은 신적 판단이라는 뜻은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEP:3:6",
+      "textSha256": "7539596e104e4e32e38bbc025ebf8bd6fc64a31d81ea634dd72c57aa75dcfb0d",
+      "status": "exclude",
+      "reason": "탑과 거리와 주민 없는 성읍은 국가 심판의 결과로 현재 관계의 고립을 확정할 수 없다.",
+      "contextNote": "열국의 멸망을 기억시킨다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEP:3:7",
+      "textSha256": "399d96f2d980e3b7b7bba0e83065b42f77131a2022c635d6d146c6e5d17ddb26",
+      "status": "hold",
+      "reason": "교훈을 받으면 거처를 잃지 않는데도 더러움을 부지런히 행하는 역설은 수정 거부를 비추나 형벌 조건이 과중하다.",
+      "contextNote": "심판 경고에도 바꾸지 않는 백성을 고발한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "고칠 기회가 왔는데 오히려 기존 실수를 더 열심히 하고 있는지 돌아볼 수 있다.",
+          "friction": "거처 단절이라는 국가 심판을 실수 수정의 결과로 보장하거나 협박하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEP:3:8",
+      "textSha256": "a3817a2b7c4dc62c6c0cd92f0df6fcf67867202159f918875ee9a10f513ebcc5",
+      "status": "exclude",
+      "reason": "기다리라는 말의 대상이 온 땅의 진노와 소멸이어서 판매와 회복을 편안히 기다리라는 의미로 자를 수 없다.",
+      "contextNote": "열국을 한데 모아 심판할 날을 기다리게 한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEP:3:9",
+      "textSha256": "923235e8e7375a275653246f1a44e05fcaad3e4bd6153fb487a2430878812fdb",
+      "status": "hold",
+      "reason": "깨끗한 말과 한마음의 섬김은 공동 방향을 생각하게 하나 주체는 회복시킬 하나님이며 현재 의견 조율 방법은 없다.",
+      "contextNote": "심판 뒤 열국의 언어와 예배가 회복된다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C010",
+          "clue": "함께하는 일에 말과 지향을 맞추는 의미를 떠올릴 수 있다.",
+          "friction": "열국의 하나님 섬김에 관한 약속이다. 다른 목표가 자동으로 일치하거나 협력 성공을 보장하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEP:3:10",
+      "textSha256": "f5dd5ee287869d30abe4e3142271c1262bc79c9078f4abb09dab6b6d094a7e21",
+      "status": "exclude",
+      "reason": "구스 하수 건너 흩은 자의 딸이 예물을 가져오는 지리·공동체 비유는 풀이가 필요하다.",
+      "contextNote": "멀리서 돌아오는 예배자의 회복을 말한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEP:3:11",
+      "textSha256": "90c4a54b0070c0d18726d312e84669f0cb2eaa5d17c8e09299e94c5ea953c836",
+      "status": "hold",
+      "reason": "잘못의 수치를 끝내며 교만도 덜어 내는 회복은 수정 뒤 자책을 비추지만 공동체 구성의 제거까지 포함되어 연결이 복합적이다.",
+      "contextNote": "시온의 교만한 자를 없애고 수치를 거두는 약속이다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "과거 잘못의 수치만 계속 지니는 것이 유일한 이후 모습인지 생각할 수 있다.",
+          "friction": "교만한 이를 제하는 국가적 정결이며 사용자가 누구를 배제하거나 스스로 벌하라는 뜻이 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEP:3:12",
+      "textSha256": "e726e8cd1f5173ae6a4a0a39f945c9f0e17959430edaabd28043d5ec42a0040c",
+      "status": "hold",
+      "reason": "가난하고 곤고한 이도 남아 보호받는다는 말은 자격의 불안을 덜지만 도움 요청의 구체 부담에는 위로가 중심이다.",
+      "contextNote": "남은 백성이 하나님을 의탁하게 된다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "부족한 상태가 의지할 자격을 잃는 이유는 아닌지 읽을 수 있다.",
+          "friction": "하나님께 대한 의탁과 보호다. 실제 상대에게 부탁하면 수락한다는 정보는 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEP:3:13",
+      "textSha256": "5daa364bf760ddd9e487e564dbf1611ad172dd30fc5e9a39255e19c61920410b",
+      "status": "candidate",
+      "reason": "거짓과 기만 없이 살며 먹고 눕는 평안의 모습은 좋은 평가 때문에 말을 꾸밀지의 고민에 다른 삶의 기준을 준다.",
+      "contextNote": "회복된 남은 이스라엘의 정직과 평안을 묘사한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "더 유리하게 보이는 말보다 거짓 없는 말로 살아가는 모습을 바라보며 솔직한 작성의 의미를 읽을 수 있다.",
+          "friction": "회복된 백성의 평안에 관한 약속이다. 현실의 평가가 좋거나 정직 뒤 위협이 없을 것을 서비스가 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEP:3:14",
+      "textSha256": "54b4fd3fdaf7070b8d42f9b431bf09f97b7eb6dd4616fef89aa080d2d13e1672",
+      "status": "hold",
+      "reason": "전심으로 기뻐하라는 초청은 기쁨의 허용을 보여도 실제 두 선택과 부담을 비출 내용은 다음의 회복 이유에 더 있다.",
+      "contextNote": "회복된 예루살렘을 노래와 기쁨으로 부른다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H009",
+          "clue": "기쁨 자체를 계속 눌러야 하는지 생각할 수 있다.",
+          "friction": "원문은 공동체의 회복을 즐기는 것이라 물건 구매가 곧 그 기쁨이라는 연결은 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEP:3:15",
+      "textSha256": "47ee8d9068caa085a52a8127ab82543ab4e4f31f2c2af79a13bf68bcc277cc9a",
+      "status": "hold",
+      "reason": "형벌이 거두어지고 두려움이 끝나는 회복은 자책의 다른 끝을 보이나 원수 제거와 다시 화가 없다는 말의 범위가 크다.",
+      "contextNote": "하나님이 백성 가운데 계신 회복 이유다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "잘못을 인정한 뒤에도 영원히 벌을 받아야 한다는 생각에 다른 가능성을 읽을 수 있다.",
+          "friction": "이스라엘의 구원 약속이며 실제 모든 책임이 사라졌다거나 다시 어려움이 전혀 없다고 보장하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEP:3:16",
+      "textSha256": "f87d8e5f07bdda5ad503d0054ca38854c4d679b7f4943560068ff337f08f2f2d",
+      "status": "candidate",
+      "reason": "두려워 손을 늘어뜨리지 말라는 모습은 아직 시작도 하기 전 움츠러든 역할 도전의 부담을 직접 비춘다.",
+      "contextNote": "회복될 시온이 두려움 때문에 낙심하지 않도록 부른다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "두려움과 별개로 손을 아예 내려놓고 시작을 닫을지 생각하며 지원할 여지를 읽을 수 있다.",
+          "friction": "시온 회복의 위로이고 사용자의 지원을 신이 명령하거나 합격을 보장하는 문장이 아니다. 필요한 준비의 한계도 남는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEP:3:17",
+      "textSha256": "c24b8ef4d565828dba3536e3c47af7cf8d66a321ece9f2f2676f547649a64164",
+      "status": "candidate",
+      "reason": "나로 인해 기뻐하고 잠잠히 사랑하는 존재의 모습은 실수한 나를 계속 나쁜 사람으로만 보는 자책을 다른 시선에 놓는다.",
+      "contextNote": "하나님이 회복된 백성 가운데 계시며 그들을 기뻐하신다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "나를 보는 시선이 정죄와 실망만인 것은 아니라는 사랑의 그림에서 이미 고친 잘못과 지금의 나를 구별할 실마리를 읽을 수 있다.",
+          "friction": "원래는 시온을 구원하시는 하나님의 기쁨이다. 인간 피해자가 모두 용서했다거나 실제 보상 책임이 없어졌다고 새로 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEP:3:18",
+      "textSha256": "40ea5c60786973420b4f79f4a09da48521d035fc295844808159cfe36f3ed7cf",
+      "status": "exclude",
+      "reason": "대회와 치욕의 무거운 짐을 지닌 사람을 모으는 말은 절기와 흩어진 공동체 맥락을 풀어야 한다.",
+      "contextNote": "예배로 모이지 못한 근심을 회복한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ZEP:3:19",
+      "textSha256": "a2c26f58b950fdd90052cde78fcea36c966ffd182ccccb99eb4c7b0a24dcdad7",
+      "status": "hold",
+      "reason": "저는 자와 쫓겨난 자에게 명성을 주는 반전은 능력 불안을 덜지만 괴롭히는 자의 처벌까지 일상 도전에 덧붙일 수 없다.",
+      "contextNote": "상처와 수치를 겪은 백성을 구원하고 모은다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "지금 낮게 보이는 처지가 앞으로의 모든 자리를 정하는지 돌아볼 수 있다.",
+          "friction": "민족의 명성 회복을 개인의 좋은 평가와 혼동하지 않고 현재 누군가가 나를 박해한다고 가정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ZEP:3:20",
+      "textSha256": "390e71c06c126a80a3ee4c9c42f69ded8c357050dc3592d789e1961439b2a77d",
+      "status": "hold",
+      "reason": "사로잡힘에서 모여 칭찬받는 회복은 재출발의 소망이 있으나 구체 행동보다 미래의 선언이 중심이다.",
+      "contextNote": "스바냐의 심판을 백성의 귀환과 명성 회복으로 마친다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H060",
+          "clue": "지난 손실로 끝난 모습 외에 다시 모여 서는 그림을 읽을 수 있다.",
+          "friction": "하나님의 포로 귀환 약속이며 놓친 개인 기회와 사회적 칭찬을 보장하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    }
+  ]
+}

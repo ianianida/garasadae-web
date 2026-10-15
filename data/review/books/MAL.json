@@ -1,0 +1,693 @@
+{
+  "bookCode": "MAL",
+  "corpusSha256": "f8d5c8b377e243b05fb884b4a6965d2c06a95de74b64a716ee4b95989d61e971",
+  "criteriaVersion": "garasadae-corpus-2026-10-08-v1",
+  "reviewer": "Codex review_ezk_rev",
+  "method": "direct-codex-reading",
+  "entries": [
+    {
+      "id": "KRV:MAL:1:1",
+      "textSha256": "faa185337c4e08de5eb023370e713b2fb8f483269e96577f908b55d0aa988dc0",
+      "status": "exclude",
+      "reason": "말라기를 통해 주신 경고라는 표제로 실제 선택 내용은 없다.",
+      "contextNote": "말씀의 수신자와 성격을 소개한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:MAL:1:2",
+      "textSha256": "99e79e2d737b1d6a218233ac084f930a6c5f461f352dced93103f2451dec4058",
+      "status": "hold",
+      "reason": "사랑받았다는 말에도 근거를 묻는 마음은 관계를 돌아보게 하나 야곱과 에서의 선택이 다음에 이어져 독립 연결이 어렵다.",
+      "contextNote": "하나님의 사랑을 의심하는 백성과 답을 시작한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H035",
+          "clue": "관계를 부정적으로 보는 느낌만으로 사랑의 부재를 정하고 있는지 생각할 수 있다.",
+          "friction": "모임의 실제 타인 마음은 모른다. 야곱의 선택을 사용자가 특별히 더 사랑받는다는 근거로 옮기지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:MAL:1:3",
+      "textSha256": "bd737d784fd270cccaa668f9a5a5cbafc08cdc31c1a8a6469789e2eea50d67da",
+      "status": "exclude",
+      "reason": "에서의 산업을 시랑에게 넘긴 심판은 민족의 선택과 황폐 맥락이 필요하며 가족의 미움 판단이 아니다.",
+      "contextNote": "야곱과 달리 에돔의 황폐를 말한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:MAL:1:4",
+      "textSha256": "0d5a159cf1d96f2c5d7618f8589a086dcef4e9d26b086c05911bce8a91dd4fa2",
+      "status": "exclude",
+      "reason": "다시 세워도 헐겠다는 에돔 심판은 새 시도나 재시작을 하나님이 막는다는 일반 신호가 아니다.",
+      "contextNote": "에돔의 자기 재건 확신을 심판한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:MAL:1:5",
+      "textSha256": "e632cf06fd8fb18c81eb442ffa25ba630dde7fc1d106f0058b20061e781acb3d",
+      "status": "hold",
+      "reason": "자기 경계 밖에서도 큰 하나님이라는 시야는 내 관점만의 한계를 비추지만 구체 대안에 대한 단서는 넓다.",
+      "contextNote": "에돔 심판을 보고 알게 될 하나님의 권능이다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H064",
+          "clue": "내가 아는 범위와 주변 의견만이 모든 기준인지 생각할 수 있다.",
+          "friction": "이스라엘 바깥 국가의 심판이 원뜻이며 어떤 개인 가치를 택해야 할지 알려 주지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:MAL:1:6",
+      "textSha256": "1119eabe4d172e115ce9e3273213f54f642cedb88f0c59d6ccdfb8791b3815a1",
+      "status": "hold",
+      "reason": "공경한다는 관계와 실제 태도의 차이를 묻는 말은 말뿐인 존중을 비추지만 제사장의 하나님 멸시라는 고발이 중심이다.",
+      "contextNote": "아버지와 주인의 비유로 예배의 존중을 묻는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C005",
+          "clue": "구성원을 소중히 여긴다는 말과 실제 관심이 맞는지 돌아볼 수 있다.",
+          "friction": "하나님을 아버지와 주인으로 공경할 책임이다. 운영자와 부원의 관계를 같은 위계로 정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:MAL:1:7",
+      "textSha256": "ec380321e044506ef8fc260907e31475c1d9103d1f3e3f456980666e54722aa1",
+      "status": "exclude",
+      "reason": "더러운 떡과 여호와의 상에 대한 문답은 제사 정결의 뜻을 알아야 읽혀 선물의 가격 비교와 다르다.",
+      "contextNote": "제사장이 하나님을 멸시한 구체 행위를 밝힌다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:MAL:1:8",
+      "textSha256": "778f50e1cd26054cb9fed918f2e3bdcafa63756217e00fa677fdee0087b92b7d",
+      "status": "hold",
+      "reason": "총독에게도 줄 수 없는 제물을 드리는 대조는 실제로 건네는 품질을 비추나 장애 있는 제물과 작은 하자는 같은 문제가 아니다.",
+      "contextNote": "불성실한 제물을 통해 예배자의 태도를 묻는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H022",
+          "clue": "상대가 내 물건의 실제 상태를 알고 받는지 입장을 바꿔 생각할 여지는 있다.",
+          "friction": "본문은 규정에 어긋난 제물을 하나님께 드린 죄다. 하자를 알리고 합의해 파는 행위까지 악이라고 정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:MAL:1:9",
+      "textSha256": "d6647f6b96409879cbc7fb1d8739584f15ef0243cbf8f6e366d22491355352e6",
+      "status": "exclude",
+      "reason": "지금의 행위로는 아무도 받지 않겠다는 책망은 도움 요청을 망설이는 사람에게 같은 거절을 예고할 수 있다.",
+      "contextNote": "불성실한 제물과 은혜 요청의 모순을 묻는다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:MAL:1:10",
+      "textSha256": "687870f4a2a0a577be110e0fc477ef6d5c9a3796f2f827f13d3d885d67647711",
+      "status": "hold",
+      "reason": "헛된 제의를 더 지속하기보다 문을 닫는 편이 낫다는 경고는 형식 점검을 비추지만 현재 일의 가치가 없다는 판단은 하지 않는다.",
+      "contextNote": "하나님이 부정한 제의를 거절하신다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H043",
+          "clue": "같은 행동을 계속하는 것 자체보다 그 행동의 실제 의미를 살필 수 있다.",
+          "friction": "부정한 제사에 대한 거절이지 반복 실패한 작업을 무조건 포기하라는 결론은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:MAL:1:11",
+      "textSha256": "141e94d6d32d654fe4ea8df932278c171d061540a9300aa6faebda6e204f29b8",
+      "status": "exclude",
+      "reason": "해 뜨고 지는 온 민족의 깨끗한 제사는 예배 확장의 선언으로 일상 두 대안의 부담이 직접 나오지 않는다.",
+      "contextNote": "이스라엘의 불성실과 열국의 예배를 대비한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:MAL:1:12",
+      "textSha256": "d532318b76f74f9bdf94457055ad89b9918d4ffd13f01d097cfcf41370b3318c",
+      "status": "exclude",
+      "reason": "상의 음식과 열매를 경멸한다는 고발은 제사장의 예배 태도가 대상이며 식사를 누릴지의 죄책감과 다르다.",
+      "contextNote": "하나님의 이름을 더럽히는 말을 인용한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:MAL:1:13",
+      "textSha256": "3dc83ebcf0234c3b07907d75105d80cd5c736027c95288fccb8c285deff6cb98",
+      "status": "hold",
+      "reason": "번거롭다고 코웃음하며 부당한 것을 내는 모습은 귀찮음 속 책임을 비추나 토색과 제의 조건의 풀이가 필요하다.",
+      "contextNote": "예배를 귀찮아하면서 부정한 헌물을 가져온 잘못이다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "C004",
+          "clue": "작은 마무리를 귀찮다고 여기는 태도와 실제로 남기는 것을 돌아볼 수 있다.",
+          "friction": "공용 정리보다 약탈한 물건과 부정한 제물의 죄가 훨씬 강해 전체 연결은 불확실하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:MAL:1:14",
+      "textSha256": "339878e1e3380f053186dcbe29eb2bb41afb58535879193dbde250469dbccef9",
+      "status": "hold",
+      "reason": "좋은 것이 있는데 약속한 몫을 속여 흠 있는 것으로 바꾸는 모습은 거래의 정직을 비추지만 제물의 저주가 과중하다.",
+      "contextNote": "서원을 속여 이행하는 자를 심판한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H022",
+          "clue": "상대가 실제 상태를 모르는 틈을 이용해 약속한 것과 다른 것을 주려는지 살필 수 있다.",
+          "friction": "흠 있는 물건의 판매 자체가 죄는 아니고 합의와 고지가 핵심이다. 제물의 흠 규정과 저주를 일반 하자 거래로 옮기지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:MAL:2:1",
+      "textSha256": "1b68abd236e25a7f279719dc0d947769afb2e7e37131d9df5669081bffb5e101",
+      "status": "exclude",
+      "reason": "제사장에게 명한다는 소개에는 실제 명령 내용이 없다.",
+      "contextNote": "제사장 언약의 경고를 시작한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:MAL:2:2",
+      "textSha256": "a988852201fb25ab74807ad31038d098191d54c07502c798a6a0c5c9c08db3b4",
+      "status": "exclude",
+      "reason": "이름을 영화롭게 하지 않아 복을 저주한다는 제사장 심판은 일반 지적 거절과 같은 인과가 아니다.",
+      "contextNote": "제사장이 마음에 두지 않은 책임을 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:MAL:2:3",
+      "textSha256": "6153a6f3dd6869378a48619f6109c4aeda38b7ca99057ecce88a3c28d314091d",
+      "status": "exclude",
+      "reason": "절기 제물의 똥을 얼굴에 발라 제거한다는 수치는 제의 심판으로 타인의 잘못을 조롱할 지시가 아니다.",
+      "contextNote": "제사장의 극심한 수치와 배제를 선언한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:MAL:2:4",
+      "textSha256": "5ff5ecd6ff7f47b83953232c664cfea7122310462d30908b28eeb24373ff3806",
+      "status": "exclude",
+      "reason": "레위 언약을 유지하려 내린 명령은 제사장 직분과 언약의 뜻을 알아야 생활에 의미가 생긴다.",
+      "contextNote": "제사장 심판의 목적을 밝힌다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:MAL:2:5",
+      "textSha256": "3e6de8e9a8a43d308ce13e12dec3fb4c32ea03d4e82e68441c096aa6bc261bd7",
+      "status": "hold",
+      "reason": "생명과 평강을 주며 경외하게 하는 언약은 책임과 선물의 관계를 비추지만 레위 직분의 원리를 풀어야 한다.",
+      "contextNote": "레위가 받은 언약과 반응을 회고한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "맡는 역할이 부담만이 아니라 주어지는 몫과 함께인지 생각할 수 있다.",
+          "friction": "하나님과 제사장 가문의 언약이며 사용자가 같은 임명을 이미 받았다고 가정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:MAL:2:6",
+      "textSha256": "23fd7a4f2287b8597fa592180cc251fc3150fbeb7e1640318067dc164478f7cf",
+      "status": "candidate",
+      "reason": "진실한 말과 화평을 함께 지닌 동행은 유리하게 꾸며야만 좋은 관계와 평가를 얻는다는 부담에 다른 기준을 준다.",
+      "contextNote": "레위의 바른 교훈과 삶이 많은 이를 죄에서 돌이켰음을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "입술의 불의함 없이도 화평과 함께 행하는 모습을 읽으며 사실을 지키는 표현을 선택할 여지를 얻을 수 있다.",
+          "friction": "제사장의 교훈과 죄를 떠나게 한 삶의 회고다. 내 자료를 읽는 사람이 죄인이라는 뜻이나 솔직하면 평가가 좋다는 보장은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:MAL:2:7",
+      "textSha256": "51b33c2da635c3eff66569c36d6cc00aae56980963818baa9bf816d8cd3404fb",
+      "status": "hold",
+      "reason": "말로 가르칠 자리가 지식을 지켜야 한다는 책임은 지도자의 준비를 비추나 제사장과 율법의 역할이 특정되어 있다.",
+      "contextNote": "제사장에게 바라는 말과 지식의 책임이다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C005",
+          "clue": "운영자가 구성원의 물음에 답할 기반을 갖추는 몫을 생각할 수 있다.",
+          "friction": "사람의 질문을 하나님의 율법으로 단정하거나 운영자에게 제사장 권위를 주는 뜻은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:MAL:2:8",
+      "textSha256": "5815fa44e1cb58c4d9e6ea4169126434b423946d5f618f3c8d5b9e33369031ea",
+      "status": "exclude",
+      "reason": "율법에 걸려 넘어지게 한 제사장의 레위 언약 파기는 제의·직분의 고발로 일반 팀 실수를 같은 죄로 정할 수 없다.",
+      "contextNote": "지도자가 백성을 그릇 인도한 책임이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:MAL:2:9",
+      "textSha256": "4ed4b1d7d23bd758d90b5cf5206774cb90bb5085f5e62f180422c5e8e2f12ab0",
+      "status": "hold",
+      "reason": "사람에 따라 편벽한 태도를 보이는 고발은 공정함을 비추나 하나님 도와 공개 천대의 결과까지 설명이 필요하다.",
+      "contextNote": "제사장의 편파적 법 집행에 대한 심판이다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "C005",
+          "clue": "눈에 띄는 성과를 내는 사람만 더 잘 대하는 기준은 없는지 돌아볼 수 있다.",
+          "friction": "직분자의 편파적 율법 적용이며 모든 운영 차등이 부정하거나 공개 망신으로 이어진다는 뜻은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:MAL:2:10",
+      "textSha256": "fe74aa900d241f0c46dff28a5590e9d93998992d0d726153316f2bc10ea2eaae",
+      "status": "hold",
+      "reason": "같은 아버지와 창조를 두고 형제에게 속임을 묻는 말은 이익과 신의를 비추지만 궤사와 조상 언약의 옛말이 부담이다.",
+      "contextNote": "공동체 안의 배신과 언약 모욕을 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G09",
+          "clue": "상대를 더 받을 돈의 비교 대상으로만 볼지 약속을 맺은 사람으로 볼지 생각할 수 있다.",
+          "friction": "형제 공동체의 배신을 고발하며 가격 변경 협의 자체를 기만으로 판정하지 않는다. 기존 합의 조건을 보존한다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:MAL:2:11",
+      "textSha256": "b1ef64bf3fb66c3f66303efb4e4032ab1203ec22b41853898b1fd532c44b9a8a",
+      "status": "exclude",
+      "reason": "이방 신의 딸과 결혼했다는 비유는 언약·종교 배신의 뜻을 풀어야 하며 배경이 다른 사람과의 관계 금지로 쓰지 않는다.",
+      "contextNote": "유다의 불신실한 혼인과 우상 관계를 고발한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:MAL:2:12",
+      "textSha256": "e2b33d3a20d8ee83b42b83f7d7dc5b4c68f5b6292843935ad69697d192551440",
+      "status": "exclude",
+      "reason": "깨는 자와 응답하는 자까지 끊는 표현은 고대 관용과 앞의 행위를 알아야 의미가 선다.",
+      "contextNote": "불신실한 혼인과 관련된 자의 심판이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:MAL:2:13",
+      "textSha256": "86bf992ff53898b900bc0fab9f03581894d908be300bbcc9f4237453f9ca36b0",
+      "status": "exclude",
+      "reason": "눈물로 제단을 덮고 헌물을 받지 않는 상황은 이어지는 배우자 배신의 설명이 있어야 뜻이 완결된다.",
+      "contextNote": "하나님이 제물을 거절하는 까닭을 묻는 장면이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:MAL:2:14",
+      "textSha256": "0e2750df62035a3a9754ffc06ad603658208b7511e45f18ec839d46dd6ec97f7",
+      "status": "hold",
+      "reason": "맹약한 배우자에게 행한 배신은 약속의 무게를 비추지만 혼인 언약과 거래 가격의 변경은 책임 범위가 다르다.",
+      "contextNote": "젊을 때 맞은 아내를 저버린 죄를 밝힌다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G09",
+          "clue": "나중의 유리함과 별개로 먼저 서로 맺은 약속의 사람을 생각할 수 있다.",
+          "friction": "혼인과 하나님의 증언이 원뜻이다. 거래 재협의가 언제나 배우자 배신과 같다고 단정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:MAL:2:15",
+      "textSha256": "23b5cc74b2f0944503301bf0614f17572791c5653770dbd9f098dd76d8eed2b9",
+      "status": "exclude",
+      "reason": "영이 유여한데 하나를 짓고 경건한 자손을 구한다는 논리는 고대 혼인 해석의 설명이 필요하다.",
+      "contextNote": "혼인의 신실함을 지키도록 요청한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:MAL:2:16",
+      "textSha256": "cbfbce4a8f17a0d31594cfc63a737c603cba1301ca79270d341f95171ca07f1d",
+      "status": "exclude",
+      "reason": "이혼과 학대를 미워하는 선언은 혼인 배신의 문맥으로 반복 침해 관계에 무조건 머무르라는 근거가 아니다.",
+      "contextNote": "배우자를 속이고 버리는 일을 경고한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:MAL:2:17",
+      "textSha256": "ed5c78e351ee321bb9af0a21565ffe258eb34847be3ab37a6d56e1baec16413f",
+      "status": "hold",
+      "reason": "악인의 겉성공을 선함으로 부르는 모순은 결과로 정직을 재는 기준을 비추지만 하나님의 정의를 묻는 긴 인용이다.",
+      "contextNote": "백성의 말이 하나님을 괴롭게 한 이유를 밝힌다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "실적이 좋아 보인다는 이유만으로 그 방법도 좋다고 정하는지 생각할 수 있다.",
+          "friction": "개인의 질문 자체를 하나님 괴롭힘이라 정하지 않고 직장의 유불리와 하나님의 최종 정의는 구별한다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:MAL:3:1",
+      "textSha256": "154b65c6f8610fa6bc1bc71b0f1317d9100ae1e6fef5ed3cfce49b5ed66bbdcd",
+      "status": "exclude",
+      "reason": "언약의 사자가 성전에 임하는 예언은 인물과 성소 맥락의 풀이가 필요하여 도움 올 사람을 보장하지 않는다.",
+      "contextNote": "백성이 구하던 주의 도래를 예고한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:MAL:3:2",
+      "textSha256": "791a35d981adea84ece9e9bf8e3b37fcbdb7b2d8d121a314e822a5469a5825f7",
+      "status": "hold",
+      "reason": "불과 잿물로 깨끗하게 하는 이미지는 수정의 불편을 비추나 감당 못 할 심판 날이라는 시작까지 고려해야 한다.",
+      "contextNote": "임하실 분이 제사장을 정결하게 하신다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "불편한 수정이 전부 나를 부정하는 것인지 돌아볼 여지는 있다.",
+          "friction": "정결의 주체는 하나님이고 사람의 모든 비판이나 고통이 신의 정련이라고 단정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:MAL:3:3",
+      "textSha256": "19d860a9893c09365d1cb56524956353ac1330468aba28d45093fb741180b178",
+      "status": "hold",
+      "reason": "정련 뒤 바른 제물을 드리는 과정은 배우며 고침을 비추지만 레위의 제사 정결이 원래 대상이다.",
+      "contextNote": "제사장들이 깨끗해져 의롭게 제사한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "고쳤던 시간이 나를 영원히 나쁜 사람으로 남기는 것만은 아닌지 생각할 수 있다.",
+          "friction": "이미 책임을 고친 사람에게 더 많은 고통과 자책을 요구하는 뜻은 아니다. 직무 개선의 직접 방법도 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:MAL:3:4",
+      "textSha256": "7a535477db6033017587c76cb8619098f0a08e069652e5a7601628a4c5f8eaec",
+      "status": "exclude",
+      "reason": "옛날처럼 기쁨이 될 헌물은 다음 단락에 연결되며 현재 선물의 가격이나 방식의 기준을 주지 않는다.",
+      "contextNote": "정결 뒤 회복될 제사를 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:MAL:3:5",
+      "textSha256": "5a618fcd530685ab5068489e3def1de44418fc005f1aa4f2f015c355a060d03e",
+      "status": "hold",
+      "reason": "품삯과 약자의 억울함을 하나님이 증언한다는 말은 실제 사람의 몫을 비추지만 여러 큰 범죄의 긴 고발이 섞여 있다.",
+      "contextNote": "제의뿐 아니라 사회적 죄도 심판하신다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C005",
+          "clue": "운영의 효율 아래 약한 구성원이 억울한 몫을 지는지 살필 수 있다.",
+          "friction": "술수와 간음 및 임금 착취까지 포함하며 신입 적응 지원의 망설임 전체를 이 죄 목록으로 판정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:MAL:3:6",
+      "textSha256": "1a85cbd5926eee87af80e69db8c649d7db3302935fb3331432ad8f35f5d7e3d3",
+      "status": "hold",
+      "reason": "변하지 않는 하나님 때문에 소멸하지 않는다는 말은 과거 잘못 뒤 지속의 여지를 주지만 변역이라는 옛말과 언약 배경이 있다.",
+      "contextNote": "야곱 자손이 남아 있는 근거를 하나님의 신실함에 둔다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "한 번의 잘못이 나의 모든 존속 가치를 없애는지 생각할 수 있다.",
+          "friction": "언약 백성의 보존이지 사람의 평가나 책임이 변하지 않는다는 뜻은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:MAL:3:7",
+      "textSha256": "a7c98853ac0a84cadcb5c3297746bd52dc10ad044ad3c9de9d218bd4049cdb38",
+      "status": "hold",
+      "reason": "어떻게 돌아가야 하느냐는 질문은 막연한 후회보다 구체 수정을 찾게 하지만 답은 다음 십일조 문맥에 있다.",
+      "contextNote": "규례를 떠난 백성에게 돌아오라 요청한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H027",
+          "clue": "사과의 민망함만 생각하기보다 어떤 행동으로 돌아설지 물을 여지가 있다.",
+          "friction": "하나님과 백성의 규례 회복이며 실제 친구의 응답과 사과 방법은 나오지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:MAL:3:8",
+      "textSha256": "07724fabc693cd8043a7a456353ade3161ddb065d1da9869dcadbb9ce055b265",
+      "status": "exclude",
+      "reason": "십일조와 헌물을 도둑질한 문답은 특정 공동체 제의 책임으로 가족 물건과 구매 여력에 같은 도둑 판정을 붙일 수 없다.",
+      "contextNote": "백성이 돌이킬 구체 영역을 밝힌다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:MAL:3:9",
+      "textSha256": "fdee9ff756814889d67f89901dabce4ef8346903206e7475024212974adc9711",
+      "status": "exclude",
+      "reason": "온 나라가 도둑질해 저주받았다는 선언은 앞의 십일조 맥락 없이는 대상이 모호하고 개인 지출의 이유를 정하지 않는다.",
+      "contextNote": "공동체의 언약 위반을 심판한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:MAL:3:10",
+      "textSha256": "075b59a7cae7043168b4bb7a2d05bae36ec71dfb5bda6771dace58e3a72f03b9",
+      "status": "hold",
+      "reason": "창고를 채우는 나눔의 모습은 몫을 내는 선택을 비추지만 복을 쏟는 조건을 돈의 수익 보장으로 쓰기 쉽다.",
+      "contextNote": "백성에게 온전한 십일조와 언약의 복을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H059",
+          "clue": "내 몫 일부가 다른 이의 양식이 되는 점을 생각할 수 있다.",
+          "friction": "구체 십일조 규례와 하나님의 시험 허락이다. 일반 기부를 하면 돈이 돌아온다거나 생활비 부족에도 내라는 원리로 바꾸지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:MAL:3:11",
+      "textSha256": "a9dd8e87dc65463c38425d01ff287a778fd25721dc3f5c79ab3c31bf84313ab1",
+      "status": "exclude",
+      "reason": "황충을 막고 열매가 기한 전에 떨어지지 않는 예언은 수확 보호 약속으로 판매나 지원 기한의 성공 보장이 아니다.",
+      "contextNote": "앞의 언약 복을 농사의 보호로 설명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:MAL:3:12",
+      "textSha256": "abd572c7d1696cd72cfb8657083d51781a8a1b00d4f736a02ad51c6a4f47599d",
+      "status": "hold",
+      "reason": "아름다운 땅을 복되게 부르는 모습은 삶의 기쁨을 보여도 실제 생활 선택에는 간접적이다.",
+      "contextNote": "회복된 땅에 대한 열방의 평가다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H009",
+          "clue": "잘 누릴 수 있는 생활의 아름다움도 가치 있는지 돌아볼 수 있다.",
+          "friction": "개인 물건의 소비를 직접 말하지 않고 남의 평가가 반드시 좋아진다는 약속으로 옮기지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:MAL:3:13",
+      "textSha256": "5c37c8713d8f5b3f39c0668ab7d569316ea9f34eb128740cc674600cdb4a3a50",
+      "status": "exclude",
+      "reason": "무슨 말로 대적했냐는 문답의 도입은 실제 말이 다음 절에 있어 독립 의미가 덜 완성된다.",
+      "contextNote": "백성의 완악한 말을 묻는다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:MAL:3:14",
+      "textSha256": "bca9e4648cb85f954641af4c84a4ee7ed4c0670ef7ad616b8f81a34be5f26175",
+      "status": "hold",
+      "reason": "바른 섬김이 무슨 이익이냐는 질문은 결과만으로 행동을 재는 마음을 비추지만 인용된 불평임을 알아야 한다.",
+      "contextNote": "백성이 섬김의 실익을 부정한 말을 인용한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "좋은 평가를 얻지 못할 수 있다는 사실만으로 정직이 무의미해지는지 물을 수 있다.",
+          "friction": "하나님 섬김에 대한 불평의 인용이지 정직이 쓸모없다는 제품의 답이 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:MAL:3:15",
+      "textSha256": "63f9979f4315d03d28b3aa68943f07179b447357b63ee20cc1a94eb812bd2871",
+      "status": "hold",
+      "reason": "교만하고 악한 이가 잘되는 모습으로 복을 정하는 말은 빠른 성과 비교를 비추지만 답은 이어지는 분별에 있다.",
+      "contextNote": "겉성공을 보며 불평한 백성의 말을 이어 인용한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H046",
+          "clue": "더 빨리 잘되는 것처럼 보인다는 관찰만으로 내 기준을 모두 바꾸는지 살필 수 있다.",
+          "friction": "다른 사람이 실제 악하거나 내 계획이 옳다는 정보는 없으며 인용만으로는 해답이 닫히지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:MAL:3:16",
+      "textSha256": "d1488a810780e7b87ddbda166eee041fe51c0a85510dd242b8eb5f5037adc020",
+      "status": "hold",
+      "reason": "서로 말하는 경외자들의 대화를 듣고 기록하는 모습은 함께 버팀의 여지를 주나 기념책이라는 신적 기록이 중심이다.",
+      "contextNote": "하나님이 경외하는 이들을 기억하신다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "지친 시간을 꼭 혼자만 지나야 하는지 함께 말하는 자리를 떠올릴 수 있다.",
+          "friction": "기도와 경외의 공동체이며 특정 지인에게 부탁하면 돕는다는 응답은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:MAL:3:17",
+      "textSha256": "cbc21a3462f8ecd10a183de636cea3fa1d6d31b0a9a5f87fdd655d5073c62e52",
+      "status": "hold",
+      "reason": "특별한 소유로 아끼는 사랑은 존재의 가치를 보여도 뒤의 분별까지 이어지는 약속이라 구체 선택보다 위로가 크다.",
+      "contextNote": "정한 날에 백성을 아들처럼 아끼실 것을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "나를 보는 시선을 잘못에 대한 폐기만으로 제한하는지 생각할 수 있다.",
+          "friction": "하나님의 경외자에 대한 약속이며 실제 미완료 책임을 대신 지우지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:MAL:3:18",
+      "textSha256": "7ca085c85ccb08d31cbfcb7411f7ff4335742531e0714d5af28c5279aaec878f",
+      "status": "exclude",
+      "reason": "의인과 악인을 다시 분별한다는 예고는 현재 두 선택을 곧 그 이분법으로 나눌 근거를 주지 않는다.",
+      "contextNote": "정한 때에 드러날 구별을 말한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:MAL:4:1",
+      "textSha256": "ed555354b8ff3cdc3d211d14929c59b321eef1262f55fbc9e3039a2da98a3e32",
+      "status": "exclude",
+      "reason": "악인이 뿌리와 가지 없이 타는 풀무 심판은 경쟁자나 친구에게 같은 파멸을 예측할 수 없다.",
+      "contextNote": "교만한 자들의 최종 심판이다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:MAL:4:2",
+      "textSha256": "f199c1c3b3a635d4956bf917aeef0bb0dc3a005f1955d5616d218b686a719f21",
+      "status": "candidate",
+      "reason": "치료의 빛과 갇힌 우리에서 나와 뛰는 송아지는 회복 뒤에도 계속 자신을 가둔 자책을 비추는 생생한 그림이 된다.",
+      "contextNote": "하나님을 경외하는 이에게 회복과 기쁨을 약속한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "잘못을 고친 뒤에도 우리 안에 계속 가둘지, 빛을 받고 다시 움직일 가능성이 있는지 스스로 읽을 수 있다.",
+          "friction": "의로운 해와 치료의 광선은 하나님의 회복이다. 실제 질병이 치료된다거나 인간 피해자가 모두 용서했다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:MAL:4:3",
+      "textSha256": "7aef6b4d75cd2a39a5d7c9ab8d47e716b78899c57ae58de28902531d52dc6617",
+      "status": "exclude",
+      "reason": "악인을 재처럼 발로 밟는 날은 국가·종말 심판으로 미운 동료를 모욕할 근거가 아니다.",
+      "contextNote": "앞의 심판에서 악인의 끝을 말한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:MAL:4:4",
+      "textSha256": "08c93f7b69599a898abdb4a4ca061bb66f7c5b6b2510630b6d8ef9ad6a72b06d",
+      "status": "exclude",
+      "reason": "호렙에서 주신 모세 법을 기억하는 요청은 해당 율례의 내용이 없어 현재의 구체 갈등 기준을 알 수 없다.",
+      "contextNote": "이스라엘 전체의 언약 규례를 상기한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:MAL:4:5",
+      "textSha256": "91f1f02de9a31854770c1c66e01934bbc605b3b4628996c32c1cab2847ff6734",
+      "status": "exclude",
+      "reason": "두려운 날 전에 엘리야를 보낸다는 미완료 예고는 특정 인물의 사명으로 조언자가 올 것을 보장하지 않는다.",
+      "contextNote": "회개를 준비할 선지자를 예고한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:MAL:4:6",
+      "textSha256": "2305ac866576d5d2993c2653f7ab3db997cfcd3afbdc8c44c553e7052191616c",
+      "status": "hold",
+      "reason": "부모와 자녀의 마음이 서로 향하는 그림은 대화를 생각하게 하지만 땅의 저주라는 경고까지 가족 의견 차이에 붙이기 어렵다.",
+      "contextNote": "엘리야의 화해 역할과 불회개의 심판으로 마친다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H036",
+          "clue": "누가 일방으로 이기느냐보다 부모와 나의 마음이 서로 향하는 대화의 가능성을 읽을 수 있다.",
+          "friction": "부모 기대를 따르지 않으면 땅의 저주가 온다는 뜻은 아니고 실제 양측 마음과 결정 내용은 미확인이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    }
+  ]
+}
