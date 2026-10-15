@@ -5016,6 +5016,3174 @@
       "contextNote": "우상 제작과 의지 금지",
       "readability": "thinkable",
       "connections": []
+    },
+    {
+      "id": "KRV:LEV:19:5",
+      "textSha256": "fe81684ebabb32464fd465ddd91d6ec52fd87ae848e9ba97939b09e33f997e1f",
+      "status": "exclude",
+      "reason": "화목제 열납의 도입은 일반 선물의 마음이나 크기를 정할 이유가 부족하다",
+      "contextNote": "화목제 희생의 목적",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:19:6",
+      "textSha256": "26dd2acd99703a40ea95117c519150b086c6841a9500bd125b0edc123228ac5a",
+      "status": "exclude",
+      "reason": "제사 고기 사흘 처리는 실제 여행이나 마감의 시기와 다른 음식 규정이다",
+      "contextNote": "화목제 음식 보관 기간",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:19:7",
+      "textSha256": "d309adb039f4f4d87dca692ad0afbfd18113161f344bd6f54bab8f5157bfe8e8",
+      "status": "exclude",
+      "reason": "사흘째 고기의 가증함은 일반 남은 물건을 버릴 기준으로 읽기 어렵다",
+      "contextNote": "화목제 식사 기한 위반",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:19:8",
+      "textSha256": "2c315252f4d7d7df9a571eb613103f9c3c5955580170df561a5b474fc9620ce7",
+      "status": "exclude",
+      "reason": "성물 식사의 추방 제재는 현재 보통 소비 선택과 조건이 다르다",
+      "contextNote": "화목제 위반의 제재",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:19:9",
+      "textSha256": "44ab51af021cb4dbc83b4c769557c925d98c49aabd36eb1b151b07835e9582b8",
+      "status": "hold",
+      "reason": "H059의 다 거두지 않을 실마리는 있으나 남길 대상과 이유가 다음 절에 있다",
+      "contextNote": "밭 가장자리와 떨어진 이삭을 남김",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:19:10",
+      "textSha256": "1b04c2a093fa0ea42cafdf4d6cba6442e6c794c6e15e3d07d965f49f09972416",
+      "status": "candidate",
+      "reason": "내 몫을 끝까지 다 취하기보다 어려운 사람을 위해 남기는 문장이 여력 있는 나눔에 맞는다",
+      "contextNote": "포도 열매를 가난한 자와 타국인에게 남김",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H059",
+          "clue": "내가 끝까지 다 취하지 않고 어려운 사람이 쓸 몫을 남길 수 있다는 실마리다.",
+          "friction": "포도 수확과 떨어진 열매의 농경 규정이다. 실제 여력 부족인 G02와 구별하고 내 재산 전부를 내라는 결론을 붙이지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:19:11",
+      "textSha256": "2b8da5a31923a76c89185052ee6dd8b87e6aabebe212d09c9ac936ef47161e1d",
+      "status": "candidate",
+      "reason": "속이거나 거짓말하지 말라는 짧은 말에서 작은 흠이나 사실을 숨길 부담의 실마리를 읽는다",
+      "contextNote": "절도 사기 거짓말 금지",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "승인을 위해 과장하기보다 서로 속이지 않는 말로 보고할 실마리가 있다.",
+          "friction": "절도와 사기도 함께 나오는 도덕 명령이다. 사용자가 이미 범죄했다는 낙인이나 보고 결과를 붙이지 않는다.",
+          "expectedEnough": "yes"
+        },
+        {
+          "scenarioId": "H022",
+          "clue": "사는 사람이 묻지 않았어도 거래에 관해 속이지 않는 방향으로 작은 흠을 알릴 실마리를 읽는다.",
+          "friction": "모든 미고지를 거짓말이라고 법적으로 판정하지 않으며 흠의 실제 정도는 입력 그대로 둔다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:19:12",
+      "textSha256": "3a62e5e9bebc1ea9d63947bff058674e4c1f61e8d3576d81b6987d6f6e98273c",
+      "status": "hold",
+      "reason": "H052의 거짓을 말하지 않을 실마리는 있으나 여호와 이름의 맹세가 입력에 없는 특수 조건이다",
+      "contextNote": "하나님 이름의 거짓 맹세 금지",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:19:13",
+      "textSha256": "e539a91326ee6e1f6a8e414b1c3c3bdec28a8d80d5d70f561f5ceb0149b33271",
+      "status": "candidate",
+      "reason": "남의 품삯을 밤새 두지 말라는 말이 약속한 돈의 지급을 미룰 부담을 직접 비춘다",
+      "contextNote": "압제와 늑탈 및 품삯 지연 금지",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A024",
+          "clue": "품삯을 밤새 내게 두지 말라는 말에서 오늘 약속한 보수를 먼저 보낼 실마리가 분명하다.",
+          "friction": "압제 늑탈이라는 강한 표현도 있다. 현재 준비된 돈을 보낼 수 있다는 입력에 대조하며 실제 돈 부족을 지어내거나 무시하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:19:14",
+      "textSha256": "e6b69735f15b938029c209538111b3d10e3e5d7cd9240708729b438c75bb9be2",
+      "status": "candidate",
+      "reason": "상대의 약함을 조롱하거나 장애를 만들지 말라는 말에서 분위기에 따르지 않을 실마리가 있다",
+      "contextNote": "청각 시각 장애인을 해하지 않게 함",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A025",
+          "clue": "잘 못 듣는 사람을 저주하거나 약함을 이용하지 말라는 말에서 놀림에 동조하지 않을 실마리를 얻는다.",
+          "friction": "시각장애인의 장애물도 함께 언급된다. 친구의 장애가 더 심하다거나 타인 마음이 악하다고 단정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:19:15",
+      "textSha256": "ab3286fee5846bb20d9d8e9f4cff350ff8cabbb6a5ad90bb03c13b8666c78462",
+      "status": "candidate",
+      "reason": "편을 들 이유보다 공평하게 판단하라는 말에서 친분에 따른 증언 부담을 비출 수 있다",
+      "contextNote": "가난과 세력을 이유로 편파 재판 금지",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A016",
+          "clue": "어느 편이든 사정과 친분보다 공평한 사실을 따라 판단할 실마리가 있다.",
+          "friction": "가난과 권세의 재판 규정이다. 현재 친구의 재산이나 권력을 새로 정하지 않고 편들 증언의 부담만 대조한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:19:16",
+      "textSha256": "265f083a129e66a13ded938063335d17ec2e54e25a2084ff2fe87864a9a63809",
+      "status": "hold",
+      "reason": "H030의 소문 단정을 멈출 실마리는 있으나 논단의 옛 뜻과 죽을 지경이라는 후반이 무겁다",
+      "contextNote": "비방과 이웃 생명 위협 금지",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:19:17",
+      "textSha256": "2156a7dae1bc1d4f932a489b6d079801e21c94e04fba62bcbec838bf1fac0d53",
+      "status": "hold",
+      "reason": "H026의 속으로만 미워하지 않고 바로 말함은 맞지만 핵심 책선의 뜻을 모르면 행동 방향이 안 읽힌다",
+      "contextNote": "미움 대신 이웃을 책선하게 함",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:19:18",
+      "textSha256": "7ec0a56780081d2287e38cbb763ff4e2b01ed5a6a17d124c3d38e112c7e7f4a2",
+      "status": "candidate",
+      "reason": "원망과 보복 대신 이웃을 나처럼 대하라는 말에서 작은 실수를 계속 붙들지 않을 실마리를 읽는다",
+      "contextNote": "보복과 원망을 금하고 이웃 사랑을 말함",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H028",
+          "clue": "작은 실수를 되갚고 원망하기보다 나를 대하듯 여겨 놓아 줄 실마리를 얻는다.",
+          "friction": "반복 침해를 무조건 용서하고 돌아가라는 말로 확장하지 않는다. 거리 두기와 보복은 구별한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:19:19",
+      "textSha256": "8db47ed17312974830f722e1cdb5dd508bfbd4c9ed0ba67815f868bccdca894c",
+      "status": "exclude",
+      "reason": "혼합 가축 씨앗 직물 금지는 일반 옷 구매나 협업의 순수함으로 비유해야 연결된다",
+      "contextNote": "서로 다른 종류 혼합 금지",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:19:20",
+      "textSha256": "610489c0bdf9d389309b86b618fcb0b594863bdcb4d3a41bc201c9a87e99d9dc",
+      "status": "exclude",
+      "reason": "정혼한 여종 성관계와 형벌 면제의 법은 현재 미혼 고백이나 기혼 지인의 조건과 다르다",
+      "contextNote": "노예 신분 여성과의 성관계 처리",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:19:21",
+      "textSha256": "318e7a13f04893430ec69115d34fe85c19862b708ab02d8d50ede728d1a7813e",
+      "status": "exclude",
+      "reason": "속건 수양을 가져오는 의식은 현재 사과나 반환의 구체 선택이 아니다",
+      "contextNote": "해당 성관계 범과의 속건제",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:19:22",
+      "textSha256": "9958517380c2dad004793c49d49906f961f7c3622a443080cb2a5c4815ef0bae",
+      "status": "hold",
+      "reason": "G10의 사함은 위로가 되나 수양 대리 속죄를 상대의 수락 조건으로 옮길 수 없다",
+      "contextNote": "속건 제사를 통한 사함",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:19:23",
+      "textSha256": "810f9d1a9566cb19ccf4f37f60a6859ec8052fdebe7e4164ab2c90b454594942",
+      "status": "hold",
+      "reason": "H046의 성급한 수확을 미룸은 있지만 과일이 할례 못 받았다는 의식 비유가 첫 읽기를 막는다",
+      "contextNote": "정착 후 과일 삼 년 식용 금지",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:19:24",
+      "textSha256": "fe719603a0687bac9c4765259f72d312249b379f3eb82e2bd40ccbf3eb71aad8",
+      "status": "hold",
+      "reason": "H059의 첫 결실 나눔은 있으나 사년의 모든 열매 봉헌을 일부 도움의 액수로 정할 수 없다",
+      "contextNote": "넷째 해 과실 봉헌",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:19:25",
+      "textSha256": "f4f945e9ab1a16c3ffae5a26554bd667cdbdd79a545ec611fcdc343e241ecf87",
+      "status": "hold",
+      "reason": "H046의 시기를 둘 실마리는 있지만 오 년과 풍성한 소산을 현재 내 계획의 보장으로 옮길 수 없다",
+      "contextNote": "다섯째 해 과실 향유와 복",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:19:26",
+      "textSha256": "ada6816f847252889bdba314758738d1a6822e18e031306183a243e03c3d2320",
+      "status": "exclude",
+      "reason": "피 식용과 복술 금지는 현재 실제 선택의 필요나 효용을 가르지 않는다",
+      "contextNote": "음식과 주술 금령",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:19:27",
+      "textSha256": "a8f4e3ea520b60c64ce80ec54bd0c1e6336a06ae21ad8da9ee99032f3a62ec17",
+      "status": "exclude",
+      "reason": "머리 수염의 의식 형태는 A022의 자연 탈모를 잘못이라 볼 기준이 아니다",
+      "contextNote": "머리 수염의 형상 제한",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:19:28",
+      "textSha256": "7795ea30d3ce76b5a59b504f43bc04ece3abb9df2fd09cf0d14de9b772f23028",
+      "status": "exclude",
+      "reason": "죽은 자 위한 신체 절개와 문신은 현재 모임이나 외모 고민의 조건과 다르다",
+      "contextNote": "애도 신체 훼손 금지",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:19:29",
+      "textSha256": "002f25a859d0ee7017a808770994c71cdfbbe13f47f89e6edf2b0ad8b85667dc",
+      "status": "exclude",
+      "reason": "딸의 매춘과 전국 음풍 경고는 일반 부모 진로 의견 갈등의 정보가 아니다",
+      "contextNote": "딸을 매춘에 내주지 못하게 함",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:19:30",
+      "textSha256": "18ad16fceab1ff29a162aff22c9eb0f4e0e8be0a3c87415d6717e59197fa5af6",
+      "status": "candidate",
+      "reason": "쉴 날을 지킬 가치로 읽어 계속 일정을 채우지 않을 실마리를 얻는다",
+      "contextNote": "안식일과 성소 존중",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H015",
+          "clue": "쉬는 날도 지킬 가치로 삼아 새로운 일정을 더 채우지 않을 수 있다.",
+          "friction": "성소 공경이라는 두 번째 주제도 있다. 오늘 마감 미완료 일이 없다고 전제하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:19:31",
+      "textSha256": "9aaace2d34fc4463f1400bd7c1808438db2fab0d0838a6e2accd73785f0bcf37",
+      "status": "exclude",
+      "reason": "신접자와 박수 추종은 실제 내 조언자나 타인의 마음을 정할 정보가 아니다",
+      "contextNote": "주술자 의지 금지",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:19:32",
+      "textSha256": "a28224f683cfbe61c2d4c1970641f3c2c1e3c111358582909c7d15e78453cb55",
+      "status": "candidate",
+      "reason": "노인을 공경해 일어서라는 말이 피곤해도 자리를 내줄지의 부담을 정확히 비춘다",
+      "contextNote": "노인 존중과 경외",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A026",
+          "clue": "노인 앞에 일어서는 모습을 자리를 양보할 실마리로 직접 읽을 수 있다.",
+          "friction": "노인의 얼굴을 공경한다는 옛 표현과 하나님 경외가 붙는다. 심한 통증이나 다른 숨은 건강 조건은 추가하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:19:33",
+      "textSha256": "a58adee3721c905b2a03a455ace98805b029fadf41075db3b1bf09208d99dd62",
+      "status": "candidate",
+      "reason": "낯선 이가 함께 있을 때 함부로 대하지 않는 방향의 실마리가 보인다",
+      "contextNote": "우거하는 타국인 학대 금지",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A018",
+          "clue": "새로 함께 있는 낯선 이를 모른 척 배제하지 않는 쪽으로 마음을 정할 수 있다.",
+          "friction": "타국인과 학대라는 민족 배경이다. 새 동료의 국적이나 실제 학대 사실을 지어내지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:19:34",
+      "textSha256": "4fb2e5400e95a3a232805b84e362dc77ae231e36787eae37933eefa778f42019",
+      "status": "candidate",
+      "reason": "나도 객이었던 기억으로 함께 있는 사람을 내 사람처럼 대할 실마리를 읽는다",
+      "contextNote": "타국인을 본토인처럼 사랑할 이유",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A018",
+          "clue": "나도 낯선 자리에서 힘들었던 기억을 떠올려 새 동료를 내 사람처럼 대할 실마리를 읽는다.",
+          "friction": "애굽의 객 경험이며 직장에 새로 온 것과 동일 사건은 아니다. 상대의 수락이나 호감을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:19:35",
+      "textSha256": "3a1c83ef72040ffa3e701e90e4141245f24fc76edd3f2a428f7d8ad0270289cc",
+      "status": "hold",
+      "reason": "A021의 공정한 분배는 떠올릴 수 있으나 재판과 도량형의 불의 금지로 균등 몫 자체를 정하지는 않는다",
+      "contextNote": "재판과 측량의 정직",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:19:36",
+      "textSha256": "eb4388af0e21c28585ddd26553b8f32db6705a2509efe48f61db57a397e15954",
+      "status": "candidate",
+      "reason": "공평한 측정을 기준 삼는 말에서 거래의 흠을 숨겨 내 이익만 취하지 않을 실마리가 있다",
+      "contextNote": "저울과 단위의 정직한 사용",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H022",
+          "clue": "공평한 저울처럼 거래의 조건도 정직하게 보여 줄 실마리를 읽는다.",
+          "friction": "에바 힌 단위와 출애굽 회상이 길다. 흠에 따른 정확한 공정 가격이나 판매 성공을 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:19:37",
+      "textSha256": "a709a75aca3a92275c85780deed13c55a243bc02473a77aab03f39c1b6ff2c10",
+      "status": "hold",
+      "reason": "H064의 지킬 원칙은 있으나 모든 규례가 이 절에 무엇인지 없어 선택에 직접 대조하기 어렵다",
+      "contextNote": "생활 법규 준수의 정리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:20:1",
+      "textSha256": "1213bc72e4be9e9f17f4b9129e3f0d4cbde2d4cf24000ea629c6671d78ca8075",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 생활 판단의 내용이 없다",
+      "contextNote": "관계 금령의 형벌 규정 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:20:2",
+      "textSha256": "0458e4db73973d1e24dff45836f26ea4b02c150619a6e760f8122f1ba803dbfb",
+      "status": "exclude",
+      "reason": "자녀의 몰렉 희생과 돌 처형은 일반 가족이나 금전 선택의 조건과 다르다",
+      "contextNote": "몰렉 자녀 희생 처벌",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:20:3",
+      "textSha256": "5bc5c2d9f2babd0e00132d0bf2fa2be23e793787cf497ae9a9a4bc6e4e954af7",
+      "status": "exclude",
+      "reason": "몰렉 의식의 추방은 오늘 역할이나 관계를 끝낼 근거가 아니다",
+      "contextNote": "자녀 희생자의 신적 제재",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:20:4",
+      "textSha256": "2a5ca17dc59278712a797d79ee8016871f8d71dc8ebece1408e6980730688d33",
+      "status": "exclude",
+      "reason": "사람을 못 본 체해 처형 안 한 미완 조건은 일반 목격의 신고 고민과 다르다",
+      "contextNote": "몰렉 희생 방조의 전제",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:20:5",
+      "textSha256": "422bd3fd155e790db194a08973aa6f6dbf14a6c8a3104471b2691937b1a4c0db",
+      "status": "exclude",
+      "reason": "권속과 추종자까지 추방할 제재는 현재 친구의 영향력을 판정할 정보가 아니다",
+      "contextNote": "몰렉 추종과 방조의 제재",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:20:6",
+      "textSha256": "8ba16ff52dcb73005f401026325744dbf20e40eafaff37bb630ab47d3c2d9c19",
+      "status": "exclude",
+      "reason": "주술 추종자의 추방은 내 멘토나 조언의 가치를 결정할 기준이 아니다",
+      "contextNote": "신접자 추종의 제재",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:20:7",
+      "textSha256": "26e8c19bf777bebfb2ea9dbcedd43ca2c218e73705d0cb115461f1fba8302b5b",
+      "status": "hold",
+      "reason": "H064의 중심을 지킬 느낌은 있으나 깨끗하고 거룩하라는 지향만으로 구체 진로 부담은 약하다",
+      "contextNote": "거룩한 삶의 요구",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:20:8",
+      "textSha256": "1c060c148f50f0949ce8823ed717826afd568aa8db9b10560b8310cd37bc5c4b",
+      "status": "hold",
+      "reason": "H064의 기준 준수는 비추나 내 규례의 구체 내용이 없고 개인 바람과 신적 법도를 동일시할 수 없다",
+      "contextNote": "거룩케 하는 법규 준수",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:20:9",
+      "textSha256": "233ecb5c516617facc0ddfd54c4f6bd356e55d363951deb2e53afa4618ce2c8e",
+      "status": "exclude",
+      "reason": "부모 저주의 사형은 진로 의견을 표현하거나 방문할지의 고민과 다르다",
+      "contextNote": "부모 저주 처벌",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:20:10",
+      "textSha256": "5922d19ccac2b0d5cce78375df773d3fe4289c207e3f7f818b11cf19eadbf4c4",
+      "status": "exclude",
+      "reason": "A023과 혼인 조건은 닿지만 두 사람을 죽이라는 후반까지 읽으면 관계 정리의 자연스러운 실마리를 깨뜨린다",
+      "contextNote": "간음의 사형 규정",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:20:11",
+      "textSha256": "884ec8f3ad63c9c6713dd3ac5429778a2ce74a2dd8738f7f905938a0a842b492",
+      "status": "exclude",
+      "reason": "계모 성관계의 사형은 현재 고백이나 관계에 없는 친족 조건과 제재다",
+      "contextNote": "계모 관계 처벌",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:20:12",
+      "textSha256": "668fc8ab0a1173e5b22e8b3a17aaf8a096b65f0afdfd49f36b0a02e6e35d019d",
+      "status": "exclude",
+      "reason": "며느리 성관계의 사형은 지금 지인의 실제 관계를 정할 정보가 아니다",
+      "contextNote": "며느리 관계 처벌",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:20:13",
+      "textSha256": "844c9f0aa23ee910071448b548d1185b5eb31bda3c0c00e9fd19451f354ab636",
+      "status": "exclude",
+      "reason": "동성 성관계 사형을 성별과 관계 상태가 없는 H032의 고백 판단에 적용할 수 없다",
+      "contextNote": "남성 간 성관계의 사형 규정",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:20:14",
+      "textSha256": "11a72a6265577e6353f54b33959dc30e66c5b597075af7c92a3068cfa661fb9c",
+      "status": "exclude",
+      "reason": "아내 장모의 중복 관계와 화형은 현재 관계 고민의 조건과 다르다",
+      "contextNote": "모녀 중복 혼인의 처벌",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:20:15",
+      "textSha256": "7a2d01f5fb6cb724d30c12a2a2df2796ac95213ac6219026d98c78e4ddd5a871",
+      "status": "exclude",
+      "reason": "사람과 짐승을 죽이는 수간 제재는 현재 사람 간 호감의 정보가 아니다",
+      "contextNote": "남성 수간의 처벌",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:20:16",
+      "textSha256": "adb62f9c6040ae4a6cb6a45b7fed38af377539531351e916da91ac4e6e895d00",
+      "status": "exclude",
+      "reason": "여성과 짐승의 사형은 보통 고백과 신체 접촉의 선택으로 옮길 수 없다",
+      "contextNote": "여성 수간의 처벌",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:20:17",
+      "textSha256": "cc3c2b0fce72f4c25faf74704938df6ea51579a65a586f49c0d9e037031603f6",
+      "status": "exclude",
+      "reason": "자매 관계의 추방은 지금 상대에게 없는 혈연 조건을 추가하게 한다",
+      "contextNote": "자매 성관계의 제재",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:20:18",
+      "textSha256": "ddcaf4d95c247bf9be623e8db222d0750a8538fc9d9bfc852eba72cbb7a291dd",
+      "status": "exclude",
+      "reason": "월경 동침의 추방은 주어진 고백이나 기혼 지인의 조건이 아니다",
+      "contextNote": "월경 중 성관계 제재",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:20:19",
+      "textSha256": "c56c03b610f1427aca87c6c873e0e39a80dac23c0fdfee8b94feb2519c244ba6",
+      "status": "exclude",
+      "reason": "고모 이모의 친족 범과는 현재 연애나 부모 갈등을 판단할 사실이 아니다",
+      "contextNote": "고모 이모 성관계 제재",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:20:20",
+      "textSha256": "8ddf335957bd619bfbdd130eff5d556a00b4752b624ffdb36d5882353b9d042d",
+      "status": "exclude",
+      "reason": "백숙모 관계 뒤 무자 사망의 예고는 현재 관계 결과를 정할 근거가 아니다",
+      "contextNote": "숙모 성관계의 제재",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:20:21",
+      "textSha256": "871e0ed235a29040ba35edbcfdc9e90dff8d8560b13c6b87d519a206a488424c",
+      "status": "exclude",
+      "reason": "형제 배우자 관계와 무자함은 기혼 지인의 친족과 결과를 지어내게 한다",
+      "contextNote": "형제 배우자 관계의 제재",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:20:22",
+      "textSha256": "d19346955d1e7d7ad1408696af639c2cbd763f4f7b1e63aafc3080d962574013",
+      "status": "hold",
+      "reason": "H064의 법도 유지 실마리는 있으나 땅이 토하지 않을 조건을 내 진로 성공의 보장으로 삼을 수 없다",
+      "contextNote": "땅에 머물기 위한 법도 준수",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:20:23",
+      "textSha256": "7045afd2f9627de480daf9fa9f39fe794a5b40eb71a1b46cbdaa3574924b6c6a",
+      "status": "hold",
+      "reason": "A004의 나쁜 관습을 따르지 않음은 있으나 앞 성관계 목록 때문에 친구들 풍속 전부를 가증하다 할 수 없다",
+      "contextNote": "가나안 풍속 경계의 이유",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:20:24",
+      "textSha256": "98a66b7cfd9bbd817c88e0253a7d65783b673cf1a68eca549e2147f87dfd5eb4",
+      "status": "hold",
+      "reason": "A020의 새 땅을 향할 기대는 있으나 젖과 꿀 및 만민 구별의 긴 약속은 연수 조건을 확정하지 않는다",
+      "contextNote": "언약 땅과 구별된 백성",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:20:25",
+      "textSha256": "3a798e1e411148d455dc249a933418107e01242d2f2a6e0c3dc6f801ef6cb8c7",
+      "status": "exclude",
+      "reason": "음식 생물 구별의 긴 명령은 사람이나 기기를 정결 불결로 고를 기준이 아니다",
+      "contextNote": "정한 음식과 부정한 음식 구별",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:20:26",
+      "textSha256": "8e7482344f99a6bac84760d99807317b73f4b0b4e3004a61040731c3d6738a0b",
+      "status": "hold",
+      "reason": "H040의 나만의 소속 위로는 있으나 구별된 정체성만으로 축하와 비교 사이 행동 실마리는 약하다",
+      "contextNote": "거룩한 소유 백성의 이유",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:20:27",
+      "textSha256": "eec98294c8ee6c4c9c666906ac97a38de6ff41419824feba7352d7fbabef3057",
+      "status": "exclude",
+      "reason": "주술자의 돌 처형은 일반 충동 억제나 도움 요청의 선택 기준이 아니다",
+      "contextNote": "신접자와 박수 처벌",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:21:1",
+      "textSha256": "3649ee5682a6503b861842459aad754dd6f00117253e3c0e5d70939af8a49bcd",
+      "status": "exclude",
+      "reason": "제사장의 시체 부정 규정은 일반 장례나 가족 방문을 피할 이유로 옮길 수 없다",
+      "contextNote": "제사장 시신 접촉의 원칙",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:21:2",
+      "textSha256": "34612d0865e975f4cc34a1fd4cd8e39cee82bb58a2b35fd7893458f381677b8c",
+      "status": "exclude",
+      "reason": "부모 자녀 형제 목록은 예외 대상 도입이며 독립된 선택 뜻이 없다",
+      "contextNote": "제사장 친족 접촉 예외 시작",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:21:3",
+      "textSha256": "e78260aac88392250e658b990235f581edf0c1d9f3e13d893df5adafefc197f9",
+      "status": "exclude",
+      "reason": "미혼 친자매의 시신 예외는 현재 가족의 방문 선택 조건과 다르다",
+      "contextNote": "제사장 친족 예외의 끝",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:21:4",
+      "textSha256": "ec27df77d2d8b6110970b4e30c8b1ff01094b9ef41d7d1ff9e31de56db95ae01",
+      "status": "exclude",
+      "reason": "백성 어른의 부정 경계는 현재 지도자가 쉬거나 도움 요청하면 욕된다는 기준이 아니다",
+      "contextNote": "제사장의 신분과 정결",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:21:5",
+      "textSha256": "13fadb78805b9bf9e8d33fc525f9d693123b13f299a5b58b32bec92d8911fb7f",
+      "status": "exclude",
+      "reason": "제사장 머리와 수염 절개 규정을 자연 탈모의 외모 수치에 대입하면 조건을 바꾼다",
+      "contextNote": "제사장의 애도 신체 형상 제한",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:21:6",
+      "textSha256": "6767302695cf3b9fad7ab44843bbbac03dfddad071a1cafc9810564a46a9a80d",
+      "status": "exclude",
+      "reason": "제사 음식을 드리는 거룩 역할은 일반 새 역할을 수락할 자격을 정하지 않는다",
+      "contextNote": "제사장 거룩함의 이유",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:21:7",
+      "textSha256": "f32dba1d7dc819b7daa85fd00f2c39a3fde7343ae155c0e88410b3ccd0add3f0",
+      "status": "exclude",
+      "reason": "기생 이혼 여성의 혼인 제한은 현재 고백 대상의 상태가 미확인이라 적용할 수 없다",
+      "contextNote": "제사장 혼인 상대 제한",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:21:8",
+      "textSha256": "263acb2f4f3642d265e8d68ee61950d532faf6430c731784167e2d139d3a7420",
+      "status": "exclude",
+      "reason": "제사장 존중의 의식적 이유는 업무 도움의 대가나 권위 수락과 다르다",
+      "contextNote": "제사장 거룩함 존중",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:21:9",
+      "textSha256": "2822b457152f3d7e57749f74ef184b993afcff1e5c4c091124de9cdedac8de56",
+      "status": "exclude",
+      "reason": "제사장 딸의 성행위와 화형은 현재 상대에게 없는 가족 신분과 과한 제재다",
+      "contextNote": "제사장 딸의 성관계 처벌",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:21:10",
+      "textSha256": "417146c9f911deefe73ba5d3959478edfed0a946ba9528c05489e7062f47c0e4",
+      "status": "exclude",
+      "reason": "대제사장의 옷 찢기 제한은 일반 감정 표현과 구매의 필요를 다루지 않는다",
+      "contextNote": "대제사장 애도 형식 제한",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:21:11",
+      "textSha256": "46b6d8c0830266e32196e29e6e5ed8b045db210b0ec5abb3060cfa548be4984f",
+      "status": "exclude",
+      "reason": "부모 시체도 피하는 규정을 일반 부모 공경과 방문의 판단으로 옮길 수 없다",
+      "contextNote": "대제사장의 시신 접촉 금지",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:21:12",
+      "textSha256": "1fbc9925038e78ef0f7a6b8dd52909ef237a6bf967328fa50102992431663fa7",
+      "status": "exclude",
+      "reason": "관유 때문에 성소를 떠나지 않는 의무는 과로의 휴식을 막는 보편 기준이 아니다",
+      "contextNote": "대제사장의 성소 체류",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:21:13",
+      "textSha256": "0b5402bbbc1b38e61bb8a89a7f15bb0acde0ab051600f8a6641f0cbef7635b4d",
+      "status": "exclude",
+      "reason": "처녀 배우자 지정은 현재 혼인 상태 없는 고백 상대를 판단할 근거가 아니다",
+      "contextNote": "대제사장의 혼인 조건",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:21:14",
+      "textSha256": "a50e4eb3a85aac7d319fbbf0044b43d8888d061ac1e2b3693434e35511b02b1a",
+      "status": "exclude",
+      "reason": "과부 이혼 여성 배제의 제사장 규정은 일반 지인의 가치를 판단할 기준이 아니다",
+      "contextNote": "대제사장 혼인 제한 상세",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:21:15",
+      "textSha256": "fc85924fb82c15bf9dbb960eb59bf14f5a100005acf72a044056f3ec17f5e3a0",
+      "status": "exclude",
+      "reason": "자손 더러움을 막는 이유는 현재 결혼과 연애 결과를 정할 수 없다",
+      "contextNote": "대제사장 혼인 제한의 이유",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:21:16",
+      "textSha256": "1213bc72e4be9e9f17f4b9129e3f0d4cbde2d4cf24000ea629c6671d78ca8075",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 독립 생활 기준이 없다",
+      "contextNote": "제사장 신체 조건 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:21:17",
+      "textSha256": "6a4a30f53263268a9e6166d648c241acdc41fabd93221572e123b28f3bedacc0",
+      "status": "exclude",
+      "reason": "아론 자손의 신체 흠과 제사 제한을 막연한 능력 부족이나 탈모로 일반화할 수 없다",
+      "contextNote": "제사장 신체 자격 총칙",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:21:18",
+      "textSha256": "464e1061892c61a9d2b9a9ddab355713f1371db367cbe41e58202fc149fd818d",
+      "status": "exclude",
+      "reason": "시각 보행 등의 신체 목록은 현재 G15의 역할 능력이나 도덕성을 정할 정보가 아니다",
+      "contextNote": "제사 직무 제한의 신체 조건 시작",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:21:19",
+      "textSha256": "d66aa65e833361aef470fb20aacdaa860336fb1ecf692651d8883061a0c8561f",
+      "status": "exclude",
+      "reason": "부러진 손발의 목록만 있어 현재 내 역할의 선택을 다루지 않는다",
+      "contextNote": "제사 직무 제한의 손발 조건",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:21:20",
+      "textSha256": "76a858c2853713bd3ac81bbb9f57e5979cd2e79e2526a617b6a125b400cfb8eb",
+      "status": "exclude",
+      "reason": "다양한 신체 증상 목록은 주어진 능력 고민에 없는 신체 사실을 요구한다",
+      "contextNote": "제사 직무 제한의 신체 조건 계속",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:21:21",
+      "textSha256": "20a1eb3fd0054db573d20397965365eceaf936ed5b6bf1c7b7a5747846676133",
+      "status": "exclude",
+      "reason": "신체 흠의 성소 접근 금지는 현재 보통 역할을 맡을 수 없다는 판단 기준이 아니다",
+      "contextNote": "아론 가계 직무 제한 재확인",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:21:22",
+      "textSha256": "176f30d4ebf68587cc028286376282a2fc3291599676d15cc1c179be3f9f35dc",
+      "status": "exclude",
+      "reason": "성물 식사 허용의 그가 누구인지 앞 신체 규정을 알아야 하며 휴식의 선택 이유는 약하다",
+      "contextNote": "직무 제한자의 식사 권리",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:21:23",
+      "textSha256": "281e1387baa74c453e417f97586a249bd054d6336aa2f7fe17c5454736b8381e",
+      "status": "exclude",
+      "reason": "흠 있는 자의 성소 제한은 사용자 외모나 사회 참여의 가치를 판정할 말로 옮길 수 없다",
+      "contextNote": "직무 제한자의 성소 접근 범위",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:21:24",
+      "textSha256": "221826cf3f486dfffdb8f0d9e63d92cf826333e16be045ff1d4690282180a870",
+      "status": "exclude",
+      "reason": "법규를 전달한 보고는 현재 행동 선택의 구체 이유가 없다",
+      "contextNote": "제사장 자격 법규 전달",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:22:1",
+      "textSha256": "1213bc72e4be9e9f17f4b9129e3f0d4cbde2d4cf24000ea629c6671d78ca8075",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 생활 선택 내용이 없다",
+      "contextNote": "성물 취급 규정 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:22:2",
+      "textSha256": "653a90d5fdc709c975dd92fc75cdd86feb33563ad61634d7ae678b7cc688eb1d",
+      "status": "exclude",
+      "reason": "성물과 이름의 거룩을 위한 제사장 구별은 일반 물건 관리나 지출 기준이 아니다",
+      "contextNote": "제사장 성물 취급의 목적",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:22:3",
+      "textSha256": "13ebc293009850c231a05af1a92c49c68c993dd9007357c9efa96cbb6445faa9",
+      "status": "exclude",
+      "reason": "부정 상태의 성물 접근과 추방은 일반 사람 교류나 새 역할의 조건이 아니다",
+      "contextNote": "성물 접근 자격 제재",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:22:4",
+      "textSha256": "897bb1968bb4150a1a946fafbf188412a47ceb33e55e457836a07208632eb0c1",
+      "status": "exclude",
+      "reason": "문둥병 유출 사체 설정의 식사 제한은 실제 진찰이나 혼인 상태가 없는 고민에 적용할 수 없다",
+      "contextNote": "성물 식사 불가 상태 시작",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:22:5",
+      "textSha256": "9137af0e8b751485be28ac49823b879e702c03d76e7434be993f8733b674bb12",
+      "status": "exclude",
+      "reason": "벌레와 부정 접촉의 목록은 현재 상대 마음과 소비 효용의 정보가 아니다",
+      "contextNote": "성물 식사 불가 접촉 조건",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:22:6",
+      "textSha256": "43440cd4b232f05b531af74a184edd91707d76ccaa657c9391ecd66dfd6f0580",
+      "status": "exclude",
+      "reason": "세정 전 식사 금지는 앞의 부정 접촉을 알아야 의미가 되며 일상 회복 기간을 말하지 않는다",
+      "contextNote": "성물 먹기 전 세정 조건",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:22:7",
+      "textSha256": "ba9574624e69a7da4fbdca8b57dba79aa6075a9a2e4c8601eebb5b0da4a66144",
+      "status": "hold",
+      "reason": "A006의 제 몫을 먹는 권리는 비추나 해 질 때 정결과 응식의 뜻을 알아야 하며 보수 지연을 허용하는 말은 아니다",
+      "contextNote": "정결 뒤 성물 식사",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:22:8",
+      "textSha256": "660e32417d70284992166bee865749228b105e29e6c803c8428455e1bf72fb82",
+      "status": "exclude",
+      "reason": "절로 죽거나 찢긴 가축 식용은 실제 물건 상태나 일반 소비 절제와 다른 조건이다",
+      "contextNote": "제사장 사체 음식 금지",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:22:9",
+      "textSha256": "5eef02ac3a97fa30dc69d4f95c3402a39ebee7fb4a0a61e4769ab1c0b10aaaaf",
+      "status": "exclude",
+      "reason": "성물 욕되게 하면 죽을 제재는 일반 일의 마무리나 품질 선택에 옮기기 어렵다",
+      "contextNote": "제사장 성물 준수의 생명 조건",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:22:10",
+      "textSha256": "d70bf79510993334c2b54b2e444c517b04a9bd4aea2acd6f7bb92d7a61f88aec",
+      "status": "exclude",
+      "reason": "객과 품군 성물 배제는 현대 업무 보수나 환대의 보편 기준이 아니다",
+      "contextNote": "성물 식사의 외부인 제한",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:22:11",
+      "textSha256": "fb7814ddcd2d64600afc60a6f7234bc36d2f4850ae1b23d33129fda5e9a0f033",
+      "status": "exclude",
+      "reason": "돈으로 산 종의 식사 권리는 오늘 돈 도움과 친구의 역할을 정하는 조건이 아니다",
+      "contextNote": "제사장 집안의 성물 식사 자격",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:22:12",
+      "textSha256": "e617b7b421eb8f091abd68c14733329909800f3d1dff3fd76fa3aab8e02a7e5f",
+      "status": "exclude",
+      "reason": "딸의 타국인 혼인이 성물 자격을 가르는 조건은 일반 진로나 연애 고민에 추가할 수 없다",
+      "contextNote": "제사장 딸의 성물 제한",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:22:13",
+      "textSha256": "7dbb45a623133f40457c6223b82f718bd59c0df58c94afbe6bad5d0553ef0fe5",
+      "status": "exclude",
+      "reason": "친정 돌아온 무자 과부의 식사 예외는 가족 독립의 선택과 다른 신분 규정이다",
+      "contextNote": "돌아온 제사장 딸의 식사 권리",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:22:14",
+      "textSha256": "f34b7cbf2612dce51d944718a188c89207d619f3aa783f6ec92695a788a74e4f",
+      "status": "hold",
+      "reason": "A017의 모르고 저지른 손해를 갚음은 닿으나 성물 섭취와 오분 일 추가는 수리비의 실제 기준이 아니다",
+      "contextNote": "실수로 성물 먹은 자의 배상",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:22:15",
+      "textSha256": "a2e913f6d27a9e63af21a4851aafd252775c8a3cbd07c45b87b3a4704053b0ee",
+      "status": "exclude",
+      "reason": "성물을 더럽히지 않는 미완 금령은 현재 물건이나 관계를 가를 정보가 없다",
+      "contextNote": "성물 보존 금령",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:22:16",
+      "textSha256": "d03af012a28f7b979551ddd66aa9c1d072b1c4e5df04c57c673ce866ffe84800",
+      "status": "exclude",
+      "reason": "성물 식용의 죄와 형벌은 앞 자격 법규를 알아야 의미가 된다",
+      "contextNote": "성물 취급 책임의 결론",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:22:17",
+      "textSha256": "1213bc72e4be9e9f17f4b9129e3f0d4cbde2d4cf24000ea629c6671d78ca8075",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 독립 생활 판단 내용이 없다",
+      "contextNote": "예물 흠 규정 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:22:18",
+      "textSha256": "6eeb25f431de118dc8d4a01e507c1b1dcfd265aeb12c6ece767008d61445946b",
+      "status": "exclude",
+      "reason": "서원 낙헌 번제의 도입은 지금 선물 종류를 정할 이유가 미완이다",
+      "contextNote": "예물 규정의 적용 대상",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:22:19",
+      "textSha256": "e8ae5582a85806416a3dd6e5f409682ddeb0c4c9a13cb7c5820e2b5b775e30c4",
+      "status": "exclude",
+      "reason": "흠 없는 수컷의 종은 보통 물건의 작은 흠이나 필요를 정하는 기준이 아니다",
+      "contextNote": "열납할 예물의 조건",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:22:20",
+      "textSha256": "c63398bcf057f5e334430befcc3dc8638f3c5485671703c0506478dc94597b71",
+      "status": "hold",
+      "reason": "H042의 품질 확인은 닿으나 희생 제물의 무흠 조건을 작은 미완까지 불허하는 기준으로 바꾸면 안 된다",
+      "contextNote": "흠 있는 제물 거부",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:22:21",
+      "textSha256": "71239eb6341779d405427520428957ac6b87a5275c5aa71016cc6362505e338a",
+      "status": "hold",
+      "reason": "H054의 약속한 기준 준수는 있으나 제사에 아무 흠도 없어야 한다는 조건이 현대 모든 작업의 완벽함을 요구하지 않는다",
+      "contextNote": "화목제의 온전한 제물",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:22:22",
+      "textSha256": "5aef025ded59939d7355a66b898c2461d1dba87f8aa8e7b334d9f5aea3668371",
+      "status": "exclude",
+      "reason": "동물 신체 상처와 질환은 H005의 작은 긁힘 상품과 다른 제물 조건이다",
+      "contextNote": "허용 불가 희생의 결함 목록",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:22:23",
+      "textSha256": "7e7399c4bec96fef22b06e4e373872ab6ae118496312654839c6d5d3e7ef4643",
+      "status": "hold",
+      "reason": "H007의 자원 선물에 작은 불완전함은 허용됨이 비추나 낙헌과 서원의 차이를 알아야 한다",
+      "contextNote": "서원과 낙헌 제물의 흠 차등",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:22:24",
+      "textSha256": "516d552fc239b9dd15de1edf7a7b908d260f7a04ef7eb4515c02e48b968873ac",
+      "status": "exclude",
+      "reason": "생식기 손상 가축의 예물 금지는 현재 구매와 역할 능력의 정보가 아니다",
+      "contextNote": "제물 생식기 손상 금지",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:22:25",
+      "textSha256": "1802af5b8ef2abe7f6e964ed313752076f2aaf1c745b055df34f6ec6385e2ce7",
+      "status": "exclude",
+      "reason": "외방 제물의 동일 흠 조건은 국적이나 작은 중고 흠으로 사람 물건을 배제할 일반 기준이 아니다",
+      "contextNote": "외국인 제물의 동일 자격",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:22:26",
+      "textSha256": "1213bc72e4be9e9f17f4b9129e3f0d4cbde2d4cf24000ea629c6671d78ca8075",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 생활 선택 내용이 없다",
+      "contextNote": "희생 시기 규정 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:22:27",
+      "textSha256": "48146a36960eb264364fb26082a66067bd7b28756c2d15fd15beba5e92f9e2b0",
+      "status": "exclude",
+      "reason": "어미와 칠 일 지낼 새끼 가축의 조건은 현재 성인 독립이나 기회 대기의 실제 조건이 아니다",
+      "contextNote": "새끼 가축의 희생 가능 시점",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:22:28",
+      "textSha256": "7914f27434381344c38f541cfa566d8f81f65920ed27223af8a6baae2dff81b2",
+      "status": "exclude",
+      "reason": "어미와 새끼를 같은 날 잡지 않는 법은 보통 부모 방문의 우선순위를 알려 주지 않는다",
+      "contextNote": "어미 새끼 동시 희생 금지",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:22:29",
+      "textSha256": "bb074e2e33bc12702d9a8246a7f49d676ceb3f90efae6d2693056491a6406281",
+      "status": "exclude",
+      "reason": "감사 희생이 열납되도록 드리란 도입만으로 선물 크기의 기준은 없다",
+      "contextNote": "감사 제물의 열납 목적",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:22:30",
+      "textSha256": "f249f80aa1ae90978e2389c7453456e715e48256010dd5a0691c1768f47ff11a",
+      "status": "exclude",
+      "reason": "제사 음식 당일 섭취는 오늘 미완 일이나 내일 여가의 실질 기한과 다르다",
+      "contextNote": "감사 제물 식사 기간",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:22:31",
+      "textSha256": "e0a9705cb3bbd386189b5280e883180a51fffff3d0e8959ab018a0582da7042b",
+      "status": "hold",
+      "reason": "H064의 기준 준수는 있으나 내 계명이 무엇인지 이 절에 없어 두 가치의 부담은 약하다",
+      "contextNote": "계명 준수 재강조",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:22:32",
+      "textSha256": "331c4b4ca81cd16f2de833bcdbfb3932134110f71bd36319eab57f0640379b1f",
+      "status": "exclude",
+      "reason": "거룩한 이름과 백성의 성별은 현재 보고나 구매의 구체 선택 이유가 아니다",
+      "contextNote": "하나님의 이름과 백성 거룩함",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:22:33",
+      "textSha256": "2750d29a4ad3fb7b37d0d690e6d2de13f65dd7cb6efc4ec8bf5003877005884b",
+      "status": "exclude",
+      "reason": "출애굽시킨 신의 소개는 지금 선택의 필요한 정보를 주지 않는다",
+      "contextNote": "계명 준수의 관계적 이유",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:23:1",
+      "textSha256": "1213bc72e4be9e9f17f4b9129e3f0d4cbde2d4cf24000ea629c6671d78ca8075",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 독립 생활 판단이 없다",
+      "contextNote": "절기 규정 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:23:2",
+      "textSha256": "e66e0b4eab26e4413e11a9d4ce1cb0dc453a0aa70aeeb595605197a449ce16f9",
+      "status": "exclude",
+      "reason": "절기 목록을 공포할 도입은 아직 어떤 일정을 선택할지 의미가 미완이다",
+      "contextNote": "절기와 성회 총칙",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:23:3",
+      "textSha256": "32c4eba3e9836f220ea5d1599712cb4e3c01cb8d95066f99c19cbbb989bfac36",
+      "status": "candidate",
+      "reason": "일할 때와 쉬는 날을 구분하라는 전체 문장에서 빈 주말의 실마리를 읽는다",
+      "contextNote": "일곱째 날의 안식일과 성회",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H015",
+          "clue": "일하는 날과 쉬는 날을 나누는 말에서 빈 주말도 일정으로 받아들일 실마리를 얻는다.",
+          "friction": "안식일 성회 규정이며 오늘의 마감이 없거나 끝났다고 전제하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:23:4",
+      "textSha256": "7ca29222cf4cfa7ae68512fc79cd30d34ae3ca38ff6422a91cdc4778bff3ef99",
+      "status": "exclude",
+      "reason": "정한 때 절기를 알리는 도입만 있어 현재 기한의 기준은 없다",
+      "contextNote": "연중 절기 목록 시작",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:23:5",
+      "textSha256": "291e89089d9c1e4407b7830008ceb7a70d26c9fd6d7832f08d378955072f6e11",
+      "status": "exclude",
+      "reason": "정월 십사일 저녁의 유월절은 오늘 생활 기한과 다른 날짜 정보다",
+      "contextNote": "유월절 날짜 지정",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:23:6",
+      "textSha256": "57a06bae721734a9615db125aec2988b7ef7bb6f3a59958ff92468fbbe7052fc",
+      "status": "exclude",
+      "reason": "무교병 칠 일은 일상 식사나 쉬는 기간의 기준으로 옮길 수 없다",
+      "contextNote": "무교절 날짜와 음식",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:23:7",
+      "textSha256": "33b3ea46a72a13618804f65c1daa0a885647f4828c7f71980c94310cd1ff1da4",
+      "status": "candidate",
+      "reason": "모이는 날에도 일을 멈춘다는 말에서 쉼을 일정의 한 부분으로 둘 실마리를 얻는다",
+      "contextNote": "무교절 첫날 성회와 노동 중단",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H015",
+          "clue": "모이는 날도 노동을 멈추는 모습에서 쉼을 따로 남길 수 있다.",
+          "friction": "무교절의 첫날 규정이다. 지금 날짜가 그날이라고 해설하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:23:8",
+      "textSha256": "ac2f4d1f1d89a411eb49eb85ace69d92bd0c949dde08b76ca62613b10fa34c78",
+      "status": "hold",
+      "reason": "H015의 쉴 날은 비추나 칠 일 화제와 제칠일 성회라는 복합 의식이 현재 빈 주말보다 간접적이다",
+      "contextNote": "무교절 마지막 날의 쉼",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:23:9",
+      "textSha256": "1213bc72e4be9e9f17f4b9129e3f0d4cbde2d4cf24000ea629c6671d78ca8075",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 생활 선택의 이유가 없다",
+      "contextNote": "첫 이삭 절기 규정 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:23:10",
+      "textSha256": "6c73bc754fcb658e9519ea37a147c231853548e0de7aa72f83e620e1077ec0d7",
+      "status": "hold",
+      "reason": "H059의 첫 결실을 내놓는 태도는 있지만 정착과 수확 및 제사장 의식이 길어 여력 있는 일부 도움과 다르다",
+      "contextNote": "첫 이삭 한 단 봉헌",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:23:11",
+      "textSha256": "ecaa7c782755ae47a8dcc02f21602157ee749839d837d2f3cbfa3e2d0aca5fe5",
+      "status": "exclude",
+      "reason": "안식일 뒤 이삭 단을 흔드는 시점은 지금 선물의 적정함을 정할 정보가 아니다",
+      "contextNote": "첫 이삭 요제의 실행",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:23:12",
+      "textSha256": "3ad5bea5e6ba3fa9ab0cc38063fdab5d13f48ecf8501ffcd0319823b16826300",
+      "status": "exclude",
+      "reason": "단을 흔드는 날 수양 제사는 현재 기념 소비나 휴식의 부담을 말하지 않는다",
+      "contextNote": "첫 이삭 절기의 번제",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:23:13",
+      "textSha256": "b340c64413766e5e85a702a341a3c321d9f6135f18c25772d122171649dfe8a5",
+      "status": "exclude",
+      "reason": "밀가루 기름 포도주 분량은 실제 내 자금이나 식량 필요의 자료가 아니다",
+      "contextNote": "첫 이삭 절기의 소제 전제",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:23:14",
+      "textSha256": "9ede688f31ab1fc5725e97062f72cbba78102d709128b1a9b04fdd41256ed344",
+      "status": "exclude",
+      "reason": "예물 전 곡식 금령은 오늘 미완 업무와 즐거움의 우선순위로 옮길 이유가 약하다",
+      "contextNote": "첫 이삭 봉헌 전 식사 금지",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:23:15",
+      "textSha256": "9f717209d452fb0cc4ec93c13a440f8c38cfa1787cff4b2ea86075314f8ac3ce",
+      "status": "exclude",
+      "reason": "안식일 일곱 수효는 현재 기다릴 실제 기한의 기준이 아니다",
+      "contextNote": "칠칠절 계수 시작",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:23:16",
+      "textSha256": "051b7f89303f4ef2505fc453d6fdcae77b45ebc2bc6f12a39f2a26151a59cd61",
+      "status": "exclude",
+      "reason": "오십 일과 새 소제는 오늘 마감이나 다음 기회를 정할 정보가 아니다",
+      "contextNote": "칠칠절의 시점",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:23:17",
+      "textSha256": "b23d147cffef62ac9cf6d41dabfeeff8673904ea39aa9150ae4fe8b7d9fb38cd",
+      "status": "exclude",
+      "reason": "두 떡의 가루와 누룩 제사 조건은 작은 선물의 크기나 마음을 말하지 않는다",
+      "contextNote": "첫 요제 떡의 규격",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:23:18",
+      "textSha256": "c2ae3f2541b9a03aeb87b955f58483af9e31a71b6686cf17e5e9c4069ade2155",
+      "status": "exclude",
+      "reason": "다양한 가축의 긴 목록은 일상 필요 지출이나 고른 분담의 이유를 주지 않는다",
+      "contextNote": "칠칠절 번제 제물",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:23:19",
+      "textSha256": "c82120cf55c1057b9189a3f1dbdf7aaca0f641d56a8019812a56cb8616b90d29",
+      "status": "exclude",
+      "reason": "수염소와 양의 제사 분류는 현재 선택지의 가치 판단을 담지 않는다",
+      "contextNote": "칠칠절 속죄 화목 제물",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:23:20",
+      "textSha256": "81a1373415367b81498b8556b8d29f47baf4b5fb7dfc8e23a6c922d4e3eeab54",
+      "status": "hold",
+      "reason": "A006의 봉사자 몫은 비추나 이삭 떡과 양의 요제 및 성물이라는 절차가 길다",
+      "contextNote": "칠칠절 요제와 제사장 귀속",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:23:21",
+      "textSha256": "2702b3a65fa55ee18b59ab7ffb1898a0f2abbfe1e4268d87d24f9fdd66fde423",
+      "status": "candidate",
+      "reason": "모임을 갖는 날도 노동을 멈춘다는 말에서 새 일정을 더 채우지 않고 쉬는 실마리를 읽는다",
+      "contextNote": "칠칠절 성회와 노동 중단",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H015",
+          "clue": "모임과 성취만 채우기보다 일을 멈추는 날도 둘 실마리를 읽는다.",
+          "friction": "칠칠절 성회의 영구 규정이며 오늘의 미완료 의무를 없애지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:23:22",
+      "textSha256": "5a399e6bc7242fff2a1e16ad9cd37ee82da44b7a1b0f8e993df429b64f69eb30",
+      "status": "candidate",
+      "reason": "밭 끝까지 다 취하지 않고 어려운 이가 쓸 것을 남기는 말이 나눔의 부담을 비춘다",
+      "contextNote": "가난한 자와 객에게 수확 일부를 남김",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H059",
+          "clue": "내 몫을 다 취하지 않고 어려운 이가 쓸 것을 남기는 나눔의 실마리가 보인다.",
+          "friction": "수확과 이삭의 농경 규정이다. 실제 여력 있는 고민에 한정하며 큰 금액이나 지원 효과를 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:23:23",
+      "textSha256": "1213bc72e4be9e9f17f4b9129e3f0d4cbde2d4cf24000ea629c6671d78ca8075",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 독립 생활 선택 내용이 없다",
+      "contextNote": "나팔절 규정 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:23:24",
+      "textSha256": "f4d17180c6694e1f05bd2e449f829ce064f5dbd5ae1f11a8ef2912b2035149b7",
+      "status": "hold",
+      "reason": "H015의 기념하며 쉬는 날은 있으나 칠월 일일과 나팔의 날짜 조건을 현재 일정에 넣을 수 없다",
+      "contextNote": "나팔 기념 성회의 날짜",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:23:25",
+      "textSha256": "77c05ab6e00b34d576944f0c70baf1708ae365ad45b2e70daee723e655c3ac13",
+      "status": "hold",
+      "reason": "H015의 쉬는 실마리는 있으나 여호와께 화제를 드리라는 두 번째 의식이 현재 주말과 직접 닿지 않는다",
+      "contextNote": "나팔절 노동 중단과 제사",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:23:26",
+      "textSha256": "1213bc72e4be9e9f17f4b9129e3f0d4cbde2d4cf24000ea629c6671d78ca8075",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 선택의 내용이 없다",
+      "contextNote": "속죄일 규정 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:23:27",
+      "textSha256": "402558c1be155c369ddf3c01ef46dcc40e8f2e16f76319a9155855e93d0c6cb1",
+      "status": "hold",
+      "reason": "H063의 일상 멈춤과 성찰은 가능하나 괴롭게 함과 화제는 금식 제사의 풀이가 필요하다",
+      "contextNote": "속죄일의 날짜와 의식",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:23:28",
+      "textSha256": "84182b9d79ab9f49b2c90f00ef97ba3e8a616331ec364cf92551d2a1069184c2",
+      "status": "hold",
+      "reason": "H063의 멈추어 자기 삶을 봄은 비추나 특정 속죄일이라 현재 막연한 불안의 이유를 죄로 단정할 수 없다",
+      "contextNote": "속죄일 노동 중단의 이유",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:23:29",
+      "textSha256": "1fa4f6b506b39418c9876e8dc86a4a5af42c5b45046bac35361762c1af0c4d01",
+      "status": "exclude",
+      "reason": "스스로 괴롭게 안 하면 추방하는 제재는 현재 몸과 마음을 쉴지의 실마리를 깨뜨린다",
+      "contextNote": "속죄일 금식 위반의 제재",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:23:30",
+      "textSha256": "05ae7db001be46c2defd55257cf06079710276c8c5d64149bdadbf337d35d6e9",
+      "status": "exclude",
+      "reason": "일하면 멸절할 처벌은 일반 휴식 선택에 필요한 부담보다 과하다",
+      "contextNote": "속죄일 노동 위반 제재",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:23:31",
+      "textSha256": "71c254df15064a0759d70aa6067a675b3376dc965207943a332aba87f44faee8",
+      "status": "candidate",
+      "reason": "사는 곳마다 일을 멈출 날을 두는 말에서 계속 바쁨을 채우지 않을 실마리가 읽힌다",
+      "contextNote": "속죄일의 노동 중단 준수",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H015",
+          "clue": "내가 사는 일상에서도 일을 전부 채우지 않고 멈출 시간을 둘 수 있다.",
+          "friction": "속죄일 노동 중단의 의무다. 앞의 처벌을 사용자의 현재 일과 연결해 위협하거나 오늘을 해당 절기라고 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:23:32",
+      "textSha256": "664ebd1737d4913e3a50ef6a990dab9876a8c90a62d2d90b24ef539483773be1",
+      "status": "hold",
+      "reason": "H063의 잠시 멈춤은 있지만 스스로 괴롭게 함과 저녁 시점은 속죄 금식의 구체 규정이다",
+      "contextNote": "속죄일 안식의 시간 범위",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:23:33",
+      "textSha256": "1213bc72e4be9e9f17f4b9129e3f0d4cbde2d4cf24000ea629c6671d78ca8075",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 생활 판단 내용이 없다",
+      "contextNote": "초막절 규정 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:23:34",
+      "textSha256": "52c081467da3362a825651f6abad09f1681c4879c66ef64c804727492be57e0a",
+      "status": "exclude",
+      "reason": "칠월 십오일 칠 일의 축제는 지금 주어진 여행 날짜나 여력의 정보가 아니다",
+      "contextNote": "초막절의 시점",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:23:35",
+      "textSha256": "e426394c1be373371894d7550474d850b9fa5a7a5903d6daff94180fee8ebb82",
+      "status": "candidate",
+      "reason": "성회 첫날 일을 쉬는 모습에서 쉼을 정한 일정으로 받아들일 실마리를 읽는다",
+      "contextNote": "초막절 첫날의 쉼",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H015",
+          "clue": "모이는 날에도 일을 쉬는 선택이 있다는 실마리를 읽는다.",
+          "friction": "초막절 첫날의 규정이며 모든 행사 참석이 휴식 효과를 낸다는 설명은 붙이지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:23:36",
+      "textSha256": "31d9057df1ad23b42ad2432fdc7f5d7e98f55e1b4b9b2406b2ca14b8437efccb",
+      "status": "hold",
+      "reason": "H015의 모이고 쉬는 날은 있으나 팔 일 화제와 대회 의무가 길어 현재 휴식 선택은 간접적이다",
+      "contextNote": "초막절 팔 일 성회와 제사",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:23:37",
+      "textSha256": "9d24d47fa26b32db818b1e542c766dfc1eb0cbe5cd42daa3f088ec38ee04656e",
+      "status": "exclude",
+      "reason": "여러 제사 종류와 날짜별 의무는 일반 공연이나 축제 참여의 적정함을 말하지 않는다",
+      "contextNote": "연중 절기의 제사 총괄",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:23:38",
+      "textSha256": "bee72a7e056448bb27ea8f9792c743f12d3c7881365b74f154ef7f47dccbb406",
+      "status": "exclude",
+      "reason": "여러 예물 외에 더 드릴 규정은 상대가 큰 선물을 요구 안 한 H007의 부담과 다르다",
+      "contextNote": "절기 예물과 기존 예물의 구별",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:23:39",
+      "textSha256": "99631ae5aa739b94324005f11bc8c09873920b49916f2eff3cccfddb18e8705e",
+      "status": "candidate",
+      "reason": "수확을 마친 뒤 축제와 쉼을 따로 누리는 모습에서 일을 마친 즐거움의 실마리가 있다",
+      "contextNote": "수확 후 초막절과 첫날 팔일의 안식",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G04",
+          "clue": "해야 할 일을 끝낸 뒤에는 축제와 쉼을 누릴 자리를 둘 수 있다는 실마리다.",
+          "friction": "수확을 마친 초막절의 날짜와 양 끝 안식일이 들어 있다. 이미 일이 완료된 G04와 오늘 마감 미완료인 G05를 구별하며 내일 피로가 없다고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:23:40",
+      "textSha256": "c784f639fbacd2cfe8be7ecfa0d9460a5857a540964a879c4fa8c2955b8795bf",
+      "status": "candidate",
+      "reason": "아름다운 것을 마련해 즐거워하라는 말에서 여력 있는 즐거움을 허용할 실마리를 읽는다",
+      "contextNote": "초막절 가지 실과를 취해 함께 즐거워함",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H004",
+          "clue": "아름다운 실과와 나무로 함께 즐거워하라는 말에서 여력 있는 여행의 즐거움을 받아들일 실마리를 얻는다.",
+          "friction": "초막절 칠 일의 예배 축제이며 모든 지출을 허용하거나 실제 자금을 새로 보태지 않는다.",
+          "expectedEnough": "yes"
+        },
+        {
+          "scenarioId": "G04",
+          "clue": "즐거워할 시간도 허용된다는 말에서 마친 일 뒤 공연을 누릴 방향을 읽는다.",
+          "friction": "공연과 같은 행사이거나 피곤하지 않을 것이라는 보장은 없다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:23:41",
+      "textSha256": "f4486497a495bd98f75c47e52d485f94b33e07b57c617d6fef84f9f09116adcd",
+      "status": "exclude",
+      "reason": "칠월 칠 일의 영구 절기 규정은 지금 행사 기회의 희소성을 정할 수 없다",
+      "contextNote": "초막절의 대대 준수",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:23:42",
+      "textSha256": "4731c8bd223bf0674e9eeff455ad1ff617917055aa87fecd5ea83e18f1915c70",
+      "status": "hold",
+      "reason": "H013의 낯선 곳에서 지냄은 비추나 초막 칠 일의 공동체 규정만으로 여행 불안의 선택 실마리는 약하다",
+      "contextNote": "초막에 지내는 기간",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:23:43",
+      "textSha256": "8a2957049d143e55138afef7056f204a581433c918fc6f8fd858bb756a95e017",
+      "status": "exclude",
+      "reason": "광야 초막을 후손에게 알리는 이유는 현재 여행의 안전이나 필요를 말하지 않는다",
+      "contextNote": "초막절의 출애굽 기념 이유",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:23:44",
+      "textSha256": "61c6ef23b6e012dc467b9a98cf67ce010a31ef89eebc9fa9b122439ffd683eb2",
+      "status": "exclude",
+      "reason": "절기를 공포한 보고만으로 현재 양쪽 선택의 부담을 가를 수 없다",
+      "contextNote": "절기 규정 전달 마무리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:24:1",
+      "textSha256": "1213bc72e4be9e9f17f4b9129e3f0d4cbde2d4cf24000ea629c6671d78ca8075",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 생활 선택 내용이 없다",
+      "contextNote": "등불과 진설병 규정 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:24:2",
+      "textSha256": "57b1f506d5f4139d27e91487d3f18b2ee6cf9291ae9779fcebc3d66ed5aee08c",
+      "status": "hold",
+      "reason": "H053의 불씨를 유지함은 비추나 감람유 준비 의식이 대부분이고 계속 과로할 기준은 아니다",
+      "contextNote": "끊임없는 등잔 기름 준비",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:24:3",
+      "textSha256": "c90dbc4e1f10b3173c0252e13f20f81fa8d70d3084388cca7e8cd72ba92d4277",
+      "status": "hold",
+      "reason": "H053의 계속 돌봄은 있으나 밤새의 영구 의무를 피곤한 사람의 수면 포기로 옮기면 안 된다",
+      "contextNote": "아론의 등불 관리 시간",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:24:4",
+      "textSha256": "c83e5c11825aad008373930286c077da32f82322741dcf5e8897ea5750a44930",
+      "status": "candidate",
+      "reason": "등잔을 끊이지 않게 돌보는 모습에서 현재 일의 불씨를 유지할 실마리를 읽는다",
+      "contextNote": "등대 등잔의 지속 관리",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H053",
+          "clue": "새 흥미를 따라가기 전에 지금의 불씨를 꺼뜨리지 않고 돌볼 실마리를 읽는다.",
+          "friction": "등잔의 지속적인 제사장 관리다. 쉬지 않고 일하라는 처방으로 확대하지 않으며 H055의 회복 휴식과 구별한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:24:5",
+      "textSha256": "d61f7ec950ec40b1b83bf66e1be5c8e42434a3cbf336f2aec72868dc13565e13",
+      "status": "exclude",
+      "reason": "떡 열둘과 가루 분량은 지금 식사나 소비의 적정량 자료가 아니다",
+      "contextNote": "진설병 제조의 수량",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:24:6",
+      "textSha256": "29b574407093481a31cab038c191cebd0eadcab4d6df94f20935333e3ccb46af",
+      "status": "exclude",
+      "reason": "두 줄 여섯 개 배열은 동료에게 고른 돈 분배를 정하는 근거가 아니다",
+      "contextNote": "진설병 배치",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:24:7",
+      "textSha256": "ad78b8bb66dff2eaf898a301aa5729ff86e1ecd090999e88f792b259d9de7e19",
+      "status": "exclude",
+      "reason": "떡 줄 위 유향의 기념 제사는 일상 선물의 마음이나 크기의 기준이 아니다",
+      "contextNote": "진설병의 유향과 화제",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:24:8",
+      "textSha256": "26385d19531324ef2258bbb2e6454bf032127bfabd46c71734d2cd68b8530904",
+      "status": "exclude",
+      "reason": "매안식일 떡 진설은 실제 현재 사용 물건 교체 주기를 말하지 않는다",
+      "contextNote": "진설병의 정기 교체",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:24:9",
+      "textSha256": "b173db8b648f0736c41f8d11a635d0bd1767528640591aec4bfce28126194c8c",
+      "status": "hold",
+      "reason": "A006의 맡은 자 몫은 비추나 아론 가계 성물 식사와 영구 규례가 길어 현재 보수 요청은 간접적이다",
+      "contextNote": "진설병의 제사장 식사",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:24:10",
+      "textSha256": "a521a69a23936423fa4ad921457a41db6911b5efb81bae759f920560a0e8329d",
+      "status": "exclude",
+      "reason": "혼인 배경과 싸움 도입은 실제 현재 친구의 혈통이나 의도를 정할 정보가 아니다",
+      "contextNote": "여호와 이름 저주 사건 배경",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:24:11",
+      "textSha256": "1098ca3d50b6458db61a889426f7896741d29f103941fe552293a3ffd42ed874",
+      "status": "exclude",
+      "reason": "하나님 저주와 계보가 포함된 구금 장면은 일반 화난 말의 선택과 무게가 다르다",
+      "contextNote": "저주자를 모세에게 끌고 감",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:24:12",
+      "textSha256": "a3324471903027a8ab3f0693eafa09833c18d2b5a19e61e00e736112c8105226",
+      "status": "hold",
+      "reason": "H061의 답을 기다림은 떠오르나 사람을 가둬 신적 판결을 기다린 상황이라 개인 완벽한 결정 욕구와 다르다",
+      "contextNote": "저주자의 판결 전 구금",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:24:13",
+      "textSha256": "1213bc72e4be9e9f17f4b9129e3f0d4cbde2d4cf24000ea629c6671d78ca8075",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 독립 생활 판단 내용이 없다",
+      "contextNote": "저주자 판결 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:24:14",
+      "textSha256": "2982b83d5943db30d877ebe54e80628d68d064944e2bf77b42cbea87e80318cf",
+      "status": "exclude",
+      "reason": "회중이 돌로 치라는 처형은 일반 소문 확인이나 경계 대화의 실마리로 옮길 수 없다",
+      "contextNote": "저주자 돌 처형 명령",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:24:15",
+      "textSha256": "f45747252d0885a02c8289f1241a2762723a8a6fb155cffe299b2a5dddf8f338",
+      "status": "exclude",
+      "reason": "하나님 저주의 죄는 현재 부탁이나 사과의 사실을 판단할 정보가 아니다",
+      "contextNote": "저주의 책임 원칙",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:24:16",
+      "textSha256": "76fe8c45b6c4cf4c3dbb850f9cdb632e516a4927f0cc7f909008fc84b682b122",
+      "status": "exclude",
+      "reason": "내외국인의 저주 사형은 일반 정직한 보고나 분노 진정의 자연스러운 기준이 아니다",
+      "contextNote": "여호와 이름 훼방의 처형",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:24:17",
+      "textSha256": "0f22535c36f50207420526b131f4713dcef6eeb20dde28017d06ac283772abd6",
+      "status": "exclude",
+      "reason": "살인자의 사형은 현재 작은 잘못이나 약속 위반에 비례시킬 수 없다",
+      "contextNote": "살인 처벌 원칙",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:24:18",
+      "textSha256": "c9cd1155996523d85bc466554cb8a41a8717bbd5d55cc64e8757469666489345",
+      "status": "candidate",
+      "reason": "손상한 남의 것을 갚는 책임이 짧고 분명해 수리비를 말할 실마리가 있다",
+      "contextNote": "짐승을 죽인 자의 재산 배상",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A017",
+          "clue": "내가 손상한 남의 것은 갚는다는 말에서 사과만 하지 않고 배상을 꺼낼 실마리를 얻는다.",
+          "friction": "가축을 죽인 경우의 배상으로 기기 수리와 다르다. 사용자가 일부러 손상했다거나 정확한 수리비를 새로 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:24:19",
+      "textSha256": "92239e25a834a60acb892a9c01d0ed3d843863eed7b9a692a7b389ecd3d86996",
+      "status": "exclude",
+      "reason": "이웃을 상하게 한 만큼 행할 신체 응보는 지금의 사소한 갈등에 대입할 기준이 아니다",
+      "contextNote": "동형 배상의 원칙 도입",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:24:20",
+      "textSha256": "abd97253617d66302445894ffe559ebcc2920a8e710882790fab8914a197562d",
+      "status": "exclude",
+      "reason": "신체 손상을 그대로 갚는 제재는 작은 실수나 약속 위반의 보복 처방으로 옮길 수 없다",
+      "contextNote": "동형 상해 배상 상세",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:24:21",
+      "textSha256": "a96b5a03e33673a1aed2d456f894212a56510c0a39a1253a5a77c2105ef0e32e",
+      "status": "exclude",
+      "reason": "짐승 배상 뒤 사람 사형이 붙어 A017의 기기 수리 실마리로는 전체 연결이 깨진다",
+      "contextNote": "짐승 재산 배상과 살인 처벌 대비",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:24:22",
+      "textSha256": "a40df5a28cd741592530d1572cdde8cfcbf719281084a92df468ef8f17aa4bdc",
+      "status": "hold",
+      "reason": "A016의 누구에게나 공정함은 있으나 그 법이 앞의 신체 형벌이라 일반 증언의 기준으로 충분한지 불확실하다",
+      "contextNote": "내외국인에게 같은 법 적용",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:24:23",
+      "textSha256": "4c1c4a3b58afe9812ba0f8ff4ec9dce4f135082ccaccebbf113de8be4fed80e9",
+      "status": "exclude",
+      "reason": "저주자를 돌로 처형한 실행은 일상 분노나 불만 표현의 기준이 아니다",
+      "contextNote": "저주자 판결 집행",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:1",
+      "textSha256": "b827f50516b22ccf558e8bf95d537ed584a334d14b7f1ed347a8bdbb083d2f90",
+      "status": "exclude",
+      "reason": "말씀 도입과 시내산만 있어 생활 판단의 내용이 없다",
+      "contextNote": "안식년 희년 법규 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:2",
+      "textSha256": "7d24308c5a30574040d0ded7d32e1bb7b646c874e9098d1ff235d14b866b534c",
+      "status": "hold",
+      "reason": "H055의 땅도 쉬게 함은 좋은 비유이나 정착한 땅의 안식 규정이라 구체 휴식 행동은 간접적이다",
+      "contextNote": "정착 후 땅의 안식 원칙",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:3",
+      "textSha256": "5f4948d629e86635cbc11ea2931b74c8aa19fc2d28f51189caf14c8e70d72d73",
+      "status": "exclude",
+      "reason": "육 년 농사 전제만 있어 쉬는 기준은 다음 절을 요구한다",
+      "contextNote": "안식년 전 노동의 기간",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:4",
+      "textSha256": "fd0145b848c35bded3d83f08e262261f6b5bb93bd1581e8b5ae13339d8ecb21f",
+      "status": "candidate",
+      "reason": "땅도 가꾸기와 생산을 멈추게 한다는 말에서 회복을 위한 쉼의 실마리를 읽는다",
+      "contextNote": "칠 년째 땅과 포도원의 안식",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H055",
+          "clue": "땅도 계속 생산하게만 두지 않고 쉬게 하는 모습에서 회복을 위해 멈출 실마리를 얻는다.",
+          "friction": "일곱째 해의 농사 안식이며 휴식 기간이나 의학적 결과를 새로 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:25:5",
+      "textSha256": "e31b0e59c8a000963964d4a41640c691ec6c01c01795109984420d0dedeaecf5",
+      "status": "hold",
+      "reason": "H055의 생산을 멈출 실마리는 있으나 자생 곡식을 수확 못 하는 안식년 규정이 일상과 다르다",
+      "contextNote": "안식년 자생 수확 금지",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:6",
+      "textSha256": "b83bd3be1d97ab6fac6bbe8fabf7f1c3b56ef6497ce785759b2a091fbab3042a",
+      "status": "candidate",
+      "reason": "남종 품군과 객까지 함께 먹을 몫을 여는 말에서 내 자원을 나누는 실마리를 얻는다",
+      "contextNote": "안식년 소출의 공동 식사",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H059",
+          "clue": "나뿐 아니라 일하는 이와 낯선 이도 먹을 몫을 열어 두는 나눔의 실마리다.",
+          "friction": "안식년의 소출과 신분 목록으로 마지막 문장이 다음 짐승 목록에 이어진다. 실제 새 재산을 가정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:25:7",
+      "textSha256": "5796fde2042510010527e01453cd239f124a2e3b99e08d0a6b0037a393068822",
+      "status": "hold",
+      "reason": "H059의 내 것만 챙기지 않음은 비추나 가축 들짐승의 식량으로 대상이 달라 직접 도움의 충분함은 불확실하다",
+      "contextNote": "안식년 소출을 짐승에게도 개방",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:8",
+      "textSha256": "6b82b2d7b11eab94c43e3a23b4a31a808625deace3198465ba73624f9a5b6f13",
+      "status": "exclude",
+      "reason": "칠 곱하기 칠의 사십구 년은 현재 기다릴 실질 기한을 말하지 않는다",
+      "contextNote": "희년의 계수",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:9",
+      "textSha256": "c97dc477ffc1fb0c61d145d2bab284359bdbffe0dbbf40f5042d040257f2c9d6",
+      "status": "exclude",
+      "reason": "속죄일 전국 나팔은 현재 행사와 가족 방문의 우선순위를 정하지 않는다",
+      "contextNote": "희년 공포의 시점",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:10",
+      "textSha256": "a413e16a7718bcc41a2f989b3db2605c913b990591bebd27ed0641721444c10e",
+      "status": "candidate",
+      "reason": "가족에게 돌아가라는 말에서 익숙한 가족을 찾아갈 선택의 실마리를 읽는다",
+      "contextNote": "희년의 자유와 기업 가족 복귀",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H010",
+          "clue": "각자 가족에게 돌아가라는 말에서 부모님께 찾아갈 방향을 읽을 수 있다.",
+          "friction": "오십 년 희년의 법적 해방과 기업 반환도 함께 있다. 현재 재산이 돌아온다거나 다음 방문 기회가 사라진다고 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:25:11",
+      "textSha256": "b54ad3d6fff2afc533d14a6af0f806f3042e25f2b65b0c907103a34f8a5a79a1",
+      "status": "exclude",
+      "reason": "오십 년 희년 농사 금지는 오늘 쉬는 시간이나 돈 기한과 다른 제도다",
+      "contextNote": "희년의 수확 제한",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:12",
+      "textSha256": "2ee058031e9ea6ee733710c7d15cd848afa22d1d2c7b680b0a229128e48b78d9",
+      "status": "exclude",
+      "reason": "희년 밭 소산을 먹는 규정만으로 향유나 음식 구매의 필요를 가를 수 없다",
+      "contextNote": "희년의 식량 규정",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:13",
+      "textSha256": "e380abf49c2f5b0cc96c1234e87ecb9e77c32c7e5ea5084dfe25b8589d4d5389",
+      "status": "hold",
+      "reason": "H010의 돌아감은 있으나 기업이 가족인지 재산인지 풀이하지 않으면 부모 방문과의 연결은 약하다",
+      "contextNote": "희년의 기업 반환",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:14",
+      "textSha256": "50840f00112bf16dc27a861711a2d4637c8815d2f9af8477c044e5cf5ff67308",
+      "status": "candidate",
+      "reason": "사는 때나 파는 때나 속이지 말라는 문장이 거래의 흠을 알릴 부담에 직접 맞는다",
+      "contextNote": "매매에서 서로 속임 금지",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H022",
+          "clue": "팔거나 살 때 서로 속이지 말라는 말이 묻지 않은 작은 흠도 알릴 실마리가 된다.",
+          "friction": "희년 토지 거래의 문맥이며 모든 미고지를 법적 사기라고 판정하거나 판매 결과를 약속하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:25:15",
+      "textSha256": "7d46a5ab5e804576d163467855939e31cd0f1d4f7e4dc2cfaee02517aea05c11",
+      "status": "candidate",
+      "reason": "열매를 얻을 남은 기간으로 값을 잡는 문장에서 기간제 물건의 가격 기준을 읽는다",
+      "contextNote": "희년까지 남은 수확 기간의 거래",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A027",
+          "clue": "열매를 누릴 남은 기간을 거래의 기준 삼아 남은 이용 기간으로 가격을 정할 수 있다.",
+          "friction": "희년까지 토지 수확권의 거래이며 헬스장 권리 양도의 실제 법이나 시장 가격을 정하는 말은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:25:16",
+      "textSha256": "f87e62ccce42cb3aeee11b4d1211f038e9c1eb5d7be80e9d894b7f471339b337",
+      "status": "candidate",
+      "reason": "사용할 기간이 적으면 값을 줄이는 이유가 전체 문장에 명료하게 나온다",
+      "contextNote": "남은 생산 기간에 비례한 가격",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "A027",
+          "clue": "기간이 적으면 값을 적게 하라는 명료한 말이 잔여 이용권의 가격 부담에 맞는다.",
+          "friction": "토지 수확의 연수를 말한다. 정확히 절반 가격에 팔릴 것이라는 보장은 없으며 새 매수자의 마음도 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:25:17",
+      "textSha256": "3a60fcdd94052ada906ca86ffa36d5cc64f15c86b141075cb8309f05477bb60b",
+      "status": "candidate",
+      "reason": "상대를 속이지 않는 쪽을 택할 실마리가 짧고 선명하다",
+      "contextNote": "매매 정직과 경외",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H022",
+          "clue": "서로 속이지 말라는 기준을 붙들어 거래 조건을 알릴 실마리를 읽는다.",
+          "friction": "소비자에게 법률 판정을 주는 문장으로 쓰지 않는다. 작은 흠의 범위는 입력 그대로 둔다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:25:18",
+      "textSha256": "0bd38e11e90ef9654591a83315ddfb514a7ddcb2cdbf9e735640109d9ad0e485",
+      "status": "hold",
+      "reason": "H064의 기준을 지킬 힘은 있으나 그 땅 안전의 약속을 현재 진로의 성과로 정할 수 없다",
+      "contextNote": "희년 법규 준수와 안전",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:19",
+      "textSha256": "80e9e4b0c26533a05d6b21299dfc7c13a6fcf15e0de7ff7e43a3aa0a3ef10b36",
+      "status": "hold",
+      "reason": "G02의 배부름 위로는 있으나 땅 소출과 안전을 실제 자금 부족의 해결로 보탤 수 없다",
+      "contextNote": "언약 땅의 공급과 안전 약속",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:20",
+      "textSha256": "12a6990dba7117f1870d510c890660d803c42338f2456dfd96f290c5340bcdc4",
+      "status": "hold",
+      "reason": "H055의 멈추면 무엇으로 살까 하는 불안은 비추나 안식년 농사 조건과 답 없는 미완 문장이다",
+      "contextNote": "안식년 식량에 대한 예상 질문",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:21",
+      "textSha256": "19631b3aee787f81515697791a312e3f61b58a0ed84e170c6592585171dc55fc",
+      "status": "hold",
+      "reason": "H055의 쉼 중 공급은 위로가 되나 삼 년 식량을 현실의 미확인 소득으로 보장할 수 없다",
+      "contextNote": "안식년 전 풍성한 소출 약속",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:22",
+      "textSha256": "c95068116c0136f39b401bf4dbf930b91534ffa1d8ad7949b72e47d1120d1e13",
+      "status": "hold",
+      "reason": "H006의 가진 것을 더 씀은 비추나 팔 구년의 새 수확까지의 곡식 계획을 기기 교체 조건으로 정할 수 없다",
+      "contextNote": "묵은 곡식으로 새 수확까지 지냄",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:23",
+      "textSha256": "1d33e1c199305e53e6abacb1dfb1fe58ae409f1d79fab9f490581ff293412f64",
+      "status": "exclude",
+      "reason": "토지를 영영 못 파는 소유 규정은 일반 물건의 판매나 가족 나눔을 금할 근거가 아니다",
+      "contextNote": "하나님 토지와 임시 거주자의 지위",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:24",
+      "textSha256": "d99562eab5b6a64384ce8df5dabadb76325bf7fea880ec1e5d0280fe80a93c83",
+      "status": "exclude",
+      "reason": "땅 무르기 허용은 중고 거래의 이미 한 약속을 취소할 일반 권리가 아니다",
+      "contextNote": "토지의 환매 원칙",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:25",
+      "textSha256": "8d408d5a2071af5106f03fd49ca68bee49b4dfc4d347d85cf32d6b9c221695f6",
+      "status": "hold",
+      "reason": "H059의 가난한 가까운 이를 도움은 있으나 근족의 토지 환매는 현재 일부 지원보다 특수하다",
+      "contextNote": "가난한 동족의 토지 구제",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:26",
+      "textSha256": "66537d2531276039082d378202cca6440ca0123ca70005b96382bfa7dbed1150",
+      "status": "exclude",
+      "reason": "무를 힘이 생겼다는 조건만 있어 지금 돈 부족의 해결을 정할 수 없다",
+      "contextNote": "토지 환매의 자기 여력 조건",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:27",
+      "textSha256": "05cf40ed03cdc603d4e22d2cc5c00ca7beb6adcf68b80534b55c74227d81df69",
+      "status": "exclude",
+      "reason": "팔린 연수와 기업 귀환의 정산은 초과 송금 반환이나 거래 가격 재변경과 다르다",
+      "contextNote": "토지 환매의 계산",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:28",
+      "textSha256": "b7e09f332ab1069c05ab0a566432239f719df6db704d6bd11438e24e2e615d6e",
+      "status": "hold",
+      "reason": "G08의 기한 기다림과는 다르며 희년에는 자동 반환한다는 토지 법을 현재 판매 성공으로 옮길 수 없다",
+      "contextNote": "환매 불가 시 희년 반환",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:29",
+      "textSha256": "dd8ade2eb44ace8a07cda2514ec963a25d8ecf5df8ecbf1f37457200121b7d12",
+      "status": "exclude",
+      "reason": "성내 집의 일 년 환매 기한은 오늘 현금 기한이나 신청 마감의 사실이 아니다",
+      "contextNote": "성벽 안 가옥의 환매 기한",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:30",
+      "textSha256": "00a1bdf9011ffe5eccc1d791b0c816257d53f25717182f66524f69808c7f3915",
+      "status": "exclude",
+      "reason": "희년에도 반환 안 되는 가옥 조건은 일반 주문 취소나 거래 변경의 기준이 아니다",
+      "contextNote": "성내 가옥 환매 기한 후 귀속",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:31",
+      "textSha256": "30cb756c0cda12c9d839794c318943909238705964c125d63bb074ccfa49730b",
+      "status": "exclude",
+      "reason": "촌락 집의 전토와 같은 예외는 현대 집이나 물건의 가격을 정할 법이 아니다",
+      "contextNote": "성벽 없는 가옥 환매 예외",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:32",
+      "textSha256": "255b987063852db51aa0dbbf7ba362535dbe9adf6a12d4f170171ed5177fcaf1",
+      "status": "exclude",
+      "reason": "레위 가옥의 무기한 환매는 현재 관계나 기회를 다시 얻는다는 보장이 아니다",
+      "contextNote": "레위 성읍의 환매 권리",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:33",
+      "textSha256": "e40a7cd8b26b1a09af5688c5ce56051d503836a9d08c495797fba7bfcff1228d",
+      "status": "exclude",
+      "reason": "레위 가옥의 희년 반환은 현재 판매자가 물건을 되찾을 미래 조건이 아니다",
+      "contextNote": "레위 가옥의 영구 기업 보호",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:34",
+      "textSha256": "569fe6e3941357f884bf51ee413fad8aa3a3968567b42ec98a8995ba63d26c88",
+      "status": "exclude",
+      "reason": "성읍 주변 밭 매매 금지는 사용하지 않는 물건을 팔지의 판단과 조건이 다르다",
+      "contextNote": "레위 밭의 매매 제한",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:35",
+      "textSha256": "55141fdba976ce23b07673a6aa66fe4051595df237841ddcbabc34bf90ee34c7",
+      "status": "candidate",
+      "reason": "빈한한 사람이 곁에 있을 때 함께 살 수 있도록 도우라는 말이 자원을 보탤 실마리가 된다",
+      "contextNote": "가난한 동족의 공동체 생계 지원",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H059",
+          "clue": "곁에서 어려워진 사람이 함께 살 수 있도록 도우라는 말에 자원을 보탤 실마리를 얻는다.",
+          "friction": "동족 생계 지원의 규정이다. 내 전 재산이나 생활비까지 모두 부담하라는 결론을 붙이지 않고 실제 여력이 있는 조건만 쓴다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:25:36",
+      "textSha256": "5765fb6c74994336e0b4d02ba452864add25c17ac0fc75b5c1ab34355e5dd878",
+      "status": "hold",
+      "reason": "H038의 돈보다 함께 삶을 살핌은 비추나 이자 금지가 반복된 늦은 상환의 위험을 없애지는 않는다",
+      "contextNote": "가난한 동족에게 이자 금지",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:37",
+      "textSha256": "90df6f51119e9407ca84159b5974a783dadadb0400f9e47c5d784f8fd012fe63",
+      "status": "hold",
+      "reason": "H059의 이익보다 도움은 있으나 이자를 위한 대출을 원래 선택지에 추가할 수 없다",
+      "contextNote": "돈과 식량의 이익 대여 금지",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:38",
+      "textSha256": "f85db4dc706f4591a4c6aef8b6b232533c2ab32ef7ba8940f185c4656ce2fdd8",
+      "status": "exclude",
+      "reason": "가나안과 출애굽의 하나님의 소개는 현재 자금이나 소득의 정보를 주지 않는다",
+      "contextNote": "생계 법규의 언약 이유",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:39",
+      "textSha256": "821c11aa20bb7b2ffea86c3145e8f54f41b5671e977a2d2fe6c04f4aebc99f3f",
+      "status": "hold",
+      "reason": "A028의 궁핍을 이용하지 않음은 있으나 몸이 팔린 동족의 종속 규정이라 현재 고용보다 무겁다",
+      "contextNote": "빈한한 동족의 종 대우 금지",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:40",
+      "textSha256": "52d2dead5849804a6c28544cfa82d6be7399bb26dc27328a792746c1c2410d5c",
+      "status": "exclude",
+      "reason": "희년까지 품군으로 섬기는 기간은 현재 노동 계약의 실제 종료일이 아니다",
+      "contextNote": "팔린 동족의 노동 신분",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:41",
+      "textSha256": "eaf0b49c72b32bdd22795eb58f40d1de7c258416995f72723ab8db3feab01727",
+      "status": "exclude",
+      "reason": "자녀와 기업을 회복할 미래 약속은 현재 직장 전환의 결과를 정할 수 없다",
+      "contextNote": "희년 동족의 가족과 기업 회복",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:42",
+      "textSha256": "422fb8c41c3ca46a787f2d5d2375e416d258e202118c8d83092651f647f8635c",
+      "status": "exclude",
+      "reason": "애굽에서 나온 하나님의 품군이라는 민족 지위는 현재 동료의 계약 관계를 정하지 않는다",
+      "contextNote": "동족 노예화 금지의 이유",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:43",
+      "textSha256": "50d5d15b868023068032c173c806f6428bd10c25a0c9872e100f7ad914be49b1",
+      "status": "candidate",
+      "reason": "상대 사정 때문에 엄하게 부리지 말라는 말이 약점을 이용할지의 부담에 맞는다",
+      "contextNote": "동족 노동자를 가혹히 대하지 않게 함",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A028",
+          "clue": "거절하기 어려운 사람을 가혹하게 부리지 말라는 말에서 일과 보수를 조정할 실마리를 읽는다.",
+          "friction": "원래 빈한해 몸이 팔린 동족 노동자이다. 현대 근로자를 실제 노예라고 부르거나 정해진 노동 조건을 제안하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:25:44",
+      "textSha256": "6a598a11476ba555a1f813cb858c321f5a076a23d3aa83d87bd29cb1b0cb2263",
+      "status": "exclude",
+      "reason": "외국인을 종으로 살 대상 지정은 현재 새 동료나 근로자의 가치를 정할 기준이 아니다",
+      "contextNote": "이방 노예 구입의 규정",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:45",
+      "textSha256": "d7894b3f2d73ad539fb816eed7e8c228cd3598bb151a2f98cb7b30a0c5eb630d",
+      "status": "exclude",
+      "reason": "이방인 가족의 소유화는 현재 돈이나 노동 도움의 관계에 그대로 옮길 수 없다",
+      "contextNote": "거주 외국인 가족 노예화 규정",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:46",
+      "textSha256": "542b7675e709301a2705d9243044fd17e868ef0125aa5b267ce7821a051c9430",
+      "status": "exclude",
+      "reason": "동족에게 엄하지 말라는 후반 앞에 영구 이방 노예 소유가 붙어 현대 공정 노동의 전체 실마리가 깨진다",
+      "contextNote": "이방 노예 상속과 동족 대우의 대비",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:47",
+      "textSha256": "0be13fa994cd9e07927650ffb26688327d08809894a10ab326574a0e21fa50ce",
+      "status": "exclude",
+      "reason": "동족이 이방인에게 팔린 조건은 현재 돈 부탁이나 직장 상황의 실제 정보가 아니다",
+      "contextNote": "외국인에게 팔린 동족의 전제",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:48",
+      "textSha256": "e91597a36b05fb248ea00ce08df842bbc8bb098331382e8e084345e02453baee",
+      "status": "hold",
+      "reason": "H059의 곤란한 가까운 사람 구제는 비추나 팔린 사람 속량의 신분 법이다",
+      "contextNote": "팔린 동족을 형제가 속량함",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:49",
+      "textSha256": "67c9870efaa77a22d6d34ea15f53698ae23eede70a717c4aee2197036c29e932",
+      "status": "exclude",
+      "reason": "삼촌 사촌과 부요해진 자기 속량은 일반 도움 요청의 상대나 여력을 보태게 한다",
+      "contextNote": "속량할 친족과 자기 여력",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:50",
+      "textSha256": "a830ad48cfc3fd47ecd9bf7eab5f31bfec774033c02160748f59e727f8ad368f",
+      "status": "exclude",
+      "reason": "남은 희년 기간의 사람 값은 현재 보수를 낮추거나 사람의 가치를 정할 근거가 아니다",
+      "contextNote": "노동 기간별 속량 금액 계산",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:51",
+      "textSha256": "556b044f4e3c1b9397b37c09c814fa3796e1b8b9ca969877573cd7ece04b1b03",
+      "status": "exclude",
+      "reason": "남은 해가 많을 때 환급할 값은 중고 물건 매매 약속의 변경과 다르다",
+      "contextNote": "남은 긴 기간의 속량 비용",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:52",
+      "textSha256": "1dbfcf4f45c1df74f3d39216e885b9c3d4d4a4a40883134ccf74e03a65177880",
+      "status": "exclude",
+      "reason": "희년 임박의 사람 몸값은 기간제 이용권의 가격과 주체가 달라 동일 규칙으로 바로 읽기 어렵다",
+      "contextNote": "남은 짧은 기간의 속량 비용",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:53",
+      "textSha256": "0eb9aa3c041e0362360f4229beca7b0ca3a86de0088c614be69b2e6038b2d5b3",
+      "status": "candidate",
+      "reason": "일하는 사람을 고용된 사람으로 대하고 가혹히 부리지 말라는 말이 노동량 조정의 실마리다",
+      "contextNote": "매년 삯군 대우와 가혹 행위 금지",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A028",
+          "clue": "사람을 값싼 소유물처럼 쓰지 않고 고용된 이로 대할 방향을 읽는다.",
+          "friction": "희년 속량법의 노동자이며 구체 시급이나 시간은 본문으로 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:25:54",
+      "textSha256": "53c5ad7ceffaab60a2b14cf34dd88e51919a31b2d1fc3ca4d62c1f638a634ed7",
+      "status": "exclude",
+      "reason": "희년의 자동 가족 자유를 현재 돈 부족이나 퇴사의 결말로 예고할 수 없다",
+      "contextNote": "속량 안 된 동족의 희년 자유",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:25:55",
+      "textSha256": "2034acf5a819fb8a708f5398826808561eeafa92f77c0a4617d1bffeda5ed323",
+      "status": "exclude",
+      "reason": "하나님의 품군이라는 출애굽 정체만으로 내 현재 고용 선택의 부담을 가르기 어렵다",
+      "contextNote": "동족 노동법의 언약적 마무리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:1",
+      "textSha256": "73c726ef8249686df9a1062d4d457b61994170c5f827d4fb3e10b535dc592f3f",
+      "status": "exclude",
+      "reason": "여러 우상 제작과 경배 금지는 일반 물건 소비를 헛되다고 평가할 기준이 아니다",
+      "contextNote": "언약의 우상 금지",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:2",
+      "textSha256": "cc997b12a36768062c0f1eaf1456c44bb90eeeae475b46dcaab68525aab7629f",
+      "status": "candidate",
+      "reason": "쉬는 날을 지킬 가치로 읽어 주말을 더 채우기보다 멈출 실마리를 얻는다",
+      "contextNote": "안식일과 성소 존중 재강조",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H015",
+          "clue": "쉬는 날도 지킬 일로 생각해 새 일정을 채우지 않을 실마리를 얻는다.",
+          "friction": "성소 공경이 함께 있다. 오늘 미완료 마감의 부재를 가정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:26:3",
+      "textSha256": "4d8a55e8d415e4522060095c52e2448217fb336077ddddaed3cce63da7f5cc12",
+      "status": "exclude",
+      "reason": "규례를 준행하면이라는 조건만 있어 독립 생활 판단이 미완이다",
+      "contextNote": "순종의 복 조건 시작",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:4",
+      "textSha256": "4b77e70d154fa77d9490fee96cce7a0fb1213f3c8a24ba12916b2ec51f956681",
+      "status": "hold",
+      "reason": "H046의 제때 열매는 위로가 되나 미확인 성과를 때 되면 반드시 얻는다고 정할 수 없다",
+      "contextNote": "때에 맞는 비와 농사 결실 약속",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:5",
+      "textSha256": "1738e596c8bea42bb70768fec7b8b6479bec5e0458c4139ff9e8ff26948dc543",
+      "status": "hold",
+      "reason": "G02의 넉넉함은 있으나 끊임없는 곡식과 안전을 현재 자금 부족의 실제 조건으로 추가할 수 없다",
+      "contextNote": "연속된 풍작과 안전의 복",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:6",
+      "textSha256": "a5c190c6510582b57896bbb85e0dc71ec4b76d7fb3137eb5b5f27eeb82226f67",
+      "status": "candidate",
+      "reason": "두려움 없이 누울 평화를 바라는 말에서 걱정을 내려놓고 잘 실마리를 읽는다",
+      "contextNote": "칼과 짐승 없이 거할 평화의 복",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G13",
+          "clue": "두려움 없는 누울 자리를 생각하며 걱정 때문에 더 버티기보다 잠을 택할 실마리를 읽는다.",
+          "friction": "언약 땅의 전쟁과 짐승 없는 평화 약속이다. 실제 시험 성적이나 건강의 결과가 안전하다고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        },
+        {
+          "scenarioId": "H045",
+          "clue": "누워 쉴 평화를 바라는 말에서 밤새 불안을 따라 공부하기보다 잘 실마리를 얻는다.",
+          "friction": "공부나 시험이 직접 나오지 않으며 다음 날 결과를 약속하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:26:7",
+      "textSha256": "2ec959488426643dcb414dbd3cfe75e4992b2044136596a1cc82c72cbeaf35cd",
+      "status": "exclude",
+      "reason": "대적을 칼로 쓰러뜨림은 친구 성공이나 일반 경쟁의 선택 기준으로 옮길 수 없다",
+      "contextNote": "대적에 대한 승리 약속",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:8",
+      "textSha256": "644e827d5d1b2c45e72657f7c309205ce8eef05d69afd56647bea4e57daab462",
+      "status": "exclude",
+      "reason": "소수로 대군을 꺾을 수치는 지금 역할 성공 확률이나 상대 패배의 정보가 아니다",
+      "contextNote": "수적 열세 중 승전의 약속",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:9",
+      "textSha256": "ae475524bee459a3127ace188d931f432f2010138355c11badac931cc4a4709e",
+      "status": "hold",
+      "reason": "H041의 성장 위로는 있으나 창대해질 민족 언약만으로 현재 맡을 능력이나 선택 방향은 약하다",
+      "contextNote": "언약과 백성 번성의 복",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:10",
+      "textSha256": "d73d50154879bb163aafa585342de34a97e0d9e1af1f155ed79cb1b1710afbd4",
+      "status": "hold",
+      "reason": "H006의 새것으로 바꿀 이미지는 있으나 새 곡식이 실제 풍부해졌다는 조건을 현재 기기 필요에 추가할 수 없다",
+      "contextNote": "새 수확으로 묵은 곡식을 치움",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:11",
+      "textSha256": "f468e64bd8aa339bdd78fdb9878df95c41a635e46c993cbf11e2bc76af50a2a6",
+      "status": "hold",
+      "reason": "H017의 버림받지 않는 위로는 있으나 장막과 신적 호감이 낯선 행사 참여의 직접 실마리로 충분한지 불확실하다",
+      "contextNote": "백성 중 성막과 수용의 약속",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:12",
+      "textSha256": "bf325ea3c7178bc762b625882b511815172290612d3c07d5ab293e0c4d0cc4da",
+      "status": "hold",
+      "reason": "H017의 혼자 아님은 비추나 동행 관계의 선언만으로 실제 갈 방향의 부담은 간접적이다",
+      "contextNote": "하나님과 백성의 동행 관계",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:13",
+      "textSha256": "8661180c8e637068d888996eda6213a0456ecd3d990a46e5c50e5814edf1447d",
+      "status": "candidate",
+      "reason": "종의 멍에를 깨고 바로 서 걷게 한 말에서 억눌린 관계에 자신을 세울 실마리를 읽는다",
+      "contextNote": "출애굽 구원을 자유와 바른 걸음으로 설명함",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H029",
+          "clue": "억눌린 멍에에서 벗어나 바로 서 걷는 모습이 반복 침해에 나를 세울 실마리가 된다.",
+          "friction": "애굽 노예 해방의 회상이다. 친구를 실제 노예 주인으로 판정하거나 관계가 저절로 끝난다고 약속하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:26:14",
+      "textSha256": "c66d627264c5fbf753a1b3e036d6800232961eeaa549726a2fa719a13aa078f4",
+      "status": "exclude",
+      "reason": "명령을 안 들으면의 전제는 미완이며 현재 불안이나 실수의 죄를 정하지 않는다",
+      "contextNote": "불순종 저주의 조건 시작",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:15",
+      "textSha256": "82c558ab524d3f447fe6a1af87f35d6f6f59a2a58811f7385dc5775e7c7d8791",
+      "status": "exclude",
+      "reason": "규례 멸시와 언약 배반을 현재 의견 차이나 진로 고민의 의도로 확정할 수 없다",
+      "contextNote": "언약 위반의 조건 상세",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:16",
+      "textSha256": "c4426ec55dff50dd549595a47c8628f8c81a43aecdd6207dace33d3553a0e4f6",
+      "status": "exclude",
+      "reason": "질병과 원수의 수탈을 죄 제재로 말해 현재 치료나 자금 부족의 원인으로 옮길 수 없다",
+      "contextNote": "질병과 수확 상실의 심판",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:17",
+      "textSha256": "8c50d99215e5b51dbb5e22a221788bc5b0f453e471a912d9ac7dd32fe10e8b9e",
+      "status": "exclude",
+      "reason": "패배와 지배 및 쫓김은 현재 미확인 상대의 의도를 알려 주지 않는다",
+      "contextNote": "대적에게 지배당할 경고",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:18",
+      "textSha256": "66c5e5061aff39fe6a29d26daf03dea7aae6855f90a097c399cce0d145a91e58",
+      "status": "exclude",
+      "reason": "칠 배 징치를 일반 실수 인정이나 방법 변경의 결과로 대입할 수 없다",
+      "contextNote": "불순종 지속의 추가 징계",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:19",
+      "textSha256": "e88ef9250e10f2d0c55af36d85707d2d04e4fe5140d07fd36748d1150ae019f3",
+      "status": "exclude",
+      "reason": "철 하늘 놋 땅의 심판은 현재 학업 과로의 이유를 교만이라고 판정할 근거가 아니다",
+      "contextNote": "교만과 가뭄의 경고",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:20",
+      "textSha256": "f3e624656fdc6e969778c4b137032c5a76f6e467ac0840a59febee606e306e46",
+      "status": "hold",
+      "reason": "H043의 헛수고를 돌아봄은 있으나 언약 위반으로 열매가 없다는 심판을 미확인 다음 성과에 옮길 수 없다",
+      "contextNote": "수고와 결실 상실의 경고",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:21",
+      "textSha256": "16a6a3def12a95944be5d95ce04ed3fadd7f0eb0161ed09fdb7a5f97e2c795ee",
+      "status": "exclude",
+      "reason": "칠 배 재앙을 현재 반복 실패의 미래나 내 태도의 죄로 정할 수 없다",
+      "contextNote": "불순종에 더할 재앙",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:22",
+      "textSha256": "cb546d834d62ba73efbba9edce9795214cb7c400f1e1ff0258852ae9599ab2c9",
+      "status": "exclude",
+      "reason": "짐승이 자녀와 가축을 해칠 재앙은 현재 불안이나 관계의 위험을 정할 정보가 아니다",
+      "contextNote": "짐승과 인구 감소의 심판",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:23",
+      "textSha256": "7b6f570fd0a05570ffb5d0308a1fee4d21696784e46ef0bafa433c2d4aef846b",
+      "status": "exclude",
+      "reason": "대항하면이라는 미완 조건은 생활 선택의 독립 의미가 없다",
+      "contextNote": "불순종 지속의 전제",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:24",
+      "textSha256": "dd40be4870d3bd24f47ca825ed85e0c9159d3063b6100654129d98de049f5122",
+      "status": "exclude",
+      "reason": "칠 배 보응을 현재 반복 실패나 지적 수용의 결과로 대입할 수 없다",
+      "contextNote": "계속된 불순종의 징계",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:25",
+      "textSha256": "f1d17dea0f5eec25e956f1c6570f3651aec5676cb4079f983bcb058fe1eb1127",
+      "status": "exclude",
+      "reason": "칼 염병 포로의 심판은 현재 치료나 진로 실패의 원인을 정할 정보가 아니다",
+      "contextNote": "언약 배반의 전쟁과 질병",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:26",
+      "textSha256": "46065777ce0f8bb8d2a5572814eccc4b330431afb35289a20492b4deccf42387",
+      "status": "exclude",
+      "reason": "식량을 저울로 나눠도 배부르지 않을 재앙은 실제 자금 부족에 도움이 될 자원을 보태지 않는다",
+      "contextNote": "기근의 심판 묘사",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:27",
+      "textSha256": "4c57fad1d356aa47cf97ea6359139387e59e9f9707080def13cdb12a7dd919c5",
+      "status": "exclude",
+      "reason": "또 청종하지 않을 조건은 앞 재앙 없이는 의미가 미완이다",
+      "contextNote": "불순종의 반복 전제",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:28",
+      "textSha256": "00abe07fca593babf33bc847e51f23b6518b1dfc21287d803eb23f08ecd54169",
+      "status": "exclude",
+      "reason": "진노와 칠 배 징책은 현재 일반 실수나 피로를 죄로 판정할 근거가 아니다",
+      "contextNote": "극심해질 징계 예고",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:29",
+      "textSha256": "e790da8b500270504b0b25cc2738e2bb58105a83cbdd369473965ef34935d621",
+      "status": "exclude",
+      "reason": "자녀 살을 먹는 절망은 생활 음식이나 돈의 작은 선택에 자연스러운 실마리를 주지 않는다",
+      "contextNote": "극심한 기근의 경고",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:30",
+      "textSha256": "7879af54d0ea0ea8375e189656d864b4e731fff83184b9c09f80cffee33246df",
+      "status": "exclude",
+      "reason": "우상 위 시체와 신적 거부는 현재 관계의 미확인 마음을 판단할 정보가 아니다",
+      "contextNote": "우상과 성소 파괴의 심판",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:31",
+      "textSha256": "9cbb3ef2b68278353d3a8ca577ce5b67dee78e8725c9cbd3f698a2f685b33973",
+      "status": "exclude",
+      "reason": "황폐 성읍과 거절된 향은 현재 일의 부족함이나 소비의 결과로 정할 수 없다",
+      "contextNote": "도시 성소의 황폐",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:32",
+      "textSha256": "88fa176265be7b0ac79f93ecf306dc6a587700a372fb19cf31b0ea04cefb060a",
+      "status": "exclude",
+      "reason": "대적이 놀랄 황무함은 현재 내 계획의 성패를 알려 주지 않는다",
+      "contextNote": "황폐한 땅에 대한 대적의 반응",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:33",
+      "textSha256": "917b4e39454352ded51ea157e798b2196f529e029795e774dad185f41a40d022",
+      "status": "exclude",
+      "reason": "쫓는 칼과 흩어짐은 새로운 도시로 가는 기회의 결과로 옮길 수 없다",
+      "contextNote": "열방 포로와 국토 황폐",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:34",
+      "textSha256": "0d8585bc4d030704561c838c7981fd65b0c6666af767ee08ca72ded39cd42c35",
+      "status": "hold",
+      "reason": "H055의 땅도 결국 쉬어야 함은 비추나 대적 땅 유배와 황무의 긴 조건이라 회복 선택에 무겁다",
+      "contextNote": "유배 중 본토가 강제로 안식함",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:35",
+      "textSha256": "7190c65ecf38fe087a765e9cf7edc90b068e6ad1e25141df9b343ec00f86f5f4",
+      "status": "candidate",
+      "reason": "지낼 때 쉬지 못했던 땅이 황무할 때 쉬는 대비에서 지금 쉼을 미루지 않을 실마리를 읽는다",
+      "contextNote": "안식을 못 얻은 땅의 강제 쉼",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H055",
+          "clue": "쉬지 못했던 땅이 황폐해진 뒤에야 쉰다는 대비에서 회복을 위해 지금 쉼을 남길 실마리를 얻는다.",
+          "friction": "포로와 안식년 위반의 역사적 심판 문맥이다. 현재 건강 악화나 강제 휴직이 생길 것이라 예측하거나 피로를 죄 탓으로 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:26:36",
+      "textSha256": "fbf2a73c5ccadebfa7262988537b7c13658e93e47644908a32ff8fc7008c62d9",
+      "status": "hold",
+      "reason": "H056의 두려움이 커지는 모습은 맞지만 신적 징계와 추격 없는 공포를 실제 위험이 없다는 확정으로 바꿀 수 없다",
+      "contextNote": "포로에게 닥친 극도의 공포",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:37",
+      "textSha256": "8a765e9b8662e4b4f8cce62c9ccdcefa2532985da146de6392fe3e11045bbe6f",
+      "status": "hold",
+      "reason": "H056의 불안 때문에 무너짐은 비추나 대적 앞 힘없음과 천답이라는 옛말이 선택 연결을 막는다",
+      "contextNote": "도망과 넘어짐의 심판",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:38",
+      "textSha256": "5905c3428b1805bb95fbbdb0fa461afe240bb074d525a0323ffb6658c08952ad",
+      "status": "exclude",
+      "reason": "열방에서 망할 미래를 현재 이직이나 여행의 결과로 읽을 수 없다",
+      "contextNote": "포로지에서의 멸망 경고",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:39",
+      "textSha256": "e31a2933ee2066a966cadd30ee940f8c283a58faaf7cba9f822329a263a97ff2",
+      "status": "exclude",
+      "reason": "조상과 자기 죄 때문에 쇠잔함을 실제 치료 부진의 원인으로 덧붙일 수 없다",
+      "contextNote": "죄로 쇠잔할 남은 자",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:40",
+      "textSha256": "7ccf6d1fb313cf13701a2e650fd3343cebb54307b14bae4349af2e3b8dac832a",
+      "status": "hold",
+      "reason": "G10의 허물을 인정함은 있으나 조상 죄와 대항의 긴 조건이 미완으로 이어진다",
+      "contextNote": "회복을 위한 자복의 전제",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:41",
+      "textSha256": "f347964a5285e654772729b2d0ee46d2d360ad9457da41e5ab3477c377a47ab9",
+      "status": "hold",
+      "reason": "H048의 마음 낮춤은 있으나 할례 안 한 마음과 유배 형벌 수용이 보통 지적보다 어렵고 무겁다",
+      "contextNote": "유배 원인 인정과 겸비",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:42",
+      "textSha256": "4cc0eb8aea4f484a7674e7cb190adea121037859488d1293185b9dc0281d0d5f",
+      "status": "hold",
+      "reason": "H054의 지난 약속 기억은 비추나 세 조상 언약과 땅 돌봄은 현재 약속에 바로 대응하기 어렵다",
+      "contextNote": "조상 언약을 기억할 회복 약속",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:43",
+      "textSha256": "c271a5bde1e7b734afd6d2b52e73cbff18e9954ad77710e5df651e44f8ae9915",
+      "status": "hold",
+      "reason": "H055의 강제 쉼은 비추나 법도 멸시의 처벌로 땅이 쉰다는 내용이 현재 피로를 죄 탓으로 오해하게 할 수 있다",
+      "contextNote": "황폐와 안식의 심판 이유",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:44",
+      "textSha256": "0e853207d2ad74d6461680f03664c6d017fe4c834d1d19a91043fd52116d53f0",
+      "status": "hold",
+      "reason": "G10의 버리지 않을 위로는 있으나 하나님과 백성 언약이지 미확인 친구의 사과 수락이 아니다",
+      "contextNote": "포로 중에도 언약을 폐하지 않음",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:45",
+      "textSha256": "4c18d7328e458ace2c129d5126b9cffb3e08cbc346bc501376fad6d11bc728b8",
+      "status": "hold",
+      "reason": "G09의 과거 약속 기억은 있으나 출애굽과 조상 언약의 긴 회상이라 가격 갈등의 실마리는 간접적이다",
+      "contextNote": "열조와 맺은 언약의 기억",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:26:46",
+      "textSha256": "fcd583ff47d1f15bbc7ec2d490b166fa30fdfbd6fb89c1c15497b08d67950a23",
+      "status": "exclude",
+      "reason": "시내산에서 세운 법규의 총괄은 지금 구체 선택을 가를 내용이 없다",
+      "contextNote": "언약 법규의 마무리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:27:1",
+      "textSha256": "1213bc72e4be9e9f17f4b9129e3f0d4cbde2d4cf24000ea629c6671d78ca8075",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 독립 생활 판단이 없다",
+      "contextNote": "서원물 평가 규정 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:27:2",
+      "textSha256": "c7abfe47252ae21c8ec7f0d4288b4fb4b62ed0eeafc1cfb93fcece402fe8a8ff",
+      "status": "exclude",
+      "reason": "사람 서원의 금액 산정은 현대 사람의 가치를 돈으로 정할 기준이 아니다",
+      "contextNote": "사람 서원의 평가 도입",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:27:3",
+      "textSha256": "c27aa30bf69cf4c9cdd431d767b56a75956aa86cc64d0c537e2b8ea48cf4b816",
+      "status": "exclude",
+      "reason": "성인 남성 오십 세겔은 내 보수나 사람의 능력 가격의 정보가 아니다",
+      "contextNote": "성인 남성 서원 환산",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:27:4",
+      "textSha256": "f64b91b4874ffb79abebb0d21345cbbf56d12c07c23155d20132670997fcbbba",
+      "status": "exclude",
+      "reason": "여성 삼십 세겔의 의식 환산은 현대 여성의 가치나 역할을 낮출 기준이 아니다",
+      "contextNote": "성인 여성 서원 환산",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:27:5",
+      "textSha256": "aaed4b7750095d9cf3d6b314ff39bad6eb3e4d1d977f2989c7c515df339490a1",
+      "status": "exclude",
+      "reason": "소년 소녀의 금액 차이는 지금 사람 관계나 아이 지원을 정할 실제 기준이 아니다",
+      "contextNote": "아동 청소년 서원 환산",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:27:6",
+      "textSha256": "8b6a4c81ac473e95fa613d488c05dbe12c01341381c41ebb366dfa1f9af3b98e",
+      "status": "exclude",
+      "reason": "영유아 성별 금액의 차이는 현대 아이의 도덕적 가치를 정할 기준이 아니다",
+      "contextNote": "영유아 서원 환산",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:27:7",
+      "textSha256": "70e67fe03585342fce0b58e05455b513f612e33e8bc9c85c3b1ef2001d74c621",
+      "status": "exclude",
+      "reason": "노년 성별의 금액은 부모나 어르신을 존중할지의 가치를 계산하는 자료가 아니다",
+      "contextNote": "노년 서원 환산",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:27:8",
+      "textSha256": "6afb3cc6ea6afe0c18dac84f740860ee84de9b0f8ed80844bee9a449a2409a19",
+      "status": "candidate",
+      "reason": "감당하기 어려우면 형편대로 값을 정한다는 말에서 무리한 선물 크기를 낮출 실마리가 읽힌다",
+      "contextNote": "가난한 서원자의 형편별 평가",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H007",
+          "clue": "감당할 수 없으면 형편대로 정한다는 말에서 비싼 선물에 억지로 맞추지 않을 실마리를 읽는다.",
+          "friction": "사람 서원의 금전 평가와 제사장 규정이다. 친구가 특정 금액을 요구하거나 내 선물이 속죄 대금이라고 설명하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:27:9",
+      "textSha256": "75a69cc5d56ea50b6f5b5d9f73f34dd674a075eaa2e8bad9846fa3c6703b08ec",
+      "status": "hold",
+      "reason": "H054의 이미 드리기로 한 것의 무게는 있으나 생축의 거룩함만 있고 교체 규정은 다음 절이다",
+      "contextNote": "서원 가축의 성별",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:27:10",
+      "textSha256": "96c08b1b328226e2b85f2378bdff7b4e42d5fa80859285faabf8d6fb6e0d302f",
+      "status": "candidate",
+      "reason": "우열에 따라 이미 정한 것을 바꾸지 말라는 말이 더 좋은 제안 때문에 약속 바꿀 부담을 비춘다",
+      "contextNote": "서원한 가축의 교환 제한",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G09",
+          "clue": "좋고 나쁨을 다시 따져 바꾸기보다 이미 정한 약속을 붙들 실마리가 보인다.",
+          "friction": "가축 서원 교환 시 두 마리 모두 거룩해지는 규정이다. 두 구매자에게 모두 팔아야 한다는 법이나 신적 소유 주장을 붙이지 않는다. 약속 없는 단순 계획 변경 H062와 구별한다.",
+          "expectedEnough": "yes"
+        },
+        {
+          "scenarioId": "H054",
+          "clue": "더 좋아 보이는 기회가 생겨도 먼저 맡겠다고 한 일의 무게를 다시 볼 수 있다.",
+          "friction": "제사 서원의 불가역성이지 모든 현실 계획을 절대 못 바꾸는 규칙은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:27:11",
+      "textSha256": "586c46a4b93c517a21327a6e60b4de6c459ee43f7fc740d438a2fe30833f4ab3",
+      "status": "exclude",
+      "reason": "부정 가축을 제사장에게 보내는 규정은 실제 물건의 흠과 거래 정직의 이유가 아니다",
+      "contextNote": "바칠 수 없는 가축의 평가 준비",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:27:12",
+      "textSha256": "d246e7de9bc84e69cef870437deec4081c9a217343b1fcb1a409a75925338e76",
+      "status": "hold",
+      "reason": "H005의 품질별 가치 확인은 있으나 제사장 정가를 현재 중고 가격의 보장으로 쓸 수 없다",
+      "contextNote": "서원 가축의 우열 평가",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:27:13",
+      "textSha256": "01ec7a373d85645ab38623483ffea0e72aa469f4ff71cbd23a6506767c308caf",
+      "status": "exclude",
+      "reason": "서원물 환매에 오분 일 추가는 입력에 없는 주문 취소 비용을 지어내게 한다",
+      "contextNote": "가축 서원물 환매 비용",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:27:14",
+      "textSha256": "2096b2242f74aac40d6fb81aa9731e6d4bc4eac4d6f48dcb04b4d4b5178409e7",
+      "status": "exclude",
+      "reason": "봉헌 집의 제사장 정가는 보통 물건이나 이용권의 가격 결정권과 다르다",
+      "contextNote": "서원 가옥의 평가",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:27:15",
+      "textSha256": "e971783433b297f05d0affb24e801a1b6511212078a4b7aa7496d8e159a54cce",
+      "status": "exclude",
+      "reason": "집을 무르는 오분 일 비용은 현재 구매 취소나 가족 나눔의 조건이 아니다",
+      "contextNote": "가옥 서원의 환매",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:27:16",
+      "textSha256": "d9e2afb3f611519bc77a2d3d2a9315c77e905f1e52bf441fb9547ca99679d4ae",
+      "status": "exclude",
+      "reason": "씨앗 두락수와 세겔로 정한 밭 가격은 현재 팔 물건의 효용과 다른 토지 규칙이다",
+      "contextNote": "기업 밭 서원의 면적별 평가",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:27:17",
+      "textSha256": "f9dcd6568d1c6c2a0d458c656279f3b95d4f34b05572cc76fa9cec937456efac",
+      "status": "exclude",
+      "reason": "희년부터 정한 밭 가격은 현재 계약의 합의 가격을 바꿀 기준이 아니다",
+      "contextNote": "희년 시작 토지 서원 평가",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:27:18",
+      "textSha256": "c83ae3d3dd326cabbc2ba2ecb692cf25a60839de0e32efd23d1ab25f6ac7eca6",
+      "status": "candidate",
+      "reason": "남은 기간을 계산해 가격을 감하는 말이 잔여 이용 기간의 값을 정할 실마리다",
+      "contextNote": "희년 후 밭 서원의 기간별 감액",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A027",
+          "clue": "남은 기간을 계산하고 가격을 감한다는 말이 잔여 이용권의 가격 기준에 맞는다.",
+          "friction": "희년까지의 봉헌 토지 평가와 제사장의 권한이다. 현대 양도 규정이나 정확한 시장 가격과 판매 성사를 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:27:19",
+      "textSha256": "8f3399172fa7b8f28200cff61a977b9e690d9c9f01d7eddd39db681474058236",
+      "status": "exclude",
+      "reason": "토지 환매의 오분 일 추가는 실제 계약에 없는 수수료를 넣을 근거가 아니다",
+      "contextNote": "서원 밭의 환매 비용",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:27:20",
+      "textSha256": "0f27ab211306d6370c19841560aae7e55b2a34670baedea25025751083d394ae",
+      "status": "exclude",
+      "reason": "팔거나 안 무르면 환매 못 한다는 법을 취소 규정 모르는 현재 주문에 적용할 수 없다",
+      "contextNote": "서원 밭의 환매 제한",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:27:21",
+      "textSha256": "2a77a9a6576b2ae0f964100c73a87579bd410dc1341b529102fb46a226d6ec48",
+      "status": "exclude",
+      "reason": "희년의 제사장 기업 귀속은 현재 소득이나 판매 결과를 예고하는 정보가 아니다",
+      "contextNote": "반환 토지의 영구 성별",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:27:22",
+      "textSha256": "ff9151328e70cf0b617f8024884f59684cc86dc21d1ead83df932cb57b40cbcc",
+      "status": "exclude",
+      "reason": "샀고 기업이 아닌 밭의 조건만 있어 판단 의미가 미완이다",
+      "contextNote": "산 밭 서원의 조건",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:27:23",
+      "textSha256": "a6ad4986a5876f67a7509e90634acd6856f0aa525cf78f0aeefeb6e62c59aaf6",
+      "status": "exclude",
+      "reason": "정가를 당일 성물로 드리는 조건은 이미 약속한 품삯의 지급과 다른 의식이다",
+      "contextNote": "산 밭 서원의 금액 지급",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:27:24",
+      "textSha256": "3431c02ac4e447eb157aace3c78c5709ec3ac474291df1b11b0bd40b20dfe6aa",
+      "status": "exclude",
+      "reason": "희년 본주 반환은 중고 거래가 나중에 원래 소유자에게 자동 복귀할 보장이 아니다",
+      "contextNote": "산 밭의 원주인 반환",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:27:25",
+      "textSha256": "c7a6908154502d9efc0f6898de3ac95c3dfb230fafc29cb54a403ea3a8fe725b",
+      "status": "exclude",
+      "reason": "세겔과 게라 환산은 지금 적정 지출이나 공정 가격을 정할 정보가 아니다",
+      "contextNote": "서원 평가의 화폐 단위",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:27:26",
+      "textSha256": "412063b1389d8d5b0ddf604071cea5828f8e5377a9e951fa19a326aeda8ca720",
+      "status": "candidate",
+      "reason": "이미 돌릴 몫은 새로 또 드릴 것처럼 정할 수 없다는 이유에서 이중 약속을 돌아볼 실마리를 읽는다",
+      "contextNote": "첫새끼는 이미 여호와 몫이라 별도 서원 불가",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G09",
+          "clue": "이미 돌아갈 몫을 새 약속처럼 다시 쓰지 말라는 이유에서 기존 구매자와의 약속을 살필 수 있다.",
+          "friction": "첫새끼가 하나님의 몫이라는 제사 제도다. 카메라 소유권이 법적으로 이미 이전됐다고 주장하거나 원래 거래를 금지하는 해설을 붙이지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LEV:27:27",
+      "textSha256": "37bb73036d5cf120c33deb77f4b7abf8f9c71a0e30e09abe63bcd7a9d8cf428f",
+      "status": "exclude",
+      "reason": "부정 가축의 환매 추가금과 판매는 현재 주문의 실제 취소 조건을 말하지 않는다",
+      "contextNote": "첫새끼 부정 가축의 속량",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:27:28",
+      "textSha256": "037dc2e96980969a4b1fdf6d45386d9f4b3ac80dee12ef916c55064a536a3164",
+      "status": "hold",
+      "reason": "G09의 되돌릴 수 없는 약속은 비추나 사람까지 포함된 영구 성별과 매매 불가를 일반 매매 약속에 그대로 옮기기 어렵다",
+      "contextNote": "아주 바친 물건의 불가역성",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:27:29",
+      "textSha256": "75e5ea1df91c80341946a62e4b77d93f51417e7dce98bd8cc03b983e09bf81bd",
+      "status": "exclude",
+      "reason": "바친 사람을 죽이는 지시는 일상 약속 이행의 실마리로 절의 뒷부분을 덜어낼 수 없다",
+      "contextNote": "바친 사람의 처분",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:27:30",
+      "textSha256": "3d962bb6ddd7b4ad4595199a1945b9d06895d7c2ada2a71cafe859d4ac6dfb1a",
+      "status": "hold",
+      "reason": "H059의 내 몫을 따로 나눔은 가능하나 고정 십분일 봉헌을 현재 친구 도움의 금액이나 의무로 정할 수 없다",
+      "contextNote": "곡식 열매 십일조의 귀속",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:27:31",
+      "textSha256": "c1a8deb264fca962dabbc95f3197394674194749946ffb0d714616ab5f795916",
+      "status": "exclude",
+      "reason": "십분일 속량의 오분 일은 실제 금융이나 물건 반환의 조건이 아니다",
+      "contextNote": "십일조 환매 비용",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:27:32",
+      "textSha256": "d93b10020d890ed57b69d23444dcce901055316a6d7c5a472d6a12853dda78d6",
+      "status": "exclude",
+      "reason": "가축마다 열째 구별은 현재 선택지 추첨이나 공평 분배의 이유를 제공하지 않는다",
+      "contextNote": "가축 십일조의 산정",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:27:33",
+      "textSha256": "ee8372ab0583236bce664128c5c24b0b253d6acdfa11e40059cda6828afe53f0",
+      "status": "hold",
+      "reason": "G09의 정한 것을 바꾸지 않음은 닿으나 교계라는 옛말과 십일조 교환의 이중 성별 제재가 첫 읽기를 막는다",
+      "contextNote": "가축 십일조 교환 금지",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LEV:27:34",
+      "textSha256": "98b70eb6c66ec7339339aa2b12c99db34e5afe45a514569884ceb849e962fa30",
+      "status": "exclude",
+      "reason": "시내산 계명 총괄은 오늘 선택의 양쪽 부담을 가를 구체 내용이 없다",
+      "contextNote": "레위기 규정 마무리",
+      "readability": "thinkable",
+      "connections": []
     }
   ]
 }

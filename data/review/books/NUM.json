@@ -1,0 +1,3347 @@
+{
+  "bookCode": "NUM",
+  "corpusSha256": "f8d5c8b377e243b05fb884b4a6965d2c06a95de74b64a716ee4b95989d61e971",
+  "criteriaVersion": "garasadae-corpus-2026-10-08-v1",
+  "reviewer": "Codex review_gen_2ki",
+  "method": "direct-codex-reading",
+  "entries": [
+    {
+      "id": "KRV:NUM:1:1",
+      "textSha256": "315cb7ee6b6960f7b918c4c1f17b42adc3737ad1e58f6167b8f9f747e1c46b9f",
+      "status": "exclude",
+      "reason": "출애굽 이 년째의 날짜와 장소는 현재 기한 판단의 자료가 아니다",
+      "contextNote": "첫 인구조사의 말씀 배경",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:2",
+      "textSha256": "0545deb90f3ad9dca86bc617b73ddd3e3fa2c4d56052d97a10d4f29688fd31cd",
+      "status": "exclude",
+      "reason": "가족별 남자 계수는 지금 동료에게 일을 맡길 능력 기준을 주지 않는다",
+      "contextNote": "인구조사의 단위와 대상",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:3",
+      "textSha256": "a5a7347259298807a1b8ddb29a7a88b1a9ccaaebde5c1e3524816aa14c2904d2",
+      "status": "exclude",
+      "reason": "이십 세 전투 가능 남성은 사용자의 역할 자격과 다른 군사 계수 조건이다",
+      "contextNote": "군대 인원 계수의 연령",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:4",
+      "textSha256": "034f0a6662fd147f0dc3f0974e0248f7f0987fa2a6af2440c44ca2c70d97b615",
+      "status": "candidate",
+      "reason": "각 집단에서 함께할 대표를 두는 말에 한 사람이 전부 처리하지 않을 실마리가 있다",
+      "contextNote": "지파별 대표가 모세 아론과 함께 계수하게 함",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A009",
+          "clue": "각 부문에서 대표를 함께 두어 한 사람이 모두 처리하지 않을 실마리가 있다.",
+          "friction": "지파별 종족 두령의 인구 계수다. 현재 팀의 규모나 새 인력을 지어내지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NUM:1:5",
+      "textSha256": "221d14e0ed69a468778f094f2d77b4e047511af5b34c82bdd05106bb39cc70cd",
+      "status": "exclude",
+      "reason": "르우벤 대표의 부자 이름은 현재 선택할 동료의 성품이나 능력 정보가 아니다",
+      "contextNote": "엘리술의 지명",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:6",
+      "textSha256": "e8baeb73a6a98900dbf68774e89cab31d7a98515df3558b83fc5985ad33bc84d",
+      "status": "exclude",
+      "reason": "슬루미엘의 부자 이름만 있어 생활 선택의 기준이 없다",
+      "contextNote": "시므온 대표 지명",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:7",
+      "textSha256": "5faab3271e1cd111a22060008e246ed7280ebc49c5a012831a360a9bc564151d",
+      "status": "exclude",
+      "reason": "나손의 계보는 현재 역할을 맡을 이유를 설명하지 않는다",
+      "contextNote": "유다 대표 지명",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:8",
+      "textSha256": "8e457a9a4a817a3b2a1e2c8fb38532416d5290157c5c3843c299759016bad24e",
+      "status": "exclude",
+      "reason": "느다넬 부자 이름은 지금 구체 선택 부담을 다루지 않는다",
+      "contextNote": "잇사갈 대표 지명",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:9",
+      "textSha256": "a84bf0da416201cada18b18a92bf81a1967500e78961924eee8dcdc54e7d32cb",
+      "status": "exclude",
+      "reason": "엘리압 계보는 사람을 고를 기준 없이 이름만 확인한다",
+      "contextNote": "스불론 대표 지명",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:10",
+      "textSha256": "e83cd003bdce5b3da9d10c17d22168c31e54ed0f72c6649fe3021d9474c08665",
+      "status": "exclude",
+      "reason": "요셉 두 지파 대표 이름은 현재 다른 사람에게 부탁할 정보를 주지 않는다",
+      "contextNote": "에브라임 므낫세 대표 지명",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:11",
+      "textSha256": "ea6d71d2f2dc538b29061df7c43f977b2ad770d99a0f7621b7ce7b0a43e6a269",
+      "status": "exclude",
+      "reason": "아비단 부자 이름은 생활 선택의 의미가 없다",
+      "contextNote": "베냐민 대표 지명",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:12",
+      "textSha256": "28b6bac9cf744d51255424b298552322e2fa73a8ac30cf25db7e82e8a3216575",
+      "status": "exclude",
+      "reason": "아히에셀 부자 이름은 현재 능력이나 역할의 기준이 아니다",
+      "contextNote": "단 대표 지명",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:13",
+      "textSha256": "5179065d945aab4ebe3cb19631b59462a6cef763f80b2c7acbd8307b415b6eba",
+      "status": "exclude",
+      "reason": "바기엘의 계보는 고민의 양쪽 부담을 다루지 않는다",
+      "contextNote": "아셀 대표 지명",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:14",
+      "textSha256": "44f7e3847c8de668c2600f3ab0b287cf552818e124b495ffafc8680efe34e3ed",
+      "status": "exclude",
+      "reason": "엘리아삽의 계보는 지금 맡길 동료를 정할 정보가 없다",
+      "contextNote": "갓 대표 지명",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:15",
+      "textSha256": "8c97778567656056fef296273a97f6dbcd1ba63779717f7fe546937a17c54d19",
+      "status": "exclude",
+      "reason": "아히라 이름으로 끝난 명단은 생활 선택의 독립 의미가 없다",
+      "contextNote": "납달리 대표 지명",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:16",
+      "textSha256": "493379c4820a739a8e178c511f108c13402504f346fb573ecbf2f3b241d90915",
+      "status": "hold",
+      "reason": "G15의 부름 받은 역할은 힘이 되나 족장 천만인 두령의 높은 신분만으로 첫 역할의 부담을 풀기는 약하다",
+      "contextNote": "열두 대표의 지위 설명",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:17",
+      "textSha256": "29de0a5c7e9f78e2876b87b659aae45108deb77b12e16b6994d687e769e48b11",
+      "status": "exclude",
+      "reason": "지명한 사람들을 데려갔다는 미완 동작은 분담의 이유가 이 절에 없다",
+      "contextNote": "모세 아론과 대표들의 이동",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:18",
+      "textSha256": "7c17ae8c88b094db87c882e33355e3d36ef01d7feb998528db1756ab875f446d",
+      "status": "exclude",
+      "reason": "날짜와 가족 계통 확인은 지금 사람의 의도나 업무 적합성의 정보가 아니다",
+      "contextNote": "계수 인원의 등록",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:19",
+      "textSha256": "4f076d503b7062bd2445c4a45681d384f709194dfb35faec6c3de680ca3d115e",
+      "status": "hold",
+      "reason": "H054의 지시 이행은 비추나 인원 계수의 결과로 현재 먼저 맡은 일을 끝낼 실마리는 간접적이다",
+      "contextNote": "시내 광야 인구조사의 실행",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:20",
+      "textSha256": "75295eb9f5903f138b9d045846323015da9145939ea8054afd5a9ec40c64f179",
+      "status": "exclude",
+      "reason": "르우벤 남성의 계수 자격은 현재 사용자의 능력이나 선택 기준이 아니다",
+      "contextNote": "르우벤 군사 인구 집계 조건",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:21",
+      "textSha256": "db9b1bf9d21bdfe013eb6a38e87f8a2262e23ec6c6618906e2af5cf405dcbd9d",
+      "status": "exclude",
+      "reason": "르우벤 사만육천오백 명은 현재 내 자원 여력과 관련한 수치가 아니다",
+      "contextNote": "르우벤 군사 인구 결과",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:22",
+      "textSha256": "75c3028d914fc49cbf75e92ae6178ec3ad15b426362c66ca3fd8499126a63208",
+      "status": "exclude",
+      "reason": "시므온의 가족별 군사 계수는 현재 양쪽 선택 부담을 다루지 않는다",
+      "contextNote": "시므온 군사 인구 집계 조건",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:23",
+      "textSha256": "76dfe470054e7f47b26b16cb1b8787387a89aeea6aac549ea5c597fcb5868088",
+      "status": "exclude",
+      "reason": "시므온 오만구천삼백 명은 지금 공동체 참여 여부의 근거가 아니다",
+      "contextNote": "시므온 군사 인구 결과",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:24",
+      "textSha256": "6993a40dc348ff0e7069d8788e41457f9c021519e9ebea40311ed4973b897ddc",
+      "status": "exclude",
+      "reason": "갓의 전투 가능 남성 조건은 현재 나의 역할을 정할 능력 기준이 아니다",
+      "contextNote": "갓 군사 인구 집계 조건",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:25",
+      "textSha256": "cb5c5dd5ddf9953ad353bb953c52d666e0939988c0fc1cb07478f851f4641b71",
+      "status": "exclude",
+      "reason": "갓 사만오천육백오십 명은 일상 선택의 이유를 제공하지 않는다",
+      "contextNote": "갓 군사 인구 결과",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:26",
+      "textSha256": "a3380c62a1fff971d88d632fd32588bf326eb217a611b58a827c66853190ff40",
+      "status": "exclude",
+      "reason": "유다 이십 세 이상 계수는 일반 조직 배치의 기준으로 옮길 수 없다",
+      "contextNote": "유다 군사 인구 집계 조건",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:27",
+      "textSha256": "df272c4bb644c43718353cb081b2a8061ab0be112cc29191e821f01edbfed747",
+      "status": "exclude",
+      "reason": "유다 칠만사천육백 명은 남과 내 성취를 비교할 평가 자료가 아니다",
+      "contextNote": "유다 군사 인구 결과",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:28",
+      "textSha256": "d85dd4d39a7e67fc1cb4ea96735fa77e55f1a1edf5e87a6c14451e808a9b91c8",
+      "status": "exclude",
+      "reason": "잇사갈 남성의 가족별 집계는 구체 고민의 양쪽 부담을 말하지 않는다",
+      "contextNote": "잇사갈 군사 인구 집계 조건",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:29",
+      "textSha256": "738fcb3702000d3c973ea205f3c42d5655da1d9af7473a7f1a96814a99c8a48b",
+      "status": "exclude",
+      "reason": "잇사갈 오만사천사백 명은 내 모임이나 직무 선택의 정보가 아니다",
+      "contextNote": "잇사갈 군사 인구 결과",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:30",
+      "textSha256": "2ad0e2c10a6c92d82617d488c8cddc06605831e9ebd8cfc90b114f034e012d80",
+      "status": "exclude",
+      "reason": "스불론 군사 자격은 현재 맡을 새 역할의 적합성을 정하지 않는다",
+      "contextNote": "스불론 군사 인구 집계 조건",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:31",
+      "textSha256": "65b5a9b5018de6ac0acf61117cca24bb01fe66cf1e5442652baf1ccc05e2927d",
+      "status": "exclude",
+      "reason": "스불론 오만칠천사백 명은 생활 선택에 적용할 수량 기준이 아니다",
+      "contextNote": "스불론 군사 인구 결과",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:32",
+      "textSha256": "ef7b91d9c1c23bc9fd8c64bf2d03518b37d3d670af18943365ab7147813b72fb",
+      "status": "exclude",
+      "reason": "에브라임 계보와 군사 조건은 지금 동료의 능력을 판정할 정보가 아니다",
+      "contextNote": "에브라임 군사 인구 집계 조건",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:33",
+      "textSha256": "7123463a9d09d82e61122499de2f58d67583f90e35fd99cc0a0f3c9b0875c581",
+      "status": "exclude",
+      "reason": "에브라임 사만오백 명은 현재 부족한 돈이나 시간의 자료가 아니다",
+      "contextNote": "에브라임 군사 인구 결과",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:34",
+      "textSha256": "8129e8ee5ac70f141584ee20d8ad6c0986238415d60993c8629ee089f4572008",
+      "status": "exclude",
+      "reason": "므낫세 남성 군사 계수는 현재 두 진로의 장단점을 다루지 않는다",
+      "contextNote": "므낫세 군사 인구 집계 조건",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:35",
+      "textSha256": "84008a33aec66e0e895fc17bacd74b891e225eb06c7163331064d9d903589da7",
+      "status": "exclude",
+      "reason": "므낫세 삼만이천이백 명은 현재 내 역할의 중요성이나 가치를 정하지 않는다",
+      "contextNote": "므낫세 군사 인구 결과",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:36",
+      "textSha256": "a26689b08e0491b965b5c1ccb6180bcc1bce0f2186af25321ca2134100323918",
+      "status": "exclude",
+      "reason": "베냐민 전투 남성 계수는 지금 새 부탁을 거절할 기준이 아니다",
+      "contextNote": "베냐민 군사 인구 집계 조건",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:37",
+      "textSha256": "b9653a3d6da0d53c78b071d56459a149b397238e9517b818340d0377c0252037",
+      "status": "exclude",
+      "reason": "베냐민 삼만오천사백 명은 내 실제 일손이나 자원을 알려 주지 않는다",
+      "contextNote": "베냐민 군사 인구 결과",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:38",
+      "textSha256": "05f45ecbe4f093289fd50412bce208b8488ca1a809701797eae16c0efd3d298b",
+      "status": "exclude",
+      "reason": "단의 연령별 전투 계수는 현재 사람 관계의 불확실성을 풀지 않는다",
+      "contextNote": "단 군사 인구 집계 조건",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:39",
+      "textSha256": "8812893a5d3ee680b5e6d392475a446795fc62162f2c99cc92db5e748a971b6f",
+      "status": "exclude",
+      "reason": "단 육만이천칠백 명은 지금 선택의 효과나 필요를 가를 수치가 아니다",
+      "contextNote": "단 군사 인구 결과",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:40",
+      "textSha256": "3f5a64043a53bb13beebcf7c8bdc998c3c0a7dd0353acf497a1c4759261de09a",
+      "status": "exclude",
+      "reason": "아셀의 가족별 계수는 현재 역할 분담의 구체 이유를 말하지 않는다",
+      "contextNote": "아셀 군사 인구 집계 조건",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:41",
+      "textSha256": "6dd0d517c54ff3dab07f1160437371b7ae36537248939f16a39c3ef13d9542c2",
+      "status": "exclude",
+      "reason": "아셀 사만일천오백 명은 내 경제 여력이나 기회의 규모가 아니다",
+      "contextNote": "아셀 군사 인구 결과",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:42",
+      "textSha256": "9bddd68af2eedd8fde8240815d40927a59f59353d2d0a08642b5bec3791e1f25",
+      "status": "exclude",
+      "reason": "납달리의 전투 연령 조건을 현대 새 역할의 필수 자격으로 옮길 수 없다",
+      "contextNote": "납달리 군사 인구 집계 조건",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:43",
+      "textSha256": "26b55b419f9cebb2275426a4fac475fc8c9c2f267469e8780738583a8cbdb850",
+      "status": "exclude",
+      "reason": "납달리 오만삼천사백 명은 지금 비교 불안의 판단 자료가 아니다",
+      "contextNote": "납달리 군사 인구 결과",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:44",
+      "textSha256": "8531accb7331865febc763ebc8a89fb1be620a2c2e0027706f7eb786afd8fa70",
+      "status": "candidate",
+      "reason": "두 지도자와 집단 대표들이 함께 계수한 모습에서 책임자 혼자 처리하지 않을 실마리를 읽는다",
+      "contextNote": "열두 족장이 공동 계수한 인원의 확인",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A009",
+          "clue": "두 지도자와 대표들이 함께 일을 처리하는 구조에서 책임을 나눌 수 있다.",
+          "friction": "열두 족장의 군사 인구 계수이며 현재 팀에 열두 명이 필요하다고 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NUM:1:45",
+      "textSha256": "7a793070581cba7a975fc28f0386c3b6e807b16b64ab59a5f04167f43ce5ea79",
+      "status": "exclude",
+      "reason": "전체 군사 인원의 계수 완료는 일상 업무를 끝내는 기준보다 대상 범위를 확인한다",
+      "contextNote": "군사 인구 집계 총괄",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:46",
+      "textSha256": "7095550fa5c6110ea14f6c7c8b1bea43d64656ef0d50efed35bccbd023dc3354",
+      "status": "exclude",
+      "reason": "육십만삼천오백오십의 총계는 현재 자원이나 사람의 선택 기준이 아니다",
+      "contextNote": "군사 인구 총합",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:47",
+      "textSha256": "eafe2bfa8b1c47d9fda3b1ae7504013c05545f54ab48820ea6f66a8f97263ffd",
+      "status": "exclude",
+      "reason": "레위인 제외 사실만으로 현재 동료를 역할에서 제외할 이유를 정할 수 없다",
+      "contextNote": "레위인의 군사 계수 제외",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:48",
+      "textSha256": "4b7553f94cedd9b4caefd82a7294188af0b0edc07709bdae0eab1f888b699872",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 독립 생활 판단 내용이 없다",
+      "contextNote": "레위 직무 규정 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:49",
+      "textSha256": "16819e1b5a2f4f17f8aae694cab8bed530320efa68b34511c3660f225dc9bd2c",
+      "status": "exclude",
+      "reason": "레위 지파의 계수 제외는 현재 능력에 대한 예외나 특별 대우의 근거가 아니다",
+      "contextNote": "레위 군사 계수 금지",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:50",
+      "textSha256": "c1e43681e4a92235e3714a4b2e089450b2f23c59af4c973c4050341ed72d9fab",
+      "status": "candidate",
+      "reason": "기구 관리와 운반을 그들에게 맡기는 말에서 자잘한 일도 나눌 실마리가 있다",
+      "contextNote": "레위인에게 성막 관리와 운반 직무를 줌",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A009",
+          "clue": "기구 관리와 옮기는 일까지 다른 이들에게 맡기는 모습에서 자잘한 일도 나눌 실마리를 읽는다.",
+          "friction": "레위인의 성막 봉사 직무다. 적합한 팀원이 있다는 입력에 한정하며 역할 배정의 수락을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NUM:1:51",
+      "textSha256": "73e7717287a2e31c0214cc532fa4530de7a2fd8f5bb6e8de610214a630225968",
+      "status": "exclude",
+      "reason": "운반 분담 뒤 외인 사형이 붙어 일상 위임의 자연스러운 전체 실마리가 깨진다",
+      "contextNote": "레위의 설치 직무와 접근 금지",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:52",
+      "textSha256": "72be8bda80656f06eb77eec3859a56d8cea436e298089dbf525918b5f6410ba9",
+      "status": "exclude",
+      "reason": "군대별 기 곁 진영 배치는 현재 관계의 거리를 정할 이유가 아니다",
+      "contextNote": "이스라엘 진영 원칙",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:53",
+      "textSha256": "c18a89293ad3cd903adfc645f71fa094852d3f546e5f3a0c83a25b35d79dff04",
+      "status": "hold",
+      "reason": "A009의 각자의 책임은 비추나 회중의 진노 예방이라는 제사 역할이 과로 분담과 거리가 있다",
+      "contextNote": "성막 주변 레위인의 보호 책임",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:1:54",
+      "textSha256": "43c1c20709606dea9321e80cfb8be8e2982c542a666c457179045d5c481fea03",
+      "status": "hold",
+      "reason": "H054의 이행은 비추나 무슨 일인지 앞 계수와 배치 규정에 기대어 생활 선택에는 간접적이다",
+      "contextNote": "계수와 배치 명령 이행 요약",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:2:1",
+      "textSha256": "07f1b732cd444edc8e86264b81332a2c28d29d9cfd1390eddcbf51baf33b3e50",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 생활 선택의 내용이 없다",
+      "contextNote": "진영 배치 규정 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:2:2",
+      "textSha256": "68857c5ed557ec3b62d3c1ecf24847daebc1a783eb79ad3c506fe433b257ac28",
+      "status": "exclude",
+      "reason": "각기 기호를 따라 진을 치는 지시는 현재 내 가치나 진로의 실제 기준을 알려 주지 않는다",
+      "contextNote": "성막 중심 진영 배치 원칙",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:2:3",
+      "textSha256": "be2b298aa32533e8548ddf1ee256e3df0f9c1254181ecdc239b61daa152a8b95",
+      "status": "exclude",
+      "reason": "동쪽 유다와 나손의 계보는 현재 앞에 설 용기나 능력의 근거가 아니다",
+      "contextNote": "동쪽 유다 진영과 족장",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:2:4",
+      "textSha256": "b085ad2f15ffe82b43ff1ae2665b78d677082fab56ac29b39a4b082f11a7421c",
+      "status": "exclude",
+      "reason": "칠만사천육백의 군사 수는 지금 내 경쟁이나 성과의 정보가 아니다",
+      "contextNote": "유다 진영 인원",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:2:5",
+      "textSha256": "f2e96ce0bd7071c1768714a9898c17599f818c141792ba4c37a5421a603ed86c",
+      "status": "exclude",
+      "reason": "곁에 선 잇사갈과 느다넬의 이름은 현재 함께할 동료를 정할 정보가 없다",
+      "contextNote": "동쪽 잇사갈 진영",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:2:6",
+      "textSha256": "e87b5793e1af5cbe90ff458bfa758649ab43f1665557832c99515bb5f24af673",
+      "status": "exclude",
+      "reason": "오만사천사백이라는 인원은 생활 선택의 양쪽 부담을 다루지 않는다",
+      "contextNote": "잇사갈 진영 인원",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:2:7",
+      "textSha256": "9ce82880ca57a8f1bb03cf441da8e138c357e393bfcd3b3c20077c7fd7eb4917",
+      "status": "exclude",
+      "reason": "스불론과 엘리압의 계보는 현재 직무 적합성의 기준이 아니다",
+      "contextNote": "동쪽 스불론 진영",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:2:8",
+      "textSha256": "9fe4aea6d06be4a38dcadd5e7cdaa0a69512221b10a810f5c3327f19379a95ec",
+      "status": "exclude",
+      "reason": "오만칠천사백은 내 가용 인력이나 시간이 아니라 옛 진영의 인원이다",
+      "contextNote": "스불론 진영 인원",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:2:9",
+      "textSha256": "510bbf0bf50c3cca0e248a147b95716c6c8feab09212e5b456b2dfecb6d7becd",
+      "status": "exclude",
+      "reason": "첫째 행렬의 지파 총계와 순서를 내 일정의 첫 순위로 정할 수 없다",
+      "contextNote": "동쪽 진영 총계와 행진 순서",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:2:10",
+      "textSha256": "70143665eaaa2be692182300d283acdd9c208becc7a6e6e9393412859fb3c7fb",
+      "status": "exclude",
+      "reason": "남쪽 르우벤과 족장의 이름은 현재 관계 선택 기준이 아니다",
+      "contextNote": "남쪽 르우벤 진영",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:2:11",
+      "textSha256": "4455ce03a06ae5a685dbb62a1d2ea9b26fa44b7c3cb87a2cafe9e7513d3006ad",
+      "status": "exclude",
+      "reason": "사만육천오백의 군사 수는 내 여력이나 역할의 정보가 아니다",
+      "contextNote": "르우벤 진영 인원",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:2:12",
+      "textSha256": "200699b6565c365674267e01c3a18eef0319e0837c60ae2a328d6743ecdee9c9",
+      "status": "exclude",
+      "reason": "시므온과 슬루미엘 이름은 현재 옆에 둘 사람의 신뢰를 알려 주지 않는다",
+      "contextNote": "남쪽 시므온 진영",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:2:13",
+      "textSha256": "70f2f11a8757645b3f437a8001376f31827d24e429a55696a40f6e7cced3bac3",
+      "status": "exclude",
+      "reason": "오만구천삼백이라는 집계는 오늘 선택의 필요를 말하지 않는다",
+      "contextNote": "시므온 진영 인원",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:2:14",
+      "textSha256": "3e884a481db4d9de139cc23f7558724640cda9bdd5c5603517fffd38595381c4",
+      "status": "exclude",
+      "reason": "갓과 엘리아삽의 계보는 현재 맡길 동료를 판단할 사실이 아니다",
+      "contextNote": "남쪽 갓 진영",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:2:15",
+      "textSha256": "7c42c3c8d89e7833f2bcb4bd4c3e225bb947fe9eaf53ce5fe3e50287f85335cc",
+      "status": "exclude",
+      "reason": "사만오천육백오십은 지금 구매 여력이나 인력 수가 아니다",
+      "contextNote": "갓 진영 인원",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:2:16",
+      "textSha256": "94d8544930edb3b2e978569635baf88a85e24fdd2f5f1a465fb797abf033c0e8",
+      "status": "exclude",
+      "reason": "둘째 행렬의 인원과 순서는 내 과제의 우선순위를 정할 기준이 아니다",
+      "contextNote": "남쪽 진영 총계와 진행 순서",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:2:17",
+      "textSha256": "6675cc74c477161151b0a56efdb291412c32490384d17692159cd46c4d250716",
+      "status": "candidate",
+      "reason": "각자의 위치와 정한 순서대로 앞으로 가는 모습에서 남 속도에 흔들리지 않을 실마리가 읽힌다",
+      "contextNote": "성막 중앙 행렬과 각자의 위치 유지",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H046",
+          "clue": "내 위치와 정한 순서대로 앞으로 가는 모습에서 다른 사람의 속도만 보고 계획을 바꾸지 않을 실마리를 읽는다.",
+          "friction": "군대와 성막의 이동 진형이다. 내 계획이 실제로 항상 옳거나 모든 마감을 맞춘다고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NUM:2:18",
+      "textSha256": "ec92053daf10a720a2263f4e9861c765a7d523fee6d9dbdf0ce24601a6f885fd",
+      "status": "exclude",
+      "reason": "서쪽 에브라임과 족장 이름은 현재 내 역할이나 진로의 정보를 주지 않는다",
+      "contextNote": "서쪽 에브라임 진영",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:2:19",
+      "textSha256": "b53b58c68296fb53e2ea9818d324a53545bba7247f7257e555d36211b04d1c0e",
+      "status": "exclude",
+      "reason": "사만오백의 인원은 내 부족함이나 성과를 가를 자료가 아니다",
+      "contextNote": "에브라임 진영 인원",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:2:20",
+      "textSha256": "7264074957364e45ed2f37047fe34b0eba69db4f5accb46494c7141b247433b7",
+      "status": "exclude",
+      "reason": "므낫세와 가말리엘의 계보는 현재 함께할 사람의 조건이 아니다",
+      "contextNote": "서쪽 므낫세 진영",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:2:21",
+      "textSha256": "de5f15a8204d7896f57308175910ad23c903ab863de3c24c566667f2596ed7f8",
+      "status": "exclude",
+      "reason": "삼만이천이백이라는 군사 수는 현재 자원의 규모와 다르다",
+      "contextNote": "므낫세 진영 인원",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:2:22",
+      "textSha256": "0fca84671b84abbecfacc0e1b2a2e0ad89a8483ed3a2cbbcec1ee234ea80edc0",
+      "status": "exclude",
+      "reason": "베냐민과 아비단의 계보는 현재 고백 상대나 동료의 의도를 알려 주지 않는다",
+      "contextNote": "서쪽 베냐민 진영",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:2:23",
+      "textSha256": "392581abb9793570902efde5c9e8e2d89560650d250158a82b454bea0b4e47cc",
+      "status": "exclude",
+      "reason": "삼만오천사백의 인원은 일상 선택의 이유가 없다",
+      "contextNote": "베냐민 진영 인원",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:2:24",
+      "textSha256": "91d96a0239da0d7b7b43f382c9eabbea879cfa21bab47a2fb5ad1366a1bd9416",
+      "status": "exclude",
+      "reason": "셋째 행렬의 총계는 늦거나 빠른 개인의 가치를 판단하는 말이 아니다",
+      "contextNote": "서쪽 진영 총계와 진행 순서",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:2:25",
+      "textSha256": "374af07d7f7b786d7f26bde420c47dc21892b354f96ba96ff5e1e640fff669b1",
+      "status": "exclude",
+      "reason": "북쪽 단과 아히에셀 계보는 현재 어떤 편에 설지 기준이 아니다",
+      "contextNote": "북쪽 단 진영",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:2:26",
+      "textSha256": "2058343bb9d4700cc7180af2e37964f49f24de278b6ef9a0bb7e49e6f1a61d7b",
+      "status": "exclude",
+      "reason": "육만이천칠백의 군사 집계는 지금 개인 역할의 중요성을 정하지 않는다",
+      "contextNote": "단 진영 인원",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:2:27",
+      "textSha256": "cd573979918718205f65a4571fd99e602f97a1642bb324f7072313c3d434962e",
+      "status": "exclude",
+      "reason": "아셀과 바기엘의 이름은 함께 작업할 사람의 신뢰를 알려 주지 않는다",
+      "contextNote": "북쪽 아셀 진영",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:2:28",
+      "textSha256": "a4bd296d488ef8cf9fb333fb0cb96d3c0a8d7e0d6e8f429f275de451ee9a1553",
+      "status": "exclude",
+      "reason": "사만일천오백이라는 군사 수는 내 실제 시간이나 돈의 정보가 아니다",
+      "contextNote": "아셀 진영 인원",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:2:29",
+      "textSha256": "afd0abecbe22adf6c975140638076afc5896b571c17059d44509c5612d0b35d9",
+      "status": "exclude",
+      "reason": "납달리와 아히라의 계보는 현재 주변 평가를 판단할 근거가 없다",
+      "contextNote": "북쪽 납달리 진영",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:2:30",
+      "textSha256": "f3fb40e2fe432d58f21836a51fa3926a1e41f0ef856d9d713cfc4eda0f212cc0",
+      "status": "exclude",
+      "reason": "오만삼천사백의 집계는 오늘 결정의 양쪽 부담을 다루지 않는다",
+      "contextNote": "납달리 진영 인원",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:2:31",
+      "textSha256": "9758eeb468249ee0b9069bb566734108d4b52fc2a59b1a4fd354539f59a8993d",
+      "status": "exclude",
+      "reason": "후대 행진의 총계와 위치는 내 느린 속도가 적합하다는 근거가 아니다",
+      "contextNote": "북쪽 진영 총계와 진행 순서",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:2:32",
+      "textSha256": "1f910ab1ca886d1f762c9b20bd1d3dce07664826d7123230e1141c4098e36cc6",
+      "status": "exclude",
+      "reason": "군사 총합의 재확인은 현재 내 선택에 필요한 새 정보가 아니다",
+      "contextNote": "네 진영 전체 인원 총괄",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:2:33",
+      "textSha256": "11a07ce0b66f401fda4bbd2e7cecb5a68ae98d20ddcf157f8bb35d85fc2db7ca",
+      "status": "exclude",
+      "reason": "레위의 계수 제외는 내 역할의 특혜나 결격을 판단할 정보가 아니다",
+      "contextNote": "군사 진영에서 레위 제외 확인",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:2:34",
+      "textSha256": "7c4d5f6c24d93db340c3a5919444045b07a9854363c6b406e4014ae367da321d",
+      "status": "hold",
+      "reason": "H053의 맡은 일 이행은 있지만 가족별 진과 이동 모두 행한 보고라 남은 일 마무리 실마리는 약하다",
+      "contextNote": "진 치기와 행진 명령 준행",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:1",
+      "textSha256": "e5d3f47637eb39cc2008c3bd0c753a187bb8cde87966a6ef2139f695908820f1",
+      "status": "exclude",
+      "reason": "모세 아론 후손의 도입은 현재 가족 관계의 선택 내용을 담지 않는다",
+      "contextNote": "제사장과 레위 계보 시작",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:2",
+      "textSha256": "d15a49ab079bad2be7d2eef8cb2cf5ab9ccc471f81841629ebc935cb39ca2b82",
+      "status": "exclude",
+      "reason": "아론 아들 네 이름과 서열은 현재 누구의 도움을 구할지 기준이 아니다",
+      "contextNote": "아론 아들들의 이름",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:3",
+      "textSha256": "b6b60b2392560ecfb2e429c7ddb7968aa7556729082e41ffc4eed45e83803bc4",
+      "status": "hold",
+      "reason": "G15의 위임받은 역할은 비추나 기름으로 구별된 특정 가족의 직분만으로 첫 역할의 부담을 풀기는 약하다",
+      "contextNote": "아론 아들들의 제사장 위임",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:4",
+      "textSha256": "1392d6e38d32db2d871bae56be9171805e286abed616f26ff5c121a8c30c10c2",
+      "status": "exclude",
+      "reason": "두 아들 사망과 다른 아들의 계승은 현재 내 역할 기회나 성공의 정보가 아니다",
+      "contextNote": "나답 아비후의 죽음과 계승",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:5",
+      "textSha256": "6fce10c5891051be4b55b9e2e719c4053fd55e8a3bff58acabc65699508c88a6",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 생활 선택 내용이 없다",
+      "contextNote": "레위인의 봉사 규정 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:6",
+      "textSha256": "5601353a0e28271dd68bdf4f55a900a5e4eebcdd31d28400df32dc57eee70f11",
+      "status": "candidate",
+      "reason": "도와줄 사람들을 앞으로 나오게 하는 말에서 혼자 처리하지 않을 실마리를 읽는다",
+      "contextNote": "레위 지파를 아론의 조력자로 세움",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A009",
+          "clue": "도와줄 사람들을 함께 세워 내가 전부 처리할 필요를 덜 수 있다.",
+          "friction": "레위 지파가 아론에게 시종할 성막 직무다. 현대 동료를 소유물이나 무조건 복종할 사람으로 다루는 해설은 붙이지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NUM:3:7",
+      "textSha256": "a6b7fe7ce78861f6995377d7d5fe526667f86efec7cb5ce481f6175629b12075",
+      "status": "hold",
+      "reason": "A009의 지원 역할은 있지만 시무라는 옛말과 아론 회중의 직무가 무엇인지 앞뒤를 알아야 한다",
+      "contextNote": "레위인의 회막 직무 도입",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:8",
+      "textSha256": "df0be5c1a243a88ccaf05d7a4d6ed4f8abc8b067fa9fc98b45d47866678b5cd0",
+      "status": "hold",
+      "reason": "A009의 관리 분담은 비추나 수직과 시무의 옛 뜻이 핵심이라 풀이 없이 읽기 어렵다",
+      "contextNote": "레위인의 기구 보존과 봉사",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:9",
+      "textSha256": "484d48d4ab89b546f55dd53f07ddafb41e807714b19f7e3d74120febdb90b968",
+      "status": "hold",
+      "reason": "A009의 조력자 배정은 있으나 사람을 온전히 돌리웠다는 지위가 현대 팀원 위임과 간격이 있다",
+      "contextNote": "레위인을 아론 가계에 맡김",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:10",
+      "textSha256": "704928ca01836b145dc1e6d8ee0374706977fba5b6770b650d2895aacc60e5de",
+      "status": "exclude",
+      "reason": "제사 직분 설정 뒤 외인 사형이 붙어 업무 분담의 자연스러운 전체 실마리가 깨진다",
+      "contextNote": "아론 가계 직무와 접근 제재",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:11",
+      "textSha256": "1213bc72e4be9e9f17f4b9129e3f0d4cbde2d4cf24000ea629c6671d78ca8075",
+      "status": "exclude",
+      "reason": "말씀 시작만 있어 독립 생활 판단이 없다",
+      "contextNote": "레위인의 구별 근거 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:12",
+      "textSha256": "69c0b318f6755f7b75020fcc4d57d8d8e098ff7522faf660a5ca5939c29a235d",
+      "status": "hold",
+      "reason": "A009의 대신 맡을 역할은 보이나 첫태생 대신 하나님 소유가 된 지위가 실제 업무 분담보다 특수하다",
+      "contextNote": "레위인을 첫태생 대신 구별함",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:13",
+      "textSha256": "6308b6a5e4f87dff296d9a5dbeb831e9acab7bf69a1af96d805c6e327fcb214a",
+      "status": "exclude",
+      "reason": "애굽 첫태생 죽음과 하나님의 소유 선언은 현재 약속이나 기회를 판단할 정보가 아니다",
+      "contextNote": "레위인 구별의 출애굽 이유",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:14",
+      "textSha256": "de6f54ba78be04e0ee7398cd6e3cefa764e8a3af81645e3ee2fbe1221dd2af8a",
+      "status": "exclude",
+      "reason": "시내 광야 말씀의 도입은 생활 선택 내용이 없다",
+      "contextNote": "레위 인구조사 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:15",
+      "textSha256": "d39d75d1b47d41f27c95e79b36034139c79bea8b4eed236de3811228b5e4e9bf",
+      "status": "exclude",
+      "reason": "한 달 이상 남성 계수는 현대 팀원의 역할 자격을 정할 기준이 아니다",
+      "contextNote": "레위 계수의 연령과 단위",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:16",
+      "textSha256": "5899ea43479c3b8cee5f91e64af509c9c2d82418753aec71bfffc028079f7271",
+      "status": "hold",
+      "reason": "H054의 지시 이행은 있지만 계수라는 일의 완료 보고로 내 구체 약속과의 연결은 간접적이다",
+      "contextNote": "레위 인구조사 이행",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:17",
+      "textSha256": "80b74f3c7c8ccf848fffd4c9b55afd26bcaa7df99671821acf57b2106ecde46a",
+      "status": "exclude",
+      "reason": "레위 세 아들 이름은 현재 어떤 도움이나 관계를 선택할지 알려 주지 않는다",
+      "contextNote": "레위 세 가계 소개",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:18",
+      "textSha256": "b268093e741268c3138d3799f2f5f2f5190d5d1b313de40b40c1891f30893e50",
+      "status": "exclude",
+      "reason": "립니 시므이의 계보는 현재 사람의 능력과 마음을 판단할 정보가 아니다",
+      "contextNote": "게르손 가계 소개",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:19",
+      "textSha256": "eef648fc9d6c2837106d31bd34d31ed2192aa514c4e6ae4b79a78c7355b2b3df",
+      "status": "exclude",
+      "reason": "고핫의 네 아들 이름은 생활 선택의 양쪽 부담을 다루지 않는다",
+      "contextNote": "고핫 가계 소개",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:20",
+      "textSha256": "8b609678321542fba2f6c6b26fab47ec4f45023fc9ba26343f25429757116c7e",
+      "status": "exclude",
+      "reason": "므라리 두 아들과 가족 정리는 구체 고민의 선택 이유를 주지 않는다",
+      "contextNote": "므라리 가계 소개",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:21",
+      "textSha256": "3cee6ad67cae5465a071fb0c02d2b5721b1b1ea0d3a257d1859c7dfa8a911bd8",
+      "status": "exclude",
+      "reason": "립니 시므이 가족의 소속은 현재 역할 분담의 적합성 정보가 아니다",
+      "contextNote": "게르손 가족의 구성",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:22",
+      "textSha256": "7b103ad88fda226802e34a927dffaf63a567f98a58bdcf8bc0ea33de44193856",
+      "status": "exclude",
+      "reason": "칠천오백과 한 달 연령은 실제 현재 인력이나 경제 여력의 수치가 아니다",
+      "contextNote": "게르손 남성 인구",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:23",
+      "textSha256": "cc39b4209d4d1fe8de2da61f70121b37b892035843953ca6fae49699396d0f87",
+      "status": "exclude",
+      "reason": "서쪽 진영 위치는 오늘 관계의 거리나 내 우선순위 기준이 아니다",
+      "contextNote": "게르손 가족의 진영",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:24",
+      "textSha256": "82880bf23be0cd48c5dc7516518c932fe04ecacd64defb9a5dce2af88563e248",
+      "status": "exclude",
+      "reason": "족장의 이름과 부계는 현재 맡길 사람이 신뢰할 만하다는 근거가 아니다",
+      "contextNote": "게르손 족장 지정",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:25",
+      "textSha256": "37e70cc17d8036db51a4f19b187bc818bf1dd64eb97d5c481e79ee71197d0e1c",
+      "status": "hold",
+      "reason": "A009의 맡은 업무가 있음은 비추나 성막 장막 덮개 목록이 미완으로 이어져 분담 이유는 약하다",
+      "contextNote": "게르손의 직무 기물 시작",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:26",
+      "textSha256": "aab45886353d3539a3db549dc77298f37ba245ee1893d60a4841bd5c5d15de99",
+      "status": "exclude",
+      "reason": "휘장과 줄의 목록은 앞 가족 직무를 알아야 의미가 되며 생활 선택의 이유는 없다",
+      "contextNote": "게르손 직무 기물의 끝",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:27",
+      "textSha256": "c33cb175bcfa33ee6b5f6740c2c92eb6d6effc23aa0e436c0cd06268e1375f55",
+      "status": "exclude",
+      "reason": "고핫 네 가문의 혈연은 현대 적임자를 고를 능력 정보와 다르다",
+      "contextNote": "고핫 가족의 구성",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:28",
+      "textSha256": "0188d77f7b119340b9dc668ba9c1b4652813012bfd853cb95fd61d81eb3bca16",
+      "status": "exclude",
+      "reason": "팔천육백과 성소 담당은 한 달 이상 남성 집계라 실제 일손 판단 자료가 아니다",
+      "contextNote": "고핫 남성 인구와 성소 직무",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:29",
+      "textSha256": "a2b563b66c2489b781c55e52b060b29fe5aa53fde43508db3ce4bb82c8693ea3",
+      "status": "exclude",
+      "reason": "남쪽 성막 진영은 현재 내 역할의 가치나 관계 가까움을 정하지 않는다",
+      "contextNote": "고핫 가족의 진영",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:30",
+      "textSha256": "caf8ea1635454cb705fbf086db62f8e5e5bd6d5283f044108fb661cf950f69a4",
+      "status": "exclude",
+      "reason": "엘리사반 계보와 족장 지명은 지금 동료에게 부탁할 적합성의 정보가 아니다",
+      "contextNote": "고핫 족장 지정",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:31",
+      "textSha256": "a34038de1d055fb6cf1cd644b888eedf5e15e043a1f9d9e05956d455e557022b",
+      "status": "hold",
+      "reason": "A009의 담당 업무는 있으나 여러 기물의 긴 목록이라 무엇을 나눌지 앞 가계의 구조를 알아야 한다",
+      "contextNote": "고핫의 성소 기구 직무",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:32",
+      "textSha256": "3e4e399a557043137a56ecef941eed59d438b9507154f4d96c5abe991e365d74",
+      "status": "candidate",
+      "reason": "다른 책임자들을 통할하는 역할에서 자잘한 일을 다 직접 하기보다 전체를 살필 실마리를 읽는다",
+      "contextNote": "엘르아살의 족장 감독과 성소 관리",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A009",
+          "clue": "여러 책임자가 맡은 것을 통할하는 방식으로 책임자는 전체를 보고 다른 사람에게 실행을 맡길 수 있다.",
+          "friction": "긴 제사장 계보와 성소의 직무가 있고 통할이라는 옛 표현이 있다. 현재 팀원 능력은 입력에 있는 것만 쓴다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NUM:3:33",
+      "textSha256": "f85ebff43a1b938e7a3d161ba84a8cb3c538008992ce213276d24b6d7afdef98",
+      "status": "exclude",
+      "reason": "말리 무시 가족 소속은 현재 직무 능력이나 선택 부담을 말하지 않는다",
+      "contextNote": "므라리 가족의 구성",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:34",
+      "textSha256": "3cf9e06cc68627b5c639c52cdd495f21b7332928a8ab85ec5873a533937519d3",
+      "status": "exclude",
+      "reason": "육천이백 명과 한 달 조건은 현대 일의 인력 규모가 아니다",
+      "contextNote": "므라리 남성 인구",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:35",
+      "textSha256": "8f7683de70744ddd49b1497e8b358f4626915014621c0ccff9a234aef187bd42",
+      "status": "exclude",
+      "reason": "수리엘 이름과 북쪽 진영은 사람의 신뢰나 새 장소의 조건을 알려 주지 않는다",
+      "contextNote": "므라리 족장과 진영",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:36",
+      "textSha256": "68e820a3ff16aa91a8d53cc86a12c2ff79750929b3444d52db6c12ff15fe5dd2",
+      "status": "hold",
+      "reason": "A009의 특정 기구 책임은 비추나 널판 부품의 긴 목록만으로 현재 분담을 해야 할 이유는 간접적이다",
+      "contextNote": "므라리의 구조물 직무 시작",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:37",
+      "textSha256": "6b2ec95b987f1cdbd7d908a74e1c3cda1ff1ac6a28e2680ac658a97c9b01fd61",
+      "status": "exclude",
+      "reason": "기둥 받침 말뚝 줄의 목록은 생활 협력의 뜻으로 비유를 추가해야 한다",
+      "contextNote": "므라리의 구조물 직무 끝",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:38",
+      "textSha256": "e6933dafba109e872af65c844b4f2b7b389ce091ce215a321377dbb0a3585b52",
+      "status": "exclude",
+      "reason": "성소 앞 역할을 지키는 좋은 부분 뒤 외인 사형이 붙어 일상 위임의 전체 연결이 깨진다",
+      "contextNote": "동쪽 진영과 성소 보호",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:39",
+      "textSha256": "04a585e3d3735e0b6aa44130fbee778f966e30ca8044e9d91312decfaf61a32f",
+      "status": "exclude",
+      "reason": "레위 남성 이만이천의 집계는 현재 사람이나 돈의 실제 여력을 말하지 않는다",
+      "contextNote": "레위 전체 인구 집계",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:40",
+      "textSha256": "b25b8cde1dff80a4986cd398e9607f096978adfc89cbd837b4bd21dc0b020e1c",
+      "status": "exclude",
+      "reason": "처음난 한 달 남성의 명수 기록은 일반 계획 점검의 필요를 정하는 기준이 아니다",
+      "contextNote": "첫태생 남성의 계수 지시",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:41",
+      "textSha256": "debab94c911896c4ab86de751fa803a10dfd4e075aa3f1f84383ef09a100b7f5",
+      "status": "exclude",
+      "reason": "레위 가축까지 첫태생 대신 드리는 대체 의식은 실제 팀원 위임과 다른 성별 제도다",
+      "contextNote": "레위와 가축의 첫태생 대체",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:42",
+      "textSha256": "dbc6f4b7a068502a9c3327308f1ef95dc49fa45deaf080f64271792947e47a7d",
+      "status": "exclude",
+      "reason": "첫태생을 계수한 보고는 현재 새 역할이나 부탁의 기준을 직접 제공하지 않는다",
+      "contextNote": "첫태생 계수 실행",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:43",
+      "textSha256": "4adef14926ff4e24a9af0b77f2607475f4291d9c1910fc4cd1e62178ac81ddb3",
+      "status": "exclude",
+      "reason": "이만이천이백칠십삼 명은 생활 선택의 양쪽 부담과 관계없는 총계다",
+      "contextNote": "첫태생 남성 총수",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:44",
+      "textSha256": "1213bc72e4be9e9f17f4b9129e3f0d4cbde2d4cf24000ea629c6671d78ca8075",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 독립 생활 판단 내용이 없다",
+      "contextNote": "첫태생 속전 계산 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:45",
+      "textSha256": "4337e18b415ed2f7a5ee8185ebd8e1c7dcc6e6de14667c47a21a8e9758004fe0",
+      "status": "exclude",
+      "reason": "레위와 가축을 대신 취하는 하나님의 소유 규정은 일반 지출이나 교체 선택의 기준이 아니다",
+      "contextNote": "첫태생 대체의 재강조",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:46",
+      "textSha256": "15c759cef80abd0fdca32461cfc5afbded44fb837a9cff63aea1214334547687",
+      "status": "exclude",
+      "reason": "더 많은 이백칠십삼을 속할 조건은 현재 돈 부족의 규모를 알려 주지 않는다",
+      "contextNote": "첫태생 초과 인원의 속전 전제",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:47",
+      "textSha256": "cb86556da9fa4415eef4631dd791a50a4ccdaf98e83d2e3edbe2eed5f6df3813",
+      "status": "exclude",
+      "reason": "사람마다 오 세겔과 단위 환산은 현대 보수나 인간 가치의 가격표가 아니다",
+      "contextNote": "초과 첫태생의 속전 액수",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:48",
+      "textSha256": "cae22cdc48ef117f39143baf1d99331bdde429a0d4420bd846d88a9af825add3",
+      "status": "hold",
+      "reason": "A006의 담당자에게 돈을 줌은 있으나 초과 첫태생의 속전이라 현재 무료 도움의 보수와 원인이 다르다",
+      "contextNote": "초과 속전의 아론 가족 귀속",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:49",
+      "textSha256": "29a5c78ced1af4efb8959a37e01f80d282b6a8ec8bbbe4587bf351d63dde2766",
+      "status": "exclude",
+      "reason": "속전을 받은 보고는 일반 거래나 선물의 선택 이유가 아니다",
+      "contextNote": "속전 수령 실행",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:50",
+      "textSha256": "d864bcdcc10621f687985a09ad7376fec558244a8aa43c65236692e061a74265",
+      "status": "exclude",
+      "reason": "천삼백육십오 세겔은 지금 부족한 금액이나 지인의 보수를 정할 정보가 아니다",
+      "contextNote": "받은 속전의 합계",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:3:51",
+      "textSha256": "6d345e5b239e71c931f96aaa7f6f042b08ade88186013e64559ecf44705392c2",
+      "status": "hold",
+      "reason": "A024의 받은 돈을 전달함은 비추나 거룩한 속전의 아론 가계 귀속이라 약속한 품삯과 조건이 다르다",
+      "contextNote": "모세가 속전을 전달함",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:1",
+      "textSha256": "744b8e355bb045aaf83a9dabbc44be113ca91c05f8c7d84d91f67ae3d124bfc1",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 생활 선택의 내용이 없다",
+      "contextNote": "성막 운반 직무 상세 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:2",
+      "textSha256": "75c660dc9610f01b86a8e72139d5c81d608d3b6f66548cf224f870a19f7bee75",
+      "status": "exclude",
+      "reason": "고핫 가계의 계수 도입은 현재 역할을 고를 기준이 미완이다",
+      "contextNote": "고핫 봉사 인원의 계수 지시",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:3",
+      "textSha256": "5abdbb61bb91935f4e280a9ba7c3282cf83c9ed2bac765d11cd504ca44b4452e",
+      "status": "exclude",
+      "reason": "삼십 오십 세 전투 아닌 성막 봉사의 연령을 지금 적임자 자격으로 새로 정할 수 없다",
+      "contextNote": "성막 봉사자의 연령 조건",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:4",
+      "textSha256": "5e0bda81e76c3593f3b3a060b58193449782b4f927a1b6a66ef97e6278505c87",
+      "status": "exclude",
+      "reason": "지성물 직무의 도입만 있어 어떤 부담인지 다음 절을 요구한다",
+      "contextNote": "고핫 운반 직무 시작",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:5",
+      "textSha256": "b06fbd20e988c46398a71764b22ed7f801db62e9aa6a79fd16d5af95a7f36e02",
+      "status": "exclude",
+      "reason": "증거궤를 휘장으로 덮는 절차는 일상 비밀이나 관계 보호의 목적과 다르다",
+      "contextNote": "증거궤 운반 포장 시작",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:6",
+      "textSha256": "717f49716877aa32424a9bd0df1a280c209c721a39bfcb9857dd4912870353f5",
+      "status": "exclude",
+      "reason": "가죽 청색 포장과 채는 현재 새 옷이나 준비의 적정함을 말하지 않는다",
+      "contextNote": "증거궤 운반 포장 마무리",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:7",
+      "textSha256": "22fb4ec66162be9b3fed1ec198dbd94d7103d5a70a36d1c9699ab166cbf01452",
+      "status": "exclude",
+      "reason": "진설병 상과 여러 식기 포장은 일상 음식이나 물건 선택의 이유가 없다",
+      "contextNote": "상과 식기 운반 포장",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:8",
+      "textSha256": "eab92d41031ff577692dacf95f666dff1a16b94a2f608220c8143b2fcbf960ee",
+      "status": "exclude",
+      "reason": "홍색 천 가죽 덮개의 조립은 역할 나눔의 뜻으로 해설을 더해야 한다",
+      "contextNote": "상의 운반 포장 마무리",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:9",
+      "textSha256": "8ccf23700394d2de60f56f8e8bfd26901a4918a6f324109c6219c131d2ef9b28",
+      "status": "exclude",
+      "reason": "등대 등잔 집게 그릇을 감싸는 규정은 보통 정리나 물건 포기의 기준이 아니다",
+      "contextNote": "등대 기구의 포장",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:10",
+      "textSha256": "8ad234e8ca8a89f984ec02b6b0e031fb04c3eea0db3a4d8b67e7487daddfd09c",
+      "status": "exclude",
+      "reason": "틀에 등대를 놓는 동작은 누가 도움을 맡을지의 이유를 주지 않는다",
+      "contextNote": "등대 기구의 운반 준비",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:11",
+      "textSha256": "39aa44cf8eb4f54255da491ad2c4923c6e445a4f80f7014fd5f0060c9fa2393f",
+      "status": "exclude",
+      "reason": "금단의 포장과 채는 관계 경계나 역할 분담의 독립 의미가 없다",
+      "contextNote": "향단 운반 포장",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:12",
+      "textSha256": "0c7b1a26661b1029a322e69595be0b135ca59d7aa6d7c569f5e83d86bb1bd80f",
+      "status": "exclude",
+      "reason": "기명과 보자기의 순서는 현재 물건 정리의 필요나 우선순위를 말하지 않는다",
+      "contextNote": "성소 기구의 총괄 포장",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:13",
+      "textSha256": "847f0cc26f1c92f7d6232bcbda45ef569ba0f479fe6fd66072c67077c9bf4250",
+      "status": "exclude",
+      "reason": "재 제거와 자색 천은 지금 지난 일을 내려놓으라는 뜻으로 바로 읽기 어렵다",
+      "contextNote": "번제단 운반 포장 시작",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:14",
+      "textSha256": "3fa4aff2bfaa35f062978eb3ac330c5b308378ad44bceeec9d181eed2bfb2ced",
+      "status": "exclude",
+      "reason": "많은 제사 도구와 가죽 포장의 목록은 생활 선택 이유가 없는 운반법이다",
+      "contextNote": "번제단 부속 기구 포장",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:15",
+      "textSha256": "db31f4ff0f430bc148e603855017bc11722c7db05d5be9bb07021d0542c0923b",
+      "status": "hold",
+      "reason": "A009의 준비 후 맡김은 좋은 구조이나 성물을 만지면 죽는 후반이 일상 협업의 전체 연결을 어렵게 한다",
+      "contextNote": "제사장 포장 후 고핫이 운반함",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:16",
+      "textSha256": "e1e446b65640f7927836026b75a52535530ca7c3030dc4610a1e899363312bdd",
+      "status": "hold",
+      "reason": "A009의 전체를 살피는 역할은 있으나 기름 향품 기구의 긴 목록만으로 직접 일을 줄일 실마리는 약하다",
+      "contextNote": "엘르아살의 총괄 책임",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:17",
+      "textSha256": "744b8e355bb045aaf83a9dabbc44be113ca91c05f8c7d84d91f67ae3d124bfc1",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 독립 생활 선택 내용이 없다",
+      "contextNote": "고핫의 안전 규정 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:18",
+      "textSha256": "07106fdbcc9a68c89751d5f233eaefa43d600bc20a652a4d824a3b1f80b19556",
+      "status": "exclude",
+      "reason": "가문이 끊어지지 않게 하라는 지시는 현대 동료 분담의 이유로는 대상과 위험을 먼저 알아야 한다",
+      "contextNote": "고핫 가문의 보존 명령",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:19",
+      "textSha256": "09efc073f6fc85111a32495c319b2c9d2dfd4c7df5c4dffb8380a5a3c93ffbfb",
+      "status": "candidate",
+      "reason": "각 사람이 할 일과 멜 것을 정해 주는 말에서 막연히 넘기기보다 명료하게 분담할 실마리를 읽는다",
+      "contextNote": "성물 접근 위험을 막는 작업 지휘",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A009",
+          "clue": "각자가 할 일과 짐을 분명히 정해 주어 서로 맡아 처리할 실마리가 있다.",
+          "friction": "성물 접근으로 죽지 않게 하는 제사장 지휘다. 현재 사무가 생명 위험이라고 과장하거나 분담 성공을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NUM:4:20",
+      "textSha256": "4a2946cb78cf73220895a9622255fa16eafbfe7483548c74592ff61134d9c247",
+      "status": "exclude",
+      "reason": "성소를 보기만 해도 죽는 경고는 정보를 더 확인할지의 일반 기준이 아니다",
+      "contextNote": "고핫의 성소 관람 제한",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:21",
+      "textSha256": "6fce10c5891051be4b55b9e2e719c4053fd55e8a3bff58acabc65699508c88a6",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 생활 선택의 내용이 없다",
+      "contextNote": "게르손 운반 직무 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:22",
+      "textSha256": "b01e51b2b58e81c3e906fe878085199c7a3bcf3446a8821c42ac2d75349caa92",
+      "status": "exclude",
+      "reason": "게르손의 가족 계수는 현대 어떤 사람에게 일을 맡길지 기준을 담지 않는다",
+      "contextNote": "게르손 계수의 단위",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:23",
+      "textSha256": "b863ffec51570dcd52c6c42d7b4280ec593afa008455b0e98e924745951ba4e5",
+      "status": "exclude",
+      "reason": "삼십 오십 세와 입참은 현재 팀원 적합성에 없는 연령 조건이다",
+      "contextNote": "게르손 봉사자의 연령",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:24",
+      "textSha256": "9aff9ef55f6c63fe002903a3c2e7c27381407d5d323da6d788cb939bdc6501d6",
+      "status": "exclude",
+      "reason": "할 일과 멜 것의 도입은 선택 의미가 미완이다",
+      "contextNote": "게르손 운반 직무 도입",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:25",
+      "textSha256": "9137a59236dd2f945d4a475c416e9e3544c9ff1692c96501eaf16a077ebef1b4",
+      "status": "exclude",
+      "reason": "앙장 덮개 문장의 목록은 사용자 물건과 역할의 선택 이유를 말하지 않는다",
+      "contextNote": "게르손이 멜 포장 기구",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:26",
+      "textSha256": "37a0ad97e0fa177f1c8d30fe0b1c3a78e29b3fef6b79aeee8aa021dd8f5ec19d",
+      "status": "hold",
+      "reason": "A009의 맡아 처리할 책임은 있지만 긴 휘장 줄 기구 목록이 많아 분담 동기의 충분함은 간접적이다",
+      "contextNote": "게르손의 뜰 기구 운반 책임",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:27",
+      "textSha256": "c8abbec1d62d4014daea5260aa472d2cb66b4a21464b3df8b4ae808c9ce51afb",
+      "status": "candidate",
+      "reason": "맡을 사람에게 멜 짐을 주라는 직접 말에서 책임자가 자잘한 일을 넘길 실마리가 있다",
+      "contextNote": "게르손에게 운반과 처리 일을 맡기게 함",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A009",
+          "clue": "다른 이가 맡을 짐을 그들에게 맡기라는 말이 혼자 자잘한 일까지 하는 부담을 직접 비춘다.",
+          "friction": "게르손 자손의 성막 운반과 아론 가계의 지휘이다. 동료의 무조건 수락이나 내 권위를 확정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NUM:4:28",
+      "textSha256": "c0975f6ff63ba21d2c787aac9bf58389c90f9f696475c2e52eed553e3ba4084e",
+      "status": "hold",
+      "reason": "A009의 감독 역할은 있으나 이러하다는 앞 목록과 이다말의 지휘 체계를 알아야 한다",
+      "contextNote": "게르손 직무 감독자 지정",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:29",
+      "textSha256": "966cc3474f78ebb8e2e382fbc0122888e6b394a92b50a9068f9ece0e67950f22",
+      "status": "exclude",
+      "reason": "므라리 가계 계수의 도입은 생활 판단이 미완이다",
+      "contextNote": "므라리 봉사 인원 계수",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:30",
+      "textSha256": "b863ffec51570dcd52c6c42d7b4280ec593afa008455b0e98e924745951ba4e5",
+      "status": "exclude",
+      "reason": "삼십 오십 세 입참의 기준은 현재 새 역할이나 팀원의 실제 자격이 아니다",
+      "contextNote": "므라리 봉사 연령",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:31",
+      "textSha256": "41ec86a41cec202873164826c37ae388412fea5486cfd0c846c4ffe874dafc0b",
+      "status": "exclude",
+      "reason": "널판 띠 기둥 받침의 미완 목록은 선택 이유 없이 옮길 물건만 열거한다",
+      "contextNote": "므라리 운반 직무의 기물 시작",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:32",
+      "textSha256": "0006be9870b5b8eccee01f0c01fbb2fd2fddebc933fb6b0a35ff55044b13884b",
+      "status": "candidate",
+      "reason": "맡아 멜 물건의 명목을 지정하라는 말에서 각자 일을 분명히 나눌 실마리가 있다",
+      "contextNote": "므라리의 세부 운반 물품을 지정하게 함",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A009",
+          "clue": "각자가 맡아 옮길 물건을 이름까지 정하는 모습에서 업무를 구체적으로 나눌 수 있다.",
+          "friction": "뜰 기둥 받침 말뚝 줄의 긴 목록이며 명목 지정은 원래 물품 배정이다. 현대 작업의 성공을 대신 판단하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NUM:4:33",
+      "textSha256": "4400205a2dc38ed6c1b1ad693589cfffb5d1453d229f4ba1f63806a21cf767c9",
+      "status": "hold",
+      "reason": "A009의 직무 감독은 비추나 이다말 수하의 가족이라는 관계가 현대 팀 위임과 간접적이다",
+      "contextNote": "므라리의 지휘 체계 정리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:34",
+      "textSha256": "764671cdce924d47ab464d92cacffb82cb1b6db7e1fad1af23bde7c1c3e35de1",
+      "status": "exclude",
+      "reason": "고핫 가족별 계수 보고는 어떤 도움을 요청할지의 이유가 없다",
+      "contextNote": "고핫 봉사 인구조사 실행",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:35",
+      "textSha256": "0ed1a74208b54b6b62667ebdb4b51c16f6925bd589cc74c56e3325ebd79c9f7a",
+      "status": "exclude",
+      "reason": "삼십 오십 세 자격만 재확인해 현재 사용자의 능력 정보가 없다",
+      "contextNote": "고핫 집계 대상의 연령",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:36",
+      "textSha256": "5e738f0274b1f068c0425c157fda14c7c7735c72378eaed8374cc7e74ba63bdd",
+      "status": "exclude",
+      "reason": "이천칠백오십은 현재 내 가용 인원이나 예산이 아니다",
+      "contextNote": "고핫 봉사자 인원 결과",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:37",
+      "textSha256": "00a13504c709626babfa89c940fdaacf5cd68cd2692ee05a50163a5205eadbd4",
+      "status": "exclude",
+      "reason": "계수 대상과 명령의 일치는 현재 업무를 끝낼 기준보다 집계 범위를 확인한다",
+      "contextNote": "고핫 봉사 계수 마무리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:38",
+      "textSha256": "2d5bfd9fd0b2dc03244468c6b5502e3a4acfbed65c5ef0e4ff0c86f2e9c6a18b",
+      "status": "exclude",
+      "reason": "게르손 가족 집계 도입만 있어 판단의 의미가 미완이다",
+      "contextNote": "게르손 집계 대상 시작",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:39",
+      "textSha256": "c75e2d4410a6fe7db546e868544da00c38b75025eeb9c74473fca571b41dc7db",
+      "status": "exclude",
+      "reason": "입참 연령 조건은 현재 역할 선택의 능력 기준으로 옮길 수 없다",
+      "contextNote": "게르손 집계 대상의 연령",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:40",
+      "textSha256": "a1a65b83ed2cbbcf3497d11b2975751324e4887824e75f7c4ad17983e25d6e93",
+      "status": "exclude",
+      "reason": "이천육백삼십은 내 실제 일손 부족이나 자원을 알려 주지 않는다",
+      "contextNote": "게르손 봉사 인원 결과",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:41",
+      "textSha256": "ff0d4963c7f2d756af242a421297c1c8879f7043839cdfd8de89fc84e7f9e254",
+      "status": "exclude",
+      "reason": "회막 가족의 계수 완료는 생활 선택에 필요한 구체 부담을 다루지 않는다",
+      "contextNote": "게르손 봉사 계수 마무리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:42",
+      "textSha256": "ed37a1641461f21076509b6d99c206f5d11099cd234aabba9e3066a607d34be1",
+      "status": "exclude",
+      "reason": "므라리 가족 계수의 도입은 생활 선택의 의미가 미완이다",
+      "contextNote": "므라리 봉사 인원 집계 시작",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:43",
+      "textSha256": "c75e2d4410a6fe7db546e868544da00c38b75025eeb9c74473fca571b41dc7db",
+      "status": "exclude",
+      "reason": "삼십 오십 세 입참은 현재 팀원 능력이나 자격에 없는 연령 조건이다",
+      "contextNote": "므라리 집계 대상의 연령",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:44",
+      "textSha256": "e3f887dc2d7762a739b53d1bb2a3f670c52726d21d6f58f86fb8ff94aa86f03d",
+      "status": "exclude",
+      "reason": "삼천이백이라는 인원은 현재 내 시간이나 자원의 수치가 아니다",
+      "contextNote": "므라리 봉사 인원 결과",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:45",
+      "textSha256": "60bf7e3651c4c963e94db6fd91fa7c6d5516400df4bc365fe922ec30c5fef967",
+      "status": "exclude",
+      "reason": "계수 범위와 명령 이행의 확인은 현재 선택 부담을 다루지 않는다",
+      "contextNote": "므라리 집계 마무리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:46",
+      "textSha256": "bff433f7fffca24270fb1c7381724a2ea6ea3dedd11ec67166322a7dac868522",
+      "status": "hold",
+      "reason": "A009의 공동 계수는 비추나 모세 아론 족장들의 인구조사라 직접 위임의 실마리는 간접적이다",
+      "contextNote": "레위 전체 집계의 참여자",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:47",
+      "textSha256": "9ed67c65e913d70711a19eb9d2b52d654fedcea44ba9dc0212ea62c7acaefb31",
+      "status": "exclude",
+      "reason": "연령과 운반 자격의 미완 조건은 현재 어떤 일을 맡을지 결정할 정보가 아니다",
+      "contextNote": "레위 집계의 자격 총괄",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:48",
+      "textSha256": "0ac0d45f18b10c3b9778402010d97221e4bba3d41402c90444fc150b3c9cc30e",
+      "status": "exclude",
+      "reason": "팔천오백팔십의 인원은 지금 내 실제 일손이나 예산이 아니다",
+      "contextNote": "레위 봉사 인원 총계",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:4:49",
+      "textSha256": "6c88b10ffd4576f8a4ea01ac01c39822812263eea8f405a26d9ae273bb641269",
+      "status": "hold",
+      "reason": "A009의 할 일에 맞춘 집계는 가능하나 계수함 입는다는 반복 문장이 작업 분배를 직접 보여 주지는 않는다",
+      "contextNote": "직무별 레위 인원 계수의 결론",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:5:1",
+      "textSha256": "1213bc72e4be9e9f17f4b9129e3f0d4cbde2d4cf24000ea629c6671d78ca8075",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 생활 판단 내용이 없다",
+      "contextNote": "정결과 공동체 진 규정 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:5:2",
+      "textSha256": "b271ec43cde7c51a573b7e3831963f94c2a409d46d1d9eaf203bdc9352cf882d",
+      "status": "exclude",
+      "reason": "질환과 시체 접촉자의 진외 추방은 일반 동료나 관계의 배제 기준으로 옮길 수 없다",
+      "contextNote": "의식 부정자의 진 밖 이동",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:5:3",
+      "textSha256": "745fc89c82ec4a3c1006decc21aeda06d4f03fbef6908642ed1bd13856d0c7d4",
+      "status": "exclude",
+      "reason": "남녀 모두 내보내는 의식은 현재 친구나 몸을 부정하다고 판정할 근거가 아니다",
+      "contextNote": "진의 정결과 임재 이유",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:5:4",
+      "textSha256": "ccb29bfe23613c401cc8f413487bdf7ce4c581b720000cf04c49ce9ec954050c",
+      "status": "exclude",
+      "reason": "진 밖으로 내보낸 실행은 현대 건강 상태나 모임 참석의 정보가 아니다",
+      "contextNote": "부정자 이동 명령 이행",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:5:5",
+      "textSha256": "6fce10c5891051be4b55b9e2e719c4053fd55e8a3bff58acabc65699508c88a6",
+      "status": "exclude",
+      "reason": "말씀 시작만 있어 독립 선택 내용이 없다",
+      "contextNote": "죄 고백과 배상 규정 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:5:6",
+      "textSha256": "6cecd7a8c28a22b83b0f761a99ad51e423d418baa48273927a78b17f2c099530",
+      "status": "hold",
+      "reason": "H048의 잘못 인정은 가능하나 패역과 죄의 조건만 있어 수정할 행동은 다음 절이다",
+      "contextNote": "과실의 책임 전제",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:5:7",
+      "textSha256": "83dbfb9431c54c9aaef9e4422d47b8f255fab69a51a54fb270ff19780d14c7a5",
+      "status": "candidate",
+      "reason": "잘못을 인정하고 피해자에게 온전히 갚으라는 말이 사과만 할지의 부담을 직접 비춘다",
+      "contextNote": "자복과 본주에게 배상하는 의무",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A017",
+          "clue": "잘못을 인정하고 손해를 본 사람에게 온전히 갚는다는 말에서 배상을 먼저 꺼낼 실마리를 읽는다.",
+          "friction": "죄값에 오분 일을 더하는 옛 배상 규정이다. 현대 수리비에 이십 퍼센트를 붙이거나 법적 잘못을 판정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NUM:5:8",
+      "textSha256": "339246974ffef34af81bb488f88ffcd64c3ef887358f01233078976d4a8eabd0",
+      "status": "exclude",
+      "reason": "받을 친족 없는 속전의 제사장 귀속은 현재 친구 물건 배상에서 상대를 바꿀 기준이 아니다",
+      "contextNote": "수령자 없는 죄값의 처리",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:5:9",
+      "textSha256": "34bfa642451d1eb8f8b8f869fcc4e703086f736bdbb26e632c64b612b0bbb975",
+      "status": "hold",
+      "reason": "A006의 제사장 몫은 비추나 거제 성물 귀속만으로 지금 무료 도움의 대가를 정할 수 없다",
+      "contextNote": "성물의 제사장 소유",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:5:10",
+      "textSha256": "af71d2fdb47821bf95abeee2edb2103d5ce727216aab85b26517c0899c69e7c0",
+      "status": "hold",
+      "reason": "A003의 받은 것을 자기 몫으로 여김은 가능하나 그의 것의 대상과 거룩 구별을 풀이해야 하고 부탁 부담은 다루지 않는다",
+      "contextNote": "구별한 물건과 제사장 예물 귀속",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:5:11",
+      "textSha256": "1213bc72e4be9e9f17f4b9129e3f0d4cbde2d4cf24000ea629c6671d78ca8075",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 생활 판단의 내용이 없다",
+      "contextNote": "의심에 관한 법 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:5:12",
+      "textSha256": "9c14d379fc2f0de89e18157608894e2c50aeac317aad8500b37fc3ecd607ca7a",
+      "status": "exclude",
+      "reason": "아내 실행의 미완 조건은 미혼 지인의 마음을 확인하는 사실이 아니다",
+      "contextNote": "의심 제사의 혼인 전제",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:5:13",
+      "textSha256": "0a2d629a0cbf4277d38e24b6924dcbcb5d8c5969d7313a84294aa086dd62e5d4",
+      "status": "exclude",
+      "reason": "드러나지 않은 간통과 무증인의 조건은 현재 답장 지연이 실제 배신이라는 정보가 아니다",
+      "contextNote": "목격 없는 의심의 조건",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:5:14",
+      "textSha256": "e770ba5f7718c3de66dd2aab5c9457316b96b3fc9a8fbd11d5e83e63b9e4d9de",
+      "status": "hold",
+      "reason": "G12의 의심과 실제 사실은 다를 수 있음은 비추나 혼인 간통의 반복 의심이라 현재 친구 마음과 간격이 크다",
+      "contextNote": "아내가 결백해도 생길 의심의 전제",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:5:15",
+      "textSha256": "405f4f5816ebc8f7d29bb26746032e4e28605a29ecf924cd54dbcde8d02effe9",
+      "status": "exclude",
+      "reason": "보리 가루로 아내를 시험할 제사는 상대 마음을 확인하는 생활 방법이 아니다",
+      "contextNote": "의심 소제의 준비",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:5:16",
+      "textSha256": "2cbb991e4f344661b5c22d46772c8fff6f532000f7be3910d76680c32e1d9833",
+      "status": "exclude",
+      "reason": "여인을 제사장 앞에 세우는 절차는 현대 대화나 소문 확인의 기준이 아니다",
+      "contextNote": "의심 의식의 여인 배치",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:5:17",
+      "textSha256": "0e6a76d20c54c284199f7315ddd109e21df07411fc727815287f48524c392546",
+      "status": "exclude",
+      "reason": "성막 티끌 물을 만드는 과정은 실제 사실 판별의 일상 도구로 옮길 수 없다",
+      "contextNote": "쓴 물의 재료",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:5:18",
+      "textSha256": "f9cb1833e7090b93492aa86717e4ec0a8da89a21929628d929f49ea4831b8534",
+      "status": "exclude",
+      "reason": "여인의 머리와 저주 물의 긴 의식은 현재 불확실한 관계 판단과 다르다",
+      "contextNote": "의심 의식의 자세와 도구",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:5:19",
+      "textSha256": "f0fe42858fc62f8b525d059c6e572cf1a5d16d30709f44449a03fc7a607a3454",
+      "status": "exclude",
+      "reason": "간통 안 했으면 물의 해독 면제라는 조건은 실제 건강과 결백 확인의 근거가 아니다",
+      "contextNote": "결백에 관한 맹세문",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:5:20",
+      "textSha256": "1ca7f292d8d8704458c6541c443658e377d34ee2d82bd3b83b721ec0eaeb4de4",
+      "status": "exclude",
+      "reason": "남편 아닌 사람과 동침한 미완 조건은 현재 입력에 없는 성관계 사실이다",
+      "contextNote": "유죄일 때 맹세의 전제",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:5:21",
+      "textSha256": "d5f6373222dcb41c745e1fe80eb0e760be65103ce6e86b49509d3883428782d1",
+      "status": "exclude",
+      "reason": "배와 다리의 저주는 고백이나 소문 확인을 위한 자연스러운 선택 실마리가 아니다",
+      "contextNote": "의심 의식의 저주문",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:5:22",
+      "textSha256": "8b20bd93b238db115117d2db2b857a93d22fd495d736fbe0d5b844573be7aa6b",
+      "status": "exclude",
+      "reason": "물을 통한 신체 저주와 동의의 의식은 상대 마음을 확인할 현실 방법이 아니다",
+      "contextNote": "여인의 저주 수락 절차",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:5:23",
+      "textSha256": "8931d8faa4c2edc61797f4caf14e1cb9a6beb97e85e796cb64428e21f4ed036e",
+      "status": "exclude",
+      "reason": "저주 글자를 물에 푸는 동작은 기록이나 피드백 활용의 뜻으로 바로 읽을 수 없다",
+      "contextNote": "저주 글의 물 처리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:5:24",
+      "textSha256": "ec6aca6e1662085b11c4ecaf11fdd5d0f2fb2c943d6f869fa88d586b5093a157",
+      "status": "exclude",
+      "reason": "쓴 물을 강제로 마시게 함은 사람을 시험하거나 진심을 알아볼 생활 처방이 아니다",
+      "contextNote": "저주 물의 섭취",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:5:25",
+      "textSha256": "46b5af72a2ac4ed03eb64a2921fb7c401a9c6732fb99fff731e3a26ae7f5e123",
+      "status": "exclude",
+      "reason": "소제물을 취해 흔드는 의식은 신뢰를 회복할 대화 방법이 아니다",
+      "contextNote": "의심 제물의 요제",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:5:26",
+      "textSha256": "0a06cdf00ac4c5475f10941f6954297099af5639183e0dc2fa17c1b94a5c8a55",
+      "status": "exclude",
+      "reason": "제물을 태운 후 물을 먹이는 순서는 실제 상대의 사실을 검증하는 기준이 아니다",
+      "contextNote": "의심 제사의 집행",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:5:27",
+      "textSha256": "500d1c10b7f46aa83340f147da54a254c62f118d8637a1f4e8fe108aefd84d92",
+      "status": "exclude",
+      "reason": "간통과 신체 고통의 연결은 현재 미확인 죄나 치료 결과를 판단할 정보가 아니다",
+      "contextNote": "유죄일 경우 의식 결과의 선언",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:5:28",
+      "textSha256": "6de5413ff0f1710892008062b6acb881286de92da5caeb0dd999bd2dd58f0c5f",
+      "status": "exclude",
+      "reason": "해 안 받고 잉태할 조건은 실제 치료나 상대 결백이 확정된다는 약속이 아니다",
+      "contextNote": "결백한 아내의 결과 선언",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:5:29",
+      "textSha256": "0383682078ef7a8767a94197d4c7f1205b7043dd031ce6722dc04e974fbf8c90",
+      "status": "exclude",
+      "reason": "아내 간통의 의심 법 요약은 독립 판단이 미완이다",
+      "contextNote": "의심 법 적용의 첫 조건",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:5:30",
+      "textSha256": "6b13816d5fcea3ef81590c136a868e5483b39bcfdd5cde20740428246333bb0f",
+      "status": "exclude",
+      "reason": "의심만으로 여인을 의식에 세우는 방식은 단순 답장 지연의 대응에 옮길 수 없다",
+      "contextNote": "의심 발생 시 법의 실행",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:5:31",
+      "textSha256": "30d656ebc4721d1ef87701af4b201c2c470c01fe88e656e229990edf5a24b64b",
+      "status": "exclude",
+      "reason": "남편 무죄와 아내 책임의 선언은 현재 미확인 친구의 마음이나 성품을 정할 수 없다",
+      "contextNote": "의심 법의 책임 정리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:6:1",
+      "textSha256": "1213bc72e4be9e9f17f4b9129e3f0d4cbde2d4cf24000ea629c6671d78ca8075",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 생활 선택의 내용이 없다",
+      "contextNote": "나실인 서원 규정 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:6:2",
+      "textSha256": "e12fd776217d9cae9970c8d0e704821e546610671fe3c0279afb5319f9a0d91c",
+      "status": "hold",
+      "reason": "H054의 자발적 약속의 무게는 있으나 몸 구별의 나실인 도입이라 구체 이행은 다음 절들에 있다",
+      "contextNote": "나실인 서원의 전제",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:6:3",
+      "textSha256": "02305b95805c4a942ab8e665544bb68033eff8856050a8d74b75aa4330e65518",
+      "status": "exclude",
+      "reason": "포도와 술의 전면 금지는 현재 게임과 내일 일정의 절제 판단과 다른 서원 조건이다",
+      "contextNote": "나실인의 포도 제품 금지",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:6:4",
+      "textSha256": "6528170a7a3b5f51e426e40cd4dcd3a9b1c2b56e9304f5f885516f228ff8843c",
+      "status": "exclude",
+      "reason": "씨 껍질까지 금하는 식단은 일반 지출 절제나 구매 보류의 기준이 아니다",
+      "contextNote": "나실인 음식 금령의 범위",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:6:5",
+      "textSha256": "33d5324463f2a88c6e04b83ed433c894298c3d44eb8063871453aaf69d2ef79d",
+      "status": "exclude",
+      "reason": "머리털을 기르는 서원 의식은 자연 탈모의 부끄러움이나 새 역할의 준비 기준이 아니다",
+      "contextNote": "나실인 머리 규정",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:6:6",
+      "textSha256": "84f4be4abbc5e9233b770551a7d86de1c0f2ef3c378c9c6a944c06a8cf2636db",
+      "status": "exclude",
+      "reason": "모든 시신을 피하는 규정은 일반 부모 방문이나 도움 요청을 막을 기준이 아니다",
+      "contextNote": "나실인 시체 접촉 금지",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:6:7",
+      "textSha256": "b689ac632bea13293ef697293289d5a5fc911c82af8eb89cf39d67c2009ca98a",
+      "status": "exclude",
+      "reason": "가족 사망에도 접촉 못 하는 의식은 보통 가족 공경의 선택과 조건이 다르다",
+      "contextNote": "가족 시신 접촉의 예외 부재",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:6:8",
+      "textSha256": "190bce7b80ca7314d342de0639d52261a64853df671c105ce07d34b7befea4f8",
+      "status": "hold",
+      "reason": "H064의 정한 가치를 지킴은 비추나 구별한 기간의 거룩함 선언만으로 진로 부담은 약하다",
+      "contextNote": "나실인 기간의 거룩한 지위",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:6:9",
+      "textSha256": "8c0e2e9f745c599903bbd294015a9133931908ccfa23b254c75c42ee155fe773",
+      "status": "exclude",
+      "reason": "곁의 죽음으로 머리를 미는 일은 일반 실수 뒤 전부 다시 할 기준이 아니다",
+      "contextNote": "우발적 시체 접촉 뒤 정결",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:6:10",
+      "textSha256": "ad40a88af8ae04474a139a1e320424c573f20b12df0eea4c37bfea5e597a88fd",
+      "status": "exclude",
+      "reason": "팔 일 새 제물은 현재 사과나 소박한 선물의 필요를 정하지 않는다",
+      "contextNote": "부정된 나실인의 정결 예물",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:6:11",
+      "textSha256": "7688a08fb9ac2ce116d0c48fa71b41790bfc3209ec2dcae4cb077afdcbd2fe5d",
+      "status": "exclude",
+      "reason": "시체 때문에 얻은 죄 속함은 현재 건강이나 친구 접촉의 원인에 덧붙일 수 없다",
+      "contextNote": "나실인의 속죄와 머리 성별",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:6:12",
+      "textSha256": "ccc9ca656ef5ad8ed09dca4ae28cdc252ea3e1623eefb25fe61506cb65d62186",
+      "status": "hold",
+      "reason": "H048의 새 출발은 비추나 지나간 날을 무효로 하는 의식 조건을 현재 작업의 전부 무가치함으로 옮길 수 없다",
+      "contextNote": "나실 기간의 초기화",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:6:13",
+      "textSha256": "ece97f99fca4ff333f9838b2c2f7609a528921eb85945805088190114000e244",
+      "status": "exclude",
+      "reason": "나실 기한 종료 때 회막에 가는 지시는 실제 내 약속이나 행사의 기한이 아니다",
+      "contextNote": "나실인 완료 의식 도입",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:6:14",
+      "textSha256": "77b10b3f47b323eb2179b8178f2be04bcecdd855ea126b0f515f922e9a127bf3",
+      "status": "exclude",
+      "reason": "세 종류 양의 예물은 일상 선물의 크기나 지출 여력을 알려 주지 않는다",
+      "contextNote": "나실 기한 종료 제물",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:6:15",
+      "textSha256": "35d058b11ccd849aa3ae16bd822a31cc765ecacd9d628d80495228bb0d252e23",
+      "status": "exclude",
+      "reason": "무교 음식과 소제 전제의 목록은 실제 소비 선택의 효용을 다루지 않는다",
+      "contextNote": "나실인 완료 음식 제물",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:6:16",
+      "textSha256": "5df160ab9142bb41def8a97af3a7992a0ec5c5955b81c891504600b292a88c34",
+      "status": "exclude",
+      "reason": "속죄제와 번제 집행은 일반 관계 사과의 방법과 다르다",
+      "contextNote": "나실인 완료 제사 시작",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:6:17",
+      "textSha256": "54f13b32106e9d758a7655770f58bfb42340c1f6b508210dfe961cbde504a25c",
+      "status": "exclude",
+      "reason": "수양과 무교병의 제사는 지금 의무를 마친 뒤 즐길 활동의 기준이 아니다",
+      "contextNote": "나실인 완료 화목제",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:6:18",
+      "textSha256": "e2ac6fcc09e2a731227fb5799b6c5ffd438b26434e81fb342ff02d6fb9165c48",
+      "status": "exclude",
+      "reason": "민 머리털을 제사 불에 두는 의식은 지나간 생각을 정리할 자연스러운 방법이 아니다",
+      "contextNote": "나실인의 완료 면도",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:6:19",
+      "textSha256": "cb1a6f4c3d4bf47312ae7d7109f00b1a4fc569ed67fbc05eced38d3092541e74",
+      "status": "exclude",
+      "reason": "수양 어깨와 두 음식의 손 배치는 도움 요청이나 보수의 충분함과 다르다",
+      "contextNote": "나실인 완료 제물 배치",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:6:20",
+      "textSha256": "ec3dea5edc79ec1cf94c455bc6501a2ed4318ca9733dc1f927a4e6e76b6ae13f",
+      "status": "hold",
+      "reason": "A006의 제사장 몫과 H004의 다시 누림은 있으나 요제 부위와 포도주 해금 조건이 너무 복합적이다",
+      "contextNote": "나실 제사 분깃과 금주 해제",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:6:21",
+      "textSha256": "a12a711a725e2185eec43ae00b50b36740297a13f6d3c494c6f4f713447fdede",
+      "status": "hold",
+      "reason": "H007의 형편에 맞춤과 H054의 약속 유지가 함께 있으나 나실인 몸 구별 요약이 길어 현재 선물 선택은 간접적이다",
+      "contextNote": "나실인의 서원 이행과 여력 범위",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:6:22",
+      "textSha256": "1213bc72e4be9e9f17f4b9129e3f0d4cbde2d4cf24000ea629c6671d78ca8075",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 독립 생활 판단이 없다",
+      "contextNote": "제사장 축복문 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:6:23",
+      "textSha256": "a48282026b474b39dff87b1dbaafd3f3496a3f3c2e217f4bd89b137dd5cf6cee",
+      "status": "exclude",
+      "reason": "이렇게 축복하라는 도입만으로 구체 선택의 실마리는 미완이다",
+      "contextNote": "축복문의 전달 지시",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:6:24",
+      "textSha256": "be39a8c97fe4ac5951e6b160b3772e8413aa82d1fadf4d3a4f8bca334a456f10",
+      "status": "hold",
+      "reason": "H017의 보호 위로는 있으나 갈지의 실마리보다 일반 축복이며 행사 안전을 확정할 수 없다",
+      "contextNote": "보호와 복을 구하는 축복",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:6:25",
+      "textSha256": "451c90f6aa71fd23233f78b40ec3e3779a1b74a81dff1d0e1d6764e477c84612",
+      "status": "hold",
+      "reason": "G10의 은혜 위로는 있으나 신적 얼굴의 은혜는 상대 사과 수락과 같은 사실이 아니며 첫 행동 단서는 약하다",
+      "contextNote": "얼굴 빛과 은혜의 축복",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:6:26",
+      "textSha256": "3a93abd1411045ec060b58b925fe2c8229ea2becbaf117e34a8fc5a73ac0fb54",
+      "status": "hold",
+      "reason": "H031의 평화를 바라는 방향은 있으나 구체 갈등에 어떻게 반응할지보다 평강의 기원에 머문다",
+      "contextNote": "평강을 구하는 축복",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:6:27",
+      "textSha256": "338ee96cd06f6eac097027e433ff223fd81e9b8e8e891438de47d2d7b7cdfc7f",
+      "status": "hold",
+      "reason": "H041의 축복 위로는 있으나 이스라엘에 이름으로 복 주는 선언이 지금 역할 선택을 직접 가르지 않는다",
+      "contextNote": "제사장 축복의 확언",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:1",
+      "textSha256": "b0faf4577dc9de36c37bf22bcfc89fc8ebb1cece9ae18976e065678dfe330589",
+      "status": "exclude",
+      "reason": "단과 기물 성별 완료의 시간 배경은 현재 남은 작업을 마칠지의 기준이 약하다",
+      "contextNote": "성막 봉헌 시점 소개",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:2",
+      "textSha256": "212137d07ab3a36887fef484d7867d7499abb1ed53b326a91114368aeee0f34e",
+      "status": "hold",
+      "reason": "H059의 지도자들도 보탬은 비추나 계보 직위 소개가 길고 여력의 나눔 이유는 간접적이다",
+      "contextNote": "족장들의 봉헌 예물 도입",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:3",
+      "textSha256": "df64f8bd16ff36aac387ca6ea8ad3ba75a7dda2874093a99c9efe643b6811cef",
+      "status": "hold",
+      "reason": "H059의 함께 마련함은 있으나 수레 소 수량과 지도자별 부담은 현재 소액 도움의 액수를 정하지 않는다",
+      "contextNote": "족장들의 수레와 소 예물",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:4",
+      "textSha256": "1213bc72e4be9e9f17f4b9129e3f0d4cbde2d4cf24000ea629c6671d78ca8075",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 생활 선택의 내용이 없다",
+      "contextNote": "운반 기구 분배 지시 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:5",
+      "textSha256": "a250f346649ef0482f7bde0487d1805865be6123bd6b8a827b3210418bfe1eda",
+      "status": "candidate",
+      "reason": "받은 물건을 각기 맡은 일에 쓰게 하라는 말이 똑같은 수보다 필요별 배분의 실마리다",
+      "contextNote": "수레와 소를 레위 직임에 따라 쓰게 함",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A029",
+          "clue": "물건을 맡은 일에 맞춰 쓰게 한다는 말에서 같은 수보다 필요한 용도를 살필 수 있다.",
+          "friction": "앞 절들의 수레와 소를 받아 레위인에게 주는 문맥이며 장비 종류는 이 절만으로 이름 나오지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NUM:7:6",
+      "textSha256": "c92f880288b63591cd15823ec91c835255f00c4e9c60c94c4eae1e318102d671",
+      "status": "exclude",
+      "reason": "수레와 소를 전달한 동작만으로 분배할 기준을 알 수 없다",
+      "contextNote": "모세가 운반 예물을 수령 분배함",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:7",
+      "textSha256": "23bc5813ca700bb8f5ef46724a1ea962f39c11fa2a2529e23f751a0ddf6657c0",
+      "status": "candidate",
+      "reason": "직임에 맞춰 수레와 소의 수를 정한 모습에서 역할별 필요를 기준 삼을 실마리를 읽는다",
+      "contextNote": "게르손에게 수레 둘 소 넷 배정",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A029",
+          "clue": "수레 둘과 소 넷을 직임에 맞춰 준 모습에서 동일 배분보다 업무 필요에 맞추는 실마리가 읽힌다.",
+          "friction": "게르손의 성막 운반 장비이다. 현재 부서의 구체 장비 수를 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NUM:7:8",
+      "textSha256": "91f97fd8f5a453b1508bafb581e9ee699900d65751b19c88d339a83910d89d6c",
+      "status": "candidate",
+      "reason": "맡은 일에 따라 다르게 주는 모습에서 같은 개수보다 실제 용도를 살필 실마리가 있다",
+      "contextNote": "므라리에게 수레 넷 소 여덟 배정",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A029",
+          "clue": "직임에 따라 다른 수량을 준 문장에서 역할의 필요를 배분 기준으로 읽는다.",
+          "friction": "므라리와 감독자의 이름이 있고 다음 절과 대비된다. 어떤 팀이 더 중요하다는 평가로 바꾸지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NUM:7:9",
+      "textSha256": "fc4204fd7bdc2a5abe1f980fe5d9edc1a76710688697757e89a4bb1a0b3780e5",
+      "status": "hold",
+      "reason": "A029의 필요에 맞는 배분은 있지만 어깨로 멜 성물이라 수레를 안 주는 의식 이유를 일반 편의 기준으로 단정할 수 없다",
+      "contextNote": "고핫에게 수레를 주지 않은 이유",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:10",
+      "textSha256": "7c515a79cdf5f0370268cbe63328593f61d8499a7dbb1b777ed469114121407c",
+      "status": "exclude",
+      "reason": "단 봉헌 때 예물을 드린 시점은 지금 감사의 크기나 필요의 기준이 아니다",
+      "contextNote": "족장들의 단 봉헌 제물",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:11",
+      "textSha256": "917bd746b3e440c3287b2ab7acadeb6766a23e786376e316a5f36705ed8bf76a",
+      "status": "hold",
+      "reason": "A009의 순서 있게 처리함은 비추나 하루 한 족장 봉헌은 현재 업무 분담과 다른 행사 일정이다",
+      "contextNote": "하루 한 족장의 봉헌 순서",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:12",
+      "textSha256": "cbb19afd367763f582960e48913305d63084da185b1dd929d0853cdb0f60581e",
+      "status": "exclude",
+      "reason": "첫날 나손의 계보는 지금 내 역할이나 우선순위의 기준이 아니다",
+      "contextNote": "유다 족장의 봉헌 순서",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:13",
+      "textSha256": "aa919a71a725555d33f45d7c410bb8b229462da88e2f0989e3cdeb4b7a72f638",
+      "status": "exclude",
+      "reason": "은 그릇 중량과 가루 제물은 실제 선물 가격이나 자원 여력을 정하지 않는다",
+      "contextNote": "나손의 은 그릇 예물",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:14",
+      "textSha256": "c975769fe01667e56695f7ab428bb6cbd1494e37825496323a78186143a65526",
+      "status": "exclude",
+      "reason": "금 숟가락의 무게와 향은 비싼 선물의 필요나 정성의 근거가 아니다",
+      "contextNote": "나손의 금 숟가락 예물",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:15",
+      "textSha256": "5fb31a57515e7c9ed28de9846bdd3513a5f59b1a05ef9d578c046e1ac613538a",
+      "status": "exclude",
+      "reason": "번제 가축 세 종류는 보통 돈과 시간 선택의 부담을 다루지 않는다",
+      "contextNote": "나손의 번제 제물",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:16",
+      "textSha256": "72816b2a0afc8930015c4988aaa2f9810974afd6d205b8ad26d7dea4ffd4e5db",
+      "status": "exclude",
+      "reason": "속죄 수염소 하나는 현재 사과나 선물의 실마리에 제사 풀이가 필요하다",
+      "contextNote": "나손의 속죄 제물",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:17",
+      "textSha256": "7c558365adb1cd792ac1b5002e9b87a72a83e19863140908b44a327f25b5db85",
+      "status": "exclude",
+      "reason": "화목 가축 수량과 계보는 친구 화해의 방법이나 도움 크기를 말하지 않는다",
+      "contextNote": "나손의 화목 제물과 봉헌 정리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:18",
+      "textSha256": "7217daf73202f89d357bd401b3549da8828cca29a9cbd5101261ebfae90f0b46",
+      "status": "exclude",
+      "reason": "둘째 날 느다넬 계보는 현재 모임이나 기회 순서의 기준이 아니다",
+      "contextNote": "잇사갈 족장의 봉헌 순서",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:19",
+      "textSha256": "87cba64c6b2a63b6224e023c18015401bede85189cb1862f2e97714c61e4d1f3",
+      "status": "exclude",
+      "reason": "느다넬 은 그릇과 가루의 중량은 현재 소박한 선물의 적정액이 아니다",
+      "contextNote": "느다넬의 은 그릇 예물",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:20",
+      "textSha256": "c975769fe01667e56695f7ab428bb6cbd1494e37825496323a78186143a65526",
+      "status": "exclude",
+      "reason": "금 숟가락과 향의 무게는 소비의 양쪽 부담을 다루지 않는다",
+      "contextNote": "느다넬의 금 숟가락 예물",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:21",
+      "textSha256": "5fb31a57515e7c9ed28de9846bdd3513a5f59b1a05ef9d578c046e1ac613538a",
+      "status": "exclude",
+      "reason": "수소 수양 어린양의 목록은 생활 선택에 필요한 역할과 효용이 없다",
+      "contextNote": "느다넬의 번제 제물",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:22",
+      "textSha256": "72816b2a0afc8930015c4988aaa2f9810974afd6d205b8ad26d7dea4ffd4e5db",
+      "status": "exclude",
+      "reason": "수염소의 속죄 제사 한 항목은 일상 관계 사과의 실마리가 아니다",
+      "contextNote": "느다넬의 속죄 제물",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:23",
+      "textSha256": "9a45c538b2a17049c09a4512cc8b3d3757f1672958b7a66040f77f2a9365d98a",
+      "status": "exclude",
+      "reason": "여러 가축 수량과 족장의 이름은 현재 나눌 몫이나 선물의 기준이 없다",
+      "contextNote": "느다넬의 화목 제물과 봉헌 정리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:24",
+      "textSha256": "6ba4a064b345cf4b95b74f46c6e5680c8015a061857eef6a9e23f4c32036e5ac",
+      "status": "exclude",
+      "reason": "셋째 날 엘리압의 계보는 지금 내 업무 우선순위를 정하지 않는다",
+      "contextNote": "스불론 족장의 봉헌 순서",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:25",
+      "textSha256": "7cb91824b1de8302c22452295d7446e15a27138efc1641720515221efbe2ee55",
+      "status": "exclude",
+      "reason": "엘리압의 은 그릇과 가루 중량은 현재 선물의 크기나 실제 여력을 말하지 않는다",
+      "contextNote": "엘리압의 은 그릇 예물",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:26",
+      "textSha256": "0cecf173bea03d9140da3d576ec114b4a7bf7632949d7a133ff7054ba1de4fff",
+      "status": "exclude",
+      "reason": "금 숟가락과 향의 무게는 일상 구매 필요의 기준이 아니다",
+      "contextNote": "엘리압의 금 숟가락",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:27",
+      "textSha256": "5fb31a57515e7c9ed28de9846bdd3513a5f59b1a05ef9d578c046e1ac613538a",
+      "status": "exclude",
+      "reason": "세 번제 가축의 목록은 현재 돈과 시간의 양쪽 부담을 다루지 않는다",
+      "contextNote": "엘리압의 번제 가축",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:28",
+      "textSha256": "72816b2a0afc8930015c4988aaa2f9810974afd6d205b8ad26d7dea4ffd4e5db",
+      "status": "exclude",
+      "reason": "속죄 수염소 하나는 지금 사과나 작은 도움에 바로 연결할 이유가 없다",
+      "contextNote": "엘리압의 속죄 가축",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:29",
+      "textSha256": "2eccb1f21ae07b43697d06b454a5987e782c39e98738dcf91a89a515ad0c29b4",
+      "status": "exclude",
+      "reason": "화목 가축의 수와 족장 계보는 현대 화해의 방법이나 선물액을 정하지 않는다",
+      "contextNote": "엘리압의 화목 제물과 정리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:30",
+      "textSha256": "51bf32ee8aa67b1207149d369a574f8af49c3298fc3197812888e77ca6f48b85",
+      "status": "exclude",
+      "reason": "넷째 날 엘리술 계보는 현재 우선할 일정이나 역할을 정할 근거가 아니다",
+      "contextNote": "르우벤 족장의 봉헌 순서",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:31",
+      "textSha256": "7cb91824b1de8302c22452295d7446e15a27138efc1641720515221efbe2ee55",
+      "status": "exclude",
+      "reason": "엘리술의 은 그릇과 가루 분량은 현재 선물 예산을 말하지 않는다",
+      "contextNote": "엘리술의 은 그릇",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:32",
+      "textSha256": "8a861e866aa10fc23c92135ffea976b467e0276fbd3f9a176ed41d6c3169bd4a",
+      "status": "exclude",
+      "reason": "향 담은 십 세겔 금 숟가락은 비싼 선물의 필요를 설명하지 않는다",
+      "contextNote": "엘리술의 금 숟가락",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:33",
+      "textSha256": "5fb31a57515e7c9ed28de9846bdd3513a5f59b1a05ef9d578c046e1ac613538a",
+      "status": "exclude",
+      "reason": "수송아지 수양 어린양 목록은 내 지금 선택의 이유가 없다",
+      "contextNote": "엘리술의 번제 가축",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:34",
+      "textSha256": "72816b2a0afc8930015c4988aaa2f9810974afd6d205b8ad26d7dea4ffd4e5db",
+      "status": "exclude",
+      "reason": "수염소 속죄 한 항목은 현재 죄책감의 사과 방법을 직접 주지 않는다",
+      "contextNote": "엘리술의 속죄 가축",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:35",
+      "textSha256": "0feeb2c18eed5c53fe84aed89966b0864746a5d3717864a640fc1a3d9d67514b",
+      "status": "exclude",
+      "reason": "화목 가축 수와 부자 이름은 일상 나눔의 충분량 판단과 다르다",
+      "contextNote": "엘리술의 화목 제물과 정리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:36",
+      "textSha256": "a8071309c9b2b93792634fbc3d4b63792b7821724a230035c85512f53ea3e13c",
+      "status": "exclude",
+      "reason": "다섯째 날 슬루미엘 계보는 현재 모임 참여나 먼저 할 일의 기준이 아니다",
+      "contextNote": "시므온 족장의 봉헌 순서",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:37",
+      "textSha256": "7cb91824b1de8302c22452295d7446e15a27138efc1641720515221efbe2ee55",
+      "status": "exclude",
+      "reason": "은반 은바리의 무게와 가루는 내 실제 지출 여력에 대한 자료가 아니다",
+      "contextNote": "슬루미엘의 은 그릇",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:38",
+      "textSha256": "8a861e866aa10fc23c92135ffea976b467e0276fbd3f9a176ed41d6c3169bd4a",
+      "status": "exclude",
+      "reason": "금 숟가락의 향과 중량은 지금 필요와 정성을 가를 이유가 없다",
+      "contextNote": "슬루미엘의 금 숟가락",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:39",
+      "textSha256": "5fb31a57515e7c9ed28de9846bdd3513a5f59b1a05ef9d578c046e1ac613538a",
+      "status": "exclude",
+      "reason": "세 번제 동물 종류는 생활 선택의 부담에 관련한 정보를 주지 않는다",
+      "contextNote": "슬루미엘의 번제 가축",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:40",
+      "textSha256": "72816b2a0afc8930015c4988aaa2f9810974afd6d205b8ad26d7dea4ffd4e5db",
+      "status": "exclude",
+      "reason": "수염소 속죄의 수량은 일반 관계 사과의 충분함을 정하지 않는다",
+      "contextNote": "슬루미엘의 속죄 가축",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:41",
+      "textSha256": "30d0012c4137da1ce14a5d6ad9ebefc0ed8f1deb35b430339ddc1b12fb4d609e",
+      "status": "exclude",
+      "reason": "여러 화목 가축과 계보는 친구의 수락이나 도움 효과를 알려 주지 않는다",
+      "contextNote": "슬루미엘의 화목 제물과 정리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:42",
+      "textSha256": "8cd2c7276905e53eb9c704a76ccc3962766b0dd5cb91cff753973cbcd0f98099",
+      "status": "exclude",
+      "reason": "여섯째 날 엘리아삽의 지명은 지금 내 기회의 시점과 다르다",
+      "contextNote": "갓 족장의 봉헌 순서",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:43",
+      "textSha256": "7cb91824b1de8302c22452295d7446e15a27138efc1641720515221efbe2ee55",
+      "status": "exclude",
+      "reason": "엘리아삽의 은 그릇과 가루는 실제 필요한 선물의 비용 기준이 아니다",
+      "contextNote": "엘리아삽의 은 그릇",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:44",
+      "textSha256": "8a861e866aa10fc23c92135ffea976b467e0276fbd3f9a176ed41d6c3169bd4a",
+      "status": "exclude",
+      "reason": "향과 금 숟가락의 무게는 소비 선택의 효용을 알려 주지 않는다",
+      "contextNote": "엘리아삽의 금 숟가락",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:45",
+      "textSha256": "5fb31a57515e7c9ed28de9846bdd3513a5f59b1a05ef9d578c046e1ac613538a",
+      "status": "exclude",
+      "reason": "수소 수양 어린양 제사는 현재 여가와 업무의 부담을 다루지 않는다",
+      "contextNote": "엘리아삽의 번제 가축",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:46",
+      "textSha256": "72816b2a0afc8930015c4988aaa2f9810974afd6d205b8ad26d7dea4ffd4e5db",
+      "status": "exclude",
+      "reason": "수염소의 속죄는 친구에게 먼저 말할지의 실마리 전에 의식 풀이가 필요하다",
+      "contextNote": "엘리아삽의 속죄 가축",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:47",
+      "textSha256": "436055bc51b0612fb294c590d400510112a8129caf69c3dc14c7a3a617270dd1",
+      "status": "exclude",
+      "reason": "화목제 가축의 수량은 얼마만큼 도움을 줘야 할지의 현실 정보가 아니다",
+      "contextNote": "엘리아삽의 화목 제물과 정리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:48",
+      "textSha256": "8b5a897350cefc86e906a5a4118c292a8df564278a8a1edb32422c9a0d7e56ec",
+      "status": "exclude",
+      "reason": "일곱째 날 엘리사마 계보는 현재 남보다 빠르거나 늦는 가치 판단이 아니다",
+      "contextNote": "에브라임 족장의 봉헌 순서",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:49",
+      "textSha256": "7cb91824b1de8302c22452295d7446e15a27138efc1641720515221efbe2ee55",
+      "status": "exclude",
+      "reason": "은 그릇과 가루의 중량은 현재 비싼 선물 죄책감의 이유를 다루지 않는다",
+      "contextNote": "엘리사마의 은 그릇",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:50",
+      "textSha256": "8a861e866aa10fc23c92135ffea976b467e0276fbd3f9a176ed41d6c3169bd4a",
+      "status": "exclude",
+      "reason": "금 숟가락과 향은 물건을 더 가져야 할 필요를 말하지 않는다",
+      "contextNote": "엘리사마의 금 숟가락",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:51",
+      "textSha256": "5fb31a57515e7c9ed28de9846bdd3513a5f59b1a05ef9d578c046e1ac613538a",
+      "status": "exclude",
+      "reason": "세 가축의 번제 목록은 지금 내 시간과 돈을 정할 수치가 아니다",
+      "contextNote": "엘리사마의 번제 가축",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:52",
+      "textSha256": "72816b2a0afc8930015c4988aaa2f9810974afd6d205b8ad26d7dea4ffd4e5db",
+      "status": "exclude",
+      "reason": "속죄 염소 하나는 사람의 사과 수락을 알려 주지 않는다",
+      "contextNote": "엘리사마의 속죄 가축",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:53",
+      "textSha256": "b56e249cdb748e1da77bb968a82f09f3201e4136ff3e7f3476d9ff23ceaf17de",
+      "status": "exclude",
+      "reason": "화목제 가축과 계보는 보통 선물과 도움의 분량 기준이 아니다",
+      "contextNote": "엘리사마의 화목 제물과 정리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:54",
+      "textSha256": "1ea4f6a024b677ea578aed90296786bc81447afc3a9f0f142aeff65136abc8a4",
+      "status": "exclude",
+      "reason": "여덟째 날 가말리엘의 지명은 현재 업무 우선순위나 기회와 직접 닿지 않는다",
+      "contextNote": "므낫세 족장의 봉헌 순서",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:55",
+      "textSha256": "7cb91824b1de8302c22452295d7446e15a27138efc1641720515221efbe2ee55",
+      "status": "exclude",
+      "reason": "가말리엘 은 그릇의 중량과 가루는 현재 실제 예산의 조건이 아니다",
+      "contextNote": "가말리엘의 은 그릇",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:56",
+      "textSha256": "8a861e866aa10fc23c92135ffea976b467e0276fbd3f9a176ed41d6c3169bd4a",
+      "status": "exclude",
+      "reason": "십 세겔 금 숟가락은 고가 물건의 효용과 필요를 설명하지 않는다",
+      "contextNote": "가말리엘의 금 숟가락",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:57",
+      "textSha256": "5fb31a57515e7c9ed28de9846bdd3513a5f59b1a05ef9d578c046e1ac613538a",
+      "status": "exclude",
+      "reason": "수소 수양 어린양의 제물은 지금 역할 분담의 이유를 주지 않는다",
+      "contextNote": "가말리엘의 번제 가축",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:58",
+      "textSha256": "72816b2a0afc8930015c4988aaa2f9810974afd6d205b8ad26d7dea4ffd4e5db",
+      "status": "exclude",
+      "reason": "수염소 속죄만으로 현재 잘못 뒤 고칠 행동의 방향이 생기지 않는다",
+      "contextNote": "가말리엘의 속죄 가축",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:59",
+      "textSha256": "b62e1b370f2837880e73364dabdb783a7c2f8f34552ddbdde13481fda1f9d5d8",
+      "status": "exclude",
+      "reason": "여러 화목 희생 가축 수와 계보는 현재 관계 화목의 방법을 정하지 않는다",
+      "contextNote": "가말리엘의 화목 제물과 정리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:60",
+      "textSha256": "a1ea3a33cb98af55bbcc0bd2bc3273f1e4c007793439a2d358f0257683810fbc",
+      "status": "exclude",
+      "reason": "아홉째 날 아비단 계보는 내 새로운 일의 적합성 정보가 아니다",
+      "contextNote": "베냐민 족장의 봉헌 순서",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:61",
+      "textSha256": "7cb91824b1de8302c22452295d7446e15a27138efc1641720515221efbe2ee55",
+      "status": "exclude",
+      "reason": "은반과 은바리 가루 예물은 실제 물건 구매 필요의 기준과 다르다",
+      "contextNote": "아비단의 은 그릇",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:62",
+      "textSha256": "8a861e866aa10fc23c92135ffea976b467e0276fbd3f9a176ed41d6c3169bd4a",
+      "status": "exclude",
+      "reason": "금 숟가락의 향은 선물 크기보다 마음이 중요하다는 이유를 직접 주지 않는다",
+      "contextNote": "아비단의 금 숟가락",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:63",
+      "textSha256": "5fb31a57515e7c9ed28de9846bdd3513a5f59b1a05ef9d578c046e1ac613538a",
+      "status": "exclude",
+      "reason": "번제 동물 목록은 현재 미완 일과 즐거움 사이 부담을 다루지 않는다",
+      "contextNote": "아비단의 번제 가축",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:64",
+      "textSha256": "72816b2a0afc8930015c4988aaa2f9810974afd6d205b8ad26d7dea4ffd4e5db",
+      "status": "exclude",
+      "reason": "속죄 수염소는 일반 사과나 수리비에 관한 선택 기준이 아니다",
+      "contextNote": "아비단의 속죄 가축",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:65",
+      "textSha256": "9a52e66aa3bb6055ea2f7a4f9e171893564da8f8f661114297d3d862801a9890",
+      "status": "exclude",
+      "reason": "화목제 동물 수량은 친구에게 도움이나 감사를 전할 충분한 양을 알려 주지 않는다",
+      "contextNote": "아비단의 화목 제물과 정리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:66",
+      "textSha256": "2ce1c495e5d7b735632142aef7fd5031f9eaa943a2cf1808c72882209b9c6268",
+      "status": "exclude",
+      "reason": "열째 날 아히에셀 지명은 실제 내 기한이나 역할을 정할 기준이 아니다",
+      "contextNote": "단 족장의 봉헌 순서",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:67",
+      "textSha256": "7cb91824b1de8302c22452295d7446e15a27138efc1641720515221efbe2ee55",
+      "status": "exclude",
+      "reason": "은 그릇 무게와 소제물은 작은 선물의 적정액을 판정할 정보가 아니다",
+      "contextNote": "아히에셀의 은 그릇",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:68",
+      "textSha256": "8a861e866aa10fc23c92135ffea976b467e0276fbd3f9a176ed41d6c3169bd4a",
+      "status": "exclude",
+      "reason": "금 숟가락의 무게는 현재 과소비나 소박함을 가를 이유가 없다",
+      "contextNote": "아히에셀의 금 숟가락",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:69",
+      "textSha256": "5fb31a57515e7c9ed28de9846bdd3513a5f59b1a05ef9d578c046e1ac613538a",
+      "status": "exclude",
+      "reason": "세 종류 번제물은 일상 선택의 양쪽 비용과 효용을 다루지 않는다",
+      "contextNote": "아히에셀의 번제 가축",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:70",
+      "textSha256": "72816b2a0afc8930015c4988aaa2f9810974afd6d205b8ad26d7dea4ffd4e5db",
+      "status": "exclude",
+      "reason": "수염소 속죄의 수량은 현재 죄책감이나 상대 수락의 정보가 아니다",
+      "contextNote": "아히에셀의 속죄 가축",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:71",
+      "textSha256": "d17c16c84273179d85490fff14c2ef59cab624a26f1d0feea114266902df59e4",
+      "status": "exclude",
+      "reason": "화목제 가축과 부자 계보는 새 모임이나 친구 관계의 선택 이유가 없다",
+      "contextNote": "아히에셀의 화목 제물과 정리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:72",
+      "textSha256": "a2d5c24758ced4016d367826a963e9a88bd8635fd3f90b108b43d32faccebc40",
+      "status": "exclude",
+      "reason": "열하루째 바기엘의 지명은 현재 나의 느린 진도에 대한 평가가 아니다",
+      "contextNote": "아셀 족장의 봉헌 순서",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:73",
+      "textSha256": "7cb91824b1de8302c22452295d7446e15a27138efc1641720515221efbe2ee55",
+      "status": "exclude",
+      "reason": "은 그릇에 가루를 채운 중량은 실제 내 형편이나 선물의 크기를 정하지 않는다",
+      "contextNote": "바기엘의 은 그릇",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:74",
+      "textSha256": "8a861e866aa10fc23c92135ffea976b467e0276fbd3f9a176ed41d6c3169bd4a",
+      "status": "exclude",
+      "reason": "향과 금 숟가락은 지금 아름다운 물건을 사도 될 근거를 주지 않는다",
+      "contextNote": "바기엘의 금 숟가락",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:75",
+      "textSha256": "5fb31a57515e7c9ed28de9846bdd3513a5f59b1a05ef9d578c046e1ac613538a",
+      "status": "exclude",
+      "reason": "번제 가축 세 마리는 현재 여력과 필요한 도움을 알려 주는 수치가 아니다",
+      "contextNote": "바기엘의 번제 가축",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:76",
+      "textSha256": "72816b2a0afc8930015c4988aaa2f9810974afd6d205b8ad26d7dea4ffd4e5db",
+      "status": "exclude",
+      "reason": "수염소의 속죄 의식은 일반 사과 행동이나 책임 배상의 방법과 다르다",
+      "contextNote": "바기엘의 속죄 가축",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:77",
+      "textSha256": "7cab450a5a8a0f02823bcef99db6e291cfdbee5ab4104ad4d358851821f0810f",
+      "status": "exclude",
+      "reason": "화목제 동물의 수량은 현재 큰 선물을 반드시 해야 한다는 기준이 아니다",
+      "contextNote": "바기엘의 화목 제물과 정리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:78",
+      "textSha256": "36a89f0c50483c2837ad9d919c5e7413fb7e2fcde0f1485cf77953f59743dcb8",
+      "status": "exclude",
+      "reason": "열이틀째 아히라의 지명은 개인이 끝까지 남았다는 가치나 적합성을 말하지 않는다",
+      "contextNote": "납달리 족장의 봉헌 순서",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:79",
+      "textSha256": "7cb91824b1de8302c22452295d7446e15a27138efc1641720515221efbe2ee55",
+      "status": "exclude",
+      "reason": "은 그릇과 가루 예물의 정량은 현재 선물이나 구매에 필요한 실제 금액이 아니다",
+      "contextNote": "아히라의 은 그릇",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:80",
+      "textSha256": "8a861e866aa10fc23c92135ffea976b467e0276fbd3f9a176ed41d6c3169bd4a",
+      "status": "exclude",
+      "reason": "금 숟가락과 향은 소비의 마음이나 비용 부담을 직접 다루지 않는다",
+      "contextNote": "아히라의 금 숟가락",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:81",
+      "textSha256": "5fb31a57515e7c9ed28de9846bdd3513a5f59b1a05ef9d578c046e1ac613538a",
+      "status": "exclude",
+      "reason": "번제 동물 목록은 현재 일상 선택의 이유를 주지 않는다",
+      "contextNote": "아히라의 번제 가축",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:82",
+      "textSha256": "72816b2a0afc8930015c4988aaa2f9810974afd6d205b8ad26d7dea4ffd4e5db",
+      "status": "exclude",
+      "reason": "속죄 수염소 한 마리는 현재 도움이나 사과의 적정량 기준이 아니다",
+      "contextNote": "아히라의 속죄 가축",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:83",
+      "textSha256": "ac794c7e9f6c12f4e1533d603a7b4fa095dfad3b2f0c4854d6bf74d7d50610c1",
+      "status": "exclude",
+      "reason": "화목제 동물과 계보의 마무리는 현재 관계 개선 결과를 예측하지 않는다",
+      "contextNote": "아히라의 화목 제물과 정리",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:84",
+      "textSha256": "775ded540f40da0a75647b2421b98aab5b79ba7f45ae31f3d0be3d34bf0b0ef2",
+      "status": "exclude",
+      "reason": "은 그릇 숟가락 열둘씩의 총계는 동료 보상 균등 분배의 이유가 아니라 봉헌 수량이다",
+      "contextNote": "족장 기물 예물의 총계",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:85",
+      "textSha256": "652c332a692b7edc81502475a66819dd5ea93de6624697723ed375db3ca6d0f0",
+      "status": "exclude",
+      "reason": "은의 무게 총 이천사백 세겔은 현재 가용 돈이나 선물 가격을 말하지 않는다",
+      "contextNote": "봉헌 은 기물의 중량 합계",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:86",
+      "textSha256": "79a0e54247e9e75b305dc3bc430027d89c2904e3916837e0703e11aab18d2bd5",
+      "status": "exclude",
+      "reason": "금 숟가락 합계 일백이십 세겔은 지금 비용을 얼마 쓸지의 기준이 아니다",
+      "contextNote": "봉헌 금 기물의 중량 합계",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:87",
+      "textSha256": "47976d65e1833c6ccccdad8f04a621bd2af826115562652a143dbd1bcf7b87e9",
+      "status": "exclude",
+      "reason": "번제와 속죄 가축 총수는 현재 나눌 일이나 돈의 분량을 정하지 않는다",
+      "contextNote": "봉헌 번제 속죄 가축 총계",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:88",
+      "textSha256": "336f6e9e8c86c23a0f84f55654b4e9edb2fde09ffd78acf1fbac39e62773bf8b",
+      "status": "exclude",
+      "reason": "화목 가축 총수와 봉헌 때는 일반적인 관계 화해의 방법과 비용이 아니다",
+      "contextNote": "봉헌 화목 가축 총계",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:7:89",
+      "textSha256": "4e9437a27adad300efcfd67d0f7f6d070e6634ec8a4669251de1048d5841d521",
+      "status": "hold",
+      "reason": "H051의 먼저 찾아가 듣는 태도는 있으나 속죄소와 두 그룹 사이의 목소리 설명이 길어 멘토 상담의 실마리는 간접적이다",
+      "contextNote": "회막에서 하나님과 모세의 대화",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:8:1",
+      "textSha256": "6fce10c5891051be4b55b9e2e719c4053fd55e8a3bff58acabc65699508c88a6",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 독립 생활 선택 내용이 없다",
+      "contextNote": "등불 규정 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:8:2",
+      "textSha256": "fd4d75df05b03e582550e1e2e5f1c4a7ec04818dbabcfa63fba49fa716be5e4c",
+      "status": "hold",
+      "reason": "H042의 앞을 비출 용도는 비추나 등잔 방향의 규격이라 내 작품을 공개할 이유로 읽기에는 간접적이다",
+      "contextNote": "일곱 등잔의 방향 지시",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:8:3",
+      "textSha256": "68b31b98ce2e70fd14b013b752a810d829c993bb297b37b33b37813c0113647d",
+      "status": "hold",
+      "reason": "H054의 지시대로 행함은 있지만 등불 위치 실행의 보고라 이미 약속한 일의 우선순위는 직접 다루지 않는다",
+      "contextNote": "아론의 등불 지시 이행",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:8:4",
+      "textSha256": "672143eff7b64b7065922843a23e38dcaff354f6a8b082c22c3e569100308258",
+      "status": "hold",
+      "reason": "H054의 받은 기준 준수는 있으나 등대 금 세공과 식양의 긴 설명으로 현재 약속 이행에는 간접적이다",
+      "contextNote": "등대의 제작 방식 재확인",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:8:5",
+      "textSha256": "1213bc72e4be9e9f17f4b9129e3f0d4cbde2d4cf24000ea629c6671d78ca8075",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 생활 판단 내용이 없다",
+      "contextNote": "레위 성별 의식 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:8:6",
+      "textSha256": "b53ad2cd4c9f0c61df8c004bd4f3b9809610eef978fc42c77384f52a3e0c0f2e",
+      "status": "exclude",
+      "reason": "레위 정결의 선택은 현대 팀원의 능력이나 가치를 가를 기준이 아니다",
+      "contextNote": "레위인 정결 지시",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:8:7",
+      "textSha256": "8d8bd4b73c26e9b240285bf72bb0afe12af13fbb46494dad8952983e2da48253",
+      "status": "exclude",
+      "reason": "물뿌림 전신 면도 세탁의 절차는 현재 공개 준비나 외모 자신감과 다른 의식이다",
+      "contextNote": "레위 정결 의식 방법",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:8:8",
+      "textSha256": "481b323b2a207f44c1cdd0370e0eae83bd8b6b0c9a3e4a22f9a8ea097ccf6cdb",
+      "status": "exclude",
+      "reason": "번제 속죄 수소와 가루는 실제 사람 도움의 양이나 선물의 크기를 말하지 않는다",
+      "contextNote": "레위 성별 제물 준비",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:8:9",
+      "textSha256": "034438d287dea68ffbd289fde998f3790d276c63b1aa658e1e275671ac6ca275",
+      "status": "exclude",
+      "reason": "회막 앞 회중 집회만으로 현재 업무를 나눌 이유나 사람의 적합성이 나오지 않는다",
+      "contextNote": "레위 성별식 소집",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:8:10",
+      "textSha256": "c2c954f8e266c60a52d5b4b926f396d578c984bfc964ee3714aa5449a424714b",
+      "status": "exclude",
+      "reason": "레위인 안수는 현재 부탁할 동료의 수락이나 역할 자격을 확정할 근거가 아니다",
+      "contextNote": "회중의 레위인 안수",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:8:11",
+      "textSha256": "ff85acf1f9c4cd4aeba9f2a23a344b3de84285520bb43999e221699250186167",
+      "status": "hold",
+      "reason": "G15의 봉사할 역할의 의미는 있으나 사람을 요제로 드리는 의식을 풀이해야 첫 역할 부담과 연결된다",
+      "contextNote": "레위인을 요제로 구별할 목적",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:8:12",
+      "textSha256": "d7ac4f4190bf610cfd496d194219d7c92339b15814a61c59ada7ab490fbebdb6",
+      "status": "exclude",
+      "reason": "수소 두 마리 속죄 번제는 현재 약속이나 사과의 행동 기준이 아니다",
+      "contextNote": "레위 성별의 가축 희생",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:8:13",
+      "textSha256": "7c2d4663b986db6e8dce641f06c8e683b105decf26c3d0a159777843dad7b162",
+      "status": "exclude",
+      "reason": "아론 앞에 서서 요제로 드려지는 일은 현대 도움 관계의 당연한 권리로 옮길 수 없다",
+      "contextNote": "레위인의 제사장 앞 성별",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:8:14",
+      "textSha256": "b1663991843bb915cc1891ca054e820fd71893a7aa857177523740094df9b94b",
+      "status": "hold",
+      "reason": "G15의 구별된 역할은 힘이 되나 하나님의 소유 선언만으로 맡을지의 구체 실마리는 약하다",
+      "contextNote": "레위인 성별의 귀속",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:8:15",
+      "textSha256": "e37f8062261cda775808c2e09a3cf893b3afcdbd3517e935f818d6fc5af2a609",
+      "status": "hold",
+      "reason": "G15의 준비 후 봉사는 비추나 정결 요제의 선행 의식은 현재 능력 준비와 다른 조건이다",
+      "contextNote": "성별 후 회막 봉사 시작 조건",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:8:16",
+      "textSha256": "22eebb6c9865bd23cd1af08988201148f3d0677638d70b24189c8e77cfe5b0c3",
+      "status": "hold",
+      "reason": "A009의 대신 맡을 사람이 있음은 비추나 첫태생 대신 드린 소유 지위가 일반 위임과 다르다",
+      "contextNote": "첫태생을 대신한 레위인",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:8:17",
+      "textSha256": "fe06d2739ef4e20f40dff3a1b2537eb6434a44b0eb8279f46ca15710bb1b63d2",
+      "status": "exclude",
+      "reason": "애굽 첫태생 심판이 포함된 소유 규정은 현재 역할이나 선물의 정당함을 정하지 않는다",
+      "contextNote": "첫태생 구별의 출애굽 근거",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:8:18",
+      "textSha256": "3b6cd6765d319129780a98c789e6e2c0f3013a8f7c2bdf4d3e22735206ba35a9",
+      "status": "hold",
+      "reason": "A009의 대신 맡김은 있지만 특정 레위인의 신앙 지위라 현재 적임자 분담은 간접적이다",
+      "contextNote": "레위인 대체의 이유 재확인",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:8:19",
+      "textSha256": "a95df73643988ea7172e7abe5a0530837375243fae97b10e9dee37dacca3cb04",
+      "status": "candidate",
+      "reason": "다른 이들이 대신 봉사하도록 사람을 세운 모습에서 혼자 모든 일을 맡지 않을 실마리가 있다",
+      "contextNote": "레위인의 대리 봉사와 공동체 보호 목적",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A009",
+          "clue": "다른 이들이 대신 맡아 봉사하는 구조에서 내 일을 나누는 것도 공동체에 필요한 방식임을 읽는다.",
+          "friction": "레위인을 아론 가족의 선물로 주고 속죄와 재앙 예방을 위한 성막 봉사에 두는 긴 문장이다. 현대 동료를 소유물로 보거나 업무 분담이 재앙을 막는다고 설명하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NUM:8:20",
+      "textSha256": "4c6c289c28381dc24276078070d54ea2fa1efeaf65793eb97f0a8f845f7879d2",
+      "status": "hold",
+      "reason": "H054의 정한 일 이행은 비추나 레위 성별 의식 전체를 행한 긴 보고가 현재 약속의 선택과 거리가 있다",
+      "contextNote": "레위 성별 명령의 이행 총괄",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:8:21",
+      "textSha256": "2cf17a22fe63f906d1d90776cec72a5adb61d3be198039e35990ce3dd6d3738d",
+      "status": "exclude",
+      "reason": "정결과 세탁 요제의 문장이 한에서 끝나 다음 절 없이 절차가 미완이다",
+      "contextNote": "레위 정결 의식의 실행",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:8:22",
+      "textSha256": "ab8dc4905e3aa60a9dadce15ce317eab56c96d8b9e91ccd344d16948e31a8237",
+      "status": "hold",
+      "reason": "G15의 준비 후 나아감은 비추나 후에로 시작하고 앞 의식에 의존해 첫 결과의 실마리는 약하다",
+      "contextNote": "레위인이 봉사를 시작함",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:8:23",
+      "textSha256": "6fce10c5891051be4b55b9e2e719c4053fd55e8a3bff58acabc65699508c88a6",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 생활 선택의 내용이 없다",
+      "contextNote": "레위 봉사 연령 규정 시작",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:8:24",
+      "textSha256": "657eff8194b91a6271ceb8f82872c88cf530895caa49a83a311c59c754f5185d",
+      "status": "exclude",
+      "reason": "이십오 세 봉사의 고정 연령은 현재 사용자의 새 역할 능력을 정하는 근거가 아니다",
+      "contextNote": "레위 봉사 시작 연령",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:8:25",
+      "textSha256": "a6cf136ea7984e70a8d32609575dfb8ce380c4a0191a18337e14110418836e4a",
+      "status": "hold",
+      "reason": "A030의 힘든 일을 쉼은 맞지만 것 이나로 끝나는 절이라 대안 역할은 다음 절을 함께 읽어야 한다",
+      "contextNote": "오십 세 이후 운반 봉사의 종료",
+      "readability": "thinkable",
+      "connections": []
+    }
+  ]
+}
