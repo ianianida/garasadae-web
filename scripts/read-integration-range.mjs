@@ -7,7 +7,23 @@ const source=JSON.parse(await readFile('data/source/krv-full.json','utf8')).filt
 const ledger=JSON.parse(await readFile(`data/review/books/${code}.json`,'utf8'));
 const selected=ledger.entries.filter(row=>row.status!=='exclude').slice(start-1,start-1+count);
 console.log(JSON.stringify({book:code,stored:ledger.entries.length,nonExcluded:ledger.entries.filter(row=>row.status!=='exclude').length,start,end:start+selected.length-1}));
-if(mode && mode!=='--compact') throw new Error('Only --compact is supported.');
+if(mode && !['--compact','--reading'].includes(mode)) throw new Error('Use --compact or --reading.');
+if(mode==='--reading') {
+  // Independent reading view: every whole verse and unique neighbor stays intact.
+  // Omit prior reasons to avoid anchoring the integration judgment to them.
+  const chosen=new Map(selected.map(row=>[row.id,row]));
+  const visible=new Set();
+  for(const item of selected) {
+    const at=source.findIndex(row=>row.id===item.id);
+    if(at<0) throw new Error(`SOURCE_VERSE_MISSING_${item.id}`);
+    for(const row of source.slice(Math.max(0,at-2),at+3)) visible.add(row.id);
+  }
+  for(const row of source) if(visible.has(row.id)) {
+    const prior=chosen.get(row.id);
+    console.log(JSON.stringify({id:row.id,selected:!!prior,...(prior?{caseIds:prior.connections.map(pair=>pair.scenarioId)}:{}),text:row.text}));
+  }
+  process.exit(0);
+}
 if(mode==='--compact') {
   // Keep every selected whole verse and judgment; print overlapping neighbors once.
   const chosenIds=new Set(selected.map(row=>row.id));

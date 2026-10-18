@@ -9538,6 +9538,2629 @@
       "contextNote": "악인에 대한 공개 심판의 이유를 소개한다.",
       "readability": "thinkable",
       "connections": []
+    },
+    {
+      "id": "KRV:JOB:34:27",
+      "textSha256": "575de6f57a887a08d62ad39a2a02e7c17c1c2a91a5a30193e1c7f8c8a81f2b97",
+      "status": "exclude",
+      "reason": "그들이 떠난 대상과 심판 이유는 앞의 권력자 악행이라 오늘 친구·모임을 떠날 기준으로 단독 읽기 어렵다.",
+      "contextNote": "악한 권력자 심판의 이유를 밝힌다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:34:28",
+      "textSha256": "971d22010275ecf6867c638d537a00230afc55f70ee59db17ffc053aee8bd09a",
+      "status": "hold",
+      "reason": "고난받는 사람의 호소가 들린다는 실마리는 있으나 그들의 학대가 부르짖음을 일으켰다는 앞 인과가 생략돼 문장이 복잡하다.",
+      "contextNote": "약자 학대가 하나님께 상달됨을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "고통 속 작은 호소라도 들릴 여지를 생각한다.",
+          "friction": "그들의 학대가 원인이라는 앞 문맥과 대명사가 복잡해 부탁의 방향이 간접적이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:34:29",
+      "textSha256": "d30a7202287db9714bcee68f1757ce13fa1dc9e317cec30f13c25505bf546c63",
+      "status": "hold",
+      "reason": "개인과 나라 모두에 평안을 베푸는 신뢰는 있으나 얼굴을 가리면 못 본다는 대조와 주권 질문이 구체 사과 선택을 가린다.",
+      "contextNote": "하나님의 평안·은폐를 인간이 바꿀 수 없음을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G10",
+          "clue": "원망의 승부보다 평안을 바라는 마음.",
+          "friction": "개인·국가 주권과 얼굴 은폐의 반문이 길어 사과의 실마리는 간접적이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:34:30",
+      "textSha256": "ef2d1afb3db5c9ca3b269df1ebd479a42fbaacc04513ffc3b7b32637d1d54ce3",
+      "status": "exclude",
+      "reason": "백성을 함정에 넣는 권력자 제지는 공적 통치 이유절로 현재 사적인 약속·의견 선택에 바로 통하지 않는다.",
+      "contextNote": "악인 집권을 막는 통치 목적을 말한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:34:31",
+      "textSha256": "6395455720aa27dfab2d5e469dace589300126c41521937fedd5be57e982029f",
+      "status": "candidate",
+      "reason": "잘못을 배우고 같은 일을 다시 하지 않겠다는 말에서 지적을 인정하고 고칠 실마리를 읽는다.",
+      "contextNote": "엘리후가 징계 앞 적절한 응답을 제안한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "잘못을 인정한 뒤 같은 일을 다시 하지 않겠다고 말한다.",
+          "friction": "징계와 범죄의 신앙 맥락이며 팀원 실수 지적을 신적 형벌로 판정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:34:32",
+      "textSha256": "32c64994ac32d61249f0b0f3da3bfcac8e1e8a07e35e128b9b68d5254542d884",
+      "status": "candidate",
+      "reason": "모르는 잘못을 가르쳐 달라고 하며 알면 되풀이하지 않겠다는 요청이 팀원의 지적 수용 고민에 직접 통한다.",
+      "contextNote": "배움과 수정의 자세를 엘리후가 묻는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "모르는 것을 가르쳐 달라 하고 알면 반복하지 않을 태도.",
+          "friction": "엘리후는 욥의 회개 필요를 전제하지만 현재 입력에선 실제 놓친 오류가 알려진 경우와 대조했다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:34:33",
+      "textSha256": "8a6e2eef1044134fd372a650977647bf8b84e4b2765bc4f2e8a3ec6fe9fcbd33",
+      "status": "candidate",
+      "reason": "내가 대신 고를 것이 아니라 네가 스스로 택하고 아는 것을 말하라는 요청에서 남의 기대 속 내 판단의 몫을 읽는다.",
+      "contextNote": "하나님의 보응을 내 뜻에 맞추려는 항의를 반박한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H064",
+          "clue": "다른 사람이 대신 정하는 것이 아니라 내 몫의 선택과 생각을 드러낸다.",
+          "friction": "하나님이 내 뜻에 따라 보응해야 하냐는 반박이 앞에 있다. 내 뜻이 현실 결과를 통제한다는 설명이나 정답 판정은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:34:34",
+      "textSha256": "5d5ac953ba01bfc88e455779e224f4e1a7db79b710843d1bb4c58536fe9bc894",
+      "status": "exclude",
+      "reason": "지혜자들이 내게 말할 것이라는 미완결 권위 소개는 내용이 다음에 있어 판단 기준이 없다.",
+      "contextNote": "다른 지혜자의 동의를 내세우는 서두.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:34:35",
+      "textSha256": "56d6054634dafba19b14ecab1037040ae55d974595f34fb9b5f9e4fb43c84270",
+      "status": "exclude",
+      "reason": "욥의 말이 무식하다는 인격 평가는 실제 잘못을 확인한 지적이 아니어서 지금 조언을 고르는 기준이 아니다.",
+      "contextNote": "엘리후가 지혜자들의 욥 비판을 예상한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:34:36",
+      "textSha256": "0b44d5fa18018646a7b94d734929696a64459fbe75697dd6b91f2228b27a4fa8",
+      "status": "exclude",
+      "reason": "말이 악인 같으니 계속 고난받길 바라는 저주는 지금 상대 지적이나 자기 단련으로 잇기에 해가 크다.",
+      "contextNote": "엘리후가 욥의 계속된 시험을 바란다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:34:37",
+      "textSha256": "a154d6ae3d4a4d1147eecc07b2135ce5dc9fd987cfb5424e2f6175ee5e66fa96",
+      "status": "exclude",
+      "reason": "손뼉치며 반역 더한다는 단정은 현재 감정 표현을 죄의 증거로 만들 근거가 되지 않는다.",
+      "contextNote": "욥의 항의를 하나님 반역으로 고발한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:35:1",
+      "textSha256": "e605e20edf46f5b31db6256f698b9e49cdac3db820ff27278dcd3522816e8f27",
+      "status": "exclude",
+      "reason": "엘리후가 말을 잇는 도입만 있어 선택 내용이 없다.",
+      "contextNote": "엘리후 다음 발언 시작.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:35:2",
+      "textSha256": "a67ca82d113b3d5fcb3c3e97d212c88bb0e9bab7da4b6e232c14928cfbc1d815",
+      "status": "exclude",
+      "reason": "하나님보다 의롭다 여겼냐는 미완결 고발은 지금 친구 의견과 나의 판단 중 무엇이 옳은지 알려주지 않는다.",
+      "contextNote": "욥의 자기 정당화 고발 서두.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:35:3",
+      "textSha256": "b3a0ae7ae1e86bb174faee487a02103735459c2f593631e4971eb54c80840575",
+      "status": "exclude",
+      "reason": "죄를 피한 이익이 뭐냐는 욥 주장 인용은 평가와 결론 없이 현재 정직의 실마리로 읽기 어렵다.",
+      "contextNote": "엘리후가 욥의 도덕적 실리 질문을 인용한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:35:4",
+      "textSha256": "3f4d7458f59471377dfedf8d3c51ab4ca8a1d093ee24d7f7b16dd641d3e8a4da",
+      "status": "exclude",
+      "reason": "너와 동무에게 답하겠다는 발언 예고만 있어 답의 내용이나 선택 이유는 없다.",
+      "contextNote": "엘리후가 반박을 예고한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:35:5",
+      "textSha256": "4902e6c75f18e5aaec4918974a6e61e85c8b36b127803b2380e36b7792a25798",
+      "status": "exclude",
+      "reason": "하늘을 올려다보라는 명령의 목적은 신적 초월성 논증이어서 실제 잠깐 쉬기의 실마리는 약하다.",
+      "contextNote": "높은 하늘로 하나님 초월성을 설명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:35:6",
+      "textSha256": "5cd06fe046e1ce2cd439de4071eb12bc605f39fbf3cb94f95c96381979233ef0",
+      "status": "exclude",
+      "reason": "인간 죄가 하나님께 영향 못 준다는 질문은 죄가 사람에게 미칠 다음 논증 전제라 속여도 된다는 허용으로 쓸 수 없다.",
+      "contextNote": "신적 무영향에 관한 논증 시작.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:35:7",
+      "textSha256": "44eae5f3acb5c4fc338546b5cc260629d944a95a985bd6c4593acaf6ca80d6d7",
+      "status": "exclude",
+      "reason": "의로운 행위가 하나님께 무엇을 주냐는 질문만으로 지금 선행이 가치 없거나 유익하단 행동 결론을 읽기 어렵다.",
+      "contextNote": "인간 의의 신적 이익을 반문한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:35:8",
+      "textSha256": "89a0c859efb76bc98c5f31867b9903e2ee26a51845208b29023137e4742d1d73",
+      "status": "candidate",
+      "reason": "내 악과 의가 가까운 사람에게 해·유익을 만든다는 대조에서 유리한 꾸밈의 실제 영향을 생각할 실마리를 읽는다.",
+      "contextNote": "행위 영향이 인간에게 미침을 엘리후가 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "내가 고르는 말과 행위가 실제 다른 사람의 해·유익과 연결됨을 본다.",
+          "friction": "하나님 초월성 논증의 결론이며 현재 과장으로 어떤 손실이 생길지 세부 결과를 지어내지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:35:9",
+      "textSha256": "37876471c9a1618a32e62f8fdf071a44aba397ccd6cbf85af1674e7e126d3ddf",
+      "status": "exclude",
+      "reason": "억압에 눌려 도움을 외치는 미완결은 뒤의 기도 비난과 이어져 구체로 어떻게 부탁할지의 실마리는 부족하다.",
+      "contextNote": "약자들의 부르짖음 묘사.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:35:10",
+      "textSha256": "f5c5b91c8f78b24fe91599cfdcd881ecace155ac80a6abb2c6fb76ce23193ea0",
+      "status": "hold",
+      "reason": "밤에도 노래하고 지혜를 주는 도움을 찾을 여지는 보이나 긴 비교와 아무도 찾지 않는다는 고발로 감정 돌봄 연결이 산만하다.",
+      "contextNote": "35:10–11 공식 합친 전체 문장의 첫 슬롯. 교육·지혜 주신 하나님을 안 찾는다는 엘리후의 비판.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H063",
+          "clue": "밤에도 노래하게 하는 돌봄과 받은 지혜를 잠시 돌아볼 생각.",
+          "friction": "교육·짐승·새의 긴 비교와 아무도 하나님을 안 찾는다는 고발로 초점이 여러 갈래다. 현재 내가 기도 안 했다고 판정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:35:11",
+      "textSha256": "f5c5b91c8f78b24fe91599cfdcd881ecace155ac80a6abb2c6fb76ce23193ea0",
+      "status": "hold",
+      "reason": "자기 힘만이 아니라 주어진 지혜를 돌아볼 여지는 있으나 밤 노래·짐승·새·하나님 찾음의 여러 내용을 묶어 선택 단서가 흩어진다.",
+      "contextNote": "35:10–11 공식 합친 같은 본문으로 해시와 슬롯을 유지한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H063",
+          "clue": "자기 밖의 지혜와 돌봄을 생각하며 멈출 여지.",
+          "friction": "같은 공식 합친 35:10–11 전체 문장을 읽었고 긴 주어·교훈·기도 비판으로 행동의 실마리가 흐려진다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:35:12",
+      "textSha256": "cb6bbf3f3a1c556bb20a7c38fa809c14f98f260e79081a7ddbe22a990ce6b497",
+      "status": "exclude",
+      "reason": "부르짖어도 답 없는 이유의 미완결은 악인 교만을 전제하므로 현재 도움 거절의 사실로 읽을 수 없다.",
+      "contextNote": "기도 무응답에 대한 설명 서두.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:35:13",
+      "textSha256": "d0cf06912eebc5d451df9af4bb3fc35a840b773ddc5e55efd9428878daa1194a",
+      "status": "exclude",
+      "reason": "도움의 외침을 헛되다고 규정한 책망은 현재 지친 이의 요청을 근거 없이 무가치하게 만들 수 있다.",
+      "contextNote": "엘리후가 교만한 기도를 듣지 않으신다 주장한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:35:14",
+      "textSha256": "e118fe52e9054f2b0f46d12b732d24236383f412ad91c24c83512416e9bd847d",
+      "status": "exclude",
+      "reason": "하물며 하는 너라는 중첩 반문은 기다림을 권하는 절이 아니라 욥의 신앙 비판이라 풀이 부담이 크다.",
+      "contextNote": "하나님 안 보인다는 욥의 항의를 비난한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:35:15",
+      "textSha256": "e84a1123f3e7f36a9db62b08e55fd371def4f7b088b50f0c9239775dcac1e9fc",
+      "status": "exclude",
+      "reason": "하나님이 벌 안 주어 횡포를 더했다는 미완결 주장은 현재 내 고통이 약한 처벌이라는 정보가 아니다.",
+      "contextNote": "엘리후가 욥에 대한 심판 지연을 논한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:35:16",
+      "textSha256": "727f41aba4aeea47d80b2ac2f669f6cb7436948ea39aa77bc3c22653e104bac1",
+      "status": "exclude",
+      "reason": "지식 없이 헛말 한다는 고발은 지금 사용자의 실제 글·의견이 틀렸다는 검증이 아니다.",
+      "contextNote": "엘리후가 욥의 언변을 비난하며 끝낸다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:36:1",
+      "textSha256": "e605e20edf46f5b31db6256f698b9e49cdac3db820ff27278dcd3522816e8f27",
+      "status": "exclude",
+      "reason": "말을 이어간다는 도입만 있어 독립된 선택 내용은 없다.",
+      "contextNote": "엘리후 마지막 긴 발언 시작.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:36:2",
+      "textSha256": "bec8a09d2b87138243634285c88c9bde7c1c1afc5663d15f5a2aa75a7b3371c6",
+      "status": "hold",
+      "reason": "잠깐 말할 시간을 요청한 태도는 도움 대화에 통하나 하나님을 위해 말한다는 자기 권위가 현재 개인 감정과 거리가 있다.",
+      "contextNote": "엘리후가 더 말할 공간을 청한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B011",
+          "clue": "잠깐만 나를 말하게 해 달라는 시간 요청.",
+          "friction": "하나님을 위해 말할 권위를 내세우므로 내 개인의 아픔을 나누는 대화와는 다르다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:36:3",
+      "textSha256": "5434321af1b0f6fbcc4574e3f9a477a6d1fe303f1c7da92f03e4db88b17a6192",
+      "status": "hold",
+      "reason": "자기 밖에서 지식을 구하는 모습은 조언에 통하지만 먼데서란 대상이 불명확하고 창조자 의를 증명하려는 목적이다.",
+      "contextNote": "엘리후가 설명의 출처와 목적을 밝힌다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "자기 안의 지식만이 아닌 다른 근거를 구한다.",
+          "friction": "먼데의 출처가 분명하지 않고 창조자를 변호하려는 목적이 긴 연결을 요구한다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:36:4",
+      "textSha256": "41431dfe7250924ae4d044e3e532380299fb07274576f9aa81a1ce9809d10951",
+      "status": "exclude",
+      "reason": "완전한 지식의 자가 곁에 있다는 자기 보증은 실제 조언의 근거가 없어 전문가에게 묻는 판단 기준으로 삼기 어렵다.",
+      "contextNote": "엘리후가 자신의 발언 완전성을 주장한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:36:5",
+      "textSha256": "ed955e2a7735a5b3c242d64cb055173fbda203b877751bba32d6688091f71246",
+      "status": "candidate",
+      "reason": "큰 힘이 있어도 아무도 멸시하지 않는다는 기준에서 친분·신분에 따라 사람을 다르게 대할지의 실마리를 읽는다.",
+      "contextNote": "엘리후가 하나님 힘과 무시하지 않는 태도를 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B003",
+          "clue": "강하거나 높은 위치라도 사람을 멸시할 이유가 되지 않는 태도.",
+          "friction": "하나님의 무궁한 지능까지 함께 말하지만 현재 행사 몫을 친분으로 가를지의 개인 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:36:6",
+      "textSha256": "fde6981b3a290d81a915a1c03a52633cc0ab9e4dbfee3f60b0b6764d007f9b9d",
+      "status": "exclude",
+      "reason": "악인은 죽이고 약자는 신원하는 통치 진술은 의롭고 악한 사람 구분에 무게가 실려 현재 개인의 구체 도움 행동이 약하다.",
+      "contextNote": "하나님의 심판·신원을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:36:7",
+      "textSha256": "5ebd06977492a31afe5ebd2a166224c50d1fa82efe8869a500409dd98385d3d8",
+      "status": "candidate",
+      "reason": "낮은 자리에서도 눈 돌리지 않고 존귀하게 보는 약속에서 남보다 못할까 두려워 스스로 가능성을 지울지의 실마리를 읽는다.",
+      "contextNote": "하나님이 의인을 높이시는 엘리후의 설명.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "내가 작게 느껴지는 자리에도 주목하고 존귀하게 여기는 희망.",
+          "friction": "엘리후의 의인 회복 설명이며 실제 자리·평가·역량을 검증한 사실은 아니다. 개인이 가능성과 용기를 읽을 후보로 둔다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:36:8",
+      "textSha256": "7fcc992e540aa82d17a920acfcf1280fd673979eb0bc74296605da08386ec4bf",
+      "status": "exclude",
+      "reason": "사슬과 환난 줄에 얽혔다는 조건만 있어 다음의 교훈·해방을 모르면 선택 방향이 없다.",
+      "contextNote": "환난 속 교훈의 가정 서두.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:36:9",
+      "textSha256": "f942e364a05e855ec74f58859a94d09080bf811b18fe66c407745f2379416e51",
+      "status": "candidate",
+      "reason": "자기 행동과 허물을 알아보도록 하는 교훈에서 실수 지적을 인정하고 고칠 실마리를 읽는다.",
+      "contextNote": "고통 속에 자기 교만을 깨닫게 하심을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "내 행동에서 어떤 부분이 잘못됐는지 알아보려는 태도.",
+          "friction": "원래 고난 속 교훈이며 실제 병·고통이 내 교만의 형벌이라고 판정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:36:10",
+      "textSha256": "3a96e84278d4c1548cd6e06e024f128cbc1712b464f2fa3d356c45910dbde649",
+      "status": "candidate",
+      "reason": "귀를 열어 배우고 잘못된 방향에서 돌아서는 행동이 내 방식만 고수할지의 부담을 건드린다.",
+      "contextNote": "교훈을 듣고 죄를 떠나게 하는 목적을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "배우는 귀를 열어 잘못된 방향에서 실제로 돌아선다.",
+          "friction": "신적 가르침의 맥락이지만 지금 팀원 조언을 하나님 명령으로 설명하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:36:11",
+      "textSha256": "bff2a5dc1a8a3b0c6be9476b9c6b8cb6f1fb9f941f3c8726448ee309750a4ca4",
+      "status": "candidate",
+      "reason": "듣고 섬기는 쪽에 즐거운 날을 기대하는 말에서 불편한 지적도 받아 고칠 실마리를 읽는다.",
+      "contextNote": "청종 뒤 평안과 기쁨의 삶을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "듣고 고치는 쪽에 더 나은 날을 기대하며 방어만 하지 않는 마음.",
+          "friction": "청종과 섬김의 약속이며 현재 업무 성과가 보장된다는 서비스 설명은 붙이지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:36:12",
+      "textSha256": "d5d13d9c3943fa2ad5af7d3d3cd9690ee3d72f102d81e8508e15208f4c119db7",
+      "status": "exclude",
+      "reason": "안 들으면 칼에 죽는다는 단정은 실수 지적을 잠깐 방어한 상황에 너무 큰 죽음의 부담을 얹는다.",
+      "contextNote": "불순종의 죽음을 경고한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:36:13",
+      "textSha256": "2cbfec4f2bd1fb227339ce5f958cc40e1f6615b5c11b8f099be483ef549c9cb3",
+      "status": "candidate",
+      "reason": "분노만 쌓고 정작 도와달라 하지 않는 모습을 통해 혼자 견디는 태도를 돌아볼 실마리를 읽는다.",
+      "contextNote": "사곡한 이의 도움 거부를 엘리후가 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "분노와 답답함을 쌓는 대신 실제 도움을 향해 요청할 생각.",
+          "friction": "사곡한 자라는 도덕 평가와 신적 속박이 포함된다. 지친 사용자를 그런 사람으로 판정하거나 사람의 수락을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:36:14",
+      "textSha256": "dad1e1889502af3086b5972bd973bcc4e44e26696bf473710255c9a1ee3e1e5b",
+      "status": "exclude",
+      "reason": "젊은 죽음과 남창의 운명을 비교하는 심판은 고통 속의 보통 생활 선택과 연결에 해설·낙인이 크다.",
+      "contextNote": "도움 안 찾는 악인의 죽음을 말한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:36:15",
+      "textSha256": "71bea39540f5c48461bba0abdb388a591123fefd48e38c365852125a9748f27b",
+      "status": "candidate",
+      "reason": "곤고할 바로 그때 구원과 들을 귀가 있다는 말에서 지친 상황에도 도움을 향할 실마리를 읽는다.",
+      "contextNote": "곤고와 학대 속 구원·교훈을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "곤고한 바로 그때에도 도움과 들을 길을 기대한다.",
+          "friction": "엘리후는 고통을 교훈과 연결하지만 현재 학대·질환의 원인을 단정하거나 실제 도움 결과를 약속하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:36:16",
+      "textSha256": "2a30c015f30a3727c0a92209c304048bfe8db714fc424fa8b592bbb24ebbaea5",
+      "status": "candidate",
+      "reason": "좁은 곳에서 넓은 곳으로 이끌려 나와 풍성히 먹는 그림에서 과도한 부담에 내 여유를 허용할 실마리를 읽는다.",
+      "contextNote": "하나님이 준비한 회복을 욥이 거부했다는 엘리후의 권고.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H044",
+          "clue": "좁은 부담에서 나와 숨 쉴 넓은 자리와 자기 몫을 허용하는 그림.",
+          "friction": "엘리후는 준비된 회복을 욥이 거부했다 주장한다. 그 죄 전제를 현재에 옮기거나 실제 근무 조건이 바뀐다고 설명하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:36:17",
+      "textSha256": "b8231396b5faaf3e35c46f8829840e0164efd8fd9adfef6218a497cee2b4e9ab",
+      "status": "exclude",
+      "reason": "악인 벌과 심판에 붙잡혔다는 단정은 현재 곤란의 죄 여부를 확인하지 않고 사용자를 악인으로 몰 수 있다.",
+      "contextNote": "엘리후가 현재 욥의 고통을 형벌이라 규정한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:36:18",
+      "textSha256": "8191ed2bb590bba4ad86779b054ff53818fbea357cbc52b58c496c149843994f",
+      "status": "hold",
+      "reason": "분노 때문에 책망을 거부하지 말라는 앞은 잘 맞으나 대속함 얻는 일이 크다는 뒷문장의 고대 법정 의미가 선택 연결을 어렵게 한다.",
+      "contextNote": "격분으로 회복의 권고를 거부하지 말라 한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "기분이 격해도 책망을 바로 거부하지 않는 태도.",
+          "friction": "대속함을 얻을 일이 크다는 뒷문장이 법정·속전 맥락의 풀이를 요구한다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:36:19",
+      "textSha256": "f8371b633e638c3257f4b89a005d5814feae6177a7b8308f611ebd5021d204f5",
+      "status": "exclude",
+      "reason": "외침과 세력이 유익하냐는 비판은 어떤 도움을 구하면 좋은지 없이 자기 구조 능력을 부정한다.",
+      "contextNote": "자력으로 못 벗어남을 엘리후가 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:36:20",
+      "textSha256": "195dc98cd80af2cd48b829b5e20980186ea707df2c381d2e18f27ea2e8d59fb5",
+      "status": "exclude",
+      "reason": "밤은 생명이 제거되는 죽음이라 잠 부족한 사람에게 휴식을 미루라거나 죽음을 바라란 말로 읽을 수 없다.",
+      "contextNote": "욥의 죽음 소원을 금한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:36:21",
+      "textSha256": "a8b7f44faf2283d337dc2a2fe253e466a7642d33fe8c6b1a1a1f0c392d976807",
+      "status": "candidate",
+      "reason": "고통을 피하려 악한 수단으로 기울지 말라는 말에서 불리한 평가가 두려워 과장할지의 부담을 읽는다.",
+      "contextNote": "엘리후가 고난보다 반항을 택했다고 욥을 책망한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "지금 불편함을 피하려 거짓된 수단으로 돌아서지 않을 기준.",
+          "friction": "엘리후의 욥 반역 고발은 별도이고 현재 내가 이미 죄를 택했다고 단정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:36:22",
+      "textSha256": "8e9b6bdaa309c8f7640da8a96fac7ee3182cdde4d71ee44e4e7967de84d88986",
+      "status": "hold",
+      "reason": "힘 있는 분도 가르치는 분이라는 신뢰는 있으나 최고의 교훈자라는 원론만으로 선배에게 물을 선택과 직접 맞닿는 정도는 약하다.",
+      "contextNote": "하나님의 교훈 능력을 찬양한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "모르는 것을 가르침으로 배울 여지.",
+          "friction": "최상의 신적 교훈자라는 질문뿐이라 구체 선배와 의논할 행동 연결은 간접적이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:36:23",
+      "textSha256": "ba01063c9395af7915e5ba799db0b26f816b842bc0228aac97c20e7dbb58e330",
+      "status": "exclude",
+      "reason": "하나님의 길을 누가 정하거나 불의를 지적하냐는 권위 질문은 사람의 실제 지적을 검토할 기준이 아니다.",
+      "contextNote": "하나님을 통제·정죄 못함을 주장한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:36:24",
+      "textSha256": "36746ab517b04b1eb86b418d7ff35ba6909acde922584168569f2c658a905e93",
+      "status": "exclude",
+      "reason": "하나님의 일을 찬송하라는 종교 행위 자체는 지금 나눔·구매·일정의 두 부담을 구체적으로 건드리지 않는다.",
+      "contextNote": "하나님의 일에 대한 찬양을 권한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:36:25",
+      "textSha256": "6812ed4f9d761df0a3a8382fcf454701356f686f3f5704f7ed1fc70c94abadf5",
+      "status": "exclude",
+      "reason": "그 일을 모두 먼 곳서 본다는 관찰 진술은 앞의 자연 권능이 대상이라 내 물건 조사의 방법은 아니다.",
+      "contextNote": "사람들이 볼 수 있는 하나님의 일.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:36:26",
+      "textSha256": "3dc2594916c0028842af95b754df09be611b509568f75917a535d0f06e2c998f",
+      "status": "exclude",
+      "reason": "하나님의 무한한 나이를 못 센다는 진술은 현재 완벽한 선택 정보의 범위나 필요한 확인을 구체로 말하지 않는다.",
+      "contextNote": "신적 크심과 연한의 무한함.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:36:27",
+      "textSha256": "7b9482481dfb7269d9a7018c24878cb48c225b34ee37f13646b5c474f9e1775a",
+      "status": "exclude",
+      "reason": "수증기·안개·비의 변화는 자연 현상이고 현재 방법·일정의 장단점을 판단하는 생활 단서는 없다.",
+      "contextNote": "비 생성 과정을 묘사한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:36:28",
+      "textSha256": "531c4d1466a974536a2f8c346ea169bb9d48cbc6c0c02c13787627e9d3c69705",
+      "status": "exclude",
+      "reason": "공중에서 사람에게 쏟아지는 그것은 앞의 비라 여행 날씨나 형통을 예고할 정보가 아니다.",
+      "contextNote": "생긴 비가 땅에 내림.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:36:29",
+      "textSha256": "b15f7958201a4eedb951563242d1d9cf53dfc0a2f8267296257e7acfd5375011",
+      "status": "exclude",
+      "reason": "구름의 펴짐과 천둥의 구조를 누가 아냐는 질문은 자연 지식의 한계로 내 결정의 구체 부담과 직접 연결이 약하다.",
+      "contextNote": "폭풍의 신비를 묻는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:36:30",
+      "textSha256": "9b199912a8622689dd33b0a258aefbb49a5fd727da688b977d2829c1a7eb78f7",
+      "status": "exclude",
+      "reason": "번개·바다의 가림은 신적 권능 묘사로 현재 사람의 말·활동 위험을 알려주지 않는다.",
+      "contextNote": "천둥·번개의 권능 묘사.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:36:31",
+      "textSha256": "cb174cc10bdf106788d5be1f8cd97030cdb8afbc59861a29b69f7d5d4b156b7f",
+      "status": "hold",
+      "reason": "같은 것이 징벌과 공급 양쪽일 수 있다는 시각은 계획 변화에 통하지만 이런 것의 대상이 앞 비·번개에 의존한다.",
+      "contextNote": "자연 현상의 심판과 풍요 기능을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H062",
+          "clue": "한 현상에도 나쁜 결과와 공급의 양쪽 의미가 있을 수 있다.",
+          "friction": "이런 것들은 앞의 비·번개라 절 단독에선 그 대상과 선택 연결이 생략된다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:36:32",
+      "textSha256": "c529f24bfda792f690e259e41422997f69184f4f87ef032d52e7b1eb12c5a962",
+      "status": "exclude",
+      "reason": "손을 싼 번개로 목표를 맞추는 권세는 내 계획의 실행법이나 상대를 공격할 권한을 주는 말이 아니다.",
+      "contextNote": "번개의 명령과 표적을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:36:33",
+      "textSha256": "f39a5eec604352700a219f5b4ce9e8d98a1f8c3a9b6f2f3e4c19269471a889fb",
+      "status": "exclude",
+      "reason": "가축도 폭풍을 알아차린다는 자연 징후는 지금 실제 날씨나 거래 신호가 무엇인지의 정보가 아니다.",
+      "contextNote": "천둥과 폭풍의 신호를 묘사한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:37:1",
+      "textSha256": "3f64de709b72088fa053aae285c868a7b453d5f53646af76b65899934ebfb7fd",
+      "status": "exclude",
+      "reason": "마음이 제자리 떠나 떤다는 반응은 경외의 감정으로 지금 어느 행동을 택할 실마리는 없다.",
+      "contextNote": "폭풍 앞 엘리후의 떨림.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:37:2",
+      "textSha256": "c46bf4a48bd1ab6d5bb7b4efda51b9fd8886de186c924f2db7aab55e371328fc",
+      "status": "exclude",
+      "reason": "들으라는 음성은 천둥의 소리라 지금 어떤 조언·정보를 선택할지의 구체 내용은 없다.",
+      "contextNote": "천둥을 하나님의 음성으로 들으라 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:37:3",
+      "textSha256": "29325ab00dab86d9f21aa1f13df338e37a0365beedc31a8959b4e9ef333f2747",
+      "status": "exclude",
+      "reason": "번개와 소리의 땅끝 퍼짐은 현재 내가 전달할 말이나 연락의 적절한 범위를 말하지 않는다.",
+      "contextNote": "천둥·번개의 광대한 퍼짐.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:37:4",
+      "textSha256": "58d611d2572f60f342d739d44babb8ee66a26a5a144be2268a5e2b357257db4d",
+      "status": "exclude",
+      "reason": "우레 뒤 번개를 안 금한다는 자연 묘사는 무슨 행동을 하고 말지의 인간 선택과 직접 통하지 않는다.",
+      "contextNote": "천둥과 번개의 동반 묘사.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:37:5",
+      "textSha256": "ec95cb7f7a2165dca0697a9cbed9a1641736f8ed74a7187005d22b599849e549",
+      "status": "candidate",
+      "reason": "내가 헤아리지 못하는 일도 크고 의미 있게 일어날 수 있다는 말에서 완벽한 답을 다 쥐어야만 선택할 부담을 덜 실마리를 읽는다.",
+      "contextNote": "하나님의 헤아릴 수 없는 일을 폭풍으로 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H061",
+          "clue": "헤아리지 못하는 영역이 있어도 세상이 내 완벽한 이해에만 매이지 않는다는 생각.",
+          "friction": "폭풍과 하나님의 큰 일을 말한 경외이며 어떤 선택의 성공·정답을 예고하지 않는다. 개인이 완벽한 확답의 부담을 덜 실마리로 본다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:37:6",
+      "textSha256": "1f9bcad593f3fa4e2457c02e234bd372b95c87d8d34db24f4031bf31d4b97455",
+      "status": "exclude",
+      "reason": "눈·작은 비·큰 비를 명하는 창조 진술은 현재 여행의 날씨나 준비를 사실 확인해주는 내용이 아니다.",
+      "contextNote": "다양한 비와 눈의 통제.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:37:7",
+      "textSha256": "41171a1352d9ecaecc5acd9df76975650e59a9081e31be9afc03ce3ae483f6ac",
+      "status": "hold",
+      "reason": "사람의 손도 멈추게 되는 그림은 쉼의 허용에 통하지만 손을 봉한다는 고어와 폭설의 문맥을 풀어야 한다.",
+      "contextNote": "날씨로 인간 노동이 멈추는 뜻을 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H055",
+          "clue": "계속 움직이는 손도 멈출 때가 있다는 그림.",
+          "friction": "손 봉함이 폭설로 노동 못함이라는 문맥·고어를 풀어야 한다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:37:8",
+      "textSha256": "9771b3940921176321e0c697b7d443b13c57b4d539ce7de1a56025f4269f5f7e",
+      "status": "exclude",
+      "reason": "짐승이 굴에 숨는 것은 폭풍의 본능적 대응이고 현재 쉬라는 설명을 들은 사람과 바로 대응할 선택 이유가 없다.",
+      "contextNote": "악천후의 짐승 피신.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:37:9",
+      "textSha256": "bc7525fbb66b2bc43efede1c22c159e32664ede40a48190451495fb7da434daa",
+      "status": "exclude",
+      "reason": "남방 폭풍·북방 한기 묘사는 지금 실제 여행 날씨 정보도 선택의 실마리도 아니다.",
+      "contextNote": "서로 다른 기류를 묘사한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:37:10",
+      "textSha256": "a704102d33e09956b15854edd5395610c8ab9b32f9f89bc9377de800f8721add",
+      "status": "exclude",
+      "reason": "기운에 얼음 얼고 물이 줄어듦은 자연 현상이라 실제 건강·물건 상태를 판정하지 않는다.",
+      "contextNote": "동결의 신적 권능 묘사.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:37:11",
+      "textSha256": "1c15da369b557513e0ea075abc2175b95c6ff863a1df1620bc9ee8f9cdfdfca0",
+      "status": "exclude",
+      "reason": "습기 실은 구름과 번개 구름의 미완결은 뒤의 목적에 의존하고 일정 선택으로 바로 통하지 않는다.",
+      "contextNote": "구름의 형성과 이동 서두.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:37:12",
+      "textSha256": "7ebb152c9e4edcdc95b3e8ea3069b104ef024e5d1b7900eccdcafe592b501e71",
+      "status": "hold",
+      "reason": "내 통제 밖에서도 목적이 이루어지는 신뢰는 보이나 구름의 이동과 명령 실행은 구체 개인 갈등과 연결이 추상적이다.",
+      "contextNote": "구름이 뜻을 따라 움직임을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H062",
+          "clue": "내 계획 밖의 움직임에도 다른 맥락이 있을 수 있다는 생각.",
+          "friction": "구름 이동과 신적 뜻의 일반 서술로 나의 지금 결정은 간접적이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:37:13",
+      "textSha256": "d5ecc4a46735cb42d7d903ae5493d7ef4ad94fa8666617621b9f5671f3da2a08",
+      "status": "candidate",
+      "reason": "구름이 한 가지 이유만으로 오지 않는다는 여러 목적에서 틀어진 계획을 오직 실패로만 붙잡지 않을 실마리를 읽는다.",
+      "contextNote": "구름의 징벌·토지 공급·긍휼의 목적을 나열한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H062",
+          "clue": "예상과 다른 구름을 오직 실패의 이유 한 가지로만 해석하지 않을 여지.",
+          "friction": "토지·긍휼뿐 아니라 징벌도 함께 있다. 현재 틀어진 계획이 반드시 복이거나 내 죄의 벌이라는 뜻을 서비스가 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:37:14",
+      "textSha256": "b829f9ab82c33395ec6f72c07619efeb239658cc36c998990ca35665c9fd0010",
+      "status": "candidate",
+      "reason": "가만히 서서 살펴보라는 직접 요청에서 불편한 마음을 바쁨으로 덮기보다 멈춰 생각할 실마리를 읽는다.",
+      "contextNote": "자연의 기묘함을 잠시 서서 궁구하라 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H063",
+          "clue": "바쁘게 덮기보다 가만히 서서 살피고 생각하는 선택.",
+          "friction": "하나님의 자연 일을 궁구하는 맥락이며 내 불편함 원인이 밝혀졌다는 말은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:37:15",
+      "textSha256": "f2bb3f91acd8139e5474f007dcbf8eb3418a0ef948889624a735ece89a07cf9c",
+      "status": "hold",
+      "reason": "내가 모르는 작동 방식이 있음을 인정할 생각은 있으나 번개·구름의 자연 질문이 현재 선택의 정보와 거리가 있다.",
+      "contextNote": "폭풍의 원리를 욥이 아는지 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H061",
+          "clue": "내가 안다고 생각한 일에도 모르는 부분이 있음을 인정한다.",
+          "friction": "번개 구름의 작동 질문이라 두 개인 선택과 연결은 비유적이고 간접적이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:37:16",
+      "textSha256": "b6fb1138ef988dd0d6fc63a05b27cc56e60aa5343ba722529a6068395a77cb20",
+      "status": "exclude",
+      "reason": "구름 떠 있음과 온전한 지혜의 신비를 묻는 질문은 지금 두 선택의 부담을 구체로 짚지 않는다.",
+      "contextNote": "구름의 뜸과 지혜의 신비를 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:37:17",
+      "textSha256": "d302594a06d607b32139dd59dfe20586ab7b20d20a14a7e236f01665693ca35e",
+      "status": "exclude",
+      "reason": "남풍의 고요함과 의복 따뜻함의 이유는 자연의 물음으로 비싼 코트의 기능·필요를 판단할 기준이 아니다.",
+      "contextNote": "남풍과 옷의 온기를 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:37:18",
+      "textSha256": "ee72546dee554a093b3ec2d25c45f059869a7f30d7dc0dc247b4919b3ade6942",
+      "status": "exclude",
+      "reason": "거울 같은 단단한 하늘을 펼 수 있냐는 고대 우주 비유는 일반 역할의 능력을 판단할 척도가 아니다.",
+      "contextNote": "인간이 만들 수 없는 궁창을 묻는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:37:19",
+      "textSha256": "b2a9cf983561fa6c600e7897d92a70b832659de03644bd229a0c5a25f28637a8",
+      "status": "hold",
+      "reason": "모르는 말을 가르쳐 달라는 요청은 조언에 통하지만 하나님께 변론할 방법을 비꼬는 논쟁이라 진짜 초청인지 풀이가 필요하다.",
+      "contextNote": "인간이 하나님께 어떻게 말할지 되묻는다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "말할 방법을 모를 때 가르침을 청한다.",
+          "friction": "욥의 변론을 되묻는 반어·논쟁이라 실제 조언 청원으로 읽기 어려울 수 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:37:20",
+      "textSha256": "f157c6fd642808b3d0a64b89e7672ea08411733e84e24eccff88b90612769833",
+      "status": "exclude",
+      "reason": "하나님께 말하다 삼켜질 것을 바라는 이 있냐는 공포는 사람인 친구에게 말할 실제 위험을 알려주지 않는다.",
+      "contextNote": "신적 위엄 앞 말 못함을 반문한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:37:21",
+      "textSha256": "91f430d37877e99dd77337355ee27077bf626f1b7f5fff58fa96011b1bfa0335",
+      "status": "candidate",
+      "reason": "지금 광명이 안 보여도 바람 뒤 맑아지는 그림에서 하루 무응답을 곧 부정적 결론으로 굳히지 않을 실마리를 읽는다.",
+      "contextNote": "구름 낀 하늘이 맑아지는 자연을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G12",
+          "clue": "지금 안 보이는 상태만으로 영원히 나쁘다고 결론내리지 않고 맑아질 여지를 둔다.",
+          "friction": "원래 구름 낀 빛과 바람의 자연 비유다. 친구가 바쁘다거나 화 안 났다거나 답할 시점을 지어내지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:37:22",
+      "textSha256": "825f14eda9048bb8de97bbbea5f3c3454e1bf81f57759bba64fe8306cdb4f561",
+      "status": "exclude",
+      "reason": "북방 금빛과 두려운 위엄은 자연의 경외 묘사로 현재 물건·일정의 구체 선택을 읽기 어렵다.",
+      "contextNote": "다가오는 광명과 하나님의 위엄.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:37:23",
+      "textSha256": "2ae086fbf1de0a4d45cc20db4bfbd908fbfe16030db804d43e4de6e71e4bcc1e",
+      "status": "hold",
+      "reason": "내 이해가 절대적이지 않다는 마음은 보이나 권능·심판·공의의 여러 원론이 묶여 선택 실마리가 추상적이다.",
+      "contextNote": "측량 불가한 하나님과 공의를 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H061",
+          "clue": "모든 것을 측량해야 한다는 부담을 낮출 마음.",
+          "friction": "권능·심판·공의의 여러 추상 개념을 내 결정으로 옮기는 연결 부담이 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:37:24",
+      "textSha256": "2358f46897d5fd69d328cf6543b2289c0c2a1d5bd7d4b06fe1099e81f7b612f8",
+      "status": "candidate",
+      "reason": "스스로 지혜를 다 가진 듯한 마음을 경계하는 말에서 부족해 보일까 혼자 답만 만들지 않을 실마리를 읽는다.",
+      "contextNote": "자기 지혜만 높이는 태도를 경외와 대조한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "스스로만 지혜롭다 확신하기보다 경외하며 다른 말을 들을 여지.",
+          "friction": "하나님이 교만을 돌아보지 않는다는 결론이고 현재 질문하는 사람이 교만하단 도덕 판정은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:38:1",
+      "textSha256": "5349ddcc390a614aaac560cd2d72674f5c95f59c6b2efd4048fd8d343ebfa54f",
+      "status": "exclude",
+      "reason": "폭풍 속 하나님 발언이 시작된다는 소개는 아직 선택 내용이 없다.",
+      "contextNote": "하나님의 욥 응답 시작.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:38:2",
+      "textSha256": "e5279ee8bc8ef2d3306c3bdf95b29372dc1037e47b8bdcb874c77f344249d59a",
+      "status": "candidate",
+      "reason": "모르면서 한 말이 오히려 이치를 흐릴 수 있다는 질문에서 그럴듯한 과장 대신 아는 사실을 말할 실마리를 읽는다.",
+      "contextNote": "하나님이 욥의 제한된 지식을 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "아는 근거 없이 그럴듯한 말을 더해 사실을 흐리지 않을 기준.",
+          "friction": "하나님이 욥의 한계를 묻는 말이며 사용자 말이 모두 무지하다는 판정은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:38:3",
+      "textSha256": "92400c00a8a840356fc38ae6f3c16fdc4a42bb200aeadb8204e7b38724c2e695",
+      "status": "candidate",
+      "reason": "허리를 묶고 물음에 응하라는 장면에서 두려움만 붙들기보다 준비한 채 나설 개인 실마리를 읽는다.",
+      "contextNote": "하나님이 욥에게 대화의 질문을 받으라 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G15",
+          "clue": "허리를 묶고 질문 앞에 설 준비를 하는 용기.",
+          "friction": "대장부의 옛 표현과 하나님-욥 대화이며 동아리 지원이 신적 명령이거나 잘할 것이란 보장으로 설명하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:38:4",
+      "textSha256": "c742dffb051b3b1d6362c604cdbbc5928d84757521aa36c817798caa3f6f3837",
+      "status": "candidate",
+      "reason": "내가 세상의 모든 시작을 알거나 통제한 것이 아니라는 큰 질문에서 완벽한 확답을 쥐어야 할 부담을 덜 실마리를 읽는다.",
+      "contextNote": "땅의 창조 때 어디 있었는지 하나님이 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H061",
+          "clue": "내가 모든 시작과 조건을 다 알 수 있는 주체는 아니라는 큰 질문.",
+          "friction": "창조 때 어디 있었냐는 물음으로 지금 알 수 있는 필수 사실 확인을 그만두란 말은 아니다. 개인이 완벽한 답의 부담을 덜 여지다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:38:5",
+      "textSha256": "d4e368cff46b168c69bcc2536b6847565cbbda55884876c3b688d2059af199a6",
+      "status": "exclude",
+      "reason": "땅의 도량·준승을 정한 이를 묻는 고어 건축 비유는 현재 계획 규모를 정할 정보가 아니다.",
+      "contextNote": "땅의 설계 치수와 측량을 묻는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:38:6",
+      "textSha256": "c46803ffbbc3ca6da4cdf9ac459376859513cc21df1fcec87b7392a5fc9c0814",
+      "status": "exclude",
+      "reason": "주초와 모퉁이 돌은 창조 기초의 비유로 지금 프로젝트 준비의 어느 단계가 부족한지 말하지 않는다.",
+      "contextNote": "창조의 기초와 모퉁이 돌을 묻는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:38:7",
+      "textSha256": "b705db6e733f6d2f2b75dd7dfc1e74f35883ac9cf0e9ea4fe8031b27563f391f",
+      "status": "hold",
+      "reason": "시작을 함께 기뻐하는 그림은 누림에 통하지만 새벽별과 하나님의 아들의 천상 창조 축제여서 일상 구매와 연결이 간접적이다.",
+      "contextNote": "땅 창조 때의 기쁜 천상 반응.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H009",
+          "clue": "새로운 것의 탄생을 함께 기뻐하는 가치.",
+          "friction": "천상 존재·새벽 별의 창조 축제여서 현재 물건 구매의 선택 실마리는 간접적이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:38:8",
+      "textSha256": "912948e8ff98ab5de6c715e011f8ede7ddb1a081dac66c709c08e0798f13f138",
+      "status": "exclude",
+      "reason": "태에서 나온 바다를 막은 주체 질문은 자연 권능의 비유로 현재 친구의 반복 침해와 직접 대응하기 어렵다.",
+      "contextNote": "바다의 출현과 제한을 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:38:9",
+      "textSha256": "b9a94e483d5fba5ee687bde5142d5529b089c0ca56575b6eb08d4dc834b9ec9e",
+      "status": "exclude",
+      "reason": "구름 의복·어둠 강보의 미완결은 바다 탄생의 비유로 옷 구매의 필요나 품질 선택과 다르다.",
+      "contextNote": "바다를 감싼 구름을 강보로 비유한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:38:10",
+      "textSha256": "86476b88c5282e1d57a5ee79db141679a3202b2c0fa88301d9dd5c972485f32a",
+      "status": "exclude",
+      "reason": "한계·문·빗장을 세웠다는 단편은 제한 대상 바다가 앞에 있어 내 업무 한계 요청으로 독립 읽기 어렵다.",
+      "contextNote": "바다의 경계 설치를 말한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:38:11",
+      "textSha256": "52e8f7154a65ee13dca931ab89a1cbc8f1cc3179aab3a94aa55267839b9516cf",
+      "status": "candidate",
+      "reason": "여기까지라며 넘지 못할 선을 분명히 하는 말에서 반복 위반을 또 넘길지 경계를 세울지의 실마리를 읽는다.",
+      "contextNote": "하나님이 바다의 교만한 물결을 제한한 창조 말씀.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H029",
+          "clue": "여기까지이며 더 넘지 못한다는 분명한 경계를 세운다.",
+          "friction": "바다의 교만한 파도를 제한한 하나님 말씀이다. 친구가 교만하다거나 내가 신적 권한으로 누를 수 있다고 판정하지 않는다. 반복 침해에 다시 무조건 부드럽게 말할 방향은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:38:12",
+      "textSha256": "25581b7bee73ce35535b3bda634cc9c9fb398105d09639c42c0985183e405796",
+      "status": "exclude",
+      "reason": "태어난 뒤 아침을 명했냐는 질문의 미완결은 인간 한계 논증으로 내일 일어나거나 오늘 쉴 선택과 직접 통하지 않는다.",
+      "contextNote": "인간이 새벽을 명할 수 있는지 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:38:13",
+      "textSha256": "125be4ce82bf4c302e787d9909c5f910ae09fa27ddd18c141cabacb528237e9d",
+      "status": "exclude",
+      "reason": "새벽이 악인을 쫓는 창조·심판 그림은 현재 친구나 거래 상대가 악인이란 정보가 아니다.",
+      "contextNote": "새벽빛으로 악인을 드러냄을 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:38:14",
+      "textSha256": "c1cefd2ceff4b903026ef58495f8ecb37dbea5d42a0b84d096dc8135b27e8ac6",
+      "status": "exclude",
+      "reason": "진흙 도장과 옷처럼 나타나는 땅의 미완결 비유는 자연의 시각 변화로 제품·작품 공개 선택을 말하지 않는다.",
+      "contextNote": "새벽빛에 드러나는 땅의 모양.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:38:15",
+      "textSha256": "6214c269f14f8f8b4423698ad82d78090d9d01d8fcd29b628fc150d36a00bd92",
+      "status": "exclude",
+      "reason": "악인 팔을 꺾고 빛을 막는 심판은 사적인 말다툼·관계 경계의 실제 행동으로 옮기기 어렵다.",
+      "contextNote": "새벽빛과 악인 제지의 묘사.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:38:16",
+      "textSha256": "dbd25c5c28efdb71253d76c2d22f0413f36a3cbf53c03d3629531d93d326b313",
+      "status": "exclude",
+      "reason": "바다 깊이 걸었냐는 우주 지식 질문은 실제 여행 계획의 능력·위험을 판정하지 않는다.",
+      "contextNote": "심해에 대한 욥의 지식을 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:38:17",
+      "textSha256": "da5b87948b3f0e3f5e9f275439b0370937a6f1e82430572285c0cba3bfb8bae2",
+      "status": "exclude",
+      "reason": "죽음의 문을 보았냐는 질문은 사후 지식에 관한 것으로 현재 생활 선택에 직접 닿는 단서가 적다.",
+      "contextNote": "죽음의 영역에 대한 한계를 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:38:18",
+      "textSha256": "3d6572d89849aac5d9ccb98771b7268e8e65eceeacf504f0e9ebfcfa55a89eee",
+      "status": "hold",
+      "reason": "다 알거든 말하라는 질문은 완벽한 이해의 부담을 비추지만 땅 넓이 측량의 구체 이미지가 개인 결정과는 간접적이다.",
+      "contextNote": "대지 범위에 대한 인간 지식의 한계를 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H061",
+          "clue": "다 알기 전에는 말 못 한다는 부담을 거대한 측량 질문에 비춰 본다.",
+          "friction": "지구 범위 측정은 내 선택의 필요한 정보와 달라 개인 연결이 간접적이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:38:19",
+      "textSha256": "1ddd1d4d261708860457186a185aca6f1ebfd90bed5ae5a9d42dd60d95506afb",
+      "status": "exclude",
+      "reason": "빛과 어둠의 처소를 묻는 우주 개념은 내 마음이 편안한 방향이 어디인지의 생활 정보가 아니다.",
+      "contextNote": "빛과 어둠의 출처를 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:38:20",
+      "textSha256": "d329d8ca467a0c816eb509dadbf1af4a665b24987d6f71616134a7680fabb8a4",
+      "status": "exclude",
+      "reason": "그 집 길을 인도할 수 있냐는 질문은 앞의 빛·어둠 처소에 의존해 지금 행선지 판단으로 읽을 수 없다.",
+      "contextNote": "빛·어둠의 경계와 귀가 경로를 묻는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:38:21",
+      "textSha256": "63ab53ad2a1ac1ff661de07cef433153dc7f4160c111b1a4df3cd27a7b405594",
+      "status": "exclude",
+      "reason": "네가 그때 태어났으니 알 거라는 말은 반어여서 그대로 내 경험을 인증하는 격려로 읽으면 반대 뜻이다.",
+      "contextNote": "인간의 짧은 연한을 반어로 지적한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:38:22",
+      "textSha256": "b30b09b3483af3b7db4ad0e0fa476ca1a659204c1cf00b9f404b47ae9521bd37",
+      "status": "exclude",
+      "reason": "눈·우박 창고를 본 적 있냐는 질문은 고대 창조의 지식 한계로 현재 물품 기록의 필요를 말하지 않는다.",
+      "contextNote": "눈과 우박의 저장소를 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:38:23",
+      "textSha256": "07ee9e8520637e25490d2af1e16d9ce13f07331943723dcc1ff30efd40ef9252",
+      "status": "exclude",
+      "reason": "눈·우박을 전쟁 위해 저축했다는 재난 목적은 생활비 절약이나 작은 준비의 이유로 옮기기 어렵다.",
+      "contextNote": "전쟁 도구가 되는 자연 현상을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:38:24",
+      "textSha256": "517733eaf51c617f901be995f6998cb6e322042f0d0622c9015ddc88f2a7029a",
+      "status": "exclude",
+      "reason": "빛·동풍의 퍼짐 경로 질문은 현재 정보의 출처를 확인할 실무 방법과 직접 통하지 않는다.",
+      "contextNote": "빛과 바람의 길을 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:38:25",
+      "textSha256": "fa26f1dc02a16cda582c82ce10c4cfe1650c56699589952bb9c8c5eddedec9b9",
+      "status": "exclude",
+      "reason": "비·번개의 길을 낸 주체는 창조 권능을 뜻해 내가 새 일을 시작할 구체 방법을 알려주지 않는다.",
+      "contextNote": "폭우·번개의 길을 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:38:26",
+      "textSha256": "b3449cbed4cd9582aa97ef23fbf96ab9bc2caed80643c2ac78274456e283bad7",
+      "status": "exclude",
+      "reason": "아무도 없는 땅에 비 내린다는 미완결은 다음 풀 자람과 이어지며 도움받을 친구의 필요와 바로 잇기 어렵다.",
+      "contextNote": "사람 없는 곳에도 내리는 비의 서두.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:38:27",
+      "textSha256": "4544b239b29f392c0051d9793f9d4a4a2f2e6d45badf81fd122a58b2aa72c514",
+      "status": "hold",
+      "reason": "작은 새 풀도 보살피는 물의 그림은 작은 도움에 통하지만 인간이 못 하는 자연 창조의 질문이라 비유를 옮길 부담이 있다.",
+      "contextNote": "황무한 땅을 살리는 비를 누가 주는지 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "황무한 곳에 물이 닿아 작은 풀이 돋는 돌봄의 그림.",
+          "friction": "창조자의 비를 인간이 할 수 있냐는 질문으로 작은 친구 도움에 옮기는 비유가 길다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:38:28",
+      "textSha256": "bc18911bf15a746e5f405bee99df1fbb30dfbca87701e277eec2a9fd6f2b56d7",
+      "status": "exclude",
+      "reason": "비와 이슬을 낳은 주체 질문은 신적 생성을 말해 지금 회복이나 생식의 실제 조건을 알려주지 않는다.",
+      "contextNote": "비·이슬의 근원을 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:38:29",
+      "textSha256": "5a56b487c37b7879ea40fa99a3bf8c0f446c261409819d0523548d59a4893da4",
+      "status": "exclude",
+      "reason": "얼음·서리의 태생 비유는 자연의 기원을 묻는 말로 현재 몸·여행 위험의 선택 정보가 아니다.",
+      "contextNote": "얼음과 서리의 기원 질문.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:38:30",
+      "textSha256": "3456e5409f7b30c35ffb242df6a5af4ccaabea4ef7daffa1f9a8de78b7f19d35",
+      "status": "exclude",
+      "reason": "물과 바다 표면의 동결 상태만 있어 현재 감정·매물 흐름이 실제 멈췄다는 의미로 쓸 수 없다.",
+      "contextNote": "얼어붙는 물을 묘사한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:38:31",
+      "textSha256": "cccae75c699f0c67e7d95b1392c0043bb07a273621e8480e407a09a0a8fa7bd4",
+      "status": "exclude",
+      "reason": "묘성과 삼성의 띠는 별자리 고어와 운행의 질문이라 생활 약속을 풀지의 선택과 다르다.",
+      "contextNote": "별자리 통제에 관한 물음.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:38:32",
+      "textSha256": "617ae0e15f85e38c8c959d37b91705bbb78ed0aa2a3c386a6d064bca407b6503",
+      "status": "exclude",
+      "reason": "열두 궁성·북두성 운행을 이끌 수 있냐는 천문 질문은 내가 정할 생활 일정의 단서를 직접 주지 않는다.",
+      "contextNote": "별들의 때와 질서를 묻는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:38:33",
+      "textSha256": "5417ee3c98d46f18232dda13bad12462333a09cf500546a5e110ea19bcf556e4",
+      "status": "exclude",
+      "reason": "하늘 법도와 권능을 땅에 베푸는 질문은 창조 주권에 관한 것으로 내 의견을 타인에게 어떻게 말할지 방법이 아니다.",
+      "contextNote": "하늘 법칙에 대한 인간의 한계를 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:38:34",
+      "textSha256": "11c8853b99ccb08ac758e1396615a567bcd81df094dee7d587934c2527e4582d",
+      "status": "exclude",
+      "reason": "말로 구름과 홍수를 부를 수 있냐는 질문은 실제 상대 응답을 내 말로 통제할지에 대한 정보가 아니다.",
+      "contextNote": "사람이 비를 명할 수 있는지 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:38:35",
+      "textSha256": "1bdff8736e03e0ed12c803b96e5e20c912e6a334e8c85ab2a742b71b7f428132",
+      "status": "exclude",
+      "reason": "번개가 여기 있다고 대답하게 하냐는 의인화는 자연 통제의 문제로 친구 답장·도움의 반응을 예고하지 않는다.",
+      "contextNote": "번개 명령에 대한 인간의 한계를 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:38:36",
+      "textSha256": "0bdd3280a769d9ee8631d42163ac9566080cfcddcc2c4456b7c6ede325a8369e",
+      "status": "candidate",
+      "reason": "가슴의 지혜·총명도 받은 것이라는 질문에서 남의 서열만 보느라 자기 생각까지 낮추지 않을 실마리를 읽는다.",
+      "contextNote": "하나님이 인간 통찰의 근원을 묻는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "사람의 가슴과 마음에도 지혜·총명이 주어질 수 있다는 근원을 돌아본다.",
+          "friction": "하나님 질문이며 현재 실력이나 역할 적합성을 확인해 주는 검사는 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:38:37",
+      "textSha256": "673a11661b7656b198a0eb765a1dfda51b0f673737cde20396b4ff5d6548db85",
+      "status": "exclude",
+      "reason": "구름을 세고 하늘 병을 쏟는 미완결은 비의 양을 다루는 고대 우주 비유로 현재 물품 점검과 다르다.",
+      "contextNote": "비의 계량과 방출을 묻는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:38:38",
+      "textSha256": "f9e5c447ce88281af122ffc82890f425df6f516ff46dc673b111bf2615e4a447",
+      "status": "exclude",
+      "reason": "흙덩이를 진흙으로 붙이는 비의 효과는 앞의 병 쏟음 질문에 걸려 생활에서 함께 일할지의 단서가 아니다.",
+      "contextNote": "빗물이 땅을 적시는 모습.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:38:39",
+      "textSha256": "c054bf51e3dc30e290bd5a1456015afe809eb9dbc84c0a8630705371835149e1",
+      "status": "exclude",
+      "reason": "사자의 식량을 모두 채울 수 있냐는 물음은 하나님의 자연 돌봄으로 친구에게 어떤 작은 도움을 할지와 간격이 크다.",
+      "contextNote": "인간이 아닌 맹수의 먹이 공급을 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:38:40",
+      "textSha256": "e007093f4c8908a79900ee07ed134fe2dd946fb4c7bee3ba39e9eeef83892715",
+      "status": "exclude",
+      "reason": "굴과 숲에서 기다리는 그것은 앞의 사자라 매물·답장 기다림의 생활 이유로 단독 읽을 수 없다.",
+      "contextNote": "사자 사냥의 대기 장소.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:38:41",
+      "textSha256": "0a38d024e126faff0429e194b7005b97c4d7c97d01135e88d68104bed8d73133",
+      "status": "hold",
+      "reason": "작은 새끼의 부르짖음에도 먹을 것을 마련하는 돌봄은 도움에 통하지만 질문 대상은 자연의 공급자로 현재의 작은 행동 선택은 간접적이다.",
+      "contextNote": "까마귀 새끼의 먹이 공급을 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "작은 생명의 필요와 부르짖음도 지나치지 않는 돌봄.",
+          "friction": "누가 자연을 공급하냐는 신적 능력 질문이라 지금 작은 행동을 택하는 방향은 간접적이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:39:1",
+      "textSha256": "702358eb0197b121bb31b5ab2e89c879a8f4c7aa67838b60cd430b0dd1638bfb",
+      "status": "exclude",
+      "reason": "산염소·사슴 출산 시기 질문은 동물의 기한으로 현재 마감이나 준비 완료를 판단할 자료가 아니다.",
+      "contextNote": "야생동물 번식에 관한 지식 질문.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:39:2",
+      "textSha256": "976f065ae4aefd6d8823227f224ff9807b567b35a9e7217f5e1fa210a5025d33",
+      "status": "exclude",
+      "reason": "임신 몇 달과 출산 때를 아냐는 질문은 현재 부모·치료 일정에 관한 사실이나 선택을 말하지 않는다.",
+      "contextNote": "야생동물 임신 기간을 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:39:3",
+      "textSha256": "18c9fb7305a9a2f1366c5da1500225a3bffe52a3413f5a60e5f3fe2102fd2a34",
+      "status": "exclude",
+      "reason": "새끼 낳고 고통 지나는 동물 상태는 인간 치료나 현재 역할의 어려움을 당연히 참으라는 규칙이 아니다.",
+      "contextNote": "동물의 출산 묘사.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:39:4",
+      "textSha256": "88d58139ede2e1d936e61f7d7f7226f3683f2426f1f9d2b8c1242aa8d420173c",
+      "status": "hold",
+      "reason": "성장하면 자기 길로 나간다는 그림은 독립에 통하지만 다시 돌아오지 않는다는 뒷문장이 부모와 의견을 말할 고민보다 멀다.",
+      "contextNote": "야생 새끼의 성장과 이탈.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H036",
+          "clue": "돌봄받아 자란 존재도 스스로 자기 길을 나갈 수 있다는 그림.",
+          "friction": "다시 돌아오지 않는 야생동물 묘사가 있어 부모와 관계를 끊으라는 말로 오독할 수 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:39:5",
+      "textSha256": "2780c6540ce69c6e1f6d6dbdc3bc049b6829e75a4fd167a6018d9b0074fd1f52",
+      "status": "hold",
+      "reason": "묶임을 풀고 자유하게 된 이미지는 한계·쉼에 통하나 누가 그랬는지 묻는 들나귀 창조로 현재의 약속을 풀 권한은 아니다.",
+      "contextNote": "들나귀의 자유를 누가 주었는지 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H044",
+          "clue": "매인 것만이 생명의 전부는 아니라는 자유의 그림.",
+          "friction": "들나귀의 창조와 해방이고 이미 약속한 일을 임의로 깨는 권한은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:39:6",
+      "textSha256": "1352e38fd85584b3016c6b3c930d4f96f669eb1731d3ca2e5246a84a602522ac",
+      "status": "exclude",
+      "reason": "들·짠 땅을 동물 집으로 정한 말은 인간이 쉴 장소나 실제 생활 필요를 판단할 기준이 아니다.",
+      "contextNote": "들나귀의 거친 서식지.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:39:7",
+      "textSha256": "c7a6995989d5d4ead6ea4d0783e21b82d5ef5398a5d448197ce9d01b197dfb3b",
+      "status": "hold",
+      "reason": "남의 시끄러운 소리에서 벗어난 자율성은 자기 기준에 통하나 어거와 들나귀의 비인간적 자유를 옮겨 읽어야 한다.",
+      "contextNote": "들나귀가 사람의 통제 밖에 있음을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H064",
+          "clue": "사람들의 시끄러운 소리와 내 방향을 구별할 여지.",
+          "friction": "어거하는 자와 야생 들나귀의 자유가 인간 조언·가치 판단으로 옮기기에 낯설다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:39:8",
+      "textSha256": "eef2c852796c45f61eccf9743d9dce9d2a2af6689ac1a95c011ac2cc7801f7f0",
+      "status": "exclude",
+      "reason": "풀 찾아 산을 다니는 들나귀의 먹이 행동은 인간 여행·새 경험의 선택 부담을 직접 건드리지 않는다.",
+      "contextNote": "들나귀의 자율적인 채식 생활.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:39:9",
+      "textSha256": "7207bd9e22a745619db9441e3c118e6933e5be77f91215d65c695b27e245cdaa",
+      "status": "hold",
+      "reason": "다른 존재가 내 뜻대로 머물지는 않는다는 생각은 답장 기다림에 통하지만 들소의 복종·외양간이 인간 관계와 거리가 있다.",
+      "contextNote": "야생 들소의 길들일 수 없음을 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G12",
+          "clue": "다른 존재를 내가 원하는 자리에 그대로 붙들 수 없다는 생각.",
+          "friction": "복종 안 하는 들소라 늦은 답장과 바로 같지 않고 상대 의도를 판정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:39:10",
+      "textSha256": "1686f3ac9a39ed0c9bcd7b8b93f176a531529356efaae51a97052cc4d190b242",
+      "status": "hold",
+      "reason": "강한 동물이어도 실제 목적대로 쓸 수 있는지의 확인은 제품에 통하지만 이랑·쓰레의 고어와 강제 길들이기 장면이다.",
+      "contextNote": "들소를 쟁기에 매어 따르게 할 수 있는지 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H003",
+          "clue": "겉의 힘만이 아니라 실제 목적대로 쓸 수 있는지 묻는다.",
+          "friction": "들소·이랑·쓰레의 농사 고어와 강제 길들이기 질문이 제품 고민과 연결을 어렵게 한다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:39:11",
+      "textSha256": "5a147e4d5365d11d8d91fab2380e01f39637b5ddad0faf65da72b5e25d2a173a",
+      "status": "candidate",
+      "reason": "힘이 세다는 한 특징만으로 내 일을 맡길 수 있냐는 질문에서 좋은 사양·추천과 실제 내 필요를 구별할 실마리를 읽는다.",
+      "contextNote": "힘센 야생 들소도 사람의 농사에 신뢰해 못 맡김을 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H003",
+          "clue": "힘이 많다는 특징이 내 일을 제대로 해줄 근거인지 따져 본다.",
+          "friction": "야생 들소의 농사 신뢰 질문이며 기기 사양이나 후기 내용을 실제 검증한 말은 아니다. 추천만 믿기보다 용도에 맞는지 알아볼 개인 실마리다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:39:12",
+      "textSha256": "526d655932aeb8235e00924fe6d037c57adc77177e2c128df4e95e383e4a0274",
+      "status": "hold",
+      "reason": "믿고 맡겼을 때 일을 끝내 줄지 살피는 질문은 대여 신뢰에 통하나 그것은 앞의 야생 들소로 맥락 없이는 판단 대상이 빠진다.",
+      "contextNote": "들소에게 수확 운반을 맡길 수 있는지 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H038",
+          "clue": "맡긴 일을 끝내 줄 근거가 무엇인지 스스로 확인한다.",
+          "friction": "그것이 야생 들소라는 앞 문맥이 없으면 왜 믿기 어려운지 선택 근거가 빠진다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:39:13",
+      "textSha256": "bdd17eb094ce271a7fd21c17f6ceb16cdc434a72a75d01f4f38d2efdabda0d91",
+      "status": "hold",
+      "reason": "좋은 겉모양과 실제 돌봄이 다른 대비는 선물 고민에 통하지만 타조의 날개·인자의 뜻을 풀어야 한다.",
+      "contextNote": "타조의 아름다움과 양육의 대비 시작.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H007",
+          "clue": "멋져 보이는 깃·털과 실제 돌봄은 다를 수 있다는 대비.",
+          "friction": "타조와 인자 표현·양육 대비를 풀어야 해 작은 선물의 진정성으로 연결이 길다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:39:14",
+      "textSha256": "c4f0f9c3824954a14513aba539f529d9e2aac1497ff5a4cb32220b49f9f8845c",
+      "status": "exclude",
+      "reason": "모래에 알을 두어 더워지는 미완결은 동물 양육 서술로 현재 내 것을 남길지의 선택 단서는 아니다.",
+      "contextNote": "타조의 산란 위치.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:39:15",
+      "textSha256": "06004ca83f60893c2195805cb3649fee9410c75404505d92948e0c2fd92e5f96",
+      "status": "exclude",
+      "reason": "알 밟힘을 생각 안 하는 모습은 뒤 지혜 없음과 연결되므로 앞으로의 불편을 생각하지 말라는 권고가 아니다.",
+      "contextNote": "타조 알의 위험을 방치함.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:39:16",
+      "textSha256": "3dd55ef90a7a6a15f0ef60946c28b19cacda527b6143b4ade1b673222447975c",
+      "status": "exclude",
+      "reason": "새끼와 헛된 수고에도 무심한 타조를 실패한 방식의 수정 고민에 바로 적용하면 무관심을 옳다고 읽게 한다.",
+      "contextNote": "타조의 부족한 모성 돌봄을 묘사한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:39:17",
+      "textSha256": "863053a969cbf0f3f5c35bd907a61c34f5c3ad3b8ba6e3ccf8646aa6d0e714df",
+      "status": "exclude",
+      "reason": "지혜를 안 준 대상은 타조여서 내 능력·가치가 없다는 신적 판정으로 옮길 수 없다.",
+      "contextNote": "타조의 지각 부족 원인을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:39:18",
+      "textSha256": "e5552c8724979e493a85eea4216595ade3fff02bab1139533283db601a39caea",
+      "status": "hold",
+      "reason": "한 부분 부족해도 뛰어난 힘이 있다는 대비는 역할 두려움에 통하나 그것의 정체가 타조임을 앞에서 알아야 한다.",
+      "contextNote": "돌봄은 약해도 빠른 타조의 능력.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "모든 면에서 같을 필요 없이 가진 강점도 있다는 그림.",
+          "friction": "빠른 타조의 앞 약점을 알아야 대비가 보이고 절 단독에선 주체가 생략됐다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:39:19",
+      "textSha256": "2a016ac1a28c81e439e232141db6ce2a0e6d3bb69aff0c25e32472424223c281",
+      "status": "hold",
+      "reason": "힘을 받는 존재의 그림은 도전의 용기에 통하지만 말의 갈기·힘을 누가 주었냐는 질문은 인간 역할과 간접 연결이다.",
+      "contextNote": "말의 힘과 모습의 창조자를 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G15",
+          "clue": "자기 힘의 근원을 생각해 두려움만 붙들지 않을 여지.",
+          "friction": "말의 힘과 갈기 창조 질문이라 사람 역할의 시작으로는 간접적이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:39:20",
+      "textSha256": "95ee494cd28e128da4aa5018a603ff365eaf27947387bf003eae6655e5142e00",
+      "status": "exclude",
+      "reason": "말의 메뚜기 같은 도약과 위엄 콧소리는 힘 묘사로 현재 어떤 역할을 택할지의 이유는 직접 없다.",
+      "contextNote": "군마의 위력 묘사.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:39:21",
+      "textSha256": "50833cad0a02d1109b3ca96962b1458a89d357f7e7bb56162136eeaf57dc5e50",
+      "status": "candidate",
+      "reason": "있는 힘을 기뻐하며 앞으로 나가는 말의 그림에서 두려움만 보다 원하는 도전을 향할 실마리를 읽는다.",
+      "contextNote": "군마가 전장을 향해 나가는 힘을 묘사한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G15",
+          "clue": "가진 힘을 기뻐하며 앞으로 나가는 모습에서 나도 원하는 시도를 시작할 용기.",
+          "friction": "허위고의 옛말과 군마의 전투 그림이다. 위험한 상황에 무조건 돌진하라거나 지원 성공을 약속하는 서비스 설명은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:39:22",
+      "textSha256": "51693940e825b5488751b7ac4732129b29e082d35d03d628d15787e01c5a026f",
+      "status": "hold",
+      "reason": "두려움에 물러서지 않는 용기는 통하지만 칼에도 후퇴 안 한다는 절대성이 평범한 첫 역할에 과도한 각오로 읽힐 수 있다.",
+      "contextNote": "군마의 전투 용맹을 묘사한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G15",
+          "clue": "두려움에 물러서지만은 않는 용기.",
+          "friction": "칼에도 물러서지 않는 절대적 전쟁 각오가 첫 동아리 역할에 대한 부담보다 훨씬 거칠다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:39:23",
+      "textSha256": "534d633135cf5b3837cb0aaea3f9a9f17047e26e4248a4c95bece522d7376f6a",
+      "status": "exclude",
+      "reason": "화살통·창이 소리 나는 장면은 전쟁 장구의 상태로 생활에서 준비를 끝낼지의 판단을 주지 않는다.",
+      "contextNote": "군마 위 무기들의 소리.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:39:24",
+      "textSha256": "7cf79f1211b71e53996fb6a5afae6da53edb26be033705777364ced005f7c368",
+      "status": "hold",
+      "reason": "신호 뒤 머물지 않고 출발하는 기세는 시작에 통하지만 맹렬히 성냄과 땅 삼킴이 신중한 작은 프로젝트보다 거칠다.",
+      "contextNote": "군마가 나팔 듣고 돌진하는 모습.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B006",
+          "clue": "시작의 신호가 오면 계속 준비만 하지 않고 나아가는 그림.",
+          "friction": "땅 삼키듯 성낸 군마의 속도로 현재 차분한 프로젝트 시작과는 정서의 거리가 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:39:25",
+      "textSha256": "49d9f22349981eb12c087922add2724e605016074a2bfdc3f396da6875373668",
+      "status": "exclude",
+      "reason": "전장 냄새와 소소한 말 울음·장관 호령의 고어 묘사는 배경 이해가 필요하고 현재 선택의 부담에 직접 닿지 않는다.",
+      "contextNote": "군마가 전투를 감지하고 반응하는 모습.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:39:26",
+      "textSha256": "16e0d320bfe6bab0c1288c3100fc1a79deecedca6ff595a3fa4bbee314d4ebd9",
+      "status": "exclude",
+      "reason": "매의 이동 방향이 인간 지혜가 아니라는 질문은 지금의 여행·역할 선택에서 어느 방향인지 직접 말하지 않는다.",
+      "contextNote": "새의 이동 지혜를 누가 주었는지 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:39:27",
+      "textSha256": "d45bfb1a965709d8fb8168cad10ad1a7be8d2b1a0f51739557ec7e453300a06f",
+      "status": "exclude",
+      "reason": "독수리의 높은 보금자리를 인간 명령과 대비한 말은 현재 공개·역할의 성공 조건을 알려주지 않는다.",
+      "contextNote": "독수리의 본능적 둥지 선택을 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:39:28",
+      "textSha256": "4b151b3fd54ba53c701eda3143e9ea797abd0da71c58c3c8ed279f04bc4ee0b0",
+      "status": "exclude",
+      "reason": "절벽·뾰족한 바위 거주는 독수리의 서식지로 인간의 쉬는 장소나 실제 안전 선택과 다르다.",
+      "contextNote": "독수리 보금자리의 지형 묘사.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:39:29",
+      "textSha256": "c32a817fd572ab5b740a8952fe80c9041ba334c0748ad2b7b6683b7828acb86a",
+      "status": "exclude",
+      "reason": "먼 곳 먹이를 살피는 주체는 독수리라 현재 소문·구매 확인을 어떤 정보로 할지 직접 알려주지 않는다.",
+      "contextNote": "독수리의 사냥 시각 묘사.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:39:30",
+      "textSha256": "21e60059485be500e56ef3683befdc3dda1766a39c684c6f3531ab21b13df811",
+      "status": "exclude",
+      "reason": "피와 살육 시체에 모이는 새는 자연 포식의 묘사여서 작은 도움이나 음식 나눔의 실마리로 잇기 어렵다.",
+      "contextNote": "독수리의 포식으로 동물 문답이 끝난다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:40:1",
+      "textSha256": "5c0c6bd88304725322c6a2e05b55dc9dadb17791a4097467696c5e7cf39a3b15",
+      "status": "exclude",
+      "reason": "하나님이 또 말한다는 도입만 있어 선택 내용은 없다.",
+      "contextNote": "첫 문답 뒤 하나님 발언 서두.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:40:2",
+      "textSha256": "d1e947865da93d6d685c250ac071c257e1cc30a86c241621d77fbe83180c0098",
+      "status": "hold",
+      "reason": "내가 반박한 말에 답할 책임은 보이나 전능자와의 법정 논쟁이라 팀원의 실수 지적과 권한이 다르다.",
+      "contextNote": "하나님이 욥에게 답변을 요구한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "반박한 말에도 답과 근거를 댈 책임을 생각한다.",
+          "friction": "전능자와의 법정 논쟁이며 팀원의 말에 무조건 복종할 권위를 주는 말은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:40:3",
+      "textSha256": "00c866afc4ed7ee64bd64661050c6c9618f406c6369a669d71ea94061ad0c976",
+      "status": "exclude",
+      "reason": "욥이 답한다는 서두만 있어 독립된 선택 내용은 없다.",
+      "contextNote": "욥의 첫 짧은 응답 시작.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:40:4",
+      "textSha256": "f8e8d21b44abd1a82dcb9dbd82e09038f6a3431b700f9b65b27cc21a065b79b5",
+      "status": "candidate",
+      "reason": "바로 더 변명하지 않고 자기 한계를 인정하며 입을 잠시 가린 태도에서 지적 앞 방어를 멈출 실마리를 읽는다.",
+      "contextNote": "욥이 자기 지식의 작음을 인정하며 침묵한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "설명을 더 꾸미기보다 잠시 입을 닫고 자기 한계를 인정한다.",
+          "friction": "하나님 앞 욥의 낮아짐이며 현재 실수 때문에 사람의 가치가 미천하다는 판정은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:40:5",
+      "textSha256": "da8799debbe01f3169bd8f875b9e17ebe430637e036e39594e4c0f7dc6835063",
+      "status": "hold",
+      "reason": "한두번 말을 이미 했으니 더 덧붙이지 않는 선택은 감정 대화에 통하지만 앞으로 전혀 응답 안 하겠다는 절대성이 필요한 표현까지 막을 수 있다.",
+      "contextNote": "욥이 더 답하지 않겠다고 고백한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "이미 한 말에 감정 섞인 답을 끝없이 보태지 않는 선택.",
+          "friction": "다시는 응답 안 하겠다는 절대성이 필요한 대화·경계 표현까지 막는 것으로 읽힐 수 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:40:6",
+      "textSha256": "40f807fdd3184386bfa7c2ddff43be4b67087405b8b286b4e61955f73fe5bc13",
+      "status": "exclude",
+      "reason": "폭풍 속 하나님이 말한다는 발언 도입으로 내용은 다음에 있다.",
+      "contextNote": "두번째 하나님 문답 시작.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:40:7",
+      "textSha256": "92400c00a8a840356fc38ae6f3c16fdc4a42bb200aeadb8204e7b38724c2e695",
+      "status": "candidate",
+      "reason": "허리를 묶고 질문 앞에 설 준비를 하라는 요청에서 첫 역할의 두려움 앞에 준비하고 나설 실마리를 읽는다.",
+      "contextNote": "하나님이 욥에게 다시 대화에 응하라 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G15",
+          "clue": "두려움을 없앨 때만 기다리기보다 준비해 질문 앞에 서는 모습.",
+          "friction": "대장부의 옛말과 신적 문답이다. 현재 도전이 하나님의 직접 명령이거나 성공이란 서비스 설명을 붙이지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:40:8",
+      "textSha256": "ae857730ddc9fcf310a83ac0c679164497ebb37086d6bc2991318b5dae3de373",
+      "status": "candidate",
+      "reason": "나를 옳게 만들려고 다른 쪽을 불의하게 만들고 있냐는 질문에서 오류 지적에 방어만 하는 태도를 돌아볼 실마리를 읽는다.",
+      "contextNote": "하나님이 욥의 자기 정당화와 신적 비판을 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "내가 옳다고 보이려는 욕구 때문에 상대부터 나쁘게 만들고 있지 않은지 돌아본다.",
+          "friction": "원래 욥이 하나님 공의를 부정하는 논쟁이며 팀원은 하나님이 아니다. 실제 잘못의 내용을 살필 개인 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:40:9",
+      "textSha256": "f7aad940b46e51fc130a0ae1ddef1fbf805dcfcac8632cf62dfb5356556cf6ca",
+      "status": "exclude",
+      "reason": "신적 팔·우레 소리를 낼 수 있냐는 비교는 지금 사람들 앞 발표·역할의 능력을 재는 척도가 아니다.",
+      "contextNote": "하나님과 인간의 권능 차이를 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:40:10",
+      "textSha256": "6ada77beaec444488506899f35387906bea681311a52cdcf90932d60180eb3fd",
+      "status": "exclude",
+      "reason": "영광과 위엄을 입으라는 말은 뒤의 신적 심판 능력 시험에 걸린 반어로 소비·외모 꾸미기 허용으로 떼어 읽기 어렵다.",
+      "contextNote": "인간이 신처럼 통치할 수 있냐는 도전 서두.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:40:11",
+      "textSha256": "7b1ce5299e34c55aa328060de7d30133e384c23d44748c6f2be459171cabb0d8",
+      "status": "exclude",
+      "reason": "분노 쏟아 모든 교만자를 낮추라는 말은 신적 통치 능력 시험이라 개인이 감정대로 남을 누르라는 명령이 아니다.",
+      "contextNote": "하나님처럼 심판할 수 있냐고 도전한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:40:12",
+      "textSha256": "37d6d90766f5a323d7ab477ea0c2bfd3e647f49652e26a4e24785ec45faa3362",
+      "status": "exclude",
+      "reason": "악인을 밟으라는 미완결은 전 우주 심판 가정으로 사적인 관계 경계의 행동과 다르다.",
+      "contextNote": "모든 악인 제압 능력을 묻는 도전 계속.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:40:13",
+      "textSha256": "eacd91ccc8fcdcc354c62af3cc1ee8f5ae46048454c12bbd294b6ec06ad46440",
+      "status": "exclude",
+      "reason": "함께 흙에 묻고 얼굴 가리라는 심판 장면은 현재 친구·팀원에 대한 대처로 옮길 수 없다.",
+      "contextNote": "심판자를 자처할 때의 전적 권세를 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:40:14",
+      "textSha256": "a8bbf3a6dea1aafc2a97c541992e794bddd6e3301267d9cc1585724ecc246792",
+      "status": "hold",
+      "reason": "자기 손만으로 모두 구원할 수 있냐는 한계는 도움 요청에 통하지만 그리하면은 앞의 악인 심판 수행을 가정한다.",
+      "contextNote": "자력 구원의 능력을 확인할 조건을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "내 손 하나로 모든 해결을 해야 하는지 돌아본다.",
+          "friction": "그리하면은 악인 전체를 심판한 능력의 가정이어서 도움 요청으로 연결하려면 앞 문맥이 필요하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:40:15",
+      "textSha256": "060f9a0de71f49421ebcdeaf27d7ddda1ecf1b41244420409766730dcd6545dd",
+      "status": "hold",
+      "reason": "나와 다른 피조물도 같은 창조자의 작품이라는 동등함은 보이나 풀 먹는 하마의 존재 소개라 사람에게 나눌 선택까지는 약하다.",
+      "contextNote": "하마로 표기된 큰 짐승을 보라 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B003",
+          "clue": "나와 다른 존재도 같은 창조자가 만들었다는 생각.",
+          "friction": "사람이 아니라 큰 짐승의 강함 소개라 행사 몫의 공평함으로는 간접적이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:40:16",
+      "textSha256": "a421a2e0d39feb8a3c6d3fadaab5dfc92976506f85c14153544bb28c83f16afc",
+      "status": "exclude",
+      "reason": "허리와 배 힘줄의 세력은 앞 짐승의 신체 묘사로 내 체력·역량을 실제 평가해 주지 않는다.",
+      "contextNote": "큰 짐승의 힘을 묘사한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:40:17",
+      "textSha256": "08872980f90fac68f0838fcc8ce77c87d75d8fb125a01e495a7f28fa7e8116b3",
+      "status": "exclude",
+      "reason": "백향목 꼬리·연결된 넓적다리 힘줄의 비유는 동물 구조로 협업·관계의 선택과 거리가 있다.",
+      "contextNote": "큰 짐승의 꼬리와 힘줄.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:40:18",
+      "textSha256": "6d310e3c5754b0dbaebe68c880d27d0c340b2d067cec498fdbb4ecc9a1012589",
+      "status": "exclude",
+      "reason": "놋관·철장 같은 뼈는 큰 짐승이라 지친 사람도 금속처럼 버티라는 뜻이 아니다.",
+      "contextNote": "큰 짐승의 단단한 골격 비유.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:40:19",
+      "textSha256": "c145c10fddb951373a5a3c31a0866480d4306718bacdf9d7cebab02e79eed0f2",
+      "status": "exclude",
+      "reason": "창조물 으뜸과 칼을 준 주체는 강한 짐승의 제압 문제로 내 역할의 성공을 예고하지 않는다.",
+      "contextNote": "짐승의 위대함과 창조자 권능을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:40:20",
+      "textSha256": "7272abc13ec5811c9277c40616c9983830234cd70bdd39116cd1701400d19233",
+      "status": "exclude",
+      "reason": "짐승 노는 산이 먹이를 내는 자연 공급만으로 내 실제 구매·일정의 선택 실마리는 부족하다.",
+      "contextNote": "큰 짐승의 먹이 공급 묘사.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:40:21",
+      "textSha256": "cfe4473518ad074cda81d4edcaffc73ab9e5169b850789862fcefdc64fd72792",
+      "status": "exclude",
+      "reason": "연·갈밭·못에 숨는 짐승의 거처는 회복 위해 쉴지의 인간 선택 이유를 직접 주지 않는다.",
+      "contextNote": "큰 짐승의 수중 거처.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:40:22",
+      "textSha256": "e118995e5cdef0b83e539771f3220b94f40ec91bfb0097dacd3a9a94ee08505f",
+      "status": "exclude",
+      "reason": "연 그늘과 버들의 덮임은 동물 서식의 상태라 자고 쉬는 사람에게 어떤 부담을 내려놓을지 직접 닿지 않는다.",
+      "contextNote": "큰 짐승을 감싼 식생 묘사.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:40:23",
+      "textSha256": "7cff5b19d2743c4758fda35c8ebdadccda17a184363bc0f33235b78bfca69c48",
+      "status": "hold",
+      "reason": "물 넘침에도 자약한 담대함은 도전에 통하지만 창일·자약의 고어와 강물 입에 닿는 큰 짐승을 알아야 한다.",
+      "contextNote": "범람에도 침착한 짐승의 힘.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G15",
+          "clue": "큰 물살 가운데도 바로 겁먹지 않는 담대함의 그림.",
+          "friction": "창일·자약의 옛말과 큰 짐승의 몸 상태가 낯설어 첫 역할에 바로 연결이 어려울 수 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:40:24",
+      "textSha256": "8efe6eec2db68a3d3615b29184183efe059d6650637e319caba6b3919347ce2b",
+      "status": "exclude",
+      "reason": "코 갈고리로 잡을 수 있냐는 질문은 동물 제압의 불가를 가리켜 사람의 거래·통제를 선택할 방법이 아니다.",
+      "contextNote": "큰 짐승 포획의 어려움을 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:41:1",
+      "textSha256": "1b2834ab318bb006b66c84c000312fb8f9fc190ae491799b3408e3d60bc12138",
+      "status": "exclude",
+      "reason": "악어 낚시와 혀 묶기의 질문은 실제 포획 능력에 관한 것으로 친구의 말을 통제할지와 바로 잇기 어렵다.",
+      "contextNote": "악어로 표기된 큰 짐승 문답 시작.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:41:2",
+      "textSha256": "1f39d649269dd2c57b4fc22bddb0bec9a355b3bf611c36ccb795862803adc89d",
+      "status": "exclude",
+      "reason": "코·아가미를 꿰는 갈고리는 동물 포획의 도구로 지금 심리·관계 한계를 정할 방법과 다르다.",
+      "contextNote": "악어 포획 불가를 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:41:3",
+      "textSha256": "873f5385dac31e49c29bdd48fb91ed8a9e1cebeb678a40102c654b4287248f7b",
+      "status": "exclude",
+      "reason": "짐승이 유순하게 간구하겠냐는 반문은 현재 친구가 부드럽게 말해도 안 바뀌는 사실을 설명하는 말이 아니다.",
+      "contextNote": "악어가 사람 뜻에 따르지 않음을 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:41:4",
+      "textSha256": "4319268587f5c1db21a91647e6d0679d523a264f04d883ee7b53eeb2c6e638dd",
+      "status": "exclude",
+      "reason": "악어가 영원한 종 계약을 안 할 거라는 질문은 이미 성립한 사람의 거래 약속을 깰 근거가 아니다.",
+      "contextNote": "악어를 계약으로 통제할 수 있냐 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:41:5",
+      "textSha256": "8d57512ea0e0e28555e0ea0de53854c2deffe6264864e157e465cdd0f0d0a006",
+      "status": "exclude",
+      "reason": "위험한 짐승을 새처럼 놀리고 소녀 위해 매어두냐는 반문은 사람 놀이·반려 선택에 맥락 풀이가 많이 든다.",
+      "contextNote": "악어의 길들일 수 없는 위험을 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:41:6",
+      "textSha256": "02c46a830368943800bfe7a8b918523cc0b131ef8f8c5bdd1f9f1141d62846c5",
+      "status": "exclude",
+      "reason": "악어를 상품 삼아 나눌 수 있냐는 포획 불가 질문은 실제 매물의 가격이나 팔릴 가능성을 판단하지 않는다.",
+      "contextNote": "악어의 상품화 가능성을 묻는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:41:7",
+      "textSha256": "9a50c9488a94cff7000738efa411842e95fe0af51a5a5627eaef9f1dd4aa6e95",
+      "status": "exclude",
+      "reason": "가죽·머리를 창으로 뚫을 수 있냐는 공격의 질문은 일반 과제의 장애를 넘는 구체 수단과 다르다.",
+      "contextNote": "악어의 방어 능력을 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:41:8",
+      "textSha256": "3c38ba2a7c598e45fe2b2c6ac81b218d2420f6a2a18a85c496cd2253ed1057da",
+      "status": "hold",
+      "reason": "직접 경험한 뒤 같은 시도를 되풀이하지 않는 지혜는 방식 변경에 통하지만 손대면 전투가 되는 위험한 짐승의 장면이다.",
+      "contextNote": "악어를 건드려 포획을 반복 못함을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H043",
+          "clue": "직접 부딪힌 경험으로 같은 접근을 계속 반복할지 돌아본다.",
+          "friction": "포획자가 악어와 싸우는 위험 장면이며 작은 과제 실패와 무게가 다르다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:41:9",
+      "textSha256": "22c1cd1c9d2b8f79caefc129db5e6eb8220ee58a881e6fff932816e0d3e60622",
+      "status": "hold",
+      "reason": "계속 붙들 희망과 실제 가능성을 구별할 생각은 있으나 포획 소망 자체가 헛되다는 판단이라 단순 방법 변경보다 목표 포기를 말한다.",
+      "contextNote": "악어 포획자의 좌절을 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H043",
+          "clue": "기대만 붙들지 말고 현실적으로 목표·접근을 돌아볼 생각.",
+          "friction": "소망 자체가 헛되다는 포획 불가라 방법을 바꾸어 같은 일을 이루려는 선택보다 포기에 가깝다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:41:10",
+      "textSha256": "e8d87b5d928831395f8e17b3ae3ee821fe0c382d953d02b7ce8fe2afba0e08cd",
+      "status": "exclude",
+      "reason": "짐승도 못 격동시키면서 하나님 대적하냐는 권능 비교는 지금 팀원 지적을 따라야 할 사실 근거가 아니다.",
+      "contextNote": "짐승을 넘어서는 창조자의 힘을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:41:11",
+      "textSha256": "226f9e2aa19205aef21d9c85e3c9375624e2c266bad8853ed91dbed12117e8ad",
+      "status": "candidate",
+      "reason": "모든 것을 오직 내 소유·받을 몫으로만 붙들지 않는 주권 고백에서 물건을 가족에게 나눌 여지를 읽는다.",
+      "contextNote": "누구에게도 빚지지 않은 창조자의 소유권을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H024",
+          "clue": "잠시 가진 것을 오직 내 받을 몫으로만 붙들지 않고 나눌 여지를 생각한다.",
+          "friction": "하나님의 주권과 무채무를 말한다. 가족이 받을 자격이나 내가 갚아야 할 빚을 새로 만들지 않고 거래 약속을 임의로 지우지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:41:12",
+      "textSha256": "bcd807169df688d64c980c83e072540747984aaf5a6b8a95a9e05f3f390fad37",
+      "status": "exclude",
+      "reason": "악어 구조를 더 말하겠다는 발언 예고만 있어 현재 선택 내용은 없다.",
+      "contextNote": "악어의 세부 묘사 시작.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:41:13",
+      "textSha256": "4705e25853f109957c4340a7568726c18b7395f2ef38b527e71c7a6151cab9b4",
+      "status": "exclude",
+      "reason": "가죽·아가미에 접근할 수 있냐는 물음은 동물의 위력이고 사람의 내면을 확인할 방법은 아니다.",
+      "contextNote": "악어 겉구조의 방어 능력.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:41:14",
+      "textSha256": "3ebaea3cb4185fca10cd70dd9bdd3a47604da5539b21e7a8cd7eb72132716527",
+      "status": "exclude",
+      "reason": "입의 문과 무서운 이빨은 포식 동물의 해부 비유로 실제 인간관계 위협을 판정하지 않는다.",
+      "contextNote": "악어 입과 이빨의 위험.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:41:15",
+      "textSha256": "0db43c313cdcc7331c1cfb783a4c5920630f7513f94f4a8f61551c5a0c557fa6",
+      "status": "hold",
+      "reason": "틈 없이 연결된 비늘의 그림은 함께 도움에 통할 수 있으나 사람의 관계가 아니라 외피 방어의 구조다.",
+      "contextNote": "악어의 밀착된 비늘을 묘사한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "작은 조각도 연결돼 틈을 덮는 힘을 생각한다.",
+          "friction": "비늘 구조의 비유라 내게 도움을 요청할 실제 사람·행동으로 옮기는 부담이 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:41:16",
+      "textSha256": "b107ec7aedf03b0cb790e1055332bdb8508373b6e1ab9db308a3e624c284010c",
+      "status": "exclude",
+      "reason": "바람도 못 들어가는 이것저것은 비늘 조각이라 협력의 실제 상대·방법이 생략된 인간 조언으로 읽기 어렵다.",
+      "contextNote": "악어 비늘의 밀착 묘사 계속.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:41:17",
+      "textSha256": "bfe6eafe6075da9f7e403eba5e6d72592bb267c1f7e0c9f9bdbc9fe7bb584759",
+      "status": "exclude",
+      "reason": "나눌 수 없는 조각은 비늘이지 사람 사이의 영구 약속이 아니라 관계를 고정할 근거가 아니다.",
+      "contextNote": "악어 비늘의 견고함을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:41:18",
+      "textSha256": "369eb3cc66eba06203bf66db09329f7a2942800303cb50c18813cde6f933abf2",
+      "status": "exclude",
+      "reason": "눈꺼풀·재채기의 빛은 신화적 동물 묘사여서 내가 공개·표현할 때의 효과로 연결하기 어렵다.",
+      "contextNote": "악어의 눈과 광채를 비유한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:41:19",
+      "textSha256": "7964db8d506c53e23b4794a72bed402728414daab539a20dc501432c14ff5a7c",
+      "status": "exclude",
+      "reason": "입에서 나오는 불과 횃불은 큰 짐승의 신화적 위력으로 화난 메시지의 실제 해결 선택과 직접 통하지 않는다.",
+      "contextNote": "불 뿜는 악어의 비유.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:41:20",
+      "textSha256": "271363889bd83f1ac1b112ea9f93140c2a836bb4dfd8b87fc013b4a57c96e582",
+      "status": "exclude",
+      "reason": "솥·갈대 타는 연기의 콧구멍 비유는 실제 질환·감정의 진단이나 현재 대처법이 아니다.",
+      "contextNote": "악어의 숨과 연기를 비유한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:41:21",
+      "textSha256": "8b9fa09b6f0d403e35123f399b86702227b1f80d9a89b224b4bd8854b97b26ad",
+      "status": "exclude",
+      "reason": "숯불 피우는 숨은 같은 짐승 위력 묘사로 사람의 말이 위험하니 침묵하라는 직접 기준은 아니다.",
+      "contextNote": "악어 불의 비유 계속.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:41:22",
+      "textSha256": "7ecae54e3b597f529dba339ab9697d228b23cf889fd7f7e400dceb128274a335",
+      "status": "exclude",
+      "reason": "목의 힘과 그 앞 두려움 의인화는 동물의 위력 상태라 현재 내 역할 두려움을 풀 선택은 약하다.",
+      "contextNote": "큰 짐승 힘과 위협을 묘사한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:41:23",
+      "textSha256": "c3f077dbfdb3e310701b3589cad48bf84e09d44373aa193673ee2a74f368bca2",
+      "status": "exclude",
+      "reason": "살 조각이 붙어 움직이지 않음은 갑옷 같은 몸의 구조로 협업·도움 요청에 자연스러운 실마리가 약하다.",
+      "contextNote": "악어 몸의 단단함.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:41:24",
+      "textSha256": "60e3a013431e57283504a111b341fcdfa20e479a347f5413d2e4c4f49b2a0db7",
+      "status": "exclude",
+      "reason": "돌·맷돌처럼 단단한 것은 짐승의 심장이라 인간이 감정적으로 무감각해야 한다는 뜻으로 읽기 어렵다.",
+      "contextNote": "악어 심장의 강함 비유.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:41:25",
+      "textSha256": "c5504e5fe074e2321a504a9391bfd952553a819b34607f1a9b58f1ddd2d97cb8",
+      "status": "exclude",
+      "reason": "용사도 창황하는 반응은 위험한 생물의 위력으로 평범한 첫 역할이 그만큼 무섭다는 정보가 아니다.",
+      "contextNote": "악어 앞 용사의 공포.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:41:26",
+      "textSha256": "2f112789afd977b4dab692cb16254f93703babb060593ec4e0cb0f864b2fbaae",
+      "status": "exclude",
+      "reason": "모든 무기가 안 통하는 몸은 동물 방어 설명이라 계속 실패한 내 방식이 모두 무용하단 판정으로 쓸 수 없다.",
+      "contextNote": "악어에 무기 안 통함을 열거한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:41:27",
+      "textSha256": "9df410c53dc74b3b9d868f53476f49b9b72d690438fddb7fe1d93678e9dfa620",
+      "status": "exclude",
+      "reason": "철·놋을 풀과 썩은 나무처럼 보는 주체는 악어로 물건 재질·구매 품질의 기준과 다르다.",
+      "contextNote": "악어 방어의 강함을 비교한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:41:28",
+      "textSha256": "9c4dee16695c77434fa6a3f62df7d170cbfcb4683fc1b7a462fd69d92adcbf8b",
+      "status": "exclude",
+      "reason": "화살·물맷돌이 무력한 포획 장면은 상대가 내 말을 안 들을 거라 판정하는 근거가 아니다.",
+      "contextNote": "악어에 안 통하는 원거리 무기.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:41:29",
+      "textSha256": "55ae12896d8727af0aa3e3fb15ac47c80581b03882a1606f7137f64676730b70",
+      "status": "exclude",
+      "reason": "몽둥이·창을 우습게 보는 주체는 짐승이라 반대를 무조건 무시하는 인간 태도로 옮길 수 없다.",
+      "contextNote": "악어의 무기 저항 계속.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:41:30",
+      "textSha256": "e571a3d5ee29399c4c1d6ced88b437f0a1e8a4eb38cc72d4b84ac4e2d570bf81",
+      "status": "exclude",
+      "reason": "날카로운 와륵·타작기 같은 배 흔적은 고어·해부 비유가 어려워 현재 사람의 선택에 실마리가 적다.",
+      "contextNote": "악어 아래면이 진흙에 남기는 자취.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:41:31",
+      "textSha256": "fa4659dce8e4aa942372a07493976f779ed776625380a51d3ef92e4f7752b869",
+      "status": "exclude",
+      "reason": "솥·향기름 같은 바다는 짐승 이동의 소용돌이로 실제 식사·욕망·날씨 판단과 다르다.",
+      "contextNote": "악어가 뒤흔든 물을 비유한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:41:32",
+      "textSha256": "d57a9e20d554bc6e796f6a91dbb701e3672a768ba1a57dd3abd35c75f70c8b4a",
+      "status": "exclude",
+      "reason": "백발 같은 물길은 악어 지나간 흔적으로 현재 새 길을 택하면 성공한다는 예고가 아니다.",
+      "contextNote": "짐승 뒤에 남은 물거품의 빛.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:41:33",
+      "textSha256": "e0a8ffb557979afa335a6b193eed918871f6541c2f0dbfad8a7436f82a31438d",
+      "status": "hold",
+      "reason": "두려움 없게 지어진 존재의 그림은 용기에 통하나 같은 것 없다는 주체가 앞 악어로 단독 읽으면 대상이 빠져 있다.",
+      "contextNote": "악어의 독보적인 힘과 담대함.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G15",
+          "clue": "두려움에 지지 않는 존재의 담대함을 비춰 본다.",
+          "friction": "그것은 앞의 큰 짐승이고 현재 내가 독보적 역량을 가졌단 말로 해석하면 안 된다. 대상 생략으로 연결도 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:41:34",
+      "textSha256": "5cd10f9c6b9a629450ad00494882034b89a11f6f25a97b35f68f2d1e0beaa8fc",
+      "status": "exclude",
+      "reason": "교만한 것의 왕은 악어를 가리켜 내가 높은 이를 낮추어야 할 역할이라는 명령으로 읽을 수 없다.",
+      "contextNote": "악어 묘사와 하나님 문답의 끝.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:42:1",
+      "textSha256": "00c866afc4ed7ee64bd64661050c6c9618f406c6369a669d71ea94061ad0c976",
+      "status": "exclude",
+      "reason": "욥이 답한다는 서두만 있어 선택 내용은 없다.",
+      "contextNote": "욥의 최종 응답 시작.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:42:2",
+      "textSha256": "3a4a47daf169ee955fcbac586ccb65760a53ff21f7f3329545c51a21395c0d0a",
+      "status": "candidate",
+      "reason": "막힌 마음에서 내가 보이는 가능성만이 전부는 아니라는 신뢰를 읽어 처음 역할의 도전을 생각할 실마리가 된다.",
+      "contextNote": "욥이 하나님의 능력과 뜻 성취를 인정한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G15",
+          "clue": "내가 계산한 두려움 밖에도 가능성이 있다는 신앙의 신뢰에서 시도할 마음.",
+          "friction": "하나님의 뜻과 능력 고백이며 내가 고른 모든 계획의 성공·역량을 서비스가 보장하는 설명은 하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:42:3",
+      "textSha256": "fce3f956a4632c62a9c9f50e41ec552e3b866c0dd8e0714681fced116785ab0d",
+      "status": "candidate",
+      "reason": "스스로 모르는 일을 아는 듯 말했음을 인정한 고백이 지적을 받고도 내 방식만 고수할지의 부담을 건드린다.",
+      "contextNote": "욥이 제한된 지식의 말을 돌이킨다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "모르는 것을 아는 듯 말한 부분을 인정하고 돌이키는 태도.",
+          "friction": "욥의 신적 지식 한계 고백이며 자기 존재나 모든 의견을 무가치하게 만드는 말은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:42:4",
+      "textSha256": "ec0964cdc2d88b7fd1aa9d2ab1da04e64d3a49265341d2df2de0a81760f7f8e3",
+      "status": "candidate",
+      "reason": "내 말도 들어 달라 청하면서 모르는 것은 묻고 알려 달라는 쌍방 대화가 조언을 구할 실마리를 준다.",
+      "contextNote": "욥이 하나님과 배우는 관계로 문답하려 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "내 말을 전한 뒤에는 나도 모르는 것을 물어 알려 달라 청한다.",
+          "friction": "하나님께 배우는 욥의 기도이며 선배의 조언이 곧 신적 정답이라는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:42:5",
+      "textSha256": "7e4734153721e826d308810665c165d35b7ee7b0b7d78f91ffbbbe1732599e58",
+      "status": "candidate",
+      "reason": "귀로만 들은 것에서 직접 보는 단계로 바뀐 말이 추천만 믿고 살지 더 알아볼지의 고민에 뜻밖의 실마리를 준다.",
+      "contextNote": "욥의 하나님에 대한 직접 경험 고백.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H003",
+          "clue": "남에게 듣기만 한 상태에서 직접 보고 아는 단계로 나아간다.",
+          "friction": "원래 하나님 경험의 고백이며 직접 본 기기가 꼭 필요하다는 결론이나 감정 체험을 제품 검증으로 대체하는 말은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:42:6",
+      "textSha256": "afaa9f7d96745b6132cc4342ae7a540249986c0fea20cfbaae96c03f2f12ab62",
+      "status": "candidate",
+      "reason": "자기 말을 돌이켜 회개하는 행동에서 먼저 낮아지는 것을 패배로만 보지 않을 실마리를 읽는다.",
+      "contextNote": "욥이 티끌·재 가운데 회개한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H027",
+          "clue": "먼저 낮아져 자기 말을 돌이킬 수 있다는 회개의 태도.",
+          "friction": "한함·티끌·재의 고어와 애도 표현이며 실제 다툼에서 친구가 모두 옳거나 사과 수락을 확정하는 말은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:42:7",
+      "textSha256": "a1ae06a063c43dac52374a9fb487ad82cf7b1b907e495753f046221852544545",
+      "status": "candidate",
+      "reason": "여러 친구의 말도 정당하지 않을 수 있다는 결론에서 소문만 듣고 한 사람을 단정할지 돌아볼 실마리를 읽는다.",
+      "contextNote": "하나님이 엘리바스와 두 친구의 말을 책망한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "많은 사람이 같은 말을 했다고 그 사람에 대한 판단이 자동으로 옳지는 않음을 본다.",
+          "friction": "하나님이 사실 아시는 욥 사건이고 현재 소문이 거짓이라고 미리 판정하지 않는다. 친구의 실제 설명을 먼저 들을 실마리다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:42:8",
+      "textSha256": "16eec2cb32152de9fd6e58fcb1ee5bd2e80833054f0e0bd6133b148f486aae90",
+      "status": "hold",
+      "reason": "잘못한 사람이 돌아가 중재와 회복을 구하는 길은 사과에 통하지만 제물 수량·번제·중보·정당성 설명이 매우 길다.",
+      "contextNote": "친구들에게 욥에게 가서 제사·기도로 돌이키라 한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "G10",
+          "clue": "잘못을 한 뒤에도 다시 찾아가 회복을 구할 길을 생각한다.",
+          "friction": "두 종류 일곱 제물·번제·욥의 중보·신적 정당성의 긴 제의 설명이 일상 사과를 가린다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:42:9",
+      "textSha256": "eae74b7ab1837428cab7db0e4c10a6f27b3003ac48f7ea8280007cd3d598dde1",
+      "status": "hold",
+      "reason": "잘못된 사람도 지적에 응해 움직인 모습은 사과에 통하지만 세 친구의 출신·이름과 앞 명령 참조가 길고 무엇을 했는지는 빠져 있다.",
+      "contextNote": "친구들의 이행과 욥 중보가 받아들여짐.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G10",
+          "clue": "잘못 지적 뒤 말로 버티기보다 실제 움직이는 모습.",
+          "friction": "세 지명·인명과 앞의 명한대로란 참조가 길고 수락받은 이는 욥이라 친구 사과 수락으로 바로 읽기 어렵다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:42:10",
+      "textSha256": "08595b5875c69c25e6247ad08af9ac2720650a596c6eef79c40488b1263336cf",
+      "status": "candidate",
+      "reason": "상처 준 사람들을 위해서도 기도한 행동에서 작은 실수에 대한 서운함만 계속 붙잡지 않을 실마리를 읽는다.",
+      "contextNote": "친구들이 잘못을 돌이킨 뒤 욥의 중보와 회복이 이어진다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H028",
+          "clue": "작은 잘못을 계속 되새기기보다 상대를 위해 빌고 마음을 돌리는 선택.",
+          "friction": "욥의 큰 고통·친구들의 돌이킴 뒤 회복과 두 배 재산이 포함된다. 반복 침해가 안 바뀐 G11·H029에 무조건 용서로 확대하지 않고 용서하면 부자 된다는 설명도 하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:42:11",
+      "textSha256": "78d873bd2950861700ea9999767e18d0cc3ba1b48fd1f095ee6437ada4a05680",
+      "status": "candidate",
+      "reason": "함께 먹고 슬퍼하고 작은 몫의 선물을 나눈 구체 돌봄에서 내가 할 수 있는 도움을 건넬 실마리를 읽는다.",
+      "contextNote": "다시 찾아온 형제·친구들이 욥을 위로한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "곁에 와 함께 먹고 슬퍼하며 각자 가능한 몫을 건네는 구체 위로.",
+          "friction": "재난 뒤 금·금고리 선물도 있어 지금 같은 비용이 필요하다는 기준은 아니다. 상대가 위로받는 실제 반응을 만들어 넣지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:42:12",
+      "textSha256": "747728b1afb06cd7e45aa1fdfd0c0f10635b68d53f7ead00ebe99bf45cbdad85",
+      "status": "hold",
+      "reason": "잃은 뒤 더 회복될 수 있다는 희망은 있으나 양·약대·소·나귀의 긴 수량 명세가 현재 가능한 시작의 단서를 가린다.",
+      "contextNote": "욥 말년 재산의 회복 집계.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H060",
+          "clue": "잃은 뒤에도 새로운 회복을 바라볼 희망.",
+          "friction": "마리 수와 종별 재산 명세가 전체 대부분으로 지금 할 수 있는 일을 택하는 실마리는 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:42:13",
+      "textSha256": "cf28a25d18a699d68141ed4e18b0b34643a81fb53f9b0030c6f798dd5a3f2615",
+      "status": "exclude",
+      "reason": "아들 일곱·딸 셋의 출생 인원만 있어 현재 선택할 행동이나 기준은 없다.",
+      "contextNote": "욥의 회복된 가족 집계.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:42:14",
+      "textSha256": "4f283c6fa383eb109623a6ad72cf7b86b8d420d55d07d4f244b879ddb74e8941",
+      "status": "exclude",
+      "reason": "세 딸의 이름만 기록해 현재 관계·역할·나눔 선택과 직접 통할 판단은 없다.",
+      "contextNote": "욥의 세 딸 이름.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:42:15",
+      "textSha256": "9aa35513fb6adce59df9d82c91f996aca106415653795cdc6e17492e9a1e3d0b",
+      "status": "candidate",
+      "reason": "아들과 다르게 보던 딸에게도 같은 산업을 준 행동에서 친분·성별의 관례보다 같은 몫을 생각할 실마리를 읽는다.",
+      "contextNote": "딸들의 아름다움과 동등한 재산 분배를 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B003",
+          "clue": "관례상 다르던 사람도 같은 몫을 받게 하는 공평한 행동.",
+          "friction": "딸들의 미모가 앞문장에 나오지만 아름다움을 분배 자격으로 정한 규정은 아니다. 실제 참가자 역할·필요까지 같다고 새로 단정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOB:42:16",
+      "textSha256": "6d699c22a107ead3eddcf5e911ccdf4aa2302add36a70ff6dd0b0177c8dbf633",
+      "status": "exclude",
+      "reason": "140년과 사대 후손을 본 생애 마무리는 회복의 결과지만 지금 선택의 양쪽 부담을 건드릴 구체 행동 단서는 없다.",
+      "contextNote": "욥의 장수와 후손 관찰 기록.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOB:42:17",
+      "textSha256": "e16d5872d60f841a4c28b4155ae2539226594b8148e44d58b4eaca476473284a",
+      "status": "exclude",
+      "reason": "기한 차서 죽음은 생애 완료라 오늘 잠을 자거나 일을 마치는 일시적 쉼으로 옮기면 뜻이 달라진다.",
+      "contextNote": "욥의 죽음으로 책을 마친다.",
+      "readability": "clear",
+      "connections": []
     }
   ]
 }
