@@ -10397,6 +10397,2024 @@
       "contextNote": "옷과 가죽 및 염소털과 목제품을 정결하게 한다.",
       "readability": "thinkable",
       "connections": []
+    },
+    {
+      "id": "KRV:NUM:31:21",
+      "textSha256": "be5f97c504cc1ff711f78ecf71e255c3e42c034d2d93eec8bbbed531d930c9f5",
+      "status": "exclude",
+      "reason": "법률을 전한다는 서두만 있어 전쟁 후 어떤 처리를 할지는 다음 절에 있다.",
+      "contextNote": "엘르아살이 군인들에게 정결 규정을 전한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:31:22",
+      "textSha256": "8eee9ca9aadb6b805bd1f5166126dfd2de1aefd6756232912b22a90f0a116daf",
+      "status": "exclude",
+      "reason": "금과 은과 동과 철 및 납 종류의 재료 목록이 중간에 끊겨 물건의 활용이나 교체 선택에 충분한 내용이 없다.",
+      "contextNote": "불로 처리할 재료를 나열한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:31:23",
+      "textSha256": "af1fabcfcea7e9c12b72914632efc66ec5fe548c5233281522b00b3c9b8d9cd1",
+      "status": "hold",
+      "reason": "H043에서 같은 방법을 모두에게 쓰지 않고 견딜 성질에 맞게 바꿈은 읽히지만 불과 정결 물의 의식 처리라 현재 방식 실패의 원인과 같다는 근거는 없다.",
+      "contextNote": "불을 견딜 물건과 못 견딜 물건의 정결 방식을 구별한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:31:24",
+      "textSha256": "674afb3dce9197986c2e6a58fdcffdd61558e0edcc4bb3dc944c4a810510cf8d",
+      "status": "exclude",
+      "reason": "칠일째 세탁 후 진에 복귀하는 의례 절차로 회복에 필요한 실제 기간이나 상태를 대신 정해 줄 수 없다.",
+      "contextNote": "전쟁 참여자의 정결과 진영 복귀 시점을 명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:31:25",
+      "textSha256": "1213bc72e4be9e9f17f4b9129e3f0d4cbde2d4cf24000ea629c6671d78ca8075",
+      "status": "exclude",
+      "reason": "말씀 전달 도입만 있어 선택을 평가할 내용이 없다.",
+      "contextNote": "전리품 계수와 분배를 연다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:31:26",
+      "textSha256": "a68abf5249530274945f992be221567aaa98aa42887ebf9a6a7d74c377fa1262",
+      "status": "hold",
+      "reason": "A009에서 여러 담당자가 함께 셈함은 닿지만 탈취한 사람과 짐승을 함께 계수하는 미완결 지시여서 일상 업무 위임의 첫 실마리로 충분할지는 불확실하다.",
+      "contextNote": "모세와 제사장 및 족장들이 전리품을 세게 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:31:27",
+      "textSha256": "f53336051b5e5bdc0d9a522b046363a51b853edccdf5c6ff3afb376f915c8a01",
+      "status": "candidate",
+      "reason": "A021에서 내가 관리하는 몫을 혼자 많이 취하기보다 함께 나눌 절반을 분명히 남기는 실마리를 읽을 수 있다.",
+      "contextNote": "전리품을 전투 군인과 남은 회중에게 절반씩 나누게 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "A021",
+          "clue": "내가 관리하는 자원 중 함께한 사람들에게 돌아갈 몫을 분명히 나누고 혼자 더 취하지 않는 방향을 읽는다.",
+          "friction": "군인과 회중의 전리품 절반 분배다. 모든 일의 보수가 반드시 반씩이라는 규칙을 세우지 않고 동일 기여가 이미 확인된 고민의 공정한 나눔으로 읽는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NUM:31:28",
+      "textSha256": "8f407fa05af4e61c8861e3900bdce43b4224bd2e4f1c26be32d4790dc37b41ec",
+      "status": "exclude",
+      "reason": "사람과 가축을 같은 전리품으로 세어 오백분지 일을 드리는 규정이라 현재 기부나 보수의 액수와 자연스럽게 같은 대상으로 읽히지 않는다.",
+      "contextNote": "군인 몫에서 하나님께 드릴 비율을 정한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:31:29",
+      "textSha256": "d6c2189d8c1b42935e23403cdf010fd4a03b0fd59c900e9dd4169005d89e1a53",
+      "status": "hold",
+      "reason": "H059에서 받은 몫 일부를 드림은 닿지만 그 절반과 이를이라는 앞의 전리품 계산을 알아야 하며 제사장에게 돌리는 세금의 성격도 다르다.",
+      "contextNote": "군인 몫의 거제를 엘르아살에게 주게 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:31:30",
+      "textSha256": "614a079ebed04dcc5509489881d0b43ba81378ac143f3464de86a7b160db95fe",
+      "status": "exclude",
+      "reason": "사람과 짐승에서 오십분지 일을 레위인에게 주는 처리는 노동 보수와 나눔을 생각해도 사람을 재산처럼 분배하는 전체 조건을 빼기 어렵다.",
+      "contextNote": "회중 몫에서 레위인 몫을 취하는 규정이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:31:31",
+      "textSha256": "506177ba5e50664660512299206a59ef41346f43e4444fcaf5e164f36d738e71",
+      "status": "exclude",
+      "reason": "명령대로 했다는 요약뿐으로 이미 맡은 일을 나눌지의 별도 기준은 없다.",
+      "contextNote": "모세와 엘르아살이 분배 명령을 이행한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:31:32",
+      "textSha256": "6cfc6e2e1832f92e6ab0fe3de2ea0d95e7ec2732bb546eb7884bf2336fc10050",
+      "status": "exclude",
+      "reason": "전리품 양 육십칠만오천이라는 수량으로 현재 가진 물건이 충분한지와 직접 비교할 필요 기준은 없다.",
+      "contextNote": "노획한 양의 총수를 적는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:31:33",
+      "textSha256": "022f73e58695e53988ecd1610d50733e859f61edc125300d57d663077a96cab5",
+      "status": "exclude",
+      "reason": "소 칠만이천이라는 단일 계수로 어떤 생활 선택을 할지의 이유는 없다.",
+      "contextNote": "노획한 소의 총수다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:31:34",
+      "textSha256": "69f337371d55fbfec41ad85e8a0ed43c1e5487e13d98620908c3c0ff266da405",
+      "status": "exclude",
+      "reason": "나귀 육만일천이라는 수량만 있어 지금 자원을 보유하거나 나눌지의 기준이 드러나지 않는다.",
+      "contextNote": "노획한 나귀의 총수다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:31:35",
+      "textSha256": "637cd1df7d1a24fee4ceab8ae1de6b7f9a30659535d8fd7c750318fa7aa3947f",
+      "status": "exclude",
+      "reason": "여자 포로를 성경험과 삼만이천 명의 수로 분류하는 전리품 계수라 개인 관계나 동의의 선택에 적용할 내용은 아니다.",
+      "contextNote": "노획한 여성 포로의 조건과 수를 적는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:31:36",
+      "textSha256": "2d7ffa82f973470c3d111dde6a9b10e1c45feaef0966f526dfa230621df63f1f",
+      "status": "exclude",
+      "reason": "군인 몫의 양 삼십삼만칠천오백이라는 절반 계수만으로 동료와 공평하게 나눌 실제 이유는 아직 없다.",
+      "contextNote": "군인 절반 몫 중 양의 수다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:31:37",
+      "textSha256": "b25c295ee3236e069e8a08ddc97921182e5a8e05f88f57d9825cf2321f48d4ca",
+      "status": "exclude",
+      "reason": "양 육백칠십오를 세로 드린 수량으로 내 자발적 기부 여력이나 마음을 재는 기준은 아니다.",
+      "contextNote": "군인 몫에서 취한 양의 거제 수다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:31:38",
+      "textSha256": "00c8a2930ebc90148005758bdbe54fae0ca46bdf3b3c238225e432c0de4fdd25",
+      "status": "exclude",
+      "reason": "소 삼만육천 중 칠십이 두를 취했다는 계산 결과로 생활비나 보수 비율을 정할 근거는 아니다.",
+      "contextNote": "군인 소 몫과 거제 수를 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:31:39",
+      "textSha256": "dc194161060253775f593700a7246670a766e6c1f4f797462256e2da61b0d403",
+      "status": "exclude",
+      "reason": "나귀 삼만오백 중 육십일을 드린 계수로 현재 자원의 필요와 나눔의 부담을 판단할 내용은 없다.",
+      "contextNote": "군인 나귀 몫과 거제 수를 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:31:40",
+      "textSha256": "18cbe3177f1a154e3c24d3434f665233cc3a845fa34187d67ee5a0637d35b2e5",
+      "status": "exclude",
+      "reason": "사람 일만육천 중 삼십이를 세로 드린 말로 현대의 금전 선물이나 노동 보수와 같은 분배로 읽기 어렵다.",
+      "contextNote": "군인 몫의 여성 포로와 거제 인원을 적는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:31:41",
+      "textSha256": "9f157fee7ede10f52eb1d2792a7a7e801f94c9e962a33015207ef4577c4cfe30",
+      "status": "hold",
+      "reason": "H059에서 받은 것 일부를 실제 전달함은 보이나 거제의 세와 앞의 사람 및 가축 계산을 전제해 자발적인 이웃 도움에 충분히 닿는지는 불확실하다.",
+      "contextNote": "모세가 군인의 거제를 엘르아살에게 준다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:31:42",
+      "textSha256": "d5d971832705154c58559c7380022adaa140b76f4dc8346b7723110c6b26e4ab",
+      "status": "exclude",
+      "reason": "회중에게 준 절반이라는 명사구로 끝나 그 몫을 어떻게 사용할지나 선택할지는 나오지 않는다.",
+      "contextNote": "회중 절반 몫의 계수를 시작한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:31:43",
+      "textSha256": "4575e5dcb1e725b728394160dcfadf7e84708a890c76b9a4dd35a50d6e11b8c0",
+      "status": "exclude",
+      "reason": "회중의 양 삼십삼만칠천오백이라는 절반 수량이라 내게 충분한 양이나 보수의 공평함을 확인해 주지 않는다.",
+      "contextNote": "회중에게 돌아갈 양을 집계한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:31:44",
+      "textSha256": "a01de958a70b302adcf04c348797ebdc652a06d0198eedb88a36b2ba2f8adaa1",
+      "status": "exclude",
+      "reason": "소 삼만육천이라는 수만 적어 선택의 어느 부담을 볼지 판단할 내용은 없다.",
+      "contextNote": "회중 몫 소의 계수다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:31:45",
+      "textSha256": "edb8e048b221aa9d28a3bf5a6b2e3f4abd278d798cb1730df3bf4ac38b181e8b",
+      "status": "exclude",
+      "reason": "나귀 삼만오백이라는 수만 있어 같은 수를 가져야 할지 필요별로 나눌지의 기준은 없다.",
+      "contextNote": "회중 몫 나귀의 계수다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:31:46",
+      "textSha256": "b1ec318d4ce28ad76c737265efa741f1bb4939d3d9247d491c928db80af5cd48",
+      "status": "exclude",
+      "reason": "사람 일만육천이라는 전리품 인원만 제시되어 개인 관계의 가치나 기여 몫을 정하는 말로 사용할 수 없다.",
+      "contextNote": "회중 몫 포로 인원의 계수다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:31:47",
+      "textSha256": "253d8334bd77604c13f2ba82a7d3f1c4c2dce8613612d75c93aa7c15c48709ae",
+      "status": "exclude",
+      "reason": "사람과 짐승에서 같은 비율을 취해 레위인에게 준 서술이라 내 돈을 나눌지의 문제로 바꾸면 사람을 분배 대상으로 둔 조건을 지우게 된다.",
+      "contextNote": "회중 몫의 오십분지 일을 레위인에게 전달한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:31:48",
+      "textSha256": "0175d7f609640b852ce430409196e5320bedde8dd2149dae3c06865478696a9e",
+      "status": "exclude",
+      "reason": "장관들이 모세에게 나아와서로 끝나 요청이나 감사의 내용은 아직 없다.",
+      "contextNote": "전쟁 후 군대 지휘자들이 보고한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:31:49",
+      "textSha256": "9389f953643c703157dda81e83f333c7640d7108b027a009bfdfab6686bfbeac",
+      "status": "exclude",
+      "reason": "한 사람도 줄지 않았다는 생존 계수 보고의 전제로 미완료 치료나 여행의 안전 결과를 현재에 보장할 수 없다.",
+      "contextNote": "지휘관들이 군인 모두 생존했음을 보고한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:31:50",
+      "textSha256": "03b8906c4af9f4ed7e612780a09c4cf7c255486efb51a582d60290c9247b14c9",
+      "status": "hold",
+      "reason": "A012에서 받은 도움에 물건으로 감사를 표현함은 가능하나 긴 패물 목록과 생명 속죄라는 목적이 커 작은 감사 식사를 청할지의 실마리로 충분한지는 불확실하다.",
+      "contextNote": "지휘관들이 전리품 패물을 생명을 위한 예물로 가져온다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:31:51",
+      "textSha256": "66ee6ae0a789f1c75ddb121e571e7159a50a3722a75f9ca32a45a0a7491b5ae1",
+      "status": "exclude",
+      "reason": "금 패물을 취한즉으로 끊겨 받은 선물의 뜻이나 그 크기를 고를 기준은 아직 없다.",
+      "contextNote": "모세와 엘르아살이 지휘관의 금을 받는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:31:52",
+      "textSha256": "0d1b2602a48fc125dc8e340cfa60169cc91c961a88ce8e5a0e19de059bbb9dc0",
+      "status": "exclude",
+      "reason": "거제 금 일만육천칠백오십 세겔이라는 무게 합계로 현재 선물의 적절한 값이나 여력을 판단할 수 없다.",
+      "contextNote": "지휘관 예물의 금 총량을 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:31:53",
+      "textSha256": "c86970cd0964f891ba4fccceb8ae6778d462f17220d4901200404c22e3a8cba7",
+      "status": "exclude",
+      "reason": "군인마다 탈취한 것이었다는 출처 설명으로 내 물건을 소비하거나 나눌 선택의 이유를 읽을 수 없다.",
+      "contextNote": "예물 패물의 전리품 출처를 밝힌다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:31:54",
+      "textSha256": "423713ce941608d19c024f2fda6a1da35faa1a86f89d639b8b33159a8e178717",
+      "status": "hold",
+      "reason": "A012에서 감사를 기억할 물건을 남김은 닿을 수 있으나 회막에 들인 금의 기념 목적이며 지인과 식사할지의 관계 부담에는 간격이 있다.",
+      "contextNote": "지휘관의 금을 회막에서 이스라엘의 기념으로 삼는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:32:1",
+      "textSha256": "620d75777a5a188835d49428289f707beb918a112d4922e3239b2e331e2cc9a6",
+      "status": "candidate",
+      "reason": "H003에서 남의 추천만 보기보다 내가 실제 가진 것과 쓰임에 맞는지를 살피는 기준을 읽을 수 있다.",
+      "contextNote": "가축 많은 두 지파가 가축에 맞는 땅을 알아본다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H003",
+          "clue": "추천이나 겉평판보다 내가 실제 쓸 형편과 쓰임에 맞는지 먼저 살펴보는 기준을 읽는다.",
+          "friction": "가축 많은 지파와 목초지의 관계다. 기기가 이미 필요하다거나 성능이 좋다고 확정하지 않고 실제 필요를 알아보는 관점만 읽는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NUM:32:2",
+      "textSha256": "263190e4984a7d76e8d5e78012f7d64d33e6dd3183881f6a403c3f170846d01a",
+      "status": "exclude",
+      "reason": "지도자들에게 와서 말했다는 발화 도입으로 무엇을 청하고 무엇을 책임질지는 뒤에 있다.",
+      "contextNote": "갓과 르우벤이 동편 정착을 요청한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:32:3",
+      "textSha256": "4604f8acab13b14fc68ebbbe2b197d2cb402a90bb6c0bdd97c804710559e73f5",
+      "status": "exclude",
+      "reason": "아다롯부터 브온까지 도시 이름의 목록으로 그곳이 내게 왜 맞는지의 판단은 아직 없다.",
+      "contextNote": "요청할 땅의 성읍들을 열거한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:32:4",
+      "textSha256": "2533aac36e0146bf102b32d5a61c5fae434618293cd61bac1792390fbbe25d4a",
+      "status": "candidate",
+      "reason": "H003에서 실제 내 소유와 사용할 필요에 맞는지 확인한 뒤 선택을 말하는 실마리를 읽을 수 있다.",
+      "contextNote": "두 지파가 가축에 알맞은 땅과 자기 가축을 연결해 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H003",
+          "clue": "내게 있는 필요와 선택 대상의 적합함을 구체적으로 맞춰 본 뒤 고르는 방향을 읽는다.",
+          "friction": "앞부분은 정복한 땅의 역사다. 기기 추천이 참이거나 내 물건이 지금 부족하다는 사실은 보태지 않고 실제 적합성을 확인할 실마리로 읽는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NUM:32:5",
+      "textSha256": "99712d2fd494a35f89ad347cbe01c4b938858bdfe288e1c5c5434ecd25904c67",
+      "status": "candidate",
+      "reason": "H036에서 모두가 가는 길과 달라도 자기 형편에 맞는 원하는 방향을 예의를 갖춰 말하는 실마리가 있다.",
+      "contextNote": "두 지파가 요단을 건너지 않고 동편 땅을 달라고 요청한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H036",
+          "clue": "존중의 표현을 지키면서도 모두와 다른 자기 바람을 말할 수 있다는 실마리를 읽는다.",
+          "friction": "모세에게 동편 땅을 요청하는 이야기이며 이후 공동 책임을 따로 이행한다. 부모가 반드시 허락하거나 원하는 길에 부담이 없다는 결과는 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NUM:32:6",
+      "textSha256": "392bc6b3d70ea4986df14e9a7bac3ff4650fb530bea2957b78413bea46821aba",
+      "status": "candidate",
+      "reason": "H011에서 내가 쉬려는 동안 약속을 함께한 이들이 맡을 일을 생각하며 이미 약속한 자리에 갈지 돌아볼 수 있다.",
+      "contextNote": "모세가 다른 지파는 싸우는데 두 지파만 앉으려 하느냐고 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H011",
+          "clue": "나와 함께하기로 한 사람들이 가서 맡을 일과 기다림을 생각하며 이미 한 약속의 자리에 갈 방향을 읽는다.",
+          "friction": "군사 공동 책임에 대한 강한 질문이다. 모든 휴식이 이기심이라는 말로 넓히지 않고 회복 지시를 받은 사람이나 과도한 새 부탁과 구별한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NUM:32:7",
+      "textSha256": "750473cf81f8d8ff592bd85a7445e854cc075023a4a08fd65b2b418475bc6b39",
+      "status": "hold",
+      "reason": "H011에서 내 선택이 함께하는 사람에게 미칠 부담은 닿지만 땅으로 가지 못하게 낙심시킨다는 추정까지 현재 봉사 불참의 결과로 확정할 수 없다.",
+      "contextNote": "모세가 두 지파의 정착 요청이 회중을 낙심시킬까 경계한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:32:8",
+      "textSha256": "489531301fdacf90149e27ada7fa3e32b8f8635e0b539bdaa5b3509cafcf526b",
+      "status": "exclude",
+      "reason": "가데스바네아에 보낸 조상들도 그랬다는 앞 사건 참조라 무엇을 경계하는지 단독으로 완성되지 않는다.",
+      "contextNote": "정탐꾼 사건을 선례로 들기 시작한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:32:9",
+      "textSha256": "30c3bdd5612c1311503a55116073c03fd4b62211f421eb1ed1d1e8ef2c92cd17",
+      "status": "hold",
+      "reason": "G15에서 두려운 이야기 때문에 기회를 놓칠 수 있음은 읽혀도 실제 위험을 살피는 것까지 사람을 낙심시키는 죄로 묶을 수 없다.",
+      "contextNote": "정탐 뒤 낙심 때문에 땅에 가지 못한 역사를 회고한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:32:10",
+      "textSha256": "c188a5850b39997986e8d2941b8f609b750447c1d4d7ff6d0beef328cf2cfa62",
+      "status": "exclude",
+      "reason": "진노로 맹세하신 말씀의 도입만 있어 선택할 내용은 아직 없다.",
+      "contextNote": "불신 세대의 광야 심판을 인용한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:32:11",
+      "textSha256": "a34b4decae919c4cfb34d5e130a3f34461c8abbcc2b58f25b1ee46cff873f738",
+      "status": "exclude",
+      "reason": "이십세 이상이 땅을 못 보게 된 심판을 현재 불안이나 진로 고민에 같은 자격 박탈로 붙일 수 없다.",
+      "contextNote": "온전히 순종하지 않은 세대의 가나안 금지를 회고한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:32:12",
+      "textSha256": "33ed6acdabc93799073fdbd9e24f9e43efc9353350833648203b0114148d584c",
+      "status": "hold",
+      "reason": "G15에서 다수와 달라도 믿음을 따름은 닿지만 두 사람의 땅 진입 결과가 현재 역할의 성공을 보증하지 않으며 구체 도전 실마리는 약하다.",
+      "contextNote": "갈렙과 여호수아가 예외인 이유를 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:32:13",
+      "textSha256": "288b140b56386a62ac14a5dedd84240f4f7e8c8eced2707891a990eb18a6b4fe",
+      "status": "exclude",
+      "reason": "사십년 광야와 세대 소멸이라는 심판 결과라 현재의 계획 차질이 같은 벌이라는 해석을 만들 수 없다.",
+      "contextNote": "불신 세대가 광야에서 사라진 결과를 요약한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:32:14",
+      "textSha256": "a892536c01f699f4dede2730fdd4a40d4425597fa1ad12874c0a17be9f8047ab",
+      "status": "exclude",
+      "reason": "죄인의 종류라고 자손을 꾸짖는 말이라 정당한 자기 선택을 말하는 사람에게 같은 낙인을 적용할 수 없다.",
+      "contextNote": "모세가 두 지파를 이전 세대를 잇는 죄인으로 경고한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:32:15",
+      "textSha256": "15a46f5f0a4b305e2043f4ccabddc1a0a827001f4ba145311188151ca4d2e043",
+      "status": "hold",
+      "reason": "H011에서 공동 책임을 버리지 않음은 읽힐 수 있으나 하나님이 모두 버려 멸망시킨다는 결과가 커 실제 봉사 약속을 같은 심판으로 다룰 수 없다.",
+      "contextNote": "두 지파의 이탈이 온 회중을 망하게 할까 경고한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:32:16",
+      "textSha256": "d10724b4be6fa4b4a242fd0252e5bfafd62d04e46c3a95b5c39221332efeeadf",
+      "status": "hold",
+      "reason": "A014에서 소유와 가족을 위한 안전한 장소를 먼저 갖춤은 닿지만 위험 설명 없이 성읍과 가축 우리를 짓겠다는 미완성 제안이라 장비 보호의 선택에 충분한지는 불확실하다.",
+      "contextNote": "두 지파가 정착과 참전을 함께할 준비안을 제시한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:32:17",
+      "textSha256": "4efd947fa70fa8ac7a8d09ad9c5e1a11e01a4f5c4417ee491140df75dd11aa1a",
+      "status": "hold",
+      "reason": "H054에서 자기 생활을 돌보면서 공동 책임도 이행함은 가능하나 유아 안전과 군사 선봉을 함께 약속하는 상황이므로 현재 두 일 모두 할 수 있는 대안을 만들어 주지는 않는다.",
+      "contextNote": "아이들을 지킨 후 앞장서 싸우겠다고 제안한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:32:18",
+      "textSha256": "cb2bf901e36b7d6c4a539205a22bba42aa158a9a4cb7eac7246d6613eb1cf03b",
+      "status": "candidate",
+      "reason": "H054에서 내 새 자리만 챙기고 돌아서기보다 함께한 이들의 몫을 얻을 때까지 맡은 약속을 이행하는 방향을 읽는다.",
+      "contextNote": "다른 지파들이 기업을 얻기 전에는 집으로 돌아가지 않겠다고 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H054",
+          "clue": "나에게 더 나은 새 자리가 있어도 이미 함께하겠다고 한 일의 책임을 먼저 지킬 실마리를 읽는다.",
+          "friction": "다른 지파가 기업을 얻을 때까지 전쟁을 돕겠다는 서약이다. 현재 새 기회가 기다려 주거나 기존 일이 반드시 성공할 결과를 만들지 않으며 무기한 과로 의무로 쓰지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NUM:32:19",
+      "textSha256": "8c82322bd47886fbd087640d763d6c196a592ba75ce22b0317fb7d4cdfa2cb5c",
+      "status": "candidate",
+      "reason": "H001에서 이미 내게 있는 몫을 충분히 보고 남들이 갖는 다른 몫까지 더 얻지 않을 선택을 읽을 수 있다.",
+      "contextNote": "동편 산업을 받으므로 서편에서는 기업을 받지 않겠다고 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H001",
+          "clue": "다른 사람들이 얻는 몫도 갖고 싶을 때 이미 내게 있는 것으로 충분히 지내는 선택을 읽을 수 있다.",
+          "friction": "동편 땅을 받은 지파가 서편 기업을 이중으로 받지 않겠다는 말이다. 새 신발 구입이 남의 몫을 빼앗는 죄라거나 자금이 부족하다고 바꾸지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NUM:32:20",
+      "textSha256": "cf846c5bcb7919c2d806b0e36b5f3555c254167c5c7f1089fc60206efaf25d24",
+      "status": "exclude",
+      "reason": "무장해 나가 싸우되라는 조건이 미완성이라 현재의 일 약속을 어떤 순서로 할지 독립된 판단은 없다.",
+      "contextNote": "모세가 두 지파 제안의 조건을 확인한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:32:21",
+      "textSha256": "363a391f8f4bc665fb3180bb2a50334a711e37cf80cc042244aaaf349c4db034",
+      "status": "exclude",
+      "reason": "원수를 쫓아내시고로 끝나는 전쟁 조건의 연속이라 지금의 계획이 모두 가능한지 확인할 단서는 아니다.",
+      "contextNote": "두 지파가 건너가 싸울 조건을 잇는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:32:22",
+      "textSha256": "e9f177a623bdaba61c1d5b52702fd5cb02736fd96c3156ff304a54627a576d6a",
+      "status": "hold",
+      "reason": "H054에서 공동 의무 후 자기 자리로 돌아옴은 읽히지만 전쟁 승리와 땅 소유의 약속이 현재 두 기회를 모두 유지할 수 있다는 결과를 보장하지 않는다.",
+      "contextNote": "참전을 마치면 동편 산업을 갖고 돌아오게 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:32:23",
+      "textSha256": "0f9cd6f62986ad7057c858fa4ccea8fd7a78de058b7d6eaedc0ef12481409992",
+      "status": "hold",
+      "reason": "G09에서 약속 불이행의 책임은 읽힐 수 있으나 그같이라는 앞의 참전 조건과 죄의 추적 경고여서 거래의 실마리로 충분히 바로 읽힐지는 불확실하다.",
+      "contextNote": "두 지파가 이행하지 않으면 범죄임을 경고한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:32:24",
+      "textSha256": "790f07c909fefa373d9ca6f5106139b5d554733f32cd2c449735f1d6f468bba0",
+      "status": "candidate",
+      "reason": "H054에서 자기 삶의 준비를 하더라도 입으로 약속한 일은 따로 이행할 실마리를 읽을 수 있다.",
+      "contextNote": "성읍과 우리를 준비하되 말한 대로 행하라고 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H054",
+          "clue": "자기 삶을 준비하는 일과 별개로 이미 입으로 한 약속은 실제 행할 책임으로 남는다는 실마리를 읽는다.",
+          "friction": "가축 우리와 아이의 성읍을 지으면서 참전을 이행하라는 말이다. 내가 두 기회를 일정상 모두 잡을 수 있다는 조건을 새로 만들지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NUM:32:25",
+      "textSha256": "9a739ce67f23f4a86103b7dfddb71083ecb5055a5d270270e164ee825b3c3bee",
+      "status": "exclude",
+      "reason": "명한 대로 하겠다는 일반 답변만으로 이미 한 약속과 새로운 기회의 선택 부담을 구체적으로 가르지는 못한다.",
+      "contextNote": "두 지파가 모세의 조건에 동의한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:32:26",
+      "textSha256": "9f033d4a7ebda9abf6bd9f2c2edaa9cc594f375b1800e962abb9faad741c2112",
+      "status": "exclude",
+      "reason": "아내와 아이 및 가축을 길르앗에 두고로 끊겨 왜 따로 두며 다음 무엇을 할지의 선택 이유는 아직 없다.",
+      "contextNote": "정착지에 남길 가족과 소유를 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:32:27",
+      "textSha256": "965777752b85e4d38796e4f4e03724720e4945c278eb410fcaf86a90fbff8c6f",
+      "status": "hold",
+      "reason": "H011에서 약속한 곳에 실제로 가겠다는 태도는 닿지만 무장해 하나님 앞에서 싸우는 복종 선언이라 봉사의 자발적 약속과 충분히 연결될지는 불확실하다.",
+      "contextNote": "두 지파의 성인들은 함께 건너가 싸우겠다고 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:32:28",
+      "textSha256": "ac7e23eb63b0070e36bbebaa3a52e0e1dfa65403c3caab584c6456ec1ca8619a",
+      "status": "exclude",
+      "reason": "다른 지도자들에게 명했다는 보고만 있고 전달할 조건은 뒤에 있어 위임이나 계약의 기준이 단독으로 나오지 않는다.",
+      "contextNote": "모세가 후임과 족장들에게 합의 조건을 전한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:32:29",
+      "textSha256": "1cb40e3dceee3d51917c96bf012f8723f83a55af68bea57fe94adfcd7ba7abe9",
+      "status": "hold",
+      "reason": "H054에서 맡은 책임을 다한 뒤 자기 몫을 받는 구조는 보이나 땅의 항복까지 싸우는 특정 조건을 현재 새 기회도 기다려 준다는 대안으로 확정할 수 없다.",
+      "contextNote": "참전 이행 시 길르앗을 주라는 조건을 전달한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:32:30",
+      "textSha256": "ae9abedde80def52661d13c96d2f975d41e446dc2e7d5b72ce8f884914643be9",
+      "status": "hold",
+      "reason": "H062에서 다른 배정안이 있을 수 있음은 읽혀도 동행하지 않으면 서편 땅을 주는 특정 대안이 현재 변경된 계획의 성공을 보장하지 않는다.",
+      "contextNote": "참전하지 않으면 가나안 안에 기업을 주게 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:32:31",
+      "textSha256": "700ad3f3dd4acde958ff2b7e466a674fbf3a5d87db9d133a83da485aa1e928d8",
+      "status": "hold",
+      "reason": "H054에서 말한 일을 이행하겠다는 태도는 닿지만 하나님 명령대로라는 일반 응답만으로 이전 약속과 새 일의 갈등이 충분히 풀리지는 않는다.",
+      "contextNote": "두 지파가 하나님의 명령을 따르겠다고 재확인한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:32:32",
+      "textSha256": "f3e31c3c29ba97050f78c280798cc7872e6fc6d2e5b207721117d5e947997479",
+      "status": "hold",
+      "reason": "H054에서 공동 과업과 자기 산업을 함께 지키는 방향은 가능하지만 현재 새 기회와 기존 일이 모두 가능한 일정이라는 사실은 입력에 없다.",
+      "contextNote": "서편에 참전하고 동편 산업을 갖겠다고 확약한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:32:33",
+      "textSha256": "577f87c4a5646f91ad0ccd3829ee25d373da8cde99764c2f5f24b33699d0a101",
+      "status": "exclude",
+      "reason": "두 왕의 국토와 성읍들을 지파에 배분한 긴 지명 보고로 지금 기회를 받아도 되는지의 가치 갈등은 직접 나오지 않는다.",
+      "contextNote": "모세가 동편 땅을 두 지파와 므낫세 반 지파에 준다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:32:34",
+      "textSha256": "3eaf499f0a7972d31e2c6439329df3f58416f19da7c7a688bcd8d6e6b840e971",
+      "status": "exclude",
+      "reason": "디본과 아다롯과 아로엘이라는 도시 목록이 미완결이라 건축의 목적이나 선택 기준은 아직 없다.",
+      "contextNote": "갓이 건축한 성읍 목록을 시작한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:32:35",
+      "textSha256": "5cbd408cba6366ae457996cd6476d8f07dd7407ba4f6925248c670f46c9c1df1",
+      "status": "exclude",
+      "reason": "아다롯소반과 야셀과 욕브하의 지명 나열로 현재의 새 공간이나 보호 필요를 판단할 내용은 없다.",
+      "contextNote": "갓의 건축 성읍을 잇는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:32:36",
+      "textSha256": "a444f0723200c502334ba914ee59e87544b4ffc9f7fc2bffd350a478aca46aca",
+      "status": "candidate",
+      "reason": "A014에서 가진 것을 그냥 드러내 두기보다 보호할 자리와 울타리를 갖추는 선택의 실마리가 있다.",
+      "contextNote": "갓이 견고한 성읍과 가축 우리를 짓는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A014",
+          "clue": "알려진 위험 앞에서 내 소유를 보호할 공간을 갖추어 두는 쪽을 읽을 수 있다.",
+          "friction": "원문은 성읍과 가축 우리다. 장비의 정확한 보관 방식은 실제 상황에 따르며 현재 위험은 고민에 명시된 강풍 예보를 넘겨 더 만들지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NUM:32:37",
+      "textSha256": "a15ef26df2d7330c39bcdd0b2cc3844be2b8e1c3b80dd99889903d3b2f74622f",
+      "status": "exclude",
+      "reason": "헤스본과 엘르알레와 기랴다임의 건축 목록이 중간에 끊겨 어떤 현재 부담을 풀 실마리는 없다.",
+      "contextNote": "르우벤의 건축 성읍 목록을 시작한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:32:38",
+      "textSha256": "57c1f6e0ea89d7d63858fd1b36fc061590360df1cf1ab97d87c4aeb525caed40",
+      "status": "exclude",
+      "reason": "성읍들을 건축하고 이름을 고친 이력으로 지금 하던 방식이나 진로를 바꿀 이유까지 읽을 수 없다.",
+      "contextNote": "르우벤 성읍의 건축과 개명을 기록한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:32:39",
+      "textSha256": "5776ff1362420c1febaf842516f59f65534264ad58ce1716da15b473ef6cb77f",
+      "status": "exclude",
+      "reason": "길르앗을 공격하고 거주민을 쫓은 점령 결과로 새 시작의 용기나 주거 선택만 떼어 읽기 어렵다.",
+      "contextNote": "마길 후손이 길르앗을 취한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:32:40",
+      "textSha256": "5a0ba3f07f53b4808e4c1b9744adc2d58dc152bb01ebe3594b92b120584d3b90",
+      "status": "hold",
+      "reason": "A020에서 받은 기회를 실제 거처로 삼음은 닿지만 특정 땅의 배분과 정착 결과만으로 가족을 떠날지의 부담까지 풀리는지는 불확실하다.",
+      "contextNote": "마길이 받은 길르앗에 거주한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:32:41",
+      "textSha256": "73f906b01c08ad6d316fef545acd5fac411d3f0593fde4a5e15c1e2e50b88662",
+      "status": "exclude",
+      "reason": "촌락을 취해 야일의 이름으로 부른 영유 이력이라 내 기여를 명시할지의 현재 권리나 선택 근거와 같지 않다.",
+      "contextNote": "야일의 촌락 점령과 명명을 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:32:42",
+      "textSha256": "1b664206a82f404707253e657f423dbc16f62f4466b41e5db25aa0433a8e53a8",
+      "status": "exclude",
+      "reason": "그낫과 향촌을 취해 자기 이름을 붙였다는 사건으로 일반 작품의 이름이나 인정 요청을 정당화할 내용은 약하다.",
+      "contextNote": "노바의 점령과 개명을 기록한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:1",
+      "textSha256": "ccc4f37cf8f2e92bb1c964eb18f213fefdc7cede737bea6d0d7f419d161ef907",
+      "status": "exclude",
+      "reason": "애굽 탈출 여정 목록의 제목으로 실제 경로나 현재 선택의 판단은 아직 없다.",
+      "contextNote": "출애굽 후 노정을 모아 기록하기 시작한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:2",
+      "textSha256": "5d96bcdcc022c2740ca77ae103c0187d56f3321d77b31e768a3eb79c9b9a5d45",
+      "status": "hold",
+      "reason": "H046에서 남의 속도보다 자기 진행을 돌아봄은 가능하지만 실제 길 기록이라는 소개여서 지금 내 계획을 유지할지의 실마리로 충분할지는 불확실하다.",
+      "contextNote": "모세가 진행한 순서대로 노정을 기록했다고 밝힌다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:3",
+      "textSha256": "b5fc3b7122c32b0e76d8864471ec47fe8d9d3e1ed8e5f3f71657bf3e460c5217",
+      "status": "hold",
+      "reason": "A020에서 새 길을 향한 출발은 닿지만 민족의 권능 있는 출애굽 장면으로 현재의 훈련 기회도 같은 해방이나 안전을 보장한다는 뜻은 아니다.",
+      "contextNote": "유월절 다음 날 라암셋을 떠난 날짜와 위엄을 적는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:4",
+      "textSha256": "d6797fbc8c9c42663913595797ba10cb60111f994f5a7ca9d5b313bdc0a67a92",
+      "status": "exclude",
+      "reason": "애굽 장자의 장사와 신들의 심판이라는 출발 배경으로 내 가족의 시간이나 이웃의 결말을 추정할 수 없다.",
+      "contextNote": "출애굽 때 애굽의 상실을 대비해 적는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:5",
+      "textSha256": "eb13b3d66c28850d67df8ae0ce8419515326b3e6c6271edab78a5eeba15c29f1",
+      "status": "exclude",
+      "reason": "라암셋에서 숙곳으로 옮겨 진친 경로만 있어 새 선택을 할 이유나 제약은 없다.",
+      "contextNote": "첫 진영 이동을 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:6",
+      "textSha256": "79d042b25f4b3a1b7fa9c77b76476238ac167183afcb5a8c22cc2d72fd4ac60b",
+      "status": "exclude",
+      "reason": "숙곳에서 광야 끝 에담으로 간 위치 정보로 현재 진로가 끝나거나 시작됐다고 읽을 근거는 아니다.",
+      "contextNote": "다음 진영 에담을 적는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:7",
+      "textSha256": "f2f68149b6485caa690b068e05b779c3c1a372dfc438a884fef1368242634b9f",
+      "status": "exclude",
+      "reason": "비하히롯과 믹돌 및 바알스본의 위치를 전하는 이동 이력으로 현 계획을 되돌릴 이유는 제시되지 않는다.",
+      "contextNote": "바다 앞 진영으로 돌아간 경로를 기록한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:8",
+      "textSha256": "ba139aa703303dc91cb04c9acf7deb4c3a4941c7f7b6fdab9ed92a2e80a8f65d",
+      "status": "hold",
+      "reason": "H013에서 어려운 길도 이어 갔음을 생각할 수 있지만 바다 통과와 삼일 길의 역사로 지금 계획한 여행의 안전이나 일정이 보장되지는 않는다.",
+      "contextNote": "바다를 지나 에담 광야와 마라로 간 여정이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:9",
+      "textSha256": "15cb47cd4db0eb4c689f75e8007a6e795013daf75eb197d5058cb4de1ee9420d",
+      "status": "candidate",
+      "reason": "H015에서 길을 계속 밀기만 하기보다 쉼의 자원이 있는 곳에 머무르는 선택의 실마리를 읽을 수 있다.",
+      "contextNote": "샘과 종려가 있는 엘림에 이르러 그곳에 진친 이유를 적는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H015",
+          "clue": "계속 이동하고 경험을 더하기만 하기보다 몸을 돌볼 자원이 있는 곳에서 머무는 선택을 읽는다.",
+          "friction": "샘 열둘과 종려 칠십 그루라는 실제 진영 기록이다. 지금 내 주변에 특정 휴양지가 있다거나 현재 일을 다 끝냈다는 사실을 가정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NUM:33:10",
+      "textSha256": "ca2398e2e4fcd3022667e68fedaded7688f3679f2a52499a3fec2dda33bbc69a",
+      "status": "exclude",
+      "reason": "엘림에서 홍해 가로 옮긴 경로만 있어 휴식이 끝났는지나 떠날 준비가 됐는지의 기준은 없다.",
+      "contextNote": "홍해 가 진영으로의 이동이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:11",
+      "textSha256": "b37891e3ad02b3e3045b84d013a48ad984a381f0fb80d291baf6ec5c75cc03cc",
+      "status": "exclude",
+      "reason": "홍해 가에서 신 광야로 옮긴 장소 기록으로 낯선 기회에 갈지의 구체 부담은 드러나지 않는다.",
+      "contextNote": "신 광야 진영을 적는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:12",
+      "textSha256": "488252933dd8044ab32b2c7e712bc71844a90fa641d7162bc13314e57f121d4e",
+      "status": "exclude",
+      "reason": "신 광야에서 출발하여라는 절반 서술뿐으로 목적지도 없고 선택 실마리는 완성되지 않는다.",
+      "contextNote": "다음 진영으로의 출발이 절 경계에서 끊긴다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:13",
+      "textSha256": "1ca34a9bda82a77b262aba64f69d9e991085dce1a9df71333c11c37e2c1bf9c8",
+      "status": "exclude",
+      "reason": "돕가와 알루스 사이의 이동만 알려 주어 현재 머물거나 움직일 이유와 비교할 수 없다.",
+      "contextNote": "돕가와 알루스 진영을 기록한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:14",
+      "textSha256": "01bf4ae0a9eed99b99c49c78535978c64093387bb95b81de4e7078cb2ead7c11",
+      "status": "hold",
+      "reason": "G02에서 실제 필요한 물이 없음은 닿지만 르비딤의 부족 상태만 기록해 구매를 멈추거나 생활비를 보전할 선택까지 충분히 주지는 않는다.",
+      "contextNote": "마실 물 없던 르비딤 진영을 덧붙인다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:15",
+      "textSha256": "a8f2906ec90a542d5f70cf839dd15a9066c77c3718081cfebcdba2dc80912ce4",
+      "status": "exclude",
+      "reason": "르비딤에서 시내 광야로 옮긴 경로만 있어 현재 계획을 유지할지 바꿀지의 이유는 없다.",
+      "contextNote": "시내 광야 진영을 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:16",
+      "textSha256": "f3ee862d2a61784791528526250460edcf5e43c8d691d90c4a9e817af09107d9",
+      "status": "exclude",
+      "reason": "시내 광야에서 기브롯핫다아와로 간 지명 이력으로 욕심이나 휴식에 관한 사건의 뜻은 이 절에 없다.",
+      "contextNote": "다음 광야 진영을 적는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:17",
+      "textSha256": "c596958d17a90fd0d00c9e3d8cd09aa8c5b590fb7820500b3c8ebc55348a1a56",
+      "status": "exclude",
+      "reason": "기브롯핫다아와에서 하세롯으로 이동했다는 기록이라 새 관계나 기회에 가야 할 구체 이유는 없다.",
+      "contextNote": "하세롯 진영을 잇는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:18",
+      "textSha256": "72dffad0a7f793f0a799929f4c9d77202c4c5519345740a65b9a2211446e08ec",
+      "status": "exclude",
+      "reason": "하세롯에서 릿마로 옮긴 사실로 지금 바뀐 계획을 받아들일 기준까지 읽을 수 없다.",
+      "contextNote": "릿마 진영을 기록한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:19",
+      "textSha256": "3d2c240e8cc9ae50c21060be22190879ac7f8dd7b46c4a1ae4a18ab83356aa9a",
+      "status": "exclude",
+      "reason": "릿마와 림몬베레스라는 출발지와 도착지뿐이라 선택의 어느 부담을 볼지 단서는 없다.",
+      "contextNote": "림몬베레스 진영을 적는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:20",
+      "textSha256": "32c1c58d806aeff0ab2c33f11c1037e0710b756ddcdc8d9ffcacb87935d8f48f",
+      "status": "exclude",
+      "reason": "림몬베레스에서 립나로 간 경로만 있어 쉬거나 더 움직일 이유가 나오지 않는다.",
+      "contextNote": "립나 진영으로의 이동이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:21",
+      "textSha256": "f00a45b029691f748aee14a2ae9955117a27cca9c2ff02faeb22c77449aee8f8",
+      "status": "exclude",
+      "reason": "립나에서 릿사로 간 위치 정보로 현실의 대안이나 필요한 제약은 알 수 없다.",
+      "contextNote": "릿사 진영을 기록한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:22",
+      "textSha256": "9c89530d5eb55cafdced89e8aeb1e910fc2513486f3738964970d29d0493728e",
+      "status": "exclude",
+      "reason": "릿사와 그헬라다 사이의 이동만 제시해 내 속도를 유지하거나 바꿀 판단 기준은 없다.",
+      "contextNote": "그헬라다 진영을 적는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:23",
+      "textSha256": "bf976653b4ae9e8f87f54ad41cb2841e3fcac7cd488e09e99e1b523986621492",
+      "status": "exclude",
+      "reason": "그헬라다에서 세벨산으로 갔다는 지명 기록이라 산을 넘는 도전의 의미를 별도로 만들어야 한다.",
+      "contextNote": "세벨산 진영을 기록한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:24",
+      "textSha256": "a8166c44d55bb3a07b2dc2a9b1b9405733680413c4615e3c4242a88ffa8c4ea1",
+      "status": "exclude",
+      "reason": "세벨산에서 하라다로 옮긴 경로로 현재의 장소가 더 적합한지의 속성은 제시되지 않는다.",
+      "contextNote": "하라다 진영을 잇는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:25",
+      "textSha256": "53bf1e1a1ca859a417dc967d767a0cf4bb9199e239914811fda09b0d413311f8",
+      "status": "exclude",
+      "reason": "하라다와 막헬롯의 이동만 있어 실제 필요한 준비나 새로운 선택의 이유는 없다.",
+      "contextNote": "막헬롯 진영으로 이동한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:26",
+      "textSha256": "e5f8f7052c4b69b5a020871c09e140ffa34e961347c5f4b856e881dfff0cdbad",
+      "status": "exclude",
+      "reason": "막헬롯에서 다핫에 진친 기록으로 쉼이 필요한 상태나 떠나야 할 근거를 읽을 수 없다.",
+      "contextNote": "다핫 진영을 적는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:27",
+      "textSha256": "9c5b73ddcfbb72a64449958f4b1ee5971b9c53e8a6c3cd5d8cc55a9667d2bb38",
+      "status": "exclude",
+      "reason": "다핫과 데라 사이의 이동이라는 정보만 있어 이름을 일상 선택지로 대입해도 판단은 생기지 않는다.",
+      "contextNote": "데라 진영을 기록한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:28",
+      "textSha256": "7f54d10d38276ddd39be9bcd1990c3e2016f1c89f9f0158abf45491892b777f7",
+      "status": "exclude",
+      "reason": "데라에서 밋가로 옮겼다는 경로만으로 실제 현재 기회를 잡을지의 부담을 가르지 못한다.",
+      "contextNote": "밋가 진영을 적는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:29",
+      "textSha256": "1be06af274b186ebba18440cfabe17fb895a543ed1991dc8b41e3a48e33ec0e4",
+      "status": "exclude",
+      "reason": "밋가에서 하스모나로 이동한 사실이라 사람을 떠나거나 붙잡을 이유는 드러나지 않는다.",
+      "contextNote": "하스모나 진영을 잇는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:30",
+      "textSha256": "bee34b0c3bab89ea5979d18782b1a2e64d5de7326c54cdee88baf83fac50f924",
+      "status": "exclude",
+      "reason": "하스모나에서 모세롯으로 옮긴 기록으로 내 진행 속도나 과업 마감의 판단을 할 근거는 없다.",
+      "contextNote": "모세롯 진영을 기록한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:31",
+      "textSha256": "a5831a0ef0ab273e31fd372dc7eeb8fc6c087f244e3ca19e8a6932dde3470408",
+      "status": "exclude",
+      "reason": "모세롯과 브네야아간의 두 지명만으로 길이 맞는지와 바꿔야 하는지는 알 수 없다.",
+      "contextNote": "브네야아간 진영을 적는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:32",
+      "textSha256": "21066a21e99e3b8eed0adff2a917b46a89497613b47718268984890cb58da064",
+      "status": "exclude",
+      "reason": "브네야아간에서 홀하깃갓으로 간 이동 이력이라 현재의 기회나 관계와 닿는 선택 내용은 없다.",
+      "contextNote": "홀하깃갓 진영으로 이동한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:33",
+      "textSha256": "bbed02aa0698304144bc5afb61a04febcb07c642c61131ef6cdd980c401a73aa",
+      "status": "exclude",
+      "reason": "홀하깃갓과 욧바다의 이동만 전해 주어 어느 곳이 쉬기에 좋은지의 이유는 이 절에 없다.",
+      "contextNote": "욧바다 진영을 기록한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:34",
+      "textSha256": "f42ffbd34f60e0607640c28f94f474e29a92c347f12a5d4092c5bbadd989e756",
+      "status": "exclude",
+      "reason": "욧바다에서 아브로나로 이동한 지명 기록으로 현재 계획을 계속할지의 근거를 얻기 어렵다.",
+      "contextNote": "아브로나 진영을 적는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:35",
+      "textSha256": "9efa9098cc558cceb964eabeaae32242c4653277d8d0a3b2a9ac0f8618238bcb",
+      "status": "exclude",
+      "reason": "아브로나와 에시온게벨의 이동 이외에 필요나 부담을 말하지 않아 새 일의 선택을 도울 단서가 없다.",
+      "contextNote": "에시온게벨 진영을 기록한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:36",
+      "textSha256": "d99b66710fd7c5d400acdc3e651c10e323b9f9d3d287bf02bebe74c6cbcd7361",
+      "status": "exclude",
+      "reason": "에시온게벨에서 가데스로 옮긴 지명과 광야 설명으로 실제 두 선택의 장단점을 판단할 수 없다.",
+      "contextNote": "가데스인 신 광야 진영을 잇는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:37",
+      "textSha256": "906878118dd8b7ea5325fc0f31956d0d7440aefb22c32522a6b898a84485e3e9",
+      "status": "exclude",
+      "reason": "에돔 국경의 호르산에 도착했다는 위치로 경계라는 말만 관계 경계에 옮기면 지리 의미를 바꾸게 된다.",
+      "contextNote": "가데스에서 호르산으로 이동한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:38",
+      "textSha256": "4ad212d2050b456a5aa56678a3f47a17b22c0a6c09aa021e68527c15d9a6e3aa",
+      "status": "exclude",
+      "reason": "아론이 산에서 죽은 연도와 달 및 날을 기록해 지금 가족의 시간이나 다음 기회에 같은 기한을 만들 수 없다.",
+      "contextNote": "출애굽 사십년째 아론의 죽음을 연대에 넣는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:39",
+      "textSha256": "2f2b044d89b4bd110caa72b7b3c453e264d38856f427de8360b5c3e25cb927f9",
+      "status": "exclude",
+      "reason": "아론의 사망 나이 일백이십삼 세로 나이 든 봉사자의 실제 건강이나 은퇴 시점을 정할 수 없다.",
+      "contextNote": "아론이 죽을 때의 나이를 덧붙인다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:40",
+      "textSha256": "dd8e4f819deac2f529c1bc3b1c9cb31953b695aa95d2f1af099d605a94d12db8",
+      "status": "exclude",
+      "reason": "아랏 왕이 이스라엘의 옴을 들었다는 사실만 있어 현재 상대의 적의나 대응 의사는 알 수 없다.",
+      "contextNote": "여정 중 아랏 왕 사건을 상기시킨다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:41",
+      "textSha256": "acb72ea362505d9fac32e23144d9f42c53da9b93832b767310823727883f8c41",
+      "status": "exclude",
+      "reason": "호르산에서 살모나로 옮긴 경로만으로 죽음 뒤의 새 시작이나 지금 할 행동을 구체적으로 읽기 어렵다.",
+      "contextNote": "살모나 진영으로 여정을 계속한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:42",
+      "textSha256": "34a6599032d4dafe1caa3aa3a8a63d5bf28e2e4c9a4c98ce1e8d749b83d68f6a",
+      "status": "exclude",
+      "reason": "살모나에서 부논으로 이동한 위치 정보로 현재의 방향이나 자원 필요는 판단할 수 없다.",
+      "contextNote": "부논 진영을 적는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:43",
+      "textSha256": "57936013169e02aeb6c46859b7c1ab7d0a024148e2f848649f5461a24002e511",
+      "status": "exclude",
+      "reason": "부논과 오봇 사이 이동만 있어 어느 선택이 나를 돌보거나 앞으로 가게 할지의 실마리는 없다.",
+      "contextNote": "오봇 진영을 기록한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:44",
+      "textSha256": "d4ad9b3b3d0c0523d3de33a4480471024ab084ea216c0e1095acf7f853f54751",
+      "status": "exclude",
+      "reason": "오봇에서 모압 변경 이예아바림으로 옮긴 경로로 관계의 경계나 낯선 모임의 안전을 판단할 수 없다.",
+      "contextNote": "모압 국경 진영을 적는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:45",
+      "textSha256": "2cdfcd744fe1f96d059f028749d597d309142285f864e03036c47dd54081452b",
+      "status": "exclude",
+      "reason": "이임에서 디본갓으로 간 지명 기록이라 현재의 과업이나 주거 선택과 닿는 이유가 없다.",
+      "contextNote": "디본갓 진영을 잇는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:46",
+      "textSha256": "a42afbecfd82c4143c883ad3c48d59e95e403edcf1b2588d92e673dd8e61ace0",
+      "status": "exclude",
+      "reason": "디본갓에서 알몬디블라다임으로 옮긴 이동만 있어 무언가 바꿀 필요나 준비 수준은 알 수 없다.",
+      "contextNote": "알몬디블라다임 진영을 기록한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:47",
+      "textSha256": "8a8eaecb086bc2aa1ca3ef572ad4c59e3d4fae281ca4a529079e45b69f75775b",
+      "status": "exclude",
+      "reason": "느보 앞 아바림산이라는 위치를 전해도 내게 실제 새 기회가 보인다는 정보나 판단은 없다.",
+      "contextNote": "아바림산 진영을 적는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:48",
+      "textSha256": "74dffae59072b4c4bf2c5196fa0994029135af564e212f6ce4ea3b909d3c0841",
+      "status": "exclude",
+      "reason": "여리고 맞은편 모압 평지 도착의 위치 설명으로 지금의 기회가 이미 내 몫이라고 확정할 수 없다.",
+      "contextNote": "요단 가 마지막 진영에 이른다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:49",
+      "textSha256": "652ae6f086c1e520cde34c1a5d3759da012ed0597a2de81cce46602dadab4d6d",
+      "status": "exclude",
+      "reason": "진영의 양끝 지명을 정하는 범위 정보라 어떤 양의 자원이나 생활 공간이 적정한지의 기준은 아니다.",
+      "contextNote": "모압 평지 진영의 범위를 밝힌다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:50",
+      "textSha256": "50eb93ff176690eb38321fbdee25830243c1894f6b715adf45876cd6ac6a9478",
+      "status": "exclude",
+      "reason": "장소를 붙인 말씀 도입만 있어 현재 선택의 단서는 아직 없다.",
+      "contextNote": "가나안 진입 규정을 시작한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:51",
+      "textSha256": "b5ca251a7ed522ce946dda9deb363e56a9da01a3ad330899e97be80785cacff1",
+      "status": "exclude",
+      "reason": "가나안에 들어가거든이라는 미완결 조건절로 새 도시 기회를 택하라는 행동 내용은 다음에 있다.",
+      "contextNote": "진입 후 해야 할 일을 예고한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:52",
+      "textSha256": "13084c7edc9aae181ca2716239ce692c2ef87ab98bf1b09f3e7c208403686375",
+      "status": "exclude",
+      "reason": "주민을 모두 몰아내고 우상과 산당을 파괴하라는 미완결 명령으로 보통 물건 정리나 관계 경계의 실마리로 바꾸기 어렵다.",
+      "contextNote": "가나안 주민과 우상 숭배 장소를 제거하게 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:33:53",
+      "textSha256": "9f9ac7249a3b1ec0d28a4662f3057d49c440826c41d21f4495b4154b15572b2b",
+      "status": "candidate",
+      "reason": "A020에서 이미 주어진 실제 새 자리로 들어가 거할지의 망설임에 받은 기회를 실제 삶으로 삼는 실마리를 읽을 수 있다.",
+      "contextNote": "주신 땅을 취해 거주하라고 명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A020",
+          "clue": "이미 실제로 주어진 기회를 생각만 하며 놓기보다 그 자리를 삶으로 삼는 쪽의 실마리를 읽는다.",
+          "friction": "가나안 땅을 이스라엘에 주신 특정 명령이다. 현재 수련 기회가 신적 명령이라는 뜻이나 가족을 떠나면 반드시 잘된다는 약속을 붙이지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NUM:33:54",
+      "textSha256": "a85d6b2ea66521816ce1e8c6c28d0022d2c093d2c4c59d58abc6c61d7e54cb09",
+      "status": "candidate",
+      "reason": "A029에서 똑같이 나누는 것만이 공정함은 아니며 실제 필요한 규모와 절차를 함께 보자는 실마리를 읽을 수 있다.",
+      "contextNote": "인구수에 맞춘 몫과 지파별 제비 배정을 함께 정한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A029",
+          "clue": "겉으로 똑같은 양보다 실제 규모에 맞춘 몫과 공정한 절차를 함께 정하는 방향을 읽는다.",
+          "friction": "인구에 따른 토지량과 제비에 따른 위치 배정이다. 장비별 기능 차이를 무작위로 지우지 않고 현재 필요의 사실을 보존한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NUM:33:55",
+      "textSha256": "9923ebf33ed284ede38d5944f5867d6e77213ed8eb5da049bf00991bc71ce96a",
+      "status": "candidate",
+      "reason": "H029에서 이미 반복해 나를 찌르는 관계를 계속 가까이 두며 견디기보다 거리를 두는 방향을 읽을 수 있다.",
+      "contextNote": "남겨 둔 가나안 주민이 가시와 찌르는 것이 될 것을 경고한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H029",
+          "clue": "이미 거듭 찔리고 괴로운 관계를 가까이 둔 채 견디기만 할지 돌아보며 거리를 두는 선택을 읽는다.",
+          "friction": "본래 가나안 주민 전체를 몰아내라는 경고다. 친구를 민족의 적이나 저주받은 자로 판단하거나 폭력적 배제를 지시하지 않으며 이미 반복된 침해라는 입력의 근거 안에서 읽는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NUM:33:56",
+      "textSha256": "a435bbb52fc09f6bd44a59842bf81786a8a3d1a0cf5d2b392e4b26c7aa8523e5",
+      "status": "exclude",
+      "reason": "그들에게 하려던 일을 너희에게 하겠다는 심판 경고로 주체와 앞 조치 없이는 무엇을 뜻하는지도 불완전하며 현재 상대에게 같은 벌을 예측할 수 없다.",
+      "contextNote": "가나안 규정 불이행의 심판을 경고한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:34:1",
+      "textSha256": "1213bc72e4be9e9f17f4b9129e3f0d4cbde2d4cf24000ea629c6671d78ca8075",
+      "status": "exclude",
+      "reason": "전달 도입뿐으로 비교할 선택 내용이 없다.",
+      "contextNote": "가나안 땅의 사방 경계를 정한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:34:2",
+      "textSha256": "c9a5a2310b6307f22e1ca363754228e3ebc0b13ca28a0496094c686d3834dbef",
+      "status": "hold",
+      "reason": "A020에서 새 땅을 받음은 닿지만 가나안 사방 지경의 소개이며 현재 기회의 소유나 성공 결과를 같은 약속으로 확정할 수 없다.",
+      "contextNote": "입국할 땅이 기업임을 말하고 경계를 소개한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:34:3",
+      "textSha256": "e7a7856ba44198ab556ab886549dd8b9505bdbd4a7b29457de5d33273b6ca850",
+      "status": "exclude",
+      "reason": "신 광야와 염해 끝의 남쪽 경계 시작점이라 실제 인간관계의 경계나 계획 범위를 정할 일반 이유는 아니다.",
+      "contextNote": "가나안 남쪽 경계의 동쪽 시작을 적는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:34:4",
+      "textSha256": "a22236674c403bcc74001eed82597bf821cdb29db4edbf6fb6ddc846f601424f",
+      "status": "exclude",
+      "reason": "아그랍빔과 가데스바네아 및 아스몬을 잇는 국경선으로 일상 대안을 비교할 행동 기준은 없다.",
+      "contextNote": "남쪽 경계의 중간 경로를 그린다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:34:5",
+      "textSha256": "52ab1a7f03a8e9811216739a714cbbde92124015d1345079052dca9b7330f8cf",
+      "status": "exclude",
+      "reason": "애굽 시내를 지나 바다에 이르는 국경 정보로 지금 계획의 끝이나 충분한 몫을 정할 수 없다.",
+      "contextNote": "남쪽 경계의 서쪽 끝을 적는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:34:6",
+      "textSha256": "088f066601054b8928e17e341531b146f6b0c1ebdbd7457ae758a2615b2ede72",
+      "status": "exclude",
+      "reason": "대해가 서쪽 경계라는 지리 규정이라 마음의 선이나 사람과의 거리를 어느 정도 둘지의 기준은 나오지 않는다.",
+      "contextNote": "가나안 서쪽 경계를 정한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:34:7",
+      "textSha256": "1775caaba813ec74ba78020fea686a36d405b5b442371351b8b7ceb02eab27ad",
+      "status": "exclude",
+      "reason": "바다에서 호르산까지 그으라는 미완결 지도 지시로 현재 선택의 범위나 이유는 알 수 없다.",
+      "contextNote": "북쪽 경계의 첫 구간이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:34:8",
+      "textSha256": "fbf6aaf4a27094cfdb5ddd0065a66a9f3759c6743b73c261db6536a376e56bfb",
+      "status": "exclude",
+      "reason": "호르산과 하맛 어귀 및 스닷을 잇는 위치만 있어 진로의 어느 길이 맞는지 판단할 내용은 없다.",
+      "contextNote": "북쪽 경계의 중간 구간을 그린다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:34:9",
+      "textSha256": "92ea74b23ca6e68069b1706c3b1d99b50b2bd2d1fff5c18d29cad512d12d9d4b",
+      "status": "exclude",
+      "reason": "시브론과 하살에난으로 이어지는 국경선으로 사람이나 과업의 경계를 설정할 실제 필요는 제시되지 않는다.",
+      "contextNote": "북쪽 경계를 마무리한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:34:10",
+      "textSha256": "e08cab7c9c21c934ed0b1a1bd8dfe0ef286c475d4b6386ad411d1d799d14fc18",
+      "status": "exclude",
+      "reason": "하살에난에서 스밤까지의 선을 정하는 말이라 현재 선택에 필요한 한계나 자원이 확인되는 것은 아니다.",
+      "contextNote": "동쪽 경계의 첫 구간이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:34:11",
+      "textSha256": "6a53c3da1b54825356c2aa77be1a9b55ced1056a6514c8155c86158cbe282cb9",
+      "status": "exclude",
+      "reason": "리블라와 아인 및 긴네렛 해변의 긴 지명 연결로 지금 망설임에 바로 읽힐 선택 기준은 없다.",
+      "contextNote": "동쪽 경계를 남쪽으로 내린다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:34:12",
+      "textSha256": "8710885a2c57739ea504ebf91318b9735d6b7bad219502b6b6533fe539b0ffba",
+      "status": "exclude",
+      "reason": "요단과 염해로 마친 국경선의 요약이라 실제 내 생활의 범위를 어느 쪽에 둘지 알려 주지는 않는다.",
+      "contextNote": "가나안 사방 경계 설명을 마친다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:34:13",
+      "textSha256": "c0ca6c6ec7ce815860b80e88ff1004857da61789122a983c18571b970a85c4ab",
+      "status": "hold",
+      "reason": "G16에서 제비로 배정함은 떠올릴 수 있으나 아홉 지파 반의 몫으로 정해진 땅이라는 설명이어서 정보 없는 내 두 길의 단서가 충분해지지는 않는다.",
+      "contextNote": "서편 가나안을 받을 지파 범위를 설명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:34:14",
+      "textSha256": "db64340fe1839c7fc805c7eb65d4b59c9ced4f87b6e55091239d17f2cb895387",
+      "status": "exclude",
+      "reason": "이미 동편을 받은 두 지파와 므낫세 반 지파를 설명하는 인원 구분으로 현재 내가 충분히 가졌다는 사실을 대신 정할 수 없다.",
+      "contextNote": "서편 배정에서 빠지는 지파의 이유를 밝힌다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:34:15",
+      "textSha256": "df33797ff32f31616f3e1a5f521745618af04389dca83311bf6b02afe40ecc8b",
+      "status": "exclude",
+      "reason": "두 지파 반이 기업을 받은 동쪽 위치만 있어 다른 사람과 나의 몫을 어떻게 다룰지의 선택은 없다.",
+      "contextNote": "동편 기업의 위치를 요약한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:34:16",
+      "textSha256": "6fce10c5891051be4b55b9e2e719c4053fd55e8a3bff58acabc65699508c88a6",
+      "status": "exclude",
+      "reason": "말씀 전달 도입만 있고 다음 담당자 선정 기준은 아직 없다.",
+      "contextNote": "토지 분배 담당자를 지정한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:34:17",
+      "textSha256": "f4b1c200b3a6d7bf2a78bde66ddf87577a6d9cee565e240ce94824f380340cbe",
+      "status": "candidate",
+      "reason": "A009에서 한 사람이 모두 처리하려 하기보다 일을 나눌 담당자의 이름과 역할을 분명히 세우는 방향이 읽힌다.",
+      "contextNote": "기업을 나눌 책임자로 엘르아살과 여호수아를 지명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A009",
+          "clue": "나 혼자 다 나누려 하기보다 맡을 책임자의 이름과 역할을 정해 함께 처리할 실마리를 읽는다.",
+          "friction": "제사장과 후임 지도자의 고유 토지 분배 임무다. 현재 특정 동료가 신적으로 지정됐다는 뜻을 붙이지 않고 실제 가능한 담당자를 세우는 관점으로 읽는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NUM:34:18",
+      "textSha256": "acdb6826980713fc097204a76de3ebe53580d38bc6702a546bf0fa0f3aac257f",
+      "status": "candidate",
+      "reason": "A009에서 각 부분을 아는 담당자를 하나씩 세워 함께 나누는 구조로 일을 맡길 실마리가 있다.",
+      "contextNote": "토지 분배를 위해 지파마다 족장 한 명을 더 택하게 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "A009",
+          "clue": "한곳에 모든 일을 쥐지 않고 각 부분의 담당자를 세워 책임을 함께 맡기는 방향을 읽는다.",
+          "friction": "지파별 족장 선정이다. 직책과 성별 기준을 현대 팀에 그대로 옮기지 않고 이미 능력과 여력이 있는 팀원에게 위임하는 조건에서 읽는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NUM:34:19",
+      "textSha256": "2a4b8e45f0555a1f93ed02ba12c08feaafc181ac3ad0b97d741a2af1dc7e6cd5",
+      "status": "exclude",
+      "reason": "유다 대표 갈렙의 부친과 이름만 제시해 실제 나의 동료 중 누가 어떤 역할에 맞는지 기준은 없다.",
+      "contextNote": "분배 담당자 중 유다 대표를 적는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:34:20",
+      "textSha256": "1e509e09175338e399d0cb534029f1c9a2383b7d70f9e8e2964c0d4e95953573",
+      "status": "exclude",
+      "reason": "시므온 대표 스므엘의 이름과 부친만 있어 공동 업무를 맡길 이유나 능력은 나오지 않는다.",
+      "contextNote": "시므온의 분배 대표를 적는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:34:21",
+      "textSha256": "5324f4f49089a04dcd7544c64853f045d61c3a50cc8355f674a4f4745e2c60b8",
+      "status": "exclude",
+      "reason": "베냐민의 엘리닷과 부친 기슬론의 신원으로 선택의 어느 부담을 볼지 내용은 없다.",
+      "contextNote": "베냐민 분배 대표를 지명한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:34:22",
+      "textSha256": "006bd5383324b160419fa805892e23c90e4e792894653353c6f8ca4b980925d8",
+      "status": "exclude",
+      "reason": "단 족장 북기와 부친 요글리라는 신원 목록이라 현재 책임을 나눌 일반 기준은 아니다.",
+      "contextNote": "단 지파 대표를 적는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:34:23",
+      "textSha256": "45749e241c6aa8866eb701514c33fdf34470bf7f9a69a316862bbbef7cbeaedd",
+      "status": "exclude",
+      "reason": "므낫세 족장 한니엘과 에봇의 관계만으로 지금의 인원 배치나 공정성을 판단할 수 없다.",
+      "contextNote": "므낫세 분배 대표를 적는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:34:24",
+      "textSha256": "e58a08b1892b5d1c92ecd39a77b8424aa36c16a2ca93fe35119e18d810d0c975",
+      "status": "exclude",
+      "reason": "에브라임 족장 그므엘의 신원으로 현재 일의 적합성이나 도움 요청 부담을 읽을 근거는 없다.",
+      "contextNote": "에브라임 분배 대표를 적는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:34:25",
+      "textSha256": "202c10f87570314ce6586b47ca96a922bd781daa81ee7fc4dd72fbecee27f40a",
+      "status": "exclude",
+      "reason": "스불론의 엘리사반과 바르낙의 이름뿐이라 담당자 선정의 실제 기준은 없다.",
+      "contextNote": "스불론의 대표를 적는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:34:26",
+      "textSha256": "9a53e899c04ef0186850f37310694508605b5204990b34cf646af91131b21b90",
+      "status": "exclude",
+      "reason": "잇사갈 대표 발디엘과 앗산의 신원 목록으로 내가 일을 맡길지의 이유까지 읽기 어렵다.",
+      "contextNote": "잇사갈 분배 대표를 적는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:34:27",
+      "textSha256": "ae4da954f72ec199e2681b262aa450ee8e38db5e1dd45f83c2da5d9e7aef4228",
+      "status": "exclude",
+      "reason": "아셀 대표 아히훗과 슬로미의 신원이라 새 역할에 도전할지나 양보할지의 판단을 주지 않는다.",
+      "contextNote": "아셀 분배 대표를 적는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:34:28",
+      "textSha256": "69b49fad1bcc9d69f44f68f713c44a01bd9f0678c618a1167f09454e5fcba3aa",
+      "status": "exclude",
+      "reason": "납달리 대표 브다헬의 이름과 부친으로 담당자 목록이 끝나지만 현재 역할의 선택 근거는 없다.",
+      "contextNote": "납달리 대표로 명단을 마친다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:34:29",
+      "textSha256": "71cc739f5ee2e629d5119368be060b2fc95895e3175f5e0d9bc141954655bc4f",
+      "status": "hold",
+      "reason": "A009에서 분배 책임자들이 세워짐은 닿지만 이러하였더라라는 명단 참조가 중심이라 단독으로 업무를 누구에게 어떻게 나눌지 충분한 실마리는 약하다.",
+      "contextNote": "앞의 인물들이 기업 분배를 맡았음을 요약한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:35:1",
+      "textSha256": "61be18b4ab5862915b77a29e7656adf566f7bc2a2dac78a79b629562c96ff55a",
+      "status": "exclude",
+      "reason": "모압 평지에서 말씀했다는 도입으로 현재의 나눔이나 공간 선택은 아직 없다.",
+      "contextNote": "레위 성읍과 도피성 규례를 시작한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:35:2",
+      "textSha256": "ccc0283ec478f8c67d0bf3275ac819b21c25e8dedad8233507005bf9b90d6f41",
+      "status": "candidate",
+      "reason": "H059에서 내가 받은 몫 안에서 다른 사람이 거할 자리를 내어 주는 구조를 보고 일부 나눔의 실마리를 읽을 수 있다.",
+      "contextNote": "받은 기업 중 성읍과 들을 레위인에게 주게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H059",
+          "clue": "내가 받은 것 안에서 다른 사람을 위해 쓸 몫도 내어 주는 방향을 읽을 수 있다.",
+          "friction": "레위인의 성읍과 들을 배정하는 공동체 규정이다. 내 재산 전부를 주거나 현재 이웃을 레위인과 동일한 지위로 규정하지 않고 자기 여력 안의 나눔으로 읽는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NUM:35:3",
+      "textSha256": "832a550b1db68f7c3f1cb8cea4f3fc72c7416cb8bbaa691b5bdaf225f52e6620",
+      "status": "hold",
+      "reason": "A001에서 사람과 소유가 놓일 공간을 따로 마련함은 닿지만 도시와 가축 들의 용도를 정하는 말이어서 친구와 살림을 나눌지의 선택으로 충분히 읽힐지는 불확실하다.",
+      "contextNote": "성읍은 거처로 들은 가축과 물산의 자리로 구별한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:35:4",
+      "textSha256": "f76a1a5721f040f4afe77a76c0f68596b6ae06cfeaa9232e145d6c089e4b6502",
+      "status": "exclude",
+      "reason": "성벽 사면 이천 규빗이라는 지정 거리를 말해 생활 공간이 실제 얼마나 필요한지 정하는 기준과 같지 않다.",
+      "contextNote": "레위 성읍 주변 들의 범위를 정한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:35:5",
+      "textSha256": "a58770ea9526d9c8af0a94001ea95c2e199dd953855661277f0836a75d895c74",
+      "status": "exclude",
+      "reason": "네 방향을 각각 이천 규빗 재는 지도 지시로 공평한 관계나 적정 주거 면적의 개인 실마리는 없다.",
+      "contextNote": "성읍 들의 사방 치수를 구체화한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:35:6",
+      "textSha256": "8825e22f4fbbd98a8f12557fee5b79a9e289daa458fb2ba5e7d1618f4f881bbd",
+      "status": "exclude",
+      "reason": "도피성 여섯과 다른 성읍 마흔둘이라는 분류와 수량만으로 화난 행동을 늦추거나 남을 용서할 판단은 충분히 나오지 않는다.",
+      "contextNote": "레위 성읍 중 도피성의 수를 정한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:35:7",
+      "textSha256": "49c86ef497ce8f1dbec793fbd6b9a1a4345a5cc1dae4065a9cb164ed61db03a6",
+      "status": "exclude",
+      "reason": "성읍 마흔여덟과 들을 준다는 수량이 미완결로 이어져 지금 얼마를 내어 줄지의 여력 기준은 아직 없다.",
+      "contextNote": "레위 성읍 총수와 부속 들을 정한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:35:8",
+      "textSha256": "174fcf987f53676386794f0caa46441f559198e26fd31cad19127e9bf4e2866f",
+      "status": "candidate",
+      "reason": "H007에서 다른 사람 기준의 비싼 선물보다 실제 받은 형편과 크기에 맞춰 주는 기준을 읽을 수 있고 H059의 일부 나눔에도 닿는다.",
+      "contextNote": "받은 산업의 많고 적음에 따라 레위 성읍 부담도 달리한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H007",
+          "clue": "남과 같은 비싼 선물에 맞추기보다 내 실제 형편과 받은 몫에 맞는 크기로 줄 수 있다는 실마리를 읽는다.",
+          "friction": "지파별 토지에 비례한 성읍 부담이다. 친구에게 빚진 세금이나 법정 증여액으로 만들지 않고 작은 선물도 형편에 맞을 수 있음을 읽는다.",
+          "expectedEnough": "yes"
+        },
+        {
+          "scenarioId": "H059",
+          "clue": "여유가 있는 만큼 일부를 내어 주되 서로의 형편을 같은 액수로 재지 않는 방향을 읽는다.",
+          "friction": "레위인에게 성읍을 주는 규정이며 현대 기부의 고정 비율이나 자기 생계 부족을 무시하라는 말은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NUM:35:9",
+      "textSha256": "6fce10c5891051be4b55b9e2e719c4053fd55e8a3bff58acabc65699508c88a6",
+      "status": "exclude",
+      "reason": "전달 도입뿐이라 판단할 내용은 아직 없다.",
+      "contextNote": "도피성의 목적과 규정을 시작한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:35:10",
+      "textSha256": "b5ca251a7ed522ce946dda9deb363e56a9da01a3ad330899e97be80785cacff1",
+      "status": "exclude",
+      "reason": "가나안에 들어가거든이라는 미완결 전제로 현재 도전이나 이동의 방향이 완성되지 않는다.",
+      "contextNote": "도피성을 둘 땅의 조건을 소개한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:35:11",
+      "textSha256": "fc3433de32d5b2b7d41bcd6b0f27b9b77b3cbfaef8deea83b8389c17c6f4426a",
+      "status": "hold",
+      "reason": "H028에서 잘못한 이에게도 보호의 길을 둠은 닿지만 그릇 살인자의 물리적 피신 규정이라 작은 친구 실수를 놓아줄지의 부담과는 간격이 있다.",
+      "contextNote": "부지중 죽인 사람이 피할 성읍을 정하게 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:35:12",
+      "textSha256": "402a3c50bedbedfc1011278ac48fd29cce9096b6ad67fa9089d9f3af1302890b",
+      "status": "candidate",
+      "reason": "H030에서 판결 전 성급한 응징을 막는 구조를 보고 소문만으로 친구를 끊기 전에 사실을 확인할 실마리를 읽는다.",
+      "contextNote": "회중 판결 전 복수자에게 죽지 않도록 도피성을 두는 목적이다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "아직 판결이 나기 전 응징을 막는 뜻을 보고 소문을 사실처럼 확정하기 전에 확인하는 쪽을 읽는다.",
+          "friction": "부지중 살인자가 보수자에게 피하는 제도다. 친구를 살인자나 무고한 이로 미리 판정하지 않고 관계 단절을 형사 처벌과 같게 만들지도 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NUM:35:13",
+      "textSha256": "50ed9676847cbfa2bbe6ba94341ddcbdd0ee337e7fe031630a7b0673d47044fe",
+      "status": "exclude",
+      "reason": "여섯 성읍으로 도피성을 삼되라는 수량 지시로 현재 잘못을 인정하거나 관계를 조정할 행동 단서는 아직 없다.",
+      "contextNote": "도피성의 수를 재확인한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:35:14",
+      "textSha256": "f2cfde6f73d7052939ea45512cb71aa877a65e3dd545d25780aac3edb4e60113",
+      "status": "hold",
+      "reason": "A029에서 양쪽에 접근할 자원을 둠은 생각할 수 있으나 요단 양편 세 도시씩의 지리 배분이 현재 담당마다 다른 장비 필요와 같지는 않다.",
+      "contextNote": "요단 양쪽에 도피성 세 개씩 두게 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:35:15",
+      "textSha256": "db68705f7dbff79b9c302e29da05b65e29d2d1ff766f59f231cbde1e9bb21cd8",
+      "status": "hold",
+      "reason": "A018에서 출신과 상관없는 보호는 닿지만 부지중 살인자의 도피라는 특수 조건이 커 어색한 새 동료를 초대할지의 첫 실마리로 충분할지는 불확실하다.",
+      "contextNote": "도피성은 본토인과 타국인 모두에게 열려 있다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:35:16",
+      "textSha256": "3fa39ee144410d5ba532eafb27ddac361e51d3727e7e605d0ecd31f3f15fc872",
+      "status": "exclude",
+      "reason": "쇠 연장으로 죽인 고살자를 사형에 처하는 법으로 사소한 갈등이나 잘못에 같은 처벌을 붙일 수 없다.",
+      "contextNote": "고의 살인으로 판정할 도구와 결과를 정한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:35:17",
+      "textSha256": "0eff92cfaa7df95acef14a5ab1dde189c050a5d41f525eba482fc67952e54b1d",
+      "status": "exclude",
+      "reason": "사람을 죽일 돌로 죽인 경우의 사형 규정이라 물건을 고르거나 친구 상처를 말할 기준과는 다르다.",
+      "contextNote": "돌을 사용한 고살을 정의한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:35:18",
+      "textSha256": "7dd11f9639a97da7f40a973e6fae7d1b0ca7e3425535dc379650cc22cc2781ac",
+      "status": "exclude",
+      "reason": "죽일 만한 목제 도구와 사형 규정의 전체로 개인의 말이나 계획에 같은 판단을 비유하기 어렵다.",
+      "contextNote": "나무 도구를 사용한 고살을 정의한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:35:19",
+      "textSha256": "59663630b9767aa0503520be2c66fd0d446b5166c16b001467dc805a71766e8a",
+      "status": "exclude",
+      "reason": "복수자가 직접 만나 죽이라는 지시라 화난 사용자에게 적절한 경계나 사실 확인의 일상 행동으로 읽을 수 없다.",
+      "contextNote": "고의 살인자에 대한 피의 보수를 정한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:35:20",
+      "textSha256": "d534916afbd63e3fee4cef0a3c23b8fca13d22fdd393fe2bd813a1c2036f30c0",
+      "status": "exclude",
+      "reason": "미워해 밀치거나 기회를 엿봐 죽인 가정이 미완결로 이어져 화난 메시지의 조절을 직접 다루는 말은 아니다.",
+      "contextNote": "의도적 살인의 동기를 계속 정의한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:35:21",
+      "textSha256": "fdbf2d0634065a39ce321fef2e21086f88f4ec88c0cb781191c0cd1311c83353",
+      "status": "exclude",
+      "reason": "원한의 살인을 사형과 복수자의 직접 살해로 잇는 전체 문장이라 보통 다툼의 정당한 반응에 옮길 수 없다.",
+      "contextNote": "고의로 친 자의 처벌을 정한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:35:22",
+      "textSha256": "8f2dd53efbe866eb509284806409cae1a333d07dcdfdd002eab05dacab8b3006",
+      "status": "hold",
+      "reason": "G12에서 나쁜 의도 없이 행동이 달라질 가능성은 생각할 수 있으나 우연한 밀침과 물건 던짐의 살인 조건이며 친구가 원한 없다는 사실을 확정해 주지는 않는다.",
+      "contextNote": "원한과 매복이 없는 우연한 가해 조건을 시작한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:35:23",
+      "textSha256": "dc0ca0577e7563be94f4ebeebe08f6b3a5cc226d22733cb172ebd396717a6813",
+      "status": "hold",
+      "reason": "H028에서 해칠 뜻이 없던 실수를 구별함은 닿지만 실제 사망 사건의 미완결 조건이라 친구 행동이 모두 의도 없었다는 가정을 넣을 수 없다.",
+      "contextNote": "보지 못한 돌 투척에 의한 비고의 죽음을 예시한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:35:24",
+      "textSha256": "980e7ee297ef8b0fbc2d52f629eb13eec0c2496a80213c8e479b16179cac6573",
+      "status": "hold",
+      "reason": "H030에서 즉흥적 응징보다 판결을 거침은 보이나 이 규례의 구체 기준을 앞에서 알아야 하고 판결하여로 끊겨 단독의 확인 실마리는 약하다.",
+      "contextNote": "회중이 가해자와 보수자 사이를 판결하게 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:35:25",
+      "textSha256": "9cc6449ce91eee0cb9bd852c3b70c09aeded2e2af147440fff7164d223ffe6e3",
+      "status": "hold",
+      "reason": "H028에서 잘못한 이도 보호하되 경계를 두는 구조는 가능하지만 대제사장 사망 때까지 도피성에 있어야 한다는 긴 조건이 일상 실수 용서에 과하다.",
+      "contextNote": "비고의 살인자를 도피성으로 보내 제한된 보호 아래 두게 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:35:26",
+      "textSha256": "734d80d46f2ba6a9da5ca57ff14c72d38435be4a311b4421880b82665da2af1b",
+      "status": "exclude",
+      "reason": "도피성을 나갔다 하자는 조건뿐으로 현재의 경계 밖 활동이나 여행을 금할 근거는 없다.",
+      "contextNote": "도피성 밖에 나간 경우를 가정한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:35:27",
+      "textSha256": "499556212bea57035812f98d06155e8602e957c21bd1fbd4a9f750dbbea01bfd",
+      "status": "exclude",
+      "reason": "성 밖에서 복수자가 죽여도 죄가 없다는 법으로 관계의 경계를 넘은 상대에게 해를 입혀도 된다는 일반 기준으로 읽을 수 없다.",
+      "contextNote": "도피성 밖의 보호 제한을 정한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:35:28",
+      "textSha256": "a40a60fffbd37b69b072f9c6c125278c42a4765ff45bfb97d6b0aac5b83f7f09",
+      "status": "exclude",
+      "reason": "대제사장 죽음까지 머물다 귀향할 수 있는 법으로 실제 돈이 필요한 기한이나 회복 기간을 대신 정하지 못한다.",
+      "contextNote": "도피성 체류 종료 조건과 귀향을 설명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:35:29",
+      "textSha256": "ab14f98d62e6008ebebb61c34e36abba99cb623ffc740a317c12311a53106d9a",
+      "status": "exclude",
+      "reason": "앞 규정이 대대로 판단할 율례라는 요약으로 내 현재 선택에 쓸 구체 기준은 앞 절들에 의존한다.",
+      "contextNote": "도피성 판결 규정의 지속 적용을 말한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:35:30",
+      "textSha256": "211abd09afba24334f4cdf0639116d67fd24480753bbe23ba1452d01c3c52c7e",
+      "status": "candidate",
+      "reason": "H030에서 한 사람의 말만으로 되돌리기 어려운 판단을 내리지 말고 사실을 더 확인할 실마리를 읽을 수 있다.",
+      "contextNote": "고살 판정은 증언을 따르되 한 증인만으로 사형하지 못하게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "한 사람의 이야기만 듣고 친구를 나쁘다고 확정하기 전에 추가 사실을 확인하는 방향을 읽는다.",
+          "friction": "첫머리는 고살자를 증언에 따라 사형하는 고대 법이다. 현대 인간관계를 형사 재판이나 사형으로 바꾸지 않고 친구가 무고하거나 죄 있다는 결론도 미리 내리지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NUM:35:31",
+      "textSha256": "9662824c7c7b403fa0332d7d50e6b6ac2e569ae91f023e7e828250f99081eafe",
+      "status": "exclude",
+      "reason": "살인자의 속전을 받지 말고 반드시 죽이라는 처벌 규정이라 더 높은 거래 대가를 거절할 윤리만 떼어 연결하기 어렵다.",
+      "contextNote": "고의 살인자의 금전 대속을 금한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:35:32",
+      "textSha256": "ba5807644e322e9d23fd9406bae3ae34de79e523a78bb9a210932a99f92276c7",
+      "status": "exclude",
+      "reason": "돈을 받고 도피성 체류를 단축하지 말라는 법으로 현재 판매 기한이나 적당한 가격의 실제 제약과 동일하게 읽기 어렵다.",
+      "contextNote": "비고의 살인자의 조기 귀향도 금전으로 허용하지 않는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:35:33",
+      "textSha256": "7cdc395912d9d810f930386a55f92b3eb5932c6a76238e067e1ecea36a2360b3",
+      "status": "exclude",
+      "reason": "땅을 더럽히지 말라는 앞말을 가해자의 피로만 속한다는 뒷말과 분리할 수 없어 평범한 마음 정리나 용서의 답으로 쓰기 어렵다.",
+      "contextNote": "피 흘림으로 오염된 땅의 속죄 원칙을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:35:34",
+      "textSha256": "4312a1954a5fc59dd71062ddc589f85315ba5f1c46c59e51c8d463164723502f",
+      "status": "hold",
+      "reason": "H064에서 함께하시는 하나님 앞에 삶을 지킴은 생각할 수 있으나 현재 남들의 의견이나 선택이 땅을 더럽히는 일이라는 판단은 입력에 없다.",
+      "contextNote": "하나님이 거하시는 땅을 더럽히지 말라고 마친다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:36:1",
+      "textSha256": "2d776ed52e31d538d3c66beaa781ef043490223d981f6db474ba33bf7dd5e4d5",
+      "status": "exclude",
+      "reason": "긴 족보와 두령들의 접근 및 발화 소개만으로 어떤 부당함을 판단할지 내용은 아직 없다.",
+      "contextNote": "슬로브핫 딸들의 혼인과 기업 문제를 새로 제기한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:36:2",
+      "textSha256": "f859dbf6a72f23fed612cb83e8600e594dba94dddbc61dbb04f45cc2f0ac9587",
+      "status": "exclude",
+      "reason": "앞선 제비 분배와 딸들에게 기업을 준 판결을 회고하는 미완결 전제로 현재 약속이나 자원 갈등은 아직 없다.",
+      "contextNote": "길르앗 지도자들이 기존 명령을 상기시킨다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:36:3",
+      "textSha256": "8bff95b720810e641cc5300932deab234630c25d2e90b4c131012591a921158c",
+      "status": "hold",
+      "reason": "H036에서 자기 선택이 가족에게 미칠 영향은 닿지만 상속녀가 다른 지파와 결혼할 때 토지가 줄어드는 법적 조건이라 내 진로의 부모 반대와 같지는 않다.",
+      "contextNote": "다른 지파와 혼인하면 기업이 이동한다는 우려다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:36:4",
+      "textSha256": "4f16f1cf4906074e552e75bca0e6e7828a73bd706887e2dfe58b54356296759c",
+      "status": "exclude",
+      "reason": "희년에도 소속 지파에서 토지가 줄어든다는 영속적 소유 설명으로 현대 가족 선택의 재산상 결과를 추정할 수 없다.",
+      "contextNote": "희년과 지파 기업 이동의 문제를 덧붙인다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:36:5",
+      "textSha256": "b573d50e00e242b2ffb03ce018e01bc7efa2f5252be5457ab7192bae6610832e",
+      "status": "candidate",
+      "reason": "H048에서 다른 사람이 짚은 말이 옳으면 옳다고 받아들이는 태도를 보고 내 방식을 고수하지 않을 실마리를 읽을 수 있다.",
+      "contextNote": "모세가 요셉 자손의 문제 제기를 옳다고 인정한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "새로 제기된 점이 옳으면 내 기존 방식만 지키기보다 그 말을 인정할 수 있다는 실마리를 읽는다.",
+          "friction": "토지 상속에 대한 지파의 우려를 하나님 말씀에 따라 판단한 장면이다. 동료의 모든 지적을 계시로 부르거나 이전 결정 전부가 틀렸다고 만드는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:NUM:36:6",
+      "textSha256": "6ca103ee4faa06aed9ae68170d5cc87f621e79981ac31c8a412510cc41d119d5",
+      "status": "hold",
+      "reason": "H036에서 자유와 제약을 함께 생각할 수 있으나 같은 조상 지파 안에서만 혼인하라는 조건이므로 성인 진로에 혈연 제한이나 부모의 일방 권한을 만들 수 없다.",
+      "contextNote": "딸들의 선택을 자기 지파 내 혼인으로 한정한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:36:7",
+      "textSha256": "f4dc6ad748487ff6b90ac5f26bcae547c56fc51a17db51b50edcfc2896ca8b19",
+      "status": "exclude",
+      "reason": "기업이 지파 사이 옮겨지지 않게 하는 토지 보존 원리로 물건을 가족에게 줄지나 타인에게 팔지의 일반 의무를 만들 수 없다.",
+      "contextNote": "혼인 제한의 기업 보존 목적을 설명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:36:8",
+      "textSha256": "a40d47d303908097e1f3680a1e37cc502bc367bafcca5b11015463a905d751ee",
+      "status": "exclude",
+      "reason": "상속녀의 같은 지파 혼인을 지정하는 미완결 법으로 현재 사람의 관계나 진로에 같은 선택 범위를 강제할 수 없다.",
+      "contextNote": "토지를 상속한 딸의 혼인 규정을 일반화한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:36:9",
+      "textSha256": "56ef929a130e188907e774e24165e92daaef60ce6ba8d20ca9016f170c647681",
+      "status": "hold",
+      "reason": "H024에서 집안의 몫을 생각할 여지는 있으나 혼인에 따른 지파 토지 보존이지 내 중고품을 가족에게 우선 양도해야 한다는 근거는 아니다.",
+      "contextNote": "각 지파가 기업을 보존하도록 규정을 마친다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:36:10",
+      "textSha256": "448b0bf46a9d16924b59618f05b1774c717ad9e36f75b2c2fb934f5a46dd1042",
+      "status": "exclude",
+      "reason": "명령대로 행했다는 요약만으로 이전 약속과 새 선택 사이의 구체 판단은 나오지 않는다.",
+      "contextNote": "슬로브핫 딸들이 규정을 이행한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:36:11",
+      "textSha256": "27cd450089d42f034abef77084bcd70781281153e0a7c7249dbe19efd7a55527",
+      "status": "exclude",
+      "reason": "다섯 딸의 이름과 사촌 혼인 사실이 미완결로 이어져 현재의 관계 선택에 유효한 범위나 부담은 알려 주지 않는다.",
+      "contextNote": "딸들이 아버지 형제의 아들들과 혼인한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:36:12",
+      "textSha256": "331f9db585898784ea604e6df85f7b46a45816bba45930ccb203bd7bfca05a37",
+      "status": "exclude",
+      "reason": "같은 지파 혼인으로 기업이 남았다는 법적 결과라 현재 자기 선택도 가족 자산을 보존한다는 미래를 확정할 수 없다.",
+      "contextNote": "슬로브핫의 기업이 므낫세 가문에 남았음을 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:NUM:36:13",
+      "textSha256": "a82808e305aeb2e7876aafdb88e08145bb63426948aa544b3a34ea883a16764d",
+      "status": "exclude",
+      "reason": "모압 평지에서 받은 명령과 규례의 마무리라는 서지적 결론으로 지금의 생활 선택을 가를 개별 내용은 없다.",
+      "contextNote": "민수기 명령들의 장소와 전달자를 정리한다.",
+      "readability": "thinkable",
+      "connections": []
     }
   ]
 }

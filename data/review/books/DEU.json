@@ -1,0 +1,1366 @@
+{
+  "bookCode": "DEU",
+  "corpusSha256": "f8d5c8b377e243b05fb884b4a6965d2c06a95de74b64a716ee4b95989d61e971",
+  "criteriaVersion": "garasadae-corpus-2026-10-08-v1",
+  "reviewer": "Codex review_gen_2ki",
+  "method": "direct-codex-reading",
+  "entries": [
+    {
+      "id": "KRV:DEU:1:1",
+      "textSha256": "b14dc26a427682fc596c162769ce8a7f15db4872b81e9cd1716ffd97da8599d1",
+      "status": "exclude",
+      "reason": "말씀 선포 장소의 여러 지명과 청중 소개로 현재 선택의 이유나 부담은 아직 없다.",
+      "contextNote": "모세의 고별 말씀 전체를 소개한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:1:2",
+      "textSha256": "c22f7595c937ce0c47070c5bddfa5b03f9f2740da288bffdb890ea585913cec0",
+      "status": "exclude",
+      "reason": "호렙에서 가데스바네아까지 열하룻길이라는 거리 정보로 현재 기회나 마감까지 남은 시간을 대신 판단할 수 없다.",
+      "contextNote": "이어질 사십년 여정과 대비되는 거리다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:1:3",
+      "textSha256": "c3c59621da73677bd89d0015b5fda2fb5ed8635232fdf596534129ec6f5f498e",
+      "status": "hold",
+      "reason": "H052에서 받은 내용을 다 전함은 닿지만 특정 날짜의 명령 선포 소개라 과장할지의 갈등을 직접 가르는 기준은 약하다.",
+      "contextNote": "모세의 말씀 날짜와 전달 범위를 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:1:4",
+      "textSha256": "c778d31749dd3f0ed41c07972750422d2fd12120751d51294b1c7a3aac649849",
+      "status": "exclude",
+      "reason": "두 왕을 쳐 죽인 이후라는 전쟁 배경으로 현재 상대와의 다툼이나 도전의 정당성을 알 수 없다.",
+      "contextNote": "고별 말씀의 전쟁 이후 시점을 밝힌다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:1:5",
+      "textSha256": "b2d3baebe444ed2b3a404053534715b264bd26f5b59296fdd72788c605be0eb3",
+      "status": "exclude",
+      "reason": "율법 설명을 시작했다는 발화 도입으로 실천할 내용은 다음 절에 있다.",
+      "contextNote": "모세의 첫 회고 연설을 시작한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:1:6",
+      "textSha256": "0c8f4a2eb61cf16296ac204b5cdf2b224f5e52e5e457d3dd5bd078e289f91e74",
+      "status": "hold",
+      "reason": "H049에서 익숙한 자리에 오래 머묾을 돌아볼 수 있으나 오래니로 끝나 다음 이동의 말과 함께여야 새로운 배움의 방향이 분명하다.",
+      "contextNote": "호렙에 오래 머물렀음을 하나님이 지적하신다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:1:7",
+      "textSha256": "a73deb05fb7fbc0b4239ef1a101103d7a91a33d9fd3f2b68d5818f80ce9ed3cb",
+      "status": "candidate",
+      "reason": "A020에서 실제 새 도시의 기회가 있는데 익숙한 곳에만 머물지 말고 방향을 돌려 나아가는 실마리를 읽을 수 있다.",
+      "contextNote": "호렙을 떠나 약속의 땅 여러 지역으로 진행하라는 명령이다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A020",
+          "clue": "익숙한 곳에서 방향을 돌려 실제로 열린 새 자리로 나아갈 실마리를 읽는다.",
+          "friction": "여러 지명이 길게 나오는 가나안 진입 명령이다. 오늘 훈련 기회를 하나님이 직접 명령했다거나 앞으로의 삶이 반드시 성공한다는 해설은 붙이지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:1:8",
+      "textSha256": "be207d95acd01f8b66b6a2fd481e3a0155a589b4113b737e37e81acdf4565023",
+      "status": "candidate",
+      "reason": "A020에서 눈앞에 이미 있는 기회를 생각으로만 두지 않고 들어가 자신의 자리로 삼을지의 실마리가 있다.",
+      "contextNote": "조상에게 약속한 땅이 앞에 있으니 들어가 얻으라고 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A020",
+          "clue": "눈앞에 실제 주어진 기회를 바라보기만 하기보다 들어가 자신의 자리로 삼을 쪽을 읽는다.",
+          "friction": "조상들에게 맹세한 땅에 관한 말씀이다. 실제로 확보된 훈련 기회와 준비 가능한 비용이라는 조건만 보며 신적 성과 보증이나 가족 부담 소멸을 만들지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:1:9",
+      "textSha256": "6475560628bcf7e4b9d4d48afab40fb195e04f4ae14deccd81a1d2c5d109c1e0",
+      "status": "candidate",
+      "reason": "H058과 A009에서 부담을 혼자 다 질 수 없음을 말하고 도움과 분담을 구하는 쪽을 읽을 수 있다.",
+      "contextNote": "모세가 백성의 짐을 혼자 질 수 없었다고 회고한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "이 짐은 혼자 질 수 없다고 말하며 도움을 청할 수 있다는 실마리를 읽는다.",
+          "friction": "모세가 한 백성의 다툼과 짐을 맡은 상황이다. 현재 도와줄 사람이 반드시 생기거나 내가 모든 책임을 버려도 된다는 결과를 말하지 않는다.",
+          "expectedEnough": "yes"
+        },
+        {
+          "scenarioId": "A009",
+          "clue": "한 사람이 모든 짐을 쥐기보다 실제 가능한 동료에게 분담할 방향을 읽는다.",
+          "friction": "모세의 통치 부담 문맥이며 현재 팀원의 능력과 여력이 있다는 조건에서 읽는다. 위임하면 모든 부담이 사라지는 보증은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:1:10",
+      "textSha256": "7ac9e5988859d33d208ae273f31680244d3054f1d4511411ce24ffac1d4bd597",
+      "status": "hold",
+      "reason": "H040에서 다른 이의 번성을 기뻐함은 연상되나 별처럼 많아진 백성의 수와 다음 위임의 전제라 친구 축하의 선택까지는 거리가 있다.",
+      "contextNote": "하나님이 백성 수를 많게 하셨음을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:1:11",
+      "textSha256": "0840ded0290fface36e69754ebb9dc20cb7ed18ef87a3c7eb17a12364752d6c8",
+      "status": "candidate",
+      "reason": "H040에서 비교하는 마음으로 복을 줄이기 바라기보다 더 복 받기를 빌어 주는 쪽을 읽을 수 있다.",
+      "contextNote": "모세가 백성에게 더 큰 번성과 복을 기원한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H040",
+          "clue": "친구의 성공을 줄이려는 비교심보다 더 복 받기를 빌어 주는 쪽으로 마음을 돌릴 실마리를 읽는다.",
+          "friction": "백성의 번성을 천배로 기원하는 말이다. 친구나 내 미래 성공의 배수를 예언하지 않고 현재 확인된 기쁨을 축하하는 마음으로 읽는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:1:12",
+      "textSha256": "c9ddebd2bf71258e4a56dd425272c6731c37472f49e4d93a1414c5a9e9c123f4",
+      "status": "candidate",
+      "reason": "H058에서 혼자 모든 고충과 다툼까지 담당하려 하지 않아도 된다는 실마리를 질문에서 읽을 수 있다.",
+      "contextNote": "모세가 단독 부담의 불가능함을 다시 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "혼자 모든 고충까지 짊어져야 하는지 되물으며 도움을 청할 마음을 읽는다.",
+          "friction": "모세의 재판과 공동체 부담이다. 도움을 구하면 바로 해결되거나 다른 사람에게 전부 떠넘길 수 있다는 말은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:1:13",
+      "textSha256": "7870b2c5b542b635066c6b1d5676dc605a3dab8641665be32f202172ea7a5d3f",
+      "status": "candidate",
+      "reason": "A009에서 실제로 지혜와 지식이 있는 사람을 골라 담당자로 세우는 방향을 읽을 수 있다.",
+      "contextNote": "각 지파의 지혜 있고 알려진 사람을 두령으로 택하게 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "A009",
+          "clue": "실제 잘 알고 지혜롭게 처리할 사람을 골라 책임자로 세워 일을 나눌 실마리를 읽는다.",
+          "friction": "지파의 두령 선정이며 유명하다는 것은 알려져 신뢰받는 사람의 문맥이다. 인기나 신분만으로 현재 팀원을 정하라는 말은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:1:14",
+      "textSha256": "0384ee8538fc0ac2e20ffbe2bdb5b08a0b56e9097a2161cc94a59d8c4332bf84",
+      "status": "hold",
+      "reason": "H048에서 제안을 좋다고 받아들임은 읽히지만 어떤 제안인지 앞 절에 기대며 하기에로 끝나 실수 수정의 실마리로 충분한지는 불확실하다.",
+      "contextNote": "회중이 모세의 위임안을 좋다고 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:1:15",
+      "textSha256": "993671877c4a6e2fca72d432457f1f7e39cf6f5fbc91dcb31b54ea783568d5fe",
+      "status": "candidate",
+      "reason": "A009에서 큰일과 작은 단위의 책임을 나누어 적합한 사람에게 맡기는 구조가 읽힌다.",
+      "contextNote": "지혜 있는 사람들을 규모별 여러 직책으로 세운다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A009",
+          "clue": "작은 단위부터 큰 단위까지 담당을 나눠 나에게만 몰린 일을 분산할 수 있다는 구조를 읽는다.",
+          "friction": "천부장 등 고대 직책의 목록이다. 현대 팀에 같은 숫자와 군사 위계를 만들지 않고 규모와 능력에 맞는 분담을 읽는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:1:16",
+      "textSha256": "bc3a3773691c4d25c7321d8ae0ddfdd79e2af9b472916566945a3abe36b89aae",
+      "status": "candidate",
+      "reason": "A016에서 가까운 사람 편에 서기보다 양쪽 말을 듣고 출신과 상관없이 공정하게 다루는 방향을 읽을 수 있다.",
+      "contextNote": "재판장에게 형제와 타국인 모두의 송사를 공정히 판단하게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A016",
+          "clue": "친한 사람 편을 들려고 확인 못 한 말을 보태기보다 양쪽 사실을 공정하게 듣는 쪽을 읽는다.",
+          "friction": "재판장에게 주어진 법정 지침이다. 친구의 실제 잘못이나 결백을 미리 정하지 않고 현대 형사 판결을 대신하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:1:17",
+      "textSha256": "33f73da592350c933abe0cd8499f186f060797682ac092a510d0c8c3b25da9a9",
+      "status": "candidate",
+      "reason": "A016의 사람 편들기와 H051의 어려운 질문을 혼자 감추는 부담에 공정하게 듣고 어려우면 돌리라는 말이 닿는다.",
+      "contextNote": "신분과 두려움에 좌우되지 말고 어려운 사건은 모세에게 넘기게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A016",
+          "clue": "사람의 얼굴과 관계에 눌리지 않고 같은 기준으로 듣고, 알 수 없는 판단은 넘기는 방향을 읽는다.",
+          "friction": "하나님께 속한 재판과 모세의 상급 판단이다. 내가 하나님의 판결자라고 주장하거나 친구가 죄 있다는 결론을 만들지 않는다.",
+          "expectedEnough": "yes"
+        },
+        {
+          "scenarioId": "H051",
+          "clue": "결단하기 어려운 일을 혼자 아는 척하기보다 경험 있는 사람에게 돌려 묻는 방향을 읽는다.",
+          "friction": "법정의 상급 판단 구조다. 멘토 답을 계시나 무조건 복종할 명령으로 만들지 않고 부족해도 물을 수 있음을 읽는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:1:18",
+      "textSha256": "63949be6cebaa1d0cac4df24151987f623646165fd5c213b248b3c025046fc6d",
+      "status": "exclude",
+      "reason": "행할 모든 일을 명했다는 요약으로 그 일이 무엇인지 없는 상태에서 현재 약속이나 선택의 우선순위를 가르기 어렵다.",
+      "contextNote": "위임 당시 가르친 일을 요약한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:1:19",
+      "textSha256": "0c04ccbd0b76e88616a1c2f4b46be4e8cd5f3c31fda2eb98f16f08e2572fabca",
+      "status": "hold",
+      "reason": "A020에서 두려운 구간을 지나 새 곳에 도착함은 닿으나 광야 여정의 미완결 배경으로 지금 이사 부담의 결과를 알려 주지는 않는다.",
+      "contextNote": "호렙에서 가데스바네아로 온 여정을 회고한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:1:20",
+      "textSha256": "5d2b365207291cbf8d18e131d53c38c28f62827f3d651ee359c0d05347b34892",
+      "status": "hold",
+      "reason": "A020에서 새 기회가 가까이 옴은 생각할 수 있지만 주신 산지에 이르렀나니로 끝나고 현재 훈련 성과가 이미 주어졌다는 뜻은 아니다.",
+      "contextNote": "모세가 산지 입구 도착을 알린다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:1:21",
+      "textSha256": "674082406aea3d0a169a18b9c7d045ca12d0a7cdbccc92f14b3c01dd21aa328f",
+      "status": "candidate",
+      "reason": "A020과 G15에서 실제 기회를 앞에 두고 두려움과 주저함만으로 접지 말자는 실마리를 읽을 수 있다.",
+      "contextNote": "주신 땅에 올라가 얻고 두려워하지 말라고 권한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "A020",
+          "clue": "실제로 앞에 있는 기회를 두려워하며 계속 주저하기보다 받아들일 선택의 실마리를 읽는다.",
+          "friction": "가나안을 얻으라는 원래 명령이며 현재 새 도시의 안전과 수입 및 가족 반응은 보증하지 않는다.",
+          "expectedEnough": "yes"
+        },
+        {
+          "scenarioId": "G15",
+          "clue": "원했던 역할을 두려움만으로 포기하지 말고 시도할 쪽을 읽는다.",
+          "friction": "원래 땅의 정복 앞에서 한 권면이다. 내가 이미 충분한 능력을 갖췄다거나 역할이 반드시 성공한다는 사실은 보태지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:1:22",
+      "textSha256": "1c8ba3c3cc16e6ab3bf3e7306c7044dcc8f881ef36e5201afecc35138b413cc4",
+      "status": "candidate",
+      "reason": "H003에서 후기나 막연한 기대만으로 정하지 않고 실제 들어갈 길과 조건을 먼저 알아보는 방향이 읽힌다.",
+      "contextNote": "백성이 사람을 보내 길과 성읍을 조사해 보고받자고 제안한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H003",
+          "clue": "평판만 듣고 바로 고르기보다 실제 어떤 쓰임과 조건인지 먼저 알아보는 방향을 읽는다.",
+          "friction": "정탐의 내용은 진입 경로와 성읍이다. 기기의 필요나 품질이 좋다는 결론을 미리 만들지 않고 확인의 과정을 읽는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:1:23",
+      "textSha256": "7211aa9557c66d8bea7c86754c4089e24d8e35741a48563ca72a253226340a36",
+      "status": "candidate",
+      "reason": "A009에서 필요한 조사도 혼자 다 하지 않고 각 부분에서 사람을 골라 맡기는 실마리가 있다.",
+      "contextNote": "모세가 조사 제안을 좋게 여겨 지파마다 한 명을 택한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A009",
+          "clue": "필요한 조사나 처리도 각 부분의 담당자를 세워 나눠 맡길 수 있음을 읽는다.",
+          "friction": "지파별 정탐꾼 열둘 선정이다. 현대 팀도 열둘이 필요하다거나 결과가 정확히 나올 보증으로 쓰지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:1:24",
+      "textSha256": "546d269ac3c1633b49c8586588cfb0c9a9961c8f94c2f2d7a36d65e617c846dd",
+      "status": "hold",
+      "reason": "H003에서 실제로 가서 조사함은 보이나 에스골 지명과 정탐하고로 끝나는 행동 단편이라 어떤 사실을 확인할지의 충분함은 약하다.",
+      "contextNote": "정탐꾼이 산지와 골짜기를 조사한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:1:25",
+      "textSha256": "b037295444a6e4c9ec4851f58b6608b5e83d4e3a9daac4e8330c87bc972389c9",
+      "status": "candidate",
+      "reason": "H003에서 말의 평판만 따르기보다 직접 본 것과 실제 확인한 것을 근거로 판단할 실마리를 읽을 수 있다.",
+      "contextNote": "과실을 가져온 정탐꾼이 조사한 땅이 좋다고 보고한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H003",
+          "clue": "추상적인 후기의 말만 믿기보다 실제 확인한 것과 살펴본 근거를 가지고 결정할 방향을 읽는다.",
+          "friction": "과실을 가져온 가나안 정탐 보고이다. 현재 친구 추천이 검증됐다거나 기기가 이미 내게 꼭 필요하다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:1:26",
+      "textSha256": "12a4c5e4e1c420a1030e2fd03030b632f58dac6997a78b159c577ea5efd29886",
+      "status": "hold",
+      "reason": "G15에서 기회 앞의 주저를 볼 수 있으나 올라가기 싫음을 하나님의 명령 거역과 묶어 현재의 보통 능력 두려움까지 같은 죄라고 판단할 수 없다.",
+      "contextNote": "가나안 진입을 거절한 불순종을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:1:27",
+      "textSha256": "1db2d8ea9e02d5a5a70642c9501bd27243c772ddd351a860f9648143e6c92e7f",
+      "status": "hold",
+      "reason": "G12에서 미워하실 거라 단정하는 마음은 돌아볼 수 있지만 하나님이 죽이려 구출했다는 원망이며 친구의 실제 의도를 반대로 확정해 주지 않는다.",
+      "contextNote": "백성이 하나님의 구출 의도를 미움으로 왜곡해 원망한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:1:28",
+      "textSha256": "475e74d9c108168de7ff1d4d54940aae394207b7091314b22359d1eacb65ae92",
+      "status": "hold",
+      "reason": "H041에서 남들이 크고 강해 보이는 압박은 닿지만 정탐 보고 속 실제 장대한 사람과 성벽을 내 역할의 능력 차이로 확정할 수 없다.",
+      "contextNote": "형제들의 보고가 백성을 낙심시킨 내용을 회고한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:1:29",
+      "textSha256": "664b7d19608b8b442570542927d9efb174de9fc3615215446cbc41eee6508bf3",
+      "status": "candidate",
+      "reason": "G15에서 원했던 역할을 앞두고 두려움 자체만을 이유로 멈출지의 부담을 무서워 말라는 말이 직접 건드린다.",
+      "contextNote": "모세가 위축된 백성에게 두려워 말라고 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G15",
+          "clue": "원하던 새 역할 앞에서 두려움 그 자체를 멈출 이유 전부로 삼지 않을 마음을 읽는다.",
+          "friction": "가나안 진입을 앞둔 백성에게 한 말이다. 실제 역량과 조건의 부족까지 없다고 단정하거나 결과 성공을 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:1:30",
+      "textSha256": "321824efd82c1e9c5beec91c926349f8840fd032ef18a41cbbdc61f83635c5cf",
+      "status": "candidate",
+      "reason": "G15에서 혼자 가진 힘만으로 계산하며 접기보다 하나님을 믿고 도전할 실마리를 읽을 수 있다.",
+      "contextNote": "애굽에서처럼 하나님이 앞서 싸우실 것을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G15",
+          "clue": "내 힘의 계산에만 매여 접기보다 함께하시는 하나님을 믿고 역할에 나설 실마리를 읽는다.",
+          "friction": "출애굽처럼 싸우실 것이라는 원래 약속이다. 현재 평가에서 이기거나 누군가 패배하리라는 확정, 준비를 생략해도 된다는 말로 만들지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:1:31",
+      "textSha256": "05f8cb316cbaf0e15032fcf5c4684d934f2c9735613c01bab46dbf20835c8762",
+      "status": "candidate",
+      "reason": "H046에서 남의 속도와만 비교하기보다 자기 길이 여기까지 이어졌음을 돌아보며 내 계획을 지킬 마음을 읽을 수 있다.",
+      "contextNote": "하나님이 아들을 안듯 광야 길에서 백성을 안아 오셨다고 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H046",
+          "clue": "다른 사람의 속도보다 내가 여기까지 걸어온 길을 돌아보며 내 계획을 소중히 지킬 쪽을 읽는다.",
+          "friction": "광야에서 이스라엘을 안아 오신 역사다. 현재 계획의 모든 내용이 옳다거나 내 과거 성공과 앞으로의 속도를 새로 가정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:1:32",
+      "textSha256": "94cbf74626b882da05a98f4f78c8713c9f60cc1996fc215a4c989793587bdbfa",
+      "status": "hold",
+      "reason": "G15에서 불신을 돌아볼 수는 있으나 하나님을 믿지 않았다는 직접 책망만으로 현재의 실제 능력 걱정과 불순종을 동일하게 만들 수 없다.",
+      "contextNote": "구출과 돌봄에도 믿지 않은 백성을 지적한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:1:33",
+      "textSha256": "63035753a2a6c8f10139ef629edacf6d2063ebb17b4cfff4ec6ffdea8a8be5c9",
+      "status": "candidate",
+      "reason": "H013에서 모든 앞일을 다 알아야만 가려 하기보다 길을 인도하시는 하나님을 믿고 이미 계획한 길에 나설 실마리를 읽을 수 있다.",
+      "contextNote": "장막 칠 곳과 갈 길을 불과 구름으로 인도하신 하나님을 회고한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H013",
+          "clue": "앞의 모든 문제를 다 알아야만 움직일 수 있다고 여기기보다 인도하심을 믿고 계획한 길에 나설 쪽을 읽는다.",
+          "friction": "출애굽의 불과 구름 인도다. 여행의 안전과 숙소 및 비용을 보증하거나 지금 특별한 표징을 따라야 한다고 만들지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:1:34",
+      "textSha256": "4b57952cfcb89ac6ac9c56001cf49baab9224ce74fa5c43460160a94bf9e4a89",
+      "status": "exclude",
+      "reason": "노하여 맹세하신 말씀의 도입으로 무엇을 선택하거나 수정할지는 아직 없다.",
+      "contextNote": "광야 세대 심판의 선고를 시작한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:1:35",
+      "textSha256": "f528ce0e16632ccd8d1143723ff530fe6f8227d6b91070feeb3512115abec041",
+      "status": "exclude",
+      "reason": "악한 세대는 좋은 땅을 못 본다는 심판으로 현재의 망설임에도 기회가 영원히 박탈된다는 미래를 붙일 수 없다.",
+      "contextNote": "불신 세대의 가나안 진입 금지다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:1:36",
+      "textSha256": "d44120af6c13020e018e6f0b3981194106ce1d55affd99caf7baa0a61afb73d2",
+      "status": "hold",
+      "reason": "G15에서 다수와 다른 믿음은 읽힐 수 있으나 갈렙과 자손의 땅 소유 약속을 새 역할의 성과로 보증할 수 없고 두려움만을 죄로 정하지 않는다.",
+      "contextNote": "갈렙의 순종과 예외적 기업을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:1:37",
+      "textSha256": "7c64c6aa0805ca4d69e3d6a27a581b0a48326413e776a1f033bfcd9ad7c62d44",
+      "status": "exclude",
+      "reason": "백성 때문에 모세도 못 들어간다는 진노 선고로 지금 동료의 책임과 나의 미래를 판단할 정보는 없다.",
+      "contextNote": "모세 자신의 가나안 금지를 덧붙인다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:1:38",
+      "textSha256": "f874e2a24da0831b98f088f4f58e53285653c941fb5637b5016c3eeb5343c504",
+      "status": "candidate",
+      "reason": "A030에서 내 역할을 끝까지 붙들기보다 후배를 담대하게 해 다음 역할을 맡도록 돕는 실마리를 읽을 수 있다.",
+      "contextNote": "모세에게 여호수아를 담대하게 하여 후임으로 세우게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A030",
+          "clue": "내가 이전 역할을 끝까지 쥐려 하기보다 다음 사람을 격려하고 그가 맡도록 돕는 역할을 생각할 수 있다.",
+          "friction": "모세가 들어가지 못하고 여호수아가 인도할 사명 승계다. 나이 든 봉사자의 현재 어려움을 하나님의 벌이나 죽음 예고로 연결하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:1:39",
+      "textSha256": "2e3ffe8a624ae1a2c8b2f8a3121349a6a4a73159811e923eba6021a6e407d45f",
+      "status": "hold",
+      "reason": "H013에서 걱정했던 미래와 다른 길이 있을 수 있음은 닿지만 자녀의 포로 두려움 대신 기업을 주겠다는 특정 약속이 지금 여행의 안전을 확정하지는 않는다.",
+      "contextNote": "어린 세대에게 땅을 주실 것을 예고한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:1:40",
+      "textSha256": "82229732e5d1de8a784d3ff4d38e7eb234f70c4a0c77354653bb385f74a3abcb",
+      "status": "candidate",
+      "reason": "H062에서 원래 바라던 경로가 바뀌었을 때 새로 주어진 방향으로 돌아가 이어 갈 실마리가 있다.",
+      "contextNote": "백성에게 홍해 길로 돌이켜 광야로 들어가게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H062",
+          "clue": "원래 바라던 경로가 바뀌었으면 그 변화에 맞춰 돌아가며 여정을 이어 가는 방향을 읽는다.",
+          "friction": "불신 세대의 광야 귀환 명령이다. 현재 계획이 틀어진 일이 죄의 벌이라는 이유나 새 경로의 성과를 만들어 붙이지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:1:41",
+      "textSha256": "492428dbe8bf1000c40447b3d4e06c37cc3c4e6971f3fa5145abc7e9d2bb6326",
+      "status": "hold",
+      "reason": "H048에서 잘못 인정은 닿지만 인정 후에도 경솔히 병기를 들고 올라가려 한 장면이므로 인정만 하면 곧바로 같은 방식을 밀어도 된다는 말은 아니다.",
+      "contextNote": "백성이 죄를 인정하며 때늦게 진격하려 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:1:42",
+      "textSha256": "7d2db210861ebca46534c7f462dd74ae00b4722964803918518e148be25a28c6",
+      "status": "hold",
+      "reason": "H043에서 지금 밀지 말라는 경고는 읽히지만 하나님이 함께하지 않아 패할 것이라는 이유를 현재 방식 실패에 그대로 붙일 수 없다.",
+      "contextNote": "하나님이 금지된 진격의 패배를 경고하신다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:1:43",
+      "textSha256": "550a6ba46b6eaa10f77f36c8f4fe4e86d571b6e894d37b648ce2c87cb9cc2222",
+      "status": "hold",
+      "reason": "H043에서 경고를 무시해 같은 길을 고집함은 보이지만 천자히라는 옛 표현과 반역의 판단을 현재 시행착오에 옮기기에는 간격이 있다.",
+      "contextNote": "경고를 듣지 않고 산지로 올라간다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:1:44",
+      "textSha256": "65394cfb90da155fdaa2ebb8a131590af86a5ed4f375e5dd9d0d5e3bea100593",
+      "status": "exclude",
+      "reason": "벌떼처럼 쫓겨난 패배 결과라 지금의 어려운 도전도 같은 실패를 맞는다는 기준으로 쓸 수 없다.",
+      "contextNote": "아모리인이 백성을 쳐 호르마까지 쫓는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:1:45",
+      "textSha256": "fd55011270f9e96cdccfac94ea55a566a8ae2ede6f36d4590b4364845a440815",
+      "status": "hold",
+      "reason": "G10에서 울음만으로 해결되지 않는 모습은 보이지만 하나님이 듣지 않으신 심판 문맥을 친구도 사과를 받지 않을 결과로 단정할 수 없다.",
+      "contextNote": "패배 뒤 통곡에도 하나님이 응답하지 않으신다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:1:46",
+      "textSha256": "1737b4cb167800020ce691efe507251b6a1487a71b6ba0e9672534cee723b468",
+      "status": "hold",
+      "reason": "G07에서 오래 머묾은 닿을 수 있으나 가데스에서의 체류 요약일 뿐 매각을 기다리면 낫다는 정보나 기다릴 이유는 없다.",
+      "contextNote": "가데스 체류 기간을 회고한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:2:1",
+      "textSha256": "a757986be30c1284983d54062bc9d0dd001c9fd44cf67e2c89a4e5ed3d263789",
+      "status": "hold",
+      "reason": "H046에서 오랜 길도 내 과정일 수 있음은 읽히지만 하나님의 지시대로 산을 두루 돈 여정이어서 현재 느린 계획이 옳거나 헛되다고 확정할 수 없다.",
+      "contextNote": "홍해 길로 돌아 세일산을 오래 돈 일을 회고한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:2:2",
+      "textSha256": "bfdc3a529ef09a9704ddf9d831fe33cb590db86ef00eb1f412701827aa5b53ce",
+      "status": "exclude",
+      "reason": "하나님이 말씀하셨다는 도입만 있고 새 방향은 다음 절에 있다.",
+      "contextNote": "오랜 순회 뒤 이동 명령을 도입한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:2:3",
+      "textSha256": "f370e468849a3061b3f3e275bb5b6970fc3d0054d51a3b33f60a717f0e6886a9",
+      "status": "candidate",
+      "reason": "H043에서 같은 곳을 오래 맴돌았다면 방향을 돌려 나아가는 선택을 읽을 수 있다.",
+      "contextNote": "세일산을 두루 돈 뒤 북쪽으로 방향을 바꾸게 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H043",
+          "clue": "같은 곳을 오래 맴돌 때에는 방향을 돌려 다른 쪽으로 나아가 보는 선택을 읽는다.",
+          "friction": "세일산을 지나 북쪽으로 가라는 실제 여정 명령이다. 지금의 시행착오가 모두 무의미했다거나 특정 새 방식은 성공한다는 결과를 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:2:4",
+      "textSha256": "41812c31180e76e12e02645a7fe91716ce015d2b47730aaebb29718378528f23",
+      "status": "hold",
+      "reason": "H031에서 스스로 조심함은 닿지만 상대가 우리를 두려워한다는 예고와 국경 통과 조건이라 친구의 마음도 그렇다고 현재에 확정할 수 없다.",
+      "contextNote": "에서 자손을 지날 때 신중히 행동하게 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:2:5",
+      "textSha256": "dd8bd96c63475d227687dc369f449221ab9213325e27dd77944d72688e625a74",
+      "status": "candidate",
+      "reason": "H040에서 다른 사람의 몫도 그에게 주어진 것임을 인정하고 다투거나 빼앗을 대상으로 삼지 않을 실마리가 있다.",
+      "contextNote": "에서에게 주신 세일 땅을 탐해 다투지 말라고 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H040",
+          "clue": "남에게 주어진 몫을 내 부족의 증거로 여기기보다 그의 자리로 인정하고 다투지 않는 쪽을 읽는다.",
+          "friction": "에서의 토지 기업을 빼앗지 말라는 국경 규정이다. 친구가 부당한 것을 가졌다는 판단이나 내게 같은 부가 올 약속은 붙이지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:2:6",
+      "textSha256": "b62bc38dce11990e6bd39121f76f46ac58168ab46e5eb14874d941a68a0e1bdc",
+      "status": "candidate",
+      "reason": "A006에서 필요한 자원을 대가 없이 받기만 하기보다 값을 주고받는 일도 정당하다는 실마리를 읽을 수 있다.",
+      "contextNote": "통과 중 양식과 물을 돈으로 사게 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "A006",
+          "clue": "필요한 자원을 제공하는 일에도 값을 주고받을 수 있음을 보고 계속 무료로만 도울지 공정한 대가를 말할지 돌아볼 수 있다.",
+          "friction": "양식과 물을 사는 행위이지 모든 우정의 도움에 요금을 매기라는 규칙은 아니다. 지금 부탁의 대가나 상대의 동의는 정해 주지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:2:7",
+      "textSha256": "5a1b32e9d711ac342729405914250b6b39faf6df58e43efbe1f8a566464f8524",
+      "status": "candidate",
+      "reason": "H006에서 더 좋은 것만 바라보기 전에 지금의 부족하지 않은 몫을 돌아보고 만족하는 방향을 읽을 수 있다.",
+      "contextNote": "광야 사십년 함께하심과 부족함 없었음을 돌아본다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H006",
+          "clue": "계속 더 좋은 것만 바라보기 전에 지금 부족하지 않은 몫을 돌아보며 만족할 선택을 읽는다.",
+          "friction": "광야 사십년의 돌보심을 회고한 말이다. 현재 재정과 모든 생활이 넉넉하다고 만들지 않고 정상 작동 중인 기기라는 고민의 사실 안에서 읽는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:2:8",
+      "textSha256": "ecf76e37a0d6b5243a7b0acf7f4b5a658b66cb482dd61dd4325350f869fd8bb5",
+      "status": "exclude",
+      "reason": "여러 지명과 방향을 붙인 모압으로 가던 중의 이동 서술이라 현재 다른 기회를 택할 이유는 아직 없다.",
+      "contextNote": "에서 자손 땅을 지나 모압 광야로 온 여정이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:2:9",
+      "textSha256": "9f3827167bcb6e83795e03c225bf9c8ce548979f6fb1442940251804881012a5",
+      "status": "candidate",
+      "reason": "H040에서 남에게 주어진 몫을 괴롭히거나 다툴 이유로 삼지 않고 그 사람의 자리를 인정하는 방향이 읽힌다.",
+      "contextNote": "롯 후손에게 주신 모압 땅은 공격하지 말라고 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H040",
+          "clue": "다른 이의 자리를 내 경쟁이나 다툼의 대상으로 삼지 않고 그의 몫으로 존중하는 쪽을 읽는다.",
+          "friction": "모압과 롯 후손의 땅에 관한 명령이다. 친구의 실제 성공 경로나 내 미래 보상을 하나님이 보증한 것으로 만들지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:2:10",
+      "textSha256": "7712e4df1e1928c8b0c21da8e52b5aad7287994a9b7053d3a0324142490be68d",
+      "status": "exclude",
+      "reason": "엠 사람의 크기와 수를 소개하는 삽입 조건절로 지금 만난 동료의 능력이나 위험을 확인하는 사실은 아니다.",
+      "contextNote": "모압의 옛 거주민을 설명한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:2:11",
+      "textSha256": "08eafced50034bc4ef6767d46145e2951ee0088a4450d757ebd6867c9914a8b7",
+      "status": "exclude",
+      "reason": "르바임과 에밈이라는 다른 명칭 설명으로 내 선택의 어느 부담을 판단할지 내용은 없다.",
+      "contextNote": "옛 거인의 호칭을 구별한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:2:12",
+      "textSha256": "0d072accf84a9eabb3c0dc3824a06b3c6a61439f9ee425d351f199f6f0afb28c",
+      "status": "exclude",
+      "reason": "호리인 멸망과 에서의 정착을 이스라엘 정복과 비교하는 역사여서 타인의 자리를 빼앗을 개인 근거로 삼을 수 없다.",
+      "contextNote": "세일의 옛 거주민 변화에 관한 삽입 설명이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:2:13",
+      "textSha256": "6d0697aa97ec74a47e43747b49718c8a6d89a8634f318206c1971fc757c588a9",
+      "status": "candidate",
+      "reason": "H050에서 불안 때문에 남은 기회를 그대로 흘려보내기보다 지금 할 수 있는 실제 한 걸음을 옮길 실마리를 읽을 수 있다.",
+      "contextNote": "세렛 시내를 건너라는 명령을 듣고 실제로 건넌다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H050",
+          "clue": "지금 옮길 수 있는 실제 한 걸음을 남겨 둔 채 불안만 되풀이하기보다 행동할 선택을 읽는다.",
+          "friction": "세렛 시내를 실제로 건넌 여정이다. 미완료 지원서의 자격이 충족됐다거나 불완전한 제출이 반드시 접수·합격된다는 조건은 만들지 않고 현재 제출 가능한 범위를 그대로 보존한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:2:14",
+      "textSha256": "1c466a29494cd74241d4f888e68e0c39bc3126236ea7656360d87262a2ed00d9",
+      "status": "exclude",
+      "reason": "삼십팔년과 군인 세대 소멸이라는 연대 결과로 현재 늦어진 계획이나 미완료 과제에도 같은 손실을 예고할 수 없다.",
+      "contextNote": "가데스에서 세렛까지의 기간과 세대 교체를 밝힌다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:2:15",
+      "textSha256": "d0cd86fa1d44fcdf96c988b47bb1604fdf05a8bbee85b64655fca626366c9143",
+      "status": "exclude",
+      "reason": "하나님이 쳐 다 멸절됐다는 심판 결과로 현재 실패나 병세를 같은 벌이라고 판단할 근거는 없다.",
+      "contextNote": "광야 군인 세대 멸절을 강조한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:2:16",
+      "textSha256": "6a98774da1ad1f28549cf7bb271dac8f18e91c3612d6e8e2b6e08553d1fc5196",
+      "status": "exclude",
+      "reason": "모든 군인이 죽은 후라는 미완결 시간 조건으로 지금 새 기회의 선택을 가를 내용은 없다.",
+      "contextNote": "다음 이동 명령의 시점을 소개한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:2:17",
+      "textSha256": "51060e036dcec26cd61d766269d54740a6681faeefce5672d09c747d269b0555",
+      "status": "exclude",
+      "reason": "말씀 도입만 있어 현재 선택의 실마리는 아직 없다.",
+      "contextNote": "암몬 경계에 관한 명령을 시작한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:2:18",
+      "textSha256": "d2c9b3c8e797e6747209dd5e8f6698f9ea5ea836d472a621c51dafb33754bda4",
+      "status": "exclude",
+      "reason": "오늘 아르를 지나리라는 짧은 경로 예고로 현재 내 행선지나 시점을 결정할 내용은 없다.",
+      "contextNote": "모압 국경 통과를 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:2:19",
+      "textSha256": "d6f625fc5659f79e73fd95c47c2994017a0b9536109db6fc2caad08bf420e462",
+      "status": "candidate",
+      "reason": "H040에서 남이 받은 몫을 내 몫과 경쟁시키며 괴롭히기보다 각자의 몫으로 존중하는 방향을 읽을 수 있다.",
+      "contextNote": "롯 후손의 암몬 땅을 다투거나 괴롭히지 않게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H040",
+          "clue": "남이 받은 몫을 괴롭히거나 비교의 싸움으로 만들지 않고 각자의 자리를 인정할 방향을 읽는다.",
+          "friction": "암몬에게 주신 토지 규정이다. 친구를 민족처럼 구분하거나 내 것도 똑같아질 미래를 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:2:20",
+      "textSha256": "fcdeb1fbbbebffad1a35986d8ef989e428d25b7dea2ade48e509852caa77a264",
+      "status": "exclude",
+      "reason": "르바임과 삼숨밈의 이름 및 옛 거주 이력의 미완결 설명이라 생활 선택에 닿는 기준은 없다.",
+      "contextNote": "암몬의 이전 거주민에 관한 삽입 설명이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:2:21",
+      "textSha256": "8cd3b3b71ae558888c60561c813bafffb48cf08ce18506f7a7bf3b168450dcb6",
+      "status": "exclude",
+      "reason": "강한 백성을 하나님이 멸해 다른 민족이 살게 된 결과라 현재 더 뛰어나 보이는 사람도 없애 줄 것이라는 기대를 만들 수 없다.",
+      "contextNote": "암몬의 정착 배경을 회고한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:2:22",
+      "textSha256": "c6f7e53746bda36ddb5dae5f241ec2afa04d138b646de25b28a4c87d56c200f3",
+      "status": "exclude",
+      "reason": "호리인을 쫓고 대신 사는 에서 후손의 역사로 나의 불편한 사람을 같은 방식으로 몰아낼 이유는 알 수 없다.",
+      "contextNote": "암몬 정착을 세일의 사례와 비교한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:2:23",
+      "textSha256": "744b9707d0e0e6f505ceb16eca1e198d383df089076e6acfcfa82ba07abf8783",
+      "status": "exclude",
+      "reason": "갑돌 사람이 아위인을 멸한 거주민 교체 이력으로 새 일에 필요한 개인의 판단 근거는 없다.",
+      "contextNote": "삽입한 정복 사례를 마친다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:2:24",
+      "textSha256": "77787e4952cb3ab6c7874a39bc8a887258d910cf4360af15d73631d7598639e0",
+      "status": "hold",
+      "reason": "G15에서 일어나 도전함은 읽힐 수 있으나 왕과 싸워 땅을 얻으라는 공격 명령이어서 적대자가 없는 새 역할의 선택에 충분히 닿는지는 불확실하다.",
+      "contextNote": "시혼과의 정복 전쟁을 시작하게 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:2:25",
+      "textSha256": "9c39c4d2b193c3a715d7b8e0f06e26d4d2f7f2b5b55eaf10cf529b6bd4e773c5",
+      "status": "hold",
+      "reason": "H041에서 위축을 넘길 희망은 가능하나 온 민족이 내 명성을 무서워한다는 약속을 동료의 존중이나 성공 결과로 확정할 수 없다.",
+      "contextNote": "이스라엘에 대한 두려움을 주변에 일으키실 것을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:2:26",
+      "textSha256": "4ca9ffe873286be5d9484ebb9d94053e66af711bc791d494f56f1d7f77ff8eb0",
+      "status": "hold",
+      "reason": "H026에서 평화의 말로 접근함은 닿지만 사자와 장소를 설명하는 서두라 실제 상처를 어떻게 말할지는 다음 요청을 알아야 한다.",
+      "contextNote": "모세가 시혼에게 평화의 말을 보낸다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:2:27",
+      "textSha256": "0c985398d89612891f50ceb3545d22d382dfaf38d9a50400b8c45f333cbfc614",
+      "status": "candidate",
+      "reason": "H033에서 도움을 청할 범위를 한정하고 상대의 길을 함부로 벗어나지 않겠다고 말할 실마리가 있다.",
+      "contextNote": "대로만 통과하겠다고 요청한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "필요한 도움을 부탁할 때 범위를 좁히고 상대에게 부담을 함부로 넘기지 않을 뜻을 말할 수 있다.",
+          "friction": "국경의 대로 통과 요청이다. 상대가 받아 주리라는 결과나 내가 전혀 부담을 주지 않는다는 사실은 아직 미확인이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:2:28",
+      "textSha256": "bc70d52c9a8962e8be5b5e76a08e4014744eb9a0c37730ca01f176085126f5d1",
+      "status": "candidate",
+      "reason": "H033에서 요청하면서 쓰는 자원의 값을 스스로 부담하겠다는 방향을 읽어 상대 부담 때문에 입을 다물지 않을 실마리가 있다.",
+      "contextNote": "양식과 물을 돈 주고 사며 도보 통과만 하겠다고 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "도움을 청하면서 실제 쓰는 비용은 책임지겠다고 말해 볼 실마리를 읽는다.",
+          "friction": "양식과 물을 사고 도보로 지나겠다는 국가 간 요청이다. 돈으로 모든 부담이 해결되거나 내 부탁이 수락된다는 보장은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:2:29",
+      "textSha256": "048ca712e5bf68fea25a61bada1d597a01af88ef2d53d5b54abf4446dfc8f8fc",
+      "status": "hold",
+      "reason": "H033에서 다른 이에게 받듯 부탁함은 닿지만 이전 민족의 행동을 전제한 요청의 뒷부분이며 상대도 같은 도움을 줄 결과를 확정할 수 없다.",
+      "contextNote": "다른 민족의 통과 허용처럼 해 달라고 청한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:2:30",
+      "textSha256": "cd1154f4bda3b6426d539a96e33c839b38c41980c6a65a406598b9dcfd46130d",
+      "status": "exclude",
+      "reason": "왕의 완강함을 하나님이 승리를 주려 하신 일로 해석해 현재 지인의 거절이나 침묵도 숨은 이익을 위한 조종이라 판단할 수 없다.",
+      "contextNote": "시혼 거절의 신학적 이유를 회고한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:2:31",
+      "textSha256": "315cf4cea4e5f0de6dbe115fdcb0fefcdba0a4c313e49c2c8633d37d3423e5db",
+      "status": "candidate",
+      "reason": "A020에서 이미 실제 기회를 받은 상태라면 이제 그곳을 자기 자리로 삼는 쪽의 실마리를 읽을 수 있다.",
+      "contextNote": "주신 땅을 이제부터 얻어 기업으로 삼으라고 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A020",
+          "clue": "이미 실제로 열린 기회를 이제 자신의 자리로 삼기 위해 나아갈 실마리를 읽는다.",
+          "friction": "시혼의 땅을 주시는 원래 정복 명령이다. 현재 새 도시 훈련이 신적으로 확정됐거나 갈등과 성과가 저절로 해결된다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:2:32",
+      "textSha256": "ffd4b70ea82afdbd90e8d544ee2180ef23d3076997481374a4e9e202a6e6bee7",
+      "status": "exclude",
+      "reason": "시혼이 나와 싸울 때라는 미완결 전쟁 배경으로 현재 상대가 적대한다는 사실을 만들 수 없다.",
+      "contextNote": "시혼과의 전투 시작을 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:2:33",
+      "textSha256": "48cfe2925c3edc82620d1662787c27eef60f691e7d658c47fc141118f3403248",
+      "status": "exclude",
+      "reason": "왕과 아들들 및 백성을 쳤다는 승전 결과라 새 역할의 성공이나 정당한 자기 방어만 떼어 읽기 어렵다.",
+      "contextNote": "시혼 세력을 무찌른 결과다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:2:34",
+      "textSha256": "5ef53c58d0d8488db42b28260abd0d95ea540b55851fb9d13f773ca2fecc9f37",
+      "status": "exclude",
+      "reason": "남녀와 유아까지 하나도 남기지 않은 진멸을 말해 일을 끝까지 마친다는 생활 비유로 옮길 수 없다.",
+      "contextNote": "시혼 성읍의 전면 진멸을 기록한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:2:35",
+      "textSha256": "71415da0e663edda047848b843bf660be9b4ff8e2f83847f64230751e494e1ec",
+      "status": "exclude",
+      "reason": "가축과 전리품을 소유했다는 전쟁 결과로 남의 재산을 정당하게 사고 나누는 선택과 직접 닿지 않는다.",
+      "contextNote": "전쟁 후 노획물을 취한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:2:36",
+      "textSha256": "24e58ffb40c68df1a37c3d92ac5e654a1d31c78a78ec23543ad7d2245a57705c",
+      "status": "hold",
+      "reason": "H041에서 큰 장애도 넘었음을 읽을 수 있으나 여러 성읍을 모두 취한 성공 보고이며 현재 역할도 못할 것이 없다는 결과를 보증하지 않는다.",
+      "contextNote": "아르논부터 길르앗까지의 점령을 회고한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:2:37",
+      "textSha256": "c56bdd132fe8fe66f6bb3c96e54b14be2456e96fe26265975f9776a563ff08d4",
+      "status": "hold",
+      "reason": "H040에서 남의 몫을 넘지 않음은 가능하지만 특정 지역과 금한 곳의 목록이라 친구 성공을 축하할지의 실마리로 충분한지는 불확실하다.",
+      "contextNote": "암몬 땅 등 금지한 곳은 가까이하지 않았다고 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:3:1",
+      "textSha256": "701d146c25fdd7c0859cc45efe3d2f4e4f75d77f6a759b734e046335a777459f",
+      "status": "exclude",
+      "reason": "옥이 군대를 거느리고 맞서 싸운 전쟁 설정으로 내 역할의 동료가 같은 적이라고 판단할 수 없다.",
+      "contextNote": "바산 왕 옥과의 전투를 시작한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:3:2",
+      "textSha256": "03ab9630016c100769229d3582512cb6d6604a0d72c28bddc63068a232e76011",
+      "status": "candidate",
+      "reason": "G15에서 두려움 때문에 원했던 역할을 접기보다 하나님을 믿고 시도할 마음의 실마리를 읽을 수 있다.",
+      "contextNote": "이전 시혼 전쟁처럼 옥도 두려워하지 말라고 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G15",
+          "clue": "원하던 새 역할을 앞두고 겁만을 이유로 접기보다 믿고 시도할 마음을 읽는다.",
+          "friction": "옥과 그 백성의 전쟁 승리 약속이다. 동료를 적으로 보거나 같은 진멸을 현대에 옮기지 않으며 현재 역할의 성공도 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:3:3",
+      "textSha256": "4cf244dfb5a5f2cdbb25a82e0bcd4ed1e309ede883e6fb2ee5a47b747735075d",
+      "status": "exclude",
+      "reason": "한 사람도 남기지 않은 진멸 결과로 도전의 용기나 일의 성공만 분리해 일상에 옮기기 어렵다.",
+      "contextNote": "옥과 백성을 전멸시킨 결과다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:3:4",
+      "textSha256": "f10fc6c8707eb2201979746d244f113b90c5a18efcc4ac033da02cbf3de53d80",
+      "status": "exclude",
+      "reason": "육십 성읍을 모두 빼앗은 영토 계수로 내 일이 빠짐없이 성공할지의 현재 조건은 알 수 없다.",
+      "contextNote": "옥의 모든 성읍 점령을 집계한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:3:5",
+      "textSha256": "620112acc1a3bfca6f2c156fda85d3c5f10bf2bec20b9413012a1a1612dea882",
+      "status": "hold",
+      "reason": "H041에서 높고 강한 장벽을 바라보는 부담은 닿지만 실제 견고한 성읍의 묘사이며 지금 역할도 같은 장벽이고 극복됐다는 뜻은 아니다.",
+      "contextNote": "점령한 성읍의 성벽과 문 및 빗장을 설명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:3:6",
+      "textSha256": "c1ea086de6fb9bf942838a3793726994b72a7b8b9ad0a30fbba5b8c3f9cec9cc",
+      "status": "exclude",
+      "reason": "남녀와 유아를 진멸한 전쟁 방식이라 마무리나 과감한 선택의 단서로 일부만 떼어 쓸 수 없다.",
+      "contextNote": "시혼 때와 같은 진멸을 옥 성읍에 행한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:3:7",
+      "textSha256": "2a8415258aa5ba619201b49c5ed2ab13c01422622674834513c71d389ba80eb0",
+      "status": "exclude",
+      "reason": "가축과 탈취물을 소유로 삼았다는 결과로 현재 일의 정당한 보수나 소비 선택을 판단할 내용은 없다.",
+      "contextNote": "바산의 노획물을 취한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:3:8",
+      "textSha256": "77d6c7567057ac9394a71b31df1a41c67d7c729249d1f9ab0117612a081af42d",
+      "status": "exclude",
+      "reason": "두 왕에게서 얻은 땅의 범위만 전해 주어 현재 내 기회와 자산이 이미 확정됐다는 근거는 아니다.",
+      "contextNote": "아모리 두 왕의 땅 점령을 요약한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:3:9",
+      "textSha256": "de487b77e61611d1981b0ac177ff4818e97f732c4e8182e5e8cd3eb2437109dd",
+      "status": "exclude",
+      "reason": "헤르몬의 두 다른 명칭 설명으로 내 선택의 방향이나 부담과 닿는 내용은 없다.",
+      "contextNote": "시돈과 아모리의 산 이름을 비교한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:3:10",
+      "textSha256": "8aa5ceae3ed5aa6bcff8c55e302356b966514530d4ce5bd27c8764be2ecd917b",
+      "status": "exclude",
+      "reason": "얻은 성읍과 지역의 목록으로 어떤 선택이 내게 맞는지의 생활 조건은 아직 없다.",
+      "contextNote": "점령한 평원과 길르앗 및 바산을 열거한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:3:11",
+      "textSha256": "1d2f4100b88682105c359010e9c18431f8c12823fab0c41e209afb35d7d36c7b",
+      "status": "hold",
+      "reason": "H041에서 매우 커 보이는 상대를 생각할 수 있으나 철 침상의 치수와 유물 위치를 알아야 하며 지금 능력의 장벽을 넘을 수 있다는 증거는 아니다.",
+      "contextNote": "옥의 몸집을 철 침상 크기로 설명한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:3:12",
+      "textSha256": "f4f410e83642ce80f8cc5443df425be3deb96fbbded2b0f64e5c3ff2d471849c",
+      "status": "exclude",
+      "reason": "르우벤과 갓에게 준 땅의 지명과 경계로 현재 팀원의 필요나 공평한 몫을 판단할 원칙은 없다.",
+      "contextNote": "동편 땅 배분의 앞부분이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:3:13",
+      "textSha256": "8154eee41594f67ea56dfad3b4f0bd6d325cee288a00a8c75427b9806fca04c0",
+      "status": "exclude",
+      "reason": "므낫세 반 지파에 준 지역과 옛 호칭의 삽입 설명으로 내 선택을 가를 이유나 자원 필요는 나오지 않는다.",
+      "contextNote": "길르앗 나머지와 바산의 배분을 적는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:3:14",
+      "textSha256": "423d24226aa66640d37308e0f4d8a9a845ea5bce2ec8327f48103bdb12af588f",
+      "status": "exclude",
+      "reason": "야일이 지역을 취해 자기 이름으로 부른 지배 이력으로 공동 제작의 이름을 요구할지의 실제 기여 기준은 아니다.",
+      "contextNote": "하봇야일 지명의 유래를 설명한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:3:15",
+      "textSha256": "70ea7b383b9a3e06f6f9b3abf161620685dc2913d787ab302aa68f9c306e297a",
+      "status": "exclude",
+      "reason": "마길에게 길르앗을 주었다는 배분 사실 하나로 현재 새 자리의 기회나 선택 부담까지 읽기는 어렵다.",
+      "contextNote": "마길 가문의 몫을 짧게 덧붙인다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:3:16",
+      "textSha256": "071772ab2ea505326cd0785953703030140077de4f536c59b1c4217b9277ce59",
+      "status": "exclude",
+      "reason": "두 지파 기업의 골짜기와 강 경계 설명으로 현대의 관계나 책임 경계가 얼마인지 판단할 수 없다.",
+      "contextNote": "르우벤과 갓 땅의 남북 범위를 적는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:3:17",
+      "textSha256": "1545ea3ce47a06f04e16342d751aa6bd5ecf58df4cf6e0ac6e41511b1790c9b8",
+      "status": "exclude",
+      "reason": "아라바와 긴네렛 및 염해의 지리 범위를 잇는 내용으로 현재의 실천 선택은 없다.",
+      "contextNote": "동편 기업의 서쪽 경계를 마친다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:3:18",
+      "textSha256": "27e27b288eec96b70b44dba1231d88d8803ba7d383b8c89dd3d15e70091a778c",
+      "status": "candidate",
+      "reason": "H011에서 내 몫을 얻었다고 함께 약속한 이들을 뒤에 두기보다 앞서 맡은 일에 나서는 실마리를 읽을 수 있다.",
+      "contextNote": "동편을 받은 군사들에게 형제들 앞에 서서 건너가게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H011",
+          "clue": "내 사정이 편한 쪽으로 먼저 정해져도 기다리는 이들과 이미 맡은 책임을 따라 나설 방향을 읽는다.",
+          "friction": "동편 군인들의 공동 전쟁 의무이다. 모든 쉬려는 마음을 잘못으로 만들지 않고 약속한 봉사라는 조건을 보존하며 치료상 휴식과 구별한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:3:19",
+      "textSha256": "12f82c66163299ba0cef6d47adb70c070dcaec2ded9c6cd1f63178b0268002fd",
+      "status": "hold",
+      "reason": "A014에서 자원을 적절한 거처에 두는 생각은 가능하지만 가족과 가축을 남겨 둘 장소 지시라 알려진 강풍에 장비를 보호하는 선택으로 충분히 연결될지는 불확실하다.",
+      "contextNote": "두 지파의 처자와 가축을 동편 성읍에 남기게 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:3:20",
+      "textSha256": "4882a323a8362951fe2071d4825f861f3d7deba797d8a4a56d5af160c5b83f56",
+      "status": "candidate",
+      "reason": "H054에서 나만 편한 자리로 먼저 빠지기보다 함께한 이들의 몫을 위한 책임을 이행한 뒤 돌아오는 방향을 읽을 수 있다.",
+      "contextNote": "다른 지파도 기업과 안식을 얻으면 동편으로 돌아오게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H054",
+          "clue": "이미 함께하기로 한 이들의 몫이 남아 있다면 내 새 자리만 챙기고 빠질지 돌아볼 실마리를 읽는다.",
+          "friction": "다른 지파도 토지와 안식을 얻은 뒤 돌아갈 구체 약속이다. 현재 두 기회가 일정상 양립하거나 기존 일이 반드시 성공한다는 조건은 만들지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:3:21",
+      "textSha256": "6a17c9c74072aaeb0eabcddd508ab4d74ce2368323e52c887f7f3b2cf5304f33",
+      "status": "hold",
+      "reason": "G15에서 앞서 도우신 일을 믿는 마음은 닿지만 모든 나라에도 같은 승리를 주신다는 약속을 현재 새 역할의 결과로 확정할 수 없다.",
+      "contextNote": "여호수아에게 이전 두 왕의 패배를 상기시킨다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:3:22",
+      "textSha256": "a9db3a79a2309e450b40c8de8c0c2b9a937428078492efc71181a969210f3b53",
+      "status": "candidate",
+      "reason": "G15에서 내 힘만으로 겁먹기보다 하나님을 믿고 원하던 역할에 나설 실마리를 읽을 수 있다.",
+      "contextNote": "하나님이 싸우시므로 그들을 두려워 말라고 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G15",
+          "clue": "원했던 역할이 두렵다는 마음만으로 접기보다 하나님의 도움을 믿고 시도할 쪽을 읽는다.",
+          "friction": "이스라엘의 전쟁에 관한 말이다. 내 준비가 이미 충분하다거나 실제 평가와 성과가 보장된다고 하지 않으며 동료를 적으로 부르지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:3:23",
+      "textSha256": "f07078a32e58da70809d6ba17f51a8954b151ffa19c5d1e4445f9b6a41235292",
+      "status": "exclude",
+      "reason": "간구했다는 도입만 있어 무엇을 원하거나 선택할지는 다음에 나온다.",
+      "contextNote": "모세가 가나안 진입을 청한 일을 회고한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:3:24",
+      "textSha256": "6da3d74b99f689186e599080fc71f80bf183fd1070c123f3387670991d206afa",
+      "status": "hold",
+      "reason": "H061에서 내 계산보다 큰 하나님의 능력은 돌아볼 수 있으나 찬양만으로 정보 없는 두 선택의 구체 실마리가 생기지는 않는다.",
+      "contextNote": "모세가 하나님의 큰 능력을 찬양하며 간구를 시작한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:3:25",
+      "textSha256": "cdb9cfa4b243d36929f9e6b54011d379034ddf7b2a465dad49e886445a09c1ad",
+      "status": "hold",
+      "reason": "H036에서 존중하며 자기 바람을 말하는 태도는 닿지만 하나님의 금지 뒤 요청하고 거절된 문맥이어서 내 진로 선택의 정당성이 그대로 판결되지는 않는다.",
+      "contextNote": "아름다운 땅을 건너가 보고 싶다고 모세가 구한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:3:26",
+      "textSha256": "35e98c9f8e294b6d1df0bcb1416d7b4ce4e686e9f07528f06baa0b24a8b17ce0",
+      "status": "candidate",
+      "reason": "H029에서 같은 침해를 계속 다루며 설득하기보다 그만해도 족하다고 선을 분명히 말할 실마리가 있다.",
+      "contextNote": "하나님이 모세의 같은 요청을 더 하지 말라고 경계를 정하신다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H029",
+          "clue": "여러 번 이야기해도 반복되는 일에는 같은 설명을 더하기보다 여기까지라고 분명한 한계를 말할 수 있다.",
+          "friction": "하나님이 모세의 가나안 요청을 멈추신 사건이다. 내가 하나님처럼 상대를 판결하거나 친구에게 신적 거절이 내려졌다는 말을 붙이지 않고 기존 반복 침해의 근거 안에서 읽는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:3:27",
+      "textSha256": "2a58b0d25517fcdb2dee7391dac7cbb907a5f7d25ae65abe5a9471ad9a555f3e",
+      "status": "candidate",
+      "reason": "H060에서 이미 닫힌 길을 억지로 다시 열려 하기보다 볼 수 있는 만큼 보고 한계를 받아들일 실마리를 읽을 수 있다.",
+      "contextNote": "모세에게 땅은 바라보되 요단은 건너지 못함을 분명히 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H060",
+          "clue": "지나간 기회를 계속 붙잡기보다 이미 닫힌 길이라는 사실을 받아들이는 방향을 읽을 수 있다.",
+          "friction": "모세는 약속의 땅을 보기만 하고 건너지 못했다. 현재 새 기회가 반드시 생긴다는 보증이나 내 잘못 때문에 기회가 사라졌다는 판단을 덧붙이지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:3:28",
+      "textSha256": "2f4b9e439d3cd9f12c96a24fbe5d664f912e8766b97bcaabb04165d93aa64351",
+      "status": "candidate",
+      "reason": "A030에서 후배를 담대하고 든든하게 하며 다음 역할을 맡도록 돕는 쪽으로 내 역할을 바꿀 실마리를 읽을 수 있다.",
+      "contextNote": "모세에게 여호수아를 격려하고 강하게 해 주게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A030",
+          "clue": "내가 이전 일을 다 쥐는 대신 후배를 격려하고 든든하게 해 주는 도움으로 역할을 바꿀 수 있음을 읽는다.",
+          "friction": "여호수아의 가나안 인도에 대한 사명이다. 현재 후배의 성과나 내 건강을 보증하지 않고 노년의 부담을 하나님의 벌로 설명하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:3:29",
+      "textSha256": "0a7d06dd96c685e529fa3849f7e5ec478726430a5b507ce2de3fef54c4ce8534",
+      "status": "exclude",
+      "reason": "골짜기에 거했다는 위치 기록으로 현재 멈추거나 새로 나설 이유는 제시되지 않는다.",
+      "contextNote": "벧브올 맞은편 체류를 덧붙인다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:4:1",
+      "textSha256": "595eaafbe89a0ecde4e367dd0725a52fe97bcbe5398c2d516ddd5c9c1a02193c",
+      "status": "hold",
+      "reason": "H064에서 배운 원칙을 행함은 닿지만 규례의 구체 내용 없이 생존과 토지 획득을 조건으로 말해 현재 내 가치와 선택이 무엇인지 충분히 가르지는 못한다.",
+      "contextNote": "율법 준수와 가나안 기업을 연결하며 권면한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:4:2",
+      "textSha256": "27ccb002d154477caa5ef7789fa7b1816070d906086b252b4ae7fa8861d624dc",
+      "status": "candidate",
+      "reason": "H052에서 내가 전달할 말을 임의로 더하거나 덜하지 말라는 기준을 읽어 평가를 위한 과장을 돌아볼 수 있다.",
+      "contextNote": "하나님의 명령을 가감하지 말고 지키게 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "좋은 평가를 받으려 내용을 더하거나 덜하기보다 전해야 할 사실을 그대로 지킬 실마리를 읽는다.",
+          "friction": "본문은 하나님이 명하신 율법이다. 내 보고서 전체를 하나님의 직접 말씀으로 권위화하거나 정당한 편집을 모두 금하는 말로 쓰지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:4:3",
+      "textSha256": "5c2ab6a2c216356b67c7b94a6503bba9af4b6526c413a842f152ff84c270aeba",
+      "status": "exclude",
+      "reason": "바알브올을 따른 자의 진멸 결과로 평범한 구매 욕심이나 다른 의견을 택한 것을 같은 우상 숭배와 벌로 판단할 수 없다.",
+      "contextNote": "바알브올 사건의 죽음을 상기시킨다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:4:4",
+      "textSha256": "1da19c0ac0ce94fa3d88a3c38c54951c5df939f59351196984da87a4147f6a69",
+      "status": "hold",
+      "reason": "G14에서 하나님께 붙어 살아옴은 위로가 될 수 있으나 과거 생존과 현재 치료의 성공은 같은 약속이 아니며 구체 치료 선택은 없다.",
+      "contextNote": "하나님께 붙어 있던 자들의 생존을 대비한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:4:5",
+      "textSha256": "6120072062c56e5d44bc48753574fa97d7d282c15b03c753c0be0807effcdaf8",
+      "status": "hold",
+      "reason": "H049에서 배운 것을 실제 들어갈 곳에서 행함은 닿지만 법도를 가르친 목적이라는 미완결 설명으로 어려운 역할에서 배울지의 부담을 충분히 가르지는 못한다.",
+      "contextNote": "가나안에서 실천하도록 규례를 가르쳤음을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:4:6",
+      "textSha256": "52f1fd1868112beeab8699ae93223b7cb582a8ce1213e8bf3b487141f7d94be1",
+      "status": "hold",
+      "reason": "H064에서 실제 지키는 지혜를 볼 수 있으나 열국이 지혜롭다고 칭찬할 결과를 내 선택의 타인 평가로 확정할 수 없고 구체 원칙도 이 절에는 없다.",
+      "contextNote": "율법 실천이 이스라엘의 지혜로 드러남을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:4:7",
+      "textSha256": "140de8c317452a77c4da7addad807ba4fba203e87a13fc4ca246014f165871ba",
+      "status": "hold",
+      "reason": "H063에서 기도할 때 가까이하심을 믿고 잠깐 머무를 마음은 가능하나 이스라엘의 특권을 묻는 문장으로 마음을 돌아볼지의 선택 실마리로 충분한지는 불확실하다.",
+      "contextNote": "기도에 가까이하시는 하나님을 다른 민족과 대비한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:4:8",
+      "textSha256": "6899b2258b9041ef9d8329f92188e27f3e0602551b14d91f8af7a69c846b844b",
+      "status": "hold",
+      "reason": "A016에서 공의의 가치는 읽히지만 이스라엘 율법의 공의를 칭찬하는 질문만으로 확인하지 않은 증언을 보탤지의 구체 갈등에 닿는지는 약하다.",
+      "contextNote": "율법의 공의로움을 다른 나라와 비교한다.",
+      "readability": "thinkable",
+      "connections": []
+    }
+  ]
+}
