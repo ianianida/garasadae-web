@@ -29563,6 +29563,2872 @@
       "contextNote": "신들에 이어 모든 주보다 높은 주께 감사를 드린다.",
       "readability": "clear",
       "connections": []
+    },
+    {
+      "id": "KRV:PSA:136:4",
+      "textSha256": "fcadbeffdeb9f8932c519d1e99773bb892f811673bf852908bb31f1b61a70dfd",
+      "status": "hold",
+      "reason": "큰 기사를 행하심은 도전의 기대를 열 수 있으나 처음 일을 시작할 두려움을 구체적으로 다루는 장면은 없다.",
+      "contextNote": "136편의 감사가 큰 기사라는 포괄적 이유를 든다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G15",
+          "clue": "내 예상보다 큰 가능성을 두고 도전을 바라볼 수 있다.",
+          "friction": "기사의 구체 장면이 없어 지원의 두려움보다 넓은 격려에 그칠 수 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:136:5",
+      "textSha256": "aa58685e7ed82b15efcd06d8fff9430627bc05d8b42977d38d89064ef204949d",
+      "status": "hold",
+      "reason": "하늘을 지은 지혜를 생각하면 내 답의 한계를 볼 수 있지만 어느 쪽을 정할 실마리는 넓은 신뢰에 머문다.",
+      "contextNote": "큰 기사에서 지혜로운 창조로 감사의 내용을 펼친다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H061",
+          "clue": "모든 지혜를 내가 확보할 필요는 없다는 관점은 가능하다.",
+          "friction": "창조의 지혜와 지금 미루는 결정 사이에 연결 단계가 남는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:136:6",
+      "textSha256": "37ab49d21c9613b9673eb32f642fb16a1bd55c3a48ac7d08f9499637a68090f7",
+      "status": "exclude",
+      "reason": "물 위에 땅을 펴셨다는 창조 장면은 분명하지만 현재 사례의 두 선택과 연결할 구체 부담은 드러나지 않는다.",
+      "contextNote": "하늘 다음 땅의 창조를 감사한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:136:7",
+      "textSha256": "3602ad2756cac9155e8b5f018364a9f3f1bc7709915763218dbcef08ab82de07",
+      "status": "hold",
+      "reason": "빛이 마련된 세계의 질서는 위안이 될 수 있으나 과하게 채운 주말을 쉴지의 갈림길에는 휴식의 말이 직접 없다.",
+      "contextNote": "창조의 감사가 큰 빛들로 넘어간다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H015",
+          "clue": "생활을 비출 질서가 이미 있음을 떠올릴 수 있다.",
+          "friction": "빛의 창조 자체는 쉼을 택할 이유가 되지 않아 충분함이 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:136:8",
+      "textSha256": "f124112e84fe8bddfeb93e72918deea3faaca541b5cba99d2e7c8e2c05d431e6",
+      "status": "hold",
+      "reason": "낮을 맡는 해는 일상을 떠올리게 하지만 치료 대기 중 활동을 재개하는 선택까지는 한 단계 보충해야 한다.",
+      "contextNote": "큰 빛 가운데 해가 낮을 주관함을 감사한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H056",
+          "clue": "낮의 자리를 살아가는 일상을 떠올린다.",
+          "friction": "감사와 일상 재개 사이의 선택 부담은 원문에 직접 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:136:9",
+      "textSha256": "613fa228c54bd7f75a307299a3c460f6e3fd4bea75709224197c5af1148c0229",
+      "status": "hold",
+      "reason": "밤을 맡는 달과 별에서 밤의 자리를 읽을 수 있으나 공부와 잠의 선택을 가르는 잠이나 피로의 표현은 없다.",
+      "contextNote": "해와 대응하여 달과 별이 밤을 주관함을 감사한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G13",
+          "clue": "밤을 밤답게 두는 생각은 가능하다.",
+          "friction": "달과 별의 주관을 수면 권유로 바꾸기에는 표현이 간접적이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:136:10",
+      "textSha256": "fdbee85f8fc60153419d828499ac6ea6011a5b7c88be13d2dbdb128de5755280",
+      "status": "exclude",
+      "reason": "애굽 장자를 치신 일을 감사하는 문장 전체를 개인의 선택에 옮기려면 타인의 죽음을 유익으로 바꾸는 무리가 있다.",
+      "contextNote": "창조 회상에서 출애굽 심판으로 전환한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:136:11",
+      "textSha256": "af737e45d613b2a0a9c42b6e7dfd5c3686f54ddf636ba21d0db927fa9edd0c45",
+      "status": "candidate",
+      "reason": "붙잡힌 곳에서 인도되어 나오는 움직임이 반복 침해 관계에서 거리를 둘 가능성을 자연스럽게 떠올리게 한다.",
+      "contextNote": "애굽 심판 뒤 이스라엘을 그들 가운데서 이끌어 내신 일을 감사한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H029",
+          "clue": "반복된 침해에서 나올 수 있다는 움직임을 읽는다.",
+          "friction": "친구를 애굽의 억압자와 동일한 인물로 판결하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:136:12",
+      "textSha256": "78928c79edb2571908b23d609a6242614771f7c09619cf6c73bef1f0ed346e8e",
+      "status": "candidate",
+      "reason": "강한 손과 펴신 팔에 이끌리는 그림은 혼자 버티는 대신 도움을 받아 움직일 실마리를 준다.",
+      "contextNote": "출애굽의 인도를 강한 손과 펼친 팔로 묘사한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "펴진 팔의 도움을 받아 나아갈 자리를 생각한다.",
+          "friction": "구원 역사에 대한 감사이며 특정 조력자가 나타나거나 수락한다는 보증은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:136:13",
+      "textSha256": "2aebc95e6e5eb1a05d3fbcb4585a8fa7688e7997d4ce53677473afd906419bc3",
+      "status": "candidate",
+      "reason": "가로막힌 바다에 길이 열리는 장면은 처음 도전 앞에서 길이 없다고만 생각하던 마음을 바꿀 수 있다.",
+      "contextNote": "출애굽 인도를 홍해가 갈라진 사건으로 구체화한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "막힌 것처럼 보이는 첫 지원에도 건너갈 길을 찾아볼 수 있다.",
+          "friction": "바다가 갈라진 역사를 현재 지원의 합격이나 장애 제거 예고로 설명하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:136:14",
+      "textSha256": "6b26931753d796d6c36801c5f9ef40421a5775e3b0c91a077914d27b06741993",
+      "status": "candidate",
+      "reason": "열린 가운데를 실제로 통과하는 모습이 준비만 반복하는 대신 첫 실행으로 나아갈 실마리를 준다.",
+      "contextNote": "홍해를 가른 뒤 이스라엘이 그 길을 통과했음을 감사한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B006",
+          "clue": "준비해 열린 길을 보기만 하지 말고 실제로 통과하는 첫 행동을 떠올린다.",
+          "friction": "이스라엘의 역사적 통과이며 프로젝트 결과의 보증은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:136:15",
+      "textSha256": "4d1a38f9b0c3ed2cb0ce65894577891eec52344b37744ac65e838b203b072b6a",
+      "status": "exclude",
+      "reason": "바로의 군대가 홍해에 엎드러진 사건을 감사하므로 현재 갈등의 타인을 군대로 설정하지 않고 연결하기 어렵다.",
+      "contextNote": "이스라엘의 통과와 바로 군대의 몰락을 대조한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:136:16",
+      "textSha256": "9666f270920c14394ff6d626f3045ef0a08c9a6f5ba2f89097b3f25cdddb8bea",
+      "status": "candidate",
+      "reason": "광야를 피해 돌아가는 대신 인도받아 통과하는 모습에서 배움을 위한 어려운 역할을 받아들일 여지를 읽는다.",
+      "contextNote": "홍해 뒤 광야를 지나게 하신 인도를 회상한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H049",
+          "clue": "어려움이 있다는 이유만으로 배우는 길을 제외하지 않을 수 있다.",
+          "friction": "광야 통과는 어떤 해로운 역할도 끝없이 견디라는 뜻이 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:136:17",
+      "textSha256": "9c0103e8f8ca1dde2cd4351be35716dc55282c989c5c28911b185d071937a449",
+      "status": "exclude",
+      "reason": "큰 왕들을 치신 일을 감사하지만 왕과 전쟁을 대신할 현재 선택의 장면은 이 절에 없다.",
+      "contextNote": "광야 인도에서 왕들과의 전쟁 회상으로 넘어간다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:136:18",
+      "textSha256": "61d32d9bf9747252ce4f175de23baa50df37b130a77cc20f05149a1be4d31732",
+      "status": "exclude",
+      "reason": "유명한 왕의 죽음이 감사의 내용이어서 일반적인 자기 도전의 성공으로 바꾸면 상대의 죽음이 사라진다.",
+      "contextNote": "왕들을 친 일을 그들을 죽인 일로 구체화한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:136:19",
+      "textSha256": "55b01f7e922144819f40bb8f1964b9c89e9f75ded6059daaa0d8676d1fc624e0",
+      "status": "exclude",
+      "reason": "아모리 왕 시혼을 죽이신 특정 사건이 전부라 개인 고민과 잇기 위해 왕과 살해의 뜻을 크게 바꿔야 한다.",
+      "contextNote": "죽은 왕들 가운데 시혼을 명시한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:136:20",
+      "textSha256": "6fb9797b8c1c181e742e396cc0f71b004d629af96f5a2ed906dad9df3de15c80",
+      "status": "exclude",
+      "reason": "바산 왕 옥의 죽음을 감사하는 말이므로 현재 일상의 선택 방향을 읽을 자연스러운 대상이 없다.",
+      "contextNote": "시혼에 이어 바산 왕 옥을 열거한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:136:21",
+      "textSha256": "96545dd193177fbd3b64068cfd18c0f0fc3dfdb5c51dfcb402a506b4b160a89b",
+      "status": "hold",
+      "reason": "받은 몫을 누리는 생각은 가능하나 정복된 나라의 땅을 개인의 물건 구매와 연결하는 거리가 크다.",
+      "contextNote": "죽은 왕들의 땅을 기업으로 주신 일을 감사한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H009",
+          "clue": "주어진 몫을 받아 누리는 관점을 얻을 수 있다.",
+          "friction": "정복의 땅과 돈을 내어 사는 물건은 같은 조건이 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:136:22",
+      "textSha256": "39d0a76e0d914308f20c6f94a0fd36d540033057909c962f0b21db5335c257b5",
+      "status": "hold",
+      "reason": "이스라엘에게 주어진 기업이라는 수혜가 드러나지만 무엇을 받은 것인지는 앞 절에 있어 단독 연결이 더 약하다.",
+      "contextNote": "땅을 받은 종 이스라엘을 밝히며 기업을 반복한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H009",
+          "clue": "내 몫을 받는 기쁨은 생각할 수 있다.",
+          "friction": "받은 기업의 대상이 앞 절에 있고 개인 소비의 갈림길은 직접 다루지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:136:23",
+      "textSha256": "f8c5b7d29e332ab39838b279fbaa2d9bb5e6d5e434c632710a159bd862288dc2",
+      "status": "candidate",
+      "reason": "낮고 초라한 자리에서도 기억된다는 말이 비교 때문에 자신을 무가치하게 보는 마음을 누그러뜨린다.",
+      "contextNote": "역사 회상이 지금의 비천함 속 돌보심으로 옮겨 온다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "능력 비교로 초라해져도 나를 완전히 낮추지 않고 지원을 생각한다.",
+          "friction": "본문은 공동체를 기억하신 고백이며 현재 평가 결과를 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:136:24",
+      "textSha256": "7464247ff28a819b1034795aea836f079c801779ad932e19c19045f2660f45e6",
+      "status": "candidate",
+      "reason": "대적에게서 벗어났다는 고백은 계속 얽혀 있어야 한다는 생각에서 떨어져 나갈 여지를 준다.",
+      "contextNote": "낮은 자리의 기억에 이어 대적에게서의 구원을 감사한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H029",
+          "clue": "얽힘에서 벗어난 삶도 가능하다고 읽는다.",
+          "friction": "반복 위반 사실은 보존하되 친구의 숨은 의도까지 대적이라 확정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:136:25",
+      "textSha256": "2d1d132eb3f0ffa5b6541bb3fa1dcf058d8b09dc1f3af32f46ae96a72bc9738b",
+      "status": "candidate",
+      "reason": "모든 생명에게 먹을거리를 주는 모습을 보며 내 여유를 누군가의 필요에 보태는 선택을 떠올릴 수 있다.",
+      "contextNote": "역사적 구원을 모든 육체의 먹을거리를 돌보는 일로 넓힌다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H059",
+          "clue": "여유 있는 몫을 다른 이의 실제 먹을거리에 보탤 수 있다.",
+          "friction": "하나님이 먹이신다는 고백이며 기부 뒤 내 돈이 반드시 채워진다는 설명은 하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:136:26",
+      "textSha256": "d790781ef752fe648ec7ac031c7a56761e5ab04e83bc5e7d0327d42027a06c12",
+      "status": "hold",
+      "reason": "하늘의 하나님과 영원한 인자에 감사하는 말은 마음을 환기하나 결과 대기 중 일상을 택할 구체 장면은 없다.",
+      "contextNote": "136편을 하늘의 하나님께 드리는 감사로 끝낸다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H056",
+          "clue": "걱정 외에 감사할 마음의 자리를 둘 수 있다.",
+          "friction": "활동의 선택보다 넓은 찬양이라 첫 결과가 충분할지 불확실하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:137:1",
+      "textSha256": "7213eafda100d65a4f8763af12a7a1e63309e31153b96e8503bccf78a2cf41aa",
+      "status": "candidate",
+      "reason": "앉아서 기억하며 우는 장면이 힘든 경험을 급히 지우기보다 자기 방식으로 남기고 표현할 여지를 준다.",
+      "contextNote": "137편이 포로 공동체의 강변 애도와 시온 기억으로 시작한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B012",
+          "clue": "지금 느끼는 슬픔을 숨기기보다 기억과 말로 남길 수 있다.",
+          "friction": "원래는 포로 공동체의 애도이며 공개 고백을 강요하거나 내 사건을 포로와 같은 피해로 확정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:137:2",
+      "textSha256": "6d41bb79f5b4d16f7a95f8a1da17d1432e2a9683333eb1e6a350eca046637fb3",
+      "status": "hold",
+      "reason": "악기를 나무에 걸어두는 모습은 잠시 활동하지 않을 여지를 주나 앞뒤 없이는 그 행동의 고통과 이유를 알기 어렵다.",
+      "contextNote": "포로들이 수금을 걸어두고 노래하지 않은 상황을 제시한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "B004",
+          "clue": "바로 무대나 모임으로 부르기보다 잠시 악기를 내려놓을 여지를 생각한다.",
+          "friction": "악기를 건 이유는 뒤 절에 있고 수금 장면만으로는 친구의 회복과 연결이 불분명하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:137:3",
+      "textSha256": "9be02077b4c713767dfb70ec359f187fa59a255e1866e7502fbe75bdee839f62",
+      "status": "candidate",
+      "reason": "괴로운 사람에게 기쁨과 공연을 요구하는 장면이 회복되지 않은 친구에게 바로 복귀를 재촉할지 돌아보게 한다.",
+      "contextNote": "포로를 만든 이들이 시온 노래를 요구했기에 수금을 걸었다고 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B004",
+          "clue": "힘든 친구에게 당장 기쁜 모습으로 참여하라고 요구하는 부담을 돌아본다.",
+          "friction": "초대하는 나를 포로를 만든 가해자와 동일시하지 않고 기쁨의 강요라는 개인적 연결만 읽는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:137:4",
+      "textSha256": "e821a3fec7422f6081016868985989c4b8d810a21977b798618635e98845557f",
+      "status": "hold",
+      "reason": "슬픈 자리에서 억지로 노래하지 못한다는 물음은 회복 시간을 생각하게 하나 이방에서의 성가라는 배경의 무게가 있다.",
+      "contextNote": "포로지에서 여호와의 노래를 어떻게 부를지 반문한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B004",
+          "clue": "지금 노래할 마음이 아닌 사람에게 시간을 둘 수 있다.",
+          "friction": "성가와 포로지의 관계를 현재 모임에 옮기는 데 설명 부담이 남는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:137:5",
+      "textSha256": "df8bd02ecc780f1d3fc6619c89b664fc130085c7f72fdf56aff745cb33a517d2",
+      "status": "hold",
+      "reason": "기억을 놓지 않겠다는 강한 마음은 기록에 닿지만 오른손의 재주를 잃으라는 자기 저주까지 있어 부담이 남는다.",
+      "contextNote": "예루살렘을 잊지 않겠다는 맹세를 오른손의 재주와 연결한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B012",
+          "clue": "잊지 않고 남길 만큼 소중한 경험을 돌아볼 수 있다.",
+          "friction": "재주를 잃으라는 맹세까지 포함되어 단순 기록 선택보다 무거운 자기 의무가 된다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:137:6",
+      "textSha256": "84df3383e6b628343980d5f4756caff2488887a85f5dfcc4e9ef6cc8da1d2d19",
+      "status": "exclude",
+      "reason": "예루살렘을 최고의 기쁨으로 두지 않으면 혀가 붙으라는 자기 저주여서 개인의 기억 남기기를 지나친 의무로 만들기 쉽다.",
+      "contextNote": "앞 절의 오른손 맹세를 혀와 최고의 기쁨으로 강화한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:137:7",
+      "textSha256": "1ac34d2e2a70dedb34030b0480e4a52ad999bfb2710b8a8f2e0432d993ef05fc",
+      "status": "exclude",
+      "reason": "에돔을 치라는 간구와 예루살렘을 기초까지 헐라는 과거 외침 전체가 중심이라 자기 경계 선택에 단순히 연결할 수 없다.",
+      "contextNote": "포로들의 애도가 예루살렘 파괴를 부추긴 에돔을 향한 보복 요청으로 바뀐다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:137:8",
+      "textSha256": "5684c5128634d704e99e8e819573b9df993d8685ca99d2b0844691fbb416bbc0",
+      "status": "exclude",
+      "reason": "바벨론에 같은 해를 갚는 자가 복되다는 보복 선언이어서 관계를 풀거나 거리를 두는 자기 선택과는 다르다.",
+      "contextNote": "예루살렘 파괴의 기억에서 바벨론을 향한 응보의 복 선언으로 이어진다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:137:9",
+      "textSha256": "e962682a0d84e5ab0f8b1b5edb89229aaf1877edb3f39c16dc38afcee940db9a",
+      "status": "exclude",
+      "reason": "어린아이를 바위에 내던지는 자를 복되다 하는 전체 문장은 일상 갈등의 실마리로 옮길 수 없는 보복의 폭력을 담는다.",
+      "contextNote": "137편의 분노가 바벨론의 어린 생명을 겨냥하는 말로 끝난다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:138:1",
+      "textSha256": "0139c7b4a73425c40594f43fdcd2a7023b4b4d70acfe7a352e7c96ef00ca15ae",
+      "status": "candidate",
+      "reason": "다른 신들 앞에서도 전심으로 자신의 감사를 표현하는 태도에서 주변 의견 속 자기 기준을 드러낼 용기를 읽는다.",
+      "contextNote": "138편이 전심의 감사와 다른 신들 앞의 찬양을 고백한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H064",
+          "clue": "주변의 서로 다른 기준 앞에서도 내가 귀하게 여긴 쪽을 전심으로 드러낼 수 있다.",
+          "friction": "신들 앞의 찬양이라는 원래 고백을 내 선택이 유일한 신적 정답이라는 뜻으로 만들지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:138:2",
+      "textSha256": "d0cb4e672095965922e0dd7745e8dbfa8fb656b984308d64d2d1d2e1d9233988",
+      "status": "candidate",
+      "reason": "이름보다 높여진 말씀이라는 대목이 더 좋은 평판이나 기회보다 이미 한 말을 귀히 볼 실마리를 준다.",
+      "contextNote": "성전을 향한 감사가 인자와 성실 그리고 높여진 말씀을 이유로 든다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H054",
+          "clue": "새로운 이름값보다 이미 한 말의 무게를 먼저 돌아볼 수 있다.",
+          "friction": "하나님의 이름과 말씀에 관한 감사이며 내 약속과 평판은 개인적 연결이다. 더 좋은 기회를 악하다고 판결하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:138:3",
+      "textSha256": "3cf05d9af56b67828a803e308334541f990a0af2eca0c6707e84af0f8c8c7821",
+      "status": "candidate",
+      "reason": "간구한 날에 마음이 강해졌다는 경험이 부탁은 무능의 표시라는 부담을 낮추고 도움을 청하게 한다.",
+      "contextNote": "감사의 이유로 기도에 대한 응답과 내면의 힘을 회상한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "도움을 향해 소리 낸 일이 마음을 다시 세울 수 있다고 기대한다.",
+          "friction": "과거 기도 응답을 현재 사람의 수락이나 문제 해결 보장으로 말하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:138:4",
+      "textSha256": "fad7ddb8acf42b85d36155d2d3fb690085aeafb0ab723e538b5fbdbc860158a4",
+      "status": "hold",
+      "reason": "말씀을 듣고 감사하는 왕들의 모습은 조언을 듣는 태도에 닿을 수 있으나 인간 선배와 의논하는 갈등과 직접 같지는 않다.",
+      "contextNote": "개인의 감사가 말씀을 들은 땅의 왕들의 감사로 넓어진다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "듣는 자리에 서는 일이 감사로 이어질 수 있다고 본다.",
+          "friction": "왕들이 하나님의 말씀을 들은 장면을 선배의 조언과 연결하는 단계가 남는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:138:5",
+      "textSha256": "142928d33b4d911eab92c890c17a1e3304909be30a4556767bd8a07edfaf23cf",
+      "status": "exclude",
+      "reason": "그들이 주의 길을 노래하는 이유를 영광의 크기로 설명하여 앞 절 왕들의 지시 대상과 찬양 맥락이 먼저 필요하다.",
+      "contextNote": "왕들의 감사가 여호와의 길을 노래하는 일로 이어진다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:138:6",
+      "textSha256": "071d7e19bff75cfa7a81a60f4976ac30eabf2eeb63e2d0814b038569150923be",
+      "status": "candidate",
+      "reason": "높으신 이가 낮은 사람을 보살피신다는 대조가 부족해 보일까 조언을 청하지 못하는 마음에 닿는다.",
+      "contextNote": "주가 낮은 이를 살피며 교만한 이를 아신다고 대비한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "낮은 자세로 부족함을 말해도 무시만 당하는 것은 아니라는 관점을 얻는다.",
+          "friction": "선배가 반드시 호의적일지는 알 수 없고 하나님의 하감과 사람의 평가를 같게 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:138:7",
+      "textSha256": "792215ada00ea638adc43941d0f136124bd60144dd3b0ad3e0a8aaa5e43a43d9",
+      "status": "hold",
+      "reason": "환난 중 새 힘은 도움 요청에 닿지만 원수의 분노를 막는 뒷부분까지 있어 지친다는 입력만으로는 전체 연결이 고르지 않다.",
+      "contextNote": "응답 회상 뒤 앞으로의 환난에서도 소성과 보호를 기대한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "곤란 중에도 새 힘을 얻을 기대는 읽힌다.",
+          "friction": "입력에는 분노하는 원수가 없어 그 뒷부분을 현재 사람에게 새로 부여할 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:138:8",
+      "textSha256": "8826d47da45e3db7cd1e06d388934108417d35bff399d2a07ac72c56c58e6534",
+      "status": "candidate",
+      "reason": "완전하게 할 몫을 혼자만 붙들지 않는 기대와 버리지 말라는 간구가 불완전한 작품을 공개할 부담에 닿는다.",
+      "contextNote": "138편을 자신에게 관계된 일의 완성과 버리지 않으심을 구하는 기도로 끝낸다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H042",
+          "clue": "완벽하지 않은 지금의 작업도 버려야 할 것은 아니며 완성에 대한 통제 부담을 나눌 수 있다.",
+          "friction": "내게 관계된 것의 완성을 바라는 기도이며 공개 성과나 남의 평가가 좋아진다고 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:139:1",
+      "textSha256": "98a4e71b1205cdc734fe3c13f757d4144bdafe6eef61ccfd0d257acf79ee8767",
+      "status": "candidate",
+      "reason": "이미 나를 살펴 아신다는 고백이 이유를 잘 모르겠는 마음을 몰아붙이기보다 살펴볼 여지를 준다.",
+      "contextNote": "139편은 하나님이 자신을 감찰하고 아심을 고백하며 시작한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H063",
+          "clue": "내 안의 불편함을 숨기고 더 바빠지기보다 잠시 살펴볼 여지를 둔다.",
+          "friction": "이미 아신다는 신앙 고백이며 원인을 진단하거나 서비스가 속마음을 안다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:139:2",
+      "textSha256": "c86e56183ee6d8a989663ea31a5383ba2a2fcd1dcf8b350e89aa90de21c1e393",
+      "status": "hold",
+      "reason": "앉고 일어서는 행동과 생각까지 알려져 있다는 말은 내면을 돌아보게 하지만 쉬기와 바쁘게 지내기 사이의 움직임은 간접적이다.",
+      "contextNote": "나를 아심을 일상 동작과 멀리 있는 생각으로 구체화한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H063",
+          "clue": "생각도 살핌의 대상이라고 볼 수 있다.",
+          "friction": "앎의 범위를 말할 뿐 멈춰 생각하는 행동은 직접 제시하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:139:3",
+      "textSha256": "d13368eed808e96a5d5ffea6940a7987b4f20c8c3cf87613fd8d23e1f050994b",
+      "status": "candidate",
+      "reason": "가는 길뿐 아니라 눕는 자리도 아신다는 말에서 활동을 멈추고 쉬는 시간도 내 삶의 일부로 받아들일 수 있다.",
+      "contextNote": "모든 행위에 대한 앎을 길과 누움으로 펼친다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H055",
+          "clue": "눕는 시간도 버려지는 공백이 아니라고 읽으며 회복을 위한 쉼을 받아들인다.",
+          "friction": "모든 행위를 아신다는 고백을 휴식의 명령이나 치료 결과 보장으로 덧붙이지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:139:4",
+      "textSha256": "0f87456ec7ab6f956c6c183606cd2ebb887662e55b9a0fe46442c127213efc5e",
+      "status": "candidate",
+      "reason": "내 말이 숨김없이 알려진다는 고백이 유리하게 꾸민 말을 쓸지 사실을 말할지의 갈림길에 직접 닿는다.",
+      "contextNote": "생각과 행동에 이어 혀의 말까지 아심을 고백한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "드러내는 말도 알고 계신다는 생각으로 과장 대신 사실을 적는 쪽을 본다.",
+          "friction": "다른 사람의 검증이나 적발 여부를 새로 예측하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:139:5",
+      "textSha256": "9272734fb3d5b906733b7e2f665a12fc00586ec05f3559b05571875be7ddcd8d",
+      "status": "candidate",
+      "reason": "앞뒤를 둘러 손을 얹는 모습이 혼자 감당하려는 부담 속에서 지지받는 자리를 상상하게 한다.",
+      "contextNote": "하나님의 앎을 둘러쌈과 손을 얹는 가까운 보호로 표현한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "둘러싸고 손을 얹는 지지 속에서 도움을 받는 나를 생각한다.",
+          "friction": "하나님의 안수와 현재 사람의 돌봄은 구별하며 구체 응답은 미정이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:139:6",
+      "textSha256": "78dbd127eb6d2b8168e8828930fa9854ea4b0658f885587140479f715fee64dd",
+      "status": "candidate",
+      "reason": "자신이 닿지 못할 앎을 인정하는 말이 모든 조건을 다 알아야만 결정한다는 부담을 낮춘다.",
+      "contextNote": "하나님의 앎을 충분히 다 설명할 수 없다고 고백한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H061",
+          "clue": "모든 답을 다 아는 단계에 닿지 못해도 그 한계를 인정하고 고를 수 있다.",
+          "friction": "하나님의 지식에 대한 감탄이며 필요한 확인 절차를 전부 생략하라는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:139:7",
+      "textSha256": "76b4eb4a2f912f835720cea3a4c20674eb0098e7d6911699e0b8edf035930209",
+      "status": "hold",
+      "reason": "어디에 가도 주의 앞을 떠날 수 없다는 물음은 새 장소에 대한 마음을 열지만 현재 이동과 머묾을 직접 다루지는 않는다.",
+      "contextNote": "주가 아심에서 그 임재를 피할 수 없음으로 넘어간다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H017",
+          "clue": "어디에 있어도 혼자만 남는 것은 아니라는 생각을 할 수 있다.",
+          "friction": "임재를 피할 수 없다는 반문 자체는 혼자 행사에 참여할 방향을 선명히 주지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:139:8",
+      "textSha256": "a449e015d9f81f17288c16210b47f2dea0466e87fee7ef92cb110cb6f021884d",
+      "status": "candidate",
+      "reason": "가장 높은 곳과 가장 낮은 곳 모두 홀로 버려진 자리가 아니라는 고백이 혼자 행사에 가는 두려움에 닿는다.",
+      "contextNote": "하늘과 음부 양끝에도 계심으로 피할 수 없는 임재를 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H017",
+          "clue": "낯선 곳에 혼자 가도 버려진 자리라고만 볼 필요는 없다고 읽는다.",
+          "friction": "음부까지 이르는 임재의 범위를 행사와 같은 위험 수준으로 바꾸거나 즐거운 경험을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:139:9",
+      "textSha256": "16306ddc53b4783adf6620457c676f788f94a1a44b8213fd80477123b1836ac5",
+      "status": "exclude",
+      "reason": "새벽 날개로 바다 끝에 간다는 가정만 있고 그곳에서 무엇이 일어나는지는 다음 절에 있어 완결되지 않는다.",
+      "contextNote": "가장 먼 곳으로 가는 조건을 제시한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:139:10",
+      "textSha256": "d07fec463c2ad7f757028e2ecca70e3aa8d5bd9d9001acd2a5532607341005a6",
+      "status": "candidate",
+      "reason": "그곳에서도 붙들고 이끈다는 말이 낯선 자리로 혼자 나아갈 때의 지지 이미지를 준다.",
+      "contextNote": "바다 끝에서도 인도하고 붙드시는 손이 있음을 고백한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H017",
+          "clue": "새 자리에 가는 발걸음을 붙드는 손의 이미지를 얻는다.",
+          "friction": "거기서도는 앞의 먼 바다를 받으며 실제 행사에서 만날 사람이나 결과는 알려주지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:139:11",
+      "textSha256": "ce461c5f92c1f5949edd108f7618bdab0927e8a584d0841eb051fb422f9d2edc",
+      "status": "exclude",
+      "reason": "어둠이 자신을 덮으리라는 가정의 중간이라 뒷절의 답 없이 읽으면 두려움만 남는다.",
+      "contextNote": "흑암에 숨으려는 가정을 내놓고 다음 절에서 반박한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:139:12",
+      "textSha256": "31651035347c510755ff225a02bc71441f6041d0dad0fd8d3bff5d3cc2b16038",
+      "status": "candidate",
+      "reason": "알 수 없어 어두운 것과 실제 위험을 동일하게 여기지 않도록 밤도 밝게 보인다는 시야의 전환을 준다.",
+      "contextNote": "어둠조차 주께 감추지 못하며 낮처럼 보인다고 답한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H013",
+          "clue": "보이지 않는 불편함에 대한 걱정을 실제로 확정된 위험과 분리해 바라본다.",
+          "friction": "주께 어둠이 숨지 못한다는 말이며 여행의 안전이나 편안함을 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:139:13",
+      "textSha256": "3941c5fd68f7f3fc65e98b9ff95cf7a219895a830adad6c9ccd090c33378ac6f",
+      "status": "candidate",
+      "reason": "태중에서부터 자신이 지어졌다는 말이 남보다 못할까 두려워 자기 가치를 낮추는 마음을 돌려 세울 수 있다.",
+      "contextNote": "임재에 이어 내 장부와 태중 형성까지 아시는 창조를 노래한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "현재 능력 비교보다 먼저 귀하게 지어진 나를 생각하며 첫 지원을 고려한다.",
+          "friction": "장부와 조직이라는 옛 표현은 잠시 생각해야 하며 지원 결과의 예고는 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:139:14",
+      "textSha256": "825e41a55162e4f43818642c461ed9af6ad714e993cc9a44ac661b5078a2747b",
+      "status": "candidate",
+      "reason": "자신의 지음받음을 기이하고 귀한 일로 감사하는 시선이 비교 속에서 지원 자체를 접으려는 마음에 닿는다.",
+      "contextNote": "태중의 형성을 자기 존재에 대한 감사로 받는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "나 자신을 결함의 목록으로만 보지 않는 자리에서 도전을 생각한다.",
+          "friction": "존재의 귀함과 직무 적합성은 별개이며 합격을 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:139:15",
+      "textSha256": "e2c761f769e68d13e4964f3f5af78a26a902c7169d3345123b4ce552f91064cd",
+      "status": "hold",
+      "reason": "드러나지 않은 형성도 보였다는 말은 미공개 작품에 닿을 수 있으나 사람의 태중 형성과 작업물을 같은 것으로 바꿀 부담이 있다.",
+      "contextNote": "은밀한 형성 과정도 하나님 앞에 숨지 않았다고 고백한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H042",
+          "clue": "드러나지 않은 준비 과정에도 가치가 있음을 떠올릴 수 있다.",
+          "friction": "태중의 형성과 내 작품의 완성은 다른 대상이라 전체 문장의 자연스러운 연결이 불확실하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:139:16",
+      "textSha256": "f71a50f1af947b5efb1c0797698d668d9b86c4dc929a01f1002192239bf487b3",
+      "status": "candidate",
+      "reason": "앞날을 다 보지 못한 때에도 자기 날들이 알려져 있다는 신뢰가 모든 미래를 확보해야만 고르는 부담을 낮춘다.",
+      "contextNote": "형질이 갖추어지기 전부터 보시고 날들을 기록하셨다고 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H061",
+          "clue": "앞날을 전부 알아내지 못해도 나의 삶을 통제 밖에 맡길 여지를 둔다.",
+          "friction": "정한 날의 고백을 어느 선택도 같은 결과라는 사실이나 운명 예측으로 설명하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:139:17",
+      "textSha256": "0f159816ad9d68a2ca9f0395646967c0c9ee4929020c1b2b4126b280b988cb2f",
+      "status": "hold",
+      "reason": "풍성하고 귀한 생각을 바라보는 마음은 내 판단의 한계를 누그러뜨리나 두 길 사이의 선택을 직접 건드리는 표현은 적다.",
+      "contextNote": "하나님의 앎과 형성에 이어 그 생각의 귀함과 많음을 감탄한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H061",
+          "clue": "내 생각보다 넓은 지혜를 떠올릴 수 있다.",
+          "friction": "생각이 많고 귀하다는 감탄만으로는 결정을 미루는 부담에 구체적으로 닿지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:139:18",
+      "textSha256": "2876b435be27b0f45c6f4831367e63d7fa4a070dee45f24d0939317011547da9",
+      "status": "candidate",
+      "reason": "셀 수 없는 생각을 다 붙들지 않아도 깨어날 때 여전히 함께라는 말이 쉼을 놓지 못하는 마음에 닿는다.",
+      "contextNote": "귀한 생각의 수를 모래와 견주고 깰 때의 동행을 고백한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H055",
+          "clue": "멈추고 쉬었다 깨어나도 모든 것이 내 손에서 끊겨 버리는 것은 아니라는 쪽을 읽는다.",
+          "friction": "모래보다 많은 것은 하나님의 생각이며 휴식 후 문제 해결이나 회복 속도를 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:139:19",
+      "textSha256": "366f7cc0c6946b2fe5fcac5642d09498c103bec1d8465cb5311807954699f4ea",
+      "status": "exclude",
+      "reason": "악인을 죽이시라는 말과 피 흘리기 좋아하는 사람에게 떠나라는 말이 붙어 있어 경계만 떼어 일상 관계에 보낼 수 없다.",
+      "contextNote": "창조와 임재 찬양에서 유혈을 즐기는 악인과의 단절로 바뀐다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:139:20",
+      "textSha256": "c3f7ccb082da36b0440ba542fa93e654d222ea6238e646a4f0f1319703672d08",
+      "status": "exclude",
+      "reason": "주를 악하게 말하고 이름을 헛되이 부르는 원수의 죄를 진술하므로 입력에 없는 타인의 종교적 악의를 새로 넣어야 한다.",
+      "contextNote": "악인과의 단절 이유를 하나님을 향한 말의 악함으로 설명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:139:21",
+      "textSha256": "2dff13477da20ec16f75a768b236a586dc274e94541910e01c81fab5a474b072",
+      "status": "exclude",
+      "reason": "하나님을 미워하는 이들을 나도 미워한다는 반문은 상대의 의도를 모르는 생활 관계에 붙이기 어렵다.",
+      "contextNote": "139편에서 주를 대적하는 자와의 단절을 자신의 미움으로 표현한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:139:22",
+      "textSha256": "1fe21bb7bc4fe4d2226e9d2b5545e1d350e8fd367b09edb4e04cc5a7916f977f",
+      "status": "exclude",
+      "reason": "저들을 심히 미워하며 원수라 부르는 선언은 경계의 강도를 살피기보다 적대의 정체를 확정한다.",
+      "contextNote": "앞 절의 미움을 나의 원수라는 고백으로 강화한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:139:23",
+      "textSha256": "abe173787c3d92df4aec14d07f23643f16286f019addd0c25f043a0d3dc484e5",
+      "status": "candidate",
+      "reason": "자기 마음과 뜻을 살펴 달라는 요청이 이유 모를 불편함을 덮으려 더 바빠지는 대신 잠시 들여다볼 실마리를 준다.",
+      "contextNote": "원수에 대한 고백 뒤 시선이 자신의 마음과 뜻에 대한 시험으로 돌아온다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H063",
+          "clue": "감정을 덮으려 바쁘게 움직이기보다 내 마음과 뜻을 살펴볼 수 있다.",
+          "friction": "하나님께 드리는 요청이며 서비스가 사용자의 참뜻을 대신 규정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:139:24",
+      "textSha256": "507fee39aead6d993efe40b9930999265dcf4abdd358c1ac398e3298b64cf755",
+      "status": "candidate",
+      "reason": "내 안에 고칠 행동이 있는지 확인하고 길을 바꾸려는 요청이 지적받은 실수를 인정할지에 닿는다.",
+      "contextNote": "139편을 자신의 악한 행위 점검과 인도 요청으로 끝낸다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "내 실수 여부를 살피고 수정할 쪽으로 길을 열 수 있다.",
+          "friction": "팀원의 모든 지적이 자동으로 옳다는 뜻은 아니며 알려진 실수 자체를 점검한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:140:1",
+      "textSha256": "b7aee44e42fb5d2f9aa7dd9e42aae131b761a81f1a25efcb3bb3934ed6631f93",
+      "status": "hold",
+      "reason": "자기 보호를 구하는 움직임은 반복 침해에서 거리를 두는 데 닿지만 강포한 악인이라는 묘사는 현재 친구 입력보다 강하다.",
+      "contextNote": "140편이 악인과 강포한 자에게서 보전해 달라는 기도로 시작한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H029",
+          "clue": "내가 보전되고 벗어나는 것도 중요하다고 생각한다.",
+          "friction": "반복된 선 넘음만으로 강포한 악인의 속성을 모두 친구에게 확정할 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:140:2",
+      "textSha256": "48ee771500ab5a8a7012e5340fc88f85e9e32c7a29c9d3d614385681912d4314",
+      "status": "exclude",
+      "reason": "매일 모여 해치고 싸울 계획을 세운다는 적의 내면을 확정하므로 확인되지 않은 타인의 마음을 넣지 않고 연결하기 어렵다.",
+      "contextNote": "구원을 청한 이유를 가해 집단의 반복된 모의로 설명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:140:3",
+      "textSha256": "ea4eb91f3095d2963bbe70bcc2577a26b13d9cdeabcbe2c21c62af4ff72d9bc8",
+      "status": "candidate",
+      "reason": "날카로운 혀와 독 있는 입술의 비유가 화난 메시지에 담긴 상처 주는 말을 보내기 전 돌아보게 한다.",
+      "contextNote": "악인들의 말이 해치는 힘을 뱀의 독으로 표현한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "말의 독과 날카로움을 보며 지금 쓴 문장을 그대로 보내기 전 멈춘다.",
+          "friction": "원래는 악인의 말에 대한 탄원이며 분노를 느낀 나 자체를 뱀이나 악인으로 낙인찍지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:140:4",
+      "textSha256": "abf06d95cb2f5742b96ae9728ac01ba0557db4795b253f8877a8b7c3f678679f",
+      "status": "hold",
+      "reason": "벗어나고 보전되기를 구하는 말은 경계에 닿지만 걸음을 밀치려는 강포한 의도까지 있어 현재 친구의 행동을 넘어설 수 있다.",
+      "contextNote": "악인의 손에 빠지지 않고 강포한 자에게서 벗어나기를 구한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H029",
+          "clue": "경계를 두어 내 걸음을 지키는 생각은 가능하다.",
+          "friction": "걸음을 일부러 밀치려는 의도와 폭력의 강도는 입력보다 더해진다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:140:5",
+      "textSha256": "8daaf1e30746dfdb67bdbd95e6fdaa1ddda0836a2865cd6f53033b1fdc78ebb6",
+      "status": "exclude",
+      "reason": "나를 해치려 숨긴 줄과 그물과 함정은 계획적 가해를 전제로 하므로 입력에 없는 속셈을 사실로 만들어야 한다.",
+      "contextNote": "악인들의 교만과 숨은 올무를 상세히 진술한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:140:6",
+      "textSha256": "833932152e1ba4154ec63aab21a7478da68e18bc1cb7deba041319348222490c",
+      "status": "candidate",
+      "reason": "귀를 기울여 달라는 간구를 말한 경험이 문제를 혼자 삼키기보다 들어 달라고 요청할 실마리가 된다.",
+      "contextNote": "악인의 계획 설명에서 자신의 간구 회상으로 돌아온다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B011",
+          "clue": "돈이나 해결책 대신 먼저 내 소리를 들어 달라고 부탁할 수 있다.",
+          "friction": "주께 드린 간구이며 친구의 응답은 미리 알지 못한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:140:7",
+      "textSha256": "0d24aa1adfcff162c101731e5938cefb3fceb0b9079f3b3b511e298fd27a3ba1",
+      "status": "candidate",
+      "reason": "싸우는 날 머리를 가려 준 보호의 그림이 강함을 혼자 증명하기보다 도움을 받는 자리를 떠올리게 한다.",
+      "contextNote": "여호와를 구원의 능력으로 부르며 전쟁 때의 보호를 회상한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "어려운 날 보호를 받아도 혼자 약함을 증명하는 것은 아니라고 읽는다.",
+          "friction": "전쟁의 머리 보호를 현재 지침에 대한 개인적 비유로 읽으며 실제 적과 전투가 있다고 만들지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:140:8",
+      "textSha256": "4d2633b7dff1e1ac2f6373b2a9f005158de2ae02af9ef086d056b213e375372c",
+      "status": "candidate",
+      "reason": "악한 꾀의 성공과 그로 인한 자만을 바라지 않는 기도는 남의 과장이 이득을 얻었다고 그대로 따라갈 필요를 줄인다.",
+      "contextNote": "악인의 소원을 이루지 말아 달라며 그들의 자고함을 염려한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B014",
+          "clue": "남이 꾸민 이력으로 유리해졌다는 사실을 따라야 할 기준으로 삼지 않는다.",
+          "friction": "주께 악한 꾀를 막아 달라는 기도이며 타인의 평가가 실제로 뒤집힐 것이라고 예고하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:140:9",
+      "textSha256": "11fece80f653b36fec5634828e79e88f3b048bfddab837c3df305694dcd0c15e",
+      "status": "exclude",
+      "reason": "상대 입술이 만든 해가 상대를 덮게 해 달라는 응보의 요청이라 자신의 메시지 조절과 같은 방향으로 읽기 어렵다.",
+      "contextNote": "둘러싼 원수에게 그들의 말의 해가 돌아가기를 빈다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:140:10",
+      "textSha256": "1eb677e7586915ea3739a151de8b6a9e8f7d30075889fb5d9a69472472d160aa",
+      "status": "exclude",
+      "reason": "숯불과 불과 깊은 웅덩이에서 다시 일어나지 못하기를 비는 전체 문장은 일상적 관계 조절보다 상대의 파멸을 구한다.",
+      "contextNote": "원수를 향한 응보를 불과 웅덩이의 심판으로 펼친다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:140:11",
+      "textSha256": "a1c62fdab47a9f13e4c796fff8b2b5d25f713fe54c72001a42b81da13f391b1a",
+      "status": "hold",
+      "reason": "악담의 결과를 경계하는 말은 메시지 선택에 닿지만 강포한 자의 패망까지 이어져 분노 표현과 전체 문장의 강도가 다르다.",
+      "contextNote": "악담과 폭력의 지속이 끝내 서지 못한다고 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "악담이 남기는 결과를 생각하며 문장을 가라앉힐 수 있다.",
+          "friction": "뒤의 강포와 패망까지 자신의 메시지에 그대로 붙이면 갈등을 과장할 수 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:140:12",
+      "textSha256": "714001025b78fd108558d80885f3e84a2de7bc790e30dbb22f2d7facd3f80927",
+      "status": "candidate",
+      "reason": "고난과 궁핍 속에서도 공의를 받을 자리가 있다는 말이 지쳐 도움을 청할 때의 자격 없는 느낌을 낮춘다.",
+      "contextNote": "원수에 대한 심판 뒤 고난받는 이와 궁핍한 이의 권리를 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "도움이 필요한 내 처지도 존중받을 자리라고 보고 요청을 생각한다.",
+          "friction": "공의의 약속을 특정 지원의 승인이나 주변 사람의 호의로 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:140:13",
+      "textSha256": "59774248f5582505609bc26c0870dfd1719306b90ec65059ceca3104e87aad7e",
+      "status": "candidate",
+      "reason": "정직한 이가 주 앞에 거한다는 장면이 유리한 과장보다 사실을 선택하는 가치를 분명히 한다.",
+      "contextNote": "140편을 의인의 감사와 정직한 자의 거함으로 끝낸다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "정직한 채 설 수 있는 자리를 더 중요하게 볼 수 있다.",
+          "friction": "정직과 좋은 평가의 일치를 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:141:1",
+      "textSha256": "0f937c70f5cb6bfd27d9374ab6fb31e1becc09165d121a68e454ec6a1fffd0d9",
+      "status": "candidate",
+      "reason": "내 음성에 귀를 기울여 달라는 직접 요청은 해결책을 요구하는 것으로 오해받을까 말하지 못하는 고민에 닿는다.",
+      "contextNote": "141편이 신속한 임재와 부르짖음을 들어 달라는 간구로 시작한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B011",
+          "clue": "내 음성을 들어 달라고 말하는 것으로 부탁을 시작할 수 있다.",
+          "friction": "신속한 응답의 간구를 친구에게 즉답을 요구하는 권리로 바꾸지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:141:2",
+      "textSha256": "285c5c5564d49ced342a9c2ff9026c7ad8b4765f2d7c96b3e2a2a80753e9dcac",
+      "status": "hold",
+      "reason": "기도와 손 듦의 가치를 제사에 견주는 말은 작은 표현을 귀하게 보게 하지만 들어 달라는 부탁까지 바로 연결되지는 않는다.",
+      "contextNote": "기도를 분향과 저녁 제사 같은 것으로 받아 달라고 구한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B011",
+          "clue": "작은 말과 손짓에도 무게가 있다고 느낄 수 있다.",
+          "friction": "기도가 제사처럼 되기를 비는 말이라 친구에게 들어 달라고 청할 부담을 직접 풀지는 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:141:3",
+      "textSha256": "fdd00279c8c231d53eabe4feecd31ee61eb528352cfc6c431d0b74ac179e4466",
+      "status": "candidate",
+      "reason": "입 앞의 파수꾼과 입술의 문이라는 비유가 화난 말을 바로 보내기 전 멈춤을 만드는 구체 실마리다.",
+      "contextNote": "기도의 수용을 구한 뒤 자신의 입술 보호를 청한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "입술 문에 지키는 이를 세우듯 지금 메시지의 전송을 잠시 멈춘다.",
+          "friction": "영구히 감정을 삼키라는 말이 아니며 차분해진 뒤 표현할 선택을 남긴다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:141:4",
+      "textSha256": "2998f8b6e849d229994f3ad894bbbe47c7836154859b1321fe84908d657cca55",
+      "status": "candidate",
+      "reason": "좋은 음식의 유혹까지 포함해 악한 일에 함께 기울지 않겠다는 말이 보상 좋은 과장 홍보 역할과 정직한 역할 사이에 닿는다.",
+      "contextNote": "입술 보호에서 마음과 행실 그리고 악인의 진수 거절로 이어진다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B016",
+          "clue": "화려한 보상 때문에 함께할 일의 정직함을 덮지 않을 수 있다.",
+          "friction": "진수는 악인과의 식탁이라는 원래 비유이며 보상이 큰 직장 전체를 악으로 판단하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:141:5",
+      "textSha256": "a3f4333ad0f0659a0be597983eb73eb58e0df7c21c1a4f467508613971ad9f8e",
+      "status": "candidate",
+      "reason": "책망을 거절하지 않고 좋은 기름처럼 받는 태도가 팀원의 지적에 상한 마음과 수정 사이를 직접 건드린다.",
+      "contextNote": "의인의 때림과 책망도 은혜로 받으며 그들의 재난 속에서도 기도하겠다고 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "기분이 상한 지적도 고칠 몫을 보게 하는 은혜처럼 받아볼 수 있다.",
+          "friction": "실제 폭력의 정당화가 아니며 뒷부분의 재난 중 기도까지 상대를 적으로 돌리지 않는 태도로 함께 읽는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:141:6",
+      "textSha256": "ecc27144c4b4b8d13610c27cb50927e88b821c041c3b56da57276a5cfe7422ff",
+      "status": "exclude",
+      "reason": "관장들이 바위 곁에 던져진 장면과 내 말이 달아 들릴 것이라는 말의 관계를 풀어야 하므로 좋은 말만 떼어 연결할 수 없다.",
+      "contextNote": "책망 수용 뒤 적대 집단의 지도자들과 말에 관한 난해한 장면이 나온다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:141:7",
+      "textSha256": "0eb1e41663305526e8604046f95db00da7d58abe2baeb390071c3841694b44d3",
+      "status": "exclude",
+      "reason": "밭갈이처럼 해골이 음부 문에 흩어진 참혹한 상태를 묘사해 현재 고민의 선택 실마리보다 전후 사건 설명이 필요하다.",
+      "contextNote": "공동체의 위기를 흩어진 해골과 갈린 흙으로 표현한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:141:8",
+      "textSha256": "0fe24cb72668b79ed7a2786041a1917353b3a6e263d0cd2da8624c39d1afbbb1",
+      "status": "candidate",
+      "reason": "피하면서 버려두지 말아 달라는 간구가 지친 자신에게도 도움과 돌봄을 구할 자리가 있음을 준다.",
+      "contextNote": "참혹한 위기 속에서 눈을 주께 향하고 피한다고 고백한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "비어 있는 채 버려지지 않도록 나도 도움을 구할 수 있다.",
+          "friction": "하나님께 피하는 기도이며 주변의 수락이나 해결을 예고하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:141:9",
+      "textSha256": "5c9b4bf9ac33d9243da1de63f5720c0b645400b13cb6335a7e2a25acede408ad",
+      "status": "hold",
+      "reason": "올무에서 벗어나려는 요청은 거리 두기에 닿지만 상대가 잡으려 함정을 놓았다는 고의성이 현재 입력에는 없다.",
+      "contextNote": "피난 간구를 행악자들이 놓은 올무의 회피로 구체화한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H029",
+          "clue": "자신을 해치는 연결에서 벗어나고 싶다고 말할 수 있다.",
+          "friction": "숨겨 놓은 함정이라는 고의 계획은 친구에게 확인된 사실이 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:141:10",
+      "textSha256": "60f10f51a5ce7edf6f09597292d6688cb5335cea8f4894d132dad59a3f4ec9b4",
+      "status": "exclude",
+      "reason": "나의 면함과 악인이 자기 그물에 걸림을 함께 구해 자신의 경계만 고르는 생활 고민에는 상대의 응보까지 덧붙는다.",
+      "contextNote": "141편을 원수의 함정과 자신의 탈출의 대조로 끝낸다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:142:1",
+      "textSha256": "9b16de239af75f90b91c0ebf252389890b434c594c81043f2723bb236556409b",
+      "status": "candidate",
+      "reason": "두 번 소리 내어 말한다는 강조가 힘든 일을 혼자 눌러 담기보다 말로 청할 수 있다는 실마리를 준다.",
+      "contextNote": "142편이 부르짖음과 간구를 소리 내는 행위로 반복한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B011",
+          "clue": "그냥 들어 달라는 요청을 소리로 꺼내 볼 수 있다.",
+          "friction": "소리 내는 기도는 타인에게 큰 소리로 요구하라는 뜻이 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:142:2",
+      "textSha256": "b18c7edc9ecd2429ad51dff7110f664d34770e56bec6bae96dcfd6feb4656f9e",
+      "status": "candidate",
+      "reason": "원통함과 우환을 말로 진술하는 모습이 서운함을 숨길지 부드럽게 말할지의 갈등을 직접 건드린다.",
+      "contextNote": "기도에서 자신의 억울함과 걱정을 쏟아 놓는다고 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H026",
+          "clue": "서운함과 걱정을 아무 말 없이 삼키지 않고 차분히 진술할 수 있다.",
+          "friction": "하나님께 토하는 장면을 친구에게 비난을 쏟아도 된다는 허용으로 바꾸지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:142:3",
+      "textSha256": "ad2111846538ad32b72a525a6e739a63289ff93365ea1ed73f36afd68dd6a5b1",
+      "status": "hold",
+      "reason": "마음이 상해도 길을 아신다는 위안 뒤 숨은 올무가 붙어 있어 지친다는 입력만으로 전체를 연결하기는 고르지 않다.",
+      "contextNote": "상한 심령과 하나님이 아시는 길 그리고 적의 숨은 함정을 함께 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "상한 마음도 알려져 있다는 기대 속에서 도움을 생각한다.",
+          "friction": "뒤의 숨은 올무와 가해 계획을 현재 사람에게 새로 가정할 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:142:4",
+      "textSha256": "f7d97fd9b83915e5b51a3a090ed0b873d56ff7365ff26eb122b128c749e967ca",
+      "status": "hold",
+      "reason": "아는 사람과 피난처와 돌볼 이가 없다는 외로움은 마음에 닿지만 느낌만으로 소외를 확정하거나 탈퇴를 정하게 해서는 안 된다.",
+      "contextNote": "142편의 탄원이 아무도 돌보지 않는 고립을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H035",
+          "clue": "외롭게 느끼는 내 마음을 그대로 말할 수는 있다.",
+          "friction": "실제로 아무도 돌보지 않는다는 사실로 확정하면 입력의 불확실성이 사라진다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:142:5",
+      "textSha256": "ef28e3cf34c9cb17dc9be1d8ba282ae6cc89ac319811573fc0e0a41c524dfd91",
+      "status": "candidate",
+      "reason": "피난처와 살아 있는 세계의 몫을 향해 부르짖는 말이 지친 자신에게 도움받을 자리가 있음을 보게 한다.",
+      "contextNote": "사람의 돌봄이 없다는 탄원 뒤 주를 피난처와 분깃으로 고백한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "내게도 기댈 자리와 받을 몫이 있다고 생각하며 도움을 구할 수 있다.",
+          "friction": "여호와께 대한 피난 고백이며 구체 사람의 돌봄을 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:142:6",
+      "textSha256": "6cee94c16fe240cb69c62da4894ddf4779f91f9324f28a27c74a79a4e7baaca8",
+      "status": "hold",
+      "reason": "나보다 강한 이에게서 구해 달라는 요청은 보호에 닿지만 현재 반복 위반이 곧 핍박과 힘의 불균형이라고 확인되지는 않는다.",
+      "contextNote": "자신의 비천함과 핍박자의 강함을 들어 도움을 청한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H029",
+          "clue": "내가 보전될 필요를 말할 수 있다.",
+          "friction": "핍박자가 더 강하다는 구체 상황은 반복 위반 사실만으로 확인되지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:142:7",
+      "textSha256": "4f32c7ac6b746ce9f551285c59b169572ca85cc5abef0dff17cf0d0d9849d9fb",
+      "status": "candidate",
+      "reason": "갇힌 상태에서 나와 사람들에게 둘러싸일 모습을 구하는 기도가 혼자 버티는 대신 도움을 향해 나갈 실마리가 된다.",
+      "contextNote": "142편이 영혼의 석방과 감사 그리고 의인들의 둘러쌈을 기대하며 끝난다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "갇힌 듯한 지침에서 도움받아 나와 사람들과 함께할 여지를 본다.",
+          "friction": "감옥은 영혼의 비유로 읽으며 의인이 실제로 모여 문제를 해결할 것이라고 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:143:1",
+      "textSha256": "9463b005c6586326a12fda04c9a3f4330988a603e9a8932088736cefc68534e4",
+      "status": "candidate",
+      "reason": "간구에 귀를 기울여 달라는 요청 자체가 들어 달라는 말부터 꺼낼 수 있게 한다.",
+      "contextNote": "143편이 들음과 신실한 응답을 구하는 기도로 시작한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B011",
+          "clue": "내 말을 먼저 들어 달라는 간구부터 꺼낼 수 있다.",
+          "friction": "주의 의로운 응답을 친구의 즉각적인 답이나 해결로 예고하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:143:2",
+      "textSha256": "0e7a0ff38a2d4e0e6add5acfaa022ac1ed3c18500df4381e437525901a3e445c",
+      "status": "candidate",
+      "reason": "의로운 사람이 하나도 없다는 고백이 먼저 사과하면 혼자 잘못한 사람처럼 진다는 마음을 낮출 수 있다.",
+      "contextNote": "기도 응답을 구한 뒤 자신에게 엄한 심판을 행하지 말아 달라 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H027",
+          "clue": "나만 완전한 자리를 지켜야 하는 것은 아니라며 내 잘못을 인정할 수 있다.",
+          "friction": "모두 불완전하다는 말로 내 책임을 없애거나 상대의 반복 침해를 덮지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:143:3",
+      "textSha256": "c39242cc87876af130bed39c1ddc4b3556ab2f3624707561e9b9b546adfbf459",
+      "status": "exclude",
+      "reason": "원수가 생명을 땅에 엎고 죽은 사람 같은 흑암에 가두었다는 심한 박해 상태여서 일상 갈등에 대입할 확인 사실이 없다.",
+      "contextNote": "탄원의 이유를 원수의 생명 위협으로 진술한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:143:4",
+      "textSha256": "7cc3d2c85bd57537e9c45594fc38b01a5975cb0803ea72aa9f166d871c7d4f69",
+      "status": "hold",
+      "reason": "상한 심령과 참담함은 지친 마음을 표현해 주나 이 절만으로 도움 요청과 혼자 버팀을 가를 실마리는 적다.",
+      "contextNote": "박해의 결과를 내면의 상함과 참담함으로 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "참담하다는 감정을 표현할 수 있다.",
+          "friction": "상태의 묘사만 있고 도움을 청하는 동작은 이 절에 없어 선택 단서가 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:143:5",
+      "textSha256": "4cb5b33574a9b1fe7386127734b4d692cfa7c7a569fe49e6ec6e2fb5c1df04db",
+      "status": "candidate",
+      "reason": "과거를 기억하고 행한 일을 차분히 생각하는 행동이 지금의 경험을 지우기보다 남겨 살필 여지를 준다.",
+      "contextNote": "상한 마음 속에서 옛날과 주의 행사를 기억하고 묵상한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B012",
+          "clue": "겪은 일을 차분히 기억하고 생각할 자리를 남겨볼 수 있다.",
+          "friction": "원래 주의 행사를 묵상하는 말이며 기록과 공개 설명은 구분한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:143:6",
+      "textSha256": "9a503a1081e56100c390a681b69ffe3b63482f4b85e99f62d8993ba48b3f54f3",
+      "status": "candidate",
+      "reason": "마른 땅 같은 영혼이 손을 펴는 장면은 부족함을 감추기보다 도움을 향해 열 실마리를 준다.",
+      "contextNote": "과거의 묵상이 현재의 사모함과 손을 펴는 기도로 이어진다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "목마른 땅처럼 필요한 것이 있음을 인정하고 손을 열 수 있다.",
+          "friction": "기도의 몸짓이며 구체 조력자의 응답과 회복 결과는 미정이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:143:7",
+      "textSha256": "7cc4396b476e2b2714c82e99124ce63baa649960613920cb3b94e9ef8b0acefd",
+      "status": "candidate",
+      "reason": "피곤한 영혼이 속히 응답해 달라고 말하는 모습이 버티기만 하지 않고 자기 필요를 알려도 될 자리를 준다.",
+      "contextNote": "마른 땅 같은 갈망 뒤 버려질 두려움과 빠른 응답을 구한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "지쳤다는 이유를 숨기지 않고 지금 도움이 필요하다고 말할 수 있다.",
+          "friction": "무덤에 내려가는 것 같다는 절박함을 현재 입력에 없는 생명 위험으로 진단하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:143:8",
+      "textSha256": "011e93f6d12ff38eef13cdab3c6880be757949d8d6d44f863d6285b931728735",
+      "status": "candidate",
+      "reason": "다닐 길을 알려 달라는 요청이 혼자 알아내야 한다는 마음보다 조언을 구하는 쪽을 열어 준다.",
+      "contextNote": "143편의 간구가 아침의 인자한 말씀과 길의 인도를 구한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "혼자 길을 완성해 알아내기보다 가르쳐 달라고 부탁할 수 있다.",
+          "friction": "아침은 기도의 시간이며 선배 조언의 정답성이나 내일 해결을 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:143:9",
+      "textSha256": "7c6cab41d698b23b6d8fed969291c358dd179b4b47f888c819a36bdec37ef42e",
+      "status": "hold",
+      "reason": "피하여 숨는 선택은 경계를 생각하게 하나 실제 원수의 추격을 모르는 친구 관계와는 상태가 다르다.",
+      "contextNote": "길을 구한 뒤 원수에게서 건짐과 피난을 청한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H029",
+          "clue": "피할 자리도 필요할 수 있다고 생각한다.",
+          "friction": "실제 추격과 적의를 친구에게 새로 부여해야 전체 문장이 맞게 되는 부담이 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:143:10",
+      "textSha256": "6e944c8f5e579fe61ff90e01406e4b6c09f1d28f040275f3023d10907c46c588",
+      "status": "candidate",
+      "reason": "가르침을 받아 행하고 평탄한 곳으로 인도되기를 구하는 말이 선배에게 의논할지에 직접 닿는다.",
+      "contextNote": "주께 배움과 선한 영의 인도를 구한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "가르침과 인도를 청하는 일을 부족함의 수치로만 보지 않는다.",
+          "friction": "하나님께 구한 가르침을 사람의 조언이 곧 하나님의 뜻이라는 설명으로 바꾸지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:143:11",
+      "textSha256": "900f9cc1f7f9abce6fd0314a934bbfca5077202df635a67b7644c83b17ed82d5",
+      "status": "candidate",
+      "reason": "자신의 힘을 더 짜내기보다 환난에서 이끌어 달라는 요청이 지친 사람이 도움을 청할 실마리를 준다.",
+      "contextNote": "인도 요청 뒤 이름과 의를 근거로 생명과 건짐을 구한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "이끌어 달라는 필요를 표현하며 혼자 버팀에서 한 걸음 나올 수 있다.",
+          "friction": "구원 간구이지 현재 치료나 생활 문제의 결과 예측이 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:143:12",
+      "textSha256": "c850c3953727f2f344f2b200903cb203aeebb353f26daf96b715314a31964d87",
+      "status": "exclude",
+      "reason": "원수들을 끊고 괴롭게 하는 자를 모두 멸해 달라는 말 전체는 도움 요청이나 거리 두기를 넘어 타인의 소멸을 구한다.",
+      "contextNote": "143편이 종의 신분을 들어 원수의 멸망을 비는 말로 끝난다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:144:1",
+      "textSha256": "e31c4167ebcc7b6488c2ee20155f1b68845f9b3968c536d5e308d94ee7eab9d4",
+      "status": "candidate",
+      "reason": "손과 손가락도 가르침을 받아 익힌다는 모습이 어려운 역할에서 배우는 쪽을 택할 실마리가 된다.",
+      "contextNote": "144편은 전투 기술을 가르치시는 반석 여호와를 찬송한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H049",
+          "clue": "처음부터 능숙해야 하는 것이 아니라 손도 배워 익힐 수 있다고 본다.",
+          "friction": "원래는 전투 훈련이며 어려운 역할을 타인을 치는 일로 만들거나 성공을 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:144:2",
+      "textSha256": "77991db472c8979b100e7202283c4665ad49ffbbaf66b1fe261a386c9671d858",
+      "status": "hold",
+      "reason": "피난처와 방패의 도움은 읽히나 백성을 내게 복종시킨다는 결말이 개인의 지침과 도움 요청에는 부가 설명을 요구한다.",
+      "contextNote": "여러 보호 비유 뒤 왕에게 백성의 복종을 주심을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "방패와 피난처의 지지를 떠올릴 수 있다.",
+          "friction": "끝의 백성 복종을 자신의 도움 요청에 붙일 수 없어 전체 문장의 연결이 불균등하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:144:3",
+      "textSha256": "78513d6effdbec2c4949d155b6029db922c7abba7b47cb9c969f58efe003ac71",
+      "status": "candidate",
+      "reason": "작은 인생도 알아주고 생각해 주신다는 물음이 능력 비교로 자기 가치를 낮추는 마음에 닿는다.",
+      "contextNote": "왕의 보호 찬양에서 사람을 돌보시는 놀라움으로 옮긴다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "작고 부족하게 느끼는 나도 귀하게 고려될 존재라는 자리에서 지원을 본다.",
+          "friction": "채용자의 실제 생각이나 평가 결과를 대신 알려주지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:144:4",
+      "textSha256": "616a92c3ef969612e019aa0614d69db688ad3d0a4b8778199f83e93f8836c6fd",
+      "status": "candidate",
+      "reason": "날들이 그림자처럼 지난다는 말이 여력 있는 즐거움을 끝없이 유예할지 돌아보게 한다.",
+      "contextNote": "귀하게 돌보시는 인간의 짧고 덧없는 생을 고백한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H009",
+          "clue": "누릴 수 있는 시간을 무기한 미루는 데에도 비용이 있음을 생각한다.",
+          "friction": "삶의 짧음을 실제 생활비가 부족한 구매의 정당화나 성급한 결제 마감으로 사용하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:144:5",
+      "textSha256": "7227f44db1aa6afca57815ec108977a69089cf721670a3c8cd1de044dd614171",
+      "status": "exclude",
+      "reason": "하늘을 낮추고 산에 연기가 나도록 임하시라는 현현 간구라 현재의 선택과 자연스럽게 이어질 행동이나 부담이 부족하다.",
+      "contextNote": "짧은 인간의 삶 뒤 여호와의 강림을 구한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:144:6",
+      "textSha256": "fffb8527943cec37cce706f67c89c87e31e8892b4e38034a2436131b631de0ec",
+      "status": "exclude",
+      "reason": "번개와 화살로 대적을 흩고 파해 달라는 전투 간구를 자기 갈등에 적용하면 상대의 타격이 중심이 된다.",
+      "contextNote": "강림을 적을 향한 번개와 화살의 행동으로 묘사한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:144:7",
+      "textSha256": "54607fcebcfc516df5748228a1da85317e82c35073253017f78a42b5794546cc",
+      "status": "hold",
+      "reason": "펴진 손으로 건져 달라는 움직임은 도움에 닿지만 큰 물과 이방인의 손이라는 구체 위험은 현재 지침 입력에 없다.",
+      "contextNote": "위에서 손을 펴 위기와 이방인에게서 건지시기를 구한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "누군가 내게 손을 펴 주기를 구할 수 있다.",
+          "friction": "큰 물과 이방인의 손을 현재 상황의 실제 위험으로 새로 만들 수는 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:144:8",
+      "textSha256": "ac40305557a874a1c83a90a8779d08316ef2384a53d80338b06d2e1a432c0c60",
+      "status": "candidate",
+      "reason": "입과 손의 거짓을 나란히 드러내는 말이 평가를 위해 내용을 꾸미는 자기 선택을 점검하게 한다.",
+      "contextNote": "건짐을 구한 이방인의 말과 맹세의 거짓을 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "내가 쓰는 내용과 그것을 뒷받침하는 행동을 정직하게 맞출지 살핀다.",
+          "friction": "원래는 적의 거짓을 고발하는 말이며 확인 안 된 타인의 거짓을 판정하는 후보로 쓰지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:144:9",
+      "textSha256": "158d0517b4f86f649c1b9574786b5648184d06f005600ffbe32ec7dd3ef75052",
+      "status": "candidate",
+      "reason": "새 노래를 실제 악기로 표현하겠다는 결단이 미완전한 작품을 계속 감추기보다 공개해 볼 실마리를 준다.",
+      "contextNote": "위기 속에서도 새 노래와 비파로 찬양하겠다고 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H042",
+          "clue": "완벽함을 기다리기만 하기보다 새로 만든 것을 실제 표현해볼 수 있다.",
+          "friction": "비파로 드리는 찬양을 다른 작품에 개인적으로 연결하며 작품의 평가나 성공은 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:144:10",
+      "textSha256": "e966d4bb027e48c6be18bfd75aff33e652ef0ae4382495edec2d39fb24d34907",
+      "status": "hold",
+      "reason": "다윗을 해치는 칼에서 구하는 말은 보호를 바라게 하지만 왕과 살해 위협이라는 상황을 현재 피로와 잇기에는 거리가 있다.",
+      "contextNote": "새 노래의 대상을 왕들과 다윗을 구하시는 분으로 부른다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "어려울 때 보호받을 여지는 읽을 수 있다.",
+          "friction": "왕과 칼의 구체 장면은 현재 지친다는 입력만으로 자연스럽게 대응하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:144:11",
+      "textSha256": "fba0c6c1bbae4b5517d12ce699efc3e4f354c33eae4ac2cbf7db04d8fdd1b8f7",
+      "status": "candidate",
+      "reason": "거짓을 말하고 거짓 맹세를 하는 손에서 벗어나려는 요청이 화려하지만 부풀려 일해야 할 역할을 다시 보게 한다.",
+      "contextNote": "이방인의 거짓을 반복하며 그 손에서 구해 달라고 구한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B016",
+          "clue": "거짓으로 일해야 하는 손에 나를 맡길지 정직한 역할을 택할지 다시 본다.",
+          "friction": "본문의 이방인이라는 민족 기준을 현재 채용처나 사람의 국적 판단으로 옮기지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:144:12",
+      "textSha256": "6e39b73e0fee886d141a6575203674e4fb31111b05519e2b1a870bb194d18aa8",
+      "status": "hold",
+      "reason": "자녀를 자라는 나무와 아름다운 기둥으로 귀하게 보는 시선은 함께할 시간에 닿지만 집단의 번영 묘사가 다음 절로 이어진다.",
+      "contextNote": "144편이 구원 뒤 바라는 아들과 딸의 번영을 비유한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B017",
+          "clue": "자녀가 자라나는 시간을 귀한 풍경으로 바라볼 수 있다.",
+          "friction": "자녀의 이상적 번영을 말하는 문장의 중간이라 지금 함께할 시간의 단서는 간접적이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:144:13",
+      "textSha256": "8623057566226ccf9c3274eb7726c2d30ed9c5575358e06ae06eb499ca8232cc",
+      "status": "hold",
+      "reason": "곡식과 가축이 넉넉한 모습은 나눌 여유를 떠올리게 하나 풍요 자체가 나눔과 보유의 갈등을 가르지는 않는다.",
+      "contextNote": "자녀에 이어 곡창과 양 떼가 번성하는 모습을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H059",
+          "clue": "넉넉한 몫을 돌아볼 수 있다.",
+          "friction": "풍족함의 묘사만으로는 나눔과 아낌 중 어느 쪽의 부담도 다루지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:144:14",
+      "textSha256": "1450200bb7b194eec44f51455edae248c9ef17f700d1683907487705c195c8af",
+      "status": "exclude",
+      "reason": "수소의 짐과 침입 및 방어 전투와 거리의 곡성이 없다는 조건이 이어져 평화로운 번영의 긴 문장 설명이 먼저 필요하다.",
+      "contextNote": "번영의 묘사가 물자의 풍족함과 전쟁과 곡성의 부재로 이어진다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:144:15",
+      "textSha256": "a17e73a7f43993be0354cbfd5364ae9ce8bb6b724284c9c62e6477e0d9d2d154",
+      "status": "hold",
+      "reason": "하나님을 자기 하나님으로 삼는 복은 분명하지만 이러한 백성의 모습이 앞의 가족과 물자와 평화를 받아 단독 선택의 구체성이 약하다.",
+      "contextNote": "144편의 번영 묘사를 복 있는 백성이라는 선언으로 묶는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B017",
+          "clue": "가족과 일상의 복을 다시 볼 수 있다.",
+          "friction": "이러한의 구체 내용이 앞의 여러 절에 있어 아이와 지금 시간을 보낼지까지는 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:145:1",
+      "textSha256": "fdacbdd01ac40ab57c2f4d6275c766025259e02ce2c382d5b1406871c20a3035",
+      "status": "hold",
+      "reason": "자기가 높일 대상을 정하는 고백은 자기 기준에 닿으나 서로 다른 주변 의견 사이의 부담은 직접 드러나지 않는다.",
+      "contextNote": "145편이 왕이신 하나님을 영원히 송축하겠다는 고백으로 시작한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H064",
+          "clue": "내가 귀하게 여길 대상을 스스로 고백하는 태도는 읽힌다.",
+          "friction": "주변 의견과 자기 가치의 갈등이 원문에는 드러나지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:145:2",
+      "textSha256": "73520abeab8c9236060f480d64b48eea1e4a12b99c426778ab09d370b2068f2f",
+      "status": "candidate",
+      "reason": "날마다 하는 송축이라는 생활의 리듬이 결과 생각만 붙들기보다 오늘 할 작은 일상을 두는 실마리가 된다.",
+      "contextNote": "영원한 송축을 날마다 하는 행동으로 구체화한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H056",
+          "clue": "기다림 속에서도 날마다 할 작은 일상의 자리를 둘 수 있다.",
+          "friction": "일상의 예가 찬양이며 치료 결과나 회복을 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:145:3",
+      "textSha256": "74b2fadc96ebb2352a8409c1bc64ad03e1cd8007950e62cb0d0d89e6148c1d71",
+      "status": "candidate",
+      "reason": "측량할 수 없는 크기를 인정하는 말이 모든 답을 다 재고 나서야 결정하려는 부담을 낮출 수 있다.",
+      "contextNote": "큰 찬양의 이유를 측량 못할 광대함으로 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H061",
+          "clue": "끝까지 재어 알 수 없는 몫도 인정하며 지금의 선택을 생각한다.",
+          "friction": "하나님의 광대함을 측량 못한다는 고백이며 필요한 정보를 전혀 확인하지 말라는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:145:4",
+      "textSha256": "b5d9d77c77e8e1123e41aaf41aa0978f92ee2bef3d7cb62aec7884a8545ef6da",
+      "status": "candidate",
+      "reason": "대대로 경험을 전한다는 모습이 지금의 일을 잊히게 두기보다 남길 가치를 보여 준다.",
+      "contextNote": "145편의 찬양을 세대가 이어 가는 행사의 선포로 펼친다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B012",
+          "clue": "나중에도 전해질 경험을 지금 기록으로 남겨볼 수 있다.",
+          "friction": "주의 행사를 전하는 원래 문맥과 개인의 경험은 구별하며 지금 공개해야 한다는 요구는 하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:145:5",
+      "textSha256": "5337f2157500611b8ff40510be359c1f1372c0a5e963e65806ddcb2986a1b139",
+      "status": "candidate",
+      "reason": "묵상하겠다는 의식적인 멈춤이 마음이 불편할수록 더 바빠지는 대신 생각할 자리를 내는 데 닿는다.",
+      "contextNote": "공동체의 선포 뒤 자신이 위엄과 기사를 묵상하겠다고 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H063",
+          "clue": "움직임을 더 늘리는 대신 잠시 생각을 머물게 하는 시간을 택할 수 있다.",
+          "friction": "묵상의 대상은 주의 위엄과 기사이며 마음의 원인을 확정하는 진단은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:145:6",
+      "textSha256": "4338d2de428954d1a6e630ce6794609aa4f8b11772684e8af461dbfac45a4fea",
+      "status": "hold",
+      "reason": "사람들이 말하고 나도 선포한다는 참여는 경험을 남기는 데 닿지만 당장 공개 설명이 버거운 고민에는 표현의 부담이 남는다.",
+      "contextNote": "다른 사람과 자신의 선포를 병렬로 놓는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B012",
+          "clue": "내 목소리로 남기는 가치를 생각할 수 있다.",
+          "friction": "즉시 선포하는 부담이 있어 당장 공개 설명을 피하고 싶은 고민에 첫 결과가 충분할지 불확실하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:145:7",
+      "textSha256": "bbd9d0b984d79ad172c422877f6e2b26f7d63e2973c9d35d311b56613fe4afc0",
+      "status": "candidate",
+      "reason": "은혜를 기억하여 말과 노래로 남기는 장면이 경험을 시간 속에 지우지 않고 간직할 실마리를 준다.",
+      "contextNote": "위엄의 선포에 이어 은혜의 기념과 의의 노래를 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B012",
+          "clue": "느꼈던 일을 기억해 말이나 글로 간직할 수 있다.",
+          "friction": "기념과 노래의 대상은 주의 은혜와 의이며 현재의 경험을 모두 같은 사건으로 만들지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:145:8",
+      "textSha256": "dab15f2ffcd0ccd3de6669fc2f9ca5e79ec18945a84364230c3ab9757652968b",
+      "status": "candidate",
+      "reason": "노하기를 더디 한다는 구체 표현이 화난 문장을 즉시 보내기보다 가라앉힐 시간을 두는 선택에 직접 닿는다.",
+      "contextNote": "145편이 여호와의 자비와 더딘 노와 큰 인자를 고백한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "감정이 올라온 순간의 전송을 늦출 수 있다.",
+          "friction": "더디 노함을 감정을 영원히 삼키거나 반복 침해를 넘어가는 뜻으로 바꾸지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:145:9",
+      "textSha256": "a7721d3d88520763b2dcab37d862ad1e68548e09a2a25ea9d7e6eaadfa5ac7a0",
+      "status": "candidate",
+      "reason": "지은 모든 것을 선대하고 긍휼히 여기는 범위가 친한 사람만 더 챙길지 모두를 돌볼지의 선택에 닿는다.",
+      "contextNote": "자비의 범위를 만유와 모든 피조물로 넓힌다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B003",
+          "clue": "친분의 안팎보다 온 사람 모두를 선대하는 분배를 생각한다.",
+          "friction": "하나님의 만유 돌봄과 동일한 능력을 요구하는 것이 아니며 충분히 준비된 상황에 한정한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:145:10",
+      "textSha256": "eb60cfd54a9deb4633f7e2b9d9fddfce0fd880f78cc0e83a5f35a65628282cfb",
+      "status": "hold",
+      "reason": "감사와 송축에 모두 참여한다는 기쁨은 있지만 새 여행을 사도 되는지라는 부담에는 원문이 넓은 찬양에 머문다.",
+      "contextNote": "모든 피조물의 감사와 성도의 송축을 나란히 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H004",
+          "clue": "즐거움을 감사로 표현할 여지는 있다.",
+          "friction": "감사의 범위는 넓지만 새 여행 지출의 부담은 직접 다루지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:145:11",
+      "textSha256": "7bea096265ef4874e7c5c4bd955cc2e840e914cec8a160365a65902511a79bbb",
+      "status": "exclude",
+      "reason": "나라의 영광과 능력을 말하여라는 연결 부분이라 무엇을 이루는지는 다음 절을 읽어야 한다.",
+      "contextNote": "성도의 송축이 하나님 나라를 알리는 말로 이어진다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:145:12",
+      "textSha256": "26350018a22528b595a9e63271ce92ec2639632c12454842d7e2232d1b1a493f",
+      "status": "exclude",
+      "reason": "능한 일과 나라의 위엄을 사람에게 알린다는 목적이 중심이라 현재 고민에서 기록을 남길지의 구체 부담과는 거리가 있다.",
+      "contextNote": "앞 절의 말함이 인생에게 주의 일을 알리기 위함이라고 마친다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:145:13",
+      "textSha256": "c6472b1a287bd9c698f52a40a3f516533bb61243330a56e3aad011b9ffce40d6",
+      "status": "hold",
+      "reason": "세대를 넘는 통치는 조급한 시야를 넓히나 내 계획을 남과 비교해 바꿀지에는 구체 행동 단서가 적다.",
+      "contextNote": "하나님 나라와 통치가 세대마다 지속됨을 고백한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H046",
+          "clue": "남의 속도보다 큰 시간 범위를 떠올릴 수 있다.",
+          "friction": "통치의 영속성과 내 계획의 적절성은 달라 구체 선택 단서가 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:145:14",
+      "textSha256": "4628ca3f2034f197099b3a73647bc9822a5c5981dc4f2c5dd90361652e9a6363",
+      "status": "candidate",
+      "reason": "넘어지는 사람을 붙들고 낮아진 이를 일으키는 동작이 도움받는 일을 수치로만 보지 않게 한다.",
+      "contextNote": "영원한 통치의 성품을 약한 사람을 일으키는 돌봄으로 보여 준다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "넘어진 자리에서 누군가의 손에 붙들려도 된다고 생각한다.",
+          "friction": "현재 병세나 조력자의 수락을 예고하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:145:15",
+      "textSha256": "acf7fe61a8241aca85f8c310d22d4212abea492803da58f1b7960f64ce24aadc",
+      "status": "candidate",
+      "reason": "필요가 제때 채워지는 모습을 기다리는 장면에서 급하지 않은 상황의 조급함을 늦출 여지를 읽는다.",
+      "contextNote": "살아 있는 것들의 기다리는 눈과 때에 맞는 먹을거리를 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H019",
+          "clue": "급하지 않은 기다림의 시간을 실패로만 보지 않을 수 있다.",
+          "friction": "때를 따른 음식의 공급을 매물 판매 시점이나 가격의 보장으로 바꾸지 않으며 H020의 실제 현금 기한을 보존한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:145:16",
+      "textSha256": "376ea770a19f55589d74e7744fceb10478b04f02e93eca62decfc609a4200ba2",
+      "status": "candidate",
+      "reason": "손을 펴 필요를 채우는 구체 모습이 여유가 있을 때 내 몫을 나누는 선택에 닿는다.",
+      "contextNote": "먹을거리를 주심을 모든 생명에게 펴진 손으로 이어 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H059",
+          "clue": "닫아 쥔 몫을 펴 누군가의 필요에 보탤 수 있다.",
+          "friction": "모든 소원을 내가 채우라는 뜻이 아니며 생활비가 부족하지 않은 사례에 연결한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:145:17",
+      "textSha256": "c057a24f54ed1820e3c63f6a6e1bec545ba8a4a2d943e590b3ee942193261fda",
+      "status": "hold",
+      "reason": "의와 은혜라는 기준은 과장을 돌아보게 하지만 모든 행위의 성품만으로 사실과 꾸밈의 갈등까지 직접 닿는지는 약하다.",
+      "contextNote": "주의 행위 전체가 의롭고 은혜로움을 고백한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "좋은 평가보다 행위의 정당함을 돌아볼 수 있다.",
+          "friction": "의와 은혜의 넓은 성품만으로 과장과 사실의 갈등이 바로 풀리지는 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:145:18",
+      "textSha256": "afcba40f5d6ad30ae57d5cd8ce51519b661446f2d631694dba0fcba828a1e622",
+      "status": "candidate",
+      "reason": "진실하게 간구하는 자에게 가까이한다는 말이 해결책보다 있는 그대로 들어 달라고 청할 여지를 준다.",
+      "contextNote": "145편이 간구하는 사람과 가까이하는 관계를 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B011",
+          "clue": "꾸며 말하지 않고 그냥 내 이야기를 들어 달라고 진실하게 청할 수 있다.",
+          "friction": "하나님과의 가까움을 친구의 즉각적인 호의로 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:145:19",
+      "textSha256": "48675784aab86e3696ffde248e230f2f2081a6d0f9feea6243618fe8f2906ad5",
+      "status": "candidate",
+      "reason": "부르짖음을 듣고 소원을 헤아리는 모습이 지친 채 도움을 청하는 일을 허용하는 실마리가 된다.",
+      "contextNote": "경외하는 자의 소원과 부르짖음을 듣고 구하심을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "부르짖어도 될 필요가 내게 있음을 인정하고 도움을 구한다.",
+          "friction": "소원 성취를 바라는 개인 해석은 가능하나 구체 요청의 수락과 결과를 서비스가 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:145:20",
+      "textSha256": "e4dad6bf93a8dbca1cd0736e6f7ea97a6a161142513cd7104ed54f5cf07fdf0c",
+      "status": "hold",
+      "reason": "보호의 위로 뒤 악인을 모두 멸하신다는 대조가 붙어 있어 도움 요청 입력만으로 전체를 연결하면 판단 대상이 더해진다.",
+      "contextNote": "사랑하는 자의 보호와 악인의 멸망을 함께 선언한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "보호받을 기대는 읽힌다.",
+          "friction": "뒤의 악인 멸망에 대응할 사람이 입력에 없어 좋은 앞부분만으로 충분하다고 만들 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:145:21",
+      "textSha256": "6061f7a147ac9c768ccfbe9adc81a1a0f545e7f52e72546658c5539a4e53ac02",
+      "status": "exclude",
+      "reason": "자기 입과 모든 육체의 송축을 바라는 마침으로 두 선택의 부담을 직접 건드리는 장면이 적다.",
+      "contextNote": "145편을 자신의 영예 선포와 모든 생명의 송축으로 끝낸다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:146:1",
+      "textSha256": "e5abdca7b543452aef293981463901c8edd9da7f1f146d1191448ca2e4f3ed88",
+      "status": "hold",
+      "reason": "자기 영혼에게 찬양을 청하는 말은 마음을 돌리는 여지가 있으나 쉬며 생각하기와 바쁘게 지내기의 갈림길은 넓다.",
+      "contextNote": "146편이 자신의 영혼을 찬양에 부른다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H063",
+          "clue": "바깥 활동만이 아니라 자기 마음에 말을 걸어볼 수 있다.",
+          "friction": "찬양의 초청만 있어 멈춰 불편함을 살필 구체성은 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:146:2",
+      "textSha256": "7a8b30b8d6a0b71dce08868ea7f54f7d338ee0d593a51a2d934a7f7cb8977b87",
+      "status": "hold",
+      "reason": "평생 찬송하겠다는 삶의 방향은 있으나 현재 누릴지 미룰지에 대한 구체 부담은 직접 다루지 않는다.",
+      "contextNote": "살아 있는 동안 계속 찬송하겠다고 다짐한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H009",
+          "clue": "살아 있는 지금의 시간을 생각할 수 있다.",
+          "friction": "평생 찬송의 결단이지 물건을 누릴 죄책감을 직접 다루는 말은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:146:3",
+      "textSha256": "83c111d0f975aa15b4c6db8520e2df5951432d56eef7d29635e2495efe5a59ac",
+      "status": "candidate",
+      "reason": "도움의 권위를 높은 사람에게만 맡기지 말라는 말이 주변 목소리 때문에 자기 기준을 접는 부담을 돌아보게 한다.",
+      "contextNote": "146편이 방백과 인간을 궁극적인 의지처로 삼지 말라고 경계한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H064",
+          "clue": "높은 지위의 말도 최종 판단을 대신할 절대 기준으로 삼지 않을 수 있다.",
+          "friction": "인간의 도움을 전부 거절하라는 뜻으로 보내지 않으며 조언과 맹목 의존을 구별한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:146:4",
+      "textSha256": "9c94e091c51c58f1e5c61ca4654770dd0aa62d412d6b53f85e258a0772a52ec6",
+      "status": "candidate",
+      "reason": "사람의 계획도 생명의 한계 안에 있다는 말이 미래를 완전히 통제할 답을 찾느라 지금을 미루는 부담을 낮춘다.",
+      "contextNote": "인간에게 의지하지 말라는 이유를 죽음과 계획의 소멸로 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H061",
+          "clue": "미래를 완벽히 확보할 수 없는 인간의 한계를 인정하며 결정을 돌아본다.",
+          "friction": "죽음과 계획의 소멸을 급박한 기한이나 무엇이든 즉시 실행하라는 명령으로 만들지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:146:5",
+      "textSha256": "b28faddb2633b5a4d4e2311b20fa7b4c130e3890638f552a2d148b5bb3afc838",
+      "status": "candidate",
+      "reason": "도움을 자기 힘 밖에 두는 삶도 복되다는 말이 혼자 버텨야 한다는 마음을 누그러뜨린다.",
+      "contextNote": "사람의 유한함과 대비하여 하나님을 도움과 소망으로 삼는 복을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "다른 도움을 받아 살아가는 나를 실패로만 보지 않을 수 있다.",
+          "friction": "궁극적 도움의 근원은 하나님이며 사람의 응답은 미정이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:146:6",
+      "textSha256": "5f1c186cc173ef0921440cb3b7558763c3f36803c931db2907b4348f959f3080",
+      "status": "hold",
+      "reason": "영원히 진실함을 지키는 모습은 약속의 무게를 떠올리게 하지만 창조의 열거 뒤 문장이 계속되어 거래 약속에 닿는 힘은 간접적이다.",
+      "contextNote": "하나님을 창조자와 신실한 분으로 부르며 다음 절의 돌봄을 준비한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G09",
+          "clue": "말의 신실함을 지키는 쪽을 떠올릴 수 있다.",
+          "friction": "창조주를 묘사하는 문장의 중간이고 먼저 한 거래 약속은 직접 나타나지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:146:7",
+      "textSha256": "a4f5fc45b5db354569db1285f944b18c43829f7b11039ecaebbceca365025abb",
+      "status": "candidate",
+      "reason": "억눌린 사람의 공의와 굶주린 사람의 음식과 갇힌 이의 풀림이 작은 도움도 실제 필요에 닿을 수 있음을 보여 준다.",
+      "contextNote": "주의 신실함을 억눌림과 굶주림과 갇힘을 돌보는 일로 펼친다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "작아도 음식이나 실제 필요에 닿는 도움을 건넬 가치를 읽는다.",
+          "friction": "내가 모든 억압과 갇힘을 해결해야 한다는 부담이나 현재 친구의 법적 상태를 새로 넣지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:146:8",
+      "textSha256": "75ea5c50eeac5d8cc1f903811f3241cca9af3f795100b7ac3fc8803b6bea5dbd",
+      "status": "candidate",
+      "reason": "보지 못하고 낮아진 사람을 일으키고 사랑하는 모습이 부족한 자신도 도움받을 자리가 있음을 준다.",
+      "contextNote": "146편의 돌봄 목록이 눈을 열고 낮은 이를 세우는 일로 이어진다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "낮아진 자신도 일으켜 세우는 돌봄의 대상이라고 생각한다.",
+          "friction": "눈을 여는 구절을 실제 병의 완치 예고로 설명하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:146:9",
+      "textSha256": "0663e2a82e8ff731fdf6313b29f17d9f8fcde014877097e2c1fe73d995e715f5",
+      "status": "candidate",
+      "reason": "객과 고아와 과부를 붙드는 돌봄이 친분과 힘이 적은 사람도 나눔의 대상임을 보여 준다.",
+      "contextNote": "146편의 돌봄 목록이 사회적 약자의 보호와 악한 길의 좌절로 이어진다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H059",
+          "clue": "친한지와 강한지를 떠나 돌봄이 필요한 사람에게 내 몫을 보탤 수 있다.",
+          "friction": "악인의 길을 굽게 한다는 뒷말은 도움받을 사람을 선악으로 심사하라는 뜻이 아니며 생활비 여력은 이미 주어진 경우다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:146:10",
+      "textSha256": "8bab3a1077494a66540aa6db3ebc1be8a2635a1d3b0281e5948aec329f513d51",
+      "status": "exclude",
+      "reason": "시온을 부르며 영원한 통치를 선언하는 결말로 두 선택의 구체 부담을 살필 별도 장면은 없다.",
+      "contextNote": "146편을 세대마다 이어질 하나님의 통치 찬양으로 끝낸다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:147:1",
+      "textSha256": "f094aa624370e8be8ba894b1437a3d369ff7a30720d3d9f5b61039612d04be30",
+      "status": "hold",
+      "reason": "찬송이 아름답고 마땅하다는 허용은 즐거움을 생각하게 하나 새 여행의 죄책감과 같은 선택에는 직접성이 약하다.",
+      "contextNote": "147편이 찬양의 선함과 아름다움을 선언하며 시작한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H004",
+          "clue": "기쁨을 표현하는 일이 마땅할 수 있다고 느낀다.",
+          "friction": "찬송의 아름다움과 여행 지출은 다른 부담이라 충분함이 불확실하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:147:2",
+      "textSha256": "70a400730573baeff3251148b5890ea008299e141ddfdb6a64b4781c2f0bbb57",
+      "status": "candidate",
+      "reason": "흩어진 사람을 모아 다시 세우는 움직임이 소외감 때문에 바로 떠나기보다 관계를 확인할 여지를 준다.",
+      "contextNote": "147편은 예루살렘 재건과 흩어진 이스라엘의 모임을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H035",
+          "clue": "곧바로 떠나는 것 외에 흩어진 관계를 다시 모을 여지를 생각한다.",
+          "friction": "실제로 소외시켰다는 사실이나 대화 후 환영받을 결과는 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:147:3",
+      "textSha256": "aaa3eacfb11dba3fced8ffa87d1ec266b6dae40b39c40ae3072979845ffc3772",
+      "status": "candidate",
+      "reason": "상처를 싸매는 손길이 상한 마음을 혼자 참기보다 돌봄받을 자리에 놓을 실마리를 준다.",
+      "contextNote": "흩어진 사람들을 모으는 일에 이어 상심한 사람의 치유를 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "상한 채로 돌봄을 받아도 되는 자신을 떠올린다.",
+          "friction": "싸매는 위로를 현재 질환의 완치나 조력자의 수락으로 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:147:4",
+      "textSha256": "86021e22803a41aab480a79281ec4321f192e93fbc129df35271ff5deb2166ea",
+      "status": "candidate",
+      "reason": "셀 수 없이 많은 별에도 각각 이름이 있다는 그림이 비교 속에 자신이 익명처럼 느껴질 때 존재의 귀함을 읽게 한다.",
+      "contextNote": "상처를 싸매는 돌봄과 함께 별의 수와 이름도 아심을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "남들 사이에서 내가 이름 없는 비교 대상일 뿐이라는 시선을 바꿔본다.",
+          "friction": "별의 이름에 대한 비유적 연결이며 개인 지원의 합격을 읽어 주지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:147:5",
+      "textSha256": "28902a4312adb08056a8d6cb9756154aaafb18c9cc1eb82d1df02aebfec00e99",
+      "status": "hold",
+      "reason": "끝없는 지혜는 자기 한계를 생각하게 하지만 현재의 미룸과 선택 사이에는 넓은 격려에 머물 가능성이 있다.",
+      "contextNote": "별을 아시는 분의 크기와 능력과 무궁한 지혜를 고백한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H061",
+          "clue": "내가 모든 지혜를 확보할 수는 없다고 생각한다.",
+          "friction": "판단을 미루는 갈등보다 주의 크기를 찬양하는 내용이 중심이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:147:6",
+      "textSha256": "86d1b06a4b38e7b5c9d68e30114287cd980c483cb372240edfc785829bdffd9e",
+      "status": "candidate",
+      "reason": "겸손한 사람을 붙드신다는 말이 조언을 구하면 부족해 보일까 하는 부담을 낮출 수 있다.",
+      "contextNote": "주의 능력을 겸손한 이의 붙드심과 악인의 낮아짐으로 보여 준다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "부족함을 말하는 겸손이 무시당할 일만은 아니라고 본다.",
+          "friction": "조언을 구하지 않는 사람을 악인으로 대조하거나 선배의 반응을 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:147:7",
+      "textSha256": "932d9ded47399fc00e37b42de4cff4bc0c9acf96bfd2fc6b8430997005587083",
+      "status": "hold",
+      "reason": "감사를 노래와 수금으로 표현하는 기쁨은 있지만 돈을 써 여행을 누릴지의 갈등을 바로 건드리지는 않는다.",
+      "contextNote": "147편이 감사의 노래와 악기 찬양을 부른다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H004",
+          "clue": "기쁨을 감사로 드러낼 수는 있다.",
+          "friction": "기쁨의 표현과 새 여행을 결제할지는 서로 다른 선택이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:147:8",
+      "textSha256": "5a7485eb9aa9cbe9b0d73708562f435efd76e927ae9cc9f104d019c4f2f5dc93",
+      "status": "hold",
+      "reason": "풀을 자라게 할 조건을 마련하는 모습은 준비된 프로젝트에 닿을 수 있으나 실제 시작할 움직임은 원문에 없다.",
+      "contextNote": "구름과 비와 산의 풀을 통해 창조의 공급을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B006",
+          "clue": "이미 마련된 조건을 자라날 가능성으로 볼 수 있다.",
+          "friction": "하나님이 비와 풀을 마련하시는 장면에 나의 첫 실행은 직접 나오지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:147:9",
+      "textSha256": "304a944924b65e396f2dcf97302b9affbba2c842d3958927c0353b3fb98e92a3",
+      "status": "candidate",
+      "reason": "우는 까마귀 새끼에게 먹이를 주는 작고 구체적인 돌봄이 작은 도움이라도 건넬 가치를 보여 준다.",
+      "contextNote": "풀과 비의 공급이 들짐승과 어린 새의 먹을거리로 이어진다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "작은 필요에 맞는 작은 도움도 건넬 가치가 있다.",
+          "friction": "친구를 무력한 새끼로 판단하거나 내가 모든 필요를 채워야 한다고 만들지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:147:10",
+      "textSha256": "ec8482b589d45e276bb21ba50c09c22627e35183d39550f6961486497eda5bf5",
+      "status": "candidate",
+      "reason": "말의 힘이나 사람 다리의 강함을 기쁨의 전부로 삼지 않는 말이 남보다 잘해야만 지원할 수 있다는 압박을 낮춘다.",
+      "contextNote": "147편이 군사적 힘과 육체의 능력을 궁극 기준에서 내려놓는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "외형적 힘과 비교 우위만으로 지원할 자격을 가르지 않을 수 있다.",
+          "friction": "군사력 비판의 앞부분이며 다음 절은 경외와 신뢰를 말한다. 실제 직무 준비가 불필요하다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:147:11",
+      "textSha256": "90f797e458140603e6d797ff132d91df805e9625404b170988236610e07d34b9",
+      "status": "candidate",
+      "reason": "크기와 능력 대신 경외와 기대를 귀히 여기는 말이 비교 속에서 처음 도전하는 자신을 낮추지 않게 한다.",
+      "contextNote": "앞 절의 힘과 대비하여 인자하심을 바라는 사람을 기뻐하심을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "남보다 센지보다 진실하게 기대하며 해보려는 나를 귀하게 볼 수 있다.",
+          "friction": "신앙의 태도를 채용 조건이나 합격 약속으로 설명하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:147:12",
+      "textSha256": "b28ee46b49490b432aadc7b31a5f73785b2cf42f559e936e68df13249fa41bb4",
+      "status": "exclude",
+      "reason": "예루살렘과 시온을 찬양에 부르는 호소만으로 생활 갈림길을 읽을 구체적인 부담이 드러나지 않는다.",
+      "contextNote": "자연 공급 뒤 예루살렘을 직접 찬양에 부른다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:147:13",
+      "textSha256": "28cba5e21c48abb5094769273d8ae346e5188cc399bec6d154defa626b1339f6",
+      "status": "hold",
+      "reason": "튼튼한 문빗장은 경계를 지킬 이미지를 주지만 자녀의 축복까지 포함된 성읍의 보호를 친구와의 거리로 옮기는 부담이 있다.",
+      "contextNote": "예루살렘 찬양의 이유를 문과 자녀의 보호로 제시한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H029",
+          "clue": "문빗장처럼 필요한 경계를 세우는 이미지를 읽을 수 있다.",
+          "friction": "가족을 포함한 도시 안전의 축복이라 현재 관계에 전부 대응하지는 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:147:14",
+      "textSha256": "fa444f01bd8e90b266cb0661348de6b5bda463685e46d32df703d3952bb0788f",
+      "status": "candidate",
+      "reason": "평안 속 좋은 곡식으로 배부르는 삶이 여력을 모아둔 뒤에도 누림을 죄책감으로 미루는 마음에 닿는다.",
+      "contextNote": "성읍의 안전에 이어 평화와 좋은 밀의 풍족함을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G01",
+          "clue": "수고로 모아둔 몫에서 좋은 것을 누리는 삶도 받아들일 수 있다.",
+          "friction": "성읍의 먹을거리 축복을 모든 구매의 승인으로 만들지 않으며 생활비 부족의 G02와 구별한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:147:15",
+      "textSha256": "64737a379c2ce6aa108aa02105c386e67cbe906974ef920696935c4f01422d2a",
+      "status": "hold",
+      "reason": "말씀이 빠르게 움직이는 모습은 실행을 떠올리게 하나 명령을 땅에 보내시는 주체와 개인 프로젝트의 시작은 다르다.",
+      "contextNote": "성읍의 공급에서 땅에 명령을 보내시는 능력으로 옮긴다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B006",
+          "clue": "생각을 실제 움직임으로 보낼 수 있다는 연상은 가능하다.",
+          "friction": "빠르게 달리는 주체는 하나님의 말씀이라 내 시작 지연을 직접 다루지는 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:147:16",
+      "textSha256": "6e6c88dcc0aeec55d189895d0a1bd3d4c235e0ffa14f9bda4ba858ad02cb460f",
+      "status": "hold",
+      "reason": "눈을 양털로 보는 감각은 휴식의 부드러운 이미지를 주나 뒤에는 견디기 어려운 추위가 이어져 쉼의 직접 근거는 약하다.",
+      "contextNote": "자연에 임하는 말씀의 예로 눈과 서리를 흩으심을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H055",
+          "clue": "눈을 양털처럼 보는 이미지에서 잠시 편안함을 떠올릴 수 있다.",
+          "friction": "눈과 서리의 묘사가 회복을 위해 쉬는 선택 자체를 보여 주지는 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:147:17",
+      "textSha256": "717b0beabae0f8c1882f420128fbd9f85d921d366f798793cd474ed241d9e36d",
+      "status": "candidate",
+      "reason": "누가 그 추위를 감당하겠느냐는 물음이 무엇이든 더 버텨야 한다는 마음에서 자신의 한계를 인정하게 한다.",
+      "contextNote": "양털 같은 눈 뒤 우박과 감당하기 어려운 추위를 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H044",
+          "clue": "이미 지친 자신이 모든 부담을 견딜 수 있어야 한다는 생각을 내려본다.",
+          "friction": "실제 추위가 있다는 가정 없이 한계의 비유로 읽으며 업무 능력을 단정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:147:18",
+      "textSha256": "f753456851033a5fe6dd83c1a420bdf0f0064ccdf027d1bb1c0a33eceafa62fc",
+      "status": "candidate",
+      "reason": "얼어 있던 것이 녹아 흐르는 장면이 바뀐 상황에서도 옛 형태를 고집할지 돌아보게 한다.",
+      "contextNote": "추위를 주관하는 말씀이 다시 녹이고 바람을 보내 흐르게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H062",
+          "clue": "새 흐름이 생긴 자리에서 예전의 얼어 있는 모양을 꼭 붙들 필요는 없다고 읽는다.",
+          "friction": "자연의 해빙을 현재 계획이 반드시 좋아질 예언이나 신의 변경 명령으로 설명하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:147:19",
+      "textSha256": "424d2659b50a8169c84c25a2a5bb2cdc43cd9747853856126178e7e72e3639f8",
+      "status": "hold",
+      "reason": "모르는 내용을 보여 주고 가르침을 받는 모습은 의논에 닿으나 이스라엘의 규례 계시를 선배의 조언과 잇는 단계가 남는다.",
+      "contextNote": "자연에 보내신 말씀에서 야곱에게 보이신 율례와 규례로 넘어간다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "혼자 규칙을 알아내기보다 배워도 되는 자리를 생각한다.",
+          "friction": "규례의 계시와 사람의 조언은 달라 첫 결과가 충분할지는 불확실하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:147:20",
+      "textSha256": "e73e9cca377166a53f59807a0d6da09066e10011434849b5e70af0b9b96c1d6c",
+      "status": "exclude",
+      "reason": "다른 나라에는 없는 규례를 아는 특권이 중심이고 이같이의 내용도 앞 절에 있어 자기 선택으로 바로 읽기 어렵다.",
+      "contextNote": "147편이 이스라엘에게 주어진 계시의 특별함으로 끝난다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:148:1",
+      "textSha256": "290798ebf3504a98ced459455527ed3a2eabc8056cc59e9f8b22fdc1e04b8651",
+      "status": "exclude",
+      "reason": "높은 하늘에서 찬양하라는 장소의 초청으로 현재 선택을 살필 행위나 부담의 차이는 제시하지 않는다.",
+      "contextNote": "148편이 하늘의 찬양으로 시작한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:148:2",
+      "textSha256": "0664b812ccdd595d1ff70b918893c5c1f133df68ab70e5d821b140cb708f5542",
+      "status": "exclude",
+      "reason": "천상의 사자와 군대 전체를 부르는 말이므로 일반 사용자의 두 선택에 대응하는 구체 장면이 없다.",
+      "contextNote": "하늘의 찬양 대상을 사자와 군대로 구체화한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:148:3",
+      "textSha256": "85669801bfb7ba2b0e52e840c8365c72d7d10ff8012dcfc9f9c76711f39ed6e9",
+      "status": "hold",
+      "reason": "해와 달과 별이 함께 찬양하는 모습은 비교 대신 함께 기뻐함을 떠올리지만 친구의 성취를 축하할지에는 간접적이다.",
+      "contextNote": "천상의 빛들을 찬양에 부른다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H040",
+          "clue": "서로 다른 빛들이 한 찬양에 참여하듯 나도 축하에 함께할 수 있다고 생각한다.",
+          "friction": "사람 사이의 비교 감정이 원문에 직접 없어 해와 달의 연상을 더해야 한다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:148:4",
+      "textSha256": "1e83c6dd9a0473b813840bfb8e67febb192710a3bd058f176d673ac497ec17de",
+      "status": "exclude",
+      "reason": "하늘 위 하늘과 위쪽 물들을 부르는 우주적 예배 장면은 그 세계상을 먼저 이해해야 하며 선택의 부담과는 멀다.",
+      "contextNote": "148편의 하늘 찬양을 가장 높은 하늘과 물들로 넓힌다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:148:5",
+      "textSha256": "92b91376c840f53420650ad01e609f2b50cb07f37e413460ece26bbd47f6070a",
+      "status": "hold",
+      "reason": "지음받았다는 이유로 찬양에 참여하는 가치는 자신을 귀히 보게 하나 그것들의 대상은 앞의 천체여서 개인 연결이 약하다.",
+      "contextNote": "하늘 피조물이 찬양할 이유를 명령으로 지음받음에서 찾는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "존재 자체에 찬양할 자리가 있다고 볼 수 있다.",
+          "friction": "그것들이 앞의 천체를 받으므로 내 능력 비교에 바로 닿는 힘은 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:148:6",
+      "textSha256": "14d2dfeece2ef1ff573ccf3b5e60adb9a10b43e5abf93e8f0219eabab488d4f7",
+      "status": "hold",
+      "reason": "지속되는 자리와 질서는 안정을 떠올리게 하지만 세워진 천체의 명을 내 계획의 유지로 직접 옮길 수는 없다.",
+      "contextNote": "지음받은 천체에 정하신 명령과 지속성을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H046",
+          "clue": "쉽게 흔들리지 않는 질서를 떠올릴 수 있다.",
+          "friction": "천체에 정한 명을 내 계획의 적절성으로 바꾸면 의미가 달라진다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:148:7",
+      "textSha256": "5376b4251c52b984fbfe2f0cc224e0f5908e7c21878810a12ccdbc61449c54fe",
+      "status": "exclude",
+      "reason": "용들과 바다를 땅의 찬양에 부르는 장면으로 현재 고민의 행동 부담을 구체적으로 다루지 않는다.",
+      "contextNote": "148편의 부름이 하늘에서 땅과 바다의 피조물로 내려온다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:148:8",
+      "textSha256": "d75f57a079ef9fe8193a52312367ba492826904fc91fbf9ca078b31453c6e259",
+      "status": "exclude",
+      "reason": "불과 우박과 눈과 안개와 광풍은 계속되는 대상 열거로 문장이 닫히지 않아 독립적인 선택 실마리를 주기 어렵다.",
+      "contextNote": "땅의 찬양에 참여할 자연 현상들을 열거한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:148:9",
+      "textSha256": "2ece51aba5ca4d7220b9b2973329417d9c49acb369c294a18440d8680548772a",
+      "status": "exclude",
+      "reason": "산과 작은 산과 열매나무와 백향목을 계속 부르는 열거로 독립적인 판단 내용이나 동작이 없다.",
+      "contextNote": "148편의 땅의 찬양 대상이 산과 나무로 이어진다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:148:10",
+      "textSha256": "86ff80a7f4ff15c1bfabbe866bb4393b5f907509764ff67683bb9f0bccd6920e",
+      "status": "exclude",
+      "reason": "들짐승과 가축과 기는 것과 새의 목록이므로 앞뒤 찬양 초청 없이 이 절만으로는 문장이 완결되지 않는다.",
+      "contextNote": "땅의 찬양 대상에 모든 동물을 더한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:148:11",
+      "textSha256": "6659b74b8808a7afd4d54f88771e75db2540592b08958c6f82dc0c68991f8b47",
+      "status": "exclude",
+      "reason": "왕과 백성과 방백과 재판관의 열거만 있어 현재 선택에 닿는 행동이나 이유는 다음 절들을 기다려야 한다.",
+      "contextNote": "자연과 동물 뒤 인간 사회의 계층들을 부른다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:148:12",
+      "textSha256": "ad20173029d7459cf17d5ce3c0da1e5872e447872ec96fc1e6fd224ad561e24e",
+      "status": "hold",
+      "reason": "나이와 성별을 넘어 모두 초대받는 모습은 소속의 여지를 주지만 동사가 뒤 절에 있어 단독 연결은 약하다.",
+      "contextNote": "인간의 찬양 초청을 청년과 처녀와 노인과 아이로 넓힌다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H035",
+          "clue": "서로 다른 사람에게도 함께할 자리가 있음을 생각한다.",
+          "friction": "현재 모임이 나를 초대하거나 소외시켰다는 사실은 알려주지 않고 찬양의 동사도 뒤에 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:148:13",
+      "textSha256": "585d9855d573e84750103bb42c8429bda9487a49504563780a10115e06a3bc1c",
+      "status": "candidate",
+      "reason": "모두가 찬양하고 홀로 높으신 이름을 바라보는 구도가 나와 친구의 높낮이를 계속 겨루는 마음을 돌릴 수 있다.",
+      "contextNote": "모든 피조물과 사람이 함께 찬양할 이유를 주의 높으심에서 찾는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H040",
+          "clue": "내가 친구보다 높아야 한다는 마음에서 벗어나 함께 기뻐하는 쪽을 생각한다.",
+          "friction": "함께 높이는 대상은 여호와이며 친구의 성취를 하나님의 특별 보증으로 설명하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:148:14",
+      "textSha256": "d1ce09e42afc3e5f6008abda33315003f7fb4682c844993242b879f4148b8dff",
+      "status": "hold",
+      "reason": "백성을 높이고 가까이하시는 관계는 격려가 되나 뿔이라는 힘의 상징과 성도 및 이스라엘의 호칭을 먼저 풀어야 한다.",
+      "contextNote": "148편을 가까운 백성을 높이시는 일에 대한 찬양으로 끝낸다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "낮아진 자신도 가까이 여겨질 수 있다는 기대를 읽는다.",
+          "friction": "뿔의 높임과 성도 호칭 풀이가 앞서 첫 지원의 실마리로는 불확실하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:149:1",
+      "textSha256": "8f02674e8bac95d8dc956e125175676e9987f735c3deec5a6ce90eb868c51d7e",
+      "status": "candidate",
+      "reason": "새 노래를 회중 안에서 표현하라는 움직임이 완벽해질 때까지 감추는 작품을 공개해 볼 실마리를 준다.",
+      "contextNote": "149편이 성도 모임 속 새 노래를 초청하며 시작한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H042",
+          "clue": "새로 만든 것을 혼자만 다듬기보다 사람들 앞에 내어볼 수 있다.",
+          "friction": "원래 예배의 새 노래이며 모든 작품을 오늘 공개하라는 명령이나 좋은 평가의 보증은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:149:2",
+      "textSha256": "cd196de0e47d4f08966985cfae772beb7789eed37f11286988af524613055a64",
+      "status": "hold",
+      "reason": "창조주와 왕을 기뻐하라는 허용은 분명하지만 새 여행 지출에 대한 죄책감을 풀기에는 즐거움의 대상과 갈등이 다르다.",
+      "contextNote": "이스라엘과 시온의 자민에게 지으신 분과 왕으로 인해 기뻐하라 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H004",
+          "clue": "즐거움을 드러내도 될 자리를 느낄 수 있다.",
+          "friction": "기쁨의 근거는 창조주와 왕이라 두 번째 여행의 지출 부담과 직접 대응하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:149:3",
+      "textSha256": "54d017f3df5f0514eca81f259c90d9ea0f7bf9d37ab9f00721cc163f21cb8289",
+      "status": "candidate",
+      "reason": "춤과 리듬과 악기로 몸을 써 기뻐하는 장면이 일을 마친 뒤 음악을 누릴지의 고민에 자연스럽게 닿는다.",
+      "contextNote": "149편이 기쁨의 표현을 춤과 소고와 수금으로 펼친다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G04",
+          "clue": "이미 할 일을 마친 오늘 음악과 몸의 기쁨을 누리는 쪽을 생각한다.",
+          "friction": "찬양의 춤을 콘서트와 개인적으로 연결하며 내일 피로가 없어진다고 말하지 않는다. 오늘 미완료 마감의 G05는 다른 조건이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:149:4",
+      "textSha256": "7546cb6ccf7d876b726c188ffab3cea88fc5c5d08e02787018213515809b7562",
+      "status": "candidate",
+      "reason": "겸손한 이를 아름답게 본다는 말이 조언을 청하면 부족해 보일까 하는 부끄러움을 낮출 수 있다.",
+      "contextNote": "기뻐할 이유를 백성을 기뻐하심과 겸손한 이의 구원에서 찾는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "부족함을 드러내는 겸손이 추함은 아니라며 의논을 생각한다.",
+          "friction": "하나님의 기뻐하심을 선배의 반응이나 조언의 정답성으로 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:149:5",
+      "textSha256": "1f3ac655882cc61418f461743e5867f83bb32984b3f22329d2b9e99ff6cfaa74",
+      "status": "candidate",
+      "reason": "침상에서도 기쁨을 누리고 노래할 수 있다는 그림이 쉬는 날을 다시 외출로 가득 채우지 않을 여지를 준다.",
+      "contextNote": "성도들의 기쁨을 침상에까지 이어지는 노래로 표현한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H015",
+          "clue": "밖에서 새 경험을 채우지 않아도 집에서 편히 누릴 기쁨이 있다고 읽는다.",
+          "friction": "성도의 영광과 노래가 원래 맥락이며 모든 예정이나 약속을 취소하라는 말로 바꾸지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:149:6",
+      "textSha256": "0d0b4f6a28001823ec07f7e0e11dd8bc9c73936acfb64fbe9862a7c9fbe6f2ab",
+      "status": "exclude",
+      "reason": "입의 찬양과 손의 양날 칼을 함께 든 장면이므로 찬양 부분만 골라 생활 즐거움의 후보로 사용할 수 없다.",
+      "contextNote": "149편의 찬양이 칼을 들고 심판하는 장면으로 전환한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:149:7",
+      "textSha256": "c62e80da0028cda32d4ea8d6051b9c9e3daa391d69fa2a0e531211d0805b0a0e",
+      "status": "exclude",
+      "reason": "열방에 보복하고 민족을 벌한다는 말은 앞의 칼을 받는 목적의 단편으로 자기 선택보다 집단 징벌을 가리킨다.",
+      "contextNote": "양날 칼로 시행할 응보와 민족 심판을 말한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:149:8",
+      "textSha256": "3930b6ee0f211f1d4d410072d7f278c8c6799084c8ecca72e368a94e3fdbeb1f",
+      "status": "exclude",
+      "reason": "왕과 귀인을 사슬과 쇠고랑으로 결박하는 내용은 상대의 구속을 뜻하여 자신의 관계 경계로 바꾸기 어렵다.",
+      "contextNote": "민족 징벌을 왕과 귀인의 체포로 구체화한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:149:9",
+      "textSha256": "cc952fa50f5c332a2d64592b88dd8ab387f20f1b19fdfbcd5a5a1bc59a51e30d",
+      "status": "exclude",
+      "reason": "기록된 심판을 시행하는 영광은 앞 절의 결박과 응보를 받아서 일상 목표 실행의 영광으로 떼어 읽을 수 없다.",
+      "contextNote": "149편이 성도에게 주어진 심판 시행의 영광으로 끝난다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:150:1",
+      "textSha256": "ab66b99fb933349caf2e59c8a12502120c71557ce9ca21bbbbc5585269a60842",
+      "status": "exclude",
+      "reason": "성소와 권능의 궁창에서 찬양하라는 장소의 초청으로 현재 두 선택의 차이를 살필 구체성이 적다.",
+      "contextNote": "150편의 마지막 찬양이 성소와 궁창을 부른다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:150:2",
+      "textSha256": "3b95eb0c312bdf3115a5987a9c0ba9c681a2ef58e5347daacf1bfb4dd77b191c",
+      "status": "exclude",
+      "reason": "능한 행동과 광대하심을 찬양의 근거로 들지만 일반적 찬송의 이유 외에 현재 선택의 부담은 제시하지 않는다.",
+      "contextNote": "150편이 찬양할 이유를 주의 행위와 크기로 말한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:PSA:150:3",
+      "textSha256": "b411a0ecb208c1b7f253760a6bfb949e071d35025d1b092c09924c00c15bcb13",
+      "status": "hold",
+      "reason": "나팔과 비파와 수금은 음악의 기쁨을 떠올리게 하나 예배 악기의 열거만으로 공연 관람의 부담을 바로 가르지는 않는다.",
+      "contextNote": "찬양의 방법을 나팔과 현악기로 구체화한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G04",
+          "clue": "음악을 누리는 장면을 떠올릴 수 있다.",
+          "friction": "악기 사용의 예배 초청은 공연에 갈지의 걱정을 직접 다루지는 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:150:4",
+      "textSha256": "54b4c2f9ba2389f25879e22653c447459c668c6c8aa94cd4cc61e9d98bfa9c4b",
+      "status": "candidate",
+      "reason": "춤과 소고와 여러 악기가 함께하는 생생한 기쁨이 오늘의 일을 마친 뒤 공연을 누릴 여지를 준다.",
+      "contextNote": "찬양의 도구가 춤과 소고와 현악과 퉁소로 이어진다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G04",
+          "clue": "마친 일 뒤 지금의 음악과 움직임을 즐길 마음을 열 수 있다.",
+          "friction": "실제 남은 마감의 G05와 구별하며 다음 날의 피곤함이나 공연 만족을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:150:5",
+      "textSha256": "9ccd3ecb52737e605c16d7878bbfabc5a28b313ce519502cd9d3f455d503ba21",
+      "status": "hold",
+      "reason": "크게 울리는 제금은 주저하지 않는 표현을 연상시키나 미완성 작품의 공개 여부에는 별도 해석을 더해야 한다.",
+      "contextNote": "150편이 울림 큰 제금으로 찬양의 강도를 높인다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H042",
+          "clue": "작게 숨기기보다 표현할 용기를 연상할 수 있다.",
+          "friction": "제금의 음량과 작품의 완성도는 다른 부담이라 연결이 간접적이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PSA:150:6",
+      "textSha256": "2187ccff61302716636bb3d904d21d304208e43fad71738fd4a90f67e6d83743",
+      "status": "candidate",
+      "reason": "호흡이 있는 누구에게나 자리가 있다는 초청이 남보다 뛰어나야만 나설 수 있다는 비교 부담을 낮춘다.",
+      "contextNote": "시편 전체가 모든 호흡 있는 존재를 찬양에 부르며 끝난다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "비교의 우열보다 살아 있는 나에게도 참여할 자리가 있다는 쪽을 읽는다.",
+          "friction": "찬양의 초청을 채용 자격 충족이나 합격의 예고로 설명하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
     }
   ]
 }

@@ -6590,6 +6590,3986 @@
       "contextNote": "간통한 남녀의 사형 규정이다.",
       "readability": "clear",
       "connections": []
+    },
+    {
+      "id": "KRV:DEU:22:23",
+      "textSha256": "4c351bdf31f90f0d412649391a329baa271225ceaa618e505ff907aa0db1ee7f",
+      "status": "hold",
+      "reason": "A023의 혼인 경계를 생각할 수 있으나 약혼한 여자의 성중 통간이라는 조건만 있고 이미 행위가 벌어졌다. 아직 관계를 시작하지 않은 선택과는 거리가 있다.",
+      "contextNote": "약혼한 여인의 성중 성행위에 관한 처벌을 도입한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:22:24",
+      "textSha256": "c6a36ad9a74d7634b0cf69214ad83d016fb7fc144869b8eb5ebbdb1596e6cd3f",
+      "status": "exclude",
+      "reason": "소리 지르지 않은 이유를 들어 남녀를 돌로 죽이는 명령이다. A008의 거절 뒤 침해에 피해자를 탓하거나 죽임을 생활 경계로 주기 어렵다.",
+      "contextNote": "성중의 사건에서 쌍방을 처형하는 고대 규정이다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:22:25",
+      "textSha256": "58c2dcabf40d3c490c529b5513d3d7199306d6d073cb3fe10b730e8ddb43432d",
+      "status": "exclude",
+      "reason": "강간 남자만 죽이라고 하여 책임 구별은 있으나 실제 처형이 명령의 중심이다. A008의 접촉 회피 선택에 사형 행동을 전달할 수 없다.",
+      "contextNote": "들에서 약혼 여인을 강간한 경우 가해자 사형을 정한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:22:26",
+      "textSha256": "94e8f64f8680c511da5d02bf43036e56da8375967913b78d7c0587e9010fa161",
+      "status": "candidate",
+      "reason": "A033에서 잘못하지 않은 팀원까지 싸잡아 탓할지에 죄 없는 사람에게는 아무것도 하지 말라는 책임 구분이 선명하다. 강간 피해와 살인 비유를 단순 마감 실수와 같은 피해로 보지 않는다.",
+      "contextNote": "피해 여인에게 죄를 돌리지 않으며 사건을 이웃 살해에 비긴다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A033",
+          "clue": "실제로 잘못하지 않은 사람에게 같은 책임을 돌리지 않을 수 있다.",
+          "friction": "강간 피해자의 무죄와 살인 비교를 말하는 절이다. 마감 실패와 피해의 무게를 같게 보거나 어떤 팀원의 범죄를 가정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:22:27",
+      "textSha256": "8b6dc19590393835ded2e4ae8548de1a3ee327e5d9331211f6ef91b187ed5431",
+      "status": "hold",
+      "reason": "H030에서 겉으로 도움을 못 받은 사정만으로 상대를 단정하지 않는 관점은 가능하다. 다만 들에서 외쳐도 구할 자가 없었던 강간 상황이라 보통 친구 소문의 사실을 밝혀 주지는 않는다.",
+      "contextNote": "피해자의 외침이 구원으로 이어지지 못했던 지리적 상황을 설명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:22:28",
+      "textSha256": "39e24ba243c811471281d19344150344619ecb69378779d75ac1e673f12f5ebf",
+      "status": "hold",
+      "reason": "A008의 신체 침해와 관련되나 붙들고 통간하다 발견된 사건 조건만 있고 피해자가 취할 경계 행동은 없다.",
+      "contextNote": "약혼하지 않은 여인과의 강제적 성행위 사례를 도입한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:22:29",
+      "textSha256": "aa4313058a3fd9f95ad663ff69495509b7c4cb2515154531c9751e74db8f8957",
+      "status": "exclude",
+      "reason": "아버지에게 돈을 주고 피해 여인을 아내로 삼아 평생 버리지 못하게 한다. A008의 반복 침해에서 거리를 두는 고민에 강제 혼인을 답으로 삼기 어렵다.",
+      "contextNote": "성행위 후 배상과 평생 혼인 유지 의무를 규정한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:22:30",
+      "textSha256": "10d32f7f4302728466285f14f1f4f2b4966701049a6b5da68bf963334672df1f",
+      "status": "exclude",
+      "reason": "아버지의 후실과의 성관계를 금한다. A023의 기혼 지인과 관계 시작에는 성적 경계라는 공통점 외에 특수 친족 조건이 맞지 않는다.",
+      "contextNote": "계모와의 성관계를 금하는 친족 경계 규정이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:23:1",
+      "textSha256": "59f53573b52189808d9df61a6889735379dc5123d9a96b65483767d6b0183b69",
+      "status": "exclude",
+      "reason": "생식기의 손상 여부로 총회 진입을 제한한다. A022의 탈모 외모 고민에 신체 결손을 배제 기준으로 덧붙일 수 없다.",
+      "contextNote": "신체 조건에 따른 총회 참여 제한이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:23:2",
+      "textSha256": "c3fb57e33653df6fde3cff38655ea3387a3a6479b6374c4771b2a448917cb9c1",
+      "status": "exclude",
+      "reason": "사생자와 그 후손 십대의 총회 진입을 막는다. A018의 새 동료 환대에 출생 조건을 추가하는 연결은 맞지 않는다.",
+      "contextNote": "출생 신분에 따른 세대별 총회 제한이다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:23:3",
+      "textSha256": "074ebd51559dbf157971dd3fc6470672b168318c5ac2167a1f3eb64bcc7859bb",
+      "status": "exclude",
+      "reason": "암몬·모압 소속 후손의 총회 참여를 영원히 금한다. H035의 소외감에 사용자나 타인의 민족을 근거로 배제할 실마리를 만들 수 없다.",
+      "contextNote": "특정 민족에 대한 총회 참여 제한이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:23:4",
+      "textSha256": "96b89b46270cd9a74a0f9bc64cd84c8520a42020d7ce7b65391e34d93e996f14",
+      "status": "hold",
+      "reason": "A003의 큰 선물과 대가 부담에 뇌물의 위험은 닿지만 발람에게 저주를 부탁한 실제 악의가 전제다. 현재 호의에 그런 의도가 있다고 채울 수 없다.",
+      "contextNote": "모압의 불환대와 발람 매수 사건을 회상한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:23:5",
+      "textSha256": "9a0a4f09e7747d6cc9bf64c12d1a797657abf461831ae238cbef5324ffa4a33d",
+      "status": "candidate",
+      "reason": "A011의 과거 방해 이후 실제 더 나은 자리로 옮긴 상황에 저주가 복으로 바뀐 일을 보는 시선이 맞는다. 아직 오지 않은 좋은 결과를 약속하는 연결로 쓰지 않는다.",
+      "contextNote": "하나님 사랑으로 발람의 저주가 복으로 바뀐 과거를 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A011",
+          "clue": "이미 나쁜 방해 뒤에 생긴 좋은 변화를 바라보며 지금 삶으로 시선을 돌릴 수 있다.",
+          "friction": "발람의 저주를 바꾸신 역사다. 아직 일어나지 않은 좋은 결과나 방해자와의 화해를 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:23:6",
+      "textSha256": "e47d80723be955d6983462b75b281038200321181ad8c5cb6ed6005af2f4c264",
+      "status": "exclude",
+      "reason": "특정 민족의 평안과 형통을 평생 구하지 말라는 금지다. H029의 관계 경계를 상대의 영원한 불행을 바라는 선택으로 바꾸기는 어렵다.",
+      "contextNote": "암몬·모압과의 영구적 관계 제한을 명한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:23:7",
+      "textSha256": "0e2ceb4d25464e84cd0253970f0130585fc51b453290f3cb4b6455ed33a416f0",
+      "status": "candidate",
+      "reason": "A018에서 이전에 나도 객이었던 기억으로 새 동료를 환대할지에 객이 되었던 땅 사람을 미워하지 말라는 실마리가 닿는다. 에돔·애굽의 역사적 구분은 낯설다.",
+      "contextNote": "형제인 에돔과 과거 거주지 애굽을 미워하지 말게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A018",
+          "clue": "나도 낯선 곳에 머물렀던 기억으로 새 사람을 미워하거나 외면하지 않을 수 있다.",
+          "friction": "에돔과 애굽을 다르게 다룬 역사 규정이다. 모든 관계의 침해를 무조건 참으라는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:23:8",
+      "textSha256": "cabcb951d391d8a014c272c5805d6e98bd88e37567199128a3ec493bca4b4bb8",
+      "status": "exclude",
+      "reason": "삼대 후 자손의 총회 입장을 허용하는 조건이다. A018의 지금 온 동료를 부를지 고민에 세대 대기 기준을 추가할 수 없다.",
+      "contextNote": "에돔·애굽 후손의 총회 참여 시기를 밝힌다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:23:9",
+      "textSha256": "3b05d5668c2b86daf0dc3b8a1481a81037b4954e92bc87e9358a6d896502aae6",
+      "status": "candidate",
+      "reason": "H052에서 평가를 잘 받고 싶은 상황이라도 스스로 나쁜 일을 삼가라는 기준이 분명하다. 출전 상황의 악행을 현재 작은 과장의 유혹에 개인적으로 연결하며 사람 전체를 악인으로 부르지 않는다.",
+      "contextNote": "출전 중에도 악행을 경계하게 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "성과를 얻으려는 중에도 스스로 넘지 않을 선을 지킬 수 있다.",
+          "friction": "군 진영의 악행 경계이다. 현재 과장 욕구를 실제 저지른 큰 범죄로 단정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:23:10",
+      "textSha256": "b80c0e30c40373707eb60e8da1b51516a53c0f4075ecbc7c5f082040697dfe6e",
+      "status": "exclude",
+      "reason": "몽설한 자가 진 밖에 나가는 정결 조건이다. H055의 치료상 휴식을 신체 배출에 따른 종교적 부정과 연결할 근거는 없다.",
+      "contextNote": "진중의 의식적 부정과 일시 격리를 정한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:23:11",
+      "textSha256": "0edb91e0c261a78e0cc63df89e00fdc7814daad23d42f019cf67c3806de3f900",
+      "status": "exclude",
+      "reason": "해 질 때 목욕하고 진에 복귀하는 순서이다. H015의 쉬는 주말 선택이나 H055의 회복 시점을 해 지는 시간으로 정할 수 없다.",
+      "contextNote": "일시 격리자의 정결과 복귀 시기를 밝힌다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:23:12",
+      "textSha256": "fbddad948b46558114f46baec3214ca774e193aab14c34d57cab58ab8ec588a3",
+      "status": "exclude",
+      "reason": "진 밖에 변소를 마련해 나가는 지시이며 개인 고민의 선택 부담을 건드리지 않는다. H063의 잠시 멈춤과 장소 이탈이라는 말만 겹친다.",
+      "contextNote": "진영 밖의 배설 장소를 지정한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:23:13",
+      "textSha256": "57792b08a8a5f7123416194868976dafed638a5174e5d5e21c04e504427f1482",
+      "status": "hold",
+      "reason": "A014에서 필요한 도구를 미리 챙기는 생각은 있지만 작은 삽으로 배설물을 덮는 절차가 중심이다. 강풍 대비 이동 판단에는 이 비유가 너무 멀다.",
+      "contextNote": "군용 기구에 삽을 두어 배설물을 덮게 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:23:14",
+      "textSha256": "09f8c26fc6f9ac7713b9894cd4e09e8a0bfcb78bcdb5e7b15c363b9fc84f279c",
+      "status": "hold",
+      "reason": "H048에서 공간과 행동을 살피는 계기는 되나 하나님이 진중에서 떠나지 않도록 거룩하게 하라는 전쟁·정결 이유라 실제 누락 오류 수정에 과도한 신적 이탈 부담이 붙는다.",
+      "contextNote": "진영의 정결을 하나님의 임재와 구원에 연결한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:23:15",
+      "textSha256": "bcaf60dd966e542b6b558c34cbe515631d9638acf03626db72ff7a82e2973085",
+      "status": "candidate",
+      "reason": "A008의 거절 뒤 계속 침해하는 사람과 단둘이 만나지 않을지에 피한 사람을 그 주인에게 되돌리지 않는 보호 방향이 닿는다. 사용자를 종으로 보거나 상대를 고대 주인과 동일시하지 않는다.",
+      "contextNote": "도망하여 온 종을 원래 주인에게 되돌리지 못하게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A008",
+          "clue": "이미 피하려는 사람을 다시 같은 지배 관계로 되돌려야 한다고 생각하지 않을 수 있다.",
+          "friction": "도망 종의 보호 규정이며 현재 상대의 법적 지위나 실제 추가 가해를 예언하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:23:16",
+      "textSha256": "fd0bc8c1ab00fc335007077806fcbd078a0f6dd60421e4401269196e877a3d8c",
+      "status": "candidate",
+      "reason": "A018에서 새 동료가 편하게 자리를 택하도록 환대할지에 원하는 곳에 함께 거하게 하고 압제하지 말라는 실마리가 있다. 도망 온 종의 거주 보호와 직장 식사 초대의 차이는 남는다.",
+      "contextNote": "피신자의 거주 선택을 허용하며 압제를 금한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A018",
+          "clue": "함께 있을 자리를 열어 주되 상대가 편하게 택하도록 둘 수 있다.",
+          "friction": "피신한 종의 거주 자유이다. 동료가 실제 피신자이거나 주거 지원을 원한다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:23:17",
+      "textSha256": "f4283a690628bf206e091bb247447bc795b48bca44b0afb82be9f553163aad21",
+      "status": "exclude",
+      "reason": "창기와 미동이 공동체에 있지 못하게 하는 규정이다. A023의 기혼 지인과 사적 관계 시작을 성매매 신분으로 바꿀 수 없다.",
+      "contextNote": "특정 성적 직능을 공동체에서 금한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:23:18",
+      "textSha256": "3a3b9ae2df9aace496077c183594c48e0fafea238b447699bd7412fc6fe40047",
+      "status": "hold",
+      "reason": "H052에서 좋지 않은 수입을 좋은 용도로 정당화할지 돌아볼 여지는 있으나 성매매 소득을 성전에 들이는 문제라 평가 문구 과장과의 연결은 멀다.",
+      "contextNote": "금지된 성적 직능의 소득을 서원 예물로 드리지 못하게 한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:23:19",
+      "textSha256": "c33d9a3ff537fb3947ff7a255beabb92414470c92d6af3fa677e542f5f320d7b",
+      "status": "hold",
+      "reason": "H038의 친구 대여와 관련되나 이자를 취하지 않는 규정이다. 현재 고민은 이전의 늦은 상환과 다시 빌려줄지이며 이자 요구 사실이 없어 핵심 갈등을 가르지 못한다.",
+      "contextNote": "형제에게 돈이나 식물을 빌려주며 이자를 받지 못하게 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:23:20",
+      "textSha256": "d53065d38a6112a564bd099a0a955083531df164b2dcd0735207c473c74b4342",
+      "status": "hold",
+      "reason": "H038에 형제 대여의 기준은 있지만 타국인과 이자를 구분하고 범사 축복이 붙는다. 실제 상환 위험이나 여유 자금을 해결한다고 읽을 수 없다.",
+      "contextNote": "형제와 타국인 대여를 구분하고 무이자 대여를 권한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:23:21",
+      "textSha256": "b4c1b74cf339fdfbc39a4a9f618e90d2129f26fd40caf1e07ce430f3c2c7f4b8",
+      "status": "candidate",
+      "reason": "A024의 오늘 약속한 돈을 내일로 미룰지에 갚기를 더디하지 말라는 말이 정확히 닿는다. 하나님께 한 서원과 임금 지급 약속은 다른 관계이며 실제 준비된 돈 조건을 보존한다.",
+      "contextNote": "하나님께 서원한 것을 지체하지 말고 이행하게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A024",
+          "clue": "이미 하기로 말한 지급을 이유 없이 더디게 미루지 않을 수 있다.",
+          "friction": "하나님께 서원한 의무다. 오늘 지급할 돈이 실제 준비된 A024에 연결하며 자금 부족 사례를 지워 버리지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:23:22",
+      "textSha256": "b9f2774f87bbe28896b46318af54fba5ae8a2fca6aaf18c4435f2c92c48bdb5d",
+      "status": "candidate",
+      "reason": "H044에서 이미 과로 중 새 부탁을 거절해도 되는지에 서원하지 않았다면 무죄라는 여지가 닿는다. 마는 뒤의 약속 이행과 함께 읽어 이미 한 약속을 취소할 면허로 쓰지 않는다.",
+      "contextNote": "서원하지 않는 것 자체는 죄가 아니라고 구분한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H044",
+          "clue": "아직 약속하지 않은 새 부탁까지 모두 떠맡아야 하는 것은 아니라는 여지를 읽을 수 있다.",
+          "friction": "서원 여부의 구분이며 마는으로 다음 절과 이어진다. 이미 한 약속의 이행 의무는 계속 남는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:23:23",
+      "textSha256": "3ac7e43546a9f1d57ab599caeeec9eca3ea61a62614dd04bbb0706f1b53e7687",
+      "status": "candidate",
+      "reason": "G09에서 이미 싼 가격으로 하겠다고 말한 뒤 더 높은 제안을 받았을 때 입으로 언약한 대로 하라는 실마리가 직접 닿는다. 서원 예물과 거래 약속의 차이는 남는다.",
+      "contextNote": "자원하여 입으로 서원한 예물을 그대로 이행하게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G09",
+          "clue": "더 좋은 제안이 와도 이미 입으로 한 약속의 무게를 볼 수 있다.",
+          "friction": "하나님께 드리는 서원 예물의 이행이며 서비스가 현재 거래 결론을 대신 명령하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:23:24",
+      "textSha256": "7450830369bd9a87ebe5473d88c565fdfc85a4a7cb68b04e189cba89519346aa",
+      "status": "candidate",
+      "reason": "G01에서 감당 가능한 즐거움에도 죄책감이 드는 상황에 배불리 먹는 허용과 그릇에 쌓지 않는 한계가 함께 읽힌다. 이웃 포도원의 특별한 이용 규칙을 현재 소유권으로 옮기지 않는다.",
+      "contextNote": "포도원에서 먹는 것은 허용하되 그릇에 담아 가져가지는 못하게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G01",
+          "clue": "허용된 즐거움을 누리되 쌓아 가는 욕심과는 경계를 둘 수 있다.",
+          "friction": "남의 포도원에서 먹도록 허용된 상황이다. 구매 자금과 소유권을 새로 만들지 않고 이미 감당 가능한 G01에 한정한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:23:25",
+      "textSha256": "fa28c458e8a7f31d7f7bed42b9e226814f822bdfb2c7716e57a9df614af383ce",
+      "status": "hold",
+      "reason": "G01에서 허용된 누림과 과도한 취함의 경계를 볼 수 있으나 손 이삭과 낫 수확의 차이는 남의 밭 이용 규정이라 재킷 한 벌의 부담에 충분한지는 불확실하다.",
+      "contextNote": "이웃 밭에서 손으로 따 먹음과 본격 수확을 구분한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:24:1",
+      "textSha256": "d1b81e6494ccb31a903b36cbdc36360e24edfbff14f8bf9b531596b026244829",
+      "status": "hold",
+      "reason": "H029의 관계를 끝내는 선택과 닿을 수 있으나 아내에게 수치되는 일을 발견해 내보내는 규정이다. 실제 반복 침해를 이혼이나 성적 수치로 바꿀 수 없다.",
+      "contextNote": "이혼 증서 발급과 아내의 퇴거를 사례 조건으로 둔다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:24:2",
+      "textSha256": "48361fe4fe0855190c5a9a6593670d968496b16f47f941011611c3a877e5867f",
+      "status": "hold",
+      "reason": "H060에서 지난 관계 뒤 다른 길로 나아갈 여지는 보이나 재혼이 명시되어 놓친 기회 뒤 반드시 새 기회가 온다고 읽을 수 없다.",
+      "contextNote": "이혼한 여인의 재혼 가능성을 사례 안에서 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:24:3",
+      "textSha256": "fa9851ff26ab112e34523cb79335f6072cbc179953af01333d12926906c3579d",
+      "status": "exclude",
+      "reason": "두 번째 남편도 내보내거나 죽었다는 복합 조건이다. H029의 현재 친구 관계에는 이 재혼·사별 이력을 추가해야만 관련이 생긴다.",
+      "contextNote": "재혼 관계마저 끝난 경우를 설정한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:24:4",
+      "textSha256": "337318d6c31a819b22539e9c9375b9dd348527abae8ba6a05e35c8d69219dd56",
+      "status": "exclude",
+      "reason": "이전 남편과의 재결합을 여인의 더럽혀진 몸이라는 이유로 금한다. H029의 반복 침해 경계에 사용자의 성적 정결 판단을 추가할 근거가 없다.",
+      "contextNote": "재혼 후 첫 남편에게 돌아가는 것을 금한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:24:5",
+      "textSha256": "472086d4f390fbc4e43d719ad6ace4e9d2c9366e4e4ef03c8ae4143bcfa1c2c6",
+      "status": "candidate",
+      "reason": "A002에서 부부의 생활을 언제나 부모 동거 뒤로 미룰지에 새 가정과 배우자의 기쁨을 위한 시간을 우선하는 실마리가 있다. 신혼 일년 징집 면제를 실제 동거 의무나 현재 혼인 기간으로 바꾸지 않는다.",
+      "contextNote": "새로 결혼한 남자에게 일년간 군역과 직무 면제를 주어 아내를 돌보게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A002",
+          "clue": "새 부부의 생활과 배우자의 기쁨을 위해 우선할 자리와 시간을 생각할 수 있다.",
+          "friction": "신혼 일년간 직무 면제다. 사용자가 신혼인지나 부모를 떠나야 할 구체 기한·제도를 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:24:6",
+      "textSha256": "02f7e6c8398b515a1f6b68a002142f1dc3d4495aa2a89e8bef278ed9b33200f1",
+      "status": "candidate",
+      "reason": "G02의 재킷을 사면 생활비를 줄여야 하는 상황에 맷돌은 생명이라 취하지 말라는 생활 기반 보호가 정확히 닿는다. 담보 규정이며 현재 맷돌이나 빚이 있다고 가정하지 않는다.",
+      "contextNote": "생계 수단인 맷돌을 담보로 빼앗지 못하게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G02",
+          "clue": "갖고 싶은 물건 때문에 생활을 지탱할 기반까지 내놓는 선택은 구별할 수 있다.",
+          "friction": "맷돌 담보 금지다. 현재 빚이 있다는 뜻은 아니며 자금 여유가 있는 G01과 달리 실제 생활비 부족을 보존한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:24:7",
+      "textSha256": "642921c21affeb2eec6d4c0a66d79dd59b06fc3d1763e345ded570816598c323",
+      "status": "exclude",
+      "reason": "사람을 납치해 부리거나 판 자를 죽이라는 처벌이다. A028의 낮은 보수 유혹을 실제 납치·매매 범죄로 바꿀 수 없다.",
+      "contextNote": "동족 납치와 노예 매매에 사형을 규정한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:24:8",
+      "textSha256": "78cbf389de3cd4d746abeeb4a5f06b2f60f0924e22ef80fa1ed3318945b83828",
+      "status": "candidate",
+      "reason": "H055에서 회복을 위해 쉬라는 말을 계속 무시할지에 전문적으로 가르친 주의사항을 힘써 행한다는 실마리가 닿는다. 문둥병 정결의 제사장 지시를 현대 진단이나 치료법으로 바꾸지 않는다.",
+      "contextNote": "문둥병 관련 제사장의 가르침을 주의하여 따르게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H055",
+          "clue": "이미 회복을 위해 받은 주의사항을 실제로 지킬 수 있다.",
+          "friction": "제사장이 다루던 문둥병 정결 규정이다. 현재 병명·예후·치료법을 알려 주지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:24:9",
+      "textSha256": "dba0e9d53c2440217c4335a0fdcbfd6bb9f8fef33763ee92c021228eccfe4ee6",
+      "status": "hold",
+      "reason": "H048에서 지난 경고를 기억하는 연결은 가능하나 미리암에게 일어난 내용이 본절에 없어 특정 사건 풀이 없이 현재 오류를 고칠 단서는 약하다.",
+      "contextNote": "미리암의 사건을 질병 관련 주의의 기억으로 제시한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:24:10",
+      "textSha256": "2b4748b1abcde765c8d1b89f16953c5da97f5c4811f8594013757051c0f828dd",
+      "status": "candidate",
+      "reason": "H029에서 이미 말한 사적 경계를 지킬지에 이웃 집에 들어가 직접 가져가지 말라는 한계가 구체적이다. 채권자의 담보 징수와 친구 경계는 다른 관계이다.",
+      "contextNote": "빌려주는 이가 채무자 집에 들어가 담보물을 강제로 취하지 못하게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H029",
+          "clue": "권리가 있다고 느껴도 다른 이의 사적 공간을 마음대로 넘을 수 없다는 선을 볼 수 있다.",
+          "friction": "채권자의 담보 징수 절차다. 현재 친구와 사용자의 채무 관계나 주거 침입 사실을 가정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:24:11",
+      "textSha256": "f430361190feae6f0377b390eed6f9e4e109d24a407825de913605d9055bfe74",
+      "status": "hold",
+      "reason": "H029의 타인 경계를 존중하는 실마리는 있으나 밖에 서서 채무자가 담보를 내오는 절차이며 현재 친구가 어떤 행동을 할지는 정하지 못한다.",
+      "contextNote": "채무자가 직접 담보물을 가지고 나오게 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:24:12",
+      "textSha256": "d988225f1b85a9997d202049162339c5700a149da32abd117683e8f19bc0704c",
+      "status": "hold",
+      "reason": "H059에서 취약한 이의 필요한 것을 오래 붙들지 않는 단서는 있지만 전집물과 잠의 관계가 아직 설명되지 않아 다음 절 없이 충분한지 불확실하다.",
+      "contextNote": "가난한 채무자의 담보물을 밤새 보유하지 못하게 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:24:13",
+      "textSha256": "f1dc3577a3859d65ea9bd084245c5118fd2cccfd3294bcf326b50c30c2c3eaa2",
+      "status": "candidate",
+      "reason": "H059에서 아껴 두기와 나눔 사이에 상대가 오늘 입고 잘 물건을 돌려주는 실제 필요 중심의 실마리가 있다. 담보 반환과 자발적 도움은 다르며 상대의 축복이나 내 보상을 보장하지 않는다.",
+      "contextNote": "가난한 이의 옷 담보를 해 질 때 돌려주어 잘 수 있게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H059",
+          "clue": "남겨 둘 돈의 계산만 아니라 상대에게 지금 필요한 구체 물건을 돌아볼 수 있다.",
+          "friction": "담보 옷을 돌려주는 규정이며 대상이 실제 옷이 없다는 뜻이나 나눔 뒤 보상 약속은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:24:14",
+      "textSha256": "4e922402658f7f3a52a462f40fb62461c47667a9b327b2be92880fb6b2b2a452",
+      "status": "candidate",
+      "reason": "A028에서 돈이 급해 거절 못할 일꾼에게 더 많은 일을 시킬지에 빈한한 품꾼을 학대하지 말라는 기준이 직접 닿는다. 국적이나 거주 지위에 따라 보호를 달리하지 않는다.",
+      "contextNote": "형제든 거주 외부인이든 가난한 일꾼을 학대하지 못하게 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "A028",
+          "clue": "상대가 돈이 급하다는 점을 이용해 더 가혹하게 요구하지 않을 수 있다.",
+          "friction": "빈한한 품꾼의 보호 규정이며 현재 보수액이나 일의 범위를 자동으로 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:24:15",
+      "textSha256": "0e2fe9f8e748e86f962a9f916c42474d22dcf4d8d56e3b867e5fc9a98f0acbea",
+      "status": "candidate",
+      "reason": "A024에서 준비된 오늘 품삯을 편의로 미룰지에 당일에 주고 해 후까지 끌지 말라는 실마리가 정확하다. 일꾼이 실제 빈궁한지는 별도이며 이미 오늘 약속한 조건을 보존한다.",
+      "contextNote": "빈궁한 품꾼이 기다리는 임금을 당일 지급하게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A024",
+          "clue": "오늘 기다리는 품삯을 내 편의로 해 뒤까지 미루지 않을 수 있다.",
+          "friction": "빈궁한 일꾼이라는 이유가 붙는다. A024의 실제 준비된 돈과 오늘 약속은 보존하되 일꾼의 빈궁은 추가하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:24:16",
+      "textSha256": "0cef63c8e630bc2561512d643cb3d548a8baddb7df24be6434b60aab3b0b2247",
+      "status": "candidate",
+      "reason": "A033에서 한 팀원의 누락을 모두의 탓으로 돌릴지에 각자 자기 죄에 책임진다는 구분이 분명하다. 부모·자식의 사형 규정 전체를 팀원 처벌로 적용하지 않는다.",
+      "contextNote": "가족의 죄로 대신 처형하지 않고 개인 책임을 요구한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A033",
+          "clue": "한 사람의 잘못과 다른 사람의 책임을 나누어 말할 수 있다.",
+          "friction": "부자 간 대리 사형 금지다. 마감 책임을 생명 형벌과 동일하게 보지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:24:17",
+      "textSha256": "6648f74e0c159d1d6127929614e1583f8e9a0d760012b6cfea978e39a9faa284",
+      "status": "candidate",
+      "reason": "A028에서 약한 처지 때문에 거절 못하는 사람을 더 압박할지에 억울하게 하지 않고 필요한 옷을 취하지 않는 보호 기준이 닿는다. 송사와 담보를 현재 임금의 법적 기준으로 삼지 않는다.",
+      "contextNote": "객·고아의 재판과 과부의 생활 물건을 보호한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A028",
+          "clue": "상대가 불리한 위치에 있다는 이유로 억울하게 만들지 않는 선을 정할 수 있다.",
+          "friction": "객·고아·과부와 송사·담보 규정이다. 일꾼의 신분이나 현대 노동법을 확정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:24:18",
+      "textSha256": "231b17b28df2e7fadabcedbfc563975554aeb165c56ebb4c3838c1ff8793ed7a",
+      "status": "hold",
+      "reason": "A018에서 나의 낯설었던 기억으로 상대를 대하는 연결은 있으나 종살이와 속량의 기억이 중심이고 이 일의 내용은 앞 규정을 필요로 한다.",
+      "contextNote": "과거 종살이와 구속을 약자 보호 의무의 이유로 둔다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:24:19",
+      "textSha256": "3febaf48e7e690b3c1333d6bff7723fe54410eec6bd6855cd24d3d0c5eff8973",
+      "status": "candidate",
+      "reason": "H059의 조금 더 아끼기와 나눔에 모든 소출을 다시 회수하기보다 남길 몫을 보라는 실마리가 있다. 잊은 곡식단이라는 조건과 범사 축복을 금전 환급 보장으로 옮기지 않는다.",
+      "contextNote": "밭에 잊은 곡식단을 객·고아·과부를 위해 남기게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H059",
+          "clue": "내게 남은 작은 몫을 끝까지 회수하기보다 필요한 이에게 남길 수 있다.",
+          "friction": "잊은 곡식단과 고대 구제 규정이며 범사 축복은 현금 보상의 보장이 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:24:20",
+      "textSha256": "a6a00c8a4f4de0ee003bdb44af80e656b406b4394f27faeab73c8ea8fdc192a0",
+      "status": "candidate",
+      "reason": "H059에서 남은 작은 몫까지 끝내 거둘지에 가지를 다시 살피지 말고 필요한 이에게 남기는 절제가 맞는다. 감람나무 수확과 현재 도움 방식의 차이는 남는다.",
+      "contextNote": "감람나무를 떤 뒤 남은 열매를 취약한 이들에게 남기게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H059",
+          "clue": "이미 거둔 뒤에도 남은 것을 모두 쓸어 담으려 하지 않을 수 있다.",
+          "friction": "감람나무의 잔여 수확 규정이다. 무제한 나눔이나 실제 생활비 부족을 무시하는 지시는 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:24:21",
+      "textSha256": "4b32a0ae696742797ee861a31873f7136f5f75ee4bcf6945ba5fcc533a3d0713",
+      "status": "candidate",
+      "reason": "H059에서 나눌 여력이 있는데도 모두 붙들지에 남은 포도를 다시 따지 않고 남기는 구체 실마리가 있다. 생활비가 부족한 G02에게 같은 여력을 가정하지 않는다.",
+      "contextNote": "포도 수확 뒤 남은 것을 객·고아·과부에게 남기게 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H059",
+          "clue": "내 몫을 누린 뒤 남은 것을 타인을 위해 남겨 둘 수 있다.",
+          "friction": "포도원의 잔여 열매를 사회적 약자에게 남기는 규정으로 현재 도움의 정확한 양을 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:24:22",
+      "textSha256": "e717acb47a60df2a76d096ded46412a8027fd640d698a5035bf1144ffaaa4b36",
+      "status": "hold",
+      "reason": "A018에서 지난 어려움을 기억하자는 말은 닿지만 종 되었던 구체 역사와 이 일의 지시가 앞 절에 의존해 새 동료 초대의 단독 실마리는 약하다.",
+      "contextNote": "종살이 기억을 이삭 남기기 규정의 이유로 반복한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:25:1",
+      "textSha256": "a6c864d8c7f8c18251d77b8a483d549a5691979027452eec0a92fd36390a1f30",
+      "status": "candidate",
+      "reason": "A016에서 친분 때문에 보지 않은 일을 지지할지에 의인은 의롭다 하고 악인은 정죄하는 사실에 따른 구분이 닿는다. 현재 친구의 유죄나 무죄를 절이 확정하지 않는다.",
+      "contextNote": "시비를 재판할 때 옳고 그름을 분명히 가리게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A016",
+          "clue": "친분보다 실제 옳고 그름에 맞춰 말을 할 수 있다.",
+          "friction": "재판장에게 주는 규정이다. 목격하지 않은 친구 사건의 사실을 알게 하지는 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:25:2",
+      "textSha256": "8e44defca52d0dd2f7edfc13d7ccfca3b302888c164d778b10f186ae02bda517",
+      "status": "exclude",
+      "reason": "죄의 경중대로 사람을 엎드려 때리라는 태형 절차이다. H029의 비례 있는 경계도 신체 처벌로 실행하도록 연결할 수 없다.",
+      "contextNote": "태형을 재판장 앞에서 죄의 정도에 맞춰 집행하게 한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:25:3",
+      "textSha256": "cc2e8b3a9961f47011d3c55da73443af5efdeea41445ebd052deae2d84873dbf",
+      "status": "hold",
+      "reason": "H031에서 과도한 응징으로 상대를 천히 여기지 말라는 제동은 있으나 사십 대까지의 태형 허용이 중심이다. 화난 문자 전송에 충분한 첫 결과인지는 보류한다.",
+      "contextNote": "태형 상한을 정해 형제를 과도하게 비하하지 못하게 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:25:4",
+      "textSha256": "49060ecd82bd40ba34574615dd6680584e2a481521cd4b5b1428671582628fc5",
+      "status": "candidate",
+      "reason": "A006에서 계속 일하는 친구에게 보수 얘기를 할지에 일하면서 먹을 몫을 막지 말라는 실마리가 선명하다. 친구를 소나 소유물로 보지 않으며 정확한 임금액을 정하지 않는다.",
+      "contextNote": "타작하는 소에게 입망을 씌워 먹지 못하게 하지 말라고 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A006",
+          "clue": "일을 돕는 사람이 일한 몫을 누리는 것을 막지 않을 수 있다.",
+          "friction": "타작하는 소의 먹이를 막지 않는 규정이다. 사람의 가치나 실제 적정 보수를 동물과 같게 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:25:5",
+      "textSha256": "b646b4e7111657dc09200504fe4df8de6972f04adf2676f2a02ac3a097e5aabf",
+      "status": "exclude",
+      "reason": "죽은 형의 아내와 결혼해 의무를 하라는 제도이다. H054의 먼저 한 약속을 지키는 문제에 특정 친족 혼인 의무를 추가할 수 없다.",
+      "contextNote": "아들 없이 죽은 형제의 후사를 위한 계대 혼인을 규정한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:25:6",
+      "textSha256": "be5d04d40c4246a41232c9faa5e879ec94b4430e0fcd0f97383957f1c5b47de8",
+      "status": "hold",
+      "reason": "A034에서 이름을 잊지 않는 뜻은 닿지만 실제 기여 인정이 아니라 죽은 형제의 첫아들로 후사를 잇는 제도라 현재 제작자 표시와의 간격이 크다.",
+      "contextNote": "계대 혼인의 첫아들이 죽은 형제의 이름을 잇게 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:25:7",
+      "textSha256": "33269986aab9aa3b80a4b09076cc4c73a7be223c61d9bf8f1c5c02346774f638",
+      "status": "hold",
+      "reason": "H026에서 부담을 공적으로 말하는 모습은 있으나 형제 혼인을 거절한 사람의 의무를 고발하는 제도이다. 친구에게 서운함을 말하는 기준으로는 특수 조건이 많다.",
+      "contextNote": "계대 혼인을 거부당한 여인이 장로에게 호소하게 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:25:8",
+      "textSha256": "cdf09c8d81aa51ddf0215e6b3b3393b08b5da16640e7322a7bf9f6d912de3799",
+      "status": "hold",
+      "reason": "H044에서 맡기 원하지 않는 뜻을 분명히 말하는 단서는 있지만 남편 형제의 혼인 의무를 거부하는 조건이며 뒤의 공개 모욕과 분리하기 어렵다.",
+      "contextNote": "장로의 권면 뒤에도 남자가 혼인 거부 의사를 확인하는 경우이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:25:9",
+      "textSha256": "7014c6f48739141c4d92355a3ae1323f87f72e1ac6aaabda8228712b0943b1ab",
+      "status": "exclude",
+      "reason": "신을 벗기고 얼굴에 침을 뱉는 공개 모욕을 지시한다. H029의 반복 경계 침해에 안전한 거리두기를 모욕 행위로 바꿀 수 없다.",
+      "contextNote": "계대 의무를 거부한 남자에게 여인이 공개 모욕 의례를 행한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:25:10",
+      "textSha256": "1b0554e8ce13992fdd00e3622a33b4dd494a60061a64f28546416a96501475d0",
+      "status": "exclude",
+      "reason": "신 벗기운 자의 집이라는 낙인을 정한다. A034의 내 이름 표시와는 명예 인정이 아니라 집안의 수치 표지가 중심이다.",
+      "contextNote": "거부자의 집에 붙일 불명예 명칭을 밝힌다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:25:11",
+      "textSha256": "7fe6e33d89b4e9850c45208ffd519b19365c3543d7ee6b4ef6f3874d484e5502",
+      "status": "hold",
+      "reason": "A007의 싸움을 말리는 행동과 관련되지만 상대 음낭을 붙잡는 특정 개입 조건만 있다. 다치지 않게 싸움을 멈출 방법을 제시하는 절은 아니다.",
+      "contextNote": "남편을 구하려 상대 생식기를 잡은 여인의 사례를 도입한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:25:12",
+      "textSha256": "09cff1156190a6e0920404f946979700a6d4001feddff162e6cbb4b6be0da2ba",
+      "status": "exclude",
+      "reason": "여인의 손을 자르고 불쌍히 보지 말라고 한다. A007의 싸움 중재나 H031의 분노 제동에 신체 훼손을 개인 행동으로 전달할 수 없다.",
+      "contextNote": "앞의 생식기 손상 개입에 절단형을 규정한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:25:13",
+      "textSha256": "52f26dda689daaebea96058963be8d64b154d420eb00017660f395a24d3c2a58",
+      "status": "candidate",
+      "reason": "H022의 작은 흠을 숨겨 팔지에 상대에 따라 다른 측정 기준을 준비하지 않는 정직의 실마리가 있다. 저울추와 물건 상태 설명의 차이는 남긴다.",
+      "contextNote": "거래용 큰 추와 작은 추를 함께 갖는 부정을 금한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H022",
+          "clue": "내게 유리할 때만 다른 기준을 쓰지 않고 같은 기준으로 상태를 전할 수 있다.",
+          "friction": "정확한 무게를 재는 추의 부정 금지다. 물건의 실제 흠이나 가격을 절이 평가하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:25:14",
+      "textSha256": "941dfcd096574ee712d42867760e90df044a775b7d09f56b49e3a5a4d8f88d1c",
+      "status": "candidate",
+      "reason": "H052에서 평가를 좋게 받으려고 사실을 늘릴지에 같은 분량을 다른 되로 보이게 하지 않는 기준이 닿는다. 실제 문구 과장을 이미 범한 사기라고 단정하지 않는다.",
+      "contextNote": "다른 크기의 되를 두어 거래를 왜곡하지 못하게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "보여 주고 싶은 평가에 따라 사실의 분량을 바꾸지 않을 수 있다.",
+          "friction": "거래용 되의 크기 문제이며 아직 과장하지 않은 유혹을 이미 범한 죄로 단정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:25:15",
+      "textSha256": "4e09b67a4bca352ad649b7498183c04bd5fd50ae0ebfb512ba691cc25559a546",
+      "status": "candidate",
+      "reason": "H022에서 흠을 말하지 않고 유리하게 팔지에 공정한 기준만 두라는 단서가 분명하다. 장구한 생명 약속을 판매 성공이나 더 높은 가격 보장으로 바꾸지 않는다.",
+      "contextNote": "정확한 저울추와 되를 요구한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H022",
+          "clue": "거래를 유리하게 꾸미기보다 공정한 기준에 맞춰 알릴 수 있다.",
+          "friction": "저울과 되 및 땅에서의 장수 약속이다. 정직하면 판매가 성사되거나 더 비싸진다는 보증은 없다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:25:16",
+      "textSha256": "36ea01099fda28dedd82229de8ae79aa73dc6ca556fa56f6fbe8ba849d6f8cc4",
+      "status": "hold",
+      "reason": "H052에서 부정당한 방식의 경계는 있지만 이같이의 구체 내용은 앞 절 측정 부정에 있고 가증하다는 단죄가 중심이라 실제 정직한 문구의 실마리는 약하다.",
+      "contextNote": "거래 부정이 하나님께 가증함을 밝힌다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:25:17",
+      "textSha256": "4909b1caf32973ac58bd2ddcefc554d43bb97f4ffe18067fb2e8f2b8764c6392",
+      "status": "hold",
+      "reason": "H029에서 이미 받은 침해를 잊지 않는 단서는 있으나 아말렉의 행위가 본절에 없고 다음 절의 약자 공격을 알아야 판단할 수 있다.",
+      "contextNote": "출애굽 길의 아말렉 공격을 기억하게 한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:25:18",
+      "textSha256": "3157ed999e102a5b224d5a7473c6c42b88d97b230403c76494b27aaf85caf859",
+      "status": "candidate",
+      "reason": "A028에서 궁한 상대가 거절 못하는 처지를 이용할지에 피곤함을 틈타 약한 자를 치는 모습이 반면의 실마리가 된다. 낮은 보수 고민을 실제 전쟁 살해로 단정하지 않는다.",
+      "contextNote": "아말렉이 지친 행렬 뒤 약한 이들을 공격했던 잘못을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A028",
+          "clue": "약한 처지와 피곤함을 유리한 기회로 삼아 더 압박하는 모습을 돌아볼 수 있다.",
+          "friction": "아말렉의 실제 행렬 공격이다. 낮은 보수의 유혹을 이미 사람을 해친 전쟁 범죄로 규정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:25:19",
+      "textSha256": "999c7d5cd1a43a35546a7aaf09962b4bf3f6171393bd42a6c9665b0962677e43",
+      "status": "exclude",
+      "reason": "안식 뒤에도 아말렉의 이름을 천하에서 도말하라는 복수 명령이다. A011의 지나간 방해에 매달릴지 고민에 사람 제거를 답으로 줄 수 없다.",
+      "contextNote": "아말렉에 대한 기억과 철저한 제거를 명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:26:1",
+      "textSha256": "5f51901151eb1561321d71a268fb4e56bbe11910ca66aa07d09e17ad33d5bca2",
+      "status": "hold",
+      "reason": "A020의 기회 있는 새 도시 정착과 닿지만 들어가 거할 때에라는 조건뿐이라 떠날지 선택에 독립 실마리는 약하다.",
+      "contextNote": "첫 소산 예물 규례를 정착 이후의 일로 도입한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:26:2",
+      "textSha256": "19227ecfcbda205501626720f0ac8c4fe8efd9c6b598aad1be45cc833fa55fcf",
+      "status": "hold",
+      "reason": "H059에서 받은 일부를 가져오는 행동은 보이나 첫 소산을 광주리에 담아 성소로 가는 절차여서 실제 도움과 아끼기의 선택은 간접적이다.",
+      "contextNote": "첫 수확물을 성소로 가져가는 준비를 정한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:26:3",
+      "textSha256": "f2f875812f8560a0097c5fc2b368f1cfd27b08b96905da84e5eb2fbcdb2391ea",
+      "status": "candidate",
+      "reason": "A011에서 지난 방해를 되새길지 지금 실제 도달한 좋은 자리를 볼지에 약속한 땅에 이르렀다고 고백하는 시선이 닿는다. 아직 일어나지 않은 개선을 예언하지 않는다.",
+      "contextNote": "제사장 앞에서 약속한 땅에 실제 이르렀다고 고백하게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A011",
+          "clue": "내가 실제 도달한 새 자리의 좋은 현실을 말로 확인할 수 있다.",
+          "friction": "약속의 땅에 도달한 신앙 고백이다. 다음 기회나 더 좋은 미래 결과를 새로 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:26:4",
+      "textSha256": "51eefe47a02f17b5c44b833c55fb93627bf9c38b1c756a3feb8294c8c33e0acb",
+      "status": "exclude",
+      "reason": "제사장이 광주리를 받아 제단 앞에 놓는 동작이다. A012의 감사 식사 제안에는 사용자의 어떤 선택도 본절에서 읽기 어렵다.",
+      "contextNote": "첫 수확 예물을 제단 앞에 두는 절차이다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:26:5",
+      "textSha256": "67d1081e32ea5da9c740fcdcc1f4fc16d996b13c6d6a02c37ab1de4f41546f93",
+      "status": "hold",
+      "reason": "H041에서 작은 시작도 의미 있다는 위로는 가능하나 소수 조상이 큰 민족으로 번성한 역사여서 현재 역할의 역량이나 미래 성장을 보장할 수 없다.",
+      "contextNote": "유리하던 조상과 애굽 이주·민족 성장을 고백하게 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:26:6",
+      "textSha256": "755bd344c93a2129ed2c04e8d0ff1c2ce6208e4855d4144edbbf43fc3430a520",
+      "status": "hold",
+      "reason": "H044의 과로와 무거운 일이 닿지만 애굽의 학대에 관한 사건 설명만 있고 추가 부탁을 맡을지 경계를 어떻게 둘지의 실마리는 없다.",
+      "contextNote": "애굽에서 겪은 압제와 중노동을 고백한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:26:7",
+      "textSha256": "59de159cfb3edbab4ef8e7029c0a0fff83c2fb9842c87585214f1a1e45084326",
+      "status": "candidate",
+      "reason": "H058에서 힘든데 혼자 버틸지에 고통 속에서 부르짖고 도움을 구하는 방향이 닿는다. 하나님께 한 호소이며 실제 동료 도움의 수락이나 해결을 약속하지 않는다.",
+      "contextNote": "고통의 호소를 하나님이 들으신 일을 고백한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "고통을 혼자 감추기보다 도움을 구해 말할 수 있다.",
+          "friction": "애굽 압제 속 하나님께 한 호소다. 현재 동료가 도움을 줄 수 있거나 반드시 응한다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:26:8",
+      "textSha256": "82d93558b7639dc4833a8cb34bbade598635c63417561ca56a8c8a6ff7e84696",
+      "status": "candidate",
+      "reason": "A011에서 실제 벗어난 해로운 옛 자리에 매달릴지에 인도하여 내신 과거를 보는 실마리가 있다. 이적 구원 전체를 다음 직장 성과나 방해자 보복의 보증으로 쓰지 않는다.",
+      "contextNote": "강한 손과 이적으로 출애굽시키신 구원을 고백한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A011",
+          "clue": "이미 해로운 곳에서 벗어난 일을 붙들며 현재를 볼 수 있다.",
+          "friction": "이적과 기사를 통한 출애굽이다. 실제 좋아진 새 팀이라는 A011 조건에 한정하며 미래의 구원을 확정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:26:9",
+      "textSha256": "e7975edcf60157937b504783d14413e5effa8fed68f63acff56998e2cdcc7dc7",
+      "status": "candidate",
+      "reason": "A011에서 이미 새 팀의 좋은 환경을 얻은 현실에 지금 받은 땅을 바라보는 시선이 맞는다. 누구나 이직하면 젖과 꿀 같은 결과를 얻는다는 뜻은 아니다.",
+      "contextNote": "하나님이 좋은 땅으로 이끄셨다고 고백한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A011",
+          "clue": "과거의 방해보다 지금 실제 얻은 좋은 자리를 바라볼 수 있다.",
+          "friction": "가나안의 좋은 땅 고백이며 모든 직장 이동에 풍요를 예고하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:26:10",
+      "textSha256": "acb6939bc4ca0f4e91561cbea2d912dacf4e3c4fc64ac123844f49250fbe8df1",
+      "status": "candidate",
+      "reason": "A012에서 도움에 말로만 감사하고 끝낼지에 받은 소산의 일부를 가져와 감사하는 행동이 닿는다. 하나님께 첫 소산을 드리는 예배와 친구에게 식사 대접은 다르다.",
+      "contextNote": "받은 수확의 첫 것을 가져와 하나님 앞에 두고 경배하게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A012",
+          "clue": "받은 도움을 기억하며 일부를 실제 감사의 표현으로 드릴 수 있다.",
+          "friction": "하나님께 드리는 첫 수확 예배다. 친구가 대접을 요구하거나 고가의 보답을 해야 한다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:26:11",
+      "textSha256": "56e2608691f2751058824414511ad1fcaaa1d751ea6357e0e819726f1ce75c3f",
+      "status": "candidate",
+      "reason": "G01에서 이미 감당할 형편의 즐거움에 죄책감을 느낄지에 주신 복을 함께 즐거워하라는 허용이 닿는다. 레위인과 객을 포함한 공동체 예배의 기쁨이며 무제한 소비가 아니다.",
+      "contextNote": "하나님이 주신 복을 가족·레위인·객과 함께 기뻐하게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G01",
+          "clue": "이미 받은 형편 안의 기쁨을 즐거워해도 된다는 여지를 읽을 수 있다.",
+          "friction": "공동체와 함께하는 수확 예배다. 생활비 부족이나 무제한 지출을 지워 버리지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:26:12",
+      "textSha256": "d73c57eb84cd9c9bc29708a8e5402aa898a02383427b1006f520cc6476618b20",
+      "status": "candidate",
+      "reason": "H059에서 여유 일부를 남길지 도움에 쓸지에 내 소산 일부를 나누어 타인이 배부르게 하는 구체 행동이 닿는다. 삼년 십일조를 현대의 강제 비율로 삼지 않는다.",
+      "contextNote": "삼년째 십일조를 취약한 이들에게 먹도록 주게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H059",
+          "clue": "내가 가진 일부가 다른 이의 필요를 채우는 쪽으로 옮겨 갈 수 있다.",
+          "friction": "삼년 십일조의 정해진 구제 규정이며 현재 나눌 양이나 대상의 정확한 사정을 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:26:13",
+      "textSha256": "07a6fe95b66f4848041b300225132b2f21db3bd75e9d8aaa8565fe9c0e1df1fe",
+      "status": "candidate",
+      "reason": "H059에서 나눌 마음만 두고 계속 아껴 둘지에 집 안에 있던 몫을 실제 밖으로 내어 주었다는 실행의 실마리가 있다. 명령을 모두 지켰다는 고백을 사용자의 도덕 점수로 만들지 않는다.",
+      "contextNote": "성물을 약자에게 내어 준 이행을 하나님 앞에 고백하게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H059",
+          "clue": "집 안에 남겨 두기만 하던 몫을 실제로 내어 주는 실행을 생각할 수 있다.",
+          "friction": "율법을 이행한 고백이다. 사용자가 아직 주지 않았다고 죄인을 확정하거나 특정 비율을 강요하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:26:14",
+      "textSha256": "1cd0b124b0bc498af3fee5e2c235db80de7b88bc44ac314499be06288af3713f",
+      "status": "hold",
+      "reason": "G09에서 이미 다른 목적에 둔 몫을 함부로 쓰지 않는 단서는 있으나 애곡·부정·사자에 관한 성물 규례의 긴 고백을 거래 약속에 옮기기에는 풀이가 많이 필요하다.",
+      "contextNote": "성물을 부정하거나 다른 용도로 쓰지 않았음을 고백한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:26:15",
+      "textSha256": "962611613fe61704cf483f18f02a3fea01b01cf218ff7a67fcbf8955f5371c83",
+      "status": "hold",
+      "reason": "H040에서 다른 이들을 위해 복을 구한다는 관점은 있으나 백성과 약속의 땅 전체를 향한 기도여서 친구의 성공을 축하할지에 충분한 한 절인지는 불확실하다.",
+      "contextNote": "하늘에서 백성과 땅에 복을 내려 달라는 공동체 기도를 정한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:26:16",
+      "textSha256": "5dd1f9bb0d0ee8337adf038e6f7891a67eeb3674ab1ae9f9df8330b7a16b6fbd",
+      "status": "candidate",
+      "reason": "H048에서 맞는 지적을 듣고도 자기 방식만 고집할지에 마음을 다해 지켜 행하라는 실천 방향이 닿는다. 하나님의 율례를 동료의 모든 말과 동일시하지 않는다.",
+      "contextNote": "오늘 주어진 규례를 온 마음으로 실행하게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "맞는 기준을 알았다면 마음을 다해 실제로 고치는 쪽을 생각할 수 있다.",
+          "friction": "언약 규례 준수이며 동료 말 자체가 신의 명령이라는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:26:17",
+      "textSha256": "d77f43b8d4da0404c8eb1de3be3504c8428bef05be756aab29b08650601c337d",
+      "status": "candidate",
+      "reason": "A036에서 친구의 점 제안을 따를지에 내가 하나님을 인정하고 듣기로 한 신앙의 기준을 되짚는 실마리가 있다. 공동체의 확언을 사용자가 따로 서원했다고 확정하지 않는다.",
+      "contextNote": "하나님을 인정하고 그 길을 따르겠다는 백성의 언약을 확인한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A036",
+          "clue": "주변의 분위기와 별개로 내가 인정하는 신앙의 기준을 되짚을 수 있다.",
+          "friction": "백성의 언약 확언이다. 사용자가 실제 별도 서원을 했거나 친구를 저주해야 한다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:26:18",
+      "textSha256": "9cf98a2e8bc0940ce1baea790ac7de0b6b9dbeda6e9b13daf8882f774864ec5b",
+      "status": "hold",
+      "reason": "H041의 스스로 작게 보이는 마음에 보배로운 백성이라는 위로는 있지만 새 역할을 수락할지의 구체 단서는 약하다.",
+      "contextNote": "하나님이 백성을 자기 백성으로 인정하신 언약을 확인한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:26:19",
+      "textSha256": "924eb21b3a18874f59f89c392a44c323732f1f5a94989a81a7dc98648d435d8a",
+      "status": "hold",
+      "reason": "H041에 명예와 존귀의 격려는 있으나 민족 위에 뛰어나게 하신다는 약속을 현재 역할의 능력이나 선발 결과로 가져올 수 없다.",
+      "contextNote": "언약 백성의 거룩함과 민족적 존귀를 약속한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:27:1",
+      "textSha256": "55e38cde4a3987932f314e3e7ee082cfea0212915885c6b5a391f72f110ef7b9",
+      "status": "hold",
+      "reason": "H048에서 확인된 기준을 따르라는 연결은 가능하나 이 명령의 내용이 없어 원문만으로 실제 오류를 어떻게 고칠지에 충분하지 않다.",
+      "contextNote": "모세와 장로들이 백성에게 명령 준수를 총괄 요구한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:27:2",
+      "textSha256": "ec2ee838e9c81616eaf92aea648b5ce2a44b568fdc33d9674147559873176833",
+      "status": "exclude",
+      "reason": "새 땅에 들어가는 날 돌을 세우고 석회를 바르라는 기념 준비다. A020의 이주 두려움에 선택을 도울 기준보다 별도 의례 작업만 남는다.",
+      "contextNote": "요단 도하 뒤 율법 기록용 돌을 준비하게 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:27:3",
+      "textSha256": "008f9e5ab0663f30f9376581752a8660a0e775d2251aa91cffb95080b79618f4",
+      "status": "hold",
+      "reason": "H048에서 기준을 적어 두는 실마리는 있으나 도하·율법 돌 기록·젖과 꿀의 약속이 길다. 실제 지적을 인정할지와의 충분한 연결은 불확실하다.",
+      "contextNote": "돌에 율법 전체를 기록하며 약속의 땅 진입을 기억하게 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:27:4",
+      "textSha256": "b8418f8cac9e83580fc297d8b87b32e766346a0749b162c7d9539c9d03d81faf",
+      "status": "exclude",
+      "reason": "에발산에 돌을 세워 석회를 바르는 장소 지시이다. A009의 실제 분담에 적용할 역할이나 자격 기준은 없다.",
+      "contextNote": "율법 돌의 설치 장소를 에발산으로 지정한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:27:5",
+      "textSha256": "81bc4eff2cda0f13f7868bdda053d2fdc04fe26a201057aeaa4d93c48901bf30",
+      "status": "hold",
+      "reason": "H042에서 더 손대지 않는 절제의 단서는 있으나 철기를 대지 않는 제단 제작 규정으로 미완성 결과물의 공개 준비도와는 다르다.",
+      "contextNote": "돌 제단을 세우되 철기로 가공하지 못하게 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:27:6",
+      "textSha256": "905cc3f11fa8fd1e6bf238c3ec36cf8986478f79b8397300a596f2efea2fcc0a",
+      "status": "candidate",
+      "reason": "H042에서 완벽하게 다듬지 못했다는 이유로 계속 미룰지에 다듬지 않은 돌로도 제단을 쌓고 드리는 실마리가 있다. 제단 재료의 의도적 규정이지 모든 미완성 작업의 적격 보증은 아니다.",
+      "contextNote": "가공하지 않은 돌 제단에 번제를 드리게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H042",
+          "clue": "끝없이 표면을 다듬는 일만이 의미 있는 제출의 조건은 아닐 수 있다.",
+          "friction": "의도적으로 가공하지 않는 제단 규정이다. 작업의 필수 요건이 미충족이어도 모두 공개해도 된다는 보증은 없다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:27:7",
+      "textSha256": "34d4e5368acac3dcd4f9b1812c3ff8caf33b2fa0f933fb5ea60b9be9f9bac7f2",
+      "status": "candidate",
+      "reason": "G04에서 끝낸 일 뒤 공연을 즐길지에 먹으며 하나님 앞에서 즐거워하라는 말이 닿는다. 화목제 예배를 공연 의무나 내일 피로 해소의 보장으로 바꾸지 않는다.",
+      "contextNote": "화목제를 드리고 그 자리에서 기뻐하게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G04",
+          "clue": "하던 일을 마친 뒤의 즐거움을 기쁘게 받아들일 수 있다.",
+          "friction": "화목제 식사와 예배이며 공연 다음 날의 피로는 여전히 남는다. 미완료 마감 G05를 끝낸 것으로 바꾸지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:27:8",
+      "textSha256": "e400a70fe36838bacdd0a0a7c48fe48485ea83c33d851048eef36a831e6d171d",
+      "status": "candidate",
+      "reason": "H052에서 유리하게 꾸민 문구로 평가받을지에 모든 말씀을 명백히 기록하는 기준이 닿는다. 현재 보고서를 율법으로 취급하지 않는다.",
+      "contextNote": "돌 위 율법 기록의 명료함과 전체성을 요구한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "좋게 보이도록 흐리기보다 전체를 명백히 적을 수 있다.",
+          "friction": "돌에 새기는 율법 기록이다. 현재 성과 문구를 신적 말씀과 동일시하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:27:9",
+      "textSha256": "c2b241c28cbe6c8a21a1e49a44084d1dfe1a70dc5a00caf15101e98aee4fa68d",
+      "status": "candidate",
+      "reason": "A035의 상충하는 조언 속 더 묻기만 할지에 잠잠히 듣는 시간이 분명한 실마리가 된다. 하나님의 백성이 된 날의 선포이지 특정 선택의 정답을 계시하는 절은 아니다.",
+      "contextNote": "모세와 제사장들이 언약 백성에게 조용히 들으라고 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A035",
+          "clue": "더 많은 말에 휩쓸리기보다 잠잠히 하나님 앞에서 듣는 시간을 둘 수 있다.",
+          "friction": "언약 공동체에 대한 모세의 발언이다. 멈추면 어느 선택이 정답인지 반드시 들린다는 약속은 없다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:27:10",
+      "textSha256": "7a0eaf9cf62c6fe7babac751c18bc8fe5fdef82779fd18202e9c6b7330767dc4",
+      "status": "hold",
+      "reason": "H048의 맞는 지적을 실행하는 태도는 닿지만 명령과 규례의 내용이 이 절에 없고 하나님께 대한 복종을 동료의 모든 말에 옮기면 과도하다.",
+      "contextNote": "언약 백성이 되었으므로 말씀에 복종하라고 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:27:11",
+      "textSha256": "ca9ada6f2b83c1de1e3408f20468d8015870c6e044b213be5c45c2e2b947cf1f",
+      "status": "exclude",
+      "reason": "당일 모세가 명하여 가로되라는 발화 도입뿐이다. H051에서 누군가에게 묻는 선택을 도울 발언 내용이 없다.",
+      "contextNote": "축복과 저주 의식에 대한 모세의 지시를 연다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:27:12",
+      "textSha256": "dda700b094e38caa1762fc585008637611460ddd947742d2edd2c8fe6d846f08",
+      "status": "exclude",
+      "reason": "여섯 지파가 그리심산에 서서 축복할 위치 배정이다. A009의 업무 분담에는 이 지파 구성과 축복 의식의 배경이 필요하다.",
+      "contextNote": "축복을 선포할 지파와 장소를 정한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:27:13",
+      "textSha256": "99473d33c6e05a2beed7a84ed3179adfca486fa15443fc92a4557a433319aef6",
+      "status": "exclude",
+      "reason": "여섯 지파를 에발산의 저주 선포에 배치한다. A029의 역할별 장비 수량을 배정할 필요 기준은 이 명단에 없다.",
+      "contextNote": "저주를 선포할 지파와 장소를 정한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:27:14",
+      "textSha256": "a621b5cfa9c907df83dc3ac6ca58b2a4a78682251cce57865fed088b56512151",
+      "status": "exclude",
+      "reason": "레위인이 큰 소리로 말하여 이르기를에서 끝난다. H026의 갈등 전달에 무엇을 어떻게 말할지 독립 내용이 없다.",
+      "contextNote": "공동체 응답을 받을 저주 선포의 도입이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:27:15",
+      "textSha256": "92c23f7298c85b9dc74688292454d5cc79af09f192e6de0a84d1d4882f180289",
+      "status": "hold",
+      "reason": "A036에서 신앙에 맞지 않는 행위를 피하는 단서는 있으나 숨겨 세우는 조각·주조 우상과 저주·아멘의 의식이 중심이다. 점 권유를 우상 제작으로 단정할 수 없다.",
+      "contextNote": "은밀한 우상 제작·설치에 공동체가 저주를 확인하게 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:27:16",
+      "textSha256": "dcb4cd7acf973c859da9ed097b43d58ccf89a97833212309a0aa5468add73c04",
+      "status": "hold",
+      "reason": "H010에서 부모를 가벼이 여기지 않는 기준은 있으나 팝업을 택하는 일이 곧 부모 경홀이라는 정보는 없다. 저주의 문장이 선택 죄책감을 강제로 만들 수 있어 보류한다.",
+      "contextNote": "부모를 업신여기는 행위에 저주를 선포한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:27:17",
+      "textSha256": "749711bd9865412323c7f89761178c3bd9f5b12532ea5f49839b4aef28020847",
+      "status": "candidate",
+      "reason": "H029의 반복된 경계 침해에 이미 있는 지계표를 임의로 옮기지 말라는 규범이 닿는다. 저주와 아멘을 현재 친구에게 내리는 신적 판결로 설명하지 않는다.",
+      "contextNote": "이웃 땅의 경계표 이동에 저주를 선포한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H029",
+          "clue": "이미 정한 경계를 상대 편의대로 옮기는 일을 당연하게 받아들이지 않을 수 있다.",
+          "friction": "토지 경계표와 공동체 저주 의식이다. 친구에게 저주가 임한다는 서비스 해설을 붙이지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:27:18",
+      "textSha256": "1a5524676bf0e211d226ead2043ad2eb1c61d7fef5c5a1052f765277029a5047",
+      "status": "candidate",
+      "reason": "A025에서 장애를 이용해 웃음에 참여할지에 보지 못하는 이가 길 잃게 만드는 일을 금하는 기준이 닿는다. 청각장애 놀림과 실제 시각장애 기만의 차이와 저주 표현을 남긴다.",
+      "contextNote": "시각장애인을 길 잃게 하는 행위에 저주를 선포한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A025",
+          "clue": "다른 이의 장애를 웃음과 기만의 도구로 삼는 데 참여하지 않을 수 있다.",
+          "friction": "시각장애인의 길을 속이는 행위와 저주를 말한다. 청각장애인에게 실제 길 안내 사건이 있었다고 가정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:27:19",
+      "textSha256": "22c8cab62633c8b62946d2e2688b68a5cc5ffbef3fd03fd798c971c533758027",
+      "status": "candidate",
+      "reason": "A028에서 불리한 처지를 이용할지에 힘 없는 이가 억울해지게 하지 않는 기준이 닿는다. 재판과 저주 문맥을 현대 노동 조건이나 사용자의 신적 형벌로 확정하지 않는다.",
+      "contextNote": "객·고아·과부의 송사를 왜곡하는 행위에 저주를 선포한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A028",
+          "clue": "상대의 약한 지위를 이유로 억울한 부담을 더하지 않는 선을 생각할 수 있다.",
+          "friction": "약자의 송사 왜곡과 저주이다. 현재 일꾼의 신분·법적 판단이나 사용자의 형벌을 단정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:27:20",
+      "textSha256": "dbd7aa8ec6582d8be46e310138155d962dd6ae3dbfae6261bd215d5d415f39d9",
+      "status": "exclude",
+      "reason": "계모와 성관계를 맺는 특정 근친 행위의 저주이다. A023의 기혼 지인과 관계 경계에 계모라는 조건을 추가할 수 없다.",
+      "contextNote": "계모와의 성관계를 저주 목록에 둔다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:27:21",
+      "textSha256": "4c4f92e31f0e7c114de5230a3e419ca0677ce2d74072b0a94c90c407d3fb181e",
+      "status": "exclude",
+      "reason": "짐승과의 교합에 대한 저주이다. A023의 사람 사이 혼인 경계나 H032의 고백 선택과는 행위와 부담이 다르다.",
+      "contextNote": "수간을 저주 목록에 둔다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:27:22",
+      "textSha256": "612d87d4b5128c5ce0f84a32a8219fc09b7f1fb08a54dabb6cbc222edf53b75b",
+      "status": "exclude",
+      "reason": "친자매·이복자매와의 성관계에 대한 저주이다. A023의 지인을 친족으로 바꾸지 않으면 해당되지 않는다.",
+      "contextNote": "자매와의 성관계를 저주 목록에 둔다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:27:23",
+      "textSha256": "9eb3125a1e35b7899720d9763696394970a5b22f52c84d683b7fe5cf6e630451",
+      "status": "exclude",
+      "reason": "장모와의 성관계를 저주한다. A023의 기혼 지인이 장모라는 조건은 없으며 같은 성 관련 단어만으로 충분함이 생기지 않는다.",
+      "contextNote": "장모와의 성관계를 저주 목록에 둔다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:27:24",
+      "textSha256": "705faf5f2c6134b6834d07266f7f3995d6f6c7123170983d143f3a8c482ecac7",
+      "status": "hold",
+      "reason": "A007에서 사람을 해치지 않는 기준은 있으나 암살을 규정한다. 현장 말싸움에 살해 의도나 비밀 살인이 있다고 추가할 수 없어 충분한 연결은 약하다.",
+      "contextNote": "이웃 암살에 저주를 선포한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:27:25",
+      "textSha256": "a0927538ea06e190db920697d36b579caf12a062d0730e5777c64c884cf83258",
+      "status": "hold",
+      "reason": "A016에서 부당한 편들기를 경계할 수는 있으나 무죄자를 죽일 뇌물 수수가 전제다. 친구의 목격 요청에 돈이나 살해 목적이 있다고 채울 수 없다.",
+      "contextNote": "무죄자 살해의 뇌물 수수에 저주를 선포한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:27:26",
+      "textSha256": "631b8014647e6751f12f7f0bad4a7e58d5ef75e9ff3e6ea308f33e34245b4bce",
+      "status": "hold",
+      "reason": "H048에서 아는 기준을 실제 행하라는 경계는 있지만 모든 율법 미실행의 저주가 중심이다. 한 오류의 수정을 현재 사용자 전체에 내리는 저주로 바꾸기 쉽다.",
+      "contextNote": "율법 전체의 실행에 대한 공동체의 동의를 마무리한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:1",
+      "textSha256": "02d60ec65e3a2e27b2c88484774155b4844b441815a39381178c0cbbbf335002",
+      "status": "hold",
+      "reason": "H041에서 하나님을 따라 역할에 나설 용기는 가능하나 민족적 우위의 조건부 약속이지 실제 역량·선발을 분별할 단서는 아니다. 좋은 직무 결과의 보장으로 읽지 않는다.",
+      "contextNote": "말씀 순종에 따른 언약 축복을 도입한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:2",
+      "textSha256": "3fd9ba4eb6f519c877593e782c83b2d2ac8caaba3115a47f3398d51a54ccb5f8",
+      "status": "hold",
+      "reason": "H052에서 정직한 기준을 따르는 길의 의미는 생각할 수 있으나 이 모든 복의 내용이 빠져 실제 과장할지 선택에 독립 실마리가 약하다.",
+      "contextNote": "앞의 순종 조건에 뒤따를 언약 축복을 총괄한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:3",
+      "textSha256": "d8e076c490329a32ee5c012f3fbedc47ed13df57a4c52d7a9843181f0ccd5e5a",
+      "status": "candidate",
+      "reason": "A020의 새 도시 기회 앞에서 익숙한 곳을 떠날지에 성읍과 들 어느 곳도 하나님 복의 공간일 수 있다는 시선이 닿는다. 특정 이주 결과의 성공을 확정하지 않는다.",
+      "contextNote": "정착 공동체의 생활 공간 전반에 복을 선포한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A020",
+          "clue": "하나님과 함께하는 삶의 가능성을 익숙한 한 장소에만 묶지 않을 수 있다.",
+          "friction": "언약 백성의 성읍과 들에 대한 복이며 도시 이동의 성과·적응·비용 결과를 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:28:4",
+      "textSha256": "da2e8ff4a5aa2510e15db1eb611db3cac80ca9e24912c1d43b2ce9784fd5c4c6",
+      "status": "hold",
+      "reason": "G02에 필요한 자원이 주어진다는 위로는 가능하나 자녀·소산·가축의 번성 약속으로 현재 부족한 생활비를 새로 있다고 할 수 없다.",
+      "contextNote": "가족과 경작·축산의 번성에 복을 선포한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:5",
+      "textSha256": "e44c9d542ed4c29b05cb51a240ebb72e67a0271b13dd2ce770bc0e22b81ad378",
+      "status": "hold",
+      "reason": "H059에서 가진 것을 나눌 마음에 그릇의 복을 읽을 수 있으나 지금 어떤 선택을 할 단서는 없이 가정의 식량 복만 선언한다.",
+      "contextNote": "수확·식생활을 담는 그릇에 복을 선포한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:6",
+      "textSha256": "c29edfca4fd4c017e02603b029abd7bc990c4ea653c3f170152f3f053cb5bac1",
+      "status": "candidate",
+      "reason": "A020에서 떠나면 익숙한 곳의 보호를 잃을까 하는 두려움에 들어옴과 나감 모두의 복을 읽을 수 있다. 새 도시의 적응·비용·성과를 보장하는 말로 만들지 않는다.",
+      "contextNote": "일상 출입 전체에 언약의 복을 선포한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "A020",
+          "clue": "떠나고 들어가는 움직임도 믿음 안에서 생각할 수 있다.",
+          "friction": "언약 축복의 출입 표현이다. 새 기회가 이미 있는 A020에 연결하며 미확인 다음 기회나 성공을 만들지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:28:7",
+      "textSha256": "73b1c3f602a77e49f58ed385dd85f0f23e5105f7401ba619febd664634946734",
+      "status": "hold",
+      "reason": "G15에 두려움보다 신뢰를 택할 힘은 있으나 실제 공격하는 대적의 패주가 중심이다. 첫 역할의 어려움을 적군의 공격으로 채울 수 없다.",
+      "contextNote": "공격해 오는 대적의 패배와 흩어짐을 축복으로 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:8",
+      "textSha256": "7cbdbc4a913596bee986ded047ca65aa70b0137d7f51346b776838b3bea6990c",
+      "status": "candidate",
+      "reason": "G15에서 맡고 싶은 역할의 일을 해 볼지에 손으로 하는 일을 하나님 앞에 두는 신앙적 용기가 닿는다. 창고와 모든 일의 복을 능력 검증이나 성공 확정으로 해설하지 않는다.",
+      "contextNote": "창고와 노동 전반에 내릴 언약의 복을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G15",
+          "clue": "해 보고 싶은 일을 하나님 앞에 두고 용기를 낼 수 있다.",
+          "friction": "창고와 땅·노동 전반의 축복이다. 사용자의 능력이나 결과가 검증되었다는 의미는 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:28:9",
+      "textSha256": "da80290a7f62308e4a3bf4052c0aae838f3674e3cab7b7d179d5ff68be53e125",
+      "status": "hold",
+      "reason": "A036의 하나님을 따르는 선택과 닿지만 성민으로 세우신다는 정체성과 순종의 일반 조건이 중심이라 점 참여에 대한 구체 실마리는 약하다.",
+      "contextNote": "하나님의 길을 따르는 백성의 거룩한 정체성을 확인한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:10",
+      "textSha256": "fbe604889365a4a098d05a306998427a011fc10d906a4cbaa2033390cc003c8c",
+      "status": "exclude",
+      "reason": "다른 민족들이 이름을 보고 두려워한다는 지위의 결과다. H041의 역할 두려움에 남을 겁주거나 우위를 확보하는 일이 실제 선택 부담은 아니다.",
+      "contextNote": "언약 백성을 세계가 두려워할 것을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:11",
+      "textSha256": "bb12e48f20ed73b54d423e7ab652703c50dc66462905d60781262c7cbdb68199",
+      "status": "hold",
+      "reason": "H047의 수입 감소 두려움에 번성의 위로는 가능하나 토지와 자녀·가축 증가를 현재 이직 수입으로 보증할 수 없어 충분한 연결은 보류한다.",
+      "contextNote": "약속의 땅에서 가족과 생산물 증가를 약속한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:12",
+      "textSha256": "ae77711ac4e3d36eca853fa447e3b66b5df7c87ffd6fcd421f31aaecfd8b50ad",
+      "status": "hold",
+      "reason": "G07에 때에 따른 비가 기다림의 단서는 되나 모든 일의 복과 많은 민족에게 꾸어주고 빌리지 않는 결과까지 길게 붙는다. 매각 기한·가격 성공을 채울 수 없다.",
+      "contextNote": "계절의 비와 생산의 복·대외 경제적 자립을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:13",
+      "textSha256": "a6315792a2cffd13c3c67a8f7dae7eaac0e0ce73918d9050321c0bc5176abb4e",
+      "status": "candidate",
+      "reason": "H041에서 남보다 못할까 역할을 피할지에 머리가 될 수 있다는 신앙적 용기가 닿는다. 민족적 우위와 계명 준수 조건을 현재 선발이나 직급 상승의 보증으로 만들지 않는다.",
+      "contextNote": "언약 순종 아래 민족적 지도성과 우위를 약속한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "스스로 늘 뒤에만 있어야 한다고 여기는 마음에서 지도할 가능성도 열어 볼 수 있다.",
+          "friction": "민족의 머리와 꼬리 및 율법 순종의 조건이다. 실제 직위·능력·합격을 예언하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:28:14",
+      "textSha256": "532133c678ada3f913b2fab99d4e38bf86d1541ea2f1d6870dd950abfd5aab9a",
+      "status": "candidate",
+      "reason": "A036에서 주변의 점 참여를 따를지에 들은 말씀에서 벗어나 다른 신을 따르지 않는 자기 신앙의 방향이 닿는다. 모든 친구 행동을 타 신 예배로 단정하지 않는다.",
+      "contextNote": "축복의 조건으로 말씀을 떠나 다른 신을 섬기지 않을 것을 마무리한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A036",
+          "clue": "주변을 따라가기보다 자신이 믿는 말씀의 방향을 지킬 수 있다.",
+          "friction": "다른 신 숭배와 언약 복의 조건이다. 친구를 악한 의도나 특정 종교로 분류하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:28:15",
+      "textSha256": "68c01f7a511e8b8d0ca48f563b95090fdf12355e790d9cb2b1bdc903c2bd4a56",
+      "status": "hold",
+      "reason": "H048에 알고도 실행하지 않는 일의 무게는 있으나 모든 불순종에 모든 저주가 온다는 총괄이다. 확인된 한 오류 수정에 어떤 실천을 할지는 본절만으로 약하다.",
+      "contextNote": "순종하지 않을 경우 언약 저주의 목록을 도입한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:16",
+      "textSha256": "65d76a738ec32cddfd7fa4c884ddb342fa55d720f645aa3526101ef11c5d6f50",
+      "status": "exclude",
+      "reason": "성읍과 들 어디서나 저주받는 결과만 있다. A020의 실제 새 도시 기회에 장소 선택의 어느 쪽도 근거 없이 재앙으로 규정할 수 없다.",
+      "contextNote": "생활 공간 전반에 내릴 언약 저주를 말한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:17",
+      "textSha256": "b3feac188868e6cff66da62175fb85d9ea97ed6bae3ccc14b74a3b5d401cba41",
+      "status": "exclude",
+      "reason": "광주리와 떡반죽 그릇의 저주이다. G02의 생활비 부족을 신적 벌로 판정하거나 구매하면 식량이 저주받는다고 채울 수 없다.",
+      "contextNote": "가정 식생활과 수확 그릇에 저주를 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:18",
+      "textSha256": "2a58b49dfb6d21b3cb21fa5551dfb329f09abe7590bab183a9304659f71d334c",
+      "status": "exclude",
+      "reason": "자녀·토지 소산·가축 새끼의 저주가 선언된다. H047의 새로운 일 선택에 자녀나 생산 전체의 재앙을 입력 없이 추가할 수 없다.",
+      "contextNote": "가족과 경작·축산의 번성 상실을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:19",
+      "textSha256": "eeb854896d1cb02e7e098e64bb7c036b9094d00e04f42d50960149f87de66f14",
+      "status": "exclude",
+      "reason": "어느 출입에도 저주라는 선언이다. H061의 각 선택이 불안한 상황에 모든 선택이 실패한다는 사실로 붙이면 근거 없는 파국만 남는다.",
+      "contextNote": "일상 출입 전반의 저주를 말한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:20",
+      "textSha256": "191d503aeb5b6130d2a706a4fcfc9be72ec014af591048d60d13500650d83498",
+      "status": "hold",
+      "reason": "H052에 부정한 방식의 결과를 생각하는 경고는 있으나 하나님을 잊은 악행과 모든 일의 파멸이 전제다. 아직 과장을 고민하는 사용자의 전면 파멸로 읽지 않도록 보류한다.",
+      "contextNote": "하나님을 잊은 악행에 따른 저주와 급속한 파멸을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:21",
+      "textSha256": "83154f2f75041e1300a0595a75a7a4f8e8c5f658252e25cd1cd3f5a15eafb56e",
+      "status": "exclude",
+      "reason": "염병으로 몸과 정착지가 멸하는 예고다. H056의 검사 결과 대기에 실제 감염이나 멸망의 원인을 알려 주는 절이 아니다.",
+      "contextNote": "전염병으로 땅에서 소멸하는 저주를 말한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:22",
+      "textSha256": "b092acf20f63a43b06997fdc97aadf106b252581e2fc501ea7afbb60d640a8bc",
+      "status": "exclude",
+      "reason": "여러 질병과 한재·풍재로 진멸한다는 내용이다. H014의 진행 중 치료에 병의 원인·예후를 이 목록으로 새로 정할 수 없다.",
+      "contextNote": "몸의 병과 농업 재난을 통한 파멸을 열거한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:23",
+      "textSha256": "5caffc63a5b8e33816dd489b3cfb87a952c1106545b32c3e55c263768acefd9b",
+      "status": "exclude",
+      "reason": "하늘은 놋, 땅은 철이 되는 가뭄의 비유이다. H043의 반복 실패를 하나님이 땅을 막았다는 사실로 대입할 수 없고 행동 대안도 없다.",
+      "contextNote": "비와 생산을 막는 극한 가뭄을 표현한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:24",
+      "textSha256": "98f3f6d69d798aee40ce68e531fc4620713ce6d6d76c8826022afdee84859952",
+      "status": "exclude",
+      "reason": "티끌과 모래가 비 대신 내려 멸하는 저주다. H013의 여행 걱정에 실제 날씨나 피해야 할 일정으로 적용할 근거가 없다.",
+      "contextNote": "파괴적 가뭄과 흙먼지의 재앙을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:25",
+      "textSha256": "4dd05b66f44a2d27d304100b626d44b2f996e84eb01a5155cb32fb4ba02b4c83",
+      "status": "exclude",
+      "reason": "전쟁 패배와 세계 흩어짐이 예고된다. H041에서 역량이 두려운 새 역할을 실제 패전이나 추방의 운명으로 바꿀 수 없다.",
+      "contextNote": "전쟁 승리 축복과 반대되는 패배·흩어짐을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:26",
+      "textSha256": "cf90befa9e79963d0b8e155f20973fa29d442a522f199e0328b1cb13efa5a743",
+      "status": "exclude",
+      "reason": "시체가 새와 짐승의 먹이가 되고 막을 이도 없다는 결과다. H056의 불확실한 결과에 죽음과 방치를 확정하는 자료가 아니다.",
+      "contextNote": "패배자의 시신이 매장되지 못하는 수치를 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:27",
+      "textSha256": "1137f81ca5b54253331f5eec0e702b37aa6d49e0624e09588d8f6c8fc0ea5a7f",
+      "status": "exclude",
+      "reason": "치료 못할 피부·신체 질환을 신적 타격으로 선언한다. H014의 치료를 그만둘지와 별개로 불치 예후나 벌을 만들어서는 연결이 성립하지 않는다.",
+      "contextNote": "치료 불가능한 병들의 재앙을 열거한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:28",
+      "textSha256": "c818338255dc6336d36ff922fbc991cb344f02fa179a128f56bdb8fbe2f19f76",
+      "status": "exclude",
+      "reason": "미침·눈멂·경심증의 타격만 있다. H063의 이유 모를 마음을 정신질환이나 하나님의 저주로 진단할 수 없다.",
+      "contextNote": "정신과 감각의 상실을 저주로 말한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:29",
+      "textSha256": "cde14b5f94695cc6cd3d1d58052d144bd60939b279ca4429eeb0603fd5b81a2b",
+      "status": "exclude",
+      "reason": "길이 막히고 약탈·압제를 받아도 구원할 사람이 없다는 선언이다. H058의 도움 요청을 아무도 돕지 않는다고 미리 결론낼 수 없다.",
+      "contextNote": "혼란과 압제·무구원의 결과를 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:30",
+      "textSha256": "baa60afd3e363e29f1496397de5551e2eb6150aac6acd96ad25d477b339e6a7f",
+      "status": "exclude",
+      "reason": "약혼녀·지은 집·포도원을 타인이 누리는 상실의 예고다. H053의 지루한 과업에 실제 이런 빼앗김을 가정해 완수를 재촉할 수 없다.",
+      "contextNote": "가정과 노동의 열매를 누리지 못하는 재앙을 열거한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:31",
+      "textSha256": "b5aa34c3dae8cffcb30abd09d199a67d44c8e28b42d0e25ecf2bd8f53adf6a78",
+      "status": "exclude",
+      "reason": "소·나귀·양을 눈앞에서 빼앗기고 도움이 없다는 결과다. G08의 현금 기한과 매각 선택은 적군 약탈이나 회수 불능이 전제된 상황이 아니다.",
+      "contextNote": "가축과 노동 기반을 적에게 잃는 저주를 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:32",
+      "textSha256": "739de2d9edc70e1d0e95a74c3313187e3ff3c4d3e67cb81d875fd571cd1e3113",
+      "status": "exclude",
+      "reason": "H058의 혼자 버티기와 도움 요청에 자녀 피랍과 손의 무능을 적용할 수 없다. 현재 도울 사람이 전혀 없다는 정보도 이 절이 만들 수 없다.",
+      "contextNote": "자녀를 다른 민족에게 빼앗기고 찾을 힘도 없는 상실을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:33",
+      "textSha256": "f208058f78f65339542b722d4bf58c24e0e149e55f7d5d9f865227c66183fd77",
+      "status": "exclude",
+      "reason": "A021의 공동 노동 보상을 나눌지에 수고를 모르는 민족이 빼앗고 계속 학대한다는 결과는 맞지 않는다. 같은 수고 단어가 정당한 몫을 정하지 않는다.",
+      "contextNote": "노동의 열매를 외부 민족에게 빼앗기고 압제받는 재앙이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:34",
+      "textSha256": "2374b2acfdaffe1f9a443d00b9303aa54b66c353abee9a21fc77785f5edceff5",
+      "status": "exclude",
+      "reason": "H063의 막연한 마음에 미침을 예고할 수 없다. 보이는 일도 앞의 피랍·약탈을 가리켜 현재 일상의 상태와는 다르다.",
+      "contextNote": "앞선 재앙을 목격하며 정신이 무너질 결과를 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:35",
+      "textSha256": "ab74da66b634a3167529791dd0792d71bb6652c2515d9cc23865f4badcba1fc4",
+      "status": "exclude",
+      "reason": "H014의 치료 중 불확실함에 무릎부터 온몸의 고치지 못할 종기를 예후로 붙일 수 없다. 현재 질병 부위나 원인도 주어지지 않았다.",
+      "contextNote": "온몸의 치료 불가한 종기를 재앙으로 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:36",
+      "textSha256": "0d6bec388a0a51ef0897a7f4faa4c351f07edd77a05b1bd1449b7824c2ec9756",
+      "status": "exclude",
+      "reason": "A020의 준비 가능한 새 도시 이동은 임금과 함께 강제로 끌려가 우상을 섬기는 유배가 아니다. 원문 결과를 이주 위험 사실로 바꿀 수 없다.",
+      "contextNote": "왕과 백성이 알지 못하는 나라로 유배되어 다른 신을 섬길 것을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:37",
+      "textSha256": "30b659d796df176296213eeaff58993ecef61f56d8b8a999574849b6e47a9b0b",
+      "status": "exclude",
+      "reason": "H017의 혼자 행사에 가기 어색한 마음에 모든 민족의 비방거리라는 미래를 확정할 수 없다. 행사 참석자의 반응은 알려지지 않았다.",
+      "contextNote": "유배지에서 조롱과 비방의 대상이 될 것을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:38",
+      "textSha256": "05bcc37c786c1316af0d6b902c087866334cefddf8c22bfe02c38b855fb8f9e5",
+      "status": "hold",
+      "reason": "H043의 반복 실패에 투입량만 늘려도 결실이 적을 수 있다는 그림은 닿는다. 실제 원인은 메뚜기 피해이며 현재 실패 원인이나 바꿀 방법을 알려 주지 않아 충분함은 보류한다.",
+      "contextNote": "많이 심어도 해충으로 적게 거두는 재앙이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:39",
+      "textSha256": "58ec6b46630536c37fe2495657d7c336fed05acd2431371715f206be5c090eba",
+      "status": "hold",
+      "reason": "H043에서 수고해도 결과가 없는 이유를 살펴볼 수 있으나 벌레 먹은 포도원에 관한 예고다. 현재 방법을 바꿔야 하는지 벌레 같은 방해가 실제 있는지는 알 수 없다.",
+      "contextNote": "가꾼 포도원을 벌레가 먹어 열매를 누리지 못하게 됨을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:40",
+      "textSha256": "1b931b908fde3da22ae1dae3d1262f1f73c679808f4d3420a76f6e15fa51d504",
+      "status": "exclude",
+      "reason": "H006의 멀쩡한 기기를 두고 더 좋은 것을 원함은 이미 열매가 떨어져 기름을 못 쓰는 상황과 다르다. 기존 물건이 못 쓰게 된다고 채울 수 없다.",
+      "contextNote": "감람나무는 있어도 열매를 잃어 기름을 누리지 못하게 된다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:41",
+      "textSha256": "fbe25fe781550b611315cf0f9cecaf96a1366aac44ea7fe04b7517b900187c82",
+      "status": "exclude",
+      "reason": "A002의 부부 독립 선택에 자녀의 포로 생활을 추가할 근거가 없다. 가정 분리라는 말만으로 현재 가족 상황을 이 상실과 같게 볼 수 없다.",
+      "contextNote": "자녀가 포로로 잡혀 함께 있지 못하는 재앙이다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:42",
+      "textSha256": "bea19eb05e2a16a94dd2b9b004c6626724b5c88cec1977940bbc3c307958cca3",
+      "status": "hold",
+      "reason": "A014에서 손상 위험에 미리 대비하는 생각은 가능하나 모든 나무·소산의 메뚜기 피해를 말하며 실제 강풍 장비를 옮기는 방법과는 간격이 크다.",
+      "contextNote": "메뚜기의 전면적인 농작물 피해를 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:43",
+      "textSha256": "15d2b9b1eff3081c759ccb024eb8e05fd97297948cd493e78b99d49a80062e56",
+      "status": "exclude",
+      "reason": "H040의 친구 성공과 비교를 외부인의 상승과 나의 하락이라는 운명으로 확정할 수 없다. 상대를 이방 경쟁자로 만드는 것도 입력에 없다.",
+      "contextNote": "외부인과 백성의 지위가 역전될 것을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:44",
+      "textSha256": "676e867d9ca6d7c7e184864835a8f6df3e47c840b40d0ce78d0d4cf21c2c1e6f",
+      "status": "exclude",
+      "reason": "H038의 친구 대여 고민은 채권·채무 권력이 영구 역전되는 예고와 다르다. 늦은 상환 때문에 내가 꼬리가 된다고 알 수 없다.",
+      "contextNote": "대여 능력과 경제적 지위의 역전을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:45",
+      "textSha256": "947e869807c8ec06069fa9f94bc1eb9dab45d780f7d8e4b60216796c451237ee",
+      "status": "hold",
+      "reason": "H048에서 잘못을 실제 고치는 무게는 읽힐 수 있으나 모든 저주가 따라 멸한다는 결과가 중심이다. 하나의 확인된 누락을 전면 불순종으로 바꿀 수 없다.",
+      "contextNote": "불순종과 저주·멸망의 인과를 다시 밝힌다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:46",
+      "textSha256": "e4c576f9c71a75ddefdd9f9962ea55d8bb6aaff429c4063792dceec0b94f0450",
+      "status": "exclude",
+      "reason": "자손에게도 영원히 저주가 표적으로 남는다는 선언이다. H048의 지적 수용에 후손의 영구적 재앙을 추가해 결정을 강요할 수 없다.",
+      "contextNote": "저주가 후대까지 경계의 표가 될 것을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:47",
+      "textSha256": "da8fbc064a4e3710c15ceb9acc97b188d8a9b4f5f526e02db4869f88380a287a",
+      "status": "hold",
+      "reason": "G01의 감당 가능한 즐거움에 풍족하면서 기쁘게 섬기지 못하는 마음을 비춰볼 수 있다. 그러나 인하여에서 끝나는 심판의 원인절이며 구매·감사의 선택에 충분한 허용인지 불확실하다.",
+      "contextNote": "기쁨 없이 하나님을 섬긴 일을 다음 절의 궁핍한 종살이와 대조한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:48",
+      "textSha256": "113c25c012552b3108778c7afec9f7b0d1108c6829b9f761f7d78120b9d69d6a",
+      "status": "exclude",
+      "reason": "굶주림과 헐벗음 속 대적의 철 멍에로 멸하는 내용이다. H044의 과로를 실제 적군 노예 상태나 앞으로의 굶주림으로 바꿀 수 없다.",
+      "contextNote": "풍족한 섬김 대신 궁핍한 대적 종살이의 저주를 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:49",
+      "textSha256": "74230a3f462dfa02c5604e1b12fbeff6fe746ab8bc73226647fc2d73d71d1108",
+      "status": "exclude",
+      "reason": "알지 못하는 언어의 민족이 독수리처럼 침입하는 예고다. H013의 여행 걱정에 실제 외국인 공격이나 언어 위험이 있다는 근거는 아니다.",
+      "contextNote": "먼 나라 군대의 급속한 침입을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:50",
+      "textSha256": "a24c91c213cbb164b65a2646d3cfc50b7bf4006ec0d46d09d13917ca99067a76",
+      "status": "hold",
+      "reason": "A026에서 노인을 돌보지 않는 모습에 동참하지 않을 기준은 읽힌다. 다만 흉악한 침략 민족의 노인·아이 무자비함이라 피곤한 좌석 양보의 충분한 한 절인지 보류한다.",
+      "contextNote": "침략군이 노인과 어린아이에게도 자비 없음을 묘사한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:51",
+      "textSha256": "c98ad51fa2780aa7137af1262f61acf49423072238ced067e176bdde9ad60640",
+      "status": "exclude",
+      "reason": "침략자가 먹을 것과 가축을 모두 소모해 멸한다는 내용이다. H059에서 조금 나눌지 고민하는 태도를 약탈자의 전면 착취로 등치할 수 없다.",
+      "contextNote": "침략군의 식량·가축 탈취와 파멸을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:52",
+      "textSha256": "95244af0ed84414a7cdf10cdba48cecbff9214440a6c1001d9ce9908f58bd548",
+      "status": "exclude",
+      "reason": "모든 성이 포위되고 믿던 성벽이 무너지는 예고다. H061의 완벽한 선택 찾기에 현재의 안전 기반이 실제 붕괴한다고 추가할 수 없다.",
+      "contextNote": "견고한 성벽까지 무너뜨리는 전국적 포위를 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:53",
+      "textSha256": "430071e3816ef703b7e081152f01e5d9ef654c44c67c52e245079e62961287f0",
+      "status": "exclude",
+      "reason": "포위 기근에서 자녀의 살을 먹는 극단적 참상이다. G02의 생활비 조정과 굶주림·식인을 같게 보아 구매 결정을 몰아갈 수 없다.",
+      "contextNote": "기근으로 인한 자녀 식인의 참상을 예고한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:54",
+      "textSha256": "3ac0b57514d0b391f94816472cea2fd050c4b0ea32d8ac744454f2d38b3e799f",
+      "status": "hold",
+      "reason": "H040에서 질투의 마음을 돌아볼 수 있으나 온순한 남자가 포위 기근 속 가족을 질시하는 조건이다. 친구의 성공 비교와 상황·뒤 문장의 참상이 크게 다르다.",
+      "contextNote": "기근이 가족 사이 극단적 질시를 일으킴을 도입한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:55",
+      "textSha256": "5f23858c027a53cb1baff47b3855460034f51679a53af1e3c68688d727b43043",
+      "status": "exclude",
+      "reason": "먹는 자녀 살을 가족에게도 나누지 않는다는 참상이다. H059의 여유 중 나눔 고민에 남음 없는 포위 기근과 식인으로 죄책감을 줄 수 없다.",
+      "contextNote": "극단적 기근이 가족 간 나눔도 파괴함을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:56",
+      "textSha256": "59c8e550babd1851232df698623d62ef032e74cbc0b1d9a8dd19e76cc6e58910",
+      "status": "hold",
+      "reason": "H031에서 온순한 사람도 관계를 해칠 수 있다는 경계는 가능하나 세밀한 연약함 묘사와 가족 질시에서 문장이 이어진다. 화난 메시지를 멈출 직접 실마리는 약하다.",
+      "contextNote": "연약하고 온순한 여인마저 가족을 질시하는 상황을 도입한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:57",
+      "textSha256": "a08a478054d4ec97c794ac49bacf4f9881142cdb5f12b03b8a013515c0123ddf",
+      "status": "exclude",
+      "reason": "자기의 태와 어린 자식을 몰래 먹는 포위 기근의 참상이다. H055의 회복을 위한 쉼과는 신체·가족 파괴의 내용이 달라 생활 실마리로 받기 어렵다.",
+      "contextNote": "포위 속 여인의 극단적 기근과 식인을 묘사한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:58",
+      "textSha256": "41e9ee7fe925089c2380a1a35e806af78384fd7adf6948c8d5d5c8adf007ef0a",
+      "status": "hold",
+      "reason": "A036에 하나님을 경외하는 기준은 닿지만 모든 율법을 행하지 않을 경우라는 조건에서 끝난다. 점 참여의 실마리보다 뒤의 전면 질병 저주를 필요로 한다.",
+      "contextNote": "말씀과 하나님의 이름을 경외하지 않는 조건을 세운다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:59",
+      "textSha256": "1ddfce41f8103765b7b0bb1940e1a985c590506a834810bdc8a1421bde6f947d",
+      "status": "exclude",
+      "reason": "크고 오래갈 질병과 후손 재앙을 예고한다. H014의 이미 긴 치료를 죄의 결과나 더 악화될 확정 예후로 적용할 수 없다.",
+      "contextNote": "불순종 때 격렬하고 오래 지속될 병과 재앙을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:60",
+      "textSha256": "07a8c4f1483f581c6685349fdfa221203d137d9db2ec8a0477eb05c18824e4a0",
+      "status": "exclude",
+      "reason": "두려워했던 애굽 질병이 몸에 부어진다는 선언이다. H056의 검사 대기 불안이 실제 질병 발생을 예언한다는 사실로 바꿀 수 없다.",
+      "contextNote": "과거 두려운 질병이 다시 닥칠 것을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:61",
+      "textSha256": "f08f66a892c565efd182fa3b4f76e80b085f10306c2a072d5d573f6ce5f8537f",
+      "status": "exclude",
+      "reason": "기록되지 않은 병과 재앙까지 멸망할 때까지 내린다는 내용이다. H014의 치료 계속 여부에 가능한 모든 병과 죽음을 덧씌울 근거가 없다.",
+      "contextNote": "기록 밖 모든 질병까지 포함해 저주의 범위를 넓힌다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:62",
+      "textSha256": "9a6176ca1bafc36062fc55357666827bd964f26f5160e3e9991cfdc691947b05",
+      "status": "exclude",
+      "reason": "H041에서 규모가 작아 불안한 마음에 별처럼 많던 인구의 멸망을 적용할 수 없다. 실제 현재 역할의 실패 원인이나 수락 기준도 제시되지 않는다.",
+      "contextNote": "불순종 뒤 인구가 급감할 것을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:63",
+      "textSha256": "7bb54823b12c8f346d2abf91c8e13e731a4010103c842b158f82e75f891a98d6",
+      "status": "exclude",
+      "reason": "H056의 기다리는 검사에 하나님이 파멸을 기뻐한다는 개인 예고를 줄 수 없다. 현재 뽑힌 말씀이 사용자의 멸망 확정이라는 해설 없이는 선택 실마리가 약하다.",
+      "contextNote": "번성과 반대되는 멸망·땅에서의 추방을 선포한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:64",
+      "textSha256": "0687e759f3a125c0f1da61fc0a1f41c9bc3698a4f1c057353335a0ae00bb702a",
+      "status": "hold",
+      "reason": "A036에서 다른 신을 섬기는 것을 피할 생각은 가능하나 세계로 흩어져 우상을 섬기는 유배의 예고다. 점 권유를 따를지의 자발적 선택과는 다르다.",
+      "contextNote": "온 세상으로 흩어지고 낯선 우상을 섬길 결과를 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:65",
+      "textSha256": "8c9542855321c5886323466f9216df4374f7e0d78bcea9a9fb3fbea117cc96af",
+      "status": "exclude",
+      "reason": "H013의 여행 불안에 외국 어디에도 평안과 쉼이 없다는 사실을 만들 수 없다. 현재 일정의 위험이나 정신 상태가 이 유배 저주로 확인되는 것은 아니다.",
+      "contextNote": "유배 중 평안·쉼을 잃고 심신이 소진될 것을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:66",
+      "textSha256": "7fe7fd5dbd1392c381b8c9e5170b917799856465f12ae26a5556235e320c67e1",
+      "status": "hold",
+      "reason": "H063에서 불안한 삶의 느낌을 알아차릴 수는 있으나 생명 자체의 불확실과 주야 공포를 말한다. 왜 잠깐 멈추어야 할지나 현재 불편의 이유까지는 주지 못한다.",
+      "contextNote": "유배자의 생존 불안과 공포를 묘사한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:67",
+      "textSha256": "cf71dcdd1de7d5190bc9b31d4f0f7a9f20c61645e34a2df984cb5fa4fb3da3a6",
+      "status": "hold",
+      "reason": "H063에서 지금 아닌 다른 시간만 바라며 불안해하는 마음은 비춰진다. 다만 전쟁 유배의 공포 묘사라 바쁘게 덮을지 잠시 돌아볼지의 실마리로 충분한지는 불확실하다.",
+      "contextNote": "아침과 저녁 모두 다른 시간을 바라는 극심한 두려움을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:28:68",
+      "textSha256": "3e88f944aab18efb87183b1aa18827c001525bb4c9bdae0bf48fdb174f00bc97",
+      "status": "exclude",
+      "reason": "G08의 현금 기한과 매각에 살 자가 없다는 말만 겹친다. 배에 실린 귀환과 자기 노예 매매의 예고를 카메라 판매 성사 여부로 바꿀 수 없다.",
+      "contextNote": "애굽으로의 강제 귀환과 팔리지도 못하는 노예 상태를 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:29:1",
+      "textSha256": "0e352284906164ae56415c814d5f1169cd1b994ecf3e75993be8135b55b18f03",
+      "status": "exclude",
+      "reason": "호렙 언약 외 모압 언약이 이어진다는 문서 안내다. G09의 이미 한 거래 약속에 새 조건을 추가하거나 바꿀 기준은 없다.",
+      "contextNote": "모압 땅 언약 설교의 표제를 제시한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:29:2",
+      "textSha256": "c9e5f1b3d34a5c10314dd85ef057cdeb6b609a4f74b2fd86a7e2c1c82fac2e69",
+      "status": "hold",
+      "reason": "A011에서 지나온 좋은 변화를 기억할 단서는 있지만 바로와 신하에게 행한 일의 목격을 말한다. 실제 새 팀의 좋은 점으로 시선을 돌릴 충분한 연결은 간접적이다.",
+      "contextNote": "모세가 백성을 모아 애굽에서 본 하나님의 일을 회상한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:29:3",
+      "textSha256": "3b1c053d66b0d43fd8d8db569501d34ac1955b34310f1a3bb08607f10c1a995c",
+      "status": "hold",
+      "reason": "H043에서 과거에 관찰한 것을 돌아볼 수는 있으나 시험·이적·기사는 출애굽 사건이다. 현재 작업의 실험 결과나 실패 이유로 그대로 삼을 수 없다.",
+      "contextNote": "백성이 목격한 큰 시험과 이적을 강조한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:29:4",
+      "textSha256": "b5172510fd7a2b0a8931296b72d84460ab9fcdf50496c837acc944ba0ef2ceba",
+      "status": "hold",
+      "reason": "H048에서 보고도 깨닫지 못하는 태도를 돌아볼 수 있지만 하나님이 마음·눈·귀를 아직 주지 않았다는 진술이다. 책임을 외부에 돌리거나 현재의 고칠 행동을 피하게 읽힐 여지가 남는다.",
+      "contextNote": "목격과 영적 깨달음의 간극을 지적한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:29:5",
+      "textSha256": "86ca91aa0e43a7d64089cf9a18160f1950f143a27c6e179bda19dc8a9c785d14",
+      "status": "candidate",
+      "reason": "H006의 멀쩡한 기기를 두고 최신품을 원할지에 오래 함께했고 아직 해지지 않은 옷과 신을 보는 실마리가 닿는다. 사십년 보존을 현재 제품의 미래 수명 보증으로 삼지 않는다.",
+      "contextNote": "광야에서 옷과 신을 보존하신 돌봄을 회상한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H006",
+          "clue": "더 좋은 것을 찾기 전에 아직 잘 버티고 있는 것을 돌아볼 수 있다.",
+          "friction": "광야 사십년의 기적적 보존이다. 현재 기기가 고장 나지 않거나 늘 새것처럼 남는다는 보증은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:29:6",
+      "textSha256": "ae1f5ee7260dc21439cade6769241f5bf55705a1dc8bdac27794b801fa7d0286",
+      "status": "hold",
+      "reason": "A035에서 물질 밖의 신앙 기준을 보려는 연결은 가능하나 떡과 포도주·독주 없이 지낸 특별한 역사의 목적이다. 현재 모든 즐거움을 버려야 마음을 알 수 있다고 읽지 않는다.",
+      "contextNote": "특수한 광야 식생활을 하나님 인식의 훈련으로 설명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:29:7",
+      "textSha256": "436475f8be9b4c489deceb4d73ecf500a7028c897d5cd6a9000742bd36fed2e2",
+      "status": "exclude",
+      "reason": "시혼과 옥이 싸우러 왔고 우리가 쳤다는 전쟁 경과에서 끝난다. A007의 싸움을 말릴지 고민에 평화나 보호를 선택할 내용은 없다.",
+      "contextNote": "요단 동쪽 두 왕과의 전투를 회상한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:29:8",
+      "textSha256": "1eb3cda94447bb45b3c5c5ec5e03b8601a6c60915c4d13a8eb4c56a1b8323c43",
+      "status": "exclude",
+      "reason": "세 지파에 정복지를 기업으로 준 사실이다. A021의 공동 보상 분배에는 이 지명과 지파 목록에 없는 몫의 기준을 새로 넣어야 한다.",
+      "contextNote": "르우벤·갓·므낫세 반 지파의 땅 수령을 회상한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:29:9",
+      "textSha256": "7b7bba15dfb093a2bbb939ad18e884e91b7f8a91f4fef12abf05f70a9e30756a",
+      "status": "candidate",
+      "reason": "G09에서 높은 새 제안에 이미 한 약속을 바꿀지에 언약의 말을 지켜 행하라는 기준이 닿는다. 모든 일 형통을 낮은 가격 거래 뒤의 수익 보장으로 해설하지 않는다.",
+      "contextNote": "언약 말씀 실행을 형통의 길로 권한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G09",
+          "clue": "새 이득보다 먼저 이미 맺은 말의 약속을 지키는 방향을 생각할 수 있다.",
+          "friction": "언약 순종과 모든 일 형통의 약속이다. 현재 거래 가격의 회복이나 경제적 보답을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:29:10",
+      "textSha256": "3a78134b9a3c5632ae81cd222873194b910886e2e3af377de99d6e1398652b9c",
+      "status": "exclude",
+      "reason": "두령·지파·장로·유사·남자를 열거하며 문장이 아직 이어진다. A009에서 누구에게 무엇을 나눌지의 기준은 없다.",
+      "contextNote": "언약 앞에 서 있는 공동체의 지도층과 남자들을 열거한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:29:11",
+      "textSha256": "d39a717cedce3f04a1d187a2991ce3e88c79e247a4af2d5deb727059a3a2dbe0",
+      "status": "candidate",
+      "reason": "A018의 새 동료를 함께할 자리에 부를지에 객과 나무 패는 자·물 긷는 자까지 같은 하나님 앞에 서는 포함이 닿는다. 문장의 목적절은 뒤로 이어지고 고대 가족·노동 신분은 낯설다.",
+      "contextNote": "가족·거주 외부인·낮은 노동자까지 언약 자리에 포함한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A018",
+          "clue": "자리가 익숙한 사람과 높은 역할의 사람만을 위한 것은 아니라고 볼 수 있다.",
+          "friction": "언약 앞의 가족·객·노동자를 열거하는 문장 중간이다. 새 동료를 하위 신분으로 보거나 실제 초대 수락을 예언하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:29:12",
+      "textSha256": "cc860022c081b414c227162759f36bc34eeafee4bc0e3992aa4cf7adedce0fd1",
+      "status": "hold",
+      "reason": "A036에서 내 신앙에 참여한다는 기준은 있으나 언약과 맹세에 참예하여에서 끝난다. 현재 점 참여와의 경계를 따로 설명해야 한다.",
+      "contextNote": "공동체가 언약과 맹세에 참여하는 목적을 도입한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:29:13",
+      "textSha256": "dd82145bdb5bd709822a201bac45e6f1befc0161e89540ec458fb2b877504104",
+      "status": "hold",
+      "reason": "H041의 불안에 자기 백성 삼으시는 관계는 위로가 되지만 오늘 역할을 맡을지 판단할 구체 실마리는 약하다. 아브라함·이삭·야곱의 언약도 길게 붙는다.",
+      "contextNote": "백성을 세우고 하나님이 되시려는 언약 목적을 설명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:29:14",
+      "textSha256": "3e4f493434294d7d9f837b586df34e632ea486dc1cdb7ad9f44fd315dd95acd3",
+      "status": "hold",
+      "reason": "A018에서 우리만을 위한 자리는 아니라는 시선은 읽히나 너희에게만 세우는 것이 아니라에서 끝나 누가 포함될지 아직 없다.",
+      "contextNote": "언약의 범위가 현 참석자에게 한정되지 않음을 도입한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:29:15",
+      "textSha256": "a862756890394b7eac53e23de53a6f418ca2168cce47641ac362a08323258fdc",
+      "status": "hold",
+      "reason": "A018의 새 동료 포함과 닿지만 여기 없는 자까지라는 말은 언약의 후대까지 이어지는 범위다. 실제 현재 동료를 초대할 행동으로 충분한지 보류한다.",
+      "contextNote": "현재 참석자와 함께 없는 후대까지 언약을 넓힌다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:29:16",
+      "textSha256": "dfbd324878d83a14e97da5a9b71517ca7878f64dd9689bdd634acf8ec2261e5c",
+      "status": "exclude",
+      "reason": "애굽 거주와 여러 나라 통과를 안다는 괄호 속 회고다. A020의 새 도시 이동을 지지할 선택 기준이나 주의점은 제시되지 않는다.",
+      "contextNote": "우상에 대한 경고 앞에서 목격한 나라들의 배경을 회상한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:29:17",
+      "textSha256": "f4b7fdf0263bc40eb1a95386305a9c5a09c9e9ec81cb780fb64581589b8a90ea",
+      "status": "hold",
+      "reason": "A036에 다른 신상과 신앙의 차이는 떠오르나 목석·은금 우상을 보았다는 사실뿐이다. 점 참여를 같은 물건 숭배로 확정할 수 없다.",
+      "contextNote": "지나온 민족들의 우상을 보았음을 회상한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:29:18",
+      "textSha256": "9e94f97267c11f318cd704a9156790f0e717ef16f0222ea51cce0608e17e2e23",
+      "status": "hold",
+      "reason": "A036에 마음이 하나님을 떠나는지 살필 실마리는 있으나 독초·쑥의 뿌리 비유와 생겨서로 이어지는 문장이 길다. 가벼운 점 초대를 공동체 독의 발생으로 단정하기 쉬워 보류한다.",
+      "contextNote": "하나님을 떠날 마음과 공동체 안 악한 뿌리를 염려한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:29:19",
+      "textSha256": "f5927cef10a4a52e306a78541711cf438f74e46bbd7c82a7e9b46b998e9291ce",
+      "status": "hold",
+      "reason": "H048의 지적 뒤에도 자기 마음만 옳다 할지에 강퍅한 자기 위로를 돌아볼 단서는 있다. 젖은 것과 마른 것을 멸한다는 표현과 저주 문맥의 풀이가 필요해 충분함은 불확실하다.",
+      "contextNote": "경고를 듣고도 완고하게 평안을 장담하는 태도를 경계한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:29:20",
+      "textSha256": "8d15f0dfc2d00e5592de5ba922a6523a26687816b2890ff955479d229923fae9",
+      "status": "exclude",
+      "reason": "용서하지 않고 모든 저주와 이름 도말을 더한다는 선언이다. H028의 사소한 잘못을 놓을지에 상대의 영구 파멸을 판정하는 근거를 줄 수 없다.",
+      "contextNote": "완고한 이에게 내릴 신적 심판을 강조한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:29:21",
+      "textSha256": "c8aa0be12601f86809ccdcc048a683d411627fff7460d0a61411b11d02325a1c",
+      "status": "exclude",
+      "reason": "그를 구별해 모든 언약의 저주로 화를 더한다는 내용이다. H029의 경계와 거리두기가 상대의 포괄적 신적 재앙 판결은 아니다.",
+      "contextNote": "언약 배반자를 특정해 저주가 미칠 것을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:29:22",
+      "textSha256": "b969c4787106712537d698c5f894bc1e10ee4ec1ec48bac24179791f210107fe",
+      "status": "hold",
+      "reason": "H043에서 남은 피해를 보고 원인을 묻는 관점은 가능하나 후손과 객이 땅의 병을 보며에서 멈춘다. 실제 개선할 방법을 읽기에는 뒷말 의존이 크다.",
+      "contextNote": "후대와 외부인이 심판받은 땅을 관찰할 장면을 도입한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:29:23",
+      "textSha256": "e6c23efc372b98031d54b460031a5a614a952e0129afcfe098cfd39aa6f5c168",
+      "status": "exclude",
+      "reason": "유황·소금·불탄 불모지를 소돔 등 멸망한 성과 비긴다. H043의 반복 실패를 전면 황폐나 하나님의 진노 증거로 확정할 수 없다.",
+      "contextNote": "땅의 황폐함을 과거 성읍 심판과 비교한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:29:24",
+      "textSha256": "17eea820aea0a19ee78e1a7a31e9b65ec9c60005777030c97f085ad834448f98",
+      "status": "hold",
+      "reason": "H043에서 실패 원인을 묻는 질문은 닿지만 이 땅의 진노 이유가 앞의 멸망한 땅을 가리킨다. 현재 방법의 문제를 하나님 진노로 확정할 수 없다.",
+      "contextNote": "열방이 땅의 심판 원인을 묻는 질문을 제시한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:29:25",
+      "textSha256": "fd30f4f51070f50911f197f784bd92b757e429cb90d5336828e4843f27eedc70",
+      "status": "hold",
+      "reason": "G09의 약속을 버리지 않는 기준은 떠오르나 조상과 맺은 출애굽 언약을 버리고에서 끝난다. 실제 거래의 두 선택을 독립적으로 비출 내용은 약하다.",
+      "contextNote": "심판 이유를 언약 배반으로 답하기 시작한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:29:26",
+      "textSha256": "980699022473866714a84c9cc4e2291f5401d2a4aacd4b4b6b8cb89ad7eb9a16",
+      "status": "hold",
+      "reason": "A036에서 다른 신을 따르지 않는 마음은 닿지만 이 절은 이미 다른 신을 섬긴 민족 심판의 이유다. 점 참여를 곧 타 신 예배로 확정하지 않도록 보류한다.",
+      "contextNote": "다른 신을 섬기고 절한 일을 심판의 이유로 밝힌다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:29:27",
+      "textSha256": "e07d89b66e4094cd1389c2ef0342bad66dc0d438f93b9c21096396333ab24288",
+      "status": "exclude",
+      "reason": "땅 전체에 모든 저주 재앙을 내리시는 진노의 결과이다. H048의 확인된 한 실수에 땅의 재난을 원인이나 예후로 덧붙일 수 없다.",
+      "contextNote": "언약 배반에 따른 땅의 재앙을 설명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:29:28",
+      "textSha256": "52f4ee1692258c9f95990e00dfc41b113dfae1b416f4617ece798dec41a2cd2a",
+      "status": "exclude",
+      "reason": "사람을 땅에서 뽑아 다른 나라에 던지는 유배 결과다. A020의 자발적인 준비 가능한 이동을 신적 추방으로 판단할 근거는 없다.",
+      "contextNote": "현재 유배를 하나님의 진노 결과로 설명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:29:29",
+      "textSha256": "217cc988364198a33983ddc1e83a4bde6a32d904e2cbecd5e053d48fd6d96834",
+      "status": "candidate",
+      "reason": "H056에서 알 수 없는 결과를 계속 알아내려 할지 일상으로 돌아갈지에 오묘한 일과 드러난 일을 구분해 할 일을 행한다는 실마리가 명확하다. 율법 실천과 검사 일상은 다르며 결과를 보장하지 않는다.",
+      "contextNote": "숨은 일의 주권과 계시된 말씀을 실행할 책임을 구분한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H056",
+          "clue": "지금 알 수 없는 결과는 하나님께 두고 이미 드러난 일상에서 할 일을 행할 수 있다.",
+          "friction": "계시된 율법의 실행을 말한다. 검사 결과가 좋다는 보장이나 치료·확인의 중단을 뜻하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:30:1",
+      "textSha256": "4990a261be540df9b31b51e5a8a8f371355ed7bf5d0cc5205ceca91d9d0e4164",
+      "status": "hold",
+      "reason": "H060에서 지난 일을 기억하고 돌아볼 단서는 있지만 흩어진 나라에서 복과 저주를 회상하는 조건에서 끝난다. 놓친 기회로 돌아갈지 현재를 볼지 아직 가르지 못한다.",
+      "contextNote": "유배 중 언약의 말씀이 기억나는 경우를 도입한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:30:2",
+      "textSha256": "1703985f86908c2756b40255ff20d2cc49d2c98e9a8199de97a7f83546959457",
+      "status": "candidate",
+      "reason": "H048에서 맞는 지적을 받아 고칠지에 돌아와 온 마음으로 듣는 태도가 닿는다. 하나님께로의 회개를 팀원의 모든 말에 복종하는 일로 옮기지 않는다.",
+      "contextNote": "백성과 자손이 하나님께 돌아와 순종하는 조건을 제시한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "틀린 점 앞에서 마음을 돌리고 온전히 들어 고칠 수 있다.",
+          "friction": "하나님께 돌아오는 회개와 자손의 순종이다. 팀원에게 신적 무오성을 부여하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:30:3",
+      "textSha256": "6f19053572bb12b39f3d62b246798be65a7f43f7e63a64408fb1a09fb1535a8f",
+      "status": "candidate",
+      "reason": "H028에서 이미 사과받은 작은 잘못을 계속 붙들지에 마음을 돌려 긍휼히 여기는 회복의 방향이 닿는다. 포로 귀환의 약속을 현재 친구의 변화 보증으로 삼지 않는다.",
+      "contextNote": "회개 뒤 포로를 돌리고 백성을 모으시는 긍휼을 약속한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H028",
+          "clue": "작은 잘못을 이미 인정한 사람에게 마음을 돌려 긍휼을 베풀 수 있다.",
+          "friction": "포로 귀환의 하나님의 약속이다. 여러 번 침해한 H029에게 안전한 경계를 없애라는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:30:4",
+      "textSha256": "04c7be3fff027db438f473d8d73a26c9e2445baabf71e2f267be6df0e421b89c",
+      "status": "hold",
+      "reason": "H058에서 멀어 보여도 버려지지 않는 위로는 있으나 하늘 가의 포로를 모으는 약속이다. 현재 누구에게 어떤 도움을 구할지의 실마리는 간접적이다.",
+      "contextNote": "가장 먼 곳에서도 포로를 모으실 것을 약속한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:30:5",
+      "textSha256": "11eca6b6ec9d78f1cbfac6f5bfccbd1e8e329f90866235e53efc6a259744e68a",
+      "status": "hold",
+      "reason": "H060에서 잃은 것을 회복할 소망은 있지만 옛 땅을 다시 얻고 더 번성한다는 약속이다. 현재 놓친 기회를 돌려받는다고 채워 과거 집착을 지지할 수 없다.",
+      "contextNote": "조상의 땅 회복과 더 큰 번성을 약속한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:30:6",
+      "textSha256": "f2fd0c23885d1753c8bfd98271d45c454ad36a40a8321012078f74f5ed90251f",
+      "status": "candidate",
+      "reason": "A036에서 신앙에 걸리는 점 참여에 마음을 다해 하나님을 사랑하는 방향이 닿는다. 마음의 할례를 신체 행위나 즉각 완전한 심리 변화로 해설하지 않는다.",
+      "contextNote": "마음의 할례와 온전한 하나님 사랑·생명을 약속한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A036",
+          "clue": "나의 마음을 하나님 사랑 쪽으로 두는 선택을 생각할 수 있다.",
+          "friction": "마음의 할례와 생명 약속이며 점 참여만으로 생사를 판정하거나 신체 행동을 지시하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:30:7",
+      "textSha256": "30abe8580af3493f66d68b65cf5f1d4db1a4abb25100e329f2a08d7111a19c13",
+      "status": "hold",
+      "reason": "A011에서 방해자에 대한 판단을 하나님께 맡길 생각은 가능하나 대적에게 모든 저주가 임한다는 결과가 중심이다. 이미 좋아진 삶보다 상대의 미래 불행을 기다리는 연결이 될 수 있어 보류한다.",
+      "contextNote": "백성의 압제자에게 저주를 돌리실 것을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:30:8",
+      "textSha256": "8d69b1de82e62fb643b29048a58eec15393578f3985282a270eae6dc86b6e790",
+      "status": "candidate",
+      "reason": "H048에서 잘못을 인정한 뒤 원래 방식으로 고집할지에 돌아와 다시 말씀을 행하는 재시작이 닿는다. 동료의 지적을 신적 명령 자체로 보지는 않는다.",
+      "contextNote": "귀환한 백성이 다시 말씀을 실행하게 될 것을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "한번 어긋난 뒤에도 돌아와 다시 옳은 기준을 행하는 쪽을 택할 수 있다.",
+          "friction": "언약 백성의 귀환과 순종이다. 모든 팀원 의견이 하나님의 말이라는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:30:9",
+      "textSha256": "2088a3fd9df8519c33f816b1d96cfdad01de41044f77959fc9ae2b49885584fa",
+      "status": "hold",
+      "reason": "H047의 수입 감소가 걱정되는 이직에 순종·전심 귀환 뒤 가축·자녀·소산 증가라는 긴 약속을 새 수입 보장으로 옮길 수 없다. 직접 선택 실마리는 불확실하다.",
+      "contextNote": "30:9–10 공식 합친 본문 중 첫 슬롯이며 회개 뒤 복을 종합한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:30:10",
+      "textSha256": "2088a3fd9df8519c33f816b1d96cfdad01de41044f77959fc9ae2b49885584fa",
+      "status": "hold",
+      "reason": "H047에 모든 일의 복은 위로가 되지만 새 직장이나 생활비 조건을 해결하지 않는다. 긴 귀환 조건과 생산물 증가 전체를 두고 충분함을 보류한다.",
+      "contextNote": "30:9–10 공식 합친 본문이 이 슬롯에도 동일하게 저장되어 있다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:30:11",
+      "textSha256": "dd90771b095062b23b85bd66be58bb51f0079e733df700bd721bd6c026abc46e",
+      "status": "candidate",
+      "reason": "H057에서 완벽한 준비가 되기 전 작은 운동을 시작할지에 어렵고 먼 것으로만 볼 필요가 없다는 실마리가 닿는다. 이 명령은 율법이며 모든 운동의 실제 난도를 진단하지 않는다.",
+      "contextNote": "하나님이 주신 명령은 멀고 접근 불가능한 것이 아니라고 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H057",
+          "clue": "시작을 꼭 어렵고 먼 일로만 만들지 않을 수 있다.",
+          "friction": "율법의 접근 가능성을 말한다. 운동의 실제 난도나 의학적 안전을 자동 판단하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:30:12",
+      "textSha256": "6787281f5fc11c4e8de6bc54b8d711534144123e50e0e52df309ce98cbdb5689",
+      "status": "candidate",
+      "reason": "H061에서 완벽한 답을 더 멀리서 가져올 때까지 지연할지에 하늘까지 대신 올라가야 하는 답을 기다리지 않는 방향이 읽힌다. 모든 개인 선택의 정답이 계시되어 있다는 뜻은 아니다.",
+      "contextNote": "말씀을 얻기 위해 하늘에 올라갈 사람이 필요하지 않다고 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H061",
+          "clue": "완벽한 답을 얻을 초월적 대리자를 기다리며 계속 미루지 않을 수 있다.",
+          "friction": "계시된 명령의 가까움을 설명한다. 일상 두 선택의 정답을 이미 알고 있다고 가정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:30:13",
+      "textSha256": "41d1fe1146375347ae6e3e2b5f23866d85e8272e9366133b6c0f805731a05226",
+      "status": "candidate",
+      "reason": "H057에서 대단한 준비 뒤 시작할지에 먼 바다를 건너 무언가 가져와야만 행할 수 있는 것은 아니라는 실마리가 있다. 운동 환경이나 몸 상태를 새로 보장하지 않는다.",
+      "contextNote": "말씀의 실천에 바다 밖의 대리 탐색이 필요 없다고 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H057",
+          "clue": "멀리서 특별한 조건을 갖춰 와야만 할 수 있다고 생각하지 않을 수 있다.",
+          "friction": "바다 밖에서 말씀을 가져올 필요가 없다는 비유다. 필요한 준비나 신체 제약이 사라지는 것은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:30:14",
+      "textSha256": "4360e0360b79cab90b32639c38f079f9a9cba4218dc2d2ce0c019f0f0fd4d96a",
+      "status": "candidate",
+      "reason": "H057에서 완벽한 조건을 찾으며 미루는 마음에 가까운 것에서 지금 행할 수 있다는 실마리가 선명하다. 마음속 욕구 전부를 하나님의 말씀으로 동일시하지 않는다.",
+      "contextNote": "가까이 있는 말씀을 실제로 행할 수 있음을 강조한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H057",
+          "clue": "가까운 곳에서 할 수 있는 작은 실행으로 옮길 수 있다.",
+          "friction": "가까운 말씀의 실천이다. 마음속 아무 욕구가 옳다거나 이미 완벽히 준비되었다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:30:15",
+      "textSha256": "49291e132237f1ae43e055c6aabee23ebc021ae33b32125d6daeee64769ee34c",
+      "status": "hold",
+      "reason": "H061에서 선택의 무게를 보는 단서는 있으나 생명·복 대 사망·화의 언약 대조이다. 두 일상 선택 중 어느 하나가 죽음이라는 이분법은 입력에 없다.",
+      "contextNote": "언약 선택의 두 결과를 제시한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:30:16",
+      "textSha256": "9460ff61e2a662eed00f1d23edf6b426ecd12dfdb01fc30dd0ad45667ed9f0cd",
+      "status": "candidate",
+      "reason": "A036의 신앙에 불편한 참여를 따를지에 하나님을 사랑하고 그 길을 행하는 우선순위가 닿는다. 생존·번성·땅의 복을 현재 불참의 세속적 보상으로 옮기지 않는다.",
+      "contextNote": "하나님 사랑과 순종을 생명·땅의 복과 연결한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A036",
+          "clue": "주변의 권유보다 자신이 사랑하는 하나님과 그 길을 기준으로 둘 수 있다.",
+          "friction": "언약의 생존·번성·땅 약속이다. 참여나 불참의 현실적 보상을 보장하거나 친구를 단죄하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:30:17",
+      "textSha256": "e44b66aaa759188b569e74fff8bc7019e8b5dae4f48b622a6e731744772279cb",
+      "status": "hold",
+      "reason": "A036에 유혹을 따라 다른 신으로 가지 않는 경계는 닿지만 만일에서 시작한 미완 조건이며 현재 점 체험을 신 숭배와 같게 확정할 수 없다.",
+      "contextNote": "마음을 돌려 다른 신을 섬길 경우를 도입한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:30:18",
+      "textSha256": "86940996e4be081c3e8cc6c41857565a9496858f180eabf1481d6c20ec5ddb57",
+      "status": "exclude",
+      "reason": "반드시 망하고 땅에서 오래 살지 못하리라는 선언이다. H041의 역할 선택이나 H052의 과장 고민에 실제 멸망의 예후를 알려 주지 않는다.",
+      "contextNote": "다른 신으로 돌아선 언약 파기의 파멸을 선포한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:30:19",
+      "textSha256": "bddeefa91b25274bb36656b71618ab4ed0d8821140924029d1af895058081ae8",
+      "status": "candidate",
+      "reason": "H055에서 회복을 위한 쉼보다 계속 활동할지에 생명을 택한다는 중심이 구체 실마리가 된다. 생사 언약과 일상 휴식은 다르며 쉬지 않으면 죽는다고 진단하지 않는다.",
+      "contextNote": "천지를 증인 삼아 후대의 삶을 위해 생명을 택하라고 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H055",
+          "clue": "활동을 늘리는 성과보다 내 생명을 돌보는 쪽을 생각할 수 있다.",
+          "friction": "언약의 생사 선택이다. 쉬라는 말을 받은 H055에 연결하며 현재 질병의 예후나 죽음을 예언하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:30:20",
+      "textSha256": "d88cb34d479405e298e1e3876f2006bac0de090748c56d2154429ee05ffbe9a5",
+      "status": "candidate",
+      "reason": "A036에서 친구 분위기를 따를지 신앙의 마음을 지킬지에 하나님께 붙어 사랑하는 방향이 읽힌다. 부종의 옛말과 세 조상의 땅 약속을 현재 성과 보장으로 바꾸지 않는다.",
+      "contextNote": "하나님을 사랑하고 붙들며 약속의 땅에 거하는 생명 길을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A036",
+          "clue": "자신이 믿는 분께 마음을 붙드는 방향을 생각할 수 있다.",
+          "friction": "부종은 붙어 따른다는 옛 표현이고 조상의 땅 약속이 길다. 점 체험이 곧 특정 신 예배라고 확정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:31:1",
+      "textSha256": "e8cfe37a24789b7fd70dfa3f608486d1e37f6448cf6fc5efa207d36bff77abda",
+      "status": "exclude",
+      "reason": "모세가 이 말씀을 전했다는 진행 설명뿐이다. H051의 조언을 구할지 고민에 들을 내용이나 질문할 실마리는 없다.",
+      "contextNote": "모세의 마지막 권면을 이어 간다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:31:2",
+      "textSha256": "9f3b2f35be616f1bef5aa096dcbf89a4ad36ae0390ab78df125850cc00ce97f0",
+      "status": "candidate",
+      "reason": "A030에서 나이와 체력 때문에 무거운 역할을 내려놓을지에 더 출입하기 어렵다는 한계를 인정하는 말이 닿는다. 일백이십세와 요단 금지를 현대 은퇴 나이나 사용자의 벌로 정하지 않는다.",
+      "contextNote": "모세가 나이와 하나님의 제한 때문에 건너지 못함을 알린다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A030",
+          "clue": "예전만큼 출입하고 힘쓰지 못하는 내 한계를 인정할 수 있다.",
+          "friction": "모세의 일백이십세와 요단 진입 금지다. 현재 나이가 곧 의무 은퇴나 신적 징벌이라는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:31:3",
+      "textSha256": "c0416bb266ab6f8a44a0774f95866ce148d45630867b25516758345ed7ce814f",
+      "status": "candidate",
+      "reason": "A030에서 내가 전부 떠나면 안 될까에 후임자가 거느리고 건너는 모습을 통해 지도 역할을 넘길 여지를 읽을 수 있다. 민족 진멸과 땅 획득의 약속은 현대 후임 성과 보장이 아니다.",
+      "contextNote": "여호수아의 승계와 앞서 가실 하나님을 알린다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A030",
+          "clue": "후임이 실제 앞장설 자리가 있음을 보며 무거운 책임을 넘길 수 있다.",
+          "friction": "여호수아의 정복 지도와 민족 멸망 약속이다. 현대 후임의 성공을 보장하거나 모든 자리를 즉시 포기하라는 명령은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:31:4",
+      "textSha256": "2a9f8f418fd992ff6da0ea2fe6951f581ed6424a612217376f34e7b20d40d58e",
+      "status": "hold",
+      "reason": "G15에 앞서 도우신 일을 믿는 용기는 가능하지만 시혼·옥 멸망과 같은 전쟁 결과다. 첫 역할의 대상을 정복할 민족으로 추가할 수 없어 충분함은 불확실하다.",
+      "contextNote": "과거 두 왕의 패배처럼 정복지에도 행하실 것을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:31:5",
+      "textSha256": "5beee1773da54cf393affcc61212b153619c0c71f68ec37644d3af6c25fa4375",
+      "status": "hold",
+      "reason": "H048에서 주어진 기준대로 행할 단서는 있으나 그들을 앞에 붙이시는 대상이 앞 절 정복 민족이다. 동료의 지적과 전쟁 대상 처리를 같은 일로 볼 수 없어 보류한다.",
+      "contextNote": "정복할 민족에게 받은 명령대로 행하게 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:31:6",
+      "textSha256": "b7a30bc383f389afecf89e7b3bbc72ccf2fec87180c873c9857085d6a0d722be",
+      "status": "candidate",
+      "reason": "G15의 새 역할 앞 두려움에 담대함과 혼자 버려지지 않는 동행이 직접 닿는다. 그들은 정복 대상이며 현재 동료를 적으로 부르거나 직무 성공을 보장하지 않는다.",
+      "contextNote": "백성에게 앞선 전쟁을 두려워하지 말고 하나님 동행을 믿게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G15",
+          "clue": "겁이 선택을 모두 지배하게 두기보다 동행을 믿고 용기를 낼 수 있다.",
+          "friction": "정복 전 백성에게 한 권면이다. 다른 사람을 적으로 규정하거나 역할의 좋은 성과를 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:31:7",
+      "textSha256": "57eb63228ac050b20937bc8f4b019137dbe4554a91f7932abbacf009e1e1a387",
+      "status": "candidate",
+      "reason": "G15에서 역할을 해 볼지에 사람들 앞에서 맡겨진 이를 불러 담대히 들어가라 격려하는 장면이 구체적으로 닿는다. 여호수아의 사명과 현재 제안을 동일한 신적 지명으로 확정하지 않는다.",
+      "contextNote": "모세가 여호수아에게 공개적으로 지도 사명을 격려한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G15",
+          "clue": "처음 맡는 역할의 부담에도 담대히 들어갈 수 있다는 격려를 읽을 수 있다.",
+          "friction": "여호수아에게 공개적으로 주어진 특정 사명이다. 현재 제안이 같은 신적 임명이라는 해설을 붙이지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:31:8",
+      "textSha256": "835c2cd6e783fb26f45555fa7908b05be8b202d35968b3efa8e224cdfc6dd3ad",
+      "status": "candidate",
+      "reason": "A020의 새 도시로 가는 두려움에 앞서 가시고 함께하신다는 신앙의 용기가 닿는다. 적응·비용·훈련 성과가 반드시 좋을 것이라는 현실 보증은 아니다.",
+      "contextNote": "여호수아에게 하나님이 앞서 가심과 떠나지 않음을 약속한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "A020",
+          "clue": "익숙한 곳을 떠나는 길도 혼자 버려지는 일로만 보지 않을 수 있다.",
+          "friction": "여호수아를 향한 동행의 약속이다. 새 도시의 안전·적응·성공을 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:31:9",
+      "textSha256": "400c5161071f85045038e6d986c88c477187cac00fa63a92ad2b1845604eefe0",
+      "status": "candidate",
+      "reason": "A030에서 체력 한계로 무거운 역할을 내려도 경험을 전할지에 내용을 써서 맡을 이들에게 주는 인계가 닿는다. 율법과 언약궤 제사장의 특별한 역할은 다르다.",
+      "contextNote": "모세가 기록한 율법을 제사장들과 장로들에게 맡긴다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A030",
+          "clue": "내가 하던 내용과 경험을 정리해 다음 맡을 이에게 전할 수 있다.",
+          "friction": "율법과 제사장·장로의 인계다. 사용자의 경험을 신적 법으로 보거나 모든 역할을 즉시 버리라는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:31:10",
+      "textSha256": "5773757e20ed54920667edf0fc0b0dd6f838e20d54c297c0ab90919f91e5cc5a",
+      "status": "exclude",
+      "reason": "칠년 끝 면제년 초막절의 시점만 있고 할 일은 다음 절이다. H050의 오늘 지원서 마감을 이 시간표로 바꿀 수 없다.",
+      "contextNote": "율법 정기 낭독의 주기를 도입한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:31:11",
+      "textSha256": "5786c0aef9b496989fbc00b8374e55089d170f621aedd0d7f2e083f44466e05a",
+      "status": "candidate",
+      "reason": "A030에서 몸으로 하는 일을 줄여도 지식을 나눌지에 모두가 듣도록 읽어 전하는 역할이 구체 실마리다. 칠년 절기 성소 낭독과 후배 지도는 다르다.",
+      "contextNote": "모인 백성에게 율법을 공개 낭독하게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A030",
+          "clue": "몸으로 모든 일을 맡기보다 사람들이 들을 수 있게 내용을 전하는 역할을 남길 수 있다.",
+          "friction": "성소의 정기 율법 낭독이다. 현재 후배에게 같은 종교 의무나 시기를 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:31:12",
+      "textSha256": "8005beada36edf38c3f69c2518329f112ae82aecc408923d9dfaf7b60e31a5e8",
+      "status": "candidate",
+      "reason": "A018의 새 동료를 배움과 모임에 포함할지에 남녀·어린이·타국인을 함께 모아 듣고 배우게 하는 실마리가 닿는다. 신앙 율법 교육을 직장 권위로 바꾸지 않는다.",
+      "contextNote": "여러 신분을 모아 듣고 배우며 실천하게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A018",
+          "clue": "익숙하지 않은 사람도 함께 듣고 배울 자리에 부를 수 있다.",
+          "friction": "신앙 공동체의 율법 교육과 남녀·어린이·타국인 목록이다. 새 동료의 실제 수락이나 신앙을 가정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:31:13",
+      "textSha256": "0059f709c2bba7f9ef41ea38b7b3d78d86b5f61f3b3695e6ddd33cf29684c33d",
+      "status": "candidate",
+      "reason": "A030에서 경험을 후배에게 나누는 일을 계속할지에 아직 모르는 자녀가 듣고 배우도록 하라는 역할이 정확히 닿는다. 요단 정착과 하나님 경외 교육의 차이는 남는다.",
+      "contextNote": "후대 자녀에게도 말씀을 듣고 배우게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A030",
+          "clue": "아직 모르는 후배들이 배울 수 있도록 전하는 도움을 계속할 수 있다.",
+          "friction": "정착지 자녀의 하나님 경외 교육이다. 현대 후배를 자녀나 종교적 복종 대상으로 삼지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:31:14",
+      "textSha256": "93e516d366bb92371695c886afa2eeaf98087f5327af98f332961f0ab73d72b0",
+      "status": "candidate",
+      "reason": "A030에서 무거운 역할을 떠나기 전 후임과 인계할지에 함께 나아가 명을 받는 전환 장면이 닿는다. 죽음 기한이 현재 사용자의 수명이나 은퇴 기한을 알려 주는 것은 아니다.",
+      "contextNote": "모세의 죽음 전 여호수아와 함께 회막으로 나와 인계를 준비한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A030",
+          "clue": "한계를 인정하며 다음 맡을 사람과 함께 인계를 준비할 수 있다.",
+          "friction": "모세의 임박한 죽음이라는 문맥이다. 사용자의 수명이나 반드시 즉시 그만둘 시기를 예고하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:31:15",
+      "textSha256": "dc1ceed39511d5d44ab11faea1f14ca60345560e191578340cdd51995cd0c30a",
+      "status": "exclude",
+      "reason": "구름 기둥의 현현 위치를 묘사한다. A035의 조언을 더 받을지 기도하며 돌아볼지에 구름 같은 표적을 기다릴 근거는 없다.",
+      "contextNote": "하나님이 회막 문에 구름 기둥으로 나타나신다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:31:16",
+      "textSha256": "22e8b1a6f3e38731b46becc9191e96dd2710b84cc0605bf26baa716abe4c9e29",
+      "status": "hold",
+      "reason": "A036에서 신앙의 마음을 놓지 않는 경계는 가능하나 모세의 죽음과 백성의 미래 배반을 함께 예고한다. 친구 권유나 자신의 향후 배반을 미리 확정할 수 없어 보류한다.",
+      "contextNote": "모세 사후 백성이 다른 신을 좇아 언약을 어길 것을 예고한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:31:17",
+      "textSha256": "25ec781c1818ca9b6080854bb2885abac3466b739ee7d01c1227da4b8ae52750",
+      "status": "exclude",
+      "reason": "하나님이 얼굴을 숨기고 재앙받을 미래와 그 이유를 말한다. H014의 치료 고통을 하나님 부재의 증거로 만들 수 없으며 현재 선택 행동도 없다.",
+      "contextNote": "배반 후 진노와 재앙을 해석할 말을 제시한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:31:18",
+      "textSha256": "b9fcb5bc119405f3e167e825dcf2a802753d18238d1694414c2f117a19114002",
+      "status": "hold",
+      "reason": "A036에서 다른 신을 따르지 않는 경계는 닿지만 현재 신적 얼굴 숨김이 확정된 것처럼 개인에게 옮기기 쉽다. 어떤 참여가 타 신 추종인지도 본절만으로 정하지 못한다.",
+      "contextNote": "다른 신을 따른 악행 때문에 얼굴을 숨기실 것을 확언한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:31:19",
+      "textSha256": "6037a1d1bda7f3520967e55a6799d0f3881567847beffd5a626b1f135040e970",
+      "status": "candidate",
+      "reason": "A030의 경험을 후배에게 나누는 역할에 글로 남기고 가르쳐 입으로 기억하게 하는 실마리가 있다. 심판 증언을 위한 신적 노래를 현대 교육 자료와 동일시하지 않는다.",
+      "contextNote": "노래를 기록하고 가르쳐 언약의 증거로 삼게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A030",
+          "clue": "배운 것을 글로 남기고 다음 사람이 기억하도록 가르칠 수 있다.",
+          "friction": "하나님 심판의 증언 노래다. 후배가 배반하거나 재앙을 당할 운명을 가정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:31:20",
+      "textSha256": "e643f7be69ed02663bbec9f76d73ad5367fa9facb6e9b33ae050ea91f79de995",
+      "status": "hold",
+      "reason": "G01에서 여유 중 감사와 믿음을 잊지 않는 생각은 가능하다. 하지만 배부른 뒤 하나님을 멸시하고 다른 신을 섬긴다는 예고여서 재킷 구매 욕구를 배신 사실로 단정할 수 없다.",
+      "contextNote": "풍족해진 백성의 배반을 미리 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:31:21",
+      "textSha256": "4e029ccf58d096e210327c0d319dc0b96cca3e6eb2cc42a884d9f08ca1698b05",
+      "status": "hold",
+      "reason": "H048에서 기록을 통해 실수를 기억할 단서는 있으나 어떤 노래인지 빠지고 하나님이 이미 백성의 속을 아신다는 예고가 길다. 실제 수정 선택에 단독 실마리가 약하다.",
+      "contextNote": "후대가 재앙 속에도 기억할 노래의 증언 역할을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:31:22",
+      "textSha256": "af04965217a83155a730429d8f5753b412acad5681d44f01b6cdc45eab0ed8c8",
+      "status": "candidate",
+      "reason": "A030에서 경험 나누기를 다음으로 미룰지에 당일 기록하고 가르친 실행이 닿는다. 노래의 언약 심판 내용은 현재 후배의 잘못 예측이 아니다.",
+      "contextNote": "모세가 그날 노래를 써서 백성에게 가르친다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "A030",
+          "clue": "경험을 나누는 일을 계획만 하지 않고 실제 적고 가르치는 일로 옮길 수 있다.",
+          "friction": "언약 노래를 그날 가르친 모세의 일이다. 현재 경험이 같은 신적 계시라는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:31:23",
+      "textSha256": "6ebc49f9f642111cf71ee2d3bea3f64743beec5ac73708cefe18da4a9b3229f9",
+      "status": "candidate",
+      "reason": "H041에서 새 역할의 역량이 두려울지에 맡은 이를 담대하게 하고 함께하겠다는 격려가 닿는다. 여호수아를 향한 직접 명령을 서비스가 현재 사용자에게 받은 계시로 확정하지 않는다.",
+      "contextNote": "하나님이 여호수아에게 지도 사명을 다시 맡기고 격려하신다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "맡게 될 자리를 내 작음만으로 피하지 않고 담대함을 생각할 수 있다.",
+          "friction": "눈의 아들 여호수아에게 주신 직접 사명이다. 사용자에게 내려진 동일 명령이나 성공 보증으로 해설하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:31:24",
+      "textSha256": "184dab659057f6a8168687630aabbe3e2f01548848a47b9a3caf21b7c66fc50b",
+      "status": "candidate",
+      "reason": "H053에서 지루한 일을 끝낼지 새것으로 옮길지에 다 써서 마친 뒤라는 완수의 모습이 닿는다. 어떤 일이든 무조건 끝내야 한다거나 현재 일이 율법이라는 뜻은 아니다.",
+      "contextNote": "모세가 율법 기록을 완성한 시점을 알린다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H053",
+          "clue": "시작한 내용을 끝까지 써서 마치는 장면에서 지금 일의 완수를 생각할 수 있다.",
+          "friction": "모세의 율법 기록이다. 실익이 없거나 조건이 바뀐 일까지 무조건 완수하라는 원칙은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:31:25",
+      "textSha256": "8221e947f74ff541b0e13ab533b3c4484df78ee2de2dfd91e54e1653f9bf370b",
+      "status": "exclude",
+      "reason": "레위인에게 명하여 가로되라는 도입만 있다. A009의 업무 분담에 어떤 책임을 맡기는지는 다음 절을 읽어야 한다.",
+      "contextNote": "기록된 율법책의 보관 지시를 시작한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:31:26",
+      "textSha256": "f1886b496b5822480e74860429012e0dff20d47cddf87f2d18431358cbfc7b9c",
+      "status": "hold",
+      "reason": "H048에서 기준을 눈앞에 남겨 증거로 삼을 단서는 있지만 언약궤 곁 율법책의 보관이다. 현재 누락을 고칠지의 갈등에 자료 보관까지 필요하다고 추가할 수 없어 보류한다.",
+      "contextNote": "율법책을 언약궤 곁에 두어 증거로 삼게 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:31:27",
+      "textSha256": "c94ef60677e63852aabdbc47eb55bd1cc88e3f879b91ee5f81d7c157a02c7f36",
+      "status": "hold",
+      "reason": "H048에서 고집을 돌아볼 계기는 있지만 현재까지의 거역과 죽음 이후 더할 배반을 함께 단정한다. 실제 한 번의 놓친 점을 지속적 패역으로 볼 수 없다.",
+      "contextNote": "모세가 생전에도 보였던 백성의 완고함을 지적한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:31:28",
+      "textSha256": "d513cd637ec0a55189fbefe6c5d52ac5838580cf064a1b647864230cf1b3ce64",
+      "status": "hold",
+      "reason": "A030에서 떠나기 전 관계자에게 말할 자리를 마련하는 연결은 있으나 모든 장로·유사와 천지 증언이 포함된 권면이다. 후배에게 경험을 전하는 충분한 한 절인지는 보류한다.",
+      "contextNote": "장로와 유사들을 모아 마지막 경고를 증언하게 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:31:29",
+      "textSha256": "12d5d78c2565140332b8aef253f3c9a150cf01f3f6a4fd8fbf4b76227f140227",
+      "status": "exclude",
+      "reason": "모세 사후 부패와 재앙이 일어날 것을 확정한다. A009의 분담이나 A030의 역할 이양에 후임이 틀림없이 타락한다고 채워 인계를 막을 수 없다.",
+      "contextNote": "사후의 배반과 그 결과를 마지막으로 경고한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:31:30",
+      "textSha256": "d88da7c9c3e0a68c8dfffdd2e367d38a6c538974ccf85213d0427b58329bd506",
+      "status": "candidate",
+      "reason": "A030에서 체력 일보다 경험을 나눌 역할을 남길지에 공동체에 노래를 끝까지 읽어 들려주는 전달이 닿는다. 사용자의 경험을 신적 언약 노래로 동일시하지 않는다.",
+      "contextNote": "모세가 총회에게 노래 전체를 낭독한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "A030",
+          "clue": "직접 힘쓰는 일 대신 내용을 차근차근 끝까지 전하는 도움을 남길 수 있다.",
+          "friction": "언약 노래의 공식 낭독이며 후배를 신앙 공동체의 명령 대상으로 바꾸지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:32:1",
+      "textSha256": "cc90f2362f98772a7d17a0aaa135a347b243d35f6f59fd8f75b409eec01226d7",
+      "status": "hold",
+      "reason": "H026에서 내 말을 들어 달라는 태도는 있으나 하늘과 땅을 증인으로 부르는 시적 시작이다. 실제 친구에게 어떤 마음을 전할지의 내용은 없다.",
+      "contextNote": "하늘과 땅을 증인 삼아 노래를 시작한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:32:2",
+      "textSha256": "ec114b568abf6145fb2eb9358292c76c9fa1e910d9f83583ee73cbef3960ca5b",
+      "status": "candidate",
+      "reason": "H026에서 싸울까 피할지에 교훈을 거센 공격보다 풀에 내리는 가는 비처럼 전하는 어조의 실마리가 닿는다. 이미 부드럽게 여러 번 말한 H029에 같은 방법을 무조건 재적용하지 않는다.",
+      "contextNote": "노래의 가르침을 풀과 채소를 살리는 비·이슬에 비긴다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H026",
+          "clue": "서운함을 세게 쏟기보다 상대에게 닿을 가는 비 같은 말로 전할 수 있다.",
+          "friction": "하나님의 교훈을 생명을 살리는 비에 비긴 시다. 상대 수용을 보장하지 않으며 반복된 침해에 계속 부드러워야 한다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:32:3",
+      "textSha256": "ee7a82ba4b2f6c0327223fadb786250324e4cf2b5866626c1ff2609a011b3ddf",
+      "status": "hold",
+      "reason": "H040에서 자기 위상보다 하나님께 영광을 돌리는 시선은 가능하나 친구의 성공을 축하할지의 대상·선택과는 간격이 있고 전파와 찬양이 중심이다.",
+      "contextNote": "하나님의 이름을 선포하고 위엄을 하나님께 돌리게 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:32:4",
+      "textSha256": "4a79c7d86a498e8997c2d67f5e2e596a602677b3803219d16c8d7d26b490e0b9",
+      "status": "candidate",
+      "reason": "A016에서 친분 때문에 보지 않은 일을 말해 줄지에 공평·진실·정직의 하나님의 성품을 기준으로 삼는 실마리가 있다. 절이 현재 사건의 사실이나 친구의 유죄를 알려 주지는 않는다.",
+      "contextNote": "반석이신 하나님의 완전한 공의와 진실을 찬양한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A016",
+          "clue": "편들기보다 공평하고 진실한 말을 기준으로 둘 수 있다.",
+          "friction": "하나님의 성품 찬양이다. 현재 사건의 진실을 계시하거나 친구가 유죄라고 결정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:32:5",
+      "textSha256": "7fd23ee536428475216a9cc61ff98a86b22a157798c4a135dfc52e6879aa57d5",
+      "status": "hold",
+      "reason": "H048에서 잘못을 돌아볼 경계는 있지만 악을 행한 집단 전체를 사곡한 종류로 부른다. 확인된 누락 하나를 사용자의 신앙 신분 전체에 대한 단죄로 옮길 수 없다.",
+      "contextNote": "하나님의 공의와 대조해 백성의 부패를 지적한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:32:6",
+      "textSha256": "acced76d42fb8d7bba1805de01d46f7bdcb4e9dc107529702a212b961267864d",
+      "status": "hold",
+      "reason": "A012에서 받은 도움을 기억하는 연결은 있으나 지으신 아버지 하나님에 대한 배반을 책망한다. 이미 말로 감사한 친구에게 식사를 할지의 고민을 우매한 보답으로 단정할 수 없다.",
+      "contextNote": "창조·양육하신 하나님께 배반으로 갚는 백성을 책망한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:32:7",
+      "textSha256": "c215aa3012ba9e571639c8ca1d187466f8c00b48857600f85306f0d6d81c0841",
+      "status": "candidate",
+      "reason": "H051에서 부족해 보일까 선배에게 묻지 못하는 마음에 어른에게 물으면 설명해 준다는 구체 실마리가 있다. 역사 전승 질문이며 어떤 선배라도 현재 답을 안다고 확정하지 않는다.",
+      "contextNote": "과거를 기억하며 아버지와 어른에게 역사 설명을 구하게 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "내가 모르는 것을 경험 있는 어른에게 물어 설명을 들을 수 있다.",
+          "friction": "민족의 과거를 전수하는 상황이다. 현재 선배가 모든 해답을 안다는 보장은 없다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:32:8",
+      "textSha256": "bd959cb5ce839cfa5d581e261e9060e0a5995a2284feab709046ff1564508806",
+      "status": "hold",
+      "reason": "A029에서 수효에 따라 몫을 정하는 관점은 있으나 민족과 땅 경계의 신적 배정이다. 역할별 장비 필요량을 민족 수로 정할 수 없어 충분함은 보류한다.",
+      "contextNote": "하나님이 민족들의 기업과 경계를 정하신 일을 노래한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:32:9",
+      "textSha256": "90cce995bb55022e54eecd54a913ebe4a6000fa536da8fb4b0e3c5fb20270074",
+      "status": "hold",
+      "reason": "H041에서 소중히 택한 백성이라는 위로는 있지만 야곱이 하나님 기업이라는 관계 진술만으로 현재 역할 선택에 구체 방향을 읽기는 어렵다.",
+      "contextNote": "여호와가 자기 백성을 자기 몫으로 삼으심을 노래한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:32:10",
+      "textSha256": "99a02dee20b19c7f291e1017ca333ea0c751dd273554691753525067529fe57a",
+      "status": "hold",
+      "reason": "A020의 낯선 곳에 대한 두려움에 광야의 돌봄은 위로가 된다. 다만 호위·보호의 과거 서술이며 현재 떠날지의 실마리와 현실 안전의 보장 사이 간격이 남는다.",
+      "contextNote": "광야에서 백성을 눈동자처럼 돌보신 일을 노래한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:32:11",
+      "textSha256": "7d8e6666c2c8b98ddb03bdd9034ab5db4ed1ace69806758564d7ca88c8d06d69",
+      "status": "candidate",
+      "reason": "A020에서 익숙한 보금자리를 떠나는 두려움에 둥지를 흔들면서도 날개로 받치는 독수리의 모습이 뜻밖의 실마리가 된다. 실제 이동의 성공이나 가족 갈등 해소를 보장하지 않는다.",
+      "contextNote": "하나님의 광야 돌봄을 새끼를 날게 하고 받치는 독수리에 비긴다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A020",
+          "clue": "보금자리가 흔들리는 것이 버려짐만은 아닐 수 있다는 시선으로 실제 기회를 볼 수 있다.",
+          "friction": "새끼 독수리를 받치는 하나님의 역사적 돌봄 비유다. 비용·훈련 성과·가족 반응을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:32:12",
+      "textSha256": "1d693cc777b60e0b930913da5db577b76f6d22ef4ba8f2c3ce51238bdbc47d39",
+      "status": "candidate",
+      "reason": "A036에서 다른 종교 체험을 분위기로 따를지에 홀로 인도하신 하나님과 다른 신이 없었다는 신앙의 중심이 닿는다. 현재 친구의 의도나 체험의 영적 실체를 확정하지 않는다.",
+      "contextNote": "광야 인도에서 여호와만의 역할을 강조한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A036",
+          "clue": "자신을 이끌어 왔다고 믿는 하나님께 신앙의 중심을 둘 수 있다.",
+          "friction": "광야 인도의 회고다. 친구의 의도나 다른 체험의 실체를 판정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:32:13",
+      "textSha256": "1e14f50062af36cf9ff6d619597b387a2cb77ca6e4dc9cd3ff427a14791cbbda",
+      "status": "hold",
+      "reason": "G01에서 좋은 것을 주신 하나님을 생각할 수 있으나 높은 땅·반석의 꿀과 기름이라는 시적 풍요 서술이다. 실제 구매 허용의 실마리는 다소 간접적이다.",
+      "contextNote": "땅과 반석에서 먹을 것을 풍성히 주신 돌봄을 노래한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:32:14",
+      "textSha256": "02f63821a9aa7d5229f0c167af1bdd40119b3b637ffc981cf7d24bbf15da7a0c",
+      "status": "candidate",
+      "reason": "G01의 감당 가능한 좋은 물건을 즐기는 죄책감에 좋은 젖·기름·밀·포도즙을 주신 풍요의 장면이 닿는다. 음식 목록과 실제 재킷의 차이를 남기며 생활비 부족을 새로 해결하지 않는다.",
+      "contextNote": "좋은 음식과 음료를 풍성히 먹이신 일을 열거한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G01",
+          "clue": "좋고 풍성한 것을 누리는 일 자체를 무조건 죄책감으로만 볼 필요는 없다고 읽을 수 있다.",
+          "friction": "역사적 음식과 술의 목록이다. 현재 재킷의 필요·가격 적정성을 확정하지 않고 감당 가능한 G01과 생활비 부족 G02를 구분한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:32:15",
+      "textSha256": "ba02beb80a59c4578be543c87ad52ac19def287b2a9023b712690590eb21d616",
+      "status": "hold",
+      "reason": "G01에서 풍요 뒤 감사가 사라지는지 돌아볼 수는 있다. 그러나 여수룬이 하나님을 버리고 발로 찼다는 사실 서술을 단순한 구매 욕구의 배반 판정으로 삼을 수 없다.",
+      "contextNote": "돌봄 뒤 풍족해진 백성의 배신을 책망한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:32:16",
+      "textSha256": "d18dc3e4e1a4992fb0b4e1922d7964a21ab9b3cc9376dcd124483a785671115f",
+      "status": "hold",
+      "reason": "A036의 신앙 기준과 관련되나 다른 신으로 이미 진노를 일으킨 과거를 말한다. 아직 점 참여를 고민하는 사용자의 행위와 하나님의 현재 분노를 확정하기 어렵다.",
+      "contextNote": "다른 신을 따른 백성의 행위가 진노를 일으킴을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:32:17",
+      "textSha256": "78e1f3b5a21dd9372d5ff3e4d91ee400e310cf03a0bfbd64cc4f6df3f8b02c4f",
+      "status": "hold",
+      "reason": "A036에서 낯선 신을 따르지 않을 단서는 있지만 실제 마귀 제사라는 규정이 강하다. 점 권유와 친구를 그대로 마귀 제사의 주체로 단정할 수 없어 보류한다.",
+      "contextNote": "백성이 하나님 아닌 새 신에게 제사한 배반을 비판한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:32:18",
+      "textSha256": "ff811e24a1ac54c2cfd62c7977a51eb212bc90bc4fb6e318bae6db1aaa41f640",
+      "status": "candidate",
+      "reason": "A035에서 다른 조언만 더 찾는 동안 내 신앙의 뿌리를 돌아볼지에 나를 내신 하나님을 잊고 있지 않은지 묻는 실마리가 있다. 실제 하나님을 완전히 잊었다고 단죄하거나 특정 답을 계시하지 않는다.",
+      "contextNote": "생명을 주신 하나님을 잊은 백성을 책망한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A035",
+          "clue": "더 많은 사람의 말 속에서 나를 지으신 하나님과 내 신앙의 뿌리를 돌아볼 수 있다.",
+          "friction": "실제 백성의 망각을 책망하는 절이다. 지금 사용자가 배신했다거나 마음속 답이 바로 신적 명령이라는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:32:19",
+      "textSha256": "3da931fa8286633f2a3778871d3177f5050906e8d1a66df6674b2ea8231b224b",
+      "status": "exclude",
+      "reason": "자녀가 하나님을 격노케 해서 미워하셨다는 사건 설명이다. H048의 동료 지적을 현재 하나님의 미움 증거로 만들면 원문 밖 판정이 된다.",
+      "contextNote": "배반에 대한 하나님의 반응을 노래한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:32:20",
+      "textSha256": "6519a15d90182ce2c883d27b6b08c5630dfd4d11385ef546f5537d11a6f86a76",
+      "status": "exclude",
+      "reason": "얼굴을 숨기고 패역하고 무신한 자녀의 종말을 보시겠다는 선언이다. H035의 소외감에 실제 집단이나 하나님이 버렸다는 결론을 줄 수 없다.",
+      "contextNote": "배반한 백성에게 얼굴을 숨기실 것을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:32:21",
+      "textSha256": "2fdb73935c1b1238108ff175a45b2bd9cef5225e7f739f03a76b172fe6d004ca",
+      "status": "exclude",
+      "reason": "하나님이 다른 민족을 사용해 백성의 시기·분노를 일으키는 심판이다. H040의 친구 성공에 상대가 나를 질투시키는 도구라는 해석을 추가할 수 없다.",
+      "contextNote": "백성의 질투 유발에 대응하는 신적 심판을 노래한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:32:22",
+      "textSha256": "4c4006afc33cbef5e9e75ed58991be55b5ee07dc203310cd12bfd830a3ef0685",
+      "status": "hold",
+      "reason": "H031에서 분노의 광범한 파괴를 돌아볼 여지는 있으나 땅과 산·음부까지 사르는 하나님의 심판이다. 현재 문자 갈등과 같은 잘못된 분노로 볼 수 없어 충분함을 보류한다.",
+      "contextNote": "하나님의 분노를 온 세계를 태우는 불로 묘사한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:32:23",
+      "textSha256": "1a0eff9ac646834c6855a6a630d41e2e458455dfbd870fbd2f2b89684faac3f7",
+      "status": "exclude",
+      "reason": "재앙을 쌓고 화살을 다 쏘겠다는 심판 선언이다. A007의 싸움 중재에 공격의 완수를 생활 행동으로 연결할 수 없다.",
+      "contextNote": "백성에게 재앙과 화살을 내리실 것을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:32:24",
+      "textSha256": "5bf1ea9cbd179b4a950c796595bdb7b2662f03c44bc76c9005d3ae56195b3e55",
+      "status": "exclude",
+      "reason": "기근·더위·짐승과 독의 파멸을 예고한다. H013의 여행 불확실함에 실제 이런 위험이 생긴다는 사실을 덧붙일 수 없다.",
+      "contextNote": "몸과 환경의 여러 재앙을 열거한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:32:25",
+      "textSha256": "f15397f04c3928c76d6923cddcf64a3e112e125ae82a835be56288a14854767e",
+      "status": "exclude",
+      "reason": "밖의 칼과 안의 공포로 영아와 노인까지 멸한다는 내용이다. H015의 외출과 휴식 선택을 어느 곳도 죽음이라는 운명으로 만들 수 없다.",
+      "contextNote": "안팎과 전 연령의 파멸을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:32:26",
+      "textSha256": "bdf6ff7d8d583e0b7c8d06437b51a5ad634c539dacfa65b80dec7871e9ecc813",
+      "status": "exclude",
+      "reason": "백성을 흩어 기억까지 끊겠다는 말을 전한다. A011의 과거 방해를 놓는 선택은 상대 자체의 인간 사회 제거와 다르며 마는 뒤의 설명이 필요하다.",
+      "contextNote": "철저한 제거를 고려하셨던 말씀을 도입한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:32:27",
+      "textSha256": "f8a7921c62a8a14d0ec24c5cf6bbf9db1f2185614a63c1ab5c517b7fb5a5742e",
+      "status": "hold",
+      "reason": "H052에서 성공을 자기 수단의 공으로 잘못 설명하지 않는 실마리는 있으나 대적의 하나님 오해를 막으시는 맥락이다. 현재 과장 문구의 사실 기준은 간접적이다.",
+      "contextNote": "대적이 자신의 힘만으로 이겼다고 오해할 것을 염려하신다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:32:28",
+      "textSha256": "4acf991df0013eab74606070d540ec0da0bd25834ea21f89e566bf41e1feaef2",
+      "status": "hold",
+      "reason": "H051에서 모르는 것을 인정할 계기는 있지만 모략 없는 국민이라는 평가일 뿐 묻거나 배울 방향은 없다. 개인의 부족함을 민족적 무지와 같게 보지 않는다.",
+      "contextNote": "분별 없는 민족의 상태를 지적한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:32:29",
+      "textSha256": "40dbb5cf896e2ed67695ad2ee631a60b842401be4a7ecd1c1471599d89592819",
+      "status": "candidate",
+      "reason": "H031에서 화난 문자를 지금 보내기 전에 그 끝을 잠시 생각하는 지혜가 정확히 닿는다. 종말은 전쟁과 심판의 문맥이며 현재 관계의 파국을 확정하지 않는다.",
+      "contextNote": "지혜로 자신의 끝을 헤아렸어야 함을 탄식한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "지금의 분노대로 보내기 전에 그 행동의 끝을 생각할 수 있다.",
+          "friction": "전쟁과 심판의 종말에 대한 탄식이다. 친구 관계가 반드시 파국을 맞는다고 예언하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:32:30",
+      "textSha256": "760f612de5d1173169349debf013f97ca24487fca061373231359b72b76393ca",
+      "status": "hold",
+      "reason": "H041에서 작은 수로 큰 수를 이기는 용기는 떠오르나 본절은 하나님이 넘기신 패배를 반문한다. 역량 불안을 단순 승리 보장으로 읽으면 조건이 뒤집힌다.",
+      "contextNote": "수적 열세의 승패 뒤 하나님의 넘기심을 반문한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:32:31",
+      "textSha256": "173bbef4bb6f2792ab18b2a59c454acfbdf25bae685045929a29ba2cb3c6e5eb",
+      "status": "hold",
+      "reason": "A036에서 믿는 하나님과 다른 신의 차이를 돌아볼 수는 있다. 다만 대적도 판단한다는 전쟁의 신 비교이고 친구를 대적으로 볼 근거가 없어 충분함이 약하다.",
+      "contextNote": "대적의 반석과 여호와가 같지 않음을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:32:32",
+      "textSha256": "50233a78c42b6fc2b1e3df0e9960a49c74bea1119fb519957946b5ea7bffe399",
+      "status": "exclude",
+      "reason": "소돔·고모라의 포도와 쓸개 열매로 악한 민족을 비긴다. H038의 늦게 갚았던 친구를 근본적으로 악독한 열매로 판정할 수 없다.",
+      "contextNote": "대적 또는 배반 민족의 부패를 독한 포도에 비긴다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:32:33",
+      "textSha256": "c3b64497f055a4790a6d219074bb618b86849498e6ec9cd78bbd315e5415caa6",
+      "status": "exclude",
+      "reason": "포도주가 뱀의 독이라는 악독의 비유이다. H003에서 추천 기기가 실제 해롭다는 근거나 광고를 검증하는 행동으로 바로 이어지지 않는다.",
+      "contextNote": "악한 열매의 치명성을 뱀 독으로 강화한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:32:34",
+      "textSha256": "f35c9fd7a4d9a56e2efa35b3e41279be7d32ae3bd3a2aab388a98095726e1281",
+      "status": "hold",
+      "reason": "G07에서 봉한 창고를 보며 기다림을 떠올릴 수는 있으나 이것은 쌓아 둔 심판과 보수이다. 매각 시기나 가격을 기다리라는 내용과는 다르다.",
+      "contextNote": "뒤의 보수와 연결해 심판의 보관을 반문한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:32:35",
+      "textSha256": "a6142dc214e20ba994564c93279be8653714dcdb1422951984efe69e3e2c4225",
+      "status": "candidate",
+      "reason": "A011에서 방해자에게 다시 복수할지 지금 삶을 볼지에 보수는 하나님의 것이라는 책임 분리가 실마리가 된다. 가까운 환난과 실족을 현재 방해자의 일정·운명으로 예언하지 않는다.",
+      "contextNote": "하나님께 속한 보수와 심판 시기를 선언한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A011",
+          "clue": "직접 보복할 몫까지 붙들지 않고 판단을 하나님께 두는 방향을 생각할 수 있다.",
+          "friction": "심판과 환난이 가까움을 말한다. 현재 방해자가 곧 벌받는다는 일정·결과를 서비스가 확정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:32:36",
+      "textSha256": "2ef693409a069e38ab86df01a5b4c300345571b2c3eb28ac042dd8bbefb09532",
+      "status": "hold",
+      "reason": "H058에서 무력함을 보시는 하나님의 긍휼은 위로가 된다. 다만 갇힌 자도 놓인 자도 없는 백성의 상태를 말해 현재 도움을 구할 선택에는 간접적이다.",
+      "contextNote": "백성의 완전한 무력함을 보시고 판단을 돌리실 것을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:32:37",
+      "textSha256": "67e3bdaac0178fe20782dc013358e0797aa34d4b1454c9f57943ea6164851221",
+      "status": "hold",
+      "reason": "A036에서 의지할 신앙의 근거를 돌아볼 질문은 있으나 그들의 신·반석이 앞 우상을 가리키는 반문이다. 점 체험을 곧 그 우상 의존으로 확정할 수 없다.",
+      "contextNote": "다른 신의 도움을 받을 수 있는지 반문한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:32:38",
+      "textSha256": "1e4f7d16d3412b848fe24bbdecc55746373ab013738246c27a66df8ff465ae81",
+      "status": "hold",
+      "reason": "A036에서 무엇을 의지할지 살필 수 있으나 돕게 하라는 말은 실제 권유가 아니라 제물 먹던 거짓 신에 대한 반어이다. 설명 없이 읽으면 도움 요청과 혼동될 수 있다.",
+      "contextNote": "제물을 받던 우상들에게 보호하게 하라는 반어적 도전이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:32:39",
+      "textSha256": "af9e581141103b9cc86b352058b35bf478a2953cf9b3a4654ede52112b3080c6",
+      "status": "candidate",
+      "reason": "A036에서 다른 체험을 분위기로 따를지에 생명과 회복의 주권을 가지신 유일한 하나님이라는 신앙의 중심이 닿는다. 죽임·상함·나음을 현재 건강 결과나 친구에게 적용하지 않는다.",
+      "contextNote": "다른 신 없는 하나님의 생사와 회복의 주권을 선언한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A036",
+          "clue": "자신이 믿는 하나님을 생명과 회복의 중심으로 삼을 수 있다.",
+          "friction": "죽임과 살림·상함과 나음까지 포함한다. 의료 선택이나 현재 질병 결과를 말하는 조합으로 쓰지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:32:40",
+      "textSha256": "ae294a076e5252d866ddd7bd61b2bb29a208040a37fb9ae81341040ba25219e6",
+      "status": "hold",
+      "reason": "G09에서 말의 확실함을 지키는 연결은 가능하나 영원한 삶으로 맹세하는 신적 발화이며 구체 내용은 다음 절의 심판이다. 거래 약속의 부담을 직접 가르지는 못한다.",
+      "contextNote": "하나님이 자신의 영원한 생명을 두고 맹세하신다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:32:41",
+      "textSha256": "b321d91d25ce3207082fb547a4c31a1c4d1a70cba7120860149db179c0590f6d",
+      "status": "hold",
+      "reason": "A011에서 판단을 하나님께 맡길 생각은 있으나 칼을 갈아 대적에게 보응하는 모습이 강하다. 지금 좋은 자리로 시선을 돌리기보다 상대 해침을 기다리게 할 수 있어 보류한다.",
+      "contextNote": "칼과 심판으로 대적에게 보수하실 것을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:32:42",
+      "textSha256": "0ed05e1f2032ec2c7f5f79ac68b236f08d435df5f3006e819daae569bf597529",
+      "status": "exclude",
+      "reason": "화살이 피에 취하고 칼이 살을 삼키며 장관의 머리를 치는 보복 장면이다. A007의 다툼 말리기나 A011의 과거 놓기에 이 폭력이 실마리를 압도한다.",
+      "contextNote": "신적 보복을 피와 칼의 전쟁 이미지로 묘사한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:32:43",
+      "textSha256": "702fbe74f683b8bbc5c7c65541d13cf579618bbe8fc8e0b303db060a2090e535",
+      "status": "hold",
+      "reason": "H040에서 다른 이들과 즐거워하는 방향은 보이나 피의 보수·대적 심판·속죄가 전체 절에 결합한다. 친구 성공 축하의 한 절로 충분한지는 보류한다.",
+      "contextNote": "백성의 구원과 대적 심판 뒤 열방의 기쁨을 부른다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:32:44",
+      "textSha256": "992952453bc2c16d8ce64a3bf4f4a1e26d2db79a92b54af5b53e4cd868dc25a0",
+      "status": "candidate",
+      "reason": "A030에서 내 역할을 줄이면서 경험을 다음 사람과 함께 전할지에 모세와 후임이 같이 백성에게 말하는 인계의 실마리가 있다. 언약 노래를 현재 지식과 동일시하지 않는다.",
+      "contextNote": "모세와 호세아가 함께 노래의 모든 말을 백성에게 들려준다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A030",
+          "clue": "다음 맡을 이와 함께 내용을 전하며 인계를 할 수 있다.",
+          "friction": "모세와 호세아의 언약 노래 전달이다. 현대 지식이 신적 계시라는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:32:45",
+      "textSha256": "d0758d98a036fb35a2c80dcf0eefbb06932785ed9e47cdad1fe16396a36e9643",
+      "status": "candidate",
+      "reason": "H053에서 하던 일을 지루해 중단할지에 모든 말을 온 공동체에게 마친다는 완수의 모습이 닿는다. 어떤 일이든 실익과 조건 무관하게 끝내야 한다는 원칙은 아니다.",
+      "contextNote": "모세가 마지막 가르침을 모두 마친다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H053",
+          "clue": "시작한 내용을 끝까지 전해 마무리하는 쪽을 생각할 수 있다.",
+          "friction": "모세의 마지막 율법 가르침이다. 중단이 합당한 일이 없다는 일반 명령은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:32:46",
+      "textSha256": "6a6ffd2c1c2f928307fd18675a779b720a43e51ae02f93d0b1dc6c84b41cd9b7",
+      "status": "candidate",
+      "reason": "A030의 체력 일 대신 가르칠 역할을 남길지에 마음에 둔 말을 다음 세대에게 전하고 실천하게 하는 연결이 구체적이다. 자녀에게 내리는 율법 명령과 후배 조언의 권위 차이는 남긴다.",
+      "contextNote": "증언된 말씀을 마음에 두고 자녀에게 전하게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A030",
+          "clue": "알고 있는 내용을 마음에 두고 다음 사람에게 실천 가능하게 전할 수 있다.",
+          "friction": "자녀에게 가르치는 율법 명령이다. 후배를 복종시킬 권위를 현대 멘토에게 부여하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:32:47",
+      "textSha256": "d76ffe136d35bb5706ef283628bd37c6b1a34587b3831567ec496f638306b122",
+      "status": "hold",
+      "reason": "H053에서 시작한 일이 헛되지 않다는 힘은 될 수 있으나 이 일은 생명인 율법 실천이다. 실제 하던 과업의 가치를 생명과 장수로 보장할 수 없어 충분함은 보류한다.",
+      "contextNote": "율법의 말씀이 헛된 말이 아니라 생명임을 강조한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:32:48",
+      "textSha256": "dc08cd49cb902db3219784c1ce60b20cac5ccb2a28208c93e38a90ecb496f9a1",
+      "status": "exclude",
+      "reason": "그날 하나님이 모세에게 일렀다는 도입뿐이다. A035의 기도와 조용한 성찰에 어떤 내용을 들을지 본절에 없다.",
+      "contextNote": "모세의 마지막 산행 명령을 도입한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:32:49",
+      "textSha256": "8ebbd2b6bcc09e97b8fd4907ad2ecb5b9706248c79a98b4b8000377dde990938",
+      "status": "candidate",
+      "reason": "H060에서 이미 놓친 기회에 매달릴지에 들어가 소유하는 대신 거리를 두고 바라볼 수 있다는 실마리가 있다. 여러 산·지명과 다음 죽음 명령을 현재 기회 상실의 죄나 수명으로 옮기지 않는다.",
+      "contextNote": "모세에게 산에 올라 백성에게 줄 가나안을 바라보게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H060",
+          "clue": "닫힌 기회를 반드시 소유해야 한다고 붙들기보다 거리를 두고 바라볼 수 있다.",
+          "friction": "모세의 산행과 곧 이을 죽음의 문맥이다. 현재 기회 상실의 원인이 죄이거나 사용자가 죽는다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:32:50",
+      "textSha256": "beb57e6c042927efce3b44181fa9b489091e20aa6fecc402c5541e0394c5a938",
+      "status": "exclude",
+      "reason": "형 아론처럼 산에서 죽어 조상에게 돌아갈 것을 명한다. A030의 무거운 역할 은퇴를 실제 죽음이나 기한으로 확정할 수 없다.",
+      "contextNote": "모세의 죽음을 아론의 죽음과 함께 예고한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:32:51",
+      "textSha256": "266b3f66557f8ece4b7dfcc13d2dcd1fea993e650acda4f9c34a0bef75c96f9f",
+      "status": "hold",
+      "reason": "H048에서 자기 잘못의 책임을 돌아볼 경계는 있으나 므리바에서 거룩함을 드러내지 않은 특정 죄와 죽음의 이유이다. 누락 오류에 같은 대가를 추가할 수 없다.",
+      "contextNote": "모세와 아론이 땅에 들어가지 못할 죄의 이유를 밝힌다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:32:52",
+      "textSha256": "967c53511f6d8497c7032f4b6b3e4b7d26c78cce9f133cbba8045e7251ea3bad",
+      "status": "candidate",
+      "reason": "H060에서 끝난 기회를 다시 얻으려 매달릴지에 바라볼 수 있어도 들어가지는 못하는 한계를 인정하는 실마리가 닿는다. 지금의 상실이 신적 징벌이거나 죽음 전 한계라는 뜻은 아니다.",
+      "contextNote": "모세가 땅을 볼 수 있으나 진입할 수는 없음을 재확인한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H060",
+          "clue": "보고 그리워하는 것과 다시 들어갈 수 있는지를 나누어 한계를 받아들일 수 있다.",
+          "friction": "모세에게 주어진 진입 금지이다. 현재 사용자에게 내려진 신적 금지나 다른 다음 기회를 확정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:33:1",
+      "textSha256": "ea03dc761a9240310db46a94d485556f035a0135aa13aaddcc8e4e0a77595cdc",
+      "status": "hold",
+      "reason": "H040에서 다른 이들의 삶을 축복하는 시선은 있으나 죽기 전 축복의 표제이며 내용이 아직 없다. 친구의 성공을 축하할 충분한 한 절인지는 약하다.",
+      "contextNote": "모세의 마지막 지파 축복을 도입한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:33:2",
+      "textSha256": "6bc5d7dae736c15eb688f77308e5d61db2763a58d3c02f7e9644377471f4e6ed",
+      "status": "exclude",
+      "reason": "시내·세일·바란과 성도·불 같은 율법의 현현을 묘사한다. A020의 도시 이동에 지명 이동만으로 현재 방향을 정할 수 없다.",
+      "contextNote": "하나님의 위엄 있는 강림을 여러 지명과 불의 율법으로 노래한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:33:3",
+      "textSha256": "b5eb9ec155e0e5072256462b52d16beeef9a8b2d697eb90f9f56940a63fc3582",
+      "status": "candidate",
+      "reason": "A035에서 여러 조언을 더 모을지에 사랑받는 이가 발 아래 앉아 말씀을 받는 고요한 자리가 실마리가 된다. 내 취향을 곧 신적 말씀이라고 확정하지 않는다.",
+      "contextNote": "백성을 사랑하시고 성도를 품으시는 하나님 앞의 수용을 노래한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A035",
+          "clue": "더 많은 의견을 좇기 전에 조용히 하나님 앞에서 받는 시간을 둘 수 있다.",
+          "friction": "언약 백성에 대한 시적 묘사다. 마음에 드는 말이 모두 신적 정답이라는 보장은 없다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:33:4",
+      "textSha256": "e3a25169f3fad42ed935a2193bb98d26e1e92908d63e38fd719803ad1fd61974",
+      "status": "hold",
+      "reason": "A030에서 전수할 지식을 기업처럼 보는 연결은 가능하지만 율법이 야곱 총회의 기업이라는 정체성 서술이다. 실제 후배에게 어떤 도움을 줄지에 충분함은 간접적이다.",
+      "contextNote": "모세의 율법을 공동체의 기업으로 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:33:5",
+      "textSha256": "546127f2a577a72f6aa57714e6af5290b6e635d2fa335e6ae5a5608dff379823",
+      "status": "exclude",
+      "reason": "왕과 두령·모든 지파가 함께 있던 때의 서술이다. A009의 혼자 할지 분담할지에 모임 자체 외 역할 배정의 실마리는 없다.",
+      "contextNote": "여수룬의 왕과 공동체의 결집을 노래한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:33:6",
+      "textSha256": "19d113bfe32536d076d2debc0131d9cf98c8b67601b025d4b500075c09782bbc",
+      "status": "candidate",
+      "reason": "H040에서 비교 때문에 친구의 성공을 축하하기 어려울 때 다른 이가 살고 수가 적지 않기를 바라는 선의가 닿는다. 르우벤의 인구 축복이지 친구 성과의 미래 보장은 아니다.",
+      "contextNote": "르우벤의 생존과 지속을 축복한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H040",
+          "clue": "비교 속에서도 다른 이의 삶과 번성을 바라는 마음을 말할 수 있다.",
+          "friction": "르우벤의 생존·인구 축복이다. 친구의 실적이나 내 비교 감정이 곧 해결됨을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:33:7",
+      "textSha256": "163bf4ab963308e6fad7bd1cf805828c2d9aec1a049484ae1888bb384dd59109",
+      "status": "hold",
+      "reason": "H034에서 어려운 이의 음성을 듣고 돕게 해 달라는 마음은 있으나 유다의 전투와 대적 공격 기도가 길다. 현재 작은 도움의 선택을 바로 비출지는 불확실하다.",
+      "contextNote": "유다의 귀환과 싸움·구원을 위해 기도한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:33:8",
+      "textSha256": "78297cf3fa384aece45d00459df44905b0f1d423d3d4eea6979cfbbdf9bf50d6",
+      "status": "hold",
+      "reason": "H051에서 맡은 사람의 경험과 권위를 생각할 수는 있으나 둠밈·우림과 맛사·므리바 시험을 알아야 한다. 현재 멘토에게 묻는 단서로는 설명 부담이 크다.",
+      "contextNote": "레위의 제사장 도구와 시험받은 역사를 축복한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:33:9",
+      "textSha256": "21e97db8cb715d010416962f8a17cc7f4097ebcd182fe5002846510c04b42f6b",
+      "status": "hold",
+      "reason": "H036에서 가족 기대보다 신앙 기준을 지키는 관점은 가능하나 부모·형제·자녀를 인정하지 않은 레위의 언약 충성을 말한다. 자기 진로를 곧 신적 의무로 만들 수 없다.",
+      "contextNote": "레위의 가족 관계보다 우선한 언약 충성을 설명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:33:10",
+      "textSha256": "89cc40990666158651269555cc8daa8e8c6cdc7668be8c73bb02dbb051903603",
+      "status": "candidate",
+      "reason": "A030에서 힘쓰는 일을 줄이고 가르치는 도움을 남길지에 법도를 가르치는 역할이 구체적으로 닿는다. 분향·번제까지 포함한 제사장 역할을 현대 멘토 일과 동일시하지 않는다.",
+      "contextNote": "레위의 율법 교육과 제사 봉사를 축복한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A030",
+          "clue": "힘으로 하는 일 외에 가르침을 전하는 역할을 남길 수 있다.",
+          "friction": "분향과 번제를 포함한 레위의 제사장 소명이다. 현대 후배 교육에 종교적 권위를 부여하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:33:11",
+      "textSha256": "387896b3e6467009975316902be8887e083a776a0ec9f61e1157509d5c80a7ab",
+      "status": "hold",
+      "reason": "A011에서 일의 복을 하나님께 맡길 생각은 있지만 대적의 허리를 꺾어 못 일어나게 해 달라는 기도가 강하다. 과거 방해보다 현재 삶을 보는 충분함은 보류한다.",
+      "contextNote": "레위의 일과 재산을 축복하며 대적의 무력화를 구한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:33:12",
+      "textSha256": "f2d6bdae8b0d9e1060f5b64956e62040ba251937dc4b1e511c703b6494d44bd5",
+      "status": "hold",
+      "reason": "A020의 낯선 곳 두려움에 사랑과 보호는 위로가 된다. 다만 베냐민의 안전한 거주와 어깨 사이 처함의 시여서 떠날지의 실마리와 실제 안전 보장 사이에 간격이 있다.",
+      "contextNote": "베냐민이 하나님 사랑과 보호 안에 거할 것을 축복한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:33:13",
+      "textSha256": "7f3bc81fd3eecec88e62338178b182eab94044afb9dbe8de175e8d4042b918e7",
+      "status": "hold",
+      "reason": "H040에서 다른 이의 땅에 복을 바라는 시선은 있으나 이슬과 저장 물을 열거하다 끝난다. 친구 성공을 축하할 충분한 독립 문장인지는 약하다.",
+      "contextNote": "요셉 땅의 풍요를 기원하는 목록을 시작한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:33:14",
+      "textSha256": "8d60b900bb87db0d09c0c32729a78bf38f9e19dc8f95202a663c0c03d18eeeed",
+      "status": "exclude",
+      "reason": "태양과 달이 기르는 보물의 나열이다. H046의 남보다 느린 진행을 계절 기다림으로 읽으려면 본절 밖의 작업 주기와 원인을 추가해야 한다.",
+      "contextNote": "요셉 땅에 내리는 천체와 계절의 혜택을 열거한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:33:15",
+      "textSha256": "4c8981083f50cc66191ce804c7f0a4553521b0c0aa0bf83d431812b0472ee702",
+      "status": "exclude",
+      "reason": "옛 산과 작은 산의 보물이라는 명사 나열이다. H005의 흠 있는 물건 가치에 오래됨의 보물이라는 말 외 구체 선택 기준이 없다.",
+      "contextNote": "산들의 소산에 대한 복 목록을 잇는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:33:16",
+      "textSha256": "8fcddd420fa9fc7cf0eb742daa003c1aa8cc55998c8bc3f3d61d7b8e23a435b7",
+      "status": "candidate",
+      "reason": "H040에서 비교 때문에 친구의 성취를 축하하기 어려울 때 요셉 머리에 복이 임하길 바라는 선의가 닿는다. 구별된 형제의 지위를 현재 친구의 신적 우월 판정으로 바꾸지 않는다.",
+      "contextNote": "요셉에게 땅의 풍요와 하나님의 은혜를 기원한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H040",
+          "clue": "내 비교의 점수보다 다른 이에게 은혜와 복이 임하기를 바랄 수 있다.",
+          "friction": "요셉과 형제 중 구별된 지위의 축복이다. 친구의 신적 우월이나 내 열등을 확정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:33:17",
+      "textSha256": "b3c8e266a70f955aebae9c988e8032a18c9df152acf26b738e7d76a008d4a1f4",
+      "status": "hold",
+      "reason": "H041에서 힘과 위엄을 생각할 수는 있으나 들소 뿔로 열방을 받는 에브라임·므낫세의 전쟁 수효이다. 새 역할을 적군 정복으로 바꾸어야 하는 간격이 남는다.",
+      "contextNote": "요셉 후손의 큰 군사적 힘을 들소의 뿔에 비긴다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:33:18",
+      "textSha256": "7a640e23ca5efbcf2df96cfaeb39800c45f42dd57fb441a55f8deedcd5edbf28",
+      "status": "candidate",
+      "reason": "H015에서 쉬는 주말을 죄책감 없이 가질지에 나감만 아니라 장막에 있음도 즐거워하라는 실마리가 직접 닿는다. 두 지파의 서로 다른 축복이지 모든 기회를 동시에 가질 보장은 아니다.",
+      "contextNote": "스불론의 나감과 잇사갈의 거주를 각각 기쁨으로 축복한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H015",
+          "clue": "계속 나가는 경험만이 아니라 집에 있는 시간도 즐길 수 있다.",
+          "friction": "서로 다른 두 지파의 역할 축복이다. 오늘의 모든 선택을 동시에 할 수 있다는 뜻이나 이미 한 약속을 없애는 말은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:33:19",
+      "textSha256": "94ca7ed2b73ca7e0c25ea37cbb332a86346d805380916513d27fcc6371a42d79",
+      "status": "hold",
+      "reason": "H047에서 다른 일의 풍요를 기대할 수는 있으나 산의 제사와 바다·모래의 보물이 중심이다. 현재 바꿀 일의 수입이나 조건을 이 해양 자원으로 보장할 수 없다.",
+      "contextNote": "두 지파의 예배와 바다 자원의 풍요를 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:33:20",
+      "textSha256": "67af9dec641c1368b3dfac7aab25d8c5ed1f146300623d3902fd2137ce024098",
+      "status": "exclude",
+      "reason": "확장에 찬송하는 말 뒤 암사자처럼 팔과 정수리를 찢는 군사 이미지가 있다. A007의 싸움을 말리는 선택에는 승리의 폭력이 연결을 압도한다.",
+      "contextNote": "갓의 확장과 군사적 힘을 사자에 비긴다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:33:21",
+      "textSha256": "069b06f15b9534cf712eaa7ab9cb46dee14425df72e9bbb3d357040204aff397",
+      "status": "candidate",
+      "reason": "H054에서 좋은 새 기회 때문에 약속한 일을 놓을지에 자기 기업을 받은 뒤에도 두령들과 함께 공의·법도를 행하는 책임이 닿는다. 두 기회를 모두 보존할 방법까지는 말하지 않는다.",
+      "contextNote": "먼저 기업을 받은 갓이 지도자들과 함께 의무를 행함을 축복한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H054",
+          "clue": "내 몫의 이익을 본 뒤에도 함께 약속한 책임을 남겨 둘 수 있다.",
+          "friction": "갓의 기업과 공동체 의무에 대한 시다. 새 기회와 기존 약속을 반드시 양립할 수 있게 해 주지는 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:33:22",
+      "textSha256": "aa75deb2d98529f34fc45ff5b337cc3080286fa18059a4dd35e1cd4c37655769",
+      "status": "hold",
+      "reason": "G15에서 새끼 사자가 뛰어나오는 용기의 이미지는 가능하나 단과 바산의 비유 한 줄이다. 역할의 어떤 부담을 가를지보다 기운만 북돋아 충분함은 보류한다.",
+      "contextNote": "단의 활동성을 바산에서 뛰는 사자 새끼에 비긴다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:33:23",
+      "textSha256": "743bf85658ac5865d06c8ecc1a1fb2d44e17a11305d1b37cec9ab43d3d389a7f",
+      "status": "candidate",
+      "reason": "H001에서 이미 비슷한 신발이 있는데도 모은 돈으로 원하는 것을 더 가져도 될지에 은혜가 족하다는 말과 새 땅을 얻는 말이 함께 있어 만족과 새로운 누림을 같이 생각할 수 있다. 방향과 토지 명령을 구매 지시로 해설하지 않는다.",
+      "contextNote": "복이 가득한 납달리에게 서방과 남방의 기업을 축복한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H001",
+          "clue": "이미 가진 은혜에 만족하는 마음과 감당 가능한 새 누림을 무조건 적으로 만들지 않을 수 있다.",
+          "friction": "서방·남방 토지 기업의 축복이다. 신발을 사라는 신적 명령이나 추가 자금의 보장으로 해설하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:33:24",
+      "textSha256": "25c857f63acb29a477b964359ade8b12520b04bc5b0c1777decb9ff731d0dfd1",
+      "status": "candidate",
+      "reason": "H040의 친구 성공을 내 손해처럼 느낄지에 형제에게 기쁨이 되는 복을 바라는 시선이 닿는다. 다자와 기름의 풍요를 친구의 실제 자녀·재산으로 추가하지 않는다.",
+      "contextNote": "아셀의 번성과 형제들에게 주는 기쁨을 축복한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H040",
+          "clue": "다른 이의 복을 내 비교의 손해보다 함께 기뻐할 일로 볼 수 있다.",
+          "friction": "아셀의 자녀와 기름 풍요를 축복하는 시다. 친구의 구체 성과·가족 조건을 새로 만들지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:33:25",
+      "textSha256": "8a39ec1e4e7573622d59ccb276f2bc59384bc3b60704b076756226477647ac65",
+      "status": "candidate",
+      "reason": "H041에서 미래 역할의 모든 능력을 미리 갖춰야 할지에 사는 날을 따라 능력이 있다는 격려가 닿는다. 철·놋 빗장의 방어 축복을 실제 자격 검증이나 무제한 체력의 보장으로 바꾸지 않는다.",
+      "contextNote": "아셀의 견고한 보호와 날에 맞는 힘을 축복한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "앞날의 모든 힘을 미리 확보하려 하기보다 그날에 맞는 힘을 믿고 생각할 수 있다.",
+          "friction": "철과 놋 빗장의 보호 축복이다. 실제 능력 검증이나 무제한 건강·직무 성공을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:33:26",
+      "textSha256": "ce61bbed0fa7651777b1fb3deaca9584c2113fd33e60d1baa50c88268dc12e11",
+      "status": "hold",
+      "reason": "H058에서 나를 돕는 하나님이라는 신앙은 위로가 된다. 다만 하늘 타시는 위엄의 묘사여서 현재 타인에게 도움을 청할 선택에는 단서가 간접적이다.",
+      "contextNote": "하나님이 돕기 위해 오시는 위엄을 찬양한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:33:27",
+      "textSha256": "a40fe0199ed8ad5d45385c159f412a4d8cbaf73e9ab0ac3486da6fe12c80b187",
+      "status": "hold",
+      "reason": "A020에서 낯선 곳에서도 하나님이 처소라는 마음은 닿지만 뒤에 대적을 쫓고 멸하라는 명령이 붙는다. 현재 도시 이동을 위해 제거할 적을 가정할 수 없어 충분함을 보류한다.",
+      "contextNote": "하나님 품의 보호와 대적 제거를 함께 노래한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:33:28",
+      "textSha256": "52959e26c462af2aacccbaf49ec5de71c47eb3e2eb36116ad7628d266bc82e38",
+      "status": "hold",
+      "reason": "H013에서 안전한 거주의 위로는 있으나 곡식·포도주·이슬 있는 이스라엘 땅의 정착 묘사이다. 실제 여행의 안전과 계획 성패를 알려 주지는 않는다.",
+      "contextNote": "풍요로운 땅에 안전히 거하는 이스라엘을 노래한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:33:29",
+      "textSha256": "08c85c833420000e04c62f9755c56da715ec06dcb92b95d099bb6d05c92cd217",
+      "status": "hold",
+      "reason": "H041에 돕는 방패의 힘은 읽히지만 구원받은 백성의 독보성과 대적 복종·높은 곳 밟음이 함께 있다. 역할의 실제 두려움에 민족 우위를 가져올 간격이 남는다.",
+      "contextNote": "구원받은 이스라엘의 행복과 대적 승리를 찬양한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:34:1",
+      "textSha256": "34fe3cd73254ed297b624e485aaf407958fccbe43caf6486c60e4ffff3ddfba1",
+      "status": "hold",
+      "reason": "H060에서 닫힌 기회를 바라보는 연결은 가능하나 본절은 산에 올라 여러 땅을 보는 동작뿐이고 진입 한계는 뒤에 있다. 독립 실마리의 충분함을 보류한다.",
+      "contextNote": "모세가 느보산에 올라 길르앗부터 가나안을 본다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:34:2",
+      "textSha256": "f22372a0578976d71ad9c5fd100140a561904ad05c77da5d14aa3be9c6440e1f",
+      "status": "exclude",
+      "reason": "납달리·에브라임·므낫세·유다와 서해의 지리 목록이다. A020의 새 도시 기회에 지명만으로 방향이나 부담을 판단할 수 없다.",
+      "contextNote": "모세에게 보이신 땅의 북부와 서부 범위를 열거한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:34:3",
+      "textSha256": "03adb49e2030f26b8860c8b4373b50b8fc1ce0e47248d764cf39564c1472e840",
+      "status": "exclude",
+      "reason": "남방·여리고 골짜기·소알까지의 지리 나열이다. H061의 두 선택을 분별할 조건은 이 명단에 없으며 보이시고에서 이어진다.",
+      "contextNote": "모세에게 보이신 땅의 남부 범위를 열거한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:34:4",
+      "textSha256": "a9850078864b478058947a75231afa74981b55bfeb9016ef2fb73b6b36a552a7",
+      "status": "candidate",
+      "reason": "H060에서 이미 닫힌 기회에 매달릴지에 볼 수는 있지만 건널 수 없는 한계를 인정하는 실마리가 닿는다. 조상에게 맹세한 땅과 모세의 제한을 현재 신적 금지나 다음 기회 약속으로 바꾸지 않는다.",
+      "contextNote": "모세에게 약속의 땅을 보였으나 진입은 허용하지 않으신다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H060",
+          "clue": "그리운 기회를 볼 수 있다는 것과 다시 들어갈 수 있다는 것을 구별할 수 있다.",
+          "friction": "모세에게 주어진 가나안 진입 제한이다. 지금의 상실을 죄의 벌로 판단하거나 다음 기회를 약속하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:34:5",
+      "textSha256": "7bb6545f19085750cc18f69d4d7e16fabc9cb9cad188b6839758cb22eec93ebc",
+      "status": "exclude",
+      "reason": "모세가 말씀대로 모압에서 죽었다는 사건이다. A030의 체력상 역할 변경을 현재 수명이나 죽음의 명령으로 옮길 수 없다.",
+      "contextNote": "모세의 죽음을 기록한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:34:6",
+      "textSha256": "fdcce550191525c6c93217449d0645fba9e31c95c6a6e34766a5857524dabe14",
+      "status": "exclude",
+      "reason": "모압 골짜기 매장과 무덤 위치를 모른다는 기록이다. H039의 비밀 약속에 장지의 비공개를 일반 비밀 유지 근거로 삼을 연결이 약하다.",
+      "contextNote": "모세의 매장과 알려지지 않은 묘를 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:34:7",
+      "textSha256": "2ba6a1137bb00cbab2dd5e9ead5e15e174831cde48a084c167d072b3cb170106",
+      "status": "hold",
+      "reason": "A030에서 나이만으로 모든 도움을 포기하지 않을 생각은 가능하다. 그러나 기력 쇠함이 없었던 특정 인물의 죽음 기록이며 실제 힘든 중량 작업을 계속하라고 신체 한계를 지울 수 없다.",
+      "contextNote": "모세가 일백이십세에도 눈과 기력이 보존되었음을 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:34:8",
+      "textSha256": "f2b0216a25c12e6ec2f0d1cc548720324118fa3dc290e8e51362bd94c264e668",
+      "status": "candidate",
+      "reason": "H060에서 놓친 기회를 슬퍼만 할지에 충분히 애곡하면서도 그 기한이 마치는 장면이 닿는다. 실제 모세의 죽음과 삼십일을 현재 기회 상실이나 감정 회복 기한으로 강제하지 않는다.",
+      "contextNote": "이스라엘의 모세 애도 기간이 삼십일로 마친다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H060",
+          "clue": "잃은 것을 충분히 슬퍼하는 시간과 그 뒤의 삶을 구별해 볼 수 있다.",
+          "friction": "모세의 실제 죽음에 대한 삼십일 애도다. 현재 기회 상실을 사별과 같게 보거나 같은 회복 기한을 강요하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:34:9",
+      "textSha256": "36115f9b803b077a3d3652487ca69c75579a09564782d983731938e739ca2d66",
+      "status": "candidate",
+      "reason": "A030에서 무거운 역할을 내려도 후임을 길러 넘길지에 안수받은 여호수아가 지혜로 인정받고 백성이 따르는 이양이 닿는다. 현대 후임의 능력·수락·성공이 자동 보장되지는 않는다.",
+      "contextNote": "모세의 안수 후 여호수아의 지혜와 승계를 기록한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A030",
+          "clue": "내가 무거운 일을 계속하지 않아도 다음 사람을 준비시키고 권한을 넘길 수 있다.",
+          "friction": "모세의 안수와 하나님의 명령 아래의 승계다. 현대 후임에게 같은 영적 지위나 성공을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:DEU:34:10",
+      "textSha256": "c53b0e4566cf3b43b7898f13f4c1faabd6a780e7dfa26559940f312a08a8e3f4",
+      "status": "hold",
+      "reason": "H046에서 남과 똑같을 필요를 내려놓는 관점은 가능하나 모세 같은 선지자의 독보적 하나님 대면을 말한다. 현재 개인의 진행 속도와 계획에 충분한 연결은 간접적이다.",
+      "contextNote": "모세의 독특한 선지자적 지위를 평가한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:34:11",
+      "textSha256": "5b5639d4d73591cdff1735ca8e16bfc57194a15acf686fe75fa34666e3d5abbf",
+      "status": "exclude",
+      "reason": "애굽에 보내 바로와 온 땅에 이적을 행한 사명의 나열이 다음 절로 이어진다. G15의 첫 역할에 현재 이적 수행 능력이나 임명을 추가할 수 없다.",
+      "contextNote": "모세가 애굽에서 행한 이적의 사명을 회고한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:DEU:34:12",
+      "textSha256": "c9b2d3d5e046af9dc997f370a3aa1774ba948df8e08fb733afbca10f7bda7527",
+      "status": "hold",
+      "reason": "H041에서 큰 일을 행한 사람의 격려는 가능하나 온 이스라엘 앞 모세의 권능 평가이다. 현재 역할의 적격이나 내가 할 선택을 직접 비출 단서는 약하다.",
+      "contextNote": "모세의 공개적 권능과 위엄을 회고하며 책을 마친다.",
+      "readability": "thinkable",
+      "connections": []
     }
   ]
 }
