@@ -4000,6 +4000,290 @@
       "contextNote": "유다 북쪽 경계를 서쪽으로 이어 간다.",
       "readability": "needs_explanation",
       "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:10",
+      "textSha256": "e8aa0433fdea13f9cb71e64e0845fb6ccbece8506846822ae58fad1068f5154c",
+      "status": "exclude",
+      "reason": "바알라·세일·여아림·벧세메스·딤나의 경계 경로이다. A020의 현재 이동에 이 여러 지명을 생활 조건으로 대응할 근거가 없다.",
+      "contextNote": "유다 북서 경계를 산과 도시로 이어 간다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:11",
+      "textSha256": "dee4beb5a1fc6e3954347163b652a48aef4c96315cae4bcb833d13b8df1e07f7",
+      "status": "exclude",
+      "reason": "에그론·식그론·바알라산·얍느엘·바다의 지경이다. H029의 경계 지키기는 물리 지도 외 행동 규범이 없는 이 절에서 직접 읽기 어렵다.",
+      "contextNote": "유다 북서 경계의 끝을 해안으로 잇는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:12",
+      "textSha256": "2b88443e4a9232463bb51e0ace3011712a96ba0ceddb34152976d771a6b7f2e1",
+      "status": "exclude",
+      "reason": "대해와 해변을 가족별 기업의 서편 경계로 정리한다. A029의 역할별 장비 수량에 이 해안 범위가 실제 필요의 기준이 되지 않는다.",
+      "contextNote": "유다의 사면 경계를 마무리한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:13",
+      "textSha256": "f1d294d81916ddf7008bd3b0d60bbb42c4b925e10a84b8e3b91d3ce8487f9e0c",
+      "status": "hold",
+      "reason": "A021에서 공동의 기업 가운데 해당 몫을 인정할 관점은 있지만 갈렙의 헤브론 수령과 아낙 계보 설명이다. 같은 노동 보상을 고를 충분한 기준은 간접적이다.",
+      "contextNote": "갈렙에게 주어진 헤브론의 배분을 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:14",
+      "textSha256": "a480cc2affa118978082772cd556175a8596f339d249b1e4920d75b4d144cb8e",
+      "status": "hold",
+      "reason": "G15에서 큰 어려움에 맞서는 용기는 가능하나 아낙의 세 후손 세새·아히만·달매를 쫓는 사건이다. 역할의 부담을 실제 특정인 제거로 바꾸지 않고 읽을 충분함은 보류한다.",
+      "contextNote": "갈렙이 헤브론의 아낙 후손들을 쫓아낸다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:15",
+      "textSha256": "5bd9c881536df2d2d13e52e64ea7e4174cb65940c798dbb9ee5f608663746865",
+      "status": "exclude",
+      "reason": "드빌을 공격했다는 사실과 기럇세벨이라는 옛 이름이다. H043의 방법 변경에 실제 어떤 방식을 바꿨는지나 배울 기준이 없다.",
+      "contextNote": "갈렙이 드빌로 공략을 이어 간다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:16",
+      "textSha256": "3442588943d1c723a8be69cd226c931fb7d2ebcb20b043a911b2e86b4df0f6c1",
+      "status": "exclude",
+      "reason": "성 정복의 대가로 딸을 아내로 주겠다는 약속이다. A006의 보수 협의에 사람을 보상물로 바꾸거나 H032의 상호 고백 선택을 정복 성과로 정할 수 없다.",
+      "contextNote": "갈렙이 드빌 공략자에게 악사와의 혼인을 제안한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:17",
+      "textSha256": "0452a1a564c61ca538892cf6f2aafcf64241b27324da0cf775542de6b3bebb66",
+      "status": "exclude",
+      "reason": "옷니엘이 성을 취해 악사를 아내로 받는 사건이다. H032의 상대 마음을 모르는 고백에 당사자의 마음·의사 확인이 없는 혼인 보상을 답으로 삼기 어렵다.",
+      "contextNote": "옷니엘의 정복과 혼인을 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:18",
+      "textSha256": "e7cefda54ec29f5f77c3d417e4245a8507c4c124a6b3bcd20bb553dcbdc86ab0",
+      "status": "candidate",
+      "reason": "A013에서 긴 조언을 계속할지에 상대에게 무엇을 원하는지 직접 묻는 듣기의 실마리가 닿는다. 악사의 밭 요청과 출가·나귀의 배경을 현재 친구의 실제 필요나 수락으로 채우지 않는다.",
+      "contextNote": "악사가 밭을 청하려 하고 갈렙이 원하는 것을 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A013",
+          "clue": "더 많은 긴 조언보다 먼저 상대가 실제 원하는 것을 물어볼 수 있다.",
+          "friction": "출가한 악사와 아버지 사이 밭 요청 장면이다. 친구도 같은 필요나 같은 반응을 보일지는 알 수 없다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOS:15:19",
+      "textSha256": "cc3574a9e3b9afc29664d63e88f4a25cda739808c82803d2a0a3b5ff2a595e63",
+      "status": "candidate",
+      "reason": "H033에서 더 부탁하면 부담일까 혼자 버틸지에 필요한 샘물을 구체적으로 청하는 실마리가 있다. 아버지가 두 샘을 준 결과를 현재 친구도 반드시 줄 것이라는 보장으로 쓰지 않는다.",
+      "contextNote": "악사가 땅과 함께 샘을 청하고 윗샘·아랫샘을 받는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "추상적 미안함에 멈추기보다 필요한 도움을 구체적으로 청할 수 있다.",
+          "friction": "딸이 아버지에게 샘을 요청하고 받는 이야기다. 지금 친구의 여유·응답·제공 능력을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOS:15:20",
+      "textSha256": "3a9b0393c742563afa3cdd28cc72958aaa8458740c37e0dba24c90bf69019cdd",
+      "status": "hold",
+      "reason": "A029에서 가족 단위로 몫이 있다는 구분은 보이나 목록의 제목뿐이다. 실제 기능별 필요가 없어서 장비를 똑같이 나눌지에 충분하지 않다.",
+      "contextNote": "유다의 성읍 기업 목록을 연다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:21",
+      "textSha256": "743ec8a9bfdc6bc0d63c6ab0680729556f2a595fbeca9e1c6baa1fa142a750a0",
+      "status": "exclude",
+      "reason": "남쪽 에돔 접경의 갑스엘·에델·야굴 목록이다. A020의 새 도시 기회에 이 경계나 도시를 현재 거주 선택으로 추가할 수 없다.",
+      "contextNote": "유다 남부 도시 목록을 시작한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:22",
+      "textSha256": "e956dbe0013025b4078d33a4502c3059bbb7180a9bcf3458382c04bb32207b5b",
+      "status": "exclude",
+      "reason": "기나·디모나·아다다 세 이름의 열거이다. H003의 상품 판단에 확인할 성능·용도나 선택 행동이 없다.",
+      "contextNote": "유다 남부 성읍을 열거한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:23",
+      "textSha256": "ab1a596afb894befe2005a507ccdd7505904bee10696ebac04de5db58a9f5d6d",
+      "status": "exclude",
+      "reason": "게데스·하솔·잇난의 나열이다. H061의 실제 선택지를 이 도시들로 대체할 조건이 주어지지 않았다.",
+      "contextNote": "유다 남부 성읍 목록을 잇는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:24",
+      "textSha256": "a913e29ad142a01584be27f3a44db1dd8934967eceee1f84f32c72991fd16aaf",
+      "status": "exclude",
+      "reason": "십·델렘·브알롯이라는 고유명사만 있다. H046의 속도 고민을 가를 기간이나 과정은 없다.",
+      "contextNote": "유다 남부 성읍을 더 열거한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:25",
+      "textSha256": "43f44a450537f80df4dd8b566dae19bc5c68272359347daf0ac87365ead89305",
+      "status": "exclude",
+      "reason": "하솔하닷다와 그리욧헤스론 곧 하솔의 이름 관계이다. H037의 상대 마음 확인에 지명의 별칭 외 대화나 검증 단서는 없다.",
+      "contextNote": "유다 남부 성읍과 다른 이름을 기록한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:26",
+      "textSha256": "2afe5943ad4cd011763c0dc671cdeb0449c7ec659aaea5a8f303d9bd77650ac1",
+      "status": "exclude",
+      "reason": "아맘·세마·몰라다 세 도시의 나열이다. H059의 나눔에 실제 여유나 받을 이의 필요를 알려 주지 않는다.",
+      "contextNote": "유다 남부 성읍 목록을 잇는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:27",
+      "textSha256": "55ecd7873ba82e23281a05c0a762ea697b4d03920c01998277f10c50c7cb877e",
+      "status": "exclude",
+      "reason": "하살갓다·헤스몬·벧벨렛의 지명만 있다. H051의 조언 요청에 어떤 경험자나 도움 방식이 있는지 알 수 없다.",
+      "contextNote": "유다 남부 성읍을 열거한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:28",
+      "textSha256": "f962268377ed752e01c138ce4481b349ce4b96cb2454816f4dceccf2b92caf4f",
+      "status": "exclude",
+      "reason": "하살수알·브엘세바·비스요댜의 목록이다. A014의 보호 준비에 위험·도구·시점의 정보는 없다.",
+      "contextNote": "유다 남부 도시 목록을 계속한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:29",
+      "textSha256": "f9b9ff5be0183d6255d8052322e7e686ae9d000d72b761ab8415141e0b9cc8f5",
+      "status": "exclude",
+      "reason": "바알라·이임·에셈 세 성읍 이름이다. H047의 직업 변화에 수입과 가치의 실제 비교 기준이 제시되지 않는다.",
+      "contextNote": "유다 남부 성읍을 열거한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:30",
+      "textSha256": "691b369e741ebe9181ad49b1c8e2ae9087f896cdd2eb11846528b5cf3976e033",
+      "status": "exclude",
+      "reason": "엘돌랏·그실·홀마의 병렬이다. A009의 업무 분담에서 사람의 역할이나 가용성을 지명으로 채울 수 없다.",
+      "contextNote": "유다 남부 성읍 목록을 잇는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:31",
+      "textSha256": "b3571a3a8d4255b0ea456a1c379b6d4761dfe389786c3ed4891b21894e42c8db",
+      "status": "exclude",
+      "reason": "시글락·맛만나·산산나·르바옷의 나열이다. H053의 시작한 일을 끝낼지에 진행이나 완수의 행동이 없다.",
+      "contextNote": "유다 남부 성읍들을 더 기록한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:32",
+      "textSha256": "a481e4b6333c98a85ad7d4e9838ad1a32cee1b6e9493e807c77788159e5c5daf",
+      "status": "exclude",
+      "reason": "실힘·아인·림몬과 이십구 성읍·촌락의 집계이다. A021의 보상 배분에 도시 수가 노동 기여나 금액 기준이 되지 않는다.",
+      "contextNote": "유다 남부 도시군을 합계로 마친다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:33",
+      "textSha256": "0e3d8b81031aec4280ff292fdc9787633f089b113afd714ca5ecc7608da1701c",
+      "status": "exclude",
+      "reason": "평지의 에스다올·소라·아스나 목록이다. A029의 장비 배분에 평지라는 말만으로 역할의 실제 필요를 정할 수 없다.",
+      "contextNote": "유다 평지 도시군을 시작한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:34",
+      "textSha256": "7374de6111d6a6c819f02250e80c54f3460162d71a05f0fdca13661eaededd5a",
+      "status": "exclude",
+      "reason": "사노아·엔간님·답부아·에남의 고유명사 나열이다. H061의 여러 선택에 실제 장단점은 없다.",
+      "contextNote": "유다 평지 성읍을 열거한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:35",
+      "textSha256": "9fa0d1f7a0c61d8153ad3f14352506d224429bccd33115a0816dc1230dc60462",
+      "status": "exclude",
+      "reason": "야르뭇·아둘람·소고·아세가 목록이다. H011의 약속한 봉사에 이 장소나 이름이 약속 이행의 기준은 아니다.",
+      "contextNote": "유다 평지 성읍 목록을 잇는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:36",
+      "textSha256": "59f6fe8c68b5c5edec6fbc95b0af1c95c6386b488f774c86bec43825f865c84f",
+      "status": "exclude",
+      "reason": "사아라임·아디다임·그데라·그데로다임과 십사 성읍 집계이다. H059의 얼마 나눌지에 수효만으로 현재 여력과 필요를 대응할 수 없다.",
+      "contextNote": "첫 평지 도시군을 합계로 마친다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:37",
+      "textSha256": "13e8c21641b898e25f62aefb721e5b727f54044b01ace3f3a01ec0fdd516220f",
+      "status": "exclude",
+      "reason": "스난·하다사·믹달갓의 나열이다. H034의 힘든 친구에게 무엇을 도울지 독립 내용이 없다.",
+      "contextNote": "다음 유다 평지 도시군을 연다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:38",
+      "textSha256": "896cd70a2e7bbc0c3e81ecb0d891492c23a06b7a2cf6baecc99d9040f851cfe2",
+      "status": "exclude",
+      "reason": "딜르안·미스베·욕드엘의 목록이다. H030의 소문 확인에 사실 조사나 판단의 순서는 없다.",
+      "contextNote": "유다 평지 도시 목록을 잇는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:39",
+      "textSha256": "74b2afa318dde4f2aa85178661c4d165c28d281d23825475b28a1715f03c4ddc",
+      "status": "exclude",
+      "reason": "라기스·보스갓·에글론의 세 지명이다. G15의 첫 역할 두려움에 전투의 옛 장소 이름만으로 행동 실마리가 생기지 않는다.",
+      "contextNote": "유다 평지 성읍들을 열거한다.",
+      "readability": "needs_explanation",
+      "connections": []
     }
   ]
 }

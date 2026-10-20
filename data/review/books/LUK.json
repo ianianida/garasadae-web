@@ -11424,6 +11424,430 @@
           "expectedEnough": "uncertain"
         }
       ]
+    },
+    {
+      "id": "KRV:LUK:18:16",
+      "textSha256": "52e0a38fc253186adf0292335a581cdae07595b21d1797985d79b113ca911c29",
+      "status": "candidate",
+      "reason": "아이들을 가까이 부르고 막지 말라고 하는 명시적 환대는 작은 사람의 접근을 방해하지 않는 운영의 목적을 보여 준다.",
+      "contextNote": "아이들을 꾸짖은 제자들과 달리 예수가 아이들을 맞으며 나라의 자리를 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C005",
+          "clue": "운영의 편의 때문에 어려움을 말하는 새 사람을 가까이 듣는 자리에서 막고 있는지 돌아볼 수 있다.",
+          "friction": "구성원을 어린아이처럼 미숙한 존재로 판정하지 않는다. 모든 요구를 무제한 허용하라는 뜻도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:18:17",
+      "textSha256": "6bf3e326610f87cada30e7400033d58f7fa701c8f775a6ef5030d70c7991a36f",
+      "status": "candidate",
+      "reason": "아이처럼 받아들이는 태도를 강조하여 모든 것을 이미 알고 갖춘 모습만이 배움의 입구인지 돌아보게 한다.",
+      "contextNote": "하나님 나라를 받는 태도를 아이의 수용으로 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "질문하면 덜 아는 사람처럼 보인다는 걱정 대신 배우려는 태도를 가질 수 있는지 생각할 수 있다.",
+          "friction": "비판적 생각 없이 선배에게 복종하라는 뜻이 아니다. 나라에 못 들어간다는 말을 질문을 안 한 사람의 신적 벌로 쓰지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:18:18",
+      "textSha256": "c6ba13d22391dac8595c6fa3c48d55edbfd92dc007ec0e94788c77a522a435b8",
+      "status": "exclude",
+      "reason": "관원이 영생의 방법을 묻는 질문만으로 무엇이 부족한지와 행동의 기준은 나오지 않아 일상의 특정 선택에 답을 대신 줄 수 없다.",
+      "contextNote": "부자 관원과의 대화를 시작한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:18:19",
+      "textSha256": "dff823b9cccdced17bfe82124e27c80b95320e1f56bf5c2a97699744dc7aa34d",
+      "status": "hold",
+      "reason": "선하다는 호칭의 근거를 묻는 말은 말의 무게를 돌아보게 하지만 하나님 한 분의 선함을 현재 자기 성과의 평가와 바로 같게 두기 어렵다.",
+      "contextNote": "예수가 관원의 선한 선생님이라는 부름을 되묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "좋아 보이는 평가어를 붙이기 전에 그것이 실제 무엇에 근거하는지 볼 여지는 있다.",
+          "friction": "본문은 예수와 하나님의 선함에 대한 질문이며 성과 보고의 사실을 직접 다루지는 않는다. 모든 인간의 좋은 행동을 부정하는 뜻도 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:18:20",
+      "textSha256": "b1ac8be55711015986076b73a115b31cc38ed7369ffc09a25e346b263b5d7266",
+      "status": "candidate",
+      "reason": "거짓 증거하지 말라는 명확한 기준이 다른 관계의 계명들과 함께 있어 평가의 유불리와 별개로 지켜야 할 말을 보게 한다.",
+      "contextNote": "영생을 묻는 관원에게 이미 아는 계명들을 확인한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "팀의 기대와 별개로 내가 증명할 수 없는 수치를 사실처럼 쓰는 것이 어떤 말인지 돌아볼 수 있다.",
+          "friction": "나열된 다른 죄도 모두 사용자가 범했다는 뜻은 아니다. 부모 공경의 뒷말이 부정한 명령에 복종할 근거가 되지는 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:18:21",
+      "textSha256": "94d647527938fe7046bfdbe1d6c5e7001dad31d5f404ae1438834e11b9c9c14a",
+      "status": "hold",
+      "reason": "어려서부터 다 지켰다는 답은 자기 확신을 보여 주지만 바로 뒤에서 부족함이 지적되므로 현재 자기 입장을 옳다고 승인하는 말로 쓰기 어렵다.",
+      "contextNote": "관원이 계명 준수의 이력을 말하고 예수는 남은 한 가지를 답한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "평소 잘해 온 이력과 이번에 빠뜨린 부분의 유무가 같은 질문인지 돌아볼 여지는 있다.",
+          "friction": "이것의 계명 내용은 앞 절에 있으며 관원의 자기 평가를 본문이 완전하다고 확정한 것은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:18:22",
+      "textSha256": "9fa049ca48eb21fda2b9b55aa090999503c2b7a96acb7a559d52779dfa141f90",
+      "status": "hold",
+      "reason": "전부를 팔아 나누고 따르라는 특정 관원의 요청 전체는 소유의 지배를 묻지만 작은 나눔의 액수로 마음대로 줄여 옮길 수 없다.",
+      "contextNote": "관원의 한 부족함을 소유 포기와 예수 따름으로 드러낸다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H059",
+          "clue": "소유를 지키려는 마음이 돕고 싶은 선택 전체를 막는지 생각할 여지는 있다.",
+          "friction": "다 팔라는 범위를 지운 채 일부만 나누라는 명령으로 바꾸지 않는다. 이 뽑기로 전 재산 처분이나 하늘 보상액을 지시할 수도 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:18:23",
+      "textSha256": "78ad8d64872e1409a0f329e9fb0e7483a31744c8f44821836e78c330ea101a8c",
+      "status": "hold",
+      "reason": "재산이 많아 근심한 반응은 소유를 놓기 어려운 마음을 비추지만 이 말씀의 전량 처분 요구를 알아야 무엇이 부담인지 분명하다.",
+      "contextNote": "부자 관원이 예수의 요청을 듣고 몹시 근심한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H059",
+          "clue": "가질수록 나누는 선택이 더 쉽기만 한 것인지 내 마음을 볼 여지는 있다.",
+          "friction": "여력이 있으면서 일부를 나누는 고민과 전부를 팔라는 특정 부름은 다르다. 근심만으로 사용자의 신앙을 판정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:18:24",
+      "textSha256": "4df936a685e943dde9cd15c263362f9904045f0d1c58daf0e7437ed37ef69dcf",
+      "status": "candidate",
+      "reason": "많은 재물이 나라에 들어가는 데 오히려 어려움이 된다는 역전은 소유를 늘리는 일이 삶의 충분함을 늘리는지 되묻게 한다.",
+      "contextNote": "근심하는 관원을 보고 예수가 재물의 힘을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H001",
+          "clue": "비슷한 물건이 많은 지금 하나 더 갖는 것이 내가 찾는 자유와 만족을 꼭 더하는지 돌아볼 수 있다.",
+          "friction": "물건을 사고 싶으면 구원 밖이라는 판정은 아니다. 뒤에서 하나님이 하실 수 있음을 말하므로 재산의 유무로 운명을 확정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:18:25",
+      "textSha256": "e4466aea0c914f75c404ccd0fd073417bfdf906ae10caa97f78f1524ec72d5e5",
+      "status": "hold",
+      "reason": "낙타와 바늘귀의 극단적 비교는 재물의 어려움을 강하게 드러내지만 보통의 구매를 곧 불가능한 구원의 문제로 만들 수 있다.",
+      "contextNote": "부자의 구원 문제를 큰 불가능의 비유로 강조한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H001",
+          "clue": "더 많이 갖는 일이 언제나 나를 더 자유롭게 하는지 돌아볼 여지는 있다.",
+          "friction": "기존 신발이나 구매 의향만으로 사용자가 하나님 나라 밖이라고 하지 않는다. 뒤의 하나님 가능의 답 없이 단독으로는 죄책감을 과도하게 만들 수 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:18:26",
+      "textSha256": "48e46c596d31b2e8f6c1c77185a2392b674c7c58467010f3447b0eb91c59b2b2",
+      "status": "candidate",
+      "reason": "어려운 말을 듣고 그 결론을 다시 묻는 사람들의 질문은 이해한 척 덮지 않고 함의를 확인하는 모습을 준다.",
+      "contextNote": "낙타 비유를 들은 이들이 누가 구원받을 수 있는지 예수에게 묻는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "설명을 들었는데 오히려 헷갈린 부분을 다시 묻는 것이 배움의 자연스러운 과정인지 볼 수 있다.",
+          "friction": "질문의 본뜻은 구원이며 선배가 신적 해답을 주는 사람이라는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:18:27",
+      "textSha256": "4fcd1f991033fce935ee2600a57ce7cb00b8e022577bf5d93d681fdae8d7a768",
+      "status": "candidate",
+      "reason": "사람의 불가능과 하나님의 가능을 나누는 말은 지금 내가 부족하다는 판단을 모든 가능성의 끝과 같게 두지 않게 한다.",
+      "contextNote": "누가 구원받을 수 있냐는 물음에 예수가 하나님의 능력을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "내 현재 능력만으로 모든 미래를 닫는 대신 도움과 배움을 포함한 시작의 여지를 볼 수 있다.",
+          "friction": "선발이나 업무 성공이 확정됐다는 말은 아니다. 구원의 본뜻과 내 역할 도전을 개인적으로 연결하며 실제 준비의 필요는 남는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:18:28",
+      "textSha256": "4242768eb45b0ab30d2b9ccb94e0d1899a7c93cbf7421c0219892615e5d37d5b",
+      "status": "hold",
+      "reason": "자기 것을 버리고 따랐다는 베드로의 보고는 큰 전환의 모습을 보이지만 지금 그 선택을 권하는 기준이나 생활 조건은 제시되지 않는다.",
+      "contextNote": "부자 관원의 어려움 뒤 베드로가 제자들의 포기를 내세운다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H047",
+          "clue": "현재 가진 안정과 새 방향 사이에서 내려놓을 몫을 생각할 여지는 있다.",
+          "friction": "베드로가 이미 받은 예수의 부름과 사용자의 이직은 다르며 다 버리는 것만이 용기라는 결론으로 쓰지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:18:29",
+      "textSha256": "a9e5bdea1157dadb6aa2f6823c5c0b568fc0c53660fdb75a2af41316423c48b0",
+      "status": "hold",
+      "reason": "나라를 위해 가족과 집을 떠난 사람을 말하지만 주절의 보상이 다음 절로 이어지고 일반 진로와 가족의 조율을 같은 사명으로 놓기 어렵다.",
+      "contextNote": "예수가 베드로의 포기에 응답하기 시작한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H036",
+          "clue": "중요한 길에 가족의 기대와 다른 몫이 있을 수 있다는 질문은 생긴다.",
+          "friction": "아내나 자녀와 부모를 버리라는 현재의 진로 지시로 쓰면 맞지 않는다. 나라를 위한 포기의 특수한 조건이 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:18:30",
+      "textSha256": "574fcf11e60ea95402abbd7d63264689f90f92445c1face67b6d98ae15aeace0",
+      "status": "hold",
+      "reason": "여러 배와 영생의 약속은 큰 포기의 소망이나 누가 무엇을 위해 떠났는지 앞 절의 조건 없이 이직의 소득 보상으로 읽힐 위험이 있다.",
+      "contextNote": "하나님 나라를 위한 제자들의 포기에 현재와 장래의 보상을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H047",
+          "clue": "지금 잃을 몫만이 가치의 전부인지 돌아볼 여지는 있다.",
+          "friction": "소득이 몇 배로 돌아온다거나 새 일을 하면 반드시 더 잘된다는 보장이 아니다. 사용자의 이직이 동일한 신적 부름이라는 정보도 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:18:31",
+      "textSha256": "b7f1a970ecfa74f1a2354742541ff00dc2b3f76bb1599f5579d334c13a8db2c6",
+      "status": "exclude",
+      "reason": "예루살렘에서 선지자의 기록이 인자에게 응한다는 특정 성취 예고로 사용자의 다음 일정이나 선택을 예정된 성공으로 판정할 수 없다.",
+      "contextNote": "열두 제자에게 수난 여정의 의미를 다시 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:18:32",
+      "textSha256": "23c2bbe41bee8cead907b467f25b826e634e38259acdf03a2dc7507f8404e4e5",
+      "status": "exclude",
+      "reason": "이방인에게 넘겨져 조롱과 능욕과 침 뱉음을 받는 수난의 예고로 현재 동료의 지적을 같은 악행이나 장래 적대의 증거로 삼을 수 없다.",
+      "contextNote": "예수가 자신이 받을 구체적 수난을 말한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:18:33",
+      "textSha256": "e1f8e1657d1b11b3af5c2fd29d55b9a41e3d36e9cf80edf569cbfbbd4d95cf5b",
+      "status": "exclude",
+      "reason": "채찍과 죽음과 사흘 뒤 부활을 예고하는 예수의 고유한 길로 과거 실수나 새 일의 실패가 같은 기한에 반전된다는 약속을 만들 수 없다.",
+      "contextNote": "수난 예고를 죽음과 부활로 마친다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:18:34",
+      "textSha256": "e946769ba58ab1505347f250d7471468646290cf86b941bf458e985c0e903fef",
+      "status": "candidate",
+      "reason": "가까이 따르던 제자들도 말씀을 이해하지 못했다는 기록은 모르는 상태 자체를 배움의 자격 없음으로 판단하지 않게 한다.",
+      "contextNote": "말씀이 감추여 제자들이 수난 예고를 깨닫지 못했음을 밝힌다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "이미 함께 배우던 사람도 모를 수 있으니 이해되지 않는 부분을 숨기는 대신 질문할 여지가 있는지 생각할 수 있다.",
+          "friction": "모르는 모든 일이 신적으로 감춰졌다고 주장하지 않는다. 이 절은 직접 질문한 행동이 아니라 이해의 한계를 보여 주는 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:18:35",
+      "textSha256": "fda2c0c4cb8d96d7267284082e58bf249a91d4cec94e734849a43ce8397dc4b8",
+      "status": "exclude",
+      "reason": "여리고 길에서 구걸하는 시각장애인의 위치와 처지를 소개하는 단편으로 그 처지를 잘못의 결과나 현대 치료 판단으로 만들 수 없다.",
+      "contextNote": "예수에게 볼 수 있기를 청할 사람을 소개한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:18:36",
+      "textSha256": "1b7103437eb05844b6a05a7366d105e0e75734c0cdadcefdb1fec5a63f7a3f48",
+      "status": "candidate",
+      "reason": "무리의 움직임을 듣고 실제 무슨 일인지 묻는 행동은 일부 정보만으로 이유를 확정하기보다 확인할 자리를 준다.",
+      "contextNote": "길가의 사람이 지나가는 무리의 이유를 물어 예수의 소식을 듣게 된다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "전해 들은 내용만으로 친구를 정하기 전에 어떤 일이 있었는지 물을 수 있다.",
+          "friction": "소문이 반드시 거짓이거나 묻는다고 상대가 모든 사실을 말한다는 보장은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:18:37",
+      "textSha256": "3862747b9b732b11e7963b149ede6280d852a6cd2429e00236a0724b45a1eac8",
+      "status": "exclude",
+      "reason": "나사렛 예수가 지나간다는 신원 안내만 있어 개인이 어느 사람의 조언을 받아야 하는지의 기준은 제시되지 않는다.",
+      "contextNote": "무리가 길가의 사람에게 예수의 지나감을 알린다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:18:38",
+      "textSha256": "5b3d7910361b599201f844062b26797e55c54546d11a58a352acc8086828d442",
+      "status": "candidate",
+      "reason": "자비를 구하는 직접 호소는 부족을 숨기고 혼자 견디기보다 필요한 돌봄을 말할 여지를 준다.",
+      "contextNote": "볼 수 있기를 원하는 사람이 다윗의 자손 예수에게 외친다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "내가 먼저 도움받을 자격을 닫기보다 지금 어려움이 있다고 말할 수 있다.",
+          "friction": "다윗의 자손이라는 예수의 정체를 부탁 상대에게 붙이지 않는다. 큰 소리나 신앙 표현이 도움을 보장하는 방법이라는 뜻도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:18:39",
+      "textSha256": "6e225b406a1d8888e361e50adb956ae530aa67f03e522ef8573acfb7d56eb943",
+      "status": "candidate",
+      "reason": "앞서 가는 이들이 말리는데도 필요한 자비를 청하는 모습은 주변 눈치와 도움받을 필요를 분리해 볼 여지를 준다.",
+      "contextNote": "무리의 방해에도 길가의 사람이 예수에게 더 외친다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "다른 사람이 민폐라고 볼까 하는 예상만으로 내 필요의 목소리를 모두 접을 이유가 되는지 생각할 수 있다.",
+          "friction": "여기서 막는 사람은 요청 대상인 예수가 아니다. 실제 도울 사람의 분명한 거절까지 무시하며 계속 압박하라는 뜻으로 쓰지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:18:40",
+      "textSha256": "47b9db536fea3cc663ecec8f9ed048eae1b15d6b5090d350e5449ca8dad24174",
+      "status": "candidate",
+      "reason": "지나가던 예수가 멈추고 가까이 오게 하여 직접 묻는 전환은 전체 진행 속도 외에 한 사람을 듣는 돌봄을 보여 준다.",
+      "contextNote": "외치는 사람을 무리가 막았지만 예수는 데려와 필요를 묻는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C005",
+          "clue": "일정이 진행 중이어도 어려움을 말한 사람의 이야기를 가까이 들을 자리를 둘 수 있는지 생각할 수 있다.",
+          "friction": "모든 진행을 언제나 중단해야 한다는 규칙이나 운영자가 기적을 일으킨다는 뜻은 아니다. 물어 가라사대라는 다음 질문의 연결도 남긴다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:18:41",
+      "textSha256": "e646fec8704af769d157270eb9be30e6ab57706e0aceb2591bbedddddc042692",
+      "status": "candidate",
+      "reason": "무엇을 원하냐는 물음에 보기를 원한다고 답하는 구체 요청은 막연한 부담 대신 필요한 도움의 내용을 말하게 한다.",
+      "contextNote": "예수가 길가의 사람에게 필요한 것을 물어 직접 답을 듣는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "도움을 청한다면 나를 다 해결해 달라는 말보다 지금 필요한 한 가지를 정해 말할 수 있다.",
+          "friction": "정확하게 말하면 반드시 해결된다는 보장은 아니며 상대에게 치유 능력이 있다고 가정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:18:42",
+      "textSha256": "9ee526b8dc1b5627b059e2488f29b4a4ccd82bc04d3e31cd966a7b1ca38dfc7c",
+      "status": "hold",
+      "reason": "보라는 명령과 믿음의 구원 선언은 치유의 희망이지만 현재의 치료 선택을 비교할 실마리보다 이미 이뤄지는 시력 회복이 중심이다.",
+      "contextNote": "예수가 시각장애인의 요청에 치유를 선언한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G14",
+          "clue": "현재의 아픔을 삶의 전부로 보지 않을 여지는 있다.",
+          "friction": "현대 시력 문제나 질환에 같은 명령을 대신 주거나 믿음이 충분하면 치료 없이 낫는다는 보장으로 쓰지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:18:43",
+      "textSha256": "ec8ef60af2efa7f65d84f4524ed444fcd3f31aec02b1ad3ef3e756759e16a837",
+      "status": "hold",
+      "reason": "실제로 보게 된 뒤 감사하며 따른 결과는 회복 후 반응을 보여 주지만 결과를 모르는 지금의 하루를 고르는 데는 간격이 있다.",
+      "contextNote": "그 사람과 무리가 회복을 보고 하나님을 찬양한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H056",
+          "clue": "결과가 나온 뒤까지 생각하며 기다리는 현재를 삶의 전부로 묶지 않을 여지는 있다.",
+          "friction": "사용자의 결과가 이미 좋다고 정하지 않는다. 찬양과 회복의 완료가 중심이라 지금의 작은 일상 선택을 직접 가르치지는 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:19:1",
+      "textSha256": "ff45e1e1e745bd934ef397332cc05fc8e1d26ec7cb1a3835c480e556d686f142",
+      "status": "exclude",
+      "reason": "예수가 여리고를 지나간다는 이동의 안내만 있어 머물지 떠날지의 이유와 행동 기준은 아직 없다.",
+      "contextNote": "삭개오를 만날 장소로 장면을 전환한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:19:2",
+      "textSha256": "cac332aab007585096e8d9a2d090bba2183f1934644d554f1e2cdd05259005e3",
+      "status": "exclude",
+      "reason": "삭개오의 이름과 세리장과 부자라는 신분을 소개할 뿐 이 신분만으로 정직이나 재물의 쓰임을 판단할 수 없다.",
+      "contextNote": "뒤에서 만나고 변할 사람의 배경을 알린다.",
+      "readability": "clear",
+      "connections": []
     }
   ]
 }
