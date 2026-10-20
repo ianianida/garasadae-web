@@ -12446,6 +12446,3271 @@
           "expectedEnough": "uncertain"
         }
       ]
+    },
+    {
+      "id": "KRV:LUK:19:43",
+      "textSha256": "5fc961fd89db3cba6578c06b124424b6a0dcc33d438c2fd7ecf7b5dec5ab3216",
+      "status": "exclude",
+      "reason": "성을 사방에서 가두는 적의 포위 예고는 예루살렘에 관한 것으로 개인의 업무나 관계 선택 뒤 같은 공격이 온다는 예측으로 쓰기 어렵다.",
+      "contextNote": "예수가 성을 보며 장래의 포위를 탄식한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:19:44",
+      "textSha256": "155196b5a153c8bc0a808631c550838b347fd866b335bd35be61be9d267d4580",
+      "status": "exclude",
+      "reason": "도시와 자녀와 성전 돌의 파괴를 방문을 알지 못한 책임에 연결하는 특정 선언으로 일상 어려움을 과거 실수의 벌로 단정할 수 없다.",
+      "contextNote": "예루살렘의 파괴와 그 이유를 말하며 탄식을 마친다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:19:45",
+      "textSha256": "684daa59a161b3f34033d6a3a75afd6e7d9cdbcdf0e38b178795741e2049ae80",
+      "status": "hold",
+      "reason": "장사하는 이들을 내쫓는 행동은 장소를 되돌리는 모습이지만 성전의 목적이 다음 절에 있어 일상 공유 공간에서 사람을 몰아낼 권한으로 읽힐 수 있다.",
+      "contextNote": "성전 정화의 행동이 시작된다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C004",
+          "clue": "여러 사람이 쓰는 장소가 원래 목적과 다르게 된 부분을 돌아볼 여지는 있다.",
+          "friction": "정리 안 한 사용자가 강도라는 뜻도 사람을 강제로 쫓으라는 뜻도 아니다. 목적의 설명이 없으면 단독 충분함은 낮다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:19:46",
+      "textSha256": "0904129be1caa6557621312d2cf188863a42e685da2f3f7d6fcc9015f9623a9e",
+      "status": "candidate",
+      "reason": "기도하는 집이 강도의 굴혈이 됐다는 대비는 장소를 쓰는 내 행동이 공동의 본래 목적을 해치고 있는지 묻게 한다.",
+      "contextNote": "예수가 성전에서 상업을 내쫓은 이유를 기록된 말씀으로 밝힌다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C004",
+          "clue": "나만 쓰고 끝났다고 생각한 공간이 다음 사람도 본래 용도로 쓸 수 있는 상태인지 볼 수 있다.",
+          "friction": "공동 작업실을 성전과 같은 권위로 만들거나 어질러 둔 일이 강도질과 같은 죄라는 판정은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:19:47",
+      "textSha256": "ca2bf8b1768d76e67ec2485ff8c57a7a546df6d20aaace6b3be895c918f0b20a",
+      "status": "hold",
+      "reason": "계속 가르치는 일과 지도층의 살해 음모는 옳다고 믿는 일의 비용을 보이지만 현재 직장 평가와는 적대의 강도가 다르다.",
+      "contextNote": "예수의 날마다 가르침을 지도자들이 없애려 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "어떤 반대가 생겼다는 사실만으로 진실을 말하는 기준을 바꿔야 하는지 생각할 여지는 있다.",
+          "friction": "팀의 부정 지시를 거절하면 실제 살해 위협이 온다고 예측하지 않는다. 예수의 권위와 사용자의 의견을 같게 하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:19:48",
+      "textSha256": "ab429a689e491001011de5de6530aaa0a0d2811b8282b2e9989b8a204a80c085",
+      "status": "hold",
+      "reason": "백성이 귀 기울여 듣는 일이 음모를 막는 장면은 경청의 힘을 보이나 누가 무엇을 하려는지 앞 절을 알아야 한다.",
+      "contextNote": "예수를 해할 방법을 지도자들이 찾지 못하는 이유를 밝힌다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "말할 사람을 막기보다 내용을 들을 자리를 남기는 태도는 생각할 수 있다.",
+          "friction": "이 절은 자기 실수의 수용보다 군중이 음모를 막는 장면이다. 여론이 있으면 진실이 보장된다는 뜻으로 쓰지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:20:1",
+      "textSha256": "ded9705c7d82e946e3adf7a387e5902014b3ecab07a12c474ef035d54ef3a0b0",
+      "status": "exclude",
+      "reason": "성전 가르침에 지도자들이 다가오는 장면의 설정으로 권위를 묻는 실제 말과 대응은 다음 절에 남는다.",
+      "contextNote": "예수의 권위 논쟁을 시작한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:20:2",
+      "textSha256": "7f5bb6decb2002f08497337bba64fb577fd408206bb1c18a4257f3a017c5fbe8",
+      "status": "candidate",
+      "reason": "권세를 누가 주었는지 묻는 말은 강한 주장을 할 때 실제 위임과 스스로 붙인 권위를 나누는 질문을 준다.",
+      "contextNote": "지도자들이 예수에게 사역의 권위 출처를 밝히라고 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C001",
+          "clue": "내 의견을 하나님의 뜻이라 말하기 전에 그 말을 대신할 실제 근거를 받았는지 돌아볼 수 있다.",
+          "friction": "예수의 정당한 권위와 근거 없는 개인 주장을 같게 놓지 않는다. 이 질문을 한 지도자들의 전체 동기를 모범으로 삼는 것도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:20:3",
+      "textSha256": "3fd9b46af301ab5af890c2aa5e395c0f8d8360be19cc6aadb64ef7f34eef4221",
+      "status": "exclude",
+      "reason": "한 가지를 되묻겠다는 대화 지시만 있고 질문 내용이나 선택의 기준은 다음 절에 있다.",
+      "contextNote": "예수가 지도자들에게 요한의 세례를 묻기 직전이다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:20:4",
+      "textSha256": "240767c34b853ec75e15dc9c3cf1e5cca95da1df867587927699cd936fc26e54",
+      "status": "candidate",
+      "reason": "하늘과 사람 중 어디서 왔는지 구별하는 짧은 물음은 신적 권위를 말하기 전 출처를 정직하게 나누게 한다.",
+      "contextNote": "예수가 권위 논쟁에 요한의 세례의 근원을 되묻는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C001",
+          "clue": "내 생각에서 나온 판단을 하늘에서 온 말처럼 표현하려는지 구별해 볼 수 있다.",
+          "friction": "요한의 세례와 사용자의 의견을 같은 사건으로 놓지 않는다. 질문의 대상을 확대해 모든 인간의 조언을 낮은 것으로 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:20:5",
+      "textSha256": "e1dbb49d166a4d560410009bbca3cb9e2bd0da798455b9953967ec21ac0bdd88",
+      "status": "hold",
+      "reason": "어느 답을 하면 어떤 반문을 받을지 계산하는 모습은 반응과 사실을 나누게 하나 한쪽 조건의 논의만 제시돼 있다.",
+      "contextNote": "지도자들이 하늘에서 온 세례라고 답할 경우를 서로 계산한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "사실이 무엇인지보다 듣는 사람이 어떻게 평가할지 먼저 계산하는지 살펴볼 수 있다.",
+          "friction": "대답의 결과를 생각하는 일이 모두 거짓은 아니다. 왜 답을 피하는지는 다음의 다른 조건과 실제 응답을 함께 보아야 한다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:20:6",
+      "textSha256": "f70456aca7b0308cb837e00ffe4999118482a846f8953b093796002995dec41c",
+      "status": "candidate",
+      "reason": "사람들에게 돌 맞을까 두려워 다른 답도 못 한다는 속생각은 군중의 평가와 사실의 판단이 어떻게 어긋날 수 있는지 드러낸다.",
+      "contextNote": "지도자들이 세례를 사람에게서라 하면 받을 위험을 계산한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "좋은 반응을 얻거나 나쁜 평가를 피하는 기준이 실제 아는 사실을 대신 정하고 있는지 볼 수 있다.",
+          "friction": "사용자에게 폭력 위험이 있다는 정보는 없다. 요한의 세례가 본래 쟁점이며 내 보고의 수치를 군중 압박만으로 정당화하지 않는 개인 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:20:7",
+      "textSha256": "7c96a85677b5c6adaf199ec2a184b6c111561a52f9746a439b35f5e50c458345",
+      "status": "hold",
+      "reason": "알지 못한다고 답하지만 앞의 계산을 알면 단순한 무지 고백이 아니라 답을 피한 것이어서 정직한 모름의 모범으로 쓰기 어렵다.",
+      "contextNote": "양쪽 반응을 계산한 지도자들이 출처를 모른다고 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "정말 모르는 말과 불리할까 말하지 않는 말을 스스로 구별할 여지는 있다.",
+          "friction": "이 한 절만 보면 정직한 답처럼 읽힐 수 있다. 모른다고 말하는 행위 자체를 언제나 회피나 거짓으로 판정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:20:8",
+      "textSha256": "243519bf66283738ba300926d8fea138692a3402db408e1660708ea7daf88fb9",
+      "status": "hold",
+      "reason": "예수도 답하지 않겠다는 경계는 모든 질문에 응할 의무가 없음을 보이나 특정 권위 논쟁의 대화를 앞서 알아야 한다.",
+      "contextNote": "요한에 대한 답을 피한 지도자들에게 예수가 권세의 답도 주지 않는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H039",
+          "clue": "상대가 묻는다는 이유만으로 말할 범위를 모두 넘길 필요가 있는지 생각할 여지는 있다.",
+          "friction": "친구의 비밀 약속과는 다른 권위 논쟁이며 정당한 설명 책임까지 거절해도 된다는 뜻은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:20:9",
+      "textSha256": "506ef27acba092b71baf25396b8c8cb48c5080b0cb7e41c7318432a27ff32549",
+      "status": "exclude",
+      "reason": "포도원을 만들고 소작을 맡겨 외국에 오래 머문 주인의 설정만 있어 농부들의 책임과 반응의 판단은 아직 나오지 않는다.",
+      "contextNote": "악한 농부 비유를 시작한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:20:10",
+      "textSha256": "056d4761da72081743cc4f89f5b211510bc874e4ccaa3c65ab18f11b2a8c1777",
+      "status": "hold",
+      "reason": "소출을 받으러 온 종을 때려 빈손으로 보낸 일은 맡은 계약과 실제 행동의 배반을 보이나 판매 약속과는 폭력과 상황의 차이가 크다.",
+      "contextNote": "농부들이 첫 사자에게 소출을 주지 않고 폭행한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G09",
+          "clue": "더 이익이 된다는 마음과 별개로 이미 상대에게 약속된 몫이 있는지 돌아볼 여지는 있다.",
+          "friction": "합의한 가격의 거래를 포도원 임대나 폭행과 같은 크기로 판단하지 않는다. 누구의 몫이 어떤 계약으로 정해졌는지의 배경이 필요하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:20:11",
+      "textSha256": "0dd6331e4579a69d57727997caf2ab7d7d95b07e63eb4e97d307413c2341205f",
+      "status": "hold",
+      "reason": "다른 종도 같은 학대와 거절을 겪는 반복은 상대의 실제 반응을 보여 주지만 새로운 시도가 반드시 달라질지의 답은 없다.",
+      "contextNote": "두 번째로 보낸 종도 농부들에게 능욕을 당한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H029",
+          "clue": "관계를 지키려 한 여러 시도와 상대의 반복 행동을 나란히 볼 수 있다.",
+          "friction": "친구의 경계 침해가 이 폭행과 같다는 뜻은 아니다. 새 사람을 보내면 달라진다는 약속이나 계속 참으라는 승인도 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:20:12",
+      "textSha256": "b6adf60e163ba56216aff6af15144c7837cd1115a3f2722e3c2d7450d8cf25b9",
+      "status": "candidate",
+      "reason": "세 번째도 상하게 하여 내쫓는 뚜렷한 반복은 바랐던 응답보다 실제 이어진 행동을 보게 한다.",
+      "contextNote": "포도원 농부들이 계속 같은 방식으로 사자를 해친다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G11",
+          "clue": "이미 부드럽게 말하고 기회를 줬는데도 같은 침해가 이어진다면 앞으로의 기대만이 아니라 지금까지의 행동을 볼 수 있다.",
+          "friction": "친구의 약속 위반을 폭행과 같은 행위로 정하지 않는다. 사람을 해치거나 벌하라는 뜻이 아니라 관계의 범위를 판단할 실제 반복을 보는 실마리다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:20:13",
+      "textSha256": "d105bfdde8c13ee7360148a4ea3e3b11fae858204cd3a9dbddd71d7b52a33191",
+      "status": "hold",
+      "reason": "아들이라면 혹 공경할 것이라는 바람은 소중한 이를 더 보내는 기대이지만 혹이라는 불확실성과 앞의 거듭된 폭행을 지울 수 없다.",
+      "contextNote": "주인이 앞선 사자들의 피해 뒤 아들을 보내기로 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G11",
+          "clue": "새 시도에 달라질 것이라는 확정이 있는지 단지 바람인지 나누어 볼 수 있다.",
+          "friction": "이미 대화했는데 반복된 관계에 무조건 다른 사람을 더 보내라는 충분한 답은 아니다. 아들의 특별한 비유 문맥과 현재의 안전과 경계는 구별한다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:20:14",
+      "textSha256": "29e91d693c2429cac2dd4794077669e91a81efa516fce44b2ab419570541d53f",
+      "status": "hold",
+      "reason": "상속자를 없애 유업을 차지하려는 의논은 남의 몫을 내 것으로 만들려는 탐욕을 드러내지만 가족 물건의 처분 고민과는 폭력의 차이가 크다.",
+      "contextNote": "농부들이 주인의 아들을 보고 살해와 유업 탈취를 의논한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C007",
+          "clue": "다른 사람의 권한을 건너뛰고 내 이익의 물건으로만 보고 있는지 돌아볼 여지는 있다.",
+          "friction": "사용자의 고민에 살해 의도가 있다고 붙이지 않는다. 극단적 계획이 첫 결과로 제시될 때 현재 동의 확인의 작은 선택과 간격이 크다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:20:15",
+      "textSha256": "a0bed7f74c4ea5683e8ac292862290915e6c790c75820b859f88553969aeeb03",
+      "status": "hold",
+      "reason": "상속자를 죽인 뒤 주인이 어떻게 할지 묻는 결말은 반복된 해악의 책임을 보이나 현재 친구에게 어떤 거리를 둘지의 행동은 아직 없다.",
+      "contextNote": "농부들이 아들까지 죽인 비유에서 주인의 판단을 질문한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G11",
+          "clue": "여러 기회 뒤에도 실제 무엇이 반복됐는지 판단에 둘 여지는 있다.",
+          "friction": "친구의 약속 위반을 살해와 같은 것으로 정하지 않는다. 주인의 보복을 현재 관계에 실행할 권한으로 삼을 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:20:16",
+      "textSha256": "33487a375343d49dd0a63095cd4fd161ca0a908eda043c7d2bc3f20bac8e41f4",
+      "status": "exclude",
+      "reason": "농부들의 진멸과 포도원 이전이라는 비유의 심판으로 반복 위반의 친구에게 해를 가하거나 그 소유를 빼앗아도 된다는 결론을 줄 수 없다.",
+      "contextNote": "주인의 최종 판단에 청중이 그렇게 되지 않기를 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:20:17",
+      "textSha256": "9d3cd861a300de3646fb48a31975427aabd45cdab16ee0903eee9ffc950cf46b",
+      "status": "candidate",
+      "reason": "버려진 돌이 핵심 머릿돌이 된다는 반전은 남의 평가나 작은 위치만으로 쓰임의 가능성을 닫지 않게 한다.",
+      "contextNote": "농부 비유 뒤 예수의 거절과 높임을 기록된 말씀으로 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "지금 작게 보이거나 부족하다고 느낀 모습이 내가 맡을 수 있는 모든 자리의 끝인지 돌아볼 수 있다.",
+          "friction": "사용자가 예수와 같은 머릿돌이거나 반드시 선발된다는 보장이 아니다. 건축 돌의 비유를 개인 가능성에 연결한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:20:18",
+      "textSha256": "18985da38629bed3ea35387a3adf0916ec70133f2dfcbb1f89fc22b3180dabe0",
+      "status": "exclude",
+      "reason": "돌에 부딪혀 깨지고 돌에 짓눌리는 심판의 비유로 현재의 실수나 반대를 같은 파괴의 예고로 돌리기 어렵다.",
+      "contextNote": "버린 돌의 높임 뒤 그 돌에 대한 거부의 심각함을 말한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:20:19",
+      "textSha256": "e0debd6a6668c3a7dcd97259c338e7cec6421fd4893500e4ae0c882512b00d15",
+      "status": "candidate",
+      "reason": "자기들을 가리킨 비유임을 알고 붙잡으려는 반응은 내용이 찔릴 때 고침 대신 말한 사람을 없애려는 마음을 비춰 준다.",
+      "contextNote": "지도자들이 비유의 대상을 알아듣고도 예수를 잡으려 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "내가 놓친 부분을 짚는 말이 불편하다고 그 말을 한 사람을 공격하며 내용을 밀어내는지 돌아볼 수 있다.",
+          "friction": "사용자가 체포나 폭력을 계획한다는 뜻은 아니다. 공개 망신이나 군중의 두려움을 현재 업무의 사실로 덧붙이지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:20:20",
+      "textSha256": "dffe392ecb302e846e09548a30c42b78e40bc9bedae0bc819b7e7b07a73ec06b",
+      "status": "candidate",
+      "reason": "의로운 체하면서 말꼬리를 잡아 권력에 넘기려는 행동은 올바름의 모양 뒤에 되갚고 싶은 의도를 숨기는지 묻게 한다.",
+      "contextNote": "지도자들이 정탐꾼을 보내 예수의 말을 함정으로 삼는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C009",
+          "clue": "동료의 실수를 지적하는 내 말이 실제 개선보다 예전 상처를 갚는 기회를 찾는 쪽인지 볼 수 있다.",
+          "friction": "한마디 비꼼을 정치적 체포 음모와 같은 크기로 정하지 않는다. 타인의 속마음을 안다고 하지 않고 내 동기를 돌아보는 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:20:21",
+      "textSha256": "ebcc75956036b8610c18f701fc0f3ca3cad3a985ab46b6970e5f4abf18074827",
+      "status": "hold",
+      "reason": "바로 가르치고 공정하다는 칭찬의 내용은 옳지만 정탐꾼의 질문 앞 아첨이어서 사실 보고의 모범으로 그대로 쓰기 어렵다.",
+      "contextNote": "예수를 함정에 넣으려는 사람들이 칭찬으로 세금 질문을 연다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "칭찬의 정확한 내용과 그것을 쓰는 목적이 같은지 살펴볼 여지는 있다.",
+          "friction": "본문은 자기 성과의 보고가 아니라 예수에게 하는 아첨이다. 앞의 정탐 목적을 모르면 긍정적 칭찬으로만 읽힌다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:20:22",
+      "textSha256": "3be6265a56054de4221151b9a966d2d7fec86bc0037bda600a9fad766114e75d",
+      "status": "exclude",
+      "reason": "가이사에게 세금을 내는 것이 옳은지라는 질문만 있고 답의 기준은 뒤에 있어 현재의 매매나 비용 선택에 독립적인 답이 되지 않는다.",
+      "contextNote": "종교와 통치 권한 사이 함정 질문을 제시한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:20:23",
+      "textSha256": "127ab8d2ee0db9ea13c0fd15e5631f1fe5c9eb90681272d548617447fc71b98f",
+      "status": "exclude",
+      "reason": "간계를 알고 말하기 시작했다는 전환만 있어 무엇을 근거로 어떻게 답했는지 다음 절을 읽어야 하며 사용자가 상대 속마음을 안다는 근거도 아니다.",
+      "contextNote": "예수가 정탐꾼의 세금 질문에 응답하기 직전이다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:20:24",
+      "textSha256": "d94c01a7416591da7628fd711613f099ad793c262c3312a86edbd539b4840fd2",
+      "status": "candidate",
+      "reason": "동전을 보이고 그 위의 형상과 글이 누구의 것인지 확인하는 구체 행동은 주장 전에 관찰할 사실을 두는 모습을 준다.",
+      "contextNote": "예수가 세금 질문에 동전의 표식을 묻는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "전해진 말의 인상만이 아니라 실제로 확인한 사실이 무엇인지 따로 볼 수 있다.",
+          "friction": "친구의 일에 같은 물증이 있다는 정보는 없다. 동전의 그림으로 세금을 논하는 원문을 모든 관계의 확정 증거 방식으로 만들지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:20:25",
+      "textSha256": "cdcaa1d39ba17a3e324b4e67d5718a2bc064b5c2a1eea65210950b02caed1893",
+      "status": "candidate",
+      "reason": "가이사의 것과 하나님의 것을 구분해 돌리는 말은 내가 편리하게 쓸 수 있음과 실제 권한이 내게 있음이 같은지 묻게 한다.",
+      "contextNote": "세금 질문에서 서로 다른 권한과 마땅한 몫을 나눈다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C007",
+          "clue": "가족이 안 쓰는 물건이라도 누구의 몫과 결정 권한인지 먼저 나누어 볼 수 있다.",
+          "friction": "현대 세금이나 소유권의 법적 판단을 대신하지 않는다. 모든 가족 재산이 내게 주어졌다는 말로 확대하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:20:26",
+      "textSha256": "68dc6387eaedba5a2b9aa92127c8d474cbe4b07687564cc201216d880cdd2588",
+      "status": "hold",
+      "reason": "좋은 답 뒤 사람들이 잠잠해진 결과는 대화의 가능성을 보이지만 그 답과 함정의 내용이 앞 절에 있어 현재 대화의 결과를 보장하지 않는다.",
+      "contextNote": "정탐꾼들이 예수의 답에서 책잡을 말을 찾지 못한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H026",
+          "clue": "상대 반응이 모두 싸움으로만 끝나는 것은 아닐 수 있다는 여지는 있다.",
+          "friction": "서운함을 잘 말하면 상대가 반드시 잠잠해진다는 보장은 아니다. 본문은 상호 관계 회복보다 함정 논쟁의 종료다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:20:27",
+      "textSha256": "5eca641d345b0281afeecd42176fd6efd5c1e37a46750eeddaeeebee3eb63811",
+      "status": "exclude",
+      "reason": "부활을 부정하는 사두개인들이 왔다는 인물과 입장 소개로 그들의 질문이나 현재 선택 기준은 아직 없다.",
+      "contextNote": "부활 논쟁을 시작한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:20:28",
+      "textSha256": "c096211259af8274038b73db96f7ceeec700aba274d17372db8e7c4ab1992966",
+      "status": "exclude",
+      "reason": "자식 없이 죽은 형의 후사를 세우는 고대 혼인 규정을 인용하는 질문으로 성인 형제의 개인 잘못을 대신 책임질 의무를 만들 수 없다.",
+      "contextNote": "사두개인들이 일곱 형제의 가정을 꺼낼 법적 전제를 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:20:29",
+      "textSha256": "b41dd0c12831720afe008ec4e6d3aa15d433758807384977c669151949993e54",
+      "status": "exclude",
+      "reason": "첫 형의 혼인과 자녀 없는 죽음은 뒤의 가상 질문을 쌓는 조건이며 현재 혼인이나 불임을 잘못으로 판단할 근거는 없다.",
+      "contextNote": "일곱 형제의 가정을 시작한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:20:30",
+      "textSha256": "488952504e06cf5d3d8c592e3596ff7a4921e3469ae219b78e75a82968b9c274",
+      "status": "exclude",
+      "reason": "둘째와 셋째가 같은 여인과 혼인했다는 연속 조건만 있어 앞의 고대 규정과 뒤의 질문 없이 생활 선택의 뜻이 성립하지 않는다.",
+      "contextNote": "일곱 형제 가정의 중간을 잇는다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:20:31",
+      "textSha256": "89f307b9bd380b061e5d48a969a81c2c69f1b1c00dd4b8605ef44d6597f5164e",
+      "status": "exclude",
+      "reason": "일곱이 자녀 없이 죽었다는 가정의 반복으로 자녀나 죽음을 신적 벌이나 현재 가족의 운명으로 읽을 수 없다.",
+      "contextNote": "부활 때 누구의 아내인지 묻기 위한 조건을 완성한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:20:32",
+      "textSha256": "5286f624872dabc63afafded0674bc415939199740d71b04e6901905169d4db4",
+      "status": "exclude",
+      "reason": "마지막에 여인도 죽었다는 짧은 가정의 끝으로 사별의 돌봄이나 현재 관계의 행동을 정할 내용은 없다.",
+      "contextNote": "일곱 형제 질문의 사망 조건을 마친다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:20:33",
+      "textSha256": "b60afc0f83fa5f0058428f79c039bf0d14cbc7b57fe4f404fb730f2137c1b18b",
+      "status": "exclude",
+      "reason": "부활 때 일곱 중 누구의 아내가 되느냐는 고대 가상의 질문으로 현재 배우자와 다른 사람 사이 경계를 완화할 기준이 아니다.",
+      "contextNote": "부활을 부정하려는 사두개인들의 질문을 완성한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:20:34",
+      "textSha256": "b338db54031ea0e02461cbc2758f70e0d0f1ec89fb46159ae799d9c369feb4d6",
+      "status": "exclude",
+      "reason": "이 세상의 혼인을 설명하다 다음 세상과 대비하기 전에서 끊기므로 지금 결혼할지 또는 배우자와의 책임을 정할 지시가 아니다.",
+      "contextNote": "예수가 현세와 부활의 삶을 구별하기 시작한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:20:35",
+      "textSha256": "1ca79361fdd451478cd6dbb46e5d52da5872e0e96e00538c54c98cff932580af",
+      "status": "hold",
+      "reason": "부활의 삶에서 혼인하지 않는다는 설명은 현재 결혼 상태의 책임과 같은 조건이 아니므로 다른 관계를 시작할 허가가 아니다.",
+      "contextNote": "일곱 형제 가정에 부활의 차이를 답한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C014",
+          "clue": "현재의 혼인과 이후의 삶을 구별할 질문은 생긴다.",
+          "friction": "사용자는 지금 혼인한 상태다. 부활에서 혼인하지 않음을 지금 배우자와의 경계를 없애는 근거로 쓰는 연결은 맞지 않는다.",
+          "expectedEnough": "no"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:20:36",
+      "textSha256": "f3450f5e4707912905c30d1addaef615acae85e08962868e90aa994a7163b8ec",
+      "status": "hold",
+      "reason": "다시 죽지 않는 부활의 자녀를 말하는 소망은 있으나 사별한 친구에게 지금 무엇을 할지의 부담은 직접 다루지 않는다.",
+      "contextNote": "부활의 삶을 천사와 하나님의 자녀의 상태로 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C016",
+          "clue": "죽음이 사람을 모두 지운다는 생각 밖의 소망을 읽을 여지는 있다.",
+          "friction": "친구 부모의 사후 상태를 판정하지 않는다. 어떤 작은 돌봄을 할지보다 교리적 소망의 설명에 머물 수 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:20:37",
+      "textSha256": "b4e5707118dc5bef01345e4c36f15348d6d1033c424987eca19aec9e5570bb4d",
+      "status": "exclude",
+      "reason": "가시나무떨기의 모세와 세 조상의 하나님이라는 명칭으로 부활을 논증하여 그 논리 없이 현재 고민의 선택 실마리로 읽기 어렵다.",
+      "contextNote": "예수가 모세의 글을 통해 살아남을 설명한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:20:38",
+      "textSha256": "609f55d4c9b609036038418b1b2e22a224d59726a3a2906258a51dca8f1741d6",
+      "status": "hold",
+      "reason": "모두가 하나님 앞에 살아 있다는 선언은 사별의 소망을 주지만 지금 친구의 필요에 어떻게 응할지까지는 직접 가르치지 않는다.",
+      "contextNote": "조상들의 하나님이라는 논증을 살아 있는 자의 하나님으로 마무리한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C016",
+          "clue": "슬픔을 죽음의 끝으로만 정하지 않는 신앙의 여지는 있다.",
+          "friction": "친구에게 슬퍼하지 말라고 하거나 부모의 구원을 대신 판정하지 않는다. 작은 돌봄의 선택보다 일반 소망에 머물 수 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:20:39",
+      "textSha256": "a9a7787cbf3e7da582aa40c35d989b931875207f244d092224cd97af0b733b62",
+      "status": "exclude",
+      "reason": "말씀이 옳다는 서기관들의 승인만 있고 그 내용은 앞의 부활 대화에 있어 사용자의 현재 판단을 옳다고 확인하는 답으로 쓰기 어렵다.",
+      "contextNote": "일부 서기관이 예수의 부활 답변을 인정한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:20:40",
+      "textSha256": "5a849d6846788aa65a69113827811158ca1715ff885bf7f349b02792efcb5009",
+      "status": "hold",
+      "reason": "더 묻지 못했다는 반응은 함정 질문이 막힌 결과여서 능력이 부족해 보일까 정직한 질문을 망설이는 상황과 다르다.",
+      "contextNote": "부활 논쟁 뒤 반대자들이 질문을 이어가지 못한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "질문을 못 하는 여러 이유가 있다는 점은 생각할 수 있다.",
+          "friction": "이들이 배움을 구하다 무능을 드러낸 장면이 아니다. 선배에게 질문하지 말아야 한다는 연결은 맞지 않는다.",
+          "expectedEnough": "no"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:20:41",
+      "textSha256": "9bb914feeb5c831649f406783ed86e53b6a7b1c8782441d68cd86baacb489b33",
+      "status": "exclude",
+      "reason": "그리스도가 왜 다윗의 자손인지 묻는 메시아 정체 질문으로 개인의 가족 기대나 책임을 가를 내용은 제시하지 않는다.",
+      "contextNote": "예수가 다윗의 시편을 통해 자신의 정체를 묻기 시작한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:20:42",
+      "textSha256": "1a164f1c5b7800bbb13187c98dd989fb906cafea9ce5a473c997f3ba8bc4746e",
+      "status": "exclude",
+      "reason": "다윗의 시편 인용을 시작하지만 주가 주에게 한 실제 말씀은 다음 절에 있어 단독으로 뜻이 완성되지 않는다.",
+      "contextNote": "그리스도의 주 되심에 대한 성경 논증의 인용 도입이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:20:43",
+      "textSha256": "7a25a71edf91e8973d5783c48fc30b181b29e15192c125050bc1ce3e1ec643b9",
+      "status": "hold",
+      "reason": "원수가 발등상이 될 때까지의 기다림은 승리를 맡기는 모습이나 현재 실수한 동료를 같은 원수로 판정할 수 없다.",
+      "contextNote": "시편의 주 우편과 원수 제압을 그리스도의 권위에 연결한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C009",
+          "clue": "내가 직접 상대를 낮춰야 마음이 풀리는지 돌아볼 여지는 있다.",
+          "friction": "동료가 결국 내 발 아래 놓인다는 예언이 아니며 이 메시아적 승리의 문맥을 말싸움의 승리로 바꾸지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:20:44",
+      "textSha256": "75189fb690261ffcf6d657a4db6517453c4c9a3143ef9153c134e4cdec2dee1a",
+      "status": "exclude",
+      "reason": "다윗이 그리스도를 주라 부른 사실과 자손의 관계를 묻는 신학적 논증으로 일상 권위나 친족 책임에 바로 대응할 수 없다.",
+      "contextNote": "다윗 시편 인용의 질문을 마친다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:20:45",
+      "textSha256": "c9d4a1a0931b423af93536048357dd0aa9de618ed8e966f705371d75f81b3b0c",
+      "status": "exclude",
+      "reason": "백성이 듣는 앞에서 제자들에게 말한다는 청중의 안내로 경고할 내용은 다음 절에 남는다.",
+      "contextNote": "서기관의 겉모양과 실제 행동에 대한 경고를 시작한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:20:46",
+      "textSha256": "d6199f9ee45f8f82316549661f620f0dc0b3bea0b5da1d9b09b5c3a514018ba8",
+      "status": "candidate",
+      "reason": "긴 옷과 인사와 높은 자리를 좋아하는 태도를 경계하여 평가받는 모양이 실제 목적을 대신하는지 묻게 한다.",
+      "contextNote": "예수가 제자들에게 인정 욕구를 앞세우는 서기관을 조심하라고 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "실제로 한 일을 전하기보다 나를 높여 보이는 말과 인상이 먼저가 됐는지 돌아볼 수 있다.",
+          "friction": "옷을 잘 입거나 칭찬을 좋아하는 모든 일이 위선이라는 판정은 아니다. 서기관이라는 이름을 동료에게 붙이지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:20:47",
+      "textSha256": "6d445f9d1e3362a808f581115146790dbdcc2891be765e2f8cc405b13b9199f6",
+      "status": "candidate",
+      "reason": "길게 기도하는 겉모양과 과부의 재산을 삼키는 실제 영향을 대비하여 활동의 인상과 사람에게 남는 결과를 함께 보게 한다.",
+      "contextNote": "서기관들의 외식과 약한 이를 해치는 행동의 책임을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C005",
+          "clue": "좋은 활동을 많이 한다는 인상 뒤에 어려운 구성원이 실제로 어떤 부담을 지는지 살펴볼 수 있다.",
+          "friction": "신입 적응의 누락을 재산 강탈과 같은 죄로 판정하지 않는다. 기도 길이나 행사 양 자체를 악으로 보지 않고 사람에게 미치는 영향을 보는 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:21:1",
+      "textSha256": "67ee969327562b9595efaa6f8001da3ab8c0a7f212e3eaa4815d0927e1e8189f",
+      "status": "exclude",
+      "reason": "부자들의 헌금을 보았다는 관찰만 있어 액수와 마음의 가치 판단은 아직 제시하지 않는다.",
+      "contextNote": "뒤의 과부와 대비할 헌금 장면을 시작한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:21:2",
+      "textSha256": "3e549a3155756e605ad42f4e71330cad67778cdd2e5df1a27b8e0f8357c79da5",
+      "status": "hold",
+      "reason": "가난한 과부의 두 렙돈을 주목하는 모습은 작은 몫의 인정을 생각하게 하나 더 많다는 평가와 생활비 전부의 조건은 다음에 있다.",
+      "contextNote": "예수가 부자의 헌금에 이어 과부의 헌금도 본다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "눈에 작아 보이는 도움도 주목받을 몫인지 생각할 여지는 있다.",
+          "friction": "이 과부의 두 동전은 뒤에서 생활비 전부라고 설명된다. 작은 일부만 내는 상황으로 꾸미거나 가난하면 전부 내야 한다는 기준으로 쓰지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:21:3",
+      "textSha256": "0c34e9fa516bb8eb44e186970fa2c4526786bbb2bc7e00784c2ab8dd7ca5d36e",
+      "status": "candidate",
+      "reason": "적은 액수로 보이는 과부의 헌금을 더 많다고 평가하여 가격만으로 도움의 충분함을 재는 기준을 뒤집는다.",
+      "contextNote": "과부와 부자의 헌금을 비교하고 다음 절에서 형편과 내놓은 몫을 설명한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H007",
+          "clue": "비싼 선물보다 실제 마음과 형편 속에서 내놓는 정성을 볼 수 있는지 생각할 수 있다.",
+          "friction": "과부는 뒤에서 생활비 전부를 냈다고 하므로 같은 희생을 사용자에게 요구하지 않는다. 작은 선물이 언제나 더 낫다는 가격표의 역전 규칙도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:21:4",
+      "textSha256": "558812a6b7e3be474cb701567a05dc3b7ab932797718c34200fe7423f7c678f3",
+      "status": "hold",
+      "reason": "풍족한 일부와 부족한 생활비 전부의 대비는 상대적 희생을 보여 주지만 일상 나눔의 범위를 정하려면 전부라는 조건을 보존해야 한다.",
+      "contextNote": "과부의 헌금이 많다는 평가의 이유를 설명한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H059",
+          "clue": "금액만이 아니라 내 형편에서 실제 어떤 몫을 내놓는지 생각할 수 있다.",
+          "friction": "여력이 있는 일부 나눔과 생활비 전부의 희생은 다르다. 사용자가 전부 내야 한다고 확정할 첫 결과로는 부담이 크다.",
+          "expectedEnough": "uncertain"
+        },
+        {
+          "scenarioId": "G02",
+          "clue": "이 사례는 실제 생활비 전부라는 조건을 드러낸다.",
+          "friction": "생활비가 모자라는 구매를 믿음으로 감행하라는 말이 아니다. 헌금과 물건 구매의 목적을 바꾸는 연결은 맞지 않는다.",
+          "expectedEnough": "no"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:21:5",
+      "textSha256": "18fdeea1e203d442c53e074578ea93254187dfe80eaabc4bc3da7c6a2a3c21fe",
+      "status": "hold",
+      "reason": "성전의 돌과 헌물의 화려함에 대한 말은 외형의 가치를 생각하게 하지만 예수의 응답이 아직 없어 그 장식이 부정되는 기준은 나오지 않는다.",
+      "contextNote": "성전의 아름다움에 대한 청중의 말에서 파괴 예고로 넘어간다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H007",
+          "clue": "화려한 재료가 선물의 가치 전부인지 생각할 여지는 있다.",
+          "friction": "종교 건물의 장식과 친구 선물은 다르며 그 장식의 평가를 다음 예고 없이 임의로 정하면 안 된다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:21:6",
+      "textSha256": "a679852d5155cfa76e4ff548962a7635e5805ab4c18d783917958f37077f746d",
+      "status": "hold",
+      "reason": "화려한 돌도 무너진다는 예고는 물건의 영속성을 묻지만 특정 성전의 파괴를 현재 소비품의 운명으로 옮길 수는 없다.",
+      "contextNote": "성전 장식에 대해 예수가 남김없는 파괴를 예고한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H001",
+          "clue": "더 갖추는 것이 영구한 만족을 확보하는지 돌아볼 여지는 있다.",
+          "friction": "신발이나 재산이 곧 파괴된다는 예언이 아니며 일반 물건의 낡음과 성전 심판은 같은 원인이 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:21:7",
+      "textSha256": "7233fe498562c468dd816916094edf88495fb76faacd1903a6708d792cb4c2b5",
+      "status": "candidate",
+      "reason": "언제 어떤 징후인지 구체적으로 묻는 모습은 어려운 설명을 듣고 필요한 범위를 다시 확인하는 질문을 보여 준다.",
+      "contextNote": "성전 파괴의 예고를 들은 사람들이 예수에게 시점과 징조를 묻는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "모른다는 모습을 감추기보다 내가 이해해야 할 조건을 구체적으로 물어볼 수 있다.",
+          "friction": "질문하면 미래의 정확한 날짜를 알 수 있다는 보장은 아니다. 선배의 조언을 종말 예언과 같은 권위로 만들지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:21:8",
+      "textSha256": "2792d8edffa3e2f1d839a1f7312285124eda2b41c538bc21e970f46f5ac63b51",
+      "status": "candidate",
+      "reason": "예수의 이름과 임박한 때를 내세우는 사람도 좇지 말라고 하여 신적 이름을 붙였다는 사실과 실제 권위를 구별하게 한다.",
+      "contextNote": "예수가 종말에 대한 질문에 먼저 거짓된 권위와 미혹을 경계한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C001",
+          "clue": "내 의견에 하나님의 이름을 붙이는 것이 그 말의 출처를 바꾸어 주는지 돌아볼 수 있다.",
+          "friction": "사용자가 그리스도 자신을 사칭한다는 뜻은 아니다. 다른 사람의 신앙적 조언 전체를 거짓이라 단정하지 않고 실제 위임 없는 자기 단정을 살핀다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:21:9",
+      "textSha256": "0679d654b3a798225a44d148ae5249f4af60eae3b362f14e9c030b5901235398",
+      "status": "candidate",
+      "reason": "불안한 소문을 듣는 일과 모든 끝이 당장 왔다는 판단을 분리하여 미래의 불편을 현재 전체의 결론으로 삼는 마음을 멈춰 보게 한다.",
+      "contextNote": "예수가 전쟁과 소란을 말하되 끝이 곧 오는 것은 아니라고 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H013",
+          "clue": "어려울 수도 있다는 예상 하나가 여행 전체를 지금 포기해야 할 근거인지 나누어 볼 수 있다.",
+          "friction": "확인된 안전 경고를 무시하라는 뜻은 아니다. 실제 전쟁과 상상 속 여행 불편은 다르며 아무 일도 없을 것이라는 보장도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:21:10",
+      "textSha256": "6877a334d850e8bb266280335f156593b9a38dbc62a41c03ecc0e369a8a8fb91",
+      "status": "exclude",
+      "reason": "민족과 나라의 대립에 관한 예고로 개인 모임의 의견 차이나 현재 가족 갈등이 같은 종말 징조라는 판정을 만들 수 없다.",
+      "contextNote": "앞의 난리와 소란을 국가 간 충돌로 구체화한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:21:11",
+      "textSha256": "ad6d15835cfa960e90badac5394435c890320174d1f3e07e49aaf6890cba49c0",
+      "status": "exclude",
+      "reason": "지진과 기근과 질병과 하늘 징조의 예고는 광범위한 종말 문맥이며 현재 질병이나 여행지의 실제 위험을 이 절로 예측할 수 없다.",
+      "contextNote": "마지막 때의 혼란을 자연과 생활의 재난으로 확대한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:21:12",
+      "textSha256": "aedbd64068108c4bbf0ff4c3c3d6e83703354fa32b765778399baed8982c58f6",
+      "status": "hold",
+      "reason": "예수의 이름 때문에 권력에 넘겨지는 비용은 신념의 부담을 보이지만 팀에서 정직하게 말하는 사람에게 같은 박해가 온다고 정할 수 없다.",
+      "contextNote": "제자들이 증언 전에 겪을 핍박을 예고한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "편안한 평가와 지키는 믿음이 언제나 같은 방향인지 돌아볼 여지는 있다.",
+          "friction": "동료를 박해자로 정하거나 감옥과 재판의 위험을 실제 입력에 추가하지 않는다. 본문은 예수의 이름을 위한 특정 증언이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:21:13",
+      "textSha256": "0369dc9d79ef606f98925fdab5f7d22ea695b013f10215a5fef260583d17ce7a",
+      "status": "hold",
+      "reason": "도리어 증거가 된다는 역전은 어려움 속의 다른 몫을 생각하게 하나 이 일이 앞의 박해이고 증거가 증언의 기회임을 알아야 한다.",
+      "contextNote": "박해의 경험을 제자들의 증언 기회로 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "불편한 상황에 고치는 몫이나 사실을 말할 기회도 있는지 생각할 여지는 있다.",
+          "friction": "확인된 누락이 곧 옳았다는 반증으로 바뀌는 말은 아니다. 짧은 이 일과 증거의 의미가 문맥에 기대고 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:21:14",
+      "textSha256": "d5df0cb21369321d9ea753ffe59f82578965695c8d0e247775d9c7ff408a5147",
+      "status": "candidate",
+      "reason": "변명을 미리 모두 연구하지 않기로 하라는 말은 대화의 모든 갈림을 완벽하게 준비해야 입을 열 수 있다는 부담을 흔든다.",
+      "contextNote": "권력 앞에서 증언할 제자들에게 마음의 준비를 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H026",
+          "clue": "서운함을 말하기 전 모든 반응과 완벽한 방어를 갖춰야 하는지 돌아볼 수 있다.",
+          "friction": "기본적인 배려와 사실 확인을 생략하거나 화난 메시지를 곧 보내라는 뜻은 아니다. 박해의 증언과 친구 대화는 다른 장면이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:21:15",
+      "textSha256": "f7d659f189e367278e9742c79551723dda971dd8f06183e95f1f048f57b30f35",
+      "status": "candidate",
+      "reason": "지혜와 말을 주겠다는 도움의 약속은 혼자 모든 대답을 통제해야 한다는 부담을 신뢰와 나누게 한다.",
+      "contextNote": "제자들의 증언에 예수가 구재와 지혜를 약속한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H026",
+          "clue": "미리 모든 말을 확보하려는 걱정보다 도움을 구하며 듣고 말할 여지를 둘 수 있다.",
+          "friction": "친구가 반드시 반박하지 못하거나 대화에서 내가 이긴다는 보장은 아니다. 떠오르는 내 말 전부를 예수의 직접 지혜로 승인하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:21:16",
+      "textSha256": "d92f28d8a9cbd6cba2c0fb99d47ed3a718b0dee53013de16ecd1c18536c8e4d9",
+      "status": "hold",
+      "reason": "가족과 벗까지 넘기는 극단적 박해는 관계가 늘 한편이 아님을 보이지만 일반 진로 차이를 같은 죽음의 갈등으로 읽을 수 없다.",
+      "contextNote": "제자들이 가까운 이들에게도 배신당할 수 있음을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H036",
+          "clue": "가족의 생각과 중요한 길이 자동으로 일치하는 것은 아니라는 여지는 있다.",
+          "friction": "부모가 실제 사용자를 해치려 한다는 정보가 없으며 가족과 진로를 말하면 죽음의 위험이 온다는 예측은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:21:17",
+      "textSha256": "fd64f26dc8114d45cf15153bf99338ca232385d3ed10f33f699fc5fd8500d4e2",
+      "status": "hold",
+      "reason": "예수의 이름 때문에 미움받는다는 경고는 외부 호평이 전부가 아님을 보이나 모든 사람의 적대를 현재 팀에 새로 가정할 수 없다.",
+      "contextNote": "박해의 범위를 예수의 이름을 위한 미움으로 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "모두에게 좋은 평가를 받는 일과 지키려는 기준이 충돌할 여지는 있다.",
+          "friction": "거짓 수치를 거절하면 모두 미워한다는 보장은 아니다. 것이나라는 끝은 뒤의 보호와 인내로 이어진다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:21:18",
+      "textSha256": "7f4adeaf57e3ea5efa47c3e573d5e8a1664db92e09d51e1da4d81e65d0b6e073",
+      "status": "candidate",
+      "reason": "머리털 하나의 보호까지 말하는 위로는 미움과 위협 가운데서도 자기 존재를 외부 평가만으로 닫지 않게 한다.",
+      "contextNote": "일부 죽음의 예고와 나란히 제자들의 궁극적인 보존을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "부족할까 하는 두려움이 내 가치를 모두 정하지는 않는다는 신뢰로 시작의 여지를 볼 수 있다.",
+          "friction": "바로 앞에 일부의 죽음도 있어 신체 손상이 전혀 없다는 현실 보장으로 읽지 않는다. 역할 선발이나 능력의 보장도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:21:19",
+      "textSha256": "cafa484615a571d052350263f7e5bcb49d0016eeb93d555d9f349470fa5374d8",
+      "status": "candidate",
+      "reason": "인내로 영혼을 얻는다는 말은 빠른 외부 결과와 별개로 지켜 가는 과정의 가치를 보게 한다.",
+      "contextNote": "박해의 말씀이 제자들의 인내에 대한 권면으로 이어진다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H046",
+          "clue": "남의 결과가 빠르다는 이유만으로 내 마음과 과정을 재촉해 잃고 있는 것은 없는지 생각할 수 있다.",
+          "friction": "같은 실패 방법을 무조건 계속하면 성과가 난다는 뜻이 아니다. 영혼의 보존과 개인 성과의 속도를 구별한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:21:20",
+      "textSha256": "159481192bd6ff1dcb81c3de787db35866ec7e10399829084cd74bf49164c11c",
+      "status": "hold",
+      "reason": "예루살렘을 에워싼 군대를 보라는 특정 경고는 확인한 위험에 응하는 태도를 보이나 현재 대피의 위험 종류와는 다르다.",
+      "contextNote": "도시 포위가 가까운 멸망의 표지라고 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C015",
+          "clue": "안전을 위한 실제 안내가 주어졌을 때 물건의 아쉬움과 별개로 그 정보를 볼 여지는 있다.",
+          "friction": "기숙사에 군대가 오거나 같은 심판이 있다는 뜻이 아니다. 지금 도망할 행동은 다음 절이 더 직접 말한다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:21:21",
+      "textSha256": "7e04999394202e95541c56fbf5f73925539541fd68021780fd088a572629b250",
+      "status": "candidate",
+      "reason": "성 안에 있으면 나가고 밖에 있으면 들어가지 말라는 조건별 행동은 대피 뒤 물건 때문에 되돌아갈지를 묻는 고민에 직접 닿는다.",
+      "contextNote": "포위된 예루살렘의 사람들에게 피하는 방향을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C015",
+          "clue": "이미 밖으로 나온 상태에서 물건을 찾으러 위험 안으로 다시 들어갈 이유가 되는지 생각할 수 있다.",
+          "friction": "현재 장소를 예루살렘의 심판으로 판정하지 않는다. 산이라는 특정 경로를 따르라는 말 대신 입력에 이미 있는 지정 대피 장소와 구별한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:21:22",
+      "textSha256": "3bedaf896470dc3464779d055e21a590d23c709ad0d705371d3f8a85c5edd9e3",
+      "status": "exclude",
+      "reason": "이 날들이 기록을 이루는 형벌의 날이라는 특정 설명으로 사용자의 현재 안전 사고나 새 어려움도 모두 과거 잘못의 벌이라 정할 수 없다.",
+      "contextNote": "예루살렘을 피할 때의 역사적 심판 성격을 밝힌다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:21:23",
+      "textSha256": "7b48898d4e8e6bed5ebbfcf14e590353d1d79f2ba6462b607dcbcf95dee138ca",
+      "status": "exclude",
+      "reason": "환난 속 임신과 수유의 큰 어려움을 도시의 진노와 함께 예고하는 말로 현재 사람의 임신이나 일상 도움 요청을 신적 화의 대상으로 삼을 수 없다.",
+      "contextNote": "예루살렘 환난에서 더 취약한 이들의 고통을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:21:24",
+      "textSha256": "633b01292c20fd60b977cb2c6c18529dcb4cd597b23f209d9f469bfbb8be50e8",
+      "status": "exclude",
+      "reason": "죽음과 포로와 예루살렘이 밟히는 때의 예고는 그 도시의 역사와 종말을 다루며 개인의 관계나 일의 결과를 같은 운명으로 예측하기 어렵다.",
+      "contextNote": "환난 뒤 이방인의 때까지 이어질 도시의 상태를 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:21:25",
+      "textSha256": "edcbe4cefa38877f5befc3454d56cbce8c81b348c479ae3241f2edd0f510e000",
+      "status": "exclude",
+      "reason": "해와 달과 별과 바다의 징조로 민족들이 곤고해지는 장면은 종말의 규모를 말하여 내 마음 불편이나 여행의 실제 위험을 같은 신호로 해석할 수 없다.",
+      "contextNote": "인자의 드러남 전 우주와 세상의 혼란을 묘사한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:21:26",
+      "textSha256": "f5ed0360fea580b49fcbf6dca8c27dc712fcb3b1051be3d14bc0729a52257689",
+      "status": "hold",
+      "reason": "앞으로 임할 일을 생각하며 두려워하는 모습은 예상이 몸에 미치는 부담을 보이나 하늘 권능의 실제 흔들림이라는 특별한 전제가 있다.",
+      "contextNote": "우주적 혼란에 사람들의 두려움이 더해짐을 예고한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H013",
+          "clue": "미래 불편을 머릿속에서 반복하는 일이 현재에 어떤 무게를 주는지 생각할 여지는 있다.",
+          "friction": "상상 속 여행 불편을 우주적 환난으로 과장하지 않는다. 이 장면은 곧 아무 일 없다는 위로나 불안의 진단을 주지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:21:27",
+      "textSha256": "9407aeedc7b7fd07439199bae09868e9b64d25ecf059e6ba130be2245c4a873e",
+      "status": "exclude",
+      "reason": "인자가 구름과 영광으로 나타나는 종말의 목격을 예고하여 개인의 다음 성과나 회복이 같은 방식으로 확정됐다는 실마리로 쓰기 어렵다.",
+      "contextNote": "환난의 묘사를 인자의 나타남으로 전환한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:21:28",
+      "textSha256": "f78f2e0de70b747af1f2efa30e0a8007c53d18e768916f819daf6777628ac3ef",
+      "status": "candidate",
+      "reason": "두려운 징후 속에서도 머리를 들라고 하는 말은 위축된 상태를 내 가능성의 전부로 삼지 않을 여지를 준다.",
+      "contextNote": "인자의 드러남과 구속의 가까움을 제자들의 소망으로 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "부족할까 두려운 마음만 보며 고개를 숙이는 대신 시작의 여지를 볼 수 있다.",
+          "friction": "지원 기회가 곧 구속의 날이라는 뜻이나 선발이 가까웠다는 예언이 아니다. 환난의 징후를 현재 상황에 새로 붙이지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:21:29",
+      "textSha256": "2d88c038572eadce2a9723d814e5412a74698fcc261fc123a4d10f878bbf7653",
+      "status": "hold",
+      "reason": "나무를 보라는 관찰의 초대는 있지만 무엇을 보고 어떻게 판단할지는 싹의 다음 설명에 남는다.",
+      "contextNote": "예수가 계절을 읽는 나무 비유를 시작한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H003",
+          "clue": "남의 말만 듣기보다 실제 볼 수 있는 조건을 살필 여지는 있다.",
+          "friction": "제품의 쓰임을 알려 주는 내용이 없고 관찰하라는 일반 태도에 머물 수 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:21:30",
+      "textSha256": "bda942e5d57f5095357d5a5cc219669dc619ab860b11655b736b7376a875d05d",
+      "status": "candidate",
+      "reason": "작은 싹을 보고 아직 오지 않은 계절을 아는 모습은 큰 결과만이 변화의 전부인지 돌아보게 한다.",
+      "contextNote": "나무의 싹을 여름의 가까움에 대한 비유로 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H046",
+          "clue": "남의 큰 결과와 비교하기 전에 내 과정에 확인할 수 있는 작은 변화가 있는지 볼 수 있다.",
+          "friction": "사용자에게 이미 진전이 있다고 지어내지 않는다. 자연 계절처럼 개인 성공도 확정됐다는 보장은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:21:31",
+      "textSha256": "14234fa4152e6b0b26b27cce3aa2fe5b15bae36bd585efaf2d0b6499019103e3",
+      "status": "hold",
+      "reason": "일어나는 일을 보고 나라의 가까움을 알라는 말은 근거 있는 판단을 보이나 어떤 일이냐는 앞의 환난과 나무 비유가 필요하다.",
+      "contextNote": "계절 비유를 하나님 나라의 임함에 적용한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H061",
+          "clue": "막연한 확신을 더 기다리는 대신 지금 실제로 볼 수 있는 조건을 생각할 여지는 있다.",
+          "friction": "내 두 선택의 사건을 하나님 나라의 확답으로 지정할 수 없다. 이런 일의 지시가 비어 있어 단독 충분함은 낮다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:21:32",
+      "textSha256": "eb7a6ce8551f270b3d25c612e5af5f9bb7d720209d7e1af027f57a813df15dc2",
+      "status": "exclude",
+      "reason": "이 세대 안에 모든 일이 이뤄진다는 특정 청중과 예고의 시간 문장으로 내 결과나 다음 기회가 언제 온다고 판정할 수 없다.",
+      "contextNote": "종말의 말씀과 그 성취의 무게를 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:21:33",
+      "textSha256": "d7eef571d9b38b9347521e8ce0657fc0a64dec4c9928d1de7a811b0cc31b529f",
+      "status": "candidate",
+      "reason": "바깥의 것과 달리 사라지지 않는 예수의 말씀을 대비하여 흔들리는 의견 속에서 중심으로 삼는 기준을 생각하게 한다.",
+      "contextNote": "앞의 예고의 신실함을 천지와 말씀의 지속으로 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H064",
+          "clue": "여러 사람의 반응을 계속 좇기보다 내가 중요하게 믿는 근거와 가치를 따로 볼 수 있다.",
+          "friction": "내 취향이나 개인 말이 영원한 예수의 말이라는 뜻이 아니다. 말씀으로 두 선택 중 정답이 자동 지정됐다고 해설하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:21:34",
+      "textSha256": "9a90867ea96f099cfa8f6ba48af04a2fcefd39af3ff30d3e60a1958bb84168b7",
+      "status": "candidate",
+      "reason": "생활 염려도 마음을 둔하게 할 수 있다고 말하여 더 많은 활동과 걱정이 분별을 돕는지 돌아보게 한다.",
+      "contextNote": "갑작스러운 날을 앞둔 제자의 마음을 술취함과 염려에서 지키라고 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H063",
+          "clue": "불편함을 덮으려 일과 생각을 더 채우는 대신 내 마음이 무엇에 둔해지는지 멈춰 볼 수 있다.",
+          "friction": "사용자에게 방탕이나 음주가 있다고 붙이지 않는다. 덫 같은 날의 예고를 현재 불안의 원인으로 정하거나 모든 즐거움을 금하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:21:35",
+      "textSha256": "c4c9bcfb80ea6a24a21ce1c7d9c29125aa882e76080b6d323e82e22b17dfff3c",
+      "status": "exclude",
+      "reason": "그 날이 모든 사람에게 임한다는 보편적 종말 선언으로 날짜나 사건을 특정할 수 없으며 개인 일정의 긴급성을 새로 만드는 근거는 아니다.",
+      "contextNote": "깨어 있을 권면의 대상 범위를 넓힌다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:21:36",
+      "textSha256": "e103f493a8dac59548de3d72b8328fefc19ab7412c2ba087a5e51b998d36e506",
+      "status": "candidate",
+      "reason": "기도하며 깨어 있으라는 방향은 마음을 다른 일로만 덮는 방식 밖에 조용히 돌아볼 자리를 준다.",
+      "contextNote": "장차 올 일들 앞에서 인자 앞에 설 제자의 태도를 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H063",
+          "clue": "더 바쁜 것으로만 불편함을 밀어내기보다 기도하고 현재 마음을 살피는 시간을 둘 수 있다.",
+          "friction": "잠을 줄여 늘 깨어 있으라는 건강 지시가 아니다. 기도하면 현실의 모든 어려움을 피한다는 보장이나 불안이 종말 신호라는 해설도 붙이지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:21:37",
+      "textSha256": "c44d44641476f6e54796b108b4d12c39dd153b9c8fb21beaa67ab6ee02d1f7f0",
+      "status": "candidate",
+      "reason": "낮의 가르침과 밤의 쉼을 한 생활 안에 두어 중요한 일을 하는 것과 쉬는 일을 대립시키지 않는다.",
+      "contextNote": "예수가 낮에는 성전에서 가르치고 밤에는 감람산에서 쉬는 일과를 기록한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G13",
+          "clue": "이미 잠이 부족한 상태에서 밤까지 더 채우는 일 대신 쉬는 시간도 일과의 일부로 둘 수 있다.",
+          "friction": "정해진 수면 시간이나 시험 결과를 보장하지 않으며 당일 미완료 의무가 사라진다는 말도 아니다.",
+          "expectedEnough": "yes"
+        },
+        {
+          "scenarioId": "H055",
+          "clue": "돌봐야 할 일이 있어도 회복을 위해 쉬는 시간을 내 역할의 실패로만 볼 필요가 있는지 생각할 수 있다.",
+          "friction": "예수의 특정 장소를 따라야 한다는 뜻은 아니다. 사용자에게 이미 주어진 회복을 위한 쉼의 설명과 연결한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:21:38",
+      "textSha256": "d682b64679845e393eb31b4d5dca695701a97d8886a2af29947a3c1a7c6425a1",
+      "status": "candidate",
+      "reason": "말씀을 듣기 위해 사람들이 스스로 찾아가는 모습은 배우려는 행동이 무능의 표지만은 아님을 보여 준다.",
+      "contextNote": "백성이 예수의 가르침을 들으려고 아침에 성전으로 간다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "배울 말을 찾아가는 일을 부끄러움 대신 필요한 배움의 한 과정으로 볼 수 있다.",
+          "friction": "선배가 예수와 같은 답을 준다는 뜻이 아니며 잠을 줄여 더 일찍 가라는 규칙도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:1",
+      "textSha256": "11792d130fd1dc33ab71d6ff903f49e337359ad8ef859ce3b079627e820967fc",
+      "status": "exclude",
+      "reason": "무교절과 유월절이 가까웠다는 달력의 전환만 있어 개인의 마감이나 지금 할 행동의 내용은 없다.",
+      "contextNote": "수난 사건의 절기 배경을 놓는다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:22:2",
+      "textSha256": "d82a5d9fb98181f5251d287bbe933e827a422c178adeab3c879260ac42c73e72",
+      "status": "hold",
+      "reason": "백성을 두려워하며 해칠 방책을 찾는 지도자들은 외부 평가 때문에 잘못된 목적을 감추는 모습을 보이나 현재 작은 실수와는 간격이 크다.",
+      "contextNote": "지도자들이 예수를 죽일 방법을 의논한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "내용을 고치기보다 나를 불편하게 한 사람에게 반격할 방법을 찾는지 돌아볼 여지는 있다.",
+          "friction": "사용자에게 살해 의도가 있다고 붙이지 않는다. 이 절에는 어떤 지적을 받았는지가 없어 첫 연결이 공격적 인상에 머물 수 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:3",
+      "textSha256": "c9bd194b5c03466d463ed585170ff66e8f8dabf3781d7ce7171da249abb39885",
+      "status": "exclude",
+      "reason": "유다에게 사단이 들어갔다는 특정 배신의 설명으로 친구의 불확실한 마음이나 개인의 불편을 같은 영적 원인으로 진단할 수 없다.",
+      "contextNote": "열두 제자 중 유다의 배신 행동을 시작한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:22:4",
+      "textSha256": "51dc6bb04bf6817660f6f83ef87f66bb84654e5b3e625162df17149b12de4810",
+      "status": "hold",
+      "reason": "가까운 이를 넘길 방책을 함께 의논하는 행동은 이익과 신뢰의 갈등을 비추지만 돈과 동의의 조건은 뒤에 남는다.",
+      "contextNote": "유다가 지도자들과 예수의 체포를 협의한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "여러 사람이 의논해도 지키려는 신뢰를 해치는 일인지 따로 볼 여지는 있다.",
+          "friction": "팀의 수치 부풀리기를 실제 체포 음모와 같은 크기로 정하지 않는다. 이 행동만으로 사용자의 모든 동기를 판정할 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:5",
+      "textSha256": "8e1a26e6808ba1d694e0f2717a4918a38ce54b3d7adeb78d33b35a1f84429209",
+      "status": "hold",
+      "reason": "돈을 주기로 기뻐하며 약속하는 장면은 거래의 유혹을 보이나 무엇의 대가인지 앞 절 없이는 정상 보상과 구분되지 않는다.",
+      "contextNote": "지도자들이 유다의 배신 제안에 금전을 약속한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "좋은 반응과 보수가 어떤 행동의 대가인지 확인할 여지는 있다.",
+          "friction": "돈을 받는 일 자체가 배신이라는 뜻은 아니다. 예수의 넘겨짐이라는 문맥이 있어야 이 보상의 문제가 읽힌다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:6",
+      "textSha256": "61b717c1a1da07a0fb2c506c90bdcf358574ef3878c92d2fed6218317bf793b4",
+      "status": "candidate",
+      "reason": "배신을 허락하고 남들이 없을 기회를 찾는 모습은 알려지지 않으면 된다는 조건으로 신뢰를 넘기려는 선택을 드러낸다.",
+      "contextNote": "유다가 약속을 받아들이고 예수를 넘길 틈을 찾는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "팀 안에서만 처리하면 드러나지 않는다는 생각이 사실을 바꾸어도 된다는 이유인지 돌아볼 수 있다.",
+          "friction": "사용자를 유다와 같은 인물로 판결하지 않는다. 직장 보고와 예수의 체포는 다른 사건이며 숨김과 신뢰의 개인 실마리로만 연결한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:7",
+      "textSha256": "656776528ff06959c0dedba886d5e7fdef59c7813d0a2a59f4ca0c033ce7f1a2",
+      "status": "exclude",
+      "reason": "유월절 양을 잡는 날이 왔다는 절기의 전환으로 어떤 준비를 누구와 나눌지는 다음 지시에 있다.",
+      "contextNote": "마지막 식사의 준비 시점을 알린다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:22:8",
+      "textSha256": "d04028f6a808d9cfb8f9fd44145f70db1fc279fea486d23f64b98330427b92cc",
+      "status": "candidate",
+      "reason": "함께 먹을 수 있도록 식사를 예비하게 하는 구체적 도움은 큰 문제 전체를 해결하지 못해도 할 몫이 있음을 보여 준다.",
+      "contextNote": "예수가 베드로와 요한에게 유월절 식사를 준비하게 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "거창한 해결보다 지금 함께 먹고 지낼 작은 준비를 도울 수 있는지 생각할 수 있다.",
+          "friction": "친구가 식사를 원한다고 이미 안다는 뜻은 아니며 상대의 필요와 내 여력은 남는다. 특별한 절기의 식사와 개인 도움은 구별한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:9",
+      "textSha256": "40b03b027e6cf27234124e48871b00a11494d10d6d17e2a4e2cd5577fa2e25d2",
+      "status": "candidate",
+      "reason": "어디서 준비할지 되묻는 짧은 질문은 부탁을 받았어도 필요한 조건을 모르면 확인할 수 있음을 보여 준다.",
+      "contextNote": "식사 준비를 맡은 제자들이 예수에게 장소를 묻는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "부탁을 이해한 척 혼자 처리하기보다 실행에 필요한 정보를 구체적으로 물을 수 있다.",
+          "friction": "질문하면 무조건 환영받거나 상대가 모든 답을 안다는 보장은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:10",
+      "textSha256": "a63ce8be577819f1aa33105b122e36e96bc9e7436c024f704c431c751a444e73",
+      "status": "exclude",
+      "reason": "물동이 든 사람과 그 집을 따라가라는 사전 지시는 특정 식사를 위한 것으로 우연히 만난 낯선 사람을 따르라는 생활 규칙이 아니다.",
+      "contextNote": "예수가 준비할 집으로 갈 구체 단서를 제자들에게 준다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:22:11",
+      "textSha256": "791b896faf2a8040685d20873e312c55c07351efb1c527aff323d4998782e770",
+      "status": "hold",
+      "reason": "집주인에게 객실을 묻는 모습은 사용의 소통을 보이지만 선생님의 위임을 대신 말하는 특수한 조건이 있어 자기 목적의 허가와 같지 않다.",
+      "contextNote": "제자들이 집주인에게 전할 말을 예수가 알려 준다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C007",
+          "clue": "내가 쓰고 싶은 공간이나 물건의 주인에게 말할 자리가 있다는 여지는 있다.",
+          "friction": "주가 원하신다고만 하면 남의 물건을 내 마음대로 써도 된다는 뜻은 아니다. 실제 소유자의 동의가 개인의 경우에도 필요하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:12",
+      "textSha256": "4af64883242d372326904b8ff7f95d225fc05b5a32d33087caa8901ac1be0fba",
+      "status": "hold",
+      "reason": "자리가 마련된 방에서 준비하는 모습은 주어진 조건의 활용을 보이나 사용자의 운동 준비도 이미 다 갖춰졌다고 알릴 수 없다.",
+      "contextNote": "주인이 보여 줄 큰 다락방에서 식사를 준비하라고 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H057",
+          "clue": "새로 완벽한 조건을 만들기 전에 지금 쓸 수 있는 자리가 있는지 생각할 여지는 있다.",
+          "friction": "보여 줄 주인과 방이 실제 정해진 본문의 예고이며 현재 사용자의 자원에 같은 보장이 있는 것은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:13",
+      "textSha256": "4139c3721e56c2324c4c3c9c438f38596c6fd4009d2cd2899e39197aa4e497be",
+      "status": "hold",
+      "reason": "주어진 지시를 따라 식사를 마친 기록은 충실한 실행을 보이나 예고대로 만났다는 특수한 성취가 중심이고 따분한 마무리의 부담은 없다.",
+      "contextNote": "제자들이 예수의 말대로 장소를 만나 유월절을 준비한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H053",
+          "clue": "부탁받은 준비도 다음 일 전에 마칠 몫이라는 여지는 있다.",
+          "friction": "내 계획도 그대로 맞아떨어진다는 뜻은 아니며 현재의 남은 업무와 새 일의 선택에 연결하는 힘은 제한적이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:14",
+      "textSha256": "a5731f75d279bf5a4a432fb4716bf6f438fcf414a3f1c70f95500158783ee08f",
+      "status": "exclude",
+      "reason": "시간이 되어 사도들과 앉았다는 식사의 장면 설정으로 무엇을 나누고 왜 함께하는지의 뜻은 다음 말에 있다.",
+      "contextNote": "마지막 식사가 시작된다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:22:15",
+      "textSha256": "02a95adff68c3b65136e9e4fcd47aaa7ae6666ff9f2f4c0e287348a3e76ce8a2",
+      "status": "candidate",
+      "reason": "고난 전에 함께 먹기를 원하고 원했다는 솔직한 말은 힘든 시간을 혼자 감당하는 것과 사람들과 함께할 바람을 나누게 한다.",
+      "contextNote": "예수가 사도들과 마지막 유월절을 먹고 싶은 마음을 밝힌다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "힘든 일을 모두 해결해 달라는 부탁이 아니어도 함께 있고 먹을 사람을 원한다고 말할 수 있다.",
+          "friction": "사용자에게 수난 같은 사건이 정해졌다는 예언은 아니다. 예수의 마지막 식사와 일상의 동행 필요를 구별한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:16",
+      "textSha256": "4fa9193c13de87b15994eb2459b08cec44f5eccab3fcf32298c30620c3444698",
+      "status": "hold",
+      "reason": "나라에서 성취되기까지 다시 먹지 않는 식사는 현재의 특별함을 보이나 가족과 하루 축제의 우선순위를 대신 정할 수는 없다.",
+      "contextNote": "예수가 유월절의 마지막과 장래 성취를 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G06",
+          "clue": "언제나 같은 기회가 반복되는 것은 아니라는 여지는 있다.",
+          "friction": "축제가 유월절 성취와 같은 사건이거나 다음 기회가 절대 없다는 예언은 아니다. 무엇을 먹는지는 이 유월절이라는 지시에 기대고 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:17",
+      "textSha256": "082000c00643a87117e5c0dd2a8b4f02f0f3eb3af612c38c8e616f8b5198a640",
+      "status": "candidate",
+      "reason": "감사를 드린 잔을 함께 나누라는 행동은 가진 것을 자기 몫에만 두는 일 외에 공동의 기쁨으로 내놓는 모습을 준다.",
+      "contextNote": "마지막 식사에서 예수가 잔을 사도들에게 나누게 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H059",
+          "clue": "아끼는 마음과 별개로 함께 나눌 수 있는 몫이 무엇인지 생각할 수 있다.",
+          "friction": "성찬의 잔이 현금 나눔과 같은 것은 아니며 전 재산이나 생활비 전부를 내놓으라는 액수 지시도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:18",
+      "textSha256": "441a4b4bd02548382752eaa0ea96530385f2ab038979cd03e40edcba1106e9e4",
+      "status": "exclude",
+      "reason": "나라가 임할 때까지 포도주를 마시지 않는 예수의 특별한 약속으로 개인이 즐거움을 끊거나 같은 시점까지 기다릴 의무를 만들 수 없다.",
+      "contextNote": "식사의 잔을 장래 하나님 나라와 연결한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:22:19",
+      "textSha256": "7f371abec79e9257fa54a9f23a4207c29ac42ad4b0e0f7e4564c67b5e60df9e2",
+      "status": "hold",
+      "reason": "너희를 위해 주는 몸과 기념의 뜻은 은혜를 생각하게 하지만 끝난 실수 뒤 자기 처벌을 멈출 선택을 읽으려면 성찬의 의미를 더 연결해야 한다.",
+      "contextNote": "떡을 나누며 자신의 몸과 기념을 말하는 성찬 제정이다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "스스로의 벌로만 관계를 유지하는 것 외에 받은 은혜를 기억하는 자리는 있다.",
+          "friction": "이 절 자체는 죄 사함을 직접 말하기보다 몸과 기념을 말한다. 서비스가 업무 실수의 사함을 확정하거나 추가 회복 의무를 없애지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:20",
+      "textSha256": "94b5dd020c86222341d1cca0dbc3e75885c8151dc353eae388b338f1c369c051",
+      "status": "hold",
+      "reason": "피로 세운 새 언약과 너희를 위한 내어줌은 은혜의 관계를 말하지만 끝난 실수 뒤 자책을 멈출 실마리는 언약의 뜻을 더 연결해야 한다.",
+      "contextNote": "마지막 식사에서 예수가 잔을 새 언약으로 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "자기 벌만이 아니라 이미 받은 은혜의 관계를 생각할 여지는 있다.",
+          "friction": "이 절은 죄 사함을 직접 말하지 않으며 성찬의 의미를 알아야 한다. 서비스가 현재 죄와 회복 의무를 판정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:21",
+      "textSha256": "46e6b36ae2b4d4cb06dc0c181985f8aa827ef3eabd3c9afc03829d0fc6fdfb5f",
+      "status": "hold",
+      "reason": "같은 상에 있는 이의 배신은 가까움과 신뢰를 생각하게 하나 현재 친구가 실제 비밀을 넘길 사람인지의 근거를 주지 않는다.",
+      "contextNote": "식사 중 예수가 배신자가 함께 있음을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H039",
+          "clue": "친한 자리라는 이유만으로 모든 이야기를 나눌 권한이 생기는지 돌아볼 여지는 있다.",
+          "friction": "현재 묻는 친구를 배신자로 의심할 자료는 없다. 누가 파는지는 예수의 특별한 앎이므로 사용자의 마음 읽기로 옮기지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:22",
+      "textSha256": "4ae3c0193fd56e75a3f55f75e0462b50be4c9873122e4c932766651132c5241c",
+      "status": "hold",
+      "reason": "이미 작정된 길과 파는 사람의 책임을 나누지만 수난의 예정과 화의 선언을 성인 형제의 책임에 바로 대응시키기 어렵다.",
+      "contextNote": "예수의 수난과 유다의 배신 책임이 함께 성립함을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C003",
+          "clue": "상황의 큰 흐름과 실제 행동한 사람의 책임을 따로 볼 질문은 있다.",
+          "friction": "친족이면 배신자의 벌을 나눠 져야 한다는 뜻이 아니다. 본문은 예정과 배신의 관계라 가족의 죄책감을 푸는 데 추가 설명이 필요하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:23",
+      "textSha256": "14926ec5df1ac18ce6cd79ae1526fc8b203b536ea4aa112c578db727b5b1c703",
+      "status": "exclude",
+      "reason": "누가 배신할지 제자들이 서로 묻는 장면만으로 실제 모르는 친구의 마음이나 공동체의 특정인을 의심할 근거를 만들 수 없다.",
+      "contextNote": "배신 예고에 제자들이 보인 의문을 기록한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:22:24",
+      "textSha256": "3bf9a2fdd6d45f10f5ee0957a7f4e61ba3073b5d26861354278aecf65649aaf0",
+      "status": "hold",
+      "reason": "누가 더 큰지를 다투는 모습은 비교가 관계를 차지하는 부담을 비추지만 이 절의 대안은 다음 섬김의 말씀에 남는다.",
+      "contextNote": "마지막 식탁에서도 제자들의 서열 다툼이 나타난다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H046",
+          "clue": "내 과정보다 누가 앞선지를 따지는 일에 마음이 묶여 있는지 볼 수 있다.",
+          "friction": "성장의 속도를 비교하는 일과 지위 다툼은 다르며 자기 계획을 어떤 기준으로 지킬지는 아직 말하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:25",
+      "textSha256": "350118c3665015dd408cd486bed44d8576bf63cd95f07484f21eb761489f4ffa",
+      "status": "hold",
+      "reason": "권력자가 지배하면서 은인이라 불리는 모습은 호칭과 실제 역할을 보게 하나 제자들에게 요구하는 대조는 다음 절에 있다.",
+      "contextNote": "예수가 세상 통치자의 방식과 제자의 섬김을 대비하기 시작한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C005",
+          "clue": "좋은 운영자라는 이름과 실제 구성원이 받는 돌봄이 일치하는지 생각할 여지는 있다.",
+          "friction": "모든 권한 행사가 악하다는 뜻은 아니며 받으나라는 연결 뒤의 대안까지 있어야 첫 의미가 선명해진다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:26",
+      "textSha256": "b2b9c28a108c4a88df09f7a1f4afa490a1e07d03607085deeac13790dee147b2",
+      "status": "candidate",
+      "reason": "큰 자와 지도자를 섬기는 자의 자리로 돌려놓아 운영의 높임보다 사람을 받치는 목적을 직접 보게 한다.",
+      "contextNote": "서열을 다투는 제자들에게 예수가 다른 지도력을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C005",
+          "clue": "행사를 더 크게 만드는 일만 아니라 적응이 어렵다는 사람을 실제로 받치는 것이 지도자의 몫인지 생각할 수 있다.",
+          "friction": "젊은 자를 낮은 가치로 판정하거나 리더가 모든 요청을 무한히 맡아야 한다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:27",
+      "textSha256": "dc4ffc21216e00b499485eead5aa0a29423cac2e9bd46c20a8430b9ae4184002",
+      "status": "candidate",
+      "reason": "먹는 자리와 섬기는 자리를 묻고 자신이 섬기는 자로 있다고 답하여 높은 자리의 의미를 실제 돌봄으로 바꾼다.",
+      "contextNote": "예수가 자기 식탁의 행동으로 지도력의 반전을 보여 준다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C005",
+          "clue": "운영의 지위를 갖는 것과 구성원이 필요할 때 손을 보태는 일이 얼마나 함께 있는지 돌아볼 수 있다.",
+          "friction": "사용자에게 예수의 신적 권위가 있다는 뜻이 아니다. 직접 도와야 할 필요와 여력의 판단은 남는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:28",
+      "textSha256": "06be97766afdf4141e32fe8b7cfd4cc0cbbd509ece14a36c4785c4012c9785e2",
+      "status": "candidate",
+      "reason": "시험 중에 함께했던 이들의 몫을 인정하는 말은 문제를 전부 해결하지 않아도 동행의 가치가 있음을 보여 준다.",
+      "contextNote": "예수가 제자들의 함께함을 기억하며 뒤의 나라 약속으로 잇는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "도움을 청할 때 상대에게 모든 해결을 맡기는 것뿐 아니라 곁에 함께 있어 달라는 부탁도 가능함을 생각할 수 있다.",
+          "friction": "모든 사람이 언제나 함께해 줄 것이라는 보장은 아니며 예수의 모든 시험과 현재 고단함은 같은 사건이 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:29",
+      "textSha256": "4dab96f3b054c886efcce6bba6038b0700b8357459b80b27979f9cdfb7b56c5c",
+      "status": "hold",
+      "reason": "아버지에게 받은 나라를 제자들에게 맡기는 약속은 역할의 신뢰를 보이나 구체 대상과 맡김의 내용이 일반 지원과 다르고 문장도 다음에 이어진다.",
+      "contextNote": "제자들의 동행에 예수가 나라의 맡김을 약속한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "작은 동행의 몫도 더 큰 신뢰와 이어질 수 있다는 여지는 있다.",
+          "friction": "현재 역할이 이미 주어졌거나 사용자가 나라를 통치한다는 뜻은 아니다. 맡겨라는 연결 뒤의 내용이 필요하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:30",
+      "textSha256": "0bf0e0819e2fc13d6deccc7a838ee856bec891f203e810153fa31b2fd2c31339",
+      "status": "hold",
+      "reason": "나라의 식탁과 열두 지파의 보좌는 특정 제자들의 참여 약속으로 보통 역할의 선발과 책임을 같은 방식으로 정할 수 없다.",
+      "contextNote": "맡긴 나라에서 사도들이 누릴 교제와 통치를 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "함께한 이에게 남는 자리가 있다는 신뢰는 생각할 수 있다.",
+          "friction": "지원하면 같은 권한과 자리가 확보된다는 보장이 아니다. 열두 지파 통치와 실제 업무 능력은 분리한다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:31",
+      "textSha256": "48877b7bd3bf210dc751c3e304403c20def025c7c3fda4a61bb7622e20ee06b6",
+      "status": "exclude",
+      "reason": "시몬을 부르며 사단이 요구한 시험을 말하다 다음의 기도로 이어져 개인의 불안이나 실패를 같은 영적 공격으로 판정할 수 없다.",
+      "contextNote": "베드로의 흔들림과 회복을 말하기 전 시험을 예고한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:22:32",
+      "textSha256": "01300c1030aff6641ac456b79d51c37a3664575be4c8a1fb26312e420fefd283",
+      "status": "candidate",
+      "reason": "믿음이 떨어지지 않기를 기도했고 돌아선 뒤 형제를 굳게 하라는 말은 잘못 뒤의 몫이 끝없는 자기 벌만은 아님을 보여 준다.",
+      "contextNote": "베드로의 부인을 앞두고 예수가 기도와 회복 뒤의 역할을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "이미 인정하고 바로잡은 뒤에는 과거 잘못만 되풀이하기보다 지금 누군가를 돕고 할 일을 할 자리가 있는지 생각할 수 있다.",
+          "friction": "서비스가 새 사명을 직접 임명하거나 어떤 잘못도 책임 없이 지나간다고 하지 않는다. 예수의 베드로를 위한 구체 말과 개인 연결은 구별한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:33",
+      "textSha256": "cdfe7cb747835c391eb462ebc8698b7e2bd5c6f13d088bb60b9071431042407f",
+      "status": "hold",
+      "reason": "감옥과 죽음까지 준비됐다는 자신감은 충성의 다짐이지만 곧 부인의 예고가 있어 말한 만큼 감당할 수 있다는 모범으로 읽기 어렵다.",
+      "contextNote": "베드로가 자신의 굳은 뜻을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H044",
+          "clue": "기꺼이 하겠다는 말과 실제 감당할 여력을 나누어 볼 여지는 있다.",
+          "friction": "이 절만으로는 다짐이 과한지 드러나지 않는다. 새로운 요청을 받는 사용자가 죽음까지 무리하라는 격려로 쓰지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:34",
+      "textSha256": "15e27fb87319b8b0c36bab034ace63484ead0f7f8342b8e6043a01848fd3ff63",
+      "status": "exclude",
+      "reason": "오늘 닭 울기 전 세 번 부인한다는 베드로 개인의 구체 예고로 사용자의 내일 실패나 배신을 점치는 답을 만들 수 없다.",
+      "contextNote": "베드로의 다짐에 예수가 실제 부인을 예고한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:22:35",
+      "textSha256": "d41ebe9384c6efc36fcdb3f53a479a6e0a19cf9b503672ac3636cb256d6402a1",
+      "status": "hold",
+      "reason": "이전의 부족 없음을 함께 기억하는 대화는 지원의 경험을 보이나 당시의 특수한 파송과 현재의 준비 조건은 같지 않다.",
+      "contextNote": "예수가 앞선 소지품 없는 파송을 회고하고 뒤에서는 달라진 조건을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "혼자 해결하지 않은 때 받았던 도움을 돌아볼 여지는 있다.",
+          "friction": "이번에도 물자와 돈이 필요 없다는 뜻은 아니다. 앞의 경험만으로 현재 상대의 도움과 여력을 보장하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:36",
+      "textSha256": "a69d9e138e7cd2f89bd167fb73c2d019c814d43ca899579524eb484c3d1efb97",
+      "status": "hold",
+      "reason": "이제는 돈과 주머니를 가지라는 변화는 조건에 맞춘 준비를 보이지만 옷을 팔아 검을 사라는 끝까지 이해해야 한다.",
+      "contextNote": "예수가 앞의 파송과 달라진 수난 전야의 조건을 제자들에게 말한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H062",
+          "clue": "전에는 맞던 준비가 상황이 달라진 뒤에도 그대로 맞는지 생각할 여지는 있다.",
+          "friction": "검을 사라는 뒷말을 지우고 일반 준비 격려로 꾸미지 않는다. 실제 무장이나 폭력의 지시로 옮길 수 없고 뒤의 부상과 예수의 응답까지 보는 풀이가 필요하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:37",
+      "textSha256": "37bb87b2e081ad11e11e3524b075d7021c36b7c01370c58c6d2c0eee4a001cd0",
+      "status": "exclude",
+      "reason": "불법자의 동류로 여겨진다는 예언이 예수에게 성취됨을 말하는 절로 사용자의 불이익을 같은 예정이나 신적 신분으로 판정할 수 없다.",
+      "contextNote": "수난 때의 조건이 달라지는 이유를 기록의 성취로 설명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:22:38",
+      "textSha256": "36f9616f2272321b3cd101771cb4181eeed73d6806d6a32487e01a5da08362c5",
+      "status": "hold",
+      "reason": "검 둘에 족하다고 한 답은 필요한 수량인지 대화를 그친 말인지 문맥 풀이가 필요하여 현재 여력의 충분함을 단순히 판정하기 어렵다.",
+      "contextNote": "제자들이 검을 보이자 예수가 답하며 뒤에서 실제 검 사용은 중단된다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H044",
+          "clue": "언제나 더 많이 갖춰야 한다는 기준을 돌아볼 여지는 있다.",
+          "friction": "두 개가 모든 일의 충분한 기준이라는 뜻도 검을 준비해 쓰라는 허가도 아니다. 족하다의 의미를 문맥 없이 일반화할 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:39",
+      "textSha256": "6ead1f0a5abb418bf66a3535e4f85128eb278a63b9d3a2f8b0ea379749fe21cc",
+      "status": "candidate",
+      "reason": "습관대로 산의 자리로 나가는 행동은 불편한 순간마다 새 일정으로 덮는 것 외에 되돌아갈 멈춤의 자리가 있음을 보여 준다.",
+      "contextNote": "예수가 감람산으로 가고 제자들이 뒤따르며 곧 기도한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H063",
+          "clue": "이유 모를 불편을 더 바쁜 일로 밀기보다 조용히 돌아볼 익숙한 시간을 둘 수 있는지 생각할 수 있다.",
+          "friction": "산에 가야 답이 오거나 어떤 장소가 불안을 치료한다는 보장은 아니다. 습관의 실제 내용은 뒤의 기도와 함께 읽힌다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:40",
+      "textSha256": "ccfadc0699e79d8e182981dee0d506ffb9b14027f1fa37eb66eede3d21070231",
+      "status": "candidate",
+      "reason": "시험에 들지 않기를 미리 기도하라는 말은 행위를 시작하기 전 마음의 경계를 돌보는 자리를 준다.",
+      "contextNote": "수난 전야에 예수가 제자들에게 기도를 권한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C014",
+          "clue": "아직 행동하지 않았으니 괜찮다고만 하기보다 연락을 시작하기 전 마음과 경계를 돌아볼 수 있다.",
+          "friction": "현재 끌리는 감정 전체를 서비스가 죄로 판결하지 않는다. 기도하면 책임 없이 어떤 연락도 해도 된다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:41",
+      "textSha256": "11442e6fb06c76eab9bba5230625abd752ca2b7b13f80b60605c8b929df29895",
+      "status": "candidate",
+      "reason": "조금 떨어져 무릎 꿇고 기도하는 구체적 멈춤은 마음을 또 다른 활동으로 덮는 것과 다른 대응을 보여 준다.",
+      "contextNote": "예수가 제자들 곁에서 따로 가 기도하기 시작한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H063",
+          "clue": "불편한 마음을 알아볼 수 있게 잠시 다른 활동과 거리를 두는 시간을 생각할 수 있다.",
+          "friction": "정확한 거리나 자세를 재현해야 답을 얻는다는 뜻은 아니며 기도의 뒤 수난을 현재 불안의 원인으로 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:42",
+      "textSha256": "830b105a4af6c024baed1c213d03bb34e0ce79334d3e5957a9afb1a37c727f55",
+      "status": "candidate",
+      "reason": "바라는 것을 숨기지 않고 말하면서도 내 뜻으로만 결과를 붙들지 않는 기도는 소원과 통제의 한계를 나누게 한다.",
+      "contextNote": "예수가 잔을 옮겨 달라 구하며 아버지 뜻을 구한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H056",
+          "clue": "좋은 결과를 원한다는 마음을 인정하면서도 온종일 결과를 바꾸려 걱정하는 일과 오늘 할 몫을 구별할 수 있다.",
+          "friction": "치료 결과가 이미 정해졌다고 서비스가 말하거나 의료 선택을 수동적으로 포기하라는 뜻은 아니다. 수난의 잔과 검사의 기다림은 구별한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:43",
+      "textSha256": "abe7b5609a252318e87510e2417b91818e88dd1036bfa3fa4d378539f54d02e2",
+      "status": "candidate",
+      "reason": "예수도 외부의 도움으로 힘을 얻는 모습은 혼자 힘만으로 감당하는 것이 유일한 충실함인지 돌아보게 한다.",
+      "contextNote": "기도 중 하늘의 사자가 나타나 힘을 돕는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "내가 약하다는 이유로 도움을 숨기기보다 힘을 보탤 지원을 구할 여지가 있는지 볼 수 있다.",
+          "friction": "천사가 곧 나타난다거나 특정 친구에게 같은 능력이 있다는 보장은 아니다. 도움받는 모습의 개인 실마리다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:44",
+      "textSha256": "559f1a265280b2550a51e3025ff3e51b302cfd30199dc8aadb779c7a575cf10e",
+      "status": "hold",
+      "reason": "피방울 같은 땀의 간절한 기도는 수난의 고통을 드러내며 일상 성실함을 위해 수면과 회복을 더 줄이라는 예가 아니다.",
+      "contextNote": "예수가 수난 직전 힘써 기도하는 강도를 묘사한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G13",
+          "clue": "힘든 마음을 기도로 가져가는 여지는 있다.",
+          "friction": "이미 잠이 부족한 학생이 밤을 더 버텨야 한다는 연결은 맞지 않는다. 피방울의 고통을 공부의 노력량으로 환산하지 않는다.",
+          "expectedEnough": "no"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:45",
+      "textSha256": "9fad54afece5a6f1297cb610115c2b1ac7752e7971733817b906dc7611230eb7",
+      "status": "hold",
+      "reason": "슬픔 때문에 잠든 몸의 반응을 알아보지만 이 절에는 잠을 쉬게 하거나 깨우는 판단이 없고 다음의 특정 기도 요청이 이어진다.",
+      "contextNote": "기도 후 예수가 돌아와 제자들의 잠과 슬픔을 본다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G13",
+          "clue": "잠드는 일이 의지 부족만이 아니라 마음의 무게와도 관계될 수 있음을 생각할 여지는 있다.",
+          "friction": "실제 진단을 내리지 않는다. 슬픔의 수난 전야와 여러 날 수면 부족은 다르며 이 절만으로 오늘의 잠 선택을 확정하기 어렵다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:46",
+      "textSha256": "7c2ac3a590ba897ab7b2c8031cb1ff7b29760455784dd7052ccd21daa7a08fa4",
+      "status": "hold",
+      "reason": "일어나 기도하라는 수난 전야의 요청을 밤에 더 공부해야 한다는 일반 규칙으로 바꿀 수 없다.",
+      "contextNote": "예수가 잠든 제자들을 깨우며 시험에 대한 기도를 거듭 권한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G13",
+          "clue": "깨어 마음을 살피는 영적 의미는 남는다.",
+          "friction": "이미 수면이 모자란 사용자가 잠을 줄이라는 지시는 아니다. 기도의 특수한 순간을 시험공부의 의무와 같게 두는 연결은 맞지 않는다.",
+          "expectedEnough": "no"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:47",
+      "textSha256": "48bc1f3a1e032afbb3893b98e75feed93d343d6cae23cbed1d84a6eec2300758",
+      "status": "exclude",
+      "reason": "유다가 무리 앞에 서서 오는 장면의 도입으로 누구와 어떻게 행동할지의 뜻은 다음 절에서 완성되며 가까운 사람 모두를 의심할 근거는 아니다.",
+      "contextNote": "기도 뒤 체포의 무리가 다가온다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:22:48",
+      "textSha256": "71553511ce63f791dc2499c976f0a8c20c44ce60e17f79b5d191db42685e228d",
+      "status": "candidate",
+      "reason": "입맞춤이라는 가까운 몸짓으로 배신하는 모순을 묻는 말은 겉으로 괜찮은 모양과 상대를 해칠 마음을 함께 보게 한다.",
+      "contextNote": "예수가 유다의 표식과 배신을 직접 드러낸다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C009",
+          "clue": "가벼운 농담이나 정당한 지적의 모양으로 예전 상처를 되갚는 마음을 숨기고 있는지 돌아볼 수 있다.",
+          "friction": "한마디 비꼼을 예수 체포의 배신과 같은 크기로 판정하지 않는다. 다른 사람의 속뜻을 아는 능력이 아니라 내 의도를 살피는 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:49",
+      "textSha256": "86e9917c1af5baa8ee84bf5d22646e98ff8279e20f3db9c4d4405545e027dd8c",
+      "status": "hold",
+      "reason": "검으로 칠지 묻는 긴박한 질문은 반응을 잠깐 멈추지만 폭력을 막는 예수의 답은 뒤에 있어 이것만으로 화난 말의 방향이 정해지지 않는다.",
+      "contextNote": "제자들이 체포 상황에 무력 대응 여부를 묻는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "즉시 반격하기 전에 지금 하려는 반응을 한 번 묻는 여지는 있다.",
+          "friction": "물리적 검 사용을 메시지에 같은 행위로 붙이지 않는다. 질문 자체가 공격의 허락처럼 읽히지 않게 뒤의 치유와 중단 문맥이 필요하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:50",
+      "textSha256": "a9ce74506e7dd5be11b0bce4f72e5bc8dc0c007579e3b4525c713402c6d75809",
+      "status": "hold",
+      "reason": "귀를 떨어뜨린 반격은 순간 반응이 만드는 실제 손상을 보여 주지만 이 절에는 그 행동을 중단하는 응답이 아직 없다.",
+      "contextNote": "체포 상황에서 제자 중 하나가 대제사장 종을 친다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "화난 순간의 행동은 되돌릴 부담을 남길 수 있는지 돌아볼 여지는 있다.",
+          "friction": "말의 상처를 실제 절단과 같은 크기로 판정하지 않는다. 다음 예수의 치유가 있어야 이 행동을 모범으로 오해하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:51",
+      "textSha256": "01a3af4390132bca8ed6a537d9f1dc0d03e5787d6b49f7fd5bf5870ffc314d72",
+      "status": "candidate",
+      "reason": "더한 반격 대신 참으라 말하고 상대의 다친 귀를 낫게 하는 모습은 상처를 늘리는 반응과 멈추는 반응을 분리한다.",
+      "contextNote": "예수가 제자의 검으로 생긴 부상을 돌보며 체포의 폭력을 더하지 않는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "지금의 분노를 상대에게 더한 상처로 옮기기 전에 멈출 여지를 생각할 수 있다.",
+          "friction": "지속적 위험을 허용하거나 보호를 구하지 말라는 뜻은 아니다. 사람의 말 상처를 기적처럼 되돌릴 수 있다고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:52",
+      "textSha256": "ff39751c5bb5ad9e6060d62bda549b62ceb5c5f5854c096dcb4b569176210984",
+      "status": "candidate",
+      "reason": "강도 잡듯 무장해 왔느냐는 물음은 상대를 어떤 사람으로 먼저 취급하고 행동하는지 돌아보게 한다.",
+      "contextNote": "예수가 체포하러 온 이들의 방식과 전제를 묻는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "확인되지 않은 소문만으로 친구를 이미 해로운 사람처럼 대하고 있는지 살펴볼 수 있다.",
+          "friction": "친구가 반드시 무죄라는 선언은 아니며 정당한 위험 대응을 금하지 않는다. 예수의 체포와 개인의 소문은 다른 사건이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:53",
+      "textSha256": "0ad7441bdb873da9f59b366c7373b31ffe0e7782743b0f1a2053efb7d48ff6ec",
+      "status": "hold",
+      "reason": "공개된 자리와 어둠의 시간을 대비하여 숨겨 행하는 목적을 비추지만 어두움의 권세를 현재 동료에게 붙일 수는 없다.",
+      "contextNote": "예수가 날마다 성전에 있던 때와 지금의 체포를 대비한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "사람들이 보지 않는 틈이라는 사실이 잘못된 일을 정당화하는지 돌아볼 여지는 있다.",
+          "friction": "팀의 사람들을 어둠의 영적 권세로 판정하지 않는다. 수난의 때라는 특별한 맥락을 일반 업무 시간으로 옮기기 어렵다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:54",
+      "textSha256": "954e5328b3f78131df45d600f98bbae680190847f158fcba2baa8e004d4aa6d6",
+      "status": "hold",
+      "reason": "멀리 따라가는 모습은 두려움 속의 거리를 보이지만 그 행동이 충실함인지 회피인지 이 절에서 아직 정하지 않는다.",
+      "contextNote": "예수가 잡혀 가고 베드로가 대제사장 집까지 멀찍이 간다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "두려운 마음 때문에 내가 원하는 자리에서 얼마나 멀어지는지 돌아볼 여지는 있다.",
+          "friction": "실제 체포의 위험과 새 역할 지원의 두려움은 다르며 따라간 결과를 성공이나 실패로 앞당기지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:55",
+      "textSha256": "0794a908d0c0f630ee1cd0f75f4eb4d39a8bc805050363115b20071b512ec2ca",
+      "status": "exclude",
+      "reason": "뜰의 불과 사람들이 앉은 자리만 설정하며 베드로의 선택 부담과 뒤의 부인은 아직 나오지 않는다.",
+      "contextNote": "첫 부인 직전 베드로가 사람들 사이에 앉는다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:22:56",
+      "textSha256": "4169544c9b9bc511181050e6570536382ae3b85b5ee9f1b26fb45bbb72ada5cf",
+      "status": "exclude",
+      "reason": "한 여종이 베드로가 함께 있던 사람임을 알아본 발언으로 현재 친구의 마음이나 사용자 소속을 판단할 자료는 주지 않는다.",
+      "contextNote": "베드로에게 예수와의 관계를 처음 지적한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:22:57",
+      "textSha256": "3ae7a63cdb61f450d84687a7d83e7600d2202be554152ecbf02d437cda2e3513",
+      "status": "candidate",
+      "reason": "이미 함께 따랐던 사람이 모른다고 부인하는 모습은 불리할까 두려워 아는 사실을 바꾸는 선택을 비춘다.",
+      "contextNote": "여종의 지적에 베드로가 첫 부인을 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "나쁜 평가를 피하는 말이 실제 내가 아는 사실을 부정하는 말로 바뀌는지 돌아볼 수 있다.",
+          "friction": "사용자의 업무 선택을 예수 부인과 같은 크기로 판결하지 않는다. 현재 불이익이 없어질 것이라는 보장도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:58",
+      "textSha256": "1c62489ac24a50420b2a2ff5d538def05d245301992979f3a91b033eda5d0ab1",
+      "status": "candidate",
+      "reason": "같은 무리라는 지적을 거듭 아니라고 하는 반응은 압박이 늘 때도 사실과 내 대답을 따로 볼 필요를 드러낸다.",
+      "contextNote": "베드로가 다른 사람에게 두 번째 부인을 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "여러 사람이 한 방향으로 말할수록 내가 실제 아는 것을 바꾸고 있는지 살펴볼 수 있다.",
+          "friction": "실제로 속하지 않은 집단을 부인하는 것까지 나쁘다는 말은 아니다. 베드로가 함께했던 사실은 앞 문맥에서 확인된다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:59",
+      "textSha256": "f1a5d0753f67b272ed27138f47f985d41626671f422b8354229b0546192c1a9c",
+      "status": "hold",
+      "reason": "갈릴리 사람이라는 근거로 함께 있었다고 장담하지만 지역 정보와 관계의 실제 증거는 같은 종류가 아니다.",
+      "contextNote": "세 번째 사람이 베드로의 예수와의 관련을 단정한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "어떤 표지 하나로 전체 관계를 확정하는 말인지 살펴볼 여지는 있다.",
+          "friction": "베드로가 실제 함께한 것은 사실이다. 이 장담을 틀린 소문으로 만들거나 사용자의 친구도 같은 근거로 판단하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:60",
+      "textSha256": "dcd537c54928f61073fbfb0118c4d2063bc5959a7e9855368628941efe83280b",
+      "status": "candidate",
+      "reason": "아는 관계를 모른다고 말하는 순간 닭이 우는 장면은 순간의 안전을 위한 말과 이미 알고 있던 진실의 충돌을 드러낸다.",
+      "contextNote": "베드로가 세 번째 부인을 마친다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "당장의 부담을 피할 말이 내가 알고 지키려던 기준과 어긋나는지 돌아볼 수 있다.",
+          "friction": "사용자의 거짓말 때 같은 징조가 온다는 예언이 아니다. 닭 울음은 베드로에게 주어진 구체 예고의 성취다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:61",
+      "textSha256": "20a59631b7d18cddcb5c4706331526d867c8cea452814230267fc4ea42c2e273",
+      "status": "candidate",
+      "reason": "돌아보는 시선과 기억난 말 앞에서 자기 행동을 다시 알아차리는 전환은 부끄러움을 피하기보다 실제 잘못을 볼 자리를 준다.",
+      "contextNote": "베드로가 예수의 예고와 자신의 부인을 기억한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G10",
+          "clue": "내가 했던 말과 지금 인정해야 할 잘못을 회피하지 않고 마주할 수 있는지 생각할 수 있다.",
+          "friction": "상대가 사용자의 마음을 모두 안다는 뜻이나 똑같은 예언을 받았다는 말은 아니다. 이미 수정한 사건을 무한히 되새기라는 답으로 쓰지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:62",
+      "textSha256": "b6fdffac9cffd744a976de951a1999757a54ebcb0f387742cca37ea59533e9c3",
+      "status": "hold",
+      "reason": "밖에서 통곡한 반응은 잘못을 알아챈 슬픔이지만 누구의 어떤 잘못인지 앞 절이 필요하고 울음이 사과의 필수 증거는 아니다.",
+      "contextNote": "베드로가 부인을 기억한 뒤 밖에 나가 운다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G10",
+          "clue": "잘못을 마주하는 아픔을 회피하지 않을 여지는 있다.",
+          "friction": "눈물의 크기로 사과의 진심을 판정하지 않는다. 상대에게 어떻게 고칠지는 이 절에 없어 선택 실마리가 슬픔에 머물 수 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:63",
+      "textSha256": "84565c0532fd6a864a21752ea02aa67b25e552ee96a65eee95d9cc934ee3b760",
+      "status": "candidate",
+      "reason": "붙잡혀 있는 사람을 지키는 이들이 조롱과 때림을 보태는 모습은 상대가 약해진 틈을 내 후련함에 쓰는지 돌아보게 한다.",
+      "contextNote": "예수를 지키는 사람들이 모욕을 시작한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C009",
+          "clue": "이미 여러 사람이 웃는 실수의 자리에 내 비꼼을 보태는 것이 필요한 지적인지 약해진 틈의 괴롭힘인지 볼 수 있다.",
+          "friction": "한마디 비꼼을 폭행과 같은 행위로 판정하지 않는다. 상대를 돕는 비판까지 모두 조롱이라고 하는 뜻도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:64",
+      "textSha256": "3bfe5136956fcbeb5c2f9739b1dea1b7f89534b319e4220a19150374c2295c55",
+      "status": "candidate",
+      "reason": "눈을 가린 뒤 누가 때렸는지 맞히라는 요구는 상대를 돕지 않는 시험과 공개 망신의 모습을 드러낸다.",
+      "contextNote": "병사들이 예수를 선지자라 조롱하며 폭행한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C009",
+          "clue": "내가 던질 말이 잘못을 고치게 하는 질문인지 웃음거리로 만들기 위한 시험인지 돌아볼 수 있다.",
+          "friction": "사용자가 실제 폭행한다는 뜻은 아니며 원문의 예수 수난과 동료의 실수는 구별한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:65",
+      "textSha256": "8659d026db1c0c5be1f282e738ddbf5b22f64e74736e5ed37457845935b9b440",
+      "status": "candidate",
+      "reason": "많은 말로 욕을 더하는 짧은 묘사는 이미 시작된 조롱에 또 보태는 말의 몫을 보게 한다.",
+      "contextNote": "예수에게 가한 언어적 모욕이 더 많았음을 기록한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C009",
+          "clue": "다른 사람들이 이미 놀린다고 내 한마디가 상처를 더하지 않는 것은 아닌지 생각할 수 있다.",
+          "friction": "필요한 사실 지적을 욕설로 규정하지 않는다. 누구를 욕하는지는 앞의 예수 수난 문맥에서 받는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:66",
+      "textSha256": "b9a398188d7e6715b1875da76b2f5c296bb67d65593e7442c03a535161cca41f",
+      "status": "exclude",
+      "reason": "날이 새고 공회로 끌려가는 장소와 인물의 전환으로 심문 내용과 대답은 아직 나오지 않는다.",
+      "contextNote": "예수의 공회 심문을 시작한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:22:67",
+      "textSha256": "0283961d960d83f1cd535ece9c397057816fbc06c25ec38aac46345a95286cb7",
+      "status": "hold",
+      "reason": "말해도 믿지 않으리라는 답은 수용할 마음이 없는 대화를 보이나 예수가 아는 특정 불신을 친구의 미래 마음으로 단정할 수 없다.",
+      "contextNote": "그리스도인지 밝히라는 공회의 요구에 예수가 응답한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H029",
+          "clue": "설명을 더하는 일과 상대의 실제 수용은 별개인지 생각할 여지는 있다.",
+          "friction": "친구는 사과의 말은 하지만 행동이 반복되는 입력이다. 앞으로 어떤 말도 안 믿는다고 마음을 예언할 수는 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:68",
+      "textSha256": "3a28bee32035497a508c31dfdf18bd714a169c05c950e10127d17a02fceb9c7d",
+      "status": "hold",
+      "reason": "물어도 답하지 않을 상대의 태도를 지적하지만 누가 무엇을 묻는지가 앞의 심문에 기대고 있어 현재 관계를 똑같이 단정하기 어렵다.",
+      "contextNote": "예수가 공회 대화의 비대칭을 드러낸다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H029",
+          "clue": "한쪽의 설명만으로 대화가 성립하는 것은 아닌지 돌아볼 여지는 있다.",
+          "friction": "상대의 반복 행동과 모든 질문에 답하지 않음은 다른 정보다. 지금 친구가 다시는 대화하지 않을 것이라는 판정으로 쓰지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:69",
+      "textSha256": "df934f6352677239d5ea922ad08b39dc830e9edbcc1fec5aee15d9da64668fe9",
+      "status": "exclude",
+      "reason": "인자가 하나님의 권능 우편에 앉는다는 고유한 정체와 높임의 선언으로 사용자의 업무 자리나 명예가 같은 수준으로 주어진다는 약속을 만들 수 없다.",
+      "contextNote": "공회 앞에서 예수가 자신의 장래 권위를 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:22:70",
+      "textSha256": "dc45f340e07a9bcc8a092681fa74fcdb823a6f285852054aac264ea0ebb19739",
+      "status": "hold",
+      "reason": "하나님의 아들이냐는 물음에 예수가 자신을 밝히지만 근거 없는 개인 주장에 같은 자기 확인을 붙일 수는 없다.",
+      "contextNote": "공회가 예수의 정체를 재차 묻고 예수가 답한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C001",
+          "clue": "진짜 위임과 자기 판단으로 붙인 권위를 나누어 볼 질문은 있다.",
+          "friction": "사용자에게 예수의 정체나 계시가 부여됐다는 뜻이 아니다. 네 말과 같이 내가 그라는 답을 개인 의견의 신적 승인으로 쓰는 연결은 맞지 않는다.",
+          "expectedEnough": "no"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:22:71",
+      "textSha256": "6e083b6a8c3ea79600634e5116197666da4db01c75a024bb203ad81c2bb2fd2d",
+      "status": "hold",
+      "reason": "직접 들었다고 증거가 충분하다는 사람들의 결론은 들은 말과 그 뜻의 판단이 언제나 같은 것은 아님을 보이지만 앞의 정체 논쟁이 필요하다.",
+      "contextNote": "공회가 예수의 답을 유죄의 근거로 삼는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "실제 들은 내용과 내가 붙인 해석을 따로 볼 여지는 있다.",
+          "friction": "직접 듣는 행위가 나쁘다는 뜻은 아니다. 본문은 예수의 신적 정체를 거부하는 재판이라 친구 소문의 확인과는 간격이 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:1",
+      "textSha256": "61755fd797e13a08da1a902b0ce6bbf959afe80279f68efd860da3e906897e32",
+      "status": "exclude",
+      "reason": "무리가 예수를 빌라도에게 데려가는 동선만 있어 고소의 근거와 판단 기준은 다음 절에 남는다.",
+      "contextNote": "공회 뒤 로마 재판으로 장면을 옮긴다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:23:2",
+      "textSha256": "20eee3294c820503f4e0ee2062b5c1adc404ee3cb45343d6c200883cf7019c91",
+      "status": "candidate",
+      "reason": "예수가 세금 납부를 금했다고 고소하는 말은 앞에서 실제 가이사의 것을 바치라고 한 답과 어긋나 내용을 유리하게 바꾸는 문제를 드러낸다.",
+      "contextNote": "지도자들이 예수의 가르침과 왕의 정체를 정치적 고소로 제시한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "실제 있던 말을 원하는 평가에 맞도록 다른 뜻으로 바꾸어 전하고 있는지 돌아볼 수 있다.",
+          "friction": "앞의 세금 답변과의 대조가 도움이 된다. 사용자의 성과 꾸밈을 사형 재판과 같은 크기로 판정하지 않으며 모든 고소를 거짓이라고 하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:3",
+      "textSha256": "c7775ab67131f4611e4c75655dfa877c801e2a25789c3ca35441249422ab9fe5",
+      "status": "exclude",
+      "reason": "유대인의 왕인지 묻고 예수가 답하는 고유 정체의 문장으로 네 말이 옳다는 말을 사용자의 개인 선택 확인으로 떼어 쓸 수 없다.",
+      "contextNote": "빌라도가 예수의 왕 됨을 심문한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:23:4",
+      "textSha256": "586b6e177ee0a94a1d081e05c53bae977e14d7613a386ba9ba054eb313d22de0",
+      "status": "candidate",
+      "reason": "고소가 쏟아져도 자신이 확인한 범죄가 없다고 말하는 판단은 다수의 주장과 실제 근거를 나누어 보게 한다.",
+      "contextNote": "빌라도가 예수에게 죄를 찾지 못했다고 지도자들과 무리에게 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "주변에서 나쁘다고 해도 실제 확인한 잘못이 무엇인지 따로 들어 볼 수 있다.",
+          "friction": "현재 친구가 무죄라는 선언은 아니다. 빌라도의 뒤 잘못된 처리를 모두 모범으로 삼지 않고 이 판단의 근거 구분을 개인적으로 연결한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:5",
+      "textSha256": "f17fd43e976bbc043de8284fbd46f87ebd354bf1d1ee1b9d5d5bdbd5426628d3",
+      "status": "candidate",
+      "reason": "더 강하게 같은 혐의를 말하는 모습은 표현의 세기와 실제 입증이 같은 것인지 돌아보게 한다.",
+      "contextNote": "죄를 찾지 못했다는 말에 무리가 소동 혐의를 더 세게 주장한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "더 설득력 있어 보일 강한 표현을 보태는 일과 실제 사실을 더 정확히 말하는 일을 구별할 수 있다.",
+          "friction": "실제 사건의 모든 영향이 없었다고 지어내지 않는다. 고소자들의 표현을 사용자에게 같은 악의로 붙이지 않고 말의 강도와 근거를 나눈다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:6",
+      "textSha256": "c7f8f47a733649025a40fe80d890a5642acaafe334446ab8e56d5d4d2408b5fc",
+      "status": "candidate",
+      "reason": "들은 지역 정보를 다시 묻는 구체 확인은 막연한 전언을 바로 조치로 만들기 전에 사실의 범위를 확인하는 모습을 준다.",
+      "contextNote": "빌라도가 갈릴리라는 말을 듣고 예수의 출신을 묻는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "내가 들은 정보 중 실제로 확인되지 않은 부분을 하나씩 나누어 볼 수 있다.",
+          "friction": "출신 지역이 사람의 선악을 정하는 것은 아니다. 빌라도의 이후 책임 전가까지 옳다고 승인하는 연결도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:7",
+      "textSha256": "a6e779028f5de53426a03894605c2ac39fe6ed53c3f911b009a4d6dad9b09d81",
+      "status": "hold",
+      "reason": "관할을 알고 다른 책임자에게 보내는 행동은 담당 범위를 보이나 현재 새 부탁의 여력을 줄이는 선택과 같은 이유는 아니다.",
+      "contextNote": "빌라도가 예수를 헤롯에게 보낸다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H044",
+          "clue": "무엇이 내 몫이고 어떤 지원이나 다른 담당이 필요한지 생각할 여지는 있다.",
+          "friction": "내 정당한 약속을 다른 사람에게 떠넘겨도 된다는 뜻은 아니다. 당시의 관할과 현재 여력은 다르다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:8",
+      "textSha256": "6e32524c9b784e9016f02ed677cb0c1af8abb088453fc17ccbb06fd543df2f4e",
+      "status": "hold",
+      "reason": "들은 소문 때문에 이적을 기대하며 기뻐한 모습은 기대의 출처를 보게 하지만 눈으로 확인하려는 모든 바람이 나쁘다는 말은 아니다.",
+      "contextNote": "헤롯이 예수를 오래 보고 싶어 한 이유를 밝힌다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H003",
+          "clue": "실제 필요보다 남들이 좋다고 한 특별한 장면을 기대하고 있는지 생각할 여지는 있다.",
+          "friction": "예수를 구경하려는 마음과 기기 필요 검토는 다르며 이 절만으로 직접 확인하려는 행동을 잘못이라고 할 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:9",
+      "textSha256": "773b474e4c305b1bc661a419f08bd8b582c30bfe0b839a49f1ea5aba1a14177c",
+      "status": "candidate",
+      "reason": "여러 질문에도 답하지 않는 침묵은 묻는다는 이유만으로 모든 말을 내놓아야 하는지 돌아보게 한다.",
+      "contextNote": "구경과 이적을 바라는 헤롯의 심문에 예수가 대답하지 않는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H039",
+          "clue": "친구가 궁금해 해도 이미 비밀로 맡겨진 이야기를 반드시 설명해야 하는지 생각할 수 있다.",
+          "friction": "정당한 사실 확인이나 내 잘못의 설명 책임을 모두 거절하라는 뜻은 아니다. 헤롯의 심문과 친구의 질문은 다른 상황이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:10",
+      "textSha256": "9efb75bc85addfdac0324e63c5a2a512b11fdfa5211c6c0c2c8ee16429417620",
+      "status": "hold",
+      "reason": "힘써 고소하는 무리는 약해진 사람에게 말을 보태는 장면을 보이나 고소의 근거가 이 한 절에 없어 정당한 지적과 구별하기 어렵다.",
+      "contextNote": "헤롯 앞에서도 지도자들의 고소가 이어진다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C009",
+          "clue": "이미 여러 사람이 몰아가는 자리에 내 말까지 보태는 목적을 돌아볼 여지는 있다.",
+          "friction": "고소와 비판을 모두 조롱이라고 할 수 없다. 예수에 대한 앞의 무죄 판단과 모욕 문맥을 알아야 이 장면이 선명하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:11",
+      "textSha256": "fc73a1e6918945308a12ecc8776c54422fddcbdff945530b736011626048e465",
+      "status": "candidate",
+      "reason": "무력한 사람을 업신여기며 옷까지 조롱의 수단으로 쓰는 모습은 겉의 재미와 당하는 사람의 존엄을 나누어 보게 한다.",
+      "contextNote": "헤롯과 병사들이 예수를 희롱한 뒤 빌라도에게 돌려보낸다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C009",
+          "clue": "옛 상처를 갚으려 동료의 실수를 웃음거리로 꾸미는 일이 실제 그 사람을 더 낮추는지 돌아볼 수 있다.",
+          "friction": "한마디 비꼼을 수난의 폭력과 같은 크기로 정하지 않는다. 밝은 옷을 입는 행동 자체가 악하다는 뜻도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:12",
+      "textSha256": "fb71ed82c44a7eb5f9891ae42b090499f4f1d62ac888854dcd8571fcee2c1ddb",
+      "status": "hold",
+      "reason": "원수였던 두 권력자의 친교는 함께한다는 사실의 동기를 돌아보게 하나 이 절만 보면 화해의 긍정적 결과로 읽힐 수 있다.",
+      "contextNote": "예수를 돌려보낸 일을 계기로 헤롯과 빌라도가 가까워진다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C010",
+          "clue": "친해져 같이 한다는 것과 어떤 목적에 함께 서는지는 따로 살펴볼 여지가 있다.",
+          "friction": "이 프로젝트의 수익과 재미 차이가 남을 해치는 동맹이라는 정보는 없다. 우정 자체를 나쁘다고 하는 장면도 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:13",
+      "textSha256": "23d8dc0a3f7a17a44b64735472117e11ed905b2bd890ae5002d3cd1fbc18e9fa",
+      "status": "exclude",
+      "reason": "빌라도가 지도자와 백성을 모았다는 절차의 안내로 무엇을 확인하고 어떤 결정을 내릴지는 다음 절에 남는다.",
+      "contextNote": "빌라도가 공개 판단을 다시 말하기 위해 사람들을 부른다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:23:14",
+      "textSha256": "d151d808eb63b5f98a924dda281690491aa47b95e34ccc036293a66be8421c72",
+      "status": "candidate",
+      "reason": "고소를 받고 사람들 앞에서 살펴보았으나 죄를 찾지 못했다는 말은 주장과 조사한 사실을 분리하는 기준을 준다.",
+      "contextNote": "빌라도가 예수에게서 고소 내용의 죄를 찾지 못했다고 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "나쁜 소문이 있다는 것과 실제 확인된 행동이 있다는 것을 나누어 들어 볼 수 있다.",
+          "friction": "사용자의 친구가 무죄라는 판정이 아니다. 빌라도의 뒤 타협을 옳다고 하는 것이 아니라 근거를 구분하는 부분을 연결한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:15",
+      "textSha256": "3911b6089a192bff39410fca05842e7fd0d8ce7b8bce283eaa27a2f9019ccc48",
+      "status": "candidate",
+      "reason": "다른 판단을 거쳐도 죽일 행동이 없다고 확인하는 말은 군중의 요구가 실제 책임의 크기를 자동으로 정하지 않게 한다.",
+      "contextNote": "빌라도가 헤롯의 반환과 사형 근거 부재를 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "주변의 강한 반응과 별개로 어떤 행동이 실제 있었는지 볼 수 있다.",
+          "friction": "현재 친구에게 두 명의 판단자가 이미 있다는 정보를 지어내지 않는다. 죽일 죄의 부재와 잘못 전부의 부재도 같은 범위는 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:16",
+      "textSha256": "5bb28abbabc9b81f2f13c37ca9bead169780d85cc3ec3ec34a1e40ae6542e27b",
+      "status": "hold",
+      "reason": "때려서 풀겠다는 타협은 앞에서 죄를 찾지 못했다는 맥락과 만나야 부당함이 드러나며 단독으로는 처벌 이유가 비어 있다.",
+      "contextNote": "빌라도가 무죄 판단 뒤에도 매질로 군중을 달래려 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "문제가 없다고 알면서도 분위기를 맞추려고 작은 잘못을 더하는지 돌아볼 여지는 있다.",
+          "friction": "이 절에는 무죄라는 전제가 없다. 모든 절충이 잘못이라는 뜻이나 부당한 매질을 용인하는 답으로 쓰지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:17",
+      "textSha256": "2c5539adbf825ee1c84f495c41d2e3ab18f6627a722578a5aea4ff650909eec7",
+      "status": "exclude",
+      "reason": "본문이 없음으로 표시된 빈 절 번호여서 연결할 독립 문장이 없다.",
+      "contextNote": "개역한글의 23:17 없음 슬롯과 원문 해시를 보존한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:23:18",
+      "textSha256": "a942d7b5fa634836c558042a10e9828db73ab49889d74c7b733f8dfac24b3ca3",
+      "status": "hold",
+      "reason": "모두 한목소리로 교환을 요구하는 장면은 다수와 옳음의 차이를 보이나 두 사람의 행적은 앞뒤에서 받아야 한다.",
+      "contextNote": "무리가 예수 대신 바라바의 석방을 요구한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "여러 사람이 같은 말을 원한다는 사실이 그 내용의 옳음을 결정하는지 볼 여지는 있다.",
+          "friction": "이 사람과 바라바의 구체 사정이 절 안에 없어 압박의 부당함은 문맥이 더 필요하다. 모든 집단 의견을 나쁘다고 하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:19",
+      "textSha256": "6f48f2304be5d71a9af89f225e44e8bfc8587dc5c64ce2de1e0ce77ff4f58e34",
+      "status": "exclude",
+      "reason": "바라바의 민란과 살인과 투옥을 소개하는 배경으로 과거 잘못을 가진 사람이 실제 달라졌는지의 정보는 없다.",
+      "contextNote": "무리가 풀어 달라고 한 인물의 죄목을 설명한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:23:20",
+      "textSha256": "bac49dc33216ee6a737b15a13b33d212e8779cecbb82b2b95ac4de970be82734",
+      "status": "hold",
+      "reason": "놓아주고 싶어 다시 말하는 의지는 있지만 어떤 말을 했고 실제 어떻게 했는지는 다음에 남아 뜻과 행동의 차이를 구별해야 한다.",
+      "contextNote": "빌라도가 석방 의사를 갖고 무리에게 재차 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H026",
+          "clue": "한 번 반응이 어렵더라도 필요한 말을 시도할 여지는 생각할 수 있다.",
+          "friction": "친구에게 첫 서운함을 말하는 상황과 공개 사형 요구는 다르며 이 절만으로 대화가 충분히 이뤄졌다고 볼 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:21",
+      "textSha256": "271790f1878b684dba12f10f00e8690511ccabae1a944cfbf391a444e4c8596b",
+      "status": "candidate",
+      "reason": "반복해 십자가형을 외치는 무리의 모습은 이미 몰린 사람에게 집단의 말이 어떤 손상을 보태는지 드러낸다.",
+      "contextNote": "빌라도의 석방 시도에 무리가 같은 처형 요구를 거듭한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C009",
+          "clue": "여러 사람이 동료를 놀리는 자리에 나도 보태는 말이 필요한 지적보다 몰아붙임인지 볼 수 있다.",
+          "friction": "작은 비꼼을 실제 사형 요구와 같은 행위로 판정하지 않는다. 집단의 반복과 개인이 보태는 말의 무게를 보는 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:22",
+      "textSha256": "a5eb37f98e405055e975ea68d745ad1541eb65ecb252a2a7c3686e82073a47c1",
+      "status": "candidate",
+      "reason": "죽일 죄를 못 찾았다고 하면서도 때리겠다는 한 문장의 모순은 사실의 판단과 압박을 달래는 행동을 구별하게 한다.",
+      "contextNote": "빌라도가 세 번째 무죄를 말하면서 매질의 타협을 제시한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "사실과 다르다고 알면서 모두를 만족시키려 일부만 바꾸는 일이 정말 정직을 지키는 타협인지 돌아볼 수 있다.",
+          "friction": "수치 조작이 물리적 매질과 같은 죄의 크기라는 뜻은 아니다. 합법적이고 정직한 조정까지 모두 금하는 규칙도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:23",
+      "textSha256": "4a00bb687ba7ab270acf68b8aef0e0659efdb99bbe493a126f00daacb2dc1586",
+      "status": "candidate",
+      "reason": "큰 소리가 이겼다는 결과는 실제 옳음과 집단의 압력에서 이긴 결론이 같은 것은 아님을 드러낸다.",
+      "contextNote": "군중의 끈질긴 사형 요구가 빌라도의 판단을 누른다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "팀이 모두 원하는 수치가 내 사실 판단을 대신 정하고 있는지 볼 수 있다.",
+          "friction": "정직하게 말하면 반드시 이긴다는 보장은 오히려 없다. 현재 팀을 처형 군중과 같은 인물로 판정하지 않고 압력의 작용을 개인적으로 읽는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:24",
+      "textSha256": "f3b74c14e3e14007dd1cb7f97e663f10e5471c199b5553f55bb70b1952775ab9",
+      "status": "hold",
+      "reason": "그들이 구하는 대로 언도한 기록은 압박에 따른 결정을 보이지만 요청의 내용과 부당함은 앞 장면이 있어야 드러난다.",
+      "contextNote": "빌라도가 무리의 요구를 최종 판결로 받아들인다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "내가 정할 때 실제 사실보다 남이 원하는 결론을 그대로 따르는지 돌아볼 여지는 있다.",
+          "friction": "다른 사람의 요구를 수용하는 행위 자체를 잘못이라 할 수 없다. 앞의 무죄와 사형 요구를 가져와야 이 선택의 문제가 이해된다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:25",
+      "textSha256": "9c3e5b0f92e076e20954f4b55b8f5d07888d5a7d4e8d3181a7ce836c8ee1dd04",
+      "status": "candidate",
+      "reason": "민란과 살인의 수감자를 풀고 예수를 사람들의 뜻에 넘기는 대비는 군중의 원하는 결과가 책임의 사실과 어긋날 수 있음을 드러낸다.",
+      "contextNote": "빌라도의 타협이 실제 석방과 처형의 교환으로 실행된다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "다 같이 원한 결과를 만드는 데만 맞추면 사실과 책임이 뒤집히는 부분이 있는지 돌아볼 수 있다.",
+          "friction": "업무의 숫자를 사형 교환과 같은 크기로 판정하지 않는다. 정직한 선택의 실제 불이익이 사라진다는 보장도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:26",
+      "textSha256": "2d13598e17e711f5d426e47b13569c3d50dbe382ff9136593663562f7b0983e8",
+      "status": "hold",
+      "reason": "다른 사람이 십자가의 무게를 드는 모습은 나눔을 보이나 잡아 강제로 지웠다는 조건을 지우면 도움의 모범을 꾸미게 된다.",
+      "contextNote": "병사들이 지나가던 구레네 시몬에게 예수의 십자가를 지운다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "무거운 짐을 한 사람만 들지 않는 모습의 연결은 있다.",
+          "friction": "자발적인 도움 요청과 강제 징발은 다르다. 다른 사람의 시간과 힘을 동의 없이 써도 된다는 충분한 답이 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:27",
+      "textSha256": "a512a4f18b429152323795d199d592718c5361cade84458cf8a1d7b4aff7069d",
+      "status": "candidate",
+      "reason": "슬퍼하며 길을 함께 가는 사람들의 모습은 사정을 바꾸는 큰 말 외에도 곁을 지키는 몫을 보여 준다.",
+      "contextNote": "십자가 길에 백성과 우는 여자들이 뒤따른다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C016",
+          "clue": "완벽한 위로의 말이 없다고 거리를 두기보다 슬픔을 알아주며 필요한 곁의 일을 할 수 있는지 생각할 수 있다.",
+          "friction": "가슴 치는 공개 애도가 필수라는 뜻은 아니며 친구가 원하는 가까움과 도움의 범위를 존중한다. 예수의 수난과 사별은 다른 상황이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:28",
+      "textSha256": "f0c6a83e83d072b36a8467a1a5e15cbd0b5be87c55972fd0c084d807f22f4934",
+      "status": "hold",
+      "reason": "자신보다 예루살렘과 자녀를 위해 울라는 말은 뒤의 재난을 가리켜 현재 사별한 친구의 슬픔을 멈추고 내 일만 보라는 뜻이 아니다.",
+      "contextNote": "예수가 애도하는 이들에게 도시의 환난을 경고한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C016",
+          "clue": "눈앞의 슬픔 외에도 실제 돌볼 이들을 돌아볼 질문은 있다.",
+          "friction": "친구에게 울지 말라거나 타인을 위한 애도를 잘못이라 하는 연결은 맞지 않는다. 도시의 미래와 현재 사별을 섞지 않는다.",
+          "expectedEnough": "no"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:29",
+      "textSha256": "55a76e9a9fd89779b2f1bee19f18244429a4968ca7a3d0193244dbb3f7f55cd6",
+      "status": "exclude",
+      "reason": "다가올 환난에서 출산하지 않은 이가 복되다 불릴 역전을 예고하며 현재 임신과 불임이나 자녀 선택을 선악의 기준으로 삼을 수 없다.",
+      "contextNote": "예루살렘 환난의 가혹함을 출산과 양육의 고통으로 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:23:30",
+      "textSha256": "d2d8625662c50d4a557b38537482a3beeb1ae3c3328ad6344b90b65bba833f0f",
+      "status": "exclude",
+      "reason": "산이 자신을 덮기를 바랄 만큼의 환난을 묘사하는 말로 현재 어려움에서 스스로 해치거나 재난을 부르라는 행동 지침은 아니다.",
+      "contextNote": "다가올 극심한 고통을 예언적 이미지로 표현한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:23:31",
+      "textSha256": "fc0f8442be45ac7c68054c21ed6e5695d2a8f16eef6ccde2b746bdac2284706f",
+      "status": "hold",
+      "reason": "푸른 나무와 마른 나무의 대비는 무죄한 이와 심판의 심각함을 생각하게 하나 그 대상을 알아야 하고 새 어려움을 내 악함의 증거로 만들 수 없다.",
+      "contextNote": "예수의 수난에서 예루살렘의 장래를 비유로 경고한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "C017",
+          "clue": "당하는 일의 크기와 그 사람의 잘못을 단순히 같게 볼 수 있는지 질문은 생긴다.",
+          "friction": "사용자를 마른 나무라 판정하거나 앞으로 더 벌받는다고 예측하지 않는다. 나무의 대상 풀이가 필요해 단독 충분함은 낮다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:32",
+      "textSha256": "f27d0aa2fb3be24cd0e9661ef82b1db7c573e793331cf744719776cd0d528daa",
+      "status": "exclude",
+      "reason": "두 행악자도 사형장으로 끌려간다는 인물 배치만으로 가까이 있는 사람의 죄나 사용자의 실제 책임을 같은 것으로 판단할 수 없다.",
+      "contextNote": "십자가에 함께 달릴 두 사람을 소개한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:23:33",
+      "textSha256": "b375fa3af75592f104510cfe6a2071dd39586079e332c34bf18a89aac0570ac5",
+      "status": "exclude",
+      "reason": "세 십자가의 장소와 좌우 위치를 기록하는 장면으로 현재 고통이 누구의 잘못인지 또는 어떤 행동을 택할지의 독립 기준은 제시하지 않는다.",
+      "contextNote": "해골이라는 곳에서 예수와 두 행악자가 처형된다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:23:34",
+      "textSha256": "10f31786d4b24e9bf8c7e67080aec4d72f0614e8b0be730eb93fe17e764ad417",
+      "status": "candidate",
+      "reason": "해치는 사람의 사함을 구하는 기도와 계속되는 옷의 제비뽑기를 함께 두어 상대의 반응을 통제하기보다 내 보복을 놓는 여지를 준다.",
+      "contextNote": "예수가 십자가에서 가해자들을 위해 기도하고 사람들이 옷을 나눈다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H028",
+          "clue": "친구의 작은 실수를 머릿속에서 계속 벌하는 일에서 내 마음을 놓을 수 있는지 생각할 수 있다.",
+          "friction": "친구가 몰랐다고 입력 없이 확정하지 않는다. 옷을 나누는 가해가 계속되는 뒷말까지 남기며 용서가 더한 침해의 허용이나 보호 포기는 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:35",
+      "textSha256": "3f5e17fc5c7ab5d317bd4b9a488081f195648725b9c3e50bfc26c4d87171ff17",
+      "status": "candidate",
+      "reason": "자기를 구원해 보라고 고통받는 이를 비웃는 모습은 약해진 상대를 시험하고 조롱하는 말의 목적을 돌아보게 한다.",
+      "contextNote": "구경하는 백성과 조롱하는 관원들의 반응이다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C009",
+          "clue": "동료의 실수 뒤 잘난 척하더니 이제 해 보라는 말을 보태는 것이 개선보다 낮추기 위한 말인지 볼 수 있다.",
+          "friction": "사용자의 동료를 예수와 같은 무죄와 권위로 만들지 않는다. 실제 필요한 지적까지 조롱이라고 없애지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:36",
+      "textSha256": "b14b5a3bb7acad4b08cd0237abd4b3af36441ece632b7090fab372bca804f1a1",
+      "status": "candidate",
+      "reason": "무언가를 주면서도 희롱하는 모습은 도움처럼 보이는 동작이 상대의 존엄을 돌보는 것과 다른 목적일 수 있음을 드러낸다.",
+      "contextNote": "병사들이 조롱하며 신 포도주를 가져온다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C009",
+          "clue": "걱정해 주는 척하는 농담이나 작은 말이 실제로는 지난 상처를 갚으려는 조롱인지 돌아볼 수 있다.",
+          "friction": "음료를 주는 모든 행동을 악하다고 하지 않는다. 희롱한다는 본문의 명시를 근거로 내 의도를 살피며 남의 숨은 마음을 추정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:37",
+      "textSha256": "5a5fb2ce4d481db887a75bbbde53ee201176ae8f464e2a2bdb2c5f4b9e8db214",
+      "status": "candidate",
+      "reason": "왕이라면 자신을 구해 보라는 조롱은 이미 곤란한 사람에게 능력을 증명하라고 몰아붙이는 말의 해를 보게 한다.",
+      "contextNote": "병사들이 예수의 왕 됨을 고통의 자리에서 조롱한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C009",
+          "clue": "실수한 동료에게 예전 태도와 자존심을 들춰 더 증명해 보라고 몰아세우는 것이 필요한 말인지 볼 수 있다.",
+          "friction": "진짜 능력 확인이나 개선을 위한 질문을 모두 금하지 않는다. 동료의 실수와 예수의 수난은 다른 사건이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:38",
+      "textSha256": "de94c7a3d276cfadc5bd54c0f7a635c1fc60e33766585af78f2e57e466cd891c",
+      "status": "exclude",
+      "reason": "유대인의 왕이라는 죄패가 놓인 사실은 예수의 정체와 재판의 역설을 기록하며 사용자의 지위나 현재 판단을 같은 신적 승인으로 만들 수 없다.",
+      "contextNote": "십자가 위 명패를 소개한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:23:39",
+      "textSha256": "24d44edec64f8472fd6f775b578fa6506c20b0311630a4d865b871eda6636f03",
+      "status": "hold",
+      "reason": "자기도 구원하라는 요청은 필요를 말하지만 비방과 예수를 시험하는 말이라 정당한 도움 요청과 그대로 같게 둘 수 없다.",
+      "contextNote": "십자가의 한 행악자가 예수에게 즉각적 탈출을 요구한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "고통 중 필요한 도움을 바라는 말과 그 말의 태도를 나누어 볼 여지는 있다.",
+          "friction": "보통의 도움 요청을 비방이라 판정하지 않는다. 예수의 그리스도 됨을 조건으로 내건 요구가 현재 부탁의 자격 판단이 되는 것은 맞지 않는다.",
+          "expectedEnough": "no"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:40",
+      "textSha256": "1d448291915d624027b34b15578cca4874d41ae04373c9b64ddffc7597b4b5a0",
+      "status": "candidate",
+      "reason": "같이 어려운 자리에서 또 다른 이를 비방하는 사람을 말리는 반응은 내 고통이 남을 더 낮출 권한인지 돌아보게 한다.",
+      "contextNote": "다른 행악자가 조롱하는 동료를 꾸짖는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C009",
+          "clue": "나도 상처받았다는 이유가 지금 곤란한 동료를 조롱할 이유까지 되는지 볼 수 있다.",
+          "friction": "사용자가 같은 범죄의 정죄를 받는다는 뜻은 아니다. 하나님 두려움과 같은 형벌의 맥락을 단순한 경쟁 우위로 바꾸지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:41",
+      "textSha256": "6d2a4d70abe0f81245106b116dfccd41f1c56c6fd3888195dfca015fd401c9a6",
+      "status": "candidate",
+      "reason": "자기 행위의 책임을 인정하면서 다른 이의 무죄를 구별하는 말은 함께 엮여도 내 잘못을 남에게 돌릴 수 없음을 보여 준다.",
+      "contextNote": "한 행악자가 자기 죄와 예수의 무죄를 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G10",
+          "clue": "상대나 상황의 탓으로 흐리기보다 내가 한 잘못은 내 몫으로 인정할 수 있다.",
+          "friction": "말실수에 사형과 같은 벌이 당연하다는 뜻은 아니다. 원문의 형벌과 현재 사과의 책임을 구별한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:42",
+      "textSha256": "20afc8ddfcb672caade32dcd58e453762046c77e24aa95202df2fa02f5a5627f",
+      "status": "candidate",
+      "reason": "자기 잘못을 인정한 사람도 기억해 달라고 간구하는 모습은 과거의 죄가 도움의 말까지 닫아야 할 이유인지 묻게 한다.",
+      "contextNote": "회개한 행악자가 예수에게 자기 기억을 청한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "부족하고 부끄럽다고 느끼는 채로도 도움을 바라는 마음을 말할 수 있다.",
+          "friction": "현재 사용자를 범죄자로 판정하거나 모든 부탁 상대가 같은 구원의 권능을 갖는다고 하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:43",
+      "textSha256": "79604276c712b616f5e8f8369959456c810cac2098082acb84dc10951d733b52",
+      "status": "candidate",
+      "reason": "잘못을 인정한 사람에게 함께할 낙원을 말하는 응답은 회복 뒤에도 계속 자기 벌만이 남는다는 생각을 흔든다.",
+      "contextNote": "예수가 회개한 행악자에게 은혜와 함께함을 약속한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "이미 잘못을 인정하고 바로잡은 뒤에도 나를 끝없이 벌해야만 관계에 머물 수 있는지 돌아볼 수 있다.",
+          "friction": "사용자의 죽음의 때나 사후 상태를 판정하지 않는다. 책임의 회복이 불필요하다는 뜻이 아니라 이미 수습한 입력에 은혜의 개인 실마리를 둔다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:44",
+      "textSha256": "f970d27ac5e88fb2776f92678dbfaf552f3d45903f43f644dd6227219a531685",
+      "status": "exclude",
+      "reason": "세 시간가량의 온 땅 어둠은 예수 죽음의 사건적 표지로 개인의 답답함도 같은 시간 뒤 끝난다는 예측으로 쓰기 어렵다.",
+      "contextNote": "십자가 위 죽음에 앞선 어둠의 때를 기록한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:23:45",
+      "textSha256": "b70b4fb818457e5000f1f0cb65f9bd948f75d2efd75408888cde9d6a3aea9ab0",
+      "status": "hold",
+      "reason": "휘장의 찢어짐은 접근의 회복이라는 신앙적 뜻이 있지만 성소의 경계를 모르면 물건이 찢어졌다는 사실만 남는다.",
+      "contextNote": "예수의 죽음 때 성소 휘장의 변화를 기록한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "잘못 뒤에도 관계의 문이 영원히 닫힌 것은 아니라는 연결은 가능하다.",
+          "friction": "휘장의 기능과 찢어짐의 뜻을 별도 설명해야 하므로 원문 한 절만으로 끝없는 자책과 바로 연결될지는 불확실하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:46",
+      "textSha256": "77cd6b031101f5d0b1479ff70d590bbc2927b69f2a5a104db789a010c23f3c90",
+      "status": "hold",
+      "reason": "영혼을 맡기는 신뢰는 분명하나 말씀 후 실제 운명했다는 끝까지 있어 결과를 기다리는 현재의 일상에 그대로 옮기기 어렵다.",
+      "contextNote": "예수가 아버지께 자신을 부탁하고 죽는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H056",
+          "clue": "내가 통제할 수 없는 몫을 신뢰와 나눠 볼 여지는 있다.",
+          "friction": "죽음의 결말을 지운 채 마음 놓으라는 짧은 말로 만들지 않는다. 검사 결과가 죽음이거나 현재 치료를 포기하라는 신호로 읽지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:47",
+      "textSha256": "c86f9fa57223f57f2bea717756f10384b08964c517c33ef77bceee75cd92c473",
+      "status": "candidate",
+      "reason": "고통과 죽음의 사건을 보면서도 의로운 사람이라고 인정하는 반응은 당한 불행이 곧 더 큰 죄의 증거인지 되묻게 한다.",
+      "contextNote": "백부장이 예수의 죽음을 보고 하나님께 영광을 돌리며 의로움을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C017",
+          "clue": "어려운 일이 생겼다는 사실로 이미 정리한 잘못의 벌이나 내 악함을 자동 증명하고 있는지 돌아볼 수 있다.",
+          "friction": "사용자가 예수처럼 모든 일에 무죄라는 보장은 아니다. 어려움과 도덕적 판정을 구별하며 각각의 실제 책임은 남는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:48",
+      "textSha256": "5c0f366b7908e12595584703cc572f394fd7901a8de57617c7819e5ad7f0d344",
+      "status": "hold",
+      "reason": "구경하던 사람들이 가슴을 치며 돌아가는 전환은 관찰의 가벼움과 뒤의 마음을 비추지만 모두가 앞서 해를 가했다고는 적혀 있지 않다.",
+      "contextNote": "십자가 사건을 본 군중의 슬픔과 귀환을 기록한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C009",
+          "clue": "남의 곤란을 재미로 구경하다 내 말이 남길 무게를 뒤늦게 보는지 돌아볼 여지는 있다.",
+          "friction": "가슴 치는 행동을 전원의 죄 자백으로 확정하지 않는다. 현재의 한마디 선택과는 중간 풀이가 필요하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:49",
+      "textSha256": "1e31f1b61b0cd899f3d4ce4ae027f48709df744f8cd0c73d8e80018dda8fe45c",
+      "status": "hold",
+      "reason": "멀리라도 자리를 지킨 지인과 여자들은 동행을 보이나 멀리 서서 보는 사실만으로 사별한 친구의 실용적 필요를 어떻게 도울지 정하기 어렵다.",
+      "contextNote": "예수를 알던 이들이 죽음의 현장을 지켜본다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C016",
+          "clue": "큰 상황을 바꾸지 못해도 완전히 떠나지 않는 곁의 의미는 읽힌다.",
+          "friction": "멀리 지켜보는 것만이 필요한 도움이라고 정하지 않는다. 식사나 정리의 선택으로 이어지는 직접 행동은 이 절에 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:50",
+      "textSha256": "26933b9c000373c9d26e3844d45dac1caf3946a7d07ef60c94de346ba3ef4144",
+      "status": "hold",
+      "reason": "공회 안에도 선하고 의로운 사람이 있다는 소개는 집단과 개인의 양심을 나누나 실제 반대한 행동은 다음 절에 있다.",
+      "contextNote": "장례를 돌볼 요셉의 지위와 성품을 소개한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "같은 팀에 속했다고 모든 결정을 함께 따라야 하는지 생각할 여지는 있다.",
+          "friction": "선한 사람이라는 평가만 있고 무엇을 택했는지 아직 없어 현재 부정 지시에 대한 충분한 실마리는 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:51",
+      "textSha256": "8e2857cb875ee33232b3c778e02a4992fff703b15648f5cad2f0ee5cd7945833",
+      "status": "candidate",
+      "reason": "소속된 공회의 결의와 행사에 동의하지 않은 사람이 따로 있었다는 설명은 집단 안에 있으면서도 동조하지 않는 선택을 보여 준다.",
+      "contextNote": "요셉의 출신과 나라를 기다리는 믿음, 공회 결정에 불참한 태도를 부연한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "팀의 일원으로 남는 것과 사실을 바꾸자는 결정에 찬성하는 것은 같은 의무인지 돌아볼 수 있다.",
+          "friction": "가타라는 옛 표현은 낯설 수 있으나 결의와 행사에 가타 하지 않았다는 부정의 문맥이다. 반대하면 안전하거나 불이익 없다는 보장은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:52",
+      "textSha256": "f7f489fc1428f77145babf692ebdb65f2d68e177b943891ea54c390a4c9559fb",
+      "status": "candidate",
+      "reason": "빌라도에게 가서 시신을 요청하는 구체 행동은 어려운 상대 앞에서도 돌봄에 필요한 한 가지를 청할 수 있음을 보여 준다.",
+      "contextNote": "요셉이 예수 장례를 위해 필요한 허락을 구한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "내가 모든 것을 해결할 수 없어도 지금 필요한 도움이나 허락을 구체적으로 말할 수 있다.",
+          "friction": "어떤 부탁이든 반드시 허락받는다는 보장이 아니다. 시신의 인도와 현재의 도움 요청은 다른 상황이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:53",
+      "textSha256": "3c6028cfdb5f33b19f4872da7252c53009ed8d759c2de3f964490f13e4dfa703",
+      "status": "candidate",
+      "reason": "내리고 싸고 무덤에 모시는 세심한 행동은 삶의 큰 결과를 되돌리지 못해도 남은 실제 돌봄이 있음을 보여 준다.",
+      "contextNote": "요셉이 예수의 장례를 직접 챙긴다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C016",
+          "clue": "친구의 사별을 바꿔 줄 말이 없어도 정리와 준비처럼 지금 할 수 있는 일을 도울 수 있는지 생각할 수 있다.",
+          "friction": "친구 부모의 장례를 임의로 맡으라는 지시가 아니다. 상대가 원하는 도움과 허락을 존중하며 예수의 뒤 부활을 개인의 결과로 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:54",
+      "textSha256": "4d3f154fda71c83699c478a9d29d30c91d459fd04836d35bf52f7ac04410e48c",
+      "status": "exclude",
+      "reason": "예비일과 가까운 안식일의 시간 안내만으로 지금 일을 멈출지 더 마칠지의 행동과 범위를 독립적으로 정할 수 없다.",
+      "contextNote": "장례 준비와 안식일의 쉼 사이 시점을 알린다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:23:55",
+      "textSha256": "1f638e79017a2b76d94403f6c0c6f71491e8b2ba8a53703a37907521273593eb",
+      "status": "hold",
+      "reason": "무덤과 시신을 둔 방식을 실제로 보는 행동은 정보의 확인을 보여 주지만 현재 소문을 듣는 관계의 판단과는 목적이 다르다.",
+      "contextNote": "여자들이 뒤의 돌봄을 준비하려 장례 현장을 본다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "전해 들은 인상과 직접 확인한 구체 사실을 구분할 여지는 있다.",
+          "friction": "이 관찰은 장례 준비를 위한 것이지 타인의 잘못을 판정한 장면은 아니다. 보고라는 연결도 다음 준비로 이어진다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:23:56",
+      "textSha256": "996f8baabe378a630beb66b91dd6519f5a513517d3f43cda6a1c291ac54efa2a",
+      "status": "candidate",
+      "reason": "향품을 준비한 뒤 안식일에는 쉬는 흐름은 중요한 돌봄이 남아 있어도 쉼을 일의 배신으로만 보지 않게 한다.",
+      "contextNote": "여자들이 장례 돌봄을 마련하고 계명을 따라 쉰다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H055",
+          "clue": "계속 챙기고 싶은 일이 있어도 회복을 위한 쉼의 시간을 실제로 나눌 수 있는지 생각할 수 있다.",
+          "friction": "현대의 모든 일정을 같은 절기로 맞추라는 뜻은 아니다. 일을 모두 완벽히 끝내야만 쉬어도 된다는 조건을 덧붙이지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:1",
+      "textSha256": "a7e53608cf8c0212bbc9355adbf3e7e6b14dbd5971d057ec5cd7c9133bf829cb",
+      "status": "candidate",
+      "reason": "미리 준비한 향품을 가져가는 구체 행동은 큰 상황을 바꾸지 못해도 지금 할 수 있는 정성을 행동으로 옮기는 모습을 준다.",
+      "contextNote": "여자들이 안식일 뒤 예수의 무덤으로 돌봄을 이어 간다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C016",
+          "clue": "사별한 친구에게 큰 말이 없더라도 필요한 준비를 해서 곁의 일을 도울 수 있는지 생각할 수 있다.",
+          "friction": "향품이나 장례 의식을 그대로 재현하라는 뜻은 아니다. 현재 친구가 필요로 하는 식사나 정리의 도움은 상대와 맞출 몫이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:2",
+      "textSha256": "ef0a4e4cb812185bb0d9ad8619bb74f0c10fb82f069507ae39c5dc8a0ae739ca",
+      "status": "hold",
+      "reason": "돌이 옮겨진 실제 모습은 이전 예상과 현장이 다를 수 있음을 보이나 이 절에는 여자들이 돌을 걱정했다는 말이 없다.",
+      "contextNote": "무덤에 도착한 여자들이 옮겨진 돌을 본다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H013",
+          "clue": "머릿속의 예상만이 아니라 지금 실제 조건을 볼 여지는 있다.",
+          "friction": "다른 복음서의 누가 돌을 옮길까라는 질문을 이 절에 추가하지 않는다. 여행 장애도 저절로 없어진다는 보장은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:3",
+      "textSha256": "5c5ab3e31895e7c369eef345bd8808dede542f3af854d3a5ca758ce0783510fa",
+      "status": "hold",
+      "reason": "예수의 시신이 없다는 관찰은 예상의 변화를 보이나 그 이유는 뒤의 말로 풀려 빈자리만 보고 새로운 가능성을 확정할 수 없다.",
+      "contextNote": "여자들이 무덤 안에서 시신을 보지 못한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H060",
+          "clue": "이미 끝났다고 생각한 자리의 실제 상태를 다시 볼 여지는 있다.",
+          "friction": "개인의 놓친 기회가 부활한다는 예언이 아니다. 이 관찰만으로 현재 할 다음 행동이 드러나지는 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:4",
+      "textSha256": "986231e679683754a75cc6c66c0ab122a3e85eb647cc8745f38ac599295aeb04",
+      "status": "hold",
+      "reason": "근심 중 두 사람이 나타나는 장면은 혼자만의 시야 밖 도움을 보이지만 그들의 말과 현재 선택은 아직 나오지 않는다.",
+      "contextNote": "빈 무덤 때문에 당황한 여자들 앞에 빛나는 두 사람이 선다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H063",
+          "clue": "불편한 마음을 혼자만의 생각에 가두지 않을 여지는 있다.",
+          "friction": "사용자에게 천사가 나타나거나 곧 답을 준다는 보장이 아니다. 등장 장면만으로 멈춤과 바쁨의 선택을 충분히 풀지는 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:5",
+      "textSha256": "f5b43c70249033ca29c7d450ed700912f20f6d5f3936a09bf99b64d31c5bca37",
+      "status": "candidate",
+      "reason": "산 이를 죽은 이들 가운데 찾느냐는 질문은 이미 닫힌 곳만 다시 붙드는 시선에서 지금 살아 있는 자리로 돌릴 여지를 준다.",
+      "contextNote": "여자들에게 예수의 부활을 알리는 질문이다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H060",
+          "clue": "놓친 기회만 되짚는 동안 지금 가능한 일과 살아 있는 관계를 어디서 찾는지 돌아볼 수 있다.",
+          "friction": "같은 기회가 다시 살아난다는 보장이나 모든 과거를 버리라는 뜻은 아니다. 예수의 부활이 본뜻이며 현재 가능한 몫을 보는 개인 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:6",
+      "textSha256": "fcb55b88957c6f192fdb495da455900d030f8afbfe1ebc574b4445e0d2230cbf",
+      "status": "hold",
+      "reason": "부활과 예전에 한 말을 기억하라는 응답은 닫힌 예상 밖의 소망을 주지만 사용자에게 같은 사전 약속이 주어진 것은 아니다.",
+      "contextNote": "여자들에게 예수의 갈릴리 말씀을 떠올리게 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H060",
+          "clue": "마지막에 보았던 결과만으로 앞으로를 전부 닫는지 돌아볼 여지는 있다.",
+          "friction": "예수의 실제 예고와 사용자의 개인 소원을 같게 놓지 않는다. 놓친 기회의 회복 약속으로 읽기에는 조건이 다르다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:7",
+      "textSha256": "201bc6f6e2142f68113f469d9ec0fc24a526ae059f07116686b9357b10213a89",
+      "status": "exclude",
+      "reason": "십자가 뒤 사흘째 부활해야 한다는 예수의 예고 인용으로 개인의 실패도 같은 기한에 회복된다는 예측을 만들 수 없다.",
+      "contextNote": "두 사람이 여자들에게 예수의 수난과 부활 말씀을 상기시킨다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:24:8",
+      "textSha256": "11c273b86a72d25fe3488ecdf8f1db85e8353b64cacd387bfb9e85a9d3a2d2cf",
+      "status": "hold",
+      "reason": "말씀을 기억하는 행동은 이미 들은 것을 다시 보는 태도지만 무엇을 기억했는지 빠져 있어 현재 지적이나 선택과 연결할 내용이 좁다.",
+      "contextNote": "여자들이 수난과 부활 예고를 떠올린다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "이미 들었으나 놓친 부분을 다시 떠올릴 여지는 있다.",
+          "friction": "동료의 지적과 예수의 부활 예고는 다르며 이 절만으로 무엇을 인정하고 고칠지 알기 어렵다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:9",
+      "textSha256": "cfe736a7677208d75316c1acf3b25af96f140bd3a11649a6ca5ea6b586ab22b2",
+      "status": "hold",
+      "reason": "돌아와 모두 알리는 모습은 경험의 전달을 보이지만 이 모든 것의 내용과 보고의 근거는 앞 장면에 걸려 있다.",
+      "contextNote": "여자들이 무덤의 일을 사도들과 다른 이들에게 전한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "내가 경험한 것을 감추지 않고 전달할 여지는 있다.",
+          "friction": "이 절은 실제 본 내용이나 정확한 표현을 직접 밝히지 않아 꾸밈과 사실의 선택을 가르는 힘은 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:10",
+      "textSha256": "07d28c3e2ad088a4ee56bbc936ae1bd6ef9387ab3eefdbf6731a0b6d31fc1c6e",
+      "status": "hold",
+      "reason": "여자들의 이름과 함께 보고한 이들을 밝히지만 참여의 결과나 수용은 다음 절에 있어 소외감에 대한 충분함은 제한적이다.",
+      "contextNote": "부활 소식을 전한 여자들의 신원을 부연한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H035",
+          "clue": "여러 사람이 함께 이야기를 전달하는 자리의 가능성은 생각할 수 있다.",
+          "friction": "여성의 당시 사회적 위치를 입력에 새로 설명해 붙이지 않는다. 이름의 목록만으로 현재 모임이 내 말을 받을 것이라 보장하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:11",
+      "textSha256": "005856b7dbcb28e1fdeca1e834a08043347f22348286cc71675982ce67ce6a4a",
+      "status": "candidate",
+      "reason": "허탄하게 보인다는 인상 때문에 믿지 않는 모습은 낯설다는 느낌과 실제 사실의 확인을 나누어 보게 한다.",
+      "contextNote": "사도들이 여자들의 부활 소식을 당장은 받아들이지 않는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "내 기존 인상과 안 맞는다는 이유만으로 친구의 설명을 듣기도 전에 버리는지 돌아볼 수 있다.",
+          "friction": "기이한 주장을 모두 믿으라는 뜻은 아니다. 본문에서는 뒤의 현장 확인이 이어지며 실제 친구가 옳다고 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:12",
+      "textSha256": "6b74fe9fbfef8b5fe66ab983d1d609548ad1442f4b0607c3e82c5c81cd65c6b2",
+      "status": "candidate",
+      "reason": "베드로가 직접 가서 보고도 본 것은 세마포라고 구별하는 장면은 전언과 관찰과 아직 모르는 것을 나누는 모습을 준다.",
+      "contextNote": "베드로가 빈 무덤을 확인한 뒤 놀라며 집으로 돌아간다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "들었던 내용, 내가 실제 확인할 수 있는 부분, 아직 모르는 뜻을 따로 볼 수 있다.",
+          "friction": "타인의 사생활을 무단 조사하라는 뜻은 아니다. 세마포만 본 사실에서 모든 결론을 이미 알았다고 확대하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
     }
   ]
 }
