@@ -11848,6 +11848,604 @@
       "contextNote": "뒤에서 만나고 변할 사람의 배경을 알린다.",
       "readability": "clear",
       "connections": []
+    },
+    {
+      "id": "KRV:LUK:19:3",
+      "textSha256": "ee7c629bc2c51d559017cb5a57d39e69d0eaf8c8ff98437874700704ecf177cd",
+      "status": "hold",
+      "reason": "키와 무리 때문에 볼 수 없다는 제약은 바람과 실제 조건을 나누지만 대안은 아직 취하지 않는다.",
+      "contextNote": "삭개오가 보고 싶어도 앞을 볼 수 없는 상태다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "부족한 점을 내 전체의 가치와 구분할 여지는 있다.",
+          "friction": "신체 조건과 역할 두려움은 다른 제약이며 해결 행동은 다음 절에 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:19:4",
+      "textSha256": "3d7415006a4f0458afb2d45e5ab93b9cb137683e606bbf3e2e365315dd84e75d",
+      "status": "candidate",
+      "reason": "앞으로 가 나무 위에서 보는 변경은 키를 바꾸지 못해도 접근 방식과 위치를 바꿀 수 있음을 보여 준다.",
+      "contextNote": "삭개오가 무리 뒤에 그대로 서 있지 않고 다른 시야를 마련한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H043",
+          "clue": "같은 자리에서 힘만 더 쓰기보다 바꿀 수 있는 접근 방식이 있는지 볼 수 있다.",
+          "friction": "나무 오르기를 그대로 모방하라는 뜻은 아니며 모든 장애에 이런 대안이 있다는 보장도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:19:5",
+      "textSha256": "e653f74058acf212e2f5eb1acace4b126441efe3437e663aa1151e01d9770a4a",
+      "status": "candidate",
+      "reason": "이름을 부르고 집에 머물겠다는 환대는 과거 때문에 관계의 자리에서 계속 숨으려는 마음에 여지를 준다.",
+      "contextNote": "예수가 나무 위 삭개오를 보고 집에 머물기를 요청한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "이미 사과하고 고친 뒤에도 계속 밖에 있어야 한다는 자기 규정에서 관계로 돌아갈 여지가 있다.",
+          "friction": "예수가 오늘 사용자의 집에 방문한다는 예언이 아니다. 삭개오의 뒤 돌이킴과 사용자가 이미 수정한 일은 구별한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:19:6",
+      "textSha256": "b979a7ff076863904c56d5450d66b7f5116508845e07f2c5548ec13394138683",
+      "status": "hold",
+      "reason": "즐거워 영접한 반응은 열린 관계를 보여 주지만 누가 누구를 맞는지 앞의 초대에서 받아야 한다.",
+      "contextNote": "삭개오가 부름을 듣고 내려와 예수를 맞는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H035",
+          "clue": "환대의 가능성을 두려움만으로 닫지 않을 여지는 있다.",
+          "friction": "현재 모임이 실제 초대했다는 정보는 없고 영접의 동작만으로 상대 마음을 알 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:19:7",
+      "textSha256": "45e10d4ff97e8aa48e2ec069e8bd6e3fefbd7a5bdafc7f497bbb86f84369ae29",
+      "status": "candidate",
+      "reason": "죄인 집에 머문다고 수군거리는 반응은 과거 이름표를 이유로 환대 자체까지 잘못으로 보는 시선을 비춘다.",
+      "contextNote": "무리의 불평 뒤 삭개오의 실제 돌이킴이 나온다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C002",
+          "clue": "달라지는 친구를 받아들이는 것이 과거의 잘못에 동의하는 일과 같은지 나누어 볼 수 있다.",
+          "friction": "삭개오의 행동 변화는 뒤에 나오므로 변화가 실제 확인된 입력에 연결한다. 잘못을 없던 일로 하라는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:19:8",
+      "textSha256": "362ded7b35f77248d16a1d46d8a6c9b1949040ae6cf7bb4e5eed326ad80b925e",
+      "status": "candidate",
+      "reason": "나눔과 부당하게 취한 것이 있다면 갚겠다는 수정을 함께 말하여 말의 사과와 실제 회복을 구별한다.",
+      "contextNote": "삭개오가 소유의 절반과 토색에 대한 조건부 사배 배상을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C006",
+          "clue": "중량 부족을 알았다면 구매자가 모른다는 이유보다 빠진 몫을 바로잡는 행동을 생각할 수 있다.",
+          "friction": "반액과 사배를 모든 상품 실수의 의무 비율로 정하지 않는다. 만일 토색한 일이 있으면이라는 조건을 확인하지 않은 죄의 확정으로 바꾸지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:19:9",
+      "textSha256": "dd99a1af8e8b4e2168e4b5f00ab837f253841a3d766ac9a1440e680b4eb89203",
+      "status": "candidate",
+      "reason": "구원과 자손의 소속을 인정하는 말은 과거의 이름만으로 회복의 자리를 계속 닫지 않는 모습을 준다.",
+      "contextNote": "삭개오의 돌이킴 뒤 예수가 이 집과 사람의 구원을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "이미 사과하고 고쳤는데도 영원히 밖에 있어야 한다는 판단을 놓을 여지가 있다.",
+          "friction": "사용자의 집에 오늘 구원이 확정됐다고 서비스가 판정하지 않는다. 아브라함의 자손이라는 신앙적 의미도 개인의 새 신분으로 선언하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:19:10",
+      "textSha256": "a9a0510c1fa236d2542b6526d7f325354abc0e4ef298e29c52d0b9132ee78019",
+      "status": "candidate",
+      "reason": "잃은 이를 찾아 구원하는 목적은 잘못한 사람이 돌봄과 새 출발의 대상 밖이라는 생각을 흔든다.",
+      "contextNote": "삭개오 사건을 인자의 사명으로 정리한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "잘못을 인정한 뒤에도 도움과 관계의 자리에서 나를 계속 밀어내야 하는지 돌아볼 수 있다.",
+          "friction": "사과와 피해 회복이 불필요하다는 뜻이나 서비스가 구원을 판정하는 답은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:19:11",
+      "textSha256": "b77e5295c29c71a926089db18ea74fdecd0eb8c09668517c7c3821596556cd7d",
+      "status": "hold",
+      "reason": "나라가 당장 나타날 것이라는 예상은 빠른 결과 기대를 비추지만 그 한계와 대안은 뒤의 비유에서 펼쳐진다.",
+      "contextNote": "예루살렘에 가까워지며 예수가 기다림과 맡은 일을 더 설명한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H046",
+          "clue": "좋은 방향이면 결과도 당장 보여야 한다는 기준을 살펴볼 여지는 있다.",
+          "friction": "나라의 임함과 개인 성장의 속도는 다르며 이 절만으로 지금 방법이 맞거나 기다려야 한다고 정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:19:12",
+      "textSha256": "4e1c55dc8dd0a6beab37ba6cdd0f3f87c34942b3e983ad4ff4c127f78bbf4aa3",
+      "status": "exclude",
+      "reason": "왕위를 받으러 떠나는 귀인의 조건만으로 새 일을 위해 이동할지나 비용을 감당할 기준은 없다.",
+      "contextNote": "므나 비유에서 주인의 부재와 귀환을 준비한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:19:13",
+      "textSha256": "41ace8c6fe85e527f9f91fbcf6e5d770ec90e367ed6da44d0cbc89941a9c5ef3",
+      "status": "candidate",
+      "reason": "돌아오기까지 맡긴 것을 활용하라는 말은 기다림도 현재 맡은 일의 공백만은 아님을 보여 준다.",
+      "contextNote": "귀인이 종들에게 은을 맡기고 부재 중 할 일을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H053",
+          "clue": "새 기회만 바라보며 지금 맡은 일을 비워 두고 있는지 돌아볼 수 있다.",
+          "friction": "은을 투자하라는 금융 지시로 옮기지 않는다. 현 업무의 충실함을 보는 개인 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:19:14",
+      "textSha256": "010d88189c0f8b198bbcf184e2bde8c9d2e04afaf15ecfd1a7a196d630169d62",
+      "status": "exclude",
+      "reason": "귀인의 왕 됨을 거부한 백성의 정치적 메시지로 내 의견에 반대하면 하나님을 거부한다는 기준을 만들 수 없다.",
+      "contextNote": "왕위를 반대하는 백성의 줄거리를 놓는다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:19:15",
+      "textSha256": "94f944f96896fa3dedae935a652ab70be902547329d87a588e8ce9bf1e76cf3a",
+      "status": "candidate",
+      "reason": "각자가 어떻게 일했는지 확인하는 모습은 좋은 인상과 실제 처리한 일의 근거를 나누어 보게 한다.",
+      "contextNote": "돌아온 귀인이 종들의 장사 결과를 묻는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "좋게 보일 말보다 무엇을 맡아 실제 어떻게 했는지 설명할 수 있는지 생각할 수 있다.",
+          "friction": "관리자의 평가가 신적 최종 판단이라는 뜻이나 업무 성과가 이미 확정됐다는 보장은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:19:16",
+      "textSha256": "54733ca5137962975f1f4b26d085d2565562d5b5ef41e5365797df70cbbbd5b6",
+      "status": "hold",
+      "reason": "맡은 한 므나와 남긴 열 므나의 구분은 구체적이지만 숫자의 보고만으로 정직과 꾸밈의 선택을 충분히 드러내지는 않는다.",
+      "contextNote": "첫 종이 자기 결과를 보고한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "맡은 것과 실제 낸 결과를 구분해 말할 여지는 있다.",
+          "friction": "열 배를 내야 옳다거나 현재 결과가 열 배가 될 것이라는 뜻은 아니다. 숫자만 있는 첫 결과의 연결은 약할 수 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:19:17",
+      "textSha256": "5acfc5a6166e4a771d3543d063289e01b30d5a4b67d91408391bb14e3d53b118",
+      "status": "candidate",
+      "reason": "작은 것의 충실함을 칭찬하는 말은 작은 마무리를 큰 성과 전의 무의미한 일로만 보지 않게 한다.",
+      "contextNote": "첫 종에게 열 고을의 책임을 맡기는 보상을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H053",
+          "clue": "지금의 따분한 마무리도 맡은 일의 충실함의 일부인지 볼 수 있다.",
+          "friction": "업무를 마치면 열 배의 권한이나 승진을 받는다는 보장이 아니다. 열 고을의 뒷말까지 포함한 비유다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:19:18",
+      "textSha256": "f6742b166acc5636edcba163a52fa1d9fd580af86139ff5cf0ae0a79a0176294",
+      "status": "hold",
+      "reason": "다른 종이 다섯 므나를 냈다는 결과는 차이를 보이지만 적은 결과를 어떻게 받아들이는지는 다음 응답에 있다.",
+      "contextNote": "두 번째 종이 자기 결과를 보고한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H046",
+          "clue": "같은 출발 뒤 결과의 양이 다를 수 있다는 여지는 있다.",
+          "friction": "이 절만으로 적은 결과도 인정받는다고 말할 수 없고 비교할 첫 종의 수치도 앞에 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:19:19",
+      "textSha256": "16c085705ee9e079bf22257ac73a0ca20b1965a9b67a52696e3e151a01449bfc",
+      "status": "hold",
+      "reason": "그에게도 고을을 맡기는 인정은 있지만 어떤 결과와 비교인지 앞의 보고를 알아야 분명해진다.",
+      "contextNote": "다섯 므나를 남긴 종에게 다섯 고을을 맡긴다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H046",
+          "clue": "첫 번째와 같은 크기여야만 자리가 있는지 돌아볼 여지는 있다.",
+          "friction": "너도는 비교를 필요로 하며 모든 성과가 정해진 비율의 보상으로 돌아온다는 뜻은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:19:20",
+      "textSha256": "dc30d142eedead4eeb61ec02f4372ce79a31d095780d6b948ca2109dc5988814",
+      "status": "candidate",
+      "reason": "맡긴 것을 수건에 싸 그대로 내놓는 모습은 손실을 피하려 아예 쓰지 않은 선택이 무엇을 남기는지 보게 한다.",
+      "contextNote": "세 번째 종이 은을 활용하지 않았다고 밝힌다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "부족할까 두려워 지원조차 하지 않으면 가진 것을 써 볼 자리도 닫는지 생각할 수 있다.",
+          "friction": "역할 지원이 금융 투자와 같은 위험이라는 뜻은 아니다. 보관 일반을 잘못이라 하거나 투자 수익을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:19:21",
+      "textSha256": "a71ee69880095a6e5d5cce978b750e4e145b13635842113b2138cb4ad3829215",
+      "status": "candidate",
+      "reason": "엄한 상대가 무서워 행동하지 못했다는 말은 실제 능력보다 예상한 평가가 시작을 막는지 드러낸다.",
+      "contextNote": "세 번째 종이 보관의 이유를 주인에 대한 두려움으로 설명한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "내가 못할 것이라는 생각 속에 남의 엄한 평가에 대한 상상이 얼마나 큰지 볼 수 있다.",
+          "friction": "두지 않은 것을 취한다는 묘사는 종의 말이다. 하나님이나 지원할 모임이 부당하다고 확정하지 않고 모든 위험을 무시하라는 뜻도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:19:22",
+      "textSha256": "5dfd09f8062665449d2bca65e179a8cd3c434fd060fb8ba037a7842d0babaf8b",
+      "status": "hold",
+      "reason": "자기 말로 판단한다는 응답은 말과 행동의 일관성을 묻지만 악한 종과 엄한 주인의 구도가 현재 실수의 판결이 될 수 없다.",
+      "contextNote": "주인이 세 번째 종의 변명의 모순을 되묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "내 이유와 실제 행동이 맞는지 돌아볼 여지는 있다.",
+          "friction": "동료가 사용자를 악한 종으로 판정할 권한을 갖는다는 뜻은 아니다. 주인을 엄하다고 한 앞의 대화도 필요하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:19:23",
+      "textSha256": "63735f87f79ff445fc070b2c29c0cebaed32fe27b4a5134459b83a8101b2d560",
+      "status": "candidate",
+      "reason": "큰 장사 대신 은행에 두는 대안도 있었다는 질문은 완벽한 수행과 아무것도 하지 않음 사이의 작은 실행을 생각하게 한다.",
+      "contextNote": "두려워 보관만 한 종에게 최소한의 활용도 하지 않은 이유를 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H057",
+          "clue": "완벽한 큰 시작과 전혀 시작하지 않음 사이에 지금 가능한 작은 행동이 있는지 볼 수 있다.",
+          "friction": "은행이나 금융 상품을 권하거나 수익을 보장하지 않는다. 변리의 조건을 운동 성과로 환산하지 않고 실행의 크기에만 연결한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:19:24",
+      "textSha256": "065fad08848072ca5d3446eccff5b2daef5d9b3da24c01d0779895dd46de82fe",
+      "status": "hold",
+      "reason": "활용하지 않은 한 므나를 많이 남긴 종에게 주는 장면으로 현재 성과가 느린 사람은 빼앗겨 마땅하다는 기준을 만들 수 없다.",
+      "contextNote": "쓰지 않은 종의 은을 열 므나 있는 종에게 옮기라고 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H046",
+          "clue": "맡은 것을 실제 사용했는지의 차이를 볼 여지는 있다.",
+          "friction": "느린 결과와 전혀 활용하지 않음은 다르므로 현재 느린 사용자를 같은 종으로 판정하면 맞지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:19:25",
+      "textSha256": "939419f5ffd8520113a0c203e319b0c2a453dbe9cb8c6781fd537b7b2fe59ede",
+      "status": "hold",
+      "reason": "이미 열 므나가 있다고 되묻는 반응은 배분의 공정함을 보여 주지만 그 질문에 대한 기준은 다음 응답에 있다.",
+      "contextNote": "주변 사람들이 더 가진 종에게 은을 주는 것에 이의를 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H040",
+          "clue": "다른 사람이 더 받는 것을 볼 때 어떤 공정함을 기대하는지 생각할 여지는 있다.",
+          "friction": "공정성을 묻는 모든 말을 질투로 정하지 않는다. 친구의 성공이 불공정한 배분이라는 입력도 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:19:26",
+      "textSha256": "cdcda3334d1e8c3edc2c6dff7f843605e31324cb53080db8c6a9fc3dd86ee30f",
+      "status": "hold",
+      "reason": "있는 자의 더 받음과 없는 자의 상실은 맡김의 책임을 말하지만 적은 자원과 능력을 가진 현재의 사용자를 위협하기 쉽다.",
+      "contextNote": "므나 사용에 따른 배분의 원리를 주인이 밝힌다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "작더라도 쓰는 것과 쓰지 않는 것을 구별해 볼 여지는 있다.",
+          "friction": "자신감이 적으면 기회를 빼앗긴다거나 지원하지 않으면 벌받는다는 예측이 아니다. 빈부를 도덕의 점수로 삼지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:19:27",
+      "textSha256": "c2f1d84be516fc1108beb7abf9a8c92acecd7e752d0d3edf532fcf5a9700cb2c",
+      "status": "exclude",
+      "reason": "왕 됨을 거부한 원수를 죽이라는 비유의 심판 명령으로 개인 의견의 반대자를 신의 적이라 부르거나 해칠 권한을 줄 수 없다.",
+      "contextNote": "므나 비유의 왕권 거절 줄거리를 엄한 판단으로 닫는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:19:28",
+      "textSha256": "bf61ef5d12a681c5d53b158d2f6c201b673d7f22568037ce7cee8241a0517304",
+      "status": "hold",
+      "reason": "가르친 뒤 목적지로 앞서 가는 행동은 전환의 모습이지만 불확실성을 어떤 기준으로 판단했는지 절 안에 없다.",
+      "contextNote": "예수가 비유를 마치고 예루살렘으로 간다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H061",
+          "clue": "생각과 말만 하던 뒤 실제 한 걸음을 둘 수 있는지 생각할 여지는 있다.",
+          "friction": "정해진 예루살렘 여정을 사용자의 두 선택 중 하나에 대응시킬 근거는 없어 이동의 일반 모습에 머물 수 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:19:29",
+      "textSha256": "070ad317a2f4f14cb0efffc25ffd130b14ebe2f20aa839cfccdfb04b392cc53e",
+      "status": "exclude",
+      "reason": "벳바게와 베다니에 다가가 두 제자를 보냈다는 위치와 파송만 있어 준비의 내용과 이유는 다음 절에 남는다.",
+      "contextNote": "예루살렘 입성의 나귀 준비를 시작한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:19:30",
+      "textSha256": "79fd4ab000eb1ad505f10792dcb13725e479e03e2a303d88a30bc9c1b99d93e0",
+      "status": "hold",
+      "reason": "나귀를 풀어 데려오라는 말은 특정 입성의 지시로 가족 물건을 자기 용도로 가져올 일반 권한이 아니다.",
+      "contextNote": "두 제자에게 맞은편 마을의 나귀를 데려오게 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C007",
+          "clue": "사용하려는 물건의 권한을 누구에게 받았는지 생각할 질문은 생긴다.",
+          "friction": "사용자에게 이런 지시가 주어진 것은 아니고 주인의 허락도 이 절에는 없다. 남의 물건을 먼저 가져오라는 연결은 맞지 않는다.",
+          "expectedEnough": "no"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:19:31",
+      "textSha256": "351d44a8a84f87791a026f3a8cb89c33dbbb1531c73d8f8f8cd744dc8b976726",
+      "status": "hold",
+      "reason": "주가 쓰시겠다는 말은 실제 예수의 지시를 받은 이들의 응답으로 내 생각뿐인 상황에 같은 권위를 붙일 수 없다.",
+      "contextNote": "풀어가는 이유를 묻는 이에게 할 답을 예수가 정한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C001",
+          "clue": "남의 이름을 대신 말할 때 실제 위임이 있었는지 돌아볼 여지는 있다.",
+          "friction": "분명히 받은 말씀이 없는 사용자가 이 문장으로 자기 주장에 신적 권위를 붙이면 맞지 않는다.",
+          "expectedEnough": "no"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:19:32",
+      "textSha256": "fd2aed48383cbc8409010a91eaf07a34642979b9ea48f700db983f1dc39aa7a6",
+      "status": "exclude",
+      "reason": "예수의 사전 지시 그대로 만났다는 특수한 사건으로 사용자의 예상이나 계획도 그대로 성취된다는 보장을 만들 수 없다.",
+      "contextNote": "제자들이 예고된 나귀를 찾는다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:19:33",
+      "textSha256": "67e8c298b8d3183d16b4e06d8d09e126a0b569e61ff3322765c3eea2abb8ed9e",
+      "status": "hold",
+      "reason": "나귀의 임자들이 풀어가는 이유를 묻는 모습은 소유자의 입장을 드러내지만 허락 여부는 이 질문 자체에 없다.",
+      "contextNote": "제자들이 나귀를 풀자 주인들이 이유를 묻는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C007",
+          "clue": "사용하지 않는 것처럼 보여도 그 주인에게 이유를 말할 몫이 있는지 볼 수 있다.",
+          "friction": "묻지 않고 먼저 가져가도 된다는 모범이 아니다. 이 절에는 응답과 동의가 아직 없으므로 거래 허가로 삼지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:19:34",
+      "textSha256": "eb8474aafe9e50da5c17f1c3ffd51bb5c9388c329756de830a0e1b77c4a775ac",
+      "status": "hold",
+      "reason": "주께서 쓰신다는 응답만 있어 앞의 실제 위임이 없으면 개인의 사용 목적을 신의 이름으로 합리화한 말처럼 읽힐 수 있다.",
+      "contextNote": "임자들의 질문에 제자들이 예수가 가르친 대로 답한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C001",
+          "clue": "내가 대신 말하는 권위의 출처가 실제 있는지 돌아볼 질문은 있다.",
+          "friction": "이들은 이미 예수의 구체 지시를 받았다. 그런 지시가 없는 사용자가 자기 의견에 같은 말을 붙이는 연결은 맞지 않는다.",
+          "expectedEnough": "no"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:19:35",
+      "textSha256": "24f6b5078911f9dd5c4e94c56a433ca3a6f8fa207d0511d71544a3672a8d3f95",
+      "status": "candidate",
+      "reason": "자기 겉옷을 얹어 탈 자리를 마련하는 구체적 협력은 큰 일을 전부 하지 못해도 내 물건과 손으로 도울 몫을 보여 준다.",
+      "contextNote": "제자들이 나귀를 데려와 예수가 타도록 준비한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "상대의 큰 사정을 다 해결하지 못해도 지금 편히 움직일 작은 준비를 도울 수 있는지 생각할 수 있다.",
+          "friction": "예수의 입성과 친구의 어려움은 다른 상황이다. 남의 물건을 임의로 쓰거나 옷을 바쳐야 진심이라는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:19:36",
+      "textSha256": "d01528b25c74d03abcbe9735c09534752f7cb830287f06518392389a2ae84d6e",
+      "status": "hold",
+      "reason": "겉옷을 길에 펴는 행동은 왕을 맞는 헌신과 환대이지만 현대 친구의 필요를 돕는 실용적 몫과 바로 같지는 않다.",
+      "contextNote": "입성하는 예수를 길의 겉옷으로 맞는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "자기가 가진 것으로 환대를 표현할 수 있다는 여지는 있다.",
+          "friction": "의례적 존경과 실제 필요를 돌보는 도움은 다르며 옷을 버리거나 큰 희생을 해야만 돕는다는 기준으로 쓰지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:19:37",
+      "textSha256": "741fa486ef573045ed674bfcd4a0cd50b8c8bb9bc631a95d09d4d124d43a9437",
+      "status": "candidate",
+      "reason": "자기들이 본 일을 근거로 기뻐하며 말하는 모습은 전해진 평가와 실제 경험의 근거를 나누게 한다.",
+      "contextNote": "제자들이 입성 중 자신들이 본 능한 일로 하나님을 찬양한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "더 멋있는 이야기를 보태기보다 내가 실제로 보고 한 일의 근거를 말할 수 있다.",
+          "friction": "내 성과를 예수의 기적과 같은 권위로 만들지 않는다. 큰 소리와 기쁨이 사실을 과장할 허가라는 뜻도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:19:38",
+      "textSha256": "c4a5f1975f9e47c2a11d075564283fb0c454e2e96da014be454961e406a58832",
+      "status": "hold",
+      "reason": "왕에게 영광과 평화를 돌리는 찬양은 평안의 방향을 주지만 화난 메시지를 지금 보낼지의 부담을 구체화하지는 않는다.",
+      "contextNote": "입성의 왕을 찬송하는 제자들의 말을 기록한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "상대와 나 사이에 바라는 것이 분노의 승리인지 평화인지 생각할 여지는 있다.",
+          "friction": "예수에게 드리는 하늘의 찬양이며 이 단어만으로 실제 대화의 시점이나 내용을 판단할 힘은 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:19:39",
+      "textSha256": "fb14fade0f8655985f0d8014d3b3be87e7d468dc52a0280766c3d4a4a2c0af2d",
+      "status": "exclude",
+      "reason": "제자들을 책망하라는 일부 바리새인의 요청만 있어 책망의 이유와 정당함을 독립적으로 판단할 수 없고 예수의 반응은 다음 절에 남는다.",
+      "contextNote": "입성 찬양을 막으려는 이들의 요청이다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:19:40",
+      "textSha256": "eeb58fad8c49985f86e65804c932b6265f4b87538d364d530731ae07e819b362",
+      "status": "hold",
+      "reason": "침묵하면 돌도 소리 지른다는 강한 선언은 억눌리지 않는 찬양을 말하지만 누구를 왜 말해야 하는지의 근거가 앞 장면에 있다.",
+      "contextNote": "찬양을 막으라는 요청에 예수가 응답한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "남의 시선 때문에 실제 알게 된 좋은 일을 모두 감추어야 하는지 돌아볼 여지는 있다.",
+          "friction": "돌의 외침을 내 성과의 신적 증명으로 쓰거나 하고 싶은 말을 모두 정당화하지 않는다. 대상이 예수의 입성이라는 문맥이 필요하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:19:41",
+      "textSha256": "b5cbec81ed90712f98218819f835e53b91d2adaf253b20757eee7e7dc3c0d484",
+      "status": "hold",
+      "reason": "성을 보고 우는 모습은 상대의 아픔을 외면하지 않는 감정을 보여 주지만 사별한 친구의 작은 필요를 어떻게 도울지는 나오지 않는다.",
+      "contextNote": "예수가 예루살렘에 가까이 와서 탄식한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C016",
+          "clue": "완벽한 설명 없이도 아픔을 느끼며 곁에 설 여지는 있다.",
+          "friction": "도시의 심판을 슬퍼하는 문맥은 사별의 원인 설명이 아니며 울기만 하면 실제 도움을 다했다는 답으로 삼지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:19:42",
+      "textSha256": "461beb81734d49620ac01990460376f5ec5424434f01b21a19aa20f10f72bed3",
+      "status": "hold",
+      "reason": "평화의 일을 알았더라면 좋았다는 탄식은 놓친 때의 무게를 보이지만 지금 눈에 숨었다는 말이 현재의 작은 일을 시작할 방향까지 주지는 않는다.",
+      "contextNote": "예루살렘이 평화의 방문을 알아보지 못한 것을 예수가 슬퍼한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H060",
+          "clue": "놓친 것을 인정하는 일과 지금의 자리를 보는 일을 생각할 여지는 있다.",
+          "friction": "개인 기회가 다시는 회복되지 않거나 올바른 판단도 불가능하다고 예언하지 않는다. 탄식의 대상과 현재의 선택은 다르다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
     }
   ]
 }

@@ -4284,6 +4284,906 @@
       "contextNote": "유다 평지 성읍들을 열거한다.",
       "readability": "needs_explanation",
       "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:40",
+      "textSha256": "4944a92d3a1ed48c36a417f580298fb1e9728b16ab3b6bd5bb71ccb3609a4378",
+      "status": "exclude",
+      "reason": "갑본·라맘·기들리스의 이름만 나열된다. A029에서 필요한 장비를 다르게 나눌지에 기능·필요·분배 행동이 없고 지명 풀이를 더해야 한다.",
+      "contextNote": "유다 평지 도시군의 목록을 잇는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:41",
+      "textSha256": "e767d032d7003dc1104c0ad7d4706a7c713a9e5ebda55fa222b302012cb544ae",
+      "status": "exclude",
+      "reason": "그데롯·벧다곤·나아마·막게다와 십육 성읍·촌락의 합계이다. A021의 보상 분배를 이 수효로 정할 기여·비율 정보가 없다.",
+      "contextNote": "두 번째 평지 도시군을 합계로 마친다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:42",
+      "textSha256": "eb21c207974a37741887bf1df7536496df8a5f0d706bb021d308269e4be3bcef",
+      "status": "exclude",
+      "reason": "립나·에델·아산의 나열이다. H061의 두 선택에 이 세 지명을 임의의 답이나 후보로 넣을 근거는 없다.",
+      "contextNote": "다음 유다 평지 도시군을 시작한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:43",
+      "textSha256": "0ae1e53fd598f91ba377823ee90b7a72f97f4bf234dd89df969a7f9410b8282f",
+      "status": "exclude",
+      "reason": "입다·아스나·느십의 이름만 있다. H003에서 확인할 물건의 용도나 필요와 연결되는 행동·조건이 제시되지 않는다.",
+      "contextNote": "유다 평지 성읍 목록을 잇는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:44",
+      "textSha256": "f1f1c1930a29342899dd50f0b254c26c3a34907b6e2db5aa74bf1bd7cb4ebd44",
+      "status": "exclude",
+      "reason": "그일라·악십·마레사와 아홉 성읍의 집계이다. H059의 나눔에 내 여력·대상 필요를 아홉이라는 수로 채울 수 없다.",
+      "contextNote": "세 번째 평지 도시군을 집계한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:45",
+      "textSha256": "065bf74c44ae3e074f21be68085204a94796e41c6a8987bbc20ca7218dbb3356",
+      "status": "exclude",
+      "reason": "에그론과 향리·촌락의 나열이다. A001의 비좁은 공동 공간을 함께 쓸지 나눌지에 면적·사용자·갈등 조건이 없다.",
+      "contextNote": "유다 해안권 기업 목록을 시작한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:46",
+      "textSha256": "bf2950d1548d8cbce36c68b500bd689dd22ac727ab24e76264970cefa8530b10",
+      "status": "exclude",
+      "reason": "에그론부터 바다까지 아스돗 곁 성읍과 촌락의 범위이다. A020의 실제 이사에 이 해안권을 추천하거나 현재 환경으로 대응할 수 없다.",
+      "contextNote": "에그론 서쪽의 도시권을 설명한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:47",
+      "textSha256": "bc9e3b4154f21aae6d99df4ae88a50bf0d0325fa6214c8b6bb668772043a0c37",
+      "status": "exclude",
+      "reason": "아스돗·가사의 촌락과 애굽 시내·대해의 경계이다. H013의 여행 걱정에 현재 위험·준비 조건을 주는 절이 아니다.",
+      "contextNote": "유다 해안권의 남부 경계를 밝힌다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:48",
+      "textSha256": "81f933f643d80e0d6f0459bc8ccc172f230e4e3d07dd61b37b419b1fe4e50d2f",
+      "status": "exclude",
+      "reason": "산지의 사밀·얏딜·소고 목록이다. H049의 어려운 배움 선택을 산지라는 말 하나로 위험·성장에 대응할 수 없다.",
+      "contextNote": "유다 산지 도시군을 시작한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:49",
+      "textSha256": "5de2d4d426aa39897f89ea15ec93e31846a14116ce77b9fc9c01ec9adc91bd80",
+      "status": "exclude",
+      "reason": "단나와 기럇산나 곧 드빌의 다른 이름을 기록한다. H037의 상대 마음을 직접 물을지에 지명 별칭은 판단 실마리를 주지 못한다.",
+      "contextNote": "유다 산지 성읍과 별칭을 잇는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:50",
+      "textSha256": "f9fa77028e71d88b0db00bb6f1dba6bc354173ba6bda0fb6ec55efdecfb9d5bd",
+      "status": "exclude",
+      "reason": "아납·에스드모·아님 세 성읍의 나열이다. H034의 친구 돕기에 실제 필요한 도움이나 실행은 없다.",
+      "contextNote": "첫 산지 도시군을 열거한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:51",
+      "textSha256": "4f908c371afbb83441de3b90620d269f5cabe36d14d58e49af23a6e2ad64b1a8",
+      "status": "exclude",
+      "reason": "고센·홀론·길로와 십일 성읍의 집계이다. A029의 업무별 장비 수량을 이 도시 수효와 같게 정할 근거가 없다.",
+      "contextNote": "첫 산지 도시군을 합계로 마친다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:52",
+      "textSha256": "439d9f8b7e8ef9f88719144c2ed8e5b65b9767d9edb441607c2f360285c4bd41",
+      "status": "exclude",
+      "reason": "아랍·두마·에산이라는 고유명사 목록이다. H061의 실제 선택 부담을 세 이름으로 채우는 것은 원문 밖 연결이다.",
+      "contextNote": "다음 유다 산지 도시군을 연다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:53",
+      "textSha256": "df6db8e533ab085a5239f6926b724c52d65a66c2207b2f2a27d006f6ce13896a",
+      "status": "exclude",
+      "reason": "야님·벧답부아·아베가의 나열이다. H051에서 모르는 일을 물을 경험자나 대화 행동은 이 절에 없다.",
+      "contextNote": "산지 도시 목록을 잇는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:54",
+      "textSha256": "2b75d64271928145023fbc07e0ef08ae5547d84a2d4bb0750e8e3f5bfff1c388",
+      "status": "exclude",
+      "reason": "훔다·기럇아르바 곧 헤브론·시올과 아홉 성읍이다. H060의 놓친 기회에 헤브론의 이전 이야기를 끌어와야 하며 본절은 지명 집계이다.",
+      "contextNote": "두 번째 산지 도시군을 합계로 마친다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:55",
+      "textSha256": "ef20aa04466ad95c54c0c9e28cb210692d280b06311ae4107505a3e280fecd14",
+      "status": "exclude",
+      "reason": "마온·갈멜·십·윳다의 목록이다. G15의 역할 두려움에 도시 이름만으로 수행 여부를 정할 실마리는 없다.",
+      "contextNote": "세 번째 산지 도시군을 시작한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:56",
+      "textSha256": "c8b95a6e3527a18b8ebe17b84ab6080873f7d7dcd4e4a5eedb4f57e0ac07f91a",
+      "status": "exclude",
+      "reason": "이스르엘·욕드암·사노아의 나열이다. H046의 속도에 실제 기간이나 일의 과정이 없어 현재 계획을 평가할 수 없다.",
+      "contextNote": "유다 산지 성읍을 계속 열거한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:57",
+      "textSha256": "a2abeb2c1616edd2cae4de9a82337ba89d55dba766f3a18847b1641805992132",
+      "status": "exclude",
+      "reason": "가인·기브아·딤나와 열 성읍·촌락의 합계이다. A021의 동일 노동 보상을 열이라는 수로 나눌 근거는 없다.",
+      "contextNote": "세 번째 산지 도시군을 마친다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:58",
+      "textSha256": "1e203820f119474fb302977b434c858c80c95e9996647d001c3d939cb0f6e41b",
+      "status": "exclude",
+      "reason": "할훌·벧술·그돌의 이름이다. H053에서 기존 일을 끝낼지에 진행·가치·마감에 관한 정보가 없다.",
+      "contextNote": "다음 산지 도시군을 연다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:59",
+      "textSha256": "01b031c7d7bce6c9a07f8c30588291a01d59cb30ac6f41eb49f1a6551dea6f68",
+      "status": "exclude",
+      "reason": "마아랏·벧아놋·엘드곤과 여섯 성읍의 집계이다. H059에서 도움에 쓸 몫은 이 여섯 도시의 수만으로 정할 수 없다.",
+      "contextNote": "네 번째 산지 도시군을 집계한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:60",
+      "textSha256": "8ae4641398f15ad10b592d35843f7571a86faa62db36389af869d89d08a08f84",
+      "status": "exclude",
+      "reason": "기럇바알 곧 기럇여아림과 라빠 두 성읍의 나열이다. H061의 두 선택과 두 도시를 대응시키는 것은 입력에 없는 지리를 만드는 일이다.",
+      "contextNote": "산지의 마지막 두 성읍을 기록한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:61",
+      "textSha256": "d4e36e1d9eada12527872d12d6c60501eaa18969b85d9bba724aa526e0726054",
+      "status": "exclude",
+      "reason": "광야의 벧아라바·밋딘·스가가를 나열한다. H013의 여행에 광야라는 어감만으로 실제 위험이나 떠날 근거를 더할 수 없다.",
+      "contextNote": "유다 광야 도시군을 시작한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:62",
+      "textSha256": "9fab6846d5788ed5ff01fc9a917a52f7c2ac63ffee3d337d67fad14b13fb9fed",
+      "status": "exclude",
+      "reason": "닙산·염성·엔게디와 여섯 성읍·촌락의 합계이다. A001의 공동 공간 갈등을 판단할 생활 크기·사용 조건은 없다.",
+      "contextNote": "유다 광야 도시군을 합계로 마친다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:15:63",
+      "textSha256": "a9d95b8b00c732269a9cc5f97b54e61645eb52170026cff9ba09c37deaa5ade0",
+      "status": "hold",
+      "reason": "A018에서 서로 다른 이들이 함께 거주하는 관점은 닿는다. 하지만 여부스인을 쫓아내지 못한 사실이지 환대를 선택한 장면은 아니어서 새 동료를 초대할 충분함을 보류한다.",
+      "contextNote": "예루살렘 여부스인의 잔존과 유다와의 동거를 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:16:1",
+      "textSha256": "b6d7a5b6f07e52b662629f9b475850098506bd76e25ecd71eee530de297883d3",
+      "status": "exclude",
+      "reason": "여리고 요단·광야·벧엘로 오르는 제비 땅의 경계이다. A020의 새 도시 기회에 현재 이주 조건을 이 경로로 정할 수 없다.",
+      "contextNote": "요셉 지파 기업의 경계를 시작한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:16:2",
+      "textSha256": "11e612fa2f868f318f13355ccbd6c08c11fb286820c9c687ec7e4f1935de15b1",
+      "status": "exclude",
+      "reason": "벧엘·루스·아렉·아다롯의 경로이다. H061의 고민을 이 방위나 지명으로 새 선택지로 바꿀 근거는 없다.",
+      "contextNote": "요셉 기업 경계를 서쪽으로 잇는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:16:3",
+      "textSha256": "8be8dc7ca12179e80d0b6c6760a9d9f2879ee04d14a508bece35111dfca8921e",
+      "status": "exclude",
+      "reason": "야블렛·아래벧호론·게셀·바다의 범위이다. H029의 관계 경계는 물리 지도 외 행동 규범이 없는 이 절에서 직접 판단하기 어렵다.",
+      "contextNote": "요셉 기업의 서쪽 경계를 끝낸다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:16:4",
+      "textSha256": "a3cf944ed59c5701eebea0cd758b4f1e655318fa8f01615c5dc0d5de445376ab",
+      "status": "hold",
+      "reason": "H040에서 남이 얻은 몫을 인정할 관점은 보인다. 그러나 두 지파가 기업을 받았다는 사실만 있어 비교를 내려놓고 축하할 직접 실마리는 약하다.",
+      "contextNote": "므낫세와 에브라임의 기업 수령을 요약한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:16:5",
+      "textSha256": "6d137cf77841882c8f95800dd98b1d0f43b216613e8e69b7c7c8ce550f6d97c3",
+      "status": "exclude",
+      "reason": "에브라임 가족의 아다롯앗달·윗벧호론 경계이다. A029의 역할별 장비 필요에 가족별 지리 외 기능 기준은 없다.",
+      "contextNote": "에브라임 지파의 경계를 시작한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:16:6",
+      "textSha256": "7158b1e34e27544a72e7011771cde603920f648e3fb9b27bb98ffd5511151755",
+      "status": "exclude",
+      "reason": "믹므다·다아낫실로·야노아의 경계 회전이다. H043의 방법 전환에 동서로 돌아간다는 지리 서술을 새 전략으로 바꾸려면 실제 목적을 지어내야 한다.",
+      "contextNote": "에브라임 북동부 경계를 이어 간다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:16:7",
+      "textSha256": "c49ee6886dee3b50f30215ec98d0e942ccf99b80ece9c31fb4590fb355041406",
+      "status": "exclude",
+      "reason": "야노아·아다롯·나아라·여리고·요단의 경계 경로이다. A020의 현재 도시 기회에 이 장소를 실제 이동 조건으로 대응할 수 없다.",
+      "contextNote": "에브라임 동쪽 경계를 강으로 잇는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:16:8",
+      "textSha256": "ea228438aa8494e58268f591e25996c27d4e6a1e315d5b8621a2076814db77dd",
+      "status": "exclude",
+      "reason": "답부아·가나 시내·바다의 경계와 가족별 기업 정리이다. A029의 장비에 지형 경계 외 실제 필요 기준이 없다.",
+      "contextNote": "에브라임 기업의 경계를 정리한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:16:9",
+      "textSha256": "d12e98fa483e25c73752a21cf7b3b4892400ce948cc83472825ceb8015ad36f4",
+      "status": "exclude",
+      "reason": "다른 지파 땅 안의 구별된 성읍이 있다는 소유 설명이다. A001의 공동 작업실을 나눌 때 서로의 실제 소유와 접근권을 이 지파 배치로 새로 정할 수 없다.",
+      "contextNote": "므낫세 영역 안 에브라임 성읍의 예외를 기록한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:16:10",
+      "textSha256": "82572ece0d529d8793eb8a83a34e8e7e76267a0dc465e50984d75a0eaa33f11f",
+      "status": "hold",
+      "reason": "A028에서 취약한 타인을 사역시키는 권력의 모습을 돌아볼 수 있다. 하지만 게셀 주민을 종으로 둔 사실을 기록할 뿐 가혹함 금지나 공정한 보수는 없어 충분함을 보류한다.",
+      "contextNote": "게셀 가나안인의 잔존과 종속 노동을 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:17:1",
+      "textSha256": "ffe749879d581411ef225e2da14473872f65c49669e87105eef99e7aad0f919b",
+      "status": "exclude",
+      "reason": "므낫세·마길·길르앗의 계보와 무사 마길의 땅 수령이다. H041의 능력 불안에 혈통과 이미 검증된 전투 능력을 현재 자격으로 채울 수 없다.",
+      "contextNote": "므낫세 기업을 장자 계보로 소개한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:17:2",
+      "textSha256": "05133b7ccb9c3bd8fb9f6d15538f6c3d6448467ae4c182fd5eed5231009e4937",
+      "status": "exclude",
+      "reason": "여섯 남계 가족과 제비의 목록이다. A029의 역할별 장비 필요는 이 가족명과 무작위 몫만으로 정할 수 없다.",
+      "contextNote": "므낫세 남계 가족들의 배분 대상을 열거한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:17:3",
+      "textSha256": "48ef3d11f097a39e653bd6735f710eec447c883048679a821f46f8f91bb07a38",
+      "status": "hold",
+      "reason": "A034에서 빠지기 쉬운 이름을 드러내는 관점은 있다. 그러나 슬로브핫의 계보와 다섯 딸 이름만 있고 그들의 주장·기업은 다음 절이 필요해 충분함을 보류한다.",
+      "contextNote": "아들 없이 딸들만 있던 슬로브핫 가족을 소개한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:17:4",
+      "textSha256": "088bc85b102098327389fd982e9bbc33e565ce27099589e83b77b0e91305e35e",
+      "status": "candidate",
+      "reason": "A034에서 실제 기여의 내 이름이 빠졌는데 요청할지에 이미 주기로 한 자기 몫을 지도자 앞에서 말해 인정받는 실마리가 정확히 닿는다. 딸들의 상속법을 현대 저작 권리나 승인 보장으로 옮기지 않는다.",
+      "contextNote": "딸들이 앞선 명령을 근거로 몫을 청해 기업을 받는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A034",
+          "clue": "이미 내게 돌아올 몫이 빠졌다면 조용히 넘기기보다 근거를 말해 요청할 수 있다.",
+          "friction": "슬로브핫 딸들의 신적 명령에 따른 상속이다. 현재 작업의 법적 권리나 승인 결과를 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOS:17:5",
+      "textSha256": "1199b42425a7500792b2a7116df952e7a7af04509920244b1d61013fa7210d17",
+      "status": "exclude",
+      "reason": "길르앗·바산 외 열 분깃이라는 집계이다. A021의 동일 노동 보상에서 이 열을 비율이나 금액으로 바꿀 근거는 없다.",
+      "contextNote": "므낫세 기업의 수효를 정리한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:17:6",
+      "textSha256": "1b8a8e7af7ee6d4151de4ddeb954770058cc0aeaf20f041cd4ffe1b673098b44",
+      "status": "candidate",
+      "reason": "A034에서 빠진 이름과 몫을 그대로 둘지에 여손도 남 자손 가운데 기업을 얻었다는 배제 없는 인정이 닿는다. 실제 성별 차별이나 같은 토지 권리를 현재 사례에 추가하지 않는다.",
+      "contextNote": "딸들의 수령으로 분깃이 늘어난 이유를 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A034",
+          "clue": "빠지기 쉬운 사람도 함께 몫과 이름을 인정받을 수 있다는 기준을 볼 수 있다.",
+          "friction": "딸들의 상속과 길르앗 배분이다. 현재 누락이 성별 차별이었다고 가정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOS:17:7",
+      "textSha256": "c3dd14ead939701d02b5b55ca8ccd6220cdd8f1a3160276bf0b1e0f8d7206a76",
+      "status": "exclude",
+      "reason": "아셀·세겜·믹므닷·엔답부아의 경계이다. H061의 고민에서 이 방위와 지명에 실제 선택의 장단점은 없다.",
+      "contextNote": "므낫세 경계 서술을 시작한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:17:8",
+      "textSha256": "901e3efb8002973a737c65c364b3f1e001c3ef2fd0a1e3e1cd34f4b76058a83b",
+      "status": "exclude",
+      "reason": "답부아 땅과 답부아 읍의 지파 소속을 구분한다. A001의 작업실을 나누는 기준은 실제 계약·소유가 필요하며 이 소속만으로 정할 수 없다.",
+      "contextNote": "같은 답부아 지역의 토지·읍 소속 차이를 밝힌다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:17:9",
+      "textSha256": "76a3f7aedf166c0b253fa499b23859bd48d9283309e464cdb3a344d3812064ca",
+      "status": "exclude",
+      "reason": "가나 시내 남북과 에브라임 성읍의 소속·바다 경계이다. H029의 개인 경계에 누구의 어떤 행동을 막을지의 규범은 없다.",
+      "contextNote": "두 지파 경계와 경내 성읍의 예외를 설명한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:17:10",
+      "textSha256": "2b18342c11da22cef1ce022c030d5d003936f2c9d61f783577acaab0c564166f",
+      "status": "exclude",
+      "reason": "에브라임·므낫세 남북과 아셀·잇사갈 접경이다. A029의 기능별 자원 필요를 단순 방위 배치로 채울 수 없다.",
+      "contextNote": "므낫세의 사방 접경을 요약한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:17:11",
+      "textSha256": "8353cd92029e4c2a079b881720be62931efe3b357ed1be956e266798e63bbffa",
+      "status": "exclude",
+      "reason": "벧스안·이블르암·돌·엔돌·다아낙·므깃도와 촌락의 소유 목록이다. A021의 공동 보상에 노동 기여나 공정 기준은 이 명단에 없다.",
+      "contextNote": "다른 지파 경내의 므낫세 소유들을 열거한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:17:12",
+      "textSha256": "f4390d88c0d5cd040561815b7a3496e067b97a846471416494c186c9055a4a2c",
+      "status": "hold",
+      "reason": "A018에서 다른 이와 함께 살아가는 현실은 보인다. 그러나 쫓아내지 못했고 거민이 버텼다는 기록으로 적극적 환대의 선택이나 안전을 보장하지 않아 충분함은 보류한다.",
+      "contextNote": "므낫세 영역의 가나안 잔존 이유를 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:17:13",
+      "textSha256": "0291f2884ee95a61d96fdca2997ebc6508da673d1b6002ea8c012f9c3eaff51c",
+      "status": "hold",
+      "reason": "A028에서 힘이 커졌을 때 상대를 이용하는 모습을 돌아볼 수는 있다. 하지만 부역을 시켰다는 사실뿐이므로 착취를 줄이라는 직접 기준으로 삼을 충분함은 불확실하다.",
+      "contextNote": "강성해진 뒤 주민을 사역시킨 사실을 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:17:14",
+      "textSha256": "91e38fc63a488035ea0c614040981b9b550ec04f6534ada14bd9f278cd9b45f2",
+      "status": "candidate",
+      "reason": "A001에서 공동 작업실의 규모가 커져 좁아졌는데 예전 한 공간을 유지할지에 커진 집단에 한 몫이 적절한지 말하는 실마리가 닿는다. 새 공간이나 자금이 확보되었다고 가정하지 않는다.",
+      "contextNote": "요셉 자손이 큰 인구에 비해 한 분깃뿐임을 문제 삼는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A001",
+          "clue": "공동체가 커진 만큼 예전의 한 공간이 충분한지 실제 필요를 말할 수 있다.",
+          "friction": "큰 민족과 한 토지 분깃의 질문이다. 현대 작업실의 임대료·추가 공간을 새로 확보해 주지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOS:17:15",
+      "textSha256": "c1b7dd9becad091fa6573658e829fe98ccfe2e7392475da84749c56e9a93b4ee",
+      "status": "candidate",
+      "reason": "A001에서 실제 비좁아진 공간을 그대로 견딜지에 좁다면 스스로 다른 공간을 개척하는 해결 방향이 닿는다. 삼림 정복을 현대의 무료 임대지나 확장 성공으로 바꾸지 않는다.",
+      "contextNote": "좁은 산지 대신 새 영역을 개척하라고 답한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A001",
+          "clue": "좁아진 조건을 인정하고 예전 방식 외의 공간 사용을 모색할 수 있다.",
+          "friction": "삼림과 다른 민족 땅의 개척이다. 현대 확장의 비용·가용성·성공을 보장하거나 타인의 공간을 침해하라는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOS:17:16",
+      "textSha256": "9c49cec6d3f99f7f472330e1359a56221cb7c510addf5047bac1577836ce703f",
+      "status": "hold",
+      "reason": "A001에서 현재 공간이 부족하고 다른 쪽에도 실제 부담이 있다는 양쪽 제약은 닿는다. 하지만 산지와 철병거의 군사 조건이라 다음 공간의 가격·가용성을 알려 줄 수 없어 충분함은 보류한다.",
+      "contextNote": "요셉 자손이 공간 부족과 철병거 위협을 함께 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:17:17",
+      "textSha256": "6a2ce8265c776b2e608dd1d61100549ea654066b1a979e08aecf82f7326fb4e6",
+      "status": "candidate",
+      "reason": "A029에서 모두 같은 한 몫을 주는 방식과 실제 규모에 맞추는 방식에 큰 집단은 한 몫만 가질 필요가 없다는 인정이 닿는다. 현대 역할별 수량이나 실제 추가 자원을 약속하지 않는다.",
+      "contextNote": "요셉 자손의 규모·능력을 인정하며 추가 몫의 가능성을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A029",
+          "clue": "모두에게 같은 한 몫이라는 형식보다 실제 규모가 요구하는 몫을 생각할 수 있다.",
+          "friction": "요셉 두 지파의 인구·능력에 따른 말이다. 현대 자원의 정확한 수나 확보를 약속하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOS:17:18",
+      "textSha256": "beaf8e3a28a4da4ad072b13d5a60ee5d183a078919f24eed39a91f269df25ad0",
+      "status": "candidate",
+      "reason": "H049에서 쉬운 역할과 어려운 배움 사이에 숲과 강한 장애가 있어도 개척해 보려는 도전이 닿는다. 철병거와 축출 약속을 현대 직무 능력이나 상대 제거 권리로 옮기지 않는다.",
+      "contextNote": "삼림 개척과 강한 거민 극복을 격려한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H049",
+          "clue": "어렵고 개척이 필요하다고 곧바로 피하기보다 도전할 배움을 생각할 수 있다.",
+          "friction": "철병거를 가진 거민 축출과 삼림 개척의 약속이다. 현재 직무 능력·성공·안전을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOS:18:1",
+      "textSha256": "8cd7066d0ac581bfadd9f51afb4a59329f5f31d63b9721ab8688c646fef5cfb2",
+      "status": "hold",
+      "reason": "A035에서 하나님 중심으로 모일 자리는 보이나 실로 회막 건립과 땅의 복종을 기록한 전환이다. 현재 더 조언을 구할지의 실마리는 간접적이다.",
+      "contextNote": "실로에 회막을 세우고 남은 배분을 준비한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:18:2",
+      "textSha256": "777ffd2a9695e3ae6c14a5ad9704fc2e8f48172b194527763b3b2e4fabf63366",
+      "status": "hold",
+      "reason": "H046에서 아직 몫을 못 받은 이들도 있다는 시선은 있다. 하지만 다음 절은 지체를 꾸짖으므로 현재 꾸준히 하는 계획을 무조건 기다리라는 근거로 읽을 수 없다.",
+      "contextNote": "일곱 지파의 기업 분배가 남았음을 밝힌다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:18:3",
+      "textSha256": "fba35011bc83a3b4da5dd42531d220312849c092886f3a82d1075919b86a0ffd",
+      "status": "candidate",
+      "reason": "H050에서 오늘 마감인데 완벽히 준비될 다음을 기다릴지에 언제까지 지체하겠느냐는 실행의 질문이 닿는다. 제출 요건 미충족도 통과한다거나 다음 기회가 없다고 확정하지 않는다.",
+      "contextNote": "주어진 땅을 취하는 일을 더 지체하지 말게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H050",
+          "clue": "완벽한 다음만 기다리며 실제 오늘의 실행을 계속 미루는지 돌아볼 수 있다.",
+          "friction": "이미 주어진 기업 취득의 지체를 묻는다. 실제 제출 요건·남은 시간·합격·다음 기회를 새로 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOS:18:4",
+      "textSha256": "c5ab22a6903ea4fec8593371a76bfb18173b5b36fe058f21a87c6ddc03f13f46",
+      "status": "candidate",
+      "reason": "A009에서 조사·정리까지 혼자 맡을지에 지파별 담당자를 골라 실제 조사와 기록을 맡기는 구체 분담이 닿는다. 현대 팀을 세 명씩 강제 편성하거나 실제 능력을 새로 만들지 않는다.",
+      "contextNote": "대표들을 보내 기업에 맞게 땅을 조사·도식화하게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A009",
+          "clue": "현장 조사와 기록도 맡을 사람을 정해 나누어 할 수 있다.",
+          "friction": "지파별 세 사람의 토지 조사다. 현대 팀의 수효나 성역할을 같은 규칙으로 만들지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOS:18:5",
+      "textSha256": "7f93cb350c809201b3d96d09b39acec572d449b622be31b31816cb3150fa5567",
+      "status": "hold",
+      "reason": "A029에서 이미 받은 범위를 보존하며 남은 몫을 나누는 관점은 있다. 그러나 칠분과 두 지파 남북 경계의 특정 배치라 기능별 장비 필요의 충분한 기준은 아니다.",
+      "contextNote": "남은 땅의 일곱 분할과 기존 지파 영역을 구분한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:18:6",
+      "textSha256": "44bab7f430cf47f469e1667d8496ba0e4b21366ee851d0581b43ee9b445c3e62",
+      "status": "hold",
+      "reason": "H061에서 정보를 갖춘 뒤 결정을 맡기는 관점은 읽힌다. 다만 땅의 칠분과 하나님 앞 제비의 특수 절차여서 지금 모든 개인 선택에 무작위가 정답이라는 방식으로 일반화할 수 없어 보류한다.",
+      "contextNote": "조사된 칠분을 가져오면 제비로 분배할 것을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:18:7",
+      "textSha256": "077f6f6140972f1b5ae7b7831236c78a7147aa14110bcb4741607a6b987ae41b",
+      "status": "candidate",
+      "reason": "H047에서 수입만으로 새 역할의 가치를 재단할지에 직분 자체도 기업이라는 다른 가치가 닿는다. 제사장과 동편 지파의 특수 몫을 현재 줄 수입의 보충이나 신적 직업 지명으로 바꾸지 않는다.",
+      "contextNote": "레위 직분과 이미 받은 동편 지파의 몫을 남은 배분에서 구별한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H047",
+          "clue": "역할이 주는 가치 자체도 돈과 따로 살펴볼 수 있다.",
+          "friction": "레위 제사장 직분의 특별 기업과 동편 지파 수령이다. 줄 수입·생활비를 자동 해결하거나 현대 일의 신적 소명을 선언하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOS:18:8",
+      "textSha256": "58f73254fa4a604453c814cb8f648fc4a22b4f0cb5e02f148eef047e4a8a8a0c",
+      "status": "candidate",
+      "reason": "H003에서 권유만 듣고 정할지 실제 필요·조건을 더 볼지에 두루 다니며 구체적으로 기록해 돌아오는 사전 확인이 닿는다. 제비와 실로의 배분을 현재 구매 정답의 추첨으로 삼지 않는다.",
+      "contextNote": "조사자에게 현장을 보고 기록해 돌아오게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H003",
+          "clue": "결정 전에 실제 조건을 살피고 정리하는 확인 과정을 둘 수 있다.",
+          "friction": "현장 토지 조사 뒤 제비 배분이다. 현재 제품 필요나 구매 결과를 기계적으로 추첨해 정하라는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOS:18:9",
+      "textSha256": "46b4c29e378f86473a1ea24c5675ed1c8784bd04145c9220260fd04034eb4244",
+      "status": "candidate",
+      "reason": "H003에서 권유만 따라 살지에 실제로 두루 살피고 구분해 기록한 후 돌아오는 조사 과정이 닿는다. 토지 칠분의 실측을 현재 제품의 장단점이 이미 확인되었다는 결과로 바꾸지 않는다.",
+      "contextNote": "조사자들이 현장을 보고 책에 정리해 돌아온다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H003",
+          "clue": "말만 듣기보다 실제 조건을 살펴 정리하는 확인 과정을 둘 수 있다.",
+          "friction": "일곱 부분의 토지 조사 보고다. 현재 기기 필요·성능이 이미 판명났다고 가정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOS:18:10",
+      "textSha256": "351b7f2f1d9c03c6edf2bca778328ac0fa68af56158f49ecb0b1a7f111e5a483",
+      "status": "hold",
+      "reason": "H061에서 정보를 갖춘 뒤 결정을 내리는 관점은 가능하다. 하지만 하나님 앞의 지파별 제비 배분이며 현재 개인 선택의 정답을 무작위가 알려 준다는 근거로 일반화할 수 없어 보류한다.",
+      "contextNote": "실로에서 조사된 땅을 제비로 분배한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:18:11",
+      "textSha256": "41926fa38be273ef716d4c2c5b23263e0c377314ee838b536f4215772f24987c",
+      "status": "hold",
+      "reason": "A029에서 집단 단위 배분은 보이나 베냐민의 가족 제비와 두 지파 사이 경계이다. 실제 역할 필요의 차이나 수량 적절성을 이 절이 설명하지 않아 충분함은 불확실하다.",
+      "contextNote": "베냐민 기업의 위치를 소개한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:18:12",
+      "textSha256": "d367025094d44ea02cd2ecee6e8cffd9ce8d750048cd64043cfaeb431577a680",
+      "status": "exclude",
+      "reason": "요단·여리고 북편·서편 산지·벧아웬 황무지의 경계이다. A020의 현재 도시 기회에 이 지형을 실제 주거 조건으로 넣을 수 없다.",
+      "contextNote": "베냐민 북쪽 경계를 시작한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:18:13",
+      "textSha256": "ce4d0dd91ad42d5afed77198cb8962d92ab5f2c40c83267ef009de563e412794",
+      "status": "exclude",
+      "reason": "루스 곧 벧엘·아다롯앗달·아래벧호론 남편 산의 경로이다. H013의 여행 고민에 이 지리의 이름을 안전·일정의 근거로 만들 수 없다.",
+      "contextNote": "베냐민 북쪽 경계를 서쪽으로 잇는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:18:14",
+      "textSha256": "02f19f82516cde258f4caf826064d68075291a0a1f71c9a0f2d2b8eb5e10bd8d",
+      "status": "exclude",
+      "reason": "벧호론에서 기럇바알 곧 기럇여아림까지 서쪽 경계이다. H029의 관계 선을 지킬 행동은 이 지리 서술에 없다.",
+      "contextNote": "베냐민 서쪽 경계를 정리한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:18:15",
+      "textSha256": "a95ec172f95127dddb4be9ec0717ec47157f3a69350e0fc5ea58a41e9a337a3d",
+      "status": "exclude",
+      "reason": "기럇여아림 끝과 넵도아 물 근원의 경로이다. H033의 도움 요청에 샘의 지명이 물을 청하라는 행동을 뜻하지 않는다.",
+      "contextNote": "베냐민 남쪽 경계를 시작한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:18:16",
+      "textSha256": "f4c86972bfbe266ba70152f9304e7a3f4dbd191ba5ea4e238f1c4d7130a9141e",
+      "status": "exclude",
+      "reason": "르바임·힌놈 골짜기·여부스·엔로겔을 지나는 경계이다. H043의 방법을 바꾸는 선택에 내려간다는 지리 동작 외 실제 전략은 없다.",
+      "contextNote": "베냐민 남쪽 경계를 골짜기로 잇는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:18:17",
+      "textSha256": "03df1da6c7a89c4700a42233aaec6fce156a9023ec47c2d5e9ac94a784d1316d",
+      "status": "exclude",
+      "reason": "엔세메스·글릴롯·보한의 돌로 이어지는 경로이다. A014의 위험 대비에 돌이 실제 보호 장치나 현재 예보를 뜻하지 않는다.",
+      "contextNote": "베냐민 남쪽 경계의 표지들을 열거한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:18:18",
+      "textSha256": "b5e62bd1d2dd56e1512bdf1b14ad36b16733f909439d816a4b197eead7cc49b9",
+      "status": "exclude",
+      "reason": "아라바 맞은편을 지나 내려가는 경계 단편이다. H046의 속도를 조절할 시점이나 이유로 북쪽·내려감의 말을 대응할 수 없다.",
+      "contextNote": "남쪽 경계가 아라바로 이어짐을 기록한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:18:19",
+      "textSha256": "551f06ed8bdbf4f1366983f448451dd4948a49700128080b7ca2720011ed839e",
+      "status": "exclude",
+      "reason": "벧호글라와 요단·염해 북편 해만의 경계 끝이다. H061의 어떤 선택이 옳은지 지리 끝이라는 말만으로 알려 주지 않는다.",
+      "contextNote": "베냐민 남쪽 경계의 종점을 밝힌다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:18:20",
+      "textSha256": "913d6ff65b11551bc813bc1e91993a02161476c26755c8a68fe772fc87a1edb6",
+      "status": "exclude",
+      "reason": "동쪽 요단과 가족별 사면 경계를 정리한다. A001의 공동 작업실 소유·분리에는 실제 공간·약정이 필요하며 이 강 경계로 정할 수 없다.",
+      "contextNote": "베냐민 기업의 경계 서술을 마친다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:18:21",
+      "textSha256": "09adce167e187240396c1f36dd89469788a97f8f787d2a4f6d4568ef50dd726e",
+      "status": "exclude",
+      "reason": "여리고·벧호글라·에멕그시스의 성읍 명단이다. A029의 장비가 얼마나 필요한지의 실제 기능이 없다.",
+      "contextNote": "베냐민 성읍 목록을 시작한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:18:22",
+      "textSha256": "a804b2bf50220319e06ecd39025e77c7df0cd13cc23428db8e23c892956767df",
+      "status": "exclude",
+      "reason": "벧아라바·스마라임·벧엘을 나열한다. H003의 물건 필요 검토에 확인할 효용이나 조건은 없다.",
+      "contextNote": "첫 베냐민 도시군을 잇는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:18:23",
+      "textSha256": "6bb9ca78a5a7ead0be36a1c0a7b6ad61674ebdcc72c228b61fe4240caef78b97",
+      "status": "exclude",
+      "reason": "아윔·바라·오브라의 고유명사 병렬이다. H061의 양쪽 부담을 이 세 지명에 대응하면 없는 선택지를 만들게 된다.",
+      "contextNote": "베냐민 성읍을 열거한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:18:24",
+      "textSha256": "737e7014e6c1d9890b017c83292e53ed3e7b40686c20fdbefa53d6c1a05e7757",
+      "status": "exclude",
+      "reason": "그발암모니·오브니·게바와 십이 성읍의 집계이다. A021의 보상 비율을 도시 수로 정할 근거가 없다.",
+      "contextNote": "첫 베냐민 도시군을 집계한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:18:25",
+      "textSha256": "cd72f60fc0a87a0d078e31a51db80bf0c83548b86da310cb349be63dfdfda070",
+      "status": "exclude",
+      "reason": "기브온·라마·브에롯 목록이다. H039의 비밀 약속에 기브온의 앞선 역사를 추가해야 하고 본절에는 행위 기준이 없다.",
+      "contextNote": "두 번째 베냐민 도시군을 연다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:18:26",
+      "textSha256": "ee679c8693a8991c0ed3fb57f36d126cc831fc5f427744fb878a3981c1e28ac8",
+      "status": "exclude",
+      "reason": "미스베·그비라·모사의 세 지명이다. H037의 동료 태도에 사실을 묻거나 확인할 내용은 없다.",
+      "contextNote": "베냐민 성읍 목록을 잇는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:18:27",
+      "textSha256": "c33ea7a5494d92c72813a19dc2c6cfbd2912a756e93e5416fcb40eb1d12730af",
+      "status": "exclude",
+      "reason": "레겜·이르브엘·다랄라의 나열이다. H051의 조언을 구할지에 경험자나 대화의 단서는 없다.",
+      "contextNote": "베냐민 성읍들을 더 기록한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:18:28",
+      "textSha256": "310c391961bbb2f65c567f055ae36f488388e97d67992db2bf2d29967a8be069",
+      "status": "exclude",
+      "reason": "셀라·엘렙·여부스 곧 예루살렘·기부앗·기럇과 십사 성읍이다. A029의 적정 몫은 이 고유명사와 가족별 집계만으로 판단할 수 없다.",
+      "contextNote": "베냐민 성읍과 기업 목록을 마무리한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:19:1",
+      "textSha256": "363a35a1d634df408448e9cb67dcfd7f7c42131227b4406f6e12ebcfe188c287",
+      "status": "hold",
+      "reason": "A029에서 공동 자원 안 다른 단위의 몫을 줄 수 있다는 관점은 보인다. 하지만 둘째 제비와 유다 안의 시므온 위치만 있고 필요의 이유는 뒤 절에 있어 단독 충분함을 보류한다.",
+      "contextNote": "유다 안에 주어진 시므온 기업을 도입한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:19:2",
+      "textSha256": "e0eab4f9c22a6aec0f79d8d08c30c348f3246f38954b6b7b9668686d720b0647",
+      "status": "exclude",
+      "reason": "브엘세바 곧 세바와 몰라다의 명단이다. H059의 도울 여력이나 대상의 필요는 이 이름들에 제시되지 않는다.",
+      "contextNote": "시므온 성읍 목록을 시작한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:19:3",
+      "textSha256": "77e042789855bbe5319062d1b1c5c3a0ed9f8791abee72440752eef06926b5c4",
+      "status": "exclude",
+      "reason": "하살수알·발라·에셈의 목록이다. A020의 실제 이동에 이 세 도시를 현 주거 선택으로 바꿀 근거가 없다.",
+      "contextNote": "시므온 성읍을 열거한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:19:4",
+      "textSha256": "00983ab36b34988d0af1508d265fd3109e50ae707130be36bb2dd73562b979a9",
+      "status": "exclude",
+      "reason": "엘돌랏·브둘·호르마의 나열이다. H043의 방법 변경을 도울 실패 이유·다른 행동은 없다.",
+      "contextNote": "시므온 성읍 목록을 잇는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:19:5",
+      "textSha256": "06c052edd4ea50ab62253139de416ae4de3d5cc7210b32eae1c0bcce69898449",
+      "status": "exclude",
+      "reason": "시글락·벧말가봇·하살수사의 이름이다. H049의 어려운 역할을 택할 실제 부담이나 배움 조건은 제시되지 않는다.",
+      "contextNote": "시므온 기업의 성읍을 더 기록한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:19:6",
+      "textSha256": "0aaffd9f7556e7e7a0f0f176a3ddfc5f88249d79dc5a63ba51eea19d003d0e99",
+      "status": "exclude",
+      "reason": "벧르바옷·사루헨과 십삼 성읍의 합계이다. A021의 공동 성과를 십삼이라는 수로 나누는 것은 입력 밖 계산이 된다.",
+      "contextNote": "시므온의 첫 도시군을 집계한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:19:7",
+      "textSha256": "00e5e7d1db77c5e4a30f90e438ed5b702bfd7f55d3540932b8dbb47db07b0ecf",
+      "status": "exclude",
+      "reason": "아인·림몬·에델·아산 네 도시와 촌락이다. A029의 역할별 장비 수량에 네 도시라는 집계가 필요의 증거는 아니다.",
+      "contextNote": "시므온의 별도 네 성읍을 기록한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:19:8",
+      "textSha256": "8808910237689e1b48ead7a9506537a0f0ea0d3449776fbe9bb4b05aada6d4fc",
+      "status": "exclude",
+      "reason": "남방 라마 곧 바알랏브엘과 주변 촌락의 목록이다. H033의 도움 요청에 지명 속 뜻을 실제 도움 자원으로 바꾸지 않으면 행동 단서는 없다.",
+      "contextNote": "시므온의 가족별 기업 목록을 끝낸다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JOS:19:9",
+      "textSha256": "bd7aee7b6220b060ffb00bd105810e20dfb999265d6c7d979495899864015120",
+      "status": "candidate",
+      "reason": "A029에서 형식상 같은 몫을 주기보다 과다한 곳의 자원을 필요한 몫으로 돌리는 기준이 명확하다. 실제 각 역할의 기능·수량은 별도이며 H059의 여유 나눔에도 구체 실마리가 된다.",
+      "contextNote": "유다에게 너무 많은 몫을 시므온 기업으로 나눈 이유를 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A029",
+          "clue": "똑같이 정한 몫이 실제 한쪽에는 너무 많다면 필요한 쪽으로 조정할 수 있다.",
+          "friction": "유다 안 시므온의 토지 배분이다. 현대 장비의 정확한 수나 특정 동료의 초과 몫을 새로 정하지 않는다.",
+          "expectedEnough": "yes"
+        },
+        {
+          "scenarioId": "H059",
+          "clue": "내게 넉넉히 남는 몫을 다른 이가 쓸 몫으로 돌릴 수 있다.",
+          "friction": "지파 사이 기업 조정이다. 실제 생활비가 부족한 사람의 몫을 빼앗거나 무제한 나눔을 강요하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JOS:19:10",
+      "textSha256": "de05bf8f77fc46cb4449b469b81981bdf9b404c7eb7da75c9d8bb7899742602a",
+      "status": "exclude",
+      "reason": "세 번째 스불론 가족 제비와 사릿의 경계 시작이다. H061의 개인 고민을 제비로 끝내야 한다는 보편 방법으로 만들 수 없고 생활 조건도 없다.",
+      "contextNote": "스불론 기업의 경계 서술을 시작한다.",
+      "readability": "needs_explanation",
+      "connections": []
     }
   ]
 }

@@ -7793,6 +7793,952 @@
           "expectedEnough": "yes"
         }
       ]
+    },
+    {
+      "id": "KRV:PRO:18:10",
+      "textSha256": "5a3edf16cc1237d206d6aea72b286d33b208f25951aa85d6fefcb09b206b3939",
+      "status": "candidate",
+      "reason": "도움받을 곳으로 달려가는 행동을 강함으로 보아 지친 채 혼자 버티는 부담을 낮춘다.",
+      "contextNote": "주의 이름을 안전한 망대로 비유한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "나를 도울 자리를 향해 움직이는 것도 강한 선택으로 본다.",
+          "friction": "안전의 기대를 특정 사람의 수락이나 문제 해결 보증으로 바꾸지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:18:11",
+      "textSha256": "ccfab639f1c3c27eb4c4920c15ffa381d2c9d62aed68a346471cf8bc7af982a8",
+      "status": "hold",
+      "reason": "재산의 방어력을 생각하게 하나 부자가 높게 여기는 성벽의 관찰을 실제 생활비의 보장이나 궁극 안전으로 바꿀 수 없다.",
+      "contextNote": "앞의 주의 망대와 재산을 성벽으로 여김을 나란히 놓는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G02",
+          "clue": "생활을 버틸 자원의 중요성은 생각할 수 있다.",
+          "friction": "부자의 여김은 실제 예산 부족과 다르고 돈이 모든 안전을 보장한다는 기준도 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:18:12",
+      "textSha256": "7626419127dc77ddc4c2e1e0af3ecef1ff1756cd68b88317d81d77f9dcbfe7be",
+      "status": "candidate",
+      "reason": "겸손이 존귀보다 먼저라는 말이 질문의 부끄러움을 새로운 관점으로 보게 한다.",
+      "contextNote": "교만과 겸손의 다른 귀결을 대조한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "겸손히 묻는 행동을 체면의 상실만으로 보지 않는다.",
+          "friction": "질문 후 칭찬이나 지위 상승을 예고하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:18:13",
+      "textSha256": "8c38534a396eec4fdb760586f13a76fe13e7fadbb802071c3140db9d501ef09c",
+      "status": "candidate",
+      "reason": "사연을 듣기 전에 답하지 않는 기준이 소문만으로 친구를 판단할지에 바로 닿는다.",
+      "contextNote": "먼저 들음의 필요를 대답의 순서로 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "친구의 설명도 듣기 전 소문에 답을 내리지 않는다.",
+          "friction": "소문이 거짓인지 참인지는 미정으로 남긴다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:18:14",
+      "textSha256": "800b74cdcb42a42790adfe66734bd3e1024167c6f6e6e50b24dfef19c7bda56d",
+      "status": "candidate",
+      "reason": "상한 심령을 누가 일으킬지 묻는 말이 마음의 지침도 혼자 참을 작은 일이 아니라는 실마리를 준다.",
+      "contextNote": "몸의 병을 견디는 마음과 마음 자체의 상함을 비교한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "마음이 상한 내 필요를 감추지 않고 도움받을 자리를 찾을 수 있다.",
+          "friction": "병의 원인을 의지 부족으로 진단하거나 마음가짐으로 치료를 대체한다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:18:15",
+      "textSha256": "045c7d7c9c312a4103707b966b5e13a07635aa2ae65f90d41f0e6c612cdda657",
+      "status": "candidate",
+      "reason": "마음과 귀가 지식을 구하는 태도를 귀하게 말해 조언을 청할 선택에 닿는다.",
+      "contextNote": "명철한 마음과 지혜로운 귀의 배움을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "모르는 것을 구하는 귀도 지혜로운 태도로 볼 수 있다.",
+          "friction": "선배가 반드시 옳은 답을 준다는 보증은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:18:16",
+      "textSha256": "db6e166d7b243f69a69dffd92a88f4389bdff1672e40afaa83d1a91205329441",
+      "status": "hold",
+      "reason": "선물의 관계 효과는 있으나 존귀한 이에게 나아가는 목적이 현재 친구 선물의 가격 부담과 같지는 않다.",
+      "contextNote": "선물이 접근의 길을 여는 사회적 효과를 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H007",
+          "clue": "선물의 관계적 의미는 생각할 수 있다.",
+          "friction": "존귀한 사람에게 접근하는 효과는 현재의 작은 선물과 큰 선물 선택의 근거가 되기 어렵다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:18:17",
+      "textSha256": "d3d8d35a47cbb436dc38c52e13c84e2e217644d9f462a0836c1a03ef11e74ee7",
+      "status": "candidate",
+      "reason": "처음 들은 말과 반대편의 설명을 나누는 장면이 확인 안 된 소문의 판단에 직접 닿는다.",
+      "contextNote": "송사에서 양쪽을 듣는 분별을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "먼저 들은 말만으로 옳고 그름을 고정하지 않고 직접 들어볼 수 있다.",
+          "friction": "실제 법적 송사가 있다는 사실이나 친구의 무고함을 새로 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:18:18",
+      "textSha256": "4cadc33da162bea65cf3d8f16639d9c064eab2946b293aaf29208412ad36b913",
+      "status": "candidate",
+      "reason": "사람의 힘겨루기 대신 추첨으로 차례를 정할 수 있다는 구체 수단이 같은 자격의 순서 결정에 닿는다.",
+      "contextNote": "제비가 강한 사람들 사이의 다툼을 풀 수 있음을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B007",
+          "clue": "누구의 영향력이 큰지보다 같은 절차의 추첨을 둘 수 있다.",
+          "friction": "현재 참여자들이 실제 싸우고 있다는 사실이나 추첨 결과가 언제나 최선이라는 규칙은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:18:19",
+      "textSha256": "2b846f2d56ebeb6af9df4a61756cf94ebb0d40aeae77635c2aee117852dab260",
+      "status": "hold",
+      "reason": "상한 관계의 회복이 어렵다는 현실은 인정하지만 이미 망설이는 사과에 무엇을 더 할지의 단서는 약하다.",
+      "contextNote": "화목의 어려움을 성과 산성의 문빗장에 비유한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G10",
+          "clue": "화해가 어려울 수도 있음을 미리 받아들일 여지는 있다.",
+          "friction": "친구의 현재 마음이 닫혔다고 보증하지 않으며 어려움의 묘사만으로 첫 행동이 선명하지는 않다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:18:20",
+      "textSha256": "ed1488d36ad485f16625cc33b5e9950dfb088d94641bbbce88b8d7566a5dfc92",
+      "status": "candidate",
+      "reason": "말의 열매도 실제 누리는 몫이라는 말이 서운함을 건넬 표현을 정성 들여 고를 가치를 준다.",
+      "contextNote": "입의 열매와 만족의 관계를 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H026",
+          "clue": "내 마음을 전할 말도 나와 관계를 만드는 실제 몫으로 본다.",
+          "friction": "말하면 원한 반응을 얻는다는 보증은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:18:21",
+      "textSha256": "f6b6dc357b430077db47bb1f9d47f853da516a83991a2e09cc5313595afe4149",
+      "status": "candidate",
+      "reason": "말이 남기는 무게를 생명과 죽음으로 강조해 화난 문장을 바로 보내기 전에 살필 실마리를 준다.",
+      "contextNote": "혀의 권세와 그 열매의 책임을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "현재의 말이 남길 영향까지 보고 전송을 멈출 수 있다.",
+          "friction": "실제 죽음이나 돌이킬 수 없는 파탄을 예고하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:18:22",
+      "textSha256": "5d8acf8d452440f0ccecd088a720c62d201ab7f27b744451ce7e704c0ef88561",
+      "status": "candidate",
+      "reason": "배우자를 단지 익숙한 존재보다 받은 복으로 보는 시선이 새 매력과 현재 가정 사이에 멈춤을 준다.",
+      "contextNote": "아내를 얻는 관계를 복과 은총으로 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B019",
+          "clue": "지금의 배우자와 가정도 귀히 받은 몫으로 다시 본다.",
+          "friction": "원문의 아내라는 방향을 사용자의 성별 가정이나 혼인 유지의 절대 의무로 넓히지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:18:23",
+      "textSha256": "069a818fd89d24153fb9351719ec0168faaca66c1a9d740d0a06dc1e1309a3a1",
+      "status": "candidate",
+      "reason": "자원이 적은 이의 간절함과 가진 이의 엄격한 답을 대비해 도움의 조건이 상대에게 어떤 말이 될지 돌아보게 한다.",
+      "contextNote": "가난한 요청과 부유한 응답의 비대칭을 관찰한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B009",
+          "clue": "급히 필요한 친구에게 내가 내미는 이자 조건의 무게를 생각한다.",
+          "friction": "엄한 응답이라는 관찰을 모든 이자에 대한 법적 판정이나 친구의 실제 반응으로 바꾸지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:18:24",
+      "textSha256": "43d78c798660412aa3b93da52a1505865a093a611da4c416ec33c36cc5aa36e0",
+      "status": "candidate",
+      "reason": "친구 수나 명목보다 실제 친밀함을 나누어 반복 침해 관계를 모두 유지해야 하는 부담을 낮춘다.",
+      "contextNote": "많은 친구와 깊이 가까운 친구를 대조한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H029",
+          "clue": "친구라는 이름만으로 같은 친밀함을 유지할 의무는 없다고 본다.",
+          "friction": "대신할 더 좋은 친구가 실제 있다는 사실이나 현재 친구의 악의를 만들지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:19:1",
+      "textSha256": "47dbbdcc9a817033b528b4b7aea3abe8437b86543163b3284cd55030c67027d4",
+      "status": "candidate",
+      "reason": "가난해도 성실한 삶을 뒤틀린 말보다 귀히 보아 소득이 적은 정직한 역할을 고려하게 한다.",
+      "contextNote": "성실한 가난과 패려한 입의 미련함을 비교한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B016",
+          "clue": "적은 소득이더라도 사실대로 일하는 몫의 가치를 본다.",
+          "friction": "두 제안의 모든 미래 성과나 사람의 선악을 대신 판정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:19:2",
+      "textSha256": "55bb00523ee2117d95b53154d73067cda401c94cd9c486385a2e2e70b3a90391",
+      "status": "candidate",
+      "reason": "알지 못한 채 원하는 마음과 빠른 발의 위험이 오늘 할인 때문에 급히 살지에 직접 닿는다.",
+      "contextNote": "지식 없는 소원과 조급한 실행을 경계한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G03",
+          "clue": "마감의 자극에 발을 급히 옮기기보다 내가 쓸지 알아볼 수 있다.",
+          "friction": "이미 원했고 사용과 여력이 분명한 G01과 구별한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:19:3",
+      "textSha256": "80c1f2c1ef3e8f03f6ed2494b26a0629881209270c7940a3944f43c9b05616ff",
+      "status": "hold",
+      "reason": "자기 방식의 원인을 돌아볼 여지는 있지만 길을 망치고 주를 원망한다는 태도는 반복 실패 입력에 없다.",
+      "contextNote": "미련한 행동 뒤 책임을 주께 돌리는 모습을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H043",
+          "clue": "같은 방식의 문제를 내 행동에서 살필 여지는 있다.",
+          "friction": "실패 원인이 미련함이며 사용자가 신을 원망한다는 진단을 더할 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:19:4",
+      "textSha256": "b7e284b0aae8b00aaf83645d604646e4a300a525c31a72db6d4007bbfd2d52cc",
+      "status": "hold",
+      "reason": "관계가 재물에 좌우될 수 있다는 관찰은 있으나 현재의 소외가 경제 여건 때문이라는 사실은 알 수 없다.",
+      "contextNote": "재물과 친구 수 및 빈곤의 단절을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H035",
+          "clue": "관계의 이해관계를 생각할 수 있다.",
+          "friction": "모임이 나를 경제적으로 평가했다는 정보는 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:19:5",
+      "textSha256": "60e700c248b9fdaaff8fdb3e0bdd88308e787cd42eb85146d488e18105a49033",
+      "status": "candidate",
+      "reason": "거짓말을 유리한 기술로만 보지 않게 하여 평가를 위해 내용을 꾸밀지에 닿는다.",
+      "contextNote": "거짓 증언과 거짓말의 벌을 경고한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "유리한 꾸밈에도 책임이 있음을 본다.",
+          "friction": "평가자의 적발 시점이나 실제 처벌을 예고하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:19:6",
+      "textSha256": "4cbe557a6456c5b7a9da514187935b9aa20c97a9bd8f1959891f030c2b4b9285",
+      "status": "hold",
+      "reason": "너그러움의 관계 효과는 읽히나 선물로 친구를 얻는 관찰을 더 비싼 선물의 필요로 바꿀 근거는 없다.",
+      "contextNote": "베푸는 이에게 몰리는 요청과 친구를 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H007",
+          "clue": "베푸는 일과 관계의 연결은 보인다.",
+          "friction": "더 비싸게 주면 좋은 친구가 된다는 반응은 알 수 없고 친구가 비싼 것을 원한 적도 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:19:7",
+      "textSha256": "8e104d8ef34c21b8b0cbd2259b84a35c5a0093e6915bc2b8f3eaf7c8c27b3353",
+      "status": "hold",
+      "reason": "도움 청할 두려움을 표현하나 가난으로 가족과 친구가 실제 떠난 상황을 현재 요청의 응답으로 예측할 수 없다.",
+      "contextNote": "가난한 이의 사회적 고립을 길게 관찰한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "도움을 청할 때 느끼는 외로움은 표현된다.",
+          "friction": "사용자의 가난과 가족의 실제 거절 및 친구의 부재는 입력에 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:19:8",
+      "textSha256": "203aa0176cad2773c3da7b24eb240e9b559264ae422509d2b28b3dd4ea4a5290",
+      "status": "candidate",
+      "reason": "배움을 자기 영혼을 사랑하는 행동으로 보아 조언을 구하는 일을 낮은 체면으로만 느끼지 않게 한다.",
+      "contextNote": "지혜 획득과 명철 보존의 자기 유익을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "질문으로 배우는 것도 나를 귀히 돌보는 일로 본다.",
+          "friction": "조언의 무오함이나 보상을 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:19:9",
+      "textSha256": "2603acd5a3088ad160514576b7babc21bbe80f9920548036e7266b5c1c481268",
+      "status": "candidate",
+      "reason": "말의 거짓이 남길 책임을 분명히 하여 좋은 평가를 위한 과장을 다시 보게 한다.",
+      "contextNote": "거짓 증언과 거짓말의 결말을 다시 경고한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "내용의 유리함보다 진실과 책임을 기준에 둔다.",
+          "friction": "거짓을 고민한 사용자의 인격이나 실제 처벌을 확정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:19:10",
+      "textSha256": "d3cf334031958096c207ee350f6409a7f752d41de2bd8e7205cc58e7d5870400",
+      "status": "hold",
+      "reason": "사치의 적절성은 돌아보게 하나 원하는 물건을 살 여력이 있다는 사실만으로 미련함과 부적절한 신분을 부여할 수 없다.",
+      "contextNote": "미련한 사치와 종이 방백을 다스림의 부조화를 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H009",
+          "clue": "누림과 사치의 관계를 돌아볼 수 있다.",
+          "friction": "현재 사용자가 미련하거나 소유에 합당하지 않은 신분이라는 정보는 없고 후반의 계층 판단도 연결되지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:19:11",
+      "textSha256": "16085e562f7c1f8431b0bb4762cae56bd4d8067ec2f2e282c04b304e40ce7db6",
+      "status": "candidate",
+      "reason": "화를 늦추고 작은 허물을 용서하는 것도 자신의 영광이라는 말이 다시 따질지에 닿는다.",
+      "contextNote": "분노의 지연과 용서의 슬기를 연결한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H028",
+          "clue": "작은 실수를 다시 다투지 않고 덮을 여지를 본다.",
+          "friction": "이미 반복된 H029의 경계 문제를 무조건 용서로 대체하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:19:12",
+      "textSha256": "044e967a0e6b3b4a39022a65698f844803691ea1aa50ef6eb48aad790ea79318",
+      "status": "hold",
+      "reason": "호의와 분노의 차이는 크지만 사자 같은 왕의 노여움은 현재 친구에게 서운함을 전하는 조건과 다르다.",
+      "contextNote": "왕의 노와 은택을 사자와 이슬로 비유한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H026",
+          "clue": "말이 반응에 주는 차이는 생각할 수 있다.",
+          "friction": "왕의 권력과 분노를 친구의 실제 태도로 만들면 입력을 넘는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:19:13",
+      "textSha256": "efe513537d21483f127e0f1405310590833183935eebad375562a618ab71c603",
+      "status": "hold",
+      "reason": "가족의 말과 행동이 집에 주는 비용은 있지만 아이와 놀 시간을 고르는 상황에 미련한 아들과 다투는 아내를 붙일 수 없다.",
+      "contextNote": "가족의 미련함과 다툼의 지속적인 아픔을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B017",
+          "clue": "가족과 지내는 태도의 중요성은 읽힌다.",
+          "friction": "함께 놀자고 한 아이가 미련하거나 다른 배우자가 다툰다는 사실은 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:19:14",
+      "textSha256": "37c3e68b3d9ee5b8a13d2c3aa0930d369cc4857809169a9f1c8076d4a53a8f3a",
+      "status": "candidate",
+      "reason": "사람과 관계의 귀함을 상속 재산과 다른 몫으로 보아 가정을 새 자극과 단순 비교할지 돌아보게 한다.",
+      "contextNote": "상속되는 재산과 주어진 슬기로운 아내를 비교한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B019",
+          "clue": "새 자극과 달리 현재 배우자와의 관계에 둘 가치를 생각한다.",
+          "friction": "슬기로운 아내라는 성품을 현재 배우자에 대해 서비스가 보증하거나 사용자의 성별을 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:19:15",
+      "textSha256": "5437a752774ef2a6d12993a6f0bdf62f519d6790a9982542f752c866f5d71d9d",
+      "status": "candidate",
+      "reason": "미루며 굳어지는 무활동의 비용을 말해 완벽한 준비 전에도 작은 운동을 시작할 여지를 준다.",
+      "contextNote": "게으름과 깊은 잠 및 해태의 허기를 연결한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H057",
+          "clue": "계속 미루는 준비 대신 작은 몸의 행동을 생각한다.",
+          "friction": "실제 피로와 회복 지시의 G13·H055를 게으름으로 바꾸거나 빈곤의 원인을 진단하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:19:16",
+      "textSha256": "37a3e97c2fce6370f26d64087bb9967a1e5742b543c6f8b86a0c628e54b87503",
+      "status": "candidate",
+      "reason": "받은 가르침을 지키는 자기 보호와 부주의를 나눠 알려진 실수를 고칠지 돌아보게 한다.",
+      "contextNote": "19장이 계명 보존과 신중한 행실을 연결한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "지적을 받고 고칠 몫을 자신의 보호로 본다.",
+          "friction": "행실의 부주의가 실제 죽음으로 이어진다는 업무 예고는 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:19:17",
+      "textSha256": "a56331ff245520cce57b2c77a96902fa3109e6ced0eb3112322c110df4240dc6",
+      "status": "candidate",
+      "reason": "도움을 나에게서 빠져나가는 몫만으로 보지 않게 하는 비유가 여력 있는 나눔의 부담에 직접 닿는다.",
+      "contextNote": "가난한 사람에게 베풂을 주께 빌려드리는 일에 견준다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H059",
+          "clue": "도움을 귀한 몫으로 내놓는 선택을 생각한다.",
+          "friction": "갚아주심을 현재 기부금의 환급이나 수익으로 보증하지 않고 생활비 여력이 있는 조건을 보존한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:19:18",
+      "textSha256": "b6e60fe1d16d29bf4ea461b4f67d483dd779b0ddb6148b76cabf5c800b0f03cd",
+      "status": "exclude",
+      "reason": "아들에게 징계할 소망과 죽일 마음을 구분하는 부모의 훈계 상황이라 놀이 요청과 집안일의 선택에는 조건이 다르다.",
+      "contextNote": "자녀 징계에 희망과 한계를 함께 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:PRO:19:19",
+      "textSha256": "b0a5e67927e72c15c7d7e1f5ba466da4e4ca48fa81e0d4a13fd9dfdf0ccb5705",
+      "status": "candidate",
+      "reason": "한번 대신 해결해 준다고 반복이 멎지는 않는다는 말이 이미 여러 번 넘어간 관계의 한계 설정에 닿는다.",
+      "contextNote": "맹렬한 분노와 되풀이되는 구제를 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H029",
+          "clue": "계속 대신 넘어가 주는 것 외의 경계를 생각한다.",
+          "friction": "친구가 맹렬히 화낸다는 사실이나 벌을 받는 미래를 더하지 않고 반복되는 구조의 개인적 연결로 읽는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:19:20",
+      "textSha256": "8ffaca754f9be4658f4b3bd428227462d8b4d7ffa3778c073809f2f93a3349d9",
+      "status": "candidate",
+      "reason": "조언과 훈계를 받아 지혜를 얻는 순서를 직접 말해 질문할 부끄러움을 낮춘다.",
+      "contextNote": "권고와 훈계를 들으라고 권한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "부족함을 말하고 권고를 구해 더 배울 수 있다.",
+          "friction": "특정 조언의 정답이나 프로젝트 결과를 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:19:21",
+      "textSha256": "ab2e32fa56694728050d7d7aac20600c1bc2c92db93e2ec7b393fb46652940c9",
+      "status": "candidate",
+      "reason": "내 계획이 전부를 확정하지 않는다는 말이 예상과 달라진 상황을 받아들일 여지를 준다.",
+      "contextNote": "많은 인간의 계획과 서는 주의 뜻을 비교한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H062",
+          "clue": "내 원래 계획만 성립해야 한다는 부담을 덜어본다.",
+          "friction": "현재 변경을 신의 특정 명령이라고 대신 해석하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:19:22",
+      "textSha256": "3268bb385df7711ef8fca55b684493ef613f0e521026e20ff2b169ccfb77f7bd",
+      "status": "candidate",
+      "reason": "소득과 외관보다 인자함과 진실을 귀히 보아 적은 정직한 역할의 가치를 고려하게 한다.",
+      "contextNote": "사모받는 인자와 거짓보다 나은 가난을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B016",
+          "clue": "더 큰 보상보다 정직하게 사람을 대할 역할을 생각한다.",
+          "friction": "소득이 줄어 실제 가난해진다는 사실이나 인기를 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:19:23",
+      "textSha256": "7e3bae14cc13aec317c6c0fb24a4b5f4fe7b993f7eaa1d1b996caa8eeb23da54",
+      "status": "candidate",
+      "reason": "족하게 지내는 삶의 가치를 말해 이미 충분히 가진 물건과 새 욕구 사이를 돌아보게 한다.",
+      "contextNote": "경외의 생명과 만족 및 보호를 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H001",
+          "clue": "이미 가진 몫을 충분히 누리는 만족을 고려한다.",
+          "friction": "상품 구매가 곧 악이라는 판정이나 경외하면 사고가 없다는 현재 보장은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:19:24",
+      "textSha256": "36802ceee04b62bda2f6ec4fed7e0ec000687e5ee0a8971529d3e03ab326f43c",
+      "status": "candidate",
+      "reason": "그릇에 들어간 손도 마지막 행동을 안 할 수 있다는 구체 모습이 준비 완료 뒤의 첫 실행에 닿는다.",
+      "contextNote": "준비된 음식도 입으로 올리지 않는 게으름을 풍자한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B006",
+          "clue": "이미 준비된 재료를 첫 행동으로 이어갈 수 있다.",
+          "friction": "두려운 마음을 게으른 인격으로 낙인찍지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:19:25",
+      "textSha256": "ba7f362bd6a57aa462848952c3cbf43cb372dd8b52a679d8f75ce5618e02df09",
+      "status": "hold",
+      "reason": "견책으로 배움이 늘 수는 있으나 앞의 거만한 이를 때리라는 명령까지 현재의 업무 피드백과 같게 읽기 어렵다.",
+      "contextNote": "매를 통한 경성과 명철한 이의 견책 수용을 대비한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "배울 수 있는 책망의 가치는 보인다.",
+          "friction": "다른 이를 때리라는 앞부분을 현재 팀 관계에 적용하거나 폭력을 가르침으로 보증할 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:19:26",
+      "textSha256": "87842157674d66e97865ccf045e94ef00a2f0ea572ad9a85eec7036b0b9c1fe1",
+      "status": "hold",
+      "reason": "부모 존중의 기준은 있지만 구박과 추방이라는 실제 가해를 부모 기대와 다른 진로에 붙일 수는 없다.",
+      "contextNote": "부모를 학대하고 쫓아내는 자녀의 수치를 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H036",
+          "clue": "부모를 존중할 마음은 되새길 수 있다.",
+          "friction": "다른 진로를 말하는 것과 부모 학대 및 추방은 다른 행위다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:19:27",
+      "textSha256": "a8585a10f515bd75d9f8578d64bf0b78f75f4d08d47b52418cc84e60765d687e",
+      "status": "candidate",
+      "reason": "듣는 내용도 지식에서 멀어지게 할 수 있다는 기준이 추천만 무조건 따르기보다 근거를 살피게 한다.",
+      "contextNote": "지식에서 떠나게 하는 교훈을 경계한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H003",
+          "clue": "추천의 말이 실제 내 이해를 늘리는지 살필 수 있다.",
+          "friction": "친구의 추천이 잘못됐다고 단정하지 않고 근거와 필요를 확인할 여지를 둔다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:19:28",
+      "textSha256": "bf3ec662fc841caa2e17f2455df8508be0ca0b3a1fa1b71684253ea6e7b8cb8c",
+      "status": "candidate",
+      "reason": "거짓 증언이 공의를 가볍게 하는 행위라는 말이 평가를 위한 과장을 중립적 기술로 보지 않게 한다.",
+      "contextNote": "망령된 증인과 죄를 삼키는 입을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "한 번의 유리한 평가를 위한 말도 공정한 기준을 바꿀 수 있음을 본다.",
+          "friction": "사용자를 악인이라 확정하거나 처벌을 예고하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:19:29",
+      "textSha256": "33d9e9f555edc1aa4a004e87c8ff656e573cd1a4aeb79662bf90dbdc4f0fa60c",
+      "status": "hold",
+      "reason": "배움을 거절하는 손해는 있지만 등에 준비된 채찍이라는 형벌이 현재 실수 수용의 갈등보다 강하다.",
+      "contextNote": "거만함과 어리석음에 준비된 심판을 말하며 19장을 끝낸다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "배움을 거절하지 않을 기준은 있다.",
+          "friction": "신체적 형벌의 준비를 현재의 피드백으로 보내면 과도한 위협이 될 수 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:20:1",
+      "textSha256": "b520f5a093ed9a951f39c8ca2a236de60ac8242a794b4603ccae948d05fdb0e6",
+      "status": "candidate",
+      "reason": "술에 끌려 판단이 흐려지는 모습을 경계하여 더 마시고 싶지 않은 자기 선을 지킬지에 직접 닿는다.",
+      "contextNote": "20장이 술의 거만함과 미혹을 경계한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B010",
+          "clue": "더 마시고 싶지 않다는 자기 선을 분위기보다 살필 수 있다.",
+          "friction": "술을 마시는 사람의 전 인격을 미련하다 판결하거나 이미 취했다는 사실을 만들지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:20:2",
+      "textSha256": "20dca4f726710d525008b147695d39d2e7d331d288dd6ebc29859ac2709db0be",
+      "status": "hold",
+      "reason": "분노를 피할 가치는 있으나 생명을 위협하는 왕의 진노는 친구에게 서운함을 전할 상황과 같지 않다.",
+      "contextNote": "왕의 진노를 사자의 소리와 생명 위험에 견준다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H026",
+          "clue": "말의 반응에 신중할 여지는 있다.",
+          "friction": "왕의 생명 위협을 친구의 실제 반응에 넣을 수는 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:20:3",
+      "textSha256": "357459132ec85d7e06036e2842b54b1b5d0f74bca8ef8fa73f22c6e972838cd0",
+      "status": "candidate",
+      "reason": "다툼을 피하는 것이 약함이 아니라 영광일 수 있다는 말이 메시지를 멈추는 선택에 닿는다.",
+      "contextNote": "다툼을 멀리함과 일으킴의 가치를 비교한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "지금 말싸움을 키우지 않는 것도 나를 낮추는 패배는 아니라고 본다.",
+          "friction": "반복 침해의 G11을 아무 말 없이 계속 받아들이라는 뜻으로 쓰지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:20:4",
+      "textSha256": "413d93d507328d776d681a35a6dc83abf775cb4b27a0a6f67a9dfdc666ca3302",
+      "status": "candidate",
+      "reason": "실제 준비할 때를 놓치면 나중에 구해도 늦을 수 있다는 농사 비유가 오늘 마감의 기회를 돌아보게 한다.",
+      "contextNote": "때에 밭 갈지 않은 이의 추수 부재를 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H050",
+          "clue": "오늘 열려 있는 실제 시간을 써서 준비와 제출을 볼 수 있다.",
+          "friction": "다음 기회가 없다는 사실이나 신청 성과를 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:20:5",
+      "textSha256": "bfc8d3f00c9bec3051ef424b94b3dcca9ac91942d7073f73d1fb255664b9ae5d",
+      "status": "candidate",
+      "reason": "내 마음의 깊은 물을 천천히 길어 낼 수 있다는 비유가 더 바빠지기보다 불편함을 살필 시간을 준다.",
+      "contextNote": "내면의 모략과 그것을 끌어내는 명철을 물에 견준다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H063",
+          "clue": "알 수 없는 불편함을 덮기보다 천천히 살펴볼 수 있다.",
+          "friction": "서비스가 속마음을 이미 아는 듯 결론을 내리거나 원인을 진단하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:20:6",
+      "textSha256": "ccea837b31ec8195c419745479458ffdf11e5b085a5742d01c1cb30214a043d1",
+      "status": "hold",
+      "reason": "말보다 신실함을 살필 필요는 있지만 자기 인자를 자랑한다는 태도는 돈을 빌려달라는 친구 입력에 직접 없다.",
+      "contextNote": "자기 자랑과 만나기 어려운 충성을 비교한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H038",
+          "clue": "약속보다 신실한 행동을 볼 필요는 생각한다.",
+          "friction": "친구가 인자를 자랑하거나 거짓을 말했다는 정보는 없어 현재 대여 선택과는 거리가 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:20:7",
+      "textSha256": "8b19a644f2b97e3109b328875c2f9016578f64ecd429508b0072c8e5ac27bd94",
+      "status": "hold",
+      "reason": "현재의 정직이 가족에게 이어질 가치는 있으나 후손의 복은 동료의 초대와 현재 혼인을 지키는 부담에 간접적이다.",
+      "contextNote": "온전한 행실과 후손에게 이어지는 복을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B019",
+          "clue": "내 선택이 가족에게 이어질 몫은 생각한다.",
+          "friction": "현재 후손이 있거나 그들의 결과를 안다는 사실 없이도 읽을 수는 있으나 초대의 선택에는 간접적이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:20:8",
+      "textSha256": "8b1032e54dc5b12a7ec4cb3e69e2b2609b15e0686a91d2f9615aaf8a9a1e5d28",
+      "status": "exclude",
+      "reason": "심판하는 왕의 눈으로 악을 흩는 권위를 말하므로 일반 고민의 타인들을 악인으로 새로 배정해야 연결된다.",
+      "contextNote": "바른 재판을 하는 왕의 통찰을 말한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:PRO:20:9",
+      "textSha256": "bef887a65228fdca8af73fd6a693d2f9c6899936ce8985a64ace325d522c35f7",
+      "status": "candidate",
+      "reason": "누구도 자기 마음이 완전히 깨끗하다고 할 수 없다는 물음이 자기 잘못을 인정하고 먼저 사과할 체면을 낮춘다.",
+      "contextNote": "자기 순결을 자랑할 수 있는지 묻는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G10",
+          "clue": "내 잘못을 인정한다고 완전한 자리에서 혼자 추락하는 것은 아니라고 본다.",
+          "friction": "모두 불완전함을 내 책임의 면제나 친구의 용서 보증으로 만들지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:20:10",
+      "textSha256": "ed253aeb95146cd10a4887e3bbedef27f2821c0f754c0e1f2d82fab48e4a4e59",
+      "status": "candidate",
+      "reason": "사람마다 다른 저울과 되를 쓰는 속임을 경계하여 친분에 따라 몫을 달리할지에 닿는다.",
+      "contextNote": "일관되지 않은 측정 도구를 거절한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B003",
+          "clue": "친구인지와 관계없이 같은 조건의 몫을 재는 기준을 둘 수 있다.",
+          "friction": "모든 필요가 늘 같다는 기계적 배분 규칙으로 넓히지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:20:11",
+      "textSha256": "168b7e7d8efb648f3aaab414254045e43f776120b55ef93c83180e2b8e490b64",
+      "status": "candidate",
+      "reason": "말한 평가보다 실제 행동이 정직을 드러낸다는 기준이 이력의 과장을 다시 보게 한다.",
+      "contextNote": "아이도 행동으로 행실을 드러냄을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "해온 행동과 적을 내용이 정직하게 맞는지 본다.",
+          "friction": "어린아이의 행동을 모든 능력 평가의 정답으로 일반화하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:20:12",
+      "textSha256": "d5d182c9be31bf463c3c5c94c1e7018f72efe0a51e0f9d5b018771ff6339795f",
+      "status": "candidate",
+      "reason": "듣는 귀도 귀하게 지어진 도구라는 말이 모르는 것을 들어 배울 자리를 부끄럽게만 보지 않게 한다.",
+      "contextNote": "눈과 귀의 지음받은 가치를 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "귀를 써 배우는 일 자체를 귀하게 받을 수 있다.",
+          "friction": "특정 사람이 가르치는 말이 모두 옳다는 보증은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:20:13",
+      "textSha256": "1717df94b8df9f55aea7c0dc9d0bf4a7d5e2d7cc45ab71417713507980a7376f",
+      "status": "candidate",
+      "reason": "눈을 뜨고 자기 몫을 돌보는 행동이 준비만 하며 실행을 계속 늦출지에 닿는다.",
+      "contextNote": "잠의 탐닉과 깨어 양식을 얻는 일을 대조한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B006",
+          "clue": "준비에서 실제 작업으로 눈과 손을 돌릴 수 있다.",
+          "friction": "실제 수면 부족과 회복 지시의 G13·H055에 잠을 줄이라는 신호로 보내지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:20:14",
+      "textSha256": "61652d54009c10e24e13100b72e8377fe53f55592262aa20687ce7c89569c9c3",
+      "status": "candidate",
+      "reason": "흥정에서 물건을 낮게 말하는 표현을 관찰하여 구매자의 말이 곧 물건과 나의 최종 가치인지 돌아보게 한다.",
+      "contextNote": "사기 전의 혹평과 산 뒤의 자랑을 대조한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H025",
+          "clue": "무리한 가격 깎기의 말과 물건의 실제 가치를 분리해 볼 수 있다.",
+          "friction": "현재 구매자가 속으로 자랑할 계획이거나 반드시 거짓말한다는 의도를 예측하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:20:15",
+      "textSha256": "a740f4d9f5f81e2b374b0fb0feb0f34577a021cac3354922962345082ef6f67e",
+      "status": "candidate",
+      "reason": "지혜로운 입술을 금과 진주보다 귀히 보아 편한 역할 외에 배울 수 있는 소득을 고려하게 한다.",
+      "contextNote": "재화와 지혜로운 말의 가치를 비교한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H049",
+          "clue": "배움의 말을 얻는 몫도 편안함과 함께 계산한다.",
+          "friction": "배운 역할의 실제 수익이나 성공을 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:20:16",
+      "textSha256": "15c1b17e29df34db96930520531b90b7f7cb90eec8a9638fdfc8faa24f10ef08",
+      "status": "candidate",
+      "reason": "보증으로 자기 옷과 몸까지 묶일 수 있는 부담을 보여 단순한 호의와 책임을 구분하게 한다.",
+      "contextNote": "타인의 보증과 담보의 위험을 경고한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B018",
+          "clue": "친구의 대출 책임이 내 자원까지 묶을 가능성을 보고 다른 도움도 생각한다.",
+          "friction": "현재 계약이 실제 옷이나 몸을 담보로 한다거나 친구가 외국인이라는 사실을 새로 넣지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
     }
   ]
 }
