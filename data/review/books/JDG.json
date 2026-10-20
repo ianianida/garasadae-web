@@ -1,0 +1,1257 @@
+{
+  "bookCode": "JDG",
+  "corpusSha256": "f8d5c8b377e243b05fb884b4a6965d2c06a95de74b64a716ee4b95989d61e971",
+  "criteriaVersion": "garasadae-corpus-2026-10-08-v1",
+  "reviewer": "Codex review_gen_2ki",
+  "method": "direct-codex-reading",
+  "entries": [
+    {
+      "id": "KRV:JDG:1:1",
+      "textSha256": "d5295f7df2dcd95b3854a4e64aa37d2a919784f38c1eb6fa00c000c338435111",
+      "status": "candidate",
+      "reason": "A035에서 다른 조언을 더 모으기 전에 하나님께 묻고 내 선택을 돌아볼 방향을 읽을 수 있다.",
+      "contextNote": "여호수아 사후 이스라엘이 다음 정복을 누가 먼저 할지 하나님께 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A035",
+          "clue": "다음에 무엇을 할지 하나님께 묻는 장면에서 엇갈린 조언을 계속 늘리기 전에 조용히 기도하며 마음을 살필 방향을 읽는다.",
+          "friction": "공동체의 실제 정복 순서를 묻는 문맥이지 개인의 첫 생각을 하나님의 확정 답으로 삼는 방법은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:1:2",
+      "textSha256": "2bbb024534e4a50629a4d11b987f6f7d2763393fd59de6c36ba9f570e2e84910",
+      "status": "candidate",
+      "reason": "G15에서 먼저 맡는 역할을 두려워하는 사람이 하나님을 의지해 한 걸음을 내딛는 용기를 읽을 수 있다.",
+      "contextNote": "첫 질문에 하나님이 유다를 먼저 보내며 땅을 그의 손에 붙였다고 답하신다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G15",
+          "clue": "먼저 올라가는 자리가 주어진 장면에서 두려워 뒤로 미루기보다 하나님을 의지해 원하던 역할을 시도할 용기를 읽는다.",
+          "friction": "유다에게 특정 땅을 붙이신 전쟁 명령이다. 서비스가 사용자를 하나님이 직접 임명했다고 말하거나 동아리 결과를 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:1:3",
+      "textSha256": "0f730a4c938a34949e1f1e2a49b515a5f8e18c95c5afd29f12da3f09e5290c38",
+      "status": "candidate",
+      "reason": "H033에서 혼자 버티기보다 내가 필요한 도움을 말하고 서로 도울 길을 구할 구체 단서가 있다.",
+      "contextNote": "유다가 시므온에게 자기 기업 정복에 동행해 달라며 자신도 시므온의 기업에 동행하겠다고 약속한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "함께 가 달라고 말하고 자신도 함께 돕겠다고 제안하는 모습에서 도움을 청하는 일을 일방적 짐으로만 보지 않을 수 있다.",
+          "friction": "지파끼리 기업을 정복하는 전쟁 동맹이다. 현재 친구가 반드시 도와주거나 사용자에게 같은 여유가 있다고 채우지 않으며 먼저 가능한 도움을 구하는 단서다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:1:4",
+      "textSha256": "affef9a112fe787d241579e8ce20105164ea8699173b2d9af79ce84e8cf07bfa",
+      "status": "exclude",
+      "reason": "G15의 시도와 비교해도 하나님이 붙이셨다는 말 뒤 베섹에서 일만 명을 죽이는 결과가 붙어 역할 도전보다 대량 살상이 문장 중심이 된다.",
+      "contextNote": "유다와 시므온의 첫 출정이 베섹의 승리로 이어진다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:1:5",
+      "textSha256": "c2dbe6888297b67eb6d5502e3f0aa8d0fad36243a7aaa68a21b3f115dbf8ec02",
+      "status": "exclude",
+      "reason": "H049에서 어려운 일에 도전하는 소재로 보더라도 아도니 베섹을 만나 싸우고 두 민족을 죽였다는 기록뿐으로 학습과 부담을 판단할 단서가 없다.",
+      "contextNote": "베섹 전투에서 왕과 가나안 및 브리스 사람들을 공격한 일을 덧붙인다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:1:6",
+      "textSha256": "d882e2e40fe3bf2fde5e286d0c452507f865ff743a1952836c741421831104e4",
+      "status": "exclude",
+      "reason": "H031의 분노 처리와 비교해도 도망자를 추격해 잡아 손발 엄지를 자르는 신체 훼손이 전부여서 관계 갈등의 자연스러운 선택 실마리로 삼기 어렵다.",
+      "contextNote": "붙잡힌 아도니 베섹에게 신체 훼손을 가하는 장면이다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:1:7",
+      "textSha256": "628331ead28366c6ff1ac4c20a88a420ed5d32c23491b11741ee95aa897a6a44",
+      "status": "hold",
+      "reason": "H048에서 자신이 행한 일을 인정하는 대목은 있으나 칠십 왕의 손발 절단과 음식 줍기 및 본인의 죽음까지 있어 실제 누락을 인정하고 고치는 고민에는 과중하다.",
+      "contextNote": "아도니 베섹이 과거 자신이 왕들에게 한 학대를 회고하며 같은 보응을 받고 예루살렘에서 죽는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:1:8",
+      "textSha256": "8f072d8394e696b6548ea1c4dbd78e6320f1ff5aa040d1d3c155dea75b020ce6",
+      "status": "exclude",
+      "reason": "H031에서 갈등을 끝내는 소재로 읽어도 예루살렘 주민을 칼로 치고 성을 불살랐다는 내용이어서 진정 후 대화할 단서는 없다.",
+      "contextNote": "유다 자손이 예루살렘을 공격하고 파괴한 일을 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:1:9",
+      "textSha256": "629de53ce8fd5c2e18b5a5844c4154275c1c7adaa2e101cabb3ffaa40e1ed99d",
+      "status": "exclude",
+      "reason": "H049의 낯선 일과 대조해도 산지와 남방과 평지에서 싸웠다는 진행 기록뿐이며 왜 그 도전을 선택할지의 가치나 부담은 나오지 않는다.",
+      "contextNote": "유다의 정복이 예루살렘에서 여러 지형의 주민에게 확대된다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:1:10",
+      "textSha256": "7bee6e174d3ef87ccc3708d0b9bb30a66a19f4bcc33cd4bc4d6b58f9125381f8",
+      "status": "exclude",
+      "reason": "A020의 이주 선택과 비교해도 헤브론의 옛 이름과 세 인물을 죽인 전투 정보가 중심이어서 새 도시 기회에 대한 개인 실마리가 없다.",
+      "contextNote": "유다가 헤브론의 세새와 아히만과 달매를 죽인 일을 기록한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:1:11",
+      "textSha256": "bbe6ec2b422ed32de201bb0809bd96f35278fe4dc0371032321288935e9da26a",
+      "status": "exclude",
+      "reason": "H053의 다음 일과 비교해도 드빌을 공격했다는 사실과 옛 이름 기럇 세벨을 알려 줄 뿐 기존 일을 마칠지 바꿀지의 기준은 없다.",
+      "contextNote": "헤브론 전투에서 드빌 공격으로 정복 경로를 잇는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:1:12",
+      "textSha256": "b3a7265a48247498ea01bbf64d8c92e4fca41a64f5429db93e80e935e9013de9",
+      "status": "exclude",
+      "reason": "A006의 노동 대가와 비교하면 승리자의 보상으로 딸을 아내로 주겠다는 조건이어서 공정한 금전 대가나 당사자의 연애 선택으로 옮길 수 없다.",
+      "contextNote": "갈렙이 기럇 세벨을 취하는 사람에게 딸 악사를 주겠다고 제안한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:1:13",
+      "textSha256": "2d2b56acc26a6cfbb7a063a8a9100d7c2a411458f3ff52f22ee24ef2f4f10512",
+      "status": "exclude",
+      "reason": "H032의 관계 시작과 비교해도 옷니엘의 정복 보상으로 아버지가 악사를 아내로 주며 당사자의 마음과 선택은 나타나지 않는다.",
+      "contextNote": "옷니엘의 성읍 정복 뒤 갈렙이 제안했던 혼인을 이행한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:1:14",
+      "textSha256": "c498203c65b791460499ea8ea399d56a998a28bfb6afe0cdf6a301bd0f5207f3",
+      "status": "candidate",
+      "reason": "A013에서 긴 조언을 더하기보다 상대가 무엇을 원하는지 먼저 물어볼 구체 실마리가 마지막 질문에 있다.",
+      "contextNote": "악사가 아버지에게 밭을 구하려 하자 갈렙이 원하는 것이 무엇인지 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A013",
+          "clue": "네가 무엇을 원하느냐는 질문을 보고 이미 지친 친구에게 내 조언부터 길게 하기보다 당장 필요한 도움을 먼저 물을 수 있다.",
+          "friction": "아버지에게 밭을 구하려는 딸의 장면이며 친구가 샘물이나 돈을 원한다고 미리 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:1:15",
+      "textSha256": "f261f77b354e8d6d875bfbade1f34fcf4446c1add41701d0ff647f7e1d508ed6",
+      "status": "candidate",
+      "reason": "H033에서 막연히 혼자 어려워하기보다 필요한 것을 구체적으로 말하며 도움을 요청하는 방향이 읽힌다.",
+      "contextNote": "악사가 남방의 땅에 필요한 샘물도 달라고 청하고 갈렙이 윗샘과 아랫샘을 준다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "필요한 샘을 구체적으로 말한 것처럼 어떤 도움이 필요한지 말해 볼 수 있겠다는 방향을 읽는다.",
+          "friction": "아버지 갈렙이 실제 두 샘을 준 결과까지 있다. 현재 친구의 응답이나 여력을 보장하지 않고 모든 부탁이 이뤄진다는 예로 만들지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:1:16",
+      "textSha256": "5e84d83ec1d9c652f8782c27a9038eeae178db1dc94abb21dc474aa4fe1caedf",
+      "status": "hold",
+      "reason": "A018에서 다른 출신 사람들이 함께 산다는 모습은 있으나 모세 장인의 겐 자손 이동 경로를 말할 뿐 혼자 있는 새 동료를 환대하는 행동은 나타나지 않는다.",
+      "contextNote": "겐 사람의 자손이 유다와 함께 종려나무 성읍을 떠나 남방 황무지에 정착한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:1:17",
+      "textSha256": "ad82f2927ce53428b148052ba7d8fd55dd096b5fa117d4252a7b28e200a47269",
+      "status": "exclude",
+      "reason": "A009의 협력과 비교해도 유다와 시므온의 동행은 스밧 주민을 진멸하는 결과에 묶여 있어 역할을 나누는 생활 실마리로 쓰기 어렵다.",
+      "contextNote": "두 지파가 함께 스밧을 진멸하고 호르마라 이름 붙인다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:1:18",
+      "textSha256": "c50c4dfb5bcce37988ce6c97f7479bd15c212f97cdc0a836004f413d127dd023",
+      "status": "exclude",
+      "reason": "A020의 새 장소와 대조해도 가사와 아스글론과 에그론의 점령지를 나열할 뿐 떠날 두려움과 현실 준비를 가늠할 말은 없다.",
+      "contextNote": "유다가 취한 세 성읍과 각각의 경내를 열거한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:1:19",
+      "textSha256": "92250f37ca0e706ba7c24ecc3cb604c24d7a96c25a0a8ffb0eb1707e9285892a",
+      "status": "hold",
+      "reason": "H043에서 같은 방식이 막히는 데 실제 장애가 있다는 점은 읽히지만 철병거 때문에 쫓아내지 못한 결과만으로 계속할지 바꿀지의 다음 실마리는 충분하지 않다.",
+      "contextNote": "하나님이 함께하신 유다가 산지는 취했지만 골짜기 철병거 앞에서는 정복하지 못했음을 함께 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:1:20",
+      "textSha256": "886f996a107e99c0e530713a7f990f13cd5e1d1ff2059307eb0526069f6a517d",
+      "status": "candidate",
+      "reason": "G09에서 더 나은 조건과 별개로 이전에 정해진 약속을 이행하는 모습을 읽을 수 있다.",
+      "contextNote": "모세의 명령대로 갈렙에게 헤브론을 주었고 갈렙이 아낙의 세 아들을 쫓아냈다고 회고한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G09",
+          "clue": "이미 정한 대로 몫을 주었다는 말에서 새 가격 제안보다 먼저 약속한 거래를 지키는 방향을 읽는다.",
+          "friction": "모세의 명령에 따른 땅 배분과 갈렙이 세 사람을 쫓아낸 전쟁 후반이 있다. 거래가 같은 신적 명령이거나 약속을 지키면 이익이 난다고 확정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:1:21",
+      "textSha256": "c9087a10dd4ed3b4bb46d032e57dc0536f49d3e96fa095251af244200003ea0c",
+      "status": "hold",
+      "reason": "A018에서 다른 집단과 함께 사는 표면은 닿지만 환대하기로 선택한 것이 아니라 쫓아내지 못한 결과여서 먼저 말을 걸어 맞이할 단서로는 약하다.",
+      "contextNote": "베냐민이 예루살렘의 여부스 사람을 몰아내지 못해 함께 거주했음을 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:1:22",
+      "textSha256": "ca82c302012943efbcd26777a3e6498f0a700828737962ef5d3a43e38af52110",
+      "status": "candidate",
+      "reason": "G15에서 처음 맡는 일에 내 실력만 바라보는 부담보다 하나님과 함께 시작한다는 용기를 개인적으로 읽을 수 있다.",
+      "contextNote": "요셉 족속의 벧엘 출정을 소개하며 여호와가 함께하셨다고 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G15",
+          "clue": "새 일을 시작하는 장면에 하나님이 함께하신다는 말을 받아 원하던 역할 앞에서 두려움만으로 자신을 물리지 않을 용기를 읽는다.",
+          "friction": "벧엘 정복에 관한 역사다. 경쟁자를 해치라는 말이나 현대 역할의 무조건 성공 약속으로 옮기지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:1:23",
+      "textSha256": "7e42bb5f6e1ab5b03fae2fc0bda3563b52dee2450dd7a76ad3f541962d2e7449",
+      "status": "candidate",
+      "reason": "H003에서 권유나 겉모습만으로 결정을 서두르기보다 직접 살펴 정보를 얻을 단서가 정탐이라는 행동에 있다.",
+      "contextNote": "요셉 족속이 옛 이름 루스였던 벧엘을 공격하기 전에 정탐하게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H003",
+          "clue": "시작하기 전에 정탐하게 했다는 말에서 추천을 듣고 곧장 사기보다 실제 필요와 제품을 먼저 살펴볼 방향을 읽는다.",
+          "friction": "성읍의 옛 이름과 전쟁 정탐이 붙으며 현대 친구가 속이려 한다거나 불법으로 정보를 얻어도 된다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:1:24",
+      "textSha256": "9aebe34c88169e12088d37e705107fc3e24294ec6273203ef8d622b5999eabf3",
+      "status": "hold",
+      "reason": "H051에서 아는 사람에게 길을 묻는 모습은 있으나 성을 칠 입구를 알려 주면 선대하겠다는 협상이라 조언을 청할 때 무능해 보일까 하는 부담과는 조건이 다르다.",
+      "contextNote": "정탐꾼들이 성에서 나온 사람에게 입구 정보를 구하며 보호를 약속한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:1:25",
+      "textSha256": "e0f21ba0932b79eec2e126a48eee699c1386b2c92c42459e67d1ab3bbc3f8c9e",
+      "status": "hold",
+      "reason": "G09에서 정보 제공자와 가족을 약속대로 놓아 준 점은 읽히지만 같은 문장에 다른 성 주민을 칼날로 친 사실이 있어 거래 약속의 생활 연결을 크게 가린다.",
+      "contextNote": "입구를 알려 준 사람의 가족을 살려 보내면서 성을 공격한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:1:26",
+      "textSha256": "9fee5e9bcba1e789ee8f87c0bd85b56e0b017a056b4747d747a6e82f1770d529",
+      "status": "exclude",
+      "reason": "H060에서 새 삶을 시작하는 이미지를 찾더라도 헷 땅에서 성읍을 세우고 옛 도시 이름을 붙인 내력이 중심이며 지금 가능한 대안은 제시되지 않는다.",
+      "contextNote": "살려 보낸 사람이 다른 땅에 새 루스 성읍을 세운 유래를 기록한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:1:27",
+      "textSha256": "9592e04fe86df74e1aa42eeff896f5a7754803583ba48931301f26bee604e6af",
+      "status": "exclude",
+      "reason": "H043의 실패와 닿아도 벧스안 등 다섯 성읍과 향리 주민을 쫓아내지 못한 긴 목록이며 방법을 바꾸거나 유지할 근거는 담지 않는다.",
+      "contextNote": "므낫세가 정복하지 못한 성읍들과 그 땅에 남기로 한 주민들을 열거한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:1:28",
+      "textSha256": "2b1a4ecd0db25580c906d6991e745e827108e2454d9fa82bcbb479b18bcb7a29",
+      "status": "hold",
+      "reason": "A028과 비교하면 힘을 얻은 뒤 남은 사람에게 노역을 시킨 사실이지만 적정 대가나 상대 형편을 살피는 기준은 없으며 강해졌으니 부려도 된다는 모델로 삼을 수 없다.",
+      "contextNote": "이스라엘이 강성해진 뒤 가나안 주민을 다 몰아내지 않고 사역시켰다고 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:1:29",
+      "textSha256": "1c6e93c3e50d52fd4af42deb715241821145ec847b58016441da9b0e35ef6908",
+      "status": "hold",
+      "reason": "A018의 함께 지냄과 비교해도 게셀 주민을 쫓아내지 못해 공존한 결과이므로 혼자 있는 동료를 먼저 맞이하겠다는 선택까지는 드러나지 않는다.",
+      "contextNote": "에브라임이 게셀을 정복하지 못해 가나안 사람이 그들 가운데 남았음을 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:1:30",
+      "textSha256": "2ffbbaccb1d9b594f506afa308651845deea376a08e9e2bc4a03aeb6f5d04d9f",
+      "status": "hold",
+      "reason": "A028의 일 시키기와 비교해도 기드론과 나할롤 주민을 쫓아내지 못하고 노역하게 한 기록이며 공정한 급여나 과업 조정의 실마리는 없다.",
+      "contextNote": "스불론의 미정복 성읍과 그 안에서 이루어진 사역을 설명한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:1:31",
+      "textSha256": "52cedb79113c81cdfd25c693f1c9ec17b96b9c2a88f65503f7e5c51e07d268ec",
+      "status": "exclude",
+      "reason": "H043에서 막힌 일과 비교해도 악고부터 르홉까지 일곱 성읍의 미정복 목록이며 다음 방법을 고를 이유는 나오지 않는다.",
+      "contextNote": "아셀 지파가 쫓아내지 못한 가나안 주민들을 열거하고 다음 절의 공존으로 잇는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:1:32",
+      "textSha256": "13a0a3842a1eca47d25a637fff39410986949ebc7dde6cb1cc9188b6cfd19647",
+      "status": "hold",
+      "reason": "A018의 공동체 생활과 표면은 닿지만 주민을 쫓아내지 못해 그들 가운데 살게 됐다는 이유뿐이라 적극적인 환대 선택을 읽기 어렵다.",
+      "contextNote": "아셀의 미정복 목록 뒤 남은 가나안 주민과 함께 거주하게 된 결과를 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:1:33",
+      "textSha256": "e414f351367e483ba0b0ea80a3edc3c3fb7bf59c8c205e5da617b8be6dd3f90f",
+      "status": "hold",
+      "reason": "A028의 고용 관계와 비교해도 납달리가 두 성읍 주민을 사역시킨 사실이며 약자를 이용하지 말거나 대가를 조정하는 기준은 담지 않는다.",
+      "contextNote": "납달리의 벧세메스와 벧아낫 미정복 및 노역 관계를 기록한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:1:34",
+      "textSha256": "c98d4052641ac313885b5cc604d6e8727dbca7c963dc9468747292c59ea84de9",
+      "status": "hold",
+      "reason": "H029의 실제 관계 제약과 닿지만 단 자손을 산지로 밀고 골짜기에 못 오게 했다는 반쪽 상황 서술이어서 거리 두기와 재대화 중 어느 쪽 실마리인지 분명하지 않다.",
+      "contextNote": "아모리 사람이 단 지파의 활동을 산지에 가둔 상황을 소개한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:1:35",
+      "textSha256": "d42fc4174a2d3dcffe6fae048a72c3f5f350e15ace585b3a88997dd0073373e4",
+      "status": "hold",
+      "reason": "H043에서 힘이 달라져 결과도 달라지는 모습은 있지만 아모리 사람의 거주지와 요셉 족속에 대한 노역으로 끝나 실패한 방법을 바꿀 구체 단서는 없다.",
+      "contextNote": "아모리 사람이 여러 성읍에 버티다가 요셉 족속이 강해진 뒤 사역하게 됐다고 기록한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:1:36",
+      "textSha256": "79b49926374686b638c42e228e64b368c1400f422e0191c6315000eeb6237d1e",
+      "status": "exclude",
+      "reason": "A001의 공간 문제와 비교해도 아그랍빔 비탈의 바위로 특정한 아모리 경계 기록뿐으로 함께 쓸 공간을 나눌 기준은 없다.",
+      "contextNote": "아모리 사람의 지계를 간단히 확정하며 미정복 지역 목록을 마친다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:2:1",
+      "textSha256": "d141d712e70a12396e3d7cb67487b41640d29cf222aad0e29d5f675b82d16d0e",
+      "status": "candidate",
+      "reason": "G09에서 먼저 세운 약속을 상황이 바뀌어도 어기지 않는 태도를 하나님 언약의 표현에서 읽을 수 있다.",
+      "contextNote": "여호와의 사자가 출애굽과 약속의 땅으로 인도한 일을 회고하고 영원히 언약을 어기지 않겠다고 선언한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G09",
+          "clue": "한번 세운 언약을 어기지 않는다는 말에서 더 높은 제안이 와도 이미 약속한 거래를 지킬 태도를 읽는다.",
+          "friction": "하나님의 출애굽 인도와 언약을 선언하는 사자의 말이다. 인간의 거래를 같은 성경 권위로 만들거나 손실 없는 보상을 약속하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:2:2",
+      "textSha256": "9a225656cbf3d93c92fdb758ea46f4c4362c26a871b92adbc563eff1a56ea130",
+      "status": "candidate",
+      "reason": "A036에서 다른 종교 행위를 따른 선택을 신앙 기준에 비춰 되돌아보라는 질문이 개인적 경계의 실마리가 된다.",
+      "contextNote": "하나님의 사자가 주민과 언약을 맺지 말고 그 단을 헐라는 명령을 따르지 않은 이유를 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A036",
+          "clue": "내가 지키는 신앙의 목소리를 듣고 있는지 묻는 질문에서 친구들 분위기를 따르기 전에 점집 참여가 내 믿음과 맞는지 살필 수 있다.",
+          "friction": "가나안 주민과의 언약 및 제단 철거에 대한 책망이다. 현대 친구를 악한 민족으로 묶거나 남의 종교 시설을 없애라는 행동으로 옮기지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:2:3",
+      "textSha256": "d374417cef3418f03fd3c995249c217a2bf163c942c4f4bcdff9d60718d35c51",
+      "status": "candidate",
+      "reason": "H029에서 여러 번 되풀이되는 실제 침해가 곁의 가시와 올무가 된다는 표현을 통해 계속 가까이 둘 관계를 재고할 수 있다.",
+      "contextNote": "언약 위반의 결과로 남은 민족과 그 신들이 가시와 올무가 되리라고 경고한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H029",
+          "clue": "곁에 남은 것이 계속 가시와 올무가 될 수 있다는 말을 이미 반복된 침해와 비춰 관계의 거리를 재고할 수 있다.",
+          "friction": "가나안 민족과 우상숭배에 대한 언약 심판이다. 모든 낯선 관계를 위험하다고 보거나 친구의 향후 악의를 예언하지 않고 이미 확인된 침해만 대조한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:2:4",
+      "textSha256": "a1d45819294e6807a534829d0ff7ca79502fa977175af9333c05e0921daa3d19",
+      "status": "hold",
+      "reason": "H048에서 잘못을 듣고 마음이 움직이는 모습은 있으나 백성이 울었다는 반응만으로 실제 누락을 고칠 행동까지는 읽히지 않는다.",
+      "contextNote": "여호와의 사자가 경고를 전하자 백성이 크게 운다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:2:5",
+      "textSha256": "d0bd0bba13d2c8c226d3348e1f9244ad60324f84af787d35ce8d216bfb16d8eb",
+      "status": "hold",
+      "reason": "A035에서 하나님 앞에 멈추는 행동은 있으나 보김이라는 지명의 유래와 제사 사실이 중심이어서 복잡한 고민을 조용히 살필 방향은 간접적이다.",
+      "contextNote": "백성이 운 곳을 보김이라 부르고 그곳에서 제사를 드린다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:2:6",
+      "textSha256": "4d02203ad6c28477b81a0793773493d577630fc13a6efc2ab1f7dcdcbabffddb",
+      "status": "hold",
+      "reason": "A020의 새 땅으로 감과 닿지만 여호수아가 보낸 뒤 각자 기업을 차지한 사실만이라 이미 준비된 기회 앞에서 떠날 부담에 대한 단서는 적다.",
+      "contextNote": "고별 언약 뒤 각자 기업으로 돌아간 시점으로 돌아가 이후 시대를 설명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:2:7",
+      "textSha256": "0fb69187f4826380ea5407fa9962c04f04412fc3e51b58f24f2ea2e426f37e0c",
+      "status": "candidate",
+      "reason": "A030에서 직접 경험을 아는 어른의 존재가 다음 사람들의 길을 돕는다는 모습을 읽어 무거운 일을 줄인 뒤 남길 역할을 생각할 수 있다.",
+      "contextNote": "여호수아와 하나님의 일을 본 장로들이 생존하는 동안 백성이 여호와를 섬겼음을 회고한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A030",
+          "clue": "하나님의 일을 본 장로들이 살아 있는 동안 공동체가 길을 이어 갔다는 말에서 경험을 아는 어른으로 남는 기여를 생각할 수 있다.",
+          "friction": "본문은 구체적인 지도 활동을 쓰지는 않는다. 사용자 한 명이 후배들의 모든 선택을 책임지거나 무리한 육체 노동을 계속하라는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:2:8",
+      "textSha256": "413ef8b827bc40e8fa12190a8217560b1e4662d1495269336a8faa91bd482fa7",
+      "status": "exclude",
+      "reason": "A030의 노년 문제와 비교해도 여호수아의 일백 십세 사망을 재기록하는 문장일 뿐 지금 몸에 맞는 기여 방식을 고를 기준은 없다.",
+      "contextNote": "여호수아 세대의 끝을 설명하며 여호수아의 죽음을 다시 적는다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:2:9",
+      "textSha256": "0a7d5033e444acb3f221566774f9a4cdb8ecdb793991a115367e5e9fc26ecef1",
+      "status": "exclude",
+      "reason": "H060의 상실과 비교해도 기업 안의 딤낫 헤레스라는 장사 위치를 산지 방향으로 특정할 뿐 놓친 기회를 어떻게 받아들일지의 단서는 없다.",
+      "contextNote": "여호수아를 장사한 에브라임 산지의 위치를 기록한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:2:10",
+      "textSha256": "61d3f600a048b51ce0010f6937b20f2f2de33e95661ca1b9b0c172a093cd3ac3",
+      "status": "candidate",
+      "reason": "A030에서 경험이 다음 세대에 이어지지 않으면 잊힐 수 있다는 대조를 보고 내가 아는 것을 전하는 역할을 개인적으로 읽을 수 있다.",
+      "contextNote": "옛 세대가 죽은 뒤 여호와와 그 일을 알지 못하는 새 세대가 일어났음을 서술한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A030",
+          "clue": "앞 세대가 아는 일을 다음 세대가 모르게 된 장면에서 현장 일을 줄여도 경험과 기억을 전할 필요는 남을 수 있겠다는 단서를 읽는다.",
+          "friction": "이스라엘의 신앙 단절을 말한다. 모든 세대 변화가 어른의 책임이거나 사용자가 그만두면 공동체가 반드시 실패한다는 예측은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:2:11",
+      "textSha256": "3c8bce8fea1bbd17673a15b082afcdcecd48aacc845f386f9a02132f12d7a1a4",
+      "status": "hold",
+      "reason": "A036에서 다른 신 숭배의 경계는 보이지만 악을 행하며 바알들을 섬겼다는 과거 평가에서 문장이 이어져 점집 제안에 아직 응하지 않은 현재 고민의 실마리로는 거칠다.",
+      "contextNote": "다음 세대가 바알들을 섬기며 하나님을 떠난 행위를 소개한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:2:12",
+      "textSha256": "31989453146b7cbeede1752c68d79dfcd98669bd30951655f7b43078f45ba947",
+      "status": "hold",
+      "reason": "A036의 신앙 경계와 닿지만 실제 여러 신에게 절하고 하나님의 진노를 일으킨 결말까지 있어 아직 망설이는 사용자를 이미 배교한 사람으로 확정하기 쉽다.",
+      "contextNote": "출애굽시킨 하나님을 버리고 주변 민족의 신들을 따랐다고 설명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:2:13",
+      "textSha256": "82f3692e3cfbb7718e39cec4718ad180fb58d21cbd393b14628f75a730e14949",
+      "status": "hold",
+      "reason": "A036에서 하나님을 버리고 다른 신들을 섬긴다는 대조는 읽히나 바알과 아스다롯이라는 이름과 원인절에서 끝나 실제 선택 방향은 앞뒤 설명에 의존한다.",
+      "contextNote": "바알과 아스다롯 숭배가 이어지는 압박의 원인임을 다음 절로 연결한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:2:14",
+      "textSha256": "9cd5869ab31d40f804c0474d8bac6148426d8316cad02cf6b4e7dd98633bc007",
+      "status": "exclude",
+      "reason": "H055의 지친 형편과 비교해도 노략당하고 대적을 못 당하는 일이 하나님의 진노로 주어졌다는 서술이며 현재 과로의 원인을 신앙 잘못으로 만들 수 없다.",
+      "contextNote": "하나님이 이스라엘을 약탈자와 주변 대적에게 넘기신 결과를 서술한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:2:15",
+      "textSha256": "f3d96b77c7458bc007b6c92bdd3f2d5d89fb224cdccdb6b8c22007f73a6db215",
+      "status": "exclude",
+      "reason": "G14의 치료 불안과 비교해도 어디를 가든 재앙을 받고 괴로워하는 언약 심판이지 실제 치료나 기다림을 고를 단서가 아니며 질병 원인을 덧붙이게 된다.",
+      "contextNote": "하나님이 경고하신 재앙이 닥쳐 이스라엘의 괴로움이 심했다고 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:2:16",
+      "textSha256": "0aefee490929defe956fe551033c2b542450a85cc2eb0efa9697733f2fbde169",
+      "status": "hold",
+      "reason": "H058에서 혼자만의 힘이 아닌 도움을 떠올릴 수는 있지만 하나님이 사사를 세워 구원하셨으나라는 미완 문장으로 현재 누구에게 무엇을 요청할지는 약하다.",
+      "contextNote": "하나님이 사사를 보내셨음에도 백성이 따르지 않은 다음 절과 대조된다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:2:17",
+      "textSha256": "b86ad38bf9656ff01af66d36ef760422c72d7889d67d1f97d3e6b1e6210d481b",
+      "status": "candidate",
+      "reason": "H048에서 이미 옳다고 확인된 지적을 기분 때문에 밀어내고 원래 방식으로 돌아가지 않을 단서가 불청종의 실패 장면에 있다.",
+      "contextNote": "이스라엘이 구원한 사사도 듣지 않고 다른 신들을 따라 조상들의 순종 길에서 떠났다고 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "듣지 않고 원래 길에서 빠르게 벗어난 모습을 반면교사로 삼아 실제로 맞는 지적은 인정하고 고치는 방향을 읽는다.",
+          "friction": "사사와 하나님의 명령을 버리고 우상을 따른 사건이다. 동료의 모든 제안을 신적 명령으로 만들지 않고 사례에서 확인된 누락만 대상으로 한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:2:18",
+      "textSha256": "6935d0f82146d0cdb7e995992134bce16b9cb7246c2e0010179f030220ce6906",
+      "status": "candidate",
+      "reason": "H058에서 압박과 괴로움을 혼자 삼키기보다 부르짖어 도움을 구할 방향을 하나님이 돌보신 장면에서 읽을 수 있다.",
+      "contextNote": "사사가 사는 동안 하나님이 함께 구원하신 이유를 백성의 괴로운 부르짖음에 대한 돌이킴으로 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "괴로워 부르짖는 사람들을 하나님이 돌보셨다는 말에서 힘든 상태를 말하고 도움을 청할 용기를 읽는다.",
+          "friction": "사사를 세워 대적으로부터 구원하신 특정 반복 역사다. 현재 누구를 하나님이 해결사로 보냈다거나 부탁이 반드시 수락된다고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:2:19",
+      "textSha256": "04aa6710c10de043180a888dbc04e209c26d1e2c154db1da91bd5ac9fd68cdb3",
+      "status": "candidate",
+      "reason": "H029에서 구해 주고 넘어간 뒤에도 침해가 더 심해지고 그치지 않는 실제 패턴을 보며 같은 기대만으로 관계를 유지할지 다시 살필 수 있다.",
+      "contextNote": "사사가 죽으면 백성이 이전 세대보다 더 패괴하여 우상숭배와 패역을 반복했다고 서술한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H029",
+          "clue": "도움을 받은 뒤에도 같은 행위를 그치지 않고 더 심해지는 장면에서 반복된 침해를 한 번의 사과만으로 지우지 않을 단서를 읽는다.",
+          "friction": "우상숭배와 사사 시대의 패역에 대한 서술이다. 현재 친구에게 같은 종교적 죄나 앞으로 더 나빠질 운명을 붙이지 않고 이미 반복된 사실만 비교한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:2:20",
+      "textSha256": "7e258b91c1a9017e50ddcdd9c83014792854ad68dd30a850a6bacec27c8a154b",
+      "status": "hold",
+      "reason": "A036에서 언약을 저버리는 선택을 진지하게 돌아볼 수 있지만 진노와 위반 혐의를 이미 선언한 원인절이라 아직 제안을 고민하는 상황에는 과중하다.",
+      "contextNote": "하나님이 이스라엘의 언약 위반을 꾸짖으며 다음 절의 남은 민족을 두는 이유로 잇는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:2:21",
+      "textSha256": "9a59b24223e5c56881e8370e3dc21cc6edc45707a1fd75c1550decdc0a7e5f16",
+      "status": "hold",
+      "reason": "H043에서 장애가 계속 남는다는 모습은 있으나 여호수아가 남긴 나라를 하나님이 쫓아내지 않겠다는 선언만으로 지금 방법의 효과나 변경 필요를 판단할 수 없다.",
+      "contextNote": "언약 위반 때문에 남은 열국을 더는 쫓아내지 않겠다고 말씀한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:2:22",
+      "textSha256": "13542cc5533f168e358eaa04558cf4ca6e7fcf3c7e137bac6e0ba255a435fe25",
+      "status": "hold",
+      "reason": "H049에서 어려운 일을 통해 자기 태도를 살필 실마리는 있으나 남겨진 민족을 순종의 시험으로 둔 이유절이므로 현재의 어려운 역할이 하나님 시험이라고 단정해야 한다면 충분하지 않다.",
+      "contextNote": "남은 열국으로 이스라엘이 하나님의 도를 지키는지 시험하실 뜻을 설명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:2:23",
+      "textSha256": "32995ff8a3974205acbc6f4ecfce103d86b53b85ebdaa3333aa3ffd834921356",
+      "status": "hold",
+      "reason": "H043에서 지연에도 이유가 있을 수 있음을 읽지만 앞의 언약 시험을 받아야 이해되는 이것 때문이라는 결론이고 같은 방법을 계속할지의 근거는 담지 않는다.",
+      "contextNote": "여호수아 때 속히 정복되지 않은 나라들이 남은 이유를 정리한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:3:1",
+      "textSha256": "a7f198f7b0d52d7ecec0ccca4fa71a0652a4735df1c50f8669ff518f2b6dbf15",
+      "status": "hold",
+      "reason": "H049의 미경험과 도전이라는 문제는 있으나 전쟁을 모르는 백성을 시험하려 하시며라는 도입뿐이라 새 역할로 배우거나 익숙한 곳을 택할 판단은 다음 설명에 달려 있다.",
+      "contextNote": "새 세대가 전쟁을 배우고 시험받도록 남겨 둔 열국의 목록을 도입한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:3:2",
+      "textSha256": "27cf360eb1d986140f805dc815b945f623de8d5208f4a4a7e1fc5569edbcd66f",
+      "status": "hold",
+      "reason": "H049에서 익숙하지 않은 일도 배워 알게 할 수 있다는 방향은 보이나 전쟁을 가르치기 위해 남긴 열국은이라는 미완 목록 도입이라 지금 도전의 선택으로는 한 단계 설명이 필요하다.",
+      "contextNote": "전쟁을 모르는 새 세대가 배우도록 남겨 둔 민족들을 다음 절에 열거한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:3:3",
+      "textSha256": "af101ecb5fa1e5cef7b3b7b192e02cc2ae23e2ae3a645f424492a03f6282201a",
+      "status": "exclude",
+      "reason": "H049의 낯선 환경과 비교해도 블레셋 방백과 가나안 및 레바논 지역 집단의 목록일 뿐 무엇을 배우거나 선택할지의 부담은 나오지 않는다.",
+      "contextNote": "시험을 위해 남아 있는 열국의 구체 이름과 범위를 제시한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:3:4",
+      "textSha256": "50a473cc7f781aec6e41cc8f10f6d17ab427a8af7aa18e2575bbdd41098e6078",
+      "status": "hold",
+      "reason": "H048에서 알고 있는 기준을 실제 지키는지 살필 수는 있지만 남은 열국을 통한 하나님의 시험 이유가 중심으로 동료가 확인한 누락을 고치는 선택까지는 간접적이다.",
+      "contextNote": "남은 민족이 이스라엘의 모세 명령 청종을 시험하는 수단임을 설명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:3:5",
+      "textSha256": "3e49c36f2f3123b7e9a87b2a5226158ad94b5e0c37e1b674dfa2a80798aea56c",
+      "status": "exclude",
+      "reason": "A018의 다른 출신과 함께 있음과 닿아도 여섯 집단 이름 사이에 거주했다는 연결절이며 환대나 배제 중 어느 태도를 선택할지는 담지 않는다.",
+      "contextNote": "이스라엘이 가나안 여러 민족 사이에 정착한 상태를 다음 혼인과 우상숭배로 잇는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:3:6",
+      "textSha256": "3d086093ccf8538bf14e805c69b0a8fdfc2c645c3acc501587ffd5aec58cf95d",
+      "status": "hold",
+      "reason": "A036에서 관계 분위기를 따라 신앙 행위에 섞이는 경계는 읽히지만 이민족과 혼인한 사실까지 함께 묶여 있어 문화가 다른 친구나 혼인 자체를 잘못으로 확대하기 쉽다.",
+      "contextNote": "이스라엘과 가나안 주민의 상호 혼인이 다른 신 숭배로 이어진다고 서술한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:3:7",
+      "textSha256": "db3eb0bec5914412dbdf2d766cd01efcfdc59193869bcbc971e7ac9b1574775f",
+      "status": "hold",
+      "reason": "A036에서 하나님을 잊고 다른 신을 섬기는 경계는 분명하지만 이미 악을 행한 이스라엘에 대한 판정이어서 아직 점집 제안을 고민하는 사람과 바로 같게 놓기에는 거칠다.",
+      "contextNote": "사사 시대 첫 압박에 앞서 바알과 아세라 숭배를 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:3:8",
+      "textSha256": "8ee7911a545a15673aa405884cf4ba6ece1d4dfc0aa5e2e9afe5a6ffb95ca4f4",
+      "status": "exclude",
+      "reason": "H047의 답답한 직장과 비교해도 하나님의 진노로 구산 리사다임에게 팔려 팔 년을 섬긴 역사라 현재 소득과 진로 선택을 판단하는 단서가 없다.",
+      "contextNote": "우상숭배 뒤 메소보다미아 왕의 팔 년 지배가 시작된다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:3:9",
+      "textSha256": "f1b0ff9866bd6f34f3b7003787c377eae3f49832e6fe97ee5fc85f1b0963f758",
+      "status": "candidate",
+      "reason": "H058에서 지친 상태를 혼자 숨기기보다 하나님께 아뢰고 도움을 구할 용기를 부르짖음과 구원의 장면에서 읽을 수 있다.",
+      "contextNote": "백성이 하나님께 부르짖자 구원자로 옷니엘을 세우신다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "힘든 사람들이 부르짖고 도움을 받는 장면에서 혼자 다 버티려는 마음을 내려놓고 필요한 도움을 말할 용기를 읽는다.",
+          "friction": "사사 옷니엘을 세운 구원 역사이고 이름과 계보가 붙는다. 현대의 특정 동료가 반드시 해결해 준다거나 바로 응답받는다고 확정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:3:10",
+      "textSha256": "f4ff505397d2a69c3795159ee67546666cd11fe5f1d5a4cfabb92000c7878fc5",
+      "status": "candidate",
+      "reason": "G15에서 새 역할의 부담을 내 능력만으로 계산하지 않고 하나님을 의지하며 시작할 용기를 읽을 수 있다.",
+      "contextNote": "성령이 임한 옷니엘이 사사가 되어 구산 리사다임에게 승리한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G15",
+          "clue": "새로 역할을 맡는 사람에게 하나님의 영이 함께한 장면에서 부족할까 하는 두려움만으로 원하던 도전을 접지 않을 용기를 읽는다.",
+          "friction": "옷니엘이 사사로서 실제 왕과 싸워 이긴 역사다. 현대 동아리 역할을 같은 신적 임명이나 승리 보장으로 선언하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:3:11",
+      "textSha256": "a48f9763169bdbbfea8ee12dee9f4565e430563778bc925ca0ef50c0d7895bd2",
+      "status": "hold",
+      "reason": "H015에서 오랜 평온을 누리는 장면은 있지만 사십 년 태평과 옷니엘의 죽음을 알릴 뿐 바쁜 일정에 휴식을 남길지의 구체 부담은 드러나지 않는다.",
+      "contextNote": "옷니엘의 구원 뒤 평온한 시기를 요약하며 그의 시대를 마친다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:3:12",
+      "textSha256": "031a9aebc6ba7325e9b62d65f8a4de27be81351c7e250a315011050d596b12aa",
+      "status": "hold",
+      "reason": "A036에서 신앙 선택을 가볍게 보지 않을 생각은 들지만 악행 때문에 하나님이 적 왕을 강하게 하셨다는 원인절이므로 현재 동행의 현실 불행을 예고하는 듯 읽힐 부담이 크다.",
+      "contextNote": "이스라엘의 반복된 악행과 모압 왕 에글론이 강해진 이유를 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:3:13",
+      "textSha256": "80a4947f185e8fdbed4c31fa2e5d1bbc61d1a4c61d8b427526ba19b396687c75",
+      "status": "exclude",
+      "reason": "A009의 공동 행동과 비교해도 에글론이 다른 두 민족을 모아 이스라엘을 쳐 성읍을 점령했다는 군사 결과가 전부로 실제 업무 분담의 단서는 없다.",
+      "contextNote": "모압이 암몬과 아말렉과 연합해 종려나무 성읍을 점령한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:3:14",
+      "textSha256": "4168e3426591369d39b5c9796d2266b21da7cd5cca3bca386ec222cd2ca9ee26",
+      "status": "exclude",
+      "reason": "H047에서 오래 답답한 상태와 겹치더라도 에글론을 십팔 년 섬겼다는 기간 기록만으로 수입 감소를 감수하고 새 일을 택할지의 단서는 주지 않는다.",
+      "contextNote": "에글론 지배가 지속된 기간을 요약한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:3:15",
+      "textSha256": "06dad50932e339cd25b7565a745533115e0ec4f589b78971196a4b6c8f74fb6c",
+      "status": "hold",
+      "reason": "H058에서 부르짖음과 도움의 가능성은 읽히지만 왼손잡이 에훗의 계보와 공물 전달의 때에라는 도입까지 길게 붙어 현재 도움 요청의 부담은 덜 또렷하다.",
+      "contextNote": "구원자로 세운 에훗을 소개하고 공물 바치기를 통한 다음 작전으로 연결한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:3:16",
+      "textSha256": "bc01cf6b610731ef0c0ce49036c4b6d38efad5ee71b237071929bcc56871a79a",
+      "status": "exclude",
+      "reason": "A014의 사전 준비와 비교해도 몸에 칼을 숨겨 왕을 찌를 준비인 만큼 단순히 장비를 챙기는 생활 예방으로 바꿔 읽기 어렵다.",
+      "contextNote": "에훗이 양날 칼을 만들어 오른쪽 다리 옷 속에 숨긴다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:3:17",
+      "textSha256": "e444fcb9dcf0d6d0f9d893e2f3031956d8422f5f9044bf3a42e42ba4a49ef558",
+      "status": "exclude",
+      "reason": "A022의 외모 고민과 비교해도 왕이 비둔했다는 신체 묘사와 공물 전달만 있고 외모로 자신을 평가하지 않을 선택의 실마리는 없다.",
+      "contextNote": "공물을 받는 에글론의 체격을 묘사해 뒤의 살해 장면을 준비한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:3:18",
+      "textSha256": "20be300dd5c11957874a62b25bc28b891bdf3bdd835a56d6ea1054f50c9801e9",
+      "status": "hold",
+      "reason": "H015에서 맡은 일을 마친 뒤 사람들을 돌려보내는 모습은 있지만 공물 운반자를 보내는 것은 에훗의 은밀한 작전을 위한 장면이며 휴식을 허락하는 기준은 아니다.",
+      "contextNote": "에훗이 공물 전달을 마친 뒤 함께 운반한 사람들을 먼저 보낸다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:3:19",
+      "textSha256": "623956960f5a3daa793e2f53aa7386853420734f9b8f52e9d85afe8f9ced179d",
+      "status": "exclude",
+      "reason": "H039의 비밀 지키기와 비교해도 은밀한 말을 핑계로 수행원을 물리고 왕을 홀로 만나려는 작전이므로 친구가 맡긴 진짜 비밀을 보호하는 단서는 아니다.",
+      "contextNote": "에훗이 돌아와 비밀스러운 일을 말하겠다고 하여 왕의 신하들이 물러가게 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:3:20",
+      "textSha256": "a68c9aeb77f8b2c15b176ecd554576b455c5736e3c3da851469b8b689f805d8f",
+      "status": "exclude",
+      "reason": "A035에서 하나님의 뜻을 묻는 방향과 달리 하나님의 명을 전한다는 말로 왕을 일으켜 바로 찌를 기회를 만드는 장면이어서 현재 개인적 직감의 권위를 강화할 단서로 쓰기 어렵다.",
+      "contextNote": "홀로 있던 에글론에게 에훗이 하나님의 말씀을 고하겠다고 하며 다가선다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:3:21",
+      "textSha256": "94877087cfb5bae2e5f242ab9b96022e749c7d857a65e740842b209daa91d059",
+      "status": "exclude",
+      "reason": "H031의 감정 처리와 비교해도 숨긴 칼을 꺼내 왕의 몸을 찌르는 행동이 전부여서 관계 갈등의 자연스러운 선택 실마리로 옮길 수 없다.",
+      "contextNote": "에훗이 에글론을 직접 칼로 찌른다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:3:22",
+      "textSha256": "fa5e4a4270353d7573a0120840082a9ff7404c4972af85ddc7b17e2e4571ab8c",
+      "status": "exclude",
+      "reason": "H053의 끝맺음과 비교해도 칼이 몸을 관통하고 지방이 칼날에 엉긴 구체 살해 묘사여서 일을 완수하라는 생활 뜻을 붙이면 본문을 지워야 한다.",
+      "contextNote": "칼을 빼지 않은 상태와 에글론의 몸을 잔혹하게 묘사한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:3:23",
+      "textSha256": "1527e8934390be3fa4a106889f072e334979b1b63610e7de3652304f773e70b1",
+      "status": "exclude",
+      "reason": "H029의 경계 세우기와 비교해도 살해 후 현관으로 나와 다락문을 잠그는 도주 준비이므로 침해받은 사람의 안전한 거리 확보와는 다르다.",
+      "contextNote": "에훗이 살해 현장을 닫아 신하들의 발견을 늦춘다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:3:24",
+      "textSha256": "324d1574c3a3725f26a33e73b74aee9e96211db518da0e0721ba00c30a6bbf80",
+      "status": "hold",
+      "reason": "H030에서 확인 없이 사정을 확신하는 모습을 돌아볼 수는 있으나 발을 가리운다는 완곡어와 암살 현장에 대한 앞뒤 지식이 있어야 추측의 오류가 읽힌다.",
+      "contextNote": "신하들이 잠긴 다락문을 보고 왕이 용변 중이라고 단정해 기다린다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:3:25",
+      "textSha256": "621962ded18d2de1a6d2b2a8b08afe2fb6722dd2602d8a27fbe9f9899d6f92a9",
+      "status": "hold",
+      "reason": "H030에서 오래 기다리다가 직접 확인하는 행동은 보이지만 발견한 것이 살해된 왕이라는 후반이 강해 현재 친구 소문 확인과 연결하려면 사건 설명이 많이 필요하다.",
+      "contextNote": "신하들이 열쇠로 문을 열어 왕의 죽음을 뒤늦게 발견한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:3:26",
+      "textSha256": "543e9c6a0ab593dbea38195b19174cd1c185685eadfdb4fa3d9673ea158d42dd",
+      "status": "exclude",
+      "reason": "A008의 접촉 회피와 비교해도 왕을 죽인 에훗이 신하들의 지체를 이용해 도망하는 장면이며 침해받은 사용자의 보호 행동으로 바꾸어 놓을 수 없다.",
+      "contextNote": "신하들이 기다리는 동안 에훗이 돌 뜨는 곳을 지나 스이라로 피한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:3:27",
+      "textSha256": "f4f09b4ded98a4979c537ef9e9aeb4a8d5af05e9d5e87f81765b4a9921291028",
+      "status": "hold",
+      "reason": "G15에서 앞서 가는 지도자의 모습은 있지만 나팔과 산지 군중을 이끄는 연결절이므로 처음 맡는 역할의 두려움에 대한 단서는 약하다.",
+      "contextNote": "에훗이 산지에서 사람들을 불러 모아 전쟁을 이끈다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:3:28",
+      "textSha256": "ecda2c3c7d4357b8880215f6074c5eeb369a3d1398f20dc9f70ffb16efbd70d6",
+      "status": "hold",
+      "reason": "G15에서 하나님을 의지해 나아가는 말은 있으나 전체는 대적을 붙이셨다는 선언 뒤 강나루를 봉쇄해 한 명도 건너지 못하게 한 작전으로 이어져 역할 도전으로 옮기기 무겁다.",
+      "contextNote": "에훗의 지휘 아래 요단 나루를 점거해 모압군의 이동을 차단한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:3:29",
+      "textSha256": "f29908f682ba1dd219327ef1c44700484208af28389a9b57ed36d88f779cbd33",
+      "status": "exclude",
+      "reason": "H043에서 끈기를 찾으려 해도 일만 명을 죽여 한 사람도 피하지 못했다는 전과가 전부이며 방법을 점검하는 단서는 없다.",
+      "contextNote": "이스라엘이 모압의 강한 용사들을 죽여 전멸시켰다고 서술한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:3:30",
+      "textSha256": "11546a20bf4483f533b0881eb8a6cbffaf0b2dc284015847a66a8ff4297e99ff",
+      "status": "hold",
+      "reason": "H015에서 갈등 뒤 평온을 허락받는 이미지는 있으나 모압의 항복과 팔십 년 태평이라는 결과 요약으로 지금 쉬는 선택이 나의 어떤 부담에 맞는지는 약하다.",
+      "contextNote": "에훗의 승리 후 모압이 항복하고 긴 평온의 시대가 이어진다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:3:31",
+      "textSha256": "5c9949dee46a9b1c4a0282a63fa7fc348ef5e5829ad9e21a037d13adcc316e23",
+      "status": "exclude",
+      "reason": "H057의 작은 도구로 시작하기와 비교해도 소 모는 막대기로 육백 명을 죽인 전체 결말이 있어 준비가 덜 돼도 작은 운동을 시작하라는 뜻으로 잘라 읽을 수 없다.",
+      "contextNote": "삼갈이 소 모는 막대기로 블레셋 사람을 죽여 구원한 일을 짧게 요약한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:4:1",
+      "textSha256": "f1fa3acb37c7f4ef4c1b1ca4bc06a0db133906d8a38028a7b5c27cd3d358ab0f",
+      "status": "hold",
+      "reason": "A036에서 같은 잘못으로 돌아가지 않는 경계는 떠오르지만 에훗 사후 다시 악을 행했다는 원인절이므로 아직 참여를 결정하지 않은 사람의 부담과는 거리가 있다.",
+      "contextNote": "에훗 시대 이후 다시 시작된 이스라엘의 악행을 다음 압박의 이유로 소개한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:4:2",
+      "textSha256": "4feb62ac8dbcd7708b07e1ad79581a15661168c43c6d1c9e88d5df0ed4909274",
+      "status": "exclude",
+      "reason": "H047의 답답한 일터와 비교해도 하나님이 이스라엘을 왕 야빈에게 파셨다는 설명과 시스라의 거처 소개여서 이직과 수입 부담의 실마리는 없다.",
+      "contextNote": "하솔 왕 야빈과 군대 장관 시스라를 새 압박자로 소개한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:4:3",
+      "textSha256": "768e24da42ff506dd113b97818ffc2c263b6cd24b0a38c0e2322e52ce26b20f4",
+      "status": "candidate",
+      "reason": "H058에서 심한 압박을 혼자 감당하기보다 하나님께 아뢰고 도움을 구할 방향이 실제 부르짖음에 드러난다.",
+      "contextNote": "구백 철병거를 지닌 야빈에게 이십 년간 학대받은 백성이 하나님께 부르짖는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "심한 부담을 부르짖어 알린 장면에서 현재 지친 상태를 숨기고 혼자 다 하려 하기보다 도움을 청할 용기를 읽는다.",
+          "friction": "철병거와 이십 년 학대라는 국가적 압박이다. 사용자의 과로가 같은 적의 압박이거나 친구에게 위기를 과장하라는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:4:4",
+      "textSha256": "84e393519b82a3242e434e4eb6d026126c6821936cc447a221780993c3386786",
+      "status": "hold",
+      "reason": "H041에서 새 지도자의 존재는 보이지만 랍비돗의 아내 드보라가 사사가 됐다는 소개에서 문장이 이어져 역할의 두려움을 다루는 단서까지는 없다.",
+      "contextNote": "여선지자 드보라의 신분과 사사 역할을 소개한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:4:5",
+      "textSha256": "92570a5bbacaba3a0daca54f563755894204ea4b1973b0dbad2a7f603b54b926",
+      "status": "candidate",
+      "reason": "H051에서 모르는 문제를 혼자 감추기보다 경험과 역할이 있는 사람에게 찾아갈 방향을 읽을 수 있다.",
+      "contextNote": "백성이 드보라가 있는 종려나무 아래로 나아가 판단을 받았음을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "사람들이 판단할 수 있는 사람에게 찾아간 모습을 보고 모르는 문제를 혼자 감추기보다 조언을 구할 방향을 읽는다.",
+          "friction": "드보라는 재판하는 사사이며 멘토의 모든 말이 같은 신적 권위를 갖거나 무조건 좋은 반응을 보인다는 약속은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:4:6",
+      "textSha256": "03183bb7453d10cade433e30ba56eb6c39be9a6f222b944be27664f9e2fa90a0",
+      "status": "candidate",
+      "reason": "G15에서 맡을 자리 앞에 주저하기보다 하나님을 의지하여 주어진 역할로 나아가는 용기를 읽을 수 있다.",
+      "contextNote": "드보라가 바락을 불러 두 지파 일만 명을 이끌고 다볼산으로 가라는 명령을 전한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G15",
+          "clue": "주어진 자리로 가라는 부름을 개인적으로 받아 두려움만으로 원하던 역할을 뒤로 미루지 않을 용기를 얻는다.",
+          "friction": "바락에게 두 지파 군대를 이끌라는 특정 전쟁 명령이다. 서비스가 사용자의 임명이나 역할 성공을 하나님 뜻으로 확정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:4:7",
+      "textSha256": "b4b35005c83dba810ed6dfe38af4533fb165a74119fc9c8fbdff14b45bf75082",
+      "status": "hold",
+      "reason": "G15에서 하나님이 함께하신다는 확신은 얻을 수 있지만 기손강으로 대적을 유인해 붙이겠다는 구체 승리 예고가 전부여서 현대 역할의 성공을 예상하는 연결이 강해진다.",
+      "contextNote": "드보라가 바락에게 시스라를 넘기실 하나님의 약속을 전달한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:4:8",
+      "textSha256": "c5116bd2d665e861690b83e474850f8b1e9c7b979aa711f54d95b011617f6631",
+      "status": "candidate",
+      "reason": "H033에서 혼자 할 자신이 없다는 상태를 숨기지 않고 필요한 동행을 요청할 구체 실마리가 있다.",
+      "contextNote": "바락이 드보라에게 함께 가 주면 가겠지만 혼자라면 가지 않겠다고 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "당신이 함께 가면 가겠다는 솔직한 요청에서 혼자 못하겠다는 이유로 모든 일을 포기하기보다 필요한 동행을 말해 볼 수 있다.",
+          "friction": "전쟁 앞에서 드보라의 동행을 요구한 바락의 말이다. 부탁받은 사람이 반드시 따라야 한다거나 내 책임을 전부 넘기라는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:4:9",
+      "textSha256": "54f0ab2f60aa0fc3c1f95578b872fdb5869f4c68a501ece5ec7450d00fbf658b",
+      "status": "hold",
+      "reason": "H033에서 함께 가겠다는 응답은 반갑지만 영광을 못 얻고 시스라가 여인의 손에 팔린다는 예고가 길게 붙어 현재의 도움 요청에 생길 대가를 새로 지어내기 쉽다.",
+      "contextNote": "드보라가 동행을 약속하면서 승리의 영광이 바락에게만 돌아가지 않을 것이라 말하고 함께 간다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:4:10",
+      "textSha256": "c2de148bf0a0178b4d159a24aa83dddbd30fb790e4fedb8f3646440d99f4fb08",
+      "status": "hold",
+      "reason": "A009에서 함께 일하는 모습은 있으나 두 지파 일만 명과 드보라가 바락을 따라 올라갔다는 결과라 실제 팀원의 자발성과 역할 분담 기준은 보이지 않는다.",
+      "contextNote": "바락이 두 지파를 게데스에 모으고 드보라와 함께 출정한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:4:11",
+      "textSha256": "7a01fa3654c5a3cb42aae2a86d2154e4622e0830bb12031ed80dd9ea0281b953",
+      "status": "hold",
+      "reason": "A020에서 자기 무리를 떠나 새곳에 거주한 모습은 닿지만 헤벨의 계보와 장막 위치를 알려 주는 배경이어서 준비된 새 도시 기회에 대한 선택 부담은 약하다.",
+      "contextNote": "야엘의 집이 놓인 위치를 설명하기 위해 겐 사람 헤벨의 이주를 소개한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:4:12",
+      "textSha256": "a5807b6936dc39311d49a983ec21de3787111f81a7bc932b49834bb02b6b8ce8",
+      "status": "exclude",
+      "reason": "H052의 사실 보고와 비교해도 누군가 바락의 진군을 적장에게 알렸다는 짧은 전쟁 정보 전달이며 정직과 과장 사이의 선택은 나타나지 않는다.",
+      "contextNote": "바락이 다볼산에 올랐다는 소식이 시스라에게 전해진다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:4:13",
+      "textSha256": "3463efe9e66afff79cd828d83906125d7c50b3ded2b4f1e655aeb2110f3d2020",
+      "status": "exclude",
+      "reason": "A009의 사람 모으기와 비교해도 시스라가 철병거 구백승과 모든 군사를 집결시킨 기록뿐이며 혼자 하던 부담을 공정하게 나눌 단서는 없다.",
+      "contextNote": "시스라가 이방 하로셋에서 기손강으로 군대를 모은다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:4:14",
+      "textSha256": "7f1728f419195366a182a4d86ee30c50db95af2beaaccc127c875a4b927d9f54",
+      "status": "candidate",
+      "reason": "G15에서 두려워 주저하는 사람에게 일어나라는 말과 하나님이 앞서 가신다는 표현이 원하던 역할을 시도할 용기로 읽힌다.",
+      "contextNote": "드보라의 격려를 받은 바락이 일만 명을 이끌고 산에서 내려가 전투를 시작한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G15",
+          "clue": "일어나라는 말과 하나님이 앞서 가신다는 격려에서 내 부족함만 바라보던 마음을 바꾸어 원하던 역할에 한 걸음 나아갈 수 있다.",
+          "friction": "시스라를 붙이신 당일의 전쟁 명령이다. 현재 날짜가 성공의 정해진 날이거나 경쟁자가 반드시 패한다는 보장은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:4:15",
+      "textSha256": "6baaa2a23dc6b186c7464113fa9ccbb47adb4a0317364edd1a208b8929b7ea34",
+      "status": "hold",
+      "reason": "H041에서 내 능력만으로 된 결과가 아니라는 위로는 가능하지만 군대의 패배와 시스라의 도주 결과를 말할 뿐 처음 역할을 맡을 선택은 직접 건드리지 않는다.",
+      "contextNote": "하나님이 시스라 군대를 패하게 하셔서 시스라가 병거를 버리고 도망한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:4:16",
+      "textSha256": "e1db3bc163bb28dff1774c08e1c2e004618ce89ca21aa75fbbec25f4c7a525a8",
+      "status": "exclude",
+      "reason": "H043의 끝까지 노력하기와 비교해도 모든 군대를 추격해 남은 자 없이 죽인 내용이어서 현재 방법을 점검하라는 생활 실마리로 삼기 어렵다.",
+      "contextNote": "바락이 이방 하로셋까지 추격하여 시스라의 군대를 전멸시킨다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:4:17",
+      "textSha256": "a58a18fecc95581c7a7c20b462059a3402368374f85a1d7c4a338d79ca61e2a2",
+      "status": "hold",
+      "reason": "A008의 피할 곳과 비교해도 도망자가 침해받은 사용자가 아니라 적장 시스라이고 왕과 헤벨 집의 화평을 믿은 피신 배경이므로 안전한 장소 선택의 사례로 삼기 어렵다.",
+      "contextNote": "시스라가 야빈 왕과 친선 관계인 헤벨의 아내 야엘의 장막으로 피한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:4:18",
+      "textSha256": "f9d1773e6d395844f864099d55daf10c9a45aaf751ae8a4a3e6006f73a218855",
+      "status": "hold",
+      "reason": "A018에서 두려워 말라며 영접하는 모습은 있으나 뒤에서 시스라를 죽이는 야엘의 행동과 함께 읽으면 진실한 환대의 모델로 받아들이기 어렵다.",
+      "contextNote": "야엘이 도망온 시스라를 장막으로 들이고 이불로 덮어 안심시킨다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:4:19",
+      "textSha256": "a31ab499ff40b4f55dde35bf461aef182306ffbff87b6e82c90181e1592d99a8",
+      "status": "hold",
+      "reason": "H034에서 작은 물질 도움을 주는 모습은 보이지만 젖을 마시우고 덮어 준 뒤 잠든 사람을 죽이는 문맥이므로 단순한 친절의 권유로 바꾸기 어렵다.",
+      "contextNote": "시스라가 물을 청하자 야엘이 젖을 마시게 하고 다시 덮어 준다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:4:20",
+      "textSha256": "3bc89c1cfc9218a8419ece5691d5bf7f65bb276a45e495c28b0d1d8b5bca888b",
+      "status": "exclude",
+      "reason": "H039의 친구 비밀과 달리 수배된 전쟁 지휘자가 자신의 존재를 없다고 거짓말해 달라는 요청이므로 신뢰받은 일상 비밀을 지킬 근거가 되지 않는다.",
+      "contextNote": "시스라가 야엘에게 장막을 지키며 사람을 숨겨 달라고 요구한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:4:21",
+      "textSha256": "0978d921a32aa61ad0d2ac921a7d1470f9a4f9bf3d188cfaa7674fcf37bbafc8",
+      "status": "exclude",
+      "reason": "H055의 휴식과 비교해도 잠든 사람의 관자놀이에 말뚝을 박아 죽인 전체 장면이므로 지금 회복을 위해 쉬면 위험하다는 뜻을 붙일 수 없다.",
+      "contextNote": "곤비해 잠든 시스라를 야엘이 장막 말뚝과 방망이로 살해한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:4:22",
+      "textSha256": "ca521afdfde70311b24ccb10a93ed1ae1f46108a22d492823b9bcbc94050bf87",
+      "status": "exclude",
+      "reason": "H030에서 직접 확인하는 행동은 있으나 말뚝이 박힌 시체를 보여 주는 살해 결말이 중심이어서 친구에 관한 소문을 확인하는 고민과 자연스럽게 맞물리기 어렵다.",
+      "contextNote": "야엘이 바락을 불러 시스라의 시체를 확인시킨다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:4:23",
+      "textSha256": "526888f207db4a7a927d1f8179556908e30eab942d7cb1428ea362b18d251d23",
+      "status": "hold",
+      "reason": "G15에서 하나님을 의지할 위로는 있으나 야빈을 패하게 하신 과거 승리의 결론뿐으로 맡을지 망설이는 구체 부담에 대한 단서는 짧다.",
+      "contextNote": "시스라 사건을 포함한 승리의 원인을 하나님께 돌린다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:4:24",
+      "textSha256": "e24ab5a1c50f6a7a424b2b593d0886dccea50854a9389ee7bb8e4b9ab84f4ffe",
+      "status": "hold",
+      "reason": "H043에서 점진적인 진전을 읽을 수 있지만 마침내 왕을 진멸했다는 결말까지 있어 같은 실패 방법을 유지할지 바꿀지에 대한 생활 판단으로는 무겁다.",
+      "contextNote": "이스라엘이 야빈 세력을 차츰 이겨 최종 멸망시켰음을 요약한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:5:1",
+      "textSha256": "850a783136e744385abd2c1e2f9ff644f64df2eb35af86f0d0341c98aa0be29f",
+      "status": "exclude",
+      "reason": "A012의 감사와 비교해도 드보라와 바락이 노래를 시작했다는 머리말뿐이며 감사할 대상이나 어떤 마음을 전할지가 아직 나오지 않는다.",
+      "contextNote": "드보라와 바락의 승리 노래를 도입한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:5:2",
+      "textSha256": "f63c0abffa37d36e79c29fc10ec40fe4c716f9fb1107e8982af669bc700d8076",
+      "status": "candidate",
+      "reason": "A009에서 지도자와 기꺼이 참여하는 사람들이 함께 기여하는 모습을 보고 혼자 독점하던 일을 나눌 방향을 읽는다.",
+      "contextNote": "승리의 찬송이 지도자들의 인도와 백성의 자발적인 헌신을 함께 기린다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A009",
+          "clue": "이끄는 사람과 즐거이 헌신하는 사람들이 함께 기여한 장면에서 유능하고 의사도 있는 팀원에게 실제 일을 나누는 방향을 읽는다.",
+          "friction": "승리 뒤 찬송이며 구체적인 업무 분담표를 제시하는 구절은 아니다. 원하지 않는 사람에게 헌신을 강요하거나 지도자 책임이 사라졌다고 하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:5:3",
+      "textSha256": "abd4110e19b9bfe8743bb01f9223538e4382a65c46bf65c660d94ff3bb08b1b6",
+      "status": "hold",
+      "reason": "A035에서 하나님께 마음을 돌리는 태도는 있으나 왕과 방백에게 찬송을 듣게 하는 선언으로 지금의 혼란한 선택을 살필 실마리는 직접적이지 않다.",
+      "contextNote": "드보라가 왕들과 방백들에게 귀 기울여 하나님의 찬송을 들으라고 부른다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:5:4",
+      "textSha256": "61dd8013d1564d0340e80f492f77292572dc36a60b5f6006586bd31d950f559e",
+      "status": "exclude",
+      "reason": "A014의 강풍 예보와 비교해도 하나님이 에돔에서 진행하실 때 땅과 하늘이 진동한다는 시적 현현 묘사이므로 내일의 날씨나 장비 이동을 판단할 정보가 아니다.",
+      "contextNote": "세일과 에돔에서 오시는 하나님의 위엄을 비와 진동으로 노래한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:5:5",
+      "textSha256": "fd5e8835a1bc744f7e83f879dd2b3edf383f6700ffb398edb27f809f42f7fdbd",
+      "status": "exclude",
+      "reason": "H063에서 큰 힘 앞에 멈춘다는 감상은 가능해도 시내산까지 하나님 앞에서 진동했다는 시적 장면만으로 마음이 불안한 이유나 지금 할 선택은 읽히지 않는다.",
+      "contextNote": "산들의 진동을 통해 하나님이 이스라엘에게 나타나신 위엄을 강조한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:5:6",
+      "textSha256": "ff911ec4e02bfd4f2853b1ab118ddc85550c1f8d81c48aef6dcabf7d99fabfc1",
+      "status": "hold",
+      "reason": "H013에서 대로 대신 소로를 고르는 모습은 보이지만 시대의 실제 압박 때문에 길이 비었다는 묘사여서 현재 여행이 위험하다는 사실이나 안전한 대안을 새로 가정하면 안 된다.",
+      "contextNote": "드보라가 일어나기 전 불안정했던 시절의 교통과 생활을 노래한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    }
+  ]
+}

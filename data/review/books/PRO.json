@@ -12474,6 +12474,1320 @@
           "expectedEnough": "yes"
         }
       ]
+    },
+    {
+      "id": "KRV:PRO:28:15",
+      "textSha256": "6d1257fae64c210e9ccdef3b456b13dee9cfe310b1dc890b42d3228815f89048",
+      "status": "exclude",
+      "reason": "가난한 백성을 억누르는 통치자의 폭력을 말하므로 친구와의 거래나 역할 지원을 그대로 이 정치적 압제에 놓을 수 없다.",
+      "contextNote": "악한 관원을 위협하는 사자와 곰에 비유한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:PRO:28:16",
+      "textSha256": "3ba051699638e7a34bbd1692544d258bbdfb55dc154742a1db820100cc5f1ba7",
+      "status": "hold",
+      "reason": "배움과 탐욕 절제의 가치는 있으나 무지한 통치자의 포학이라는 조건을 처음 운영을 맡는 두려움에 새로 넣을 수 없다.",
+      "contextNote": "폭력적 치리와 탐욕 없는 삶의 차이를 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G15",
+          "clue": "배워 운영할 필요는 보인다.",
+          "friction": "처음의 부족함이 곧 폭력적 치리라는 조건은 아니며 탐욕의 실제 동기도 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:28:17",
+      "textSha256": "46b9eeb0a1e121e94a0bfbdce3dddcb703fe83e4e95d439ccbf751c2448ef1bf",
+      "status": "exclude",
+      "reason": "살인한 사람의 도주와 개입 금지를 말해 일상 실수나 도움의 요청에 적용하면 살인의 조건을 크게 바꿔야 한다.",
+      "contextNote": "유혈 가해자의 몰락을 막지 말라고 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:PRO:28:18",
+      "textSha256": "5f86428cad1d09f1119679b1c314aa25406eebdfb22ce9af08980a9e6e67e47e",
+      "status": "candidate",
+      "reason": "성실한 길의 보전과 굽은 길의 넘어짐을 대비해 평가 이익을 위해 내용을 굽힐지에 닿는다.",
+      "contextNote": "성실함과 사곡의 결말을 비교한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "유리하게 비틀 내용보다 성실하게 감당할 사실을 본다.",
+          "friction": "현재 점수나 적발의 결과를 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:28:19",
+      "textSha256": "2dafb2e335309ec7ed80f2704c01a9e7c0423304c5c1d8e2872516921118e6cb",
+      "status": "candidate",
+      "reason": "현재 자기 밭을 돌보는 수고와 다른 자극의 추구를 비교해 지루한 마무리를 버릴지 돌아보게 한다.",
+      "contextNote": "경작의 양식과 방탕의 부족을 대비한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H053",
+          "clue": "눈앞의 마무리를 버리기 전에 그 몫의 열매도 고려한다.",
+          "friction": "새 일을 모두 방탕으로 분류하거나 기존 방식의 성공을 예고하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:28:20",
+      "textSha256": "1d1684be6b66f5d9261cadbb0551da4b271d2e09e7906dfade598a8a34fbb2ba",
+      "status": "candidate",
+      "reason": "빨리 큰 몫을 얻는 것과 신실함을 지키는 것을 나누어 부풀린 성과를 따라갈 압박을 낮춘다.",
+      "contextNote": "충성과 성급한 부의 추구를 비교한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B014",
+          "clue": "남의 부정한 빠른 성과보다 실제 해온 일을 지킬 가치를 본다.",
+          "friction": "현재 부나 처벌을 실제 사실로 예언하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:28:21",
+      "textSha256": "809e6e804191983ab2a7d10a67616e4f121973b21684124a6a252e7e5dcf55b8",
+      "status": "candidate",
+      "reason": "얼굴을 보아주는 판단을 직접 거절하여 친한 사람에게 좋은 몫을 더 줄지에 닿는다.",
+      "contextNote": "편파적 판단과 작은 대가를 위한 범법을 경계한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B003",
+          "clue": "친구의 얼굴보다 같은 참여 조건과 준비된 몫을 본다.",
+          "friction": "작은 이득을 받았다는 뇌물 사실을 현재 사용자에게 덧붙이지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:28:22",
+      "textSha256": "ae67c7878986606b7f2243fd404a51ae1a9aa59f824357159200623a76f0e45d",
+      "status": "hold",
+      "reason": "돈만 급히 좇는 비용은 있으나 가격 확인에 지쳐 정리하려는 마음이 곧 악한 눈의 탐욕인지는 알 수 없다.",
+      "contextNote": "재물만 서두르는 시야와 뒤의 궁핍을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G07",
+          "clue": "돈의 숫자만 붙드는지 돌아볼 여지는 있다.",
+          "friction": "빨리 정리하려는 확인 피로와 속히 부자 되려는 탐욕은 다른 부담이며 실제 현금 기한 G08을 지우면 안 된다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:28:23",
+      "textSha256": "bfc81e307f6d93e2fcd11950bf88dd8782c554199877f6aa60a2bd98344a3d31",
+      "status": "candidate",
+      "reason": "불편한 지적과 듣기 좋은 아첨을 비교해 실수를 알려준 팀원의 말을 받아들일지에 직접 닿는다.",
+      "contextNote": "책망과 아첨이 시간이 지나 받을 평가를 비교한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "귀에 좋은 말보다 사실을 고칠 말의 가치를 본다.",
+          "friction": "나중에 반드시 서로 사랑하게 된다는 인간 반응의 보증은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:28:24",
+      "textSha256": "251ebfb1a4e1740620e376e88ac4385c3e73160a82917e65b0bdd44a30985734",
+      "status": "hold",
+      "reason": "가족이라고 잘못을 가볍게 넘길 수 없다는 기준은 있지만 부모 물건의 절도가 진로 차이와 같은 행위는 아니다.",
+      "contextNote": "부모의 소유를 훔치며 부인하는 행위를 경계한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H036",
+          "clue": "가족을 존중할 부담은 생각한다.",
+          "friction": "다른 진로를 말하는 것이 부모 소유의 절도라는 조건은 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:28:25",
+      "textSha256": "3d0495527efd9e83c51babb5f528c75da4253d5f102521de6c63fa5649ff57fa",
+      "status": "candidate",
+      "reason": "더 가지려는 마음과 다툼을 함께 보아 이미 합의한 거래를 높은 제안 때문에 바꿀지 돌아보게 한다.",
+      "contextNote": "탐욕의 다툼과 신뢰의 풍족함을 대조한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G09",
+          "clue": "더 받을 돈 때문에 먼저 한 약속과 다툴 몫까지 본다.",
+          "friction": "더 높은 제안을 한 사람이 악하다거나 다른 판매의 보상이 주어질 것이라 예고하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:28:26",
+      "textSha256": "37a2de87f6edd6b5309d532596d9ba7f9a99157bbb91a892c06c0f15d7ab3a81",
+      "status": "candidate",
+      "reason": "자기 마음의 확신만 따르지 말라는 기준이 완벽한 답을 혼자 확보하려는 부담을 낮춘다.",
+      "contextNote": "자기 믿음과 지혜로운 행실을 구별한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H061",
+          "clue": "나의 확신을 완벽히 세워야만 고른다는 부담을 내려본다.",
+          "friction": "지혜로운 행실은 필요한 사실 확인의 포기나 신의 답을 서비스가 지정함이 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:28:27",
+      "textSha256": "ee994f980061a4f6609b888827836f1bfe9787a12a646d6d7395815ff5259229",
+      "status": "candidate",
+      "reason": "가난한 이의 필요를 못 본 체하지 않는 행동이 여력이 있는 나눔에 직접 닿는다.",
+      "contextNote": "구제와 외면의 다른 결실을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H059",
+          "clue": "이미 내게 있는 여유로 필요를 외면하지 않을 수 있다.",
+          "friction": "나누면 돈이 줄지 않는다거나 외면하면 실제 저주받는다는 현재 보증은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:28:28",
+      "textSha256": "5f28ae6647d5a2a4b3e38fd547161f1d125fb1adc7035737ca41fd63c66bb190",
+      "status": "hold",
+      "reason": "부정한 권세의 비용은 있지만 현재 과장 이력의 성공이 사람들을 숨게 하는 통치라는 사실은 없다.",
+      "contextNote": "악인의 흥망과 의인의 증가를 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B014",
+          "clue": "부정한 이득의 영향은 생각할 수 있다.",
+          "friction": "평가에서 앞선 일이 실제 권력 장악이나 시민의 도피와 같지는 않다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:29:1",
+      "textSha256": "b45f3e756af9a678400ce489ec7e0d265395d1bf4594018cb48af912ef99346d",
+      "status": "hold",
+      "reason": "지적을 거절하지 않을 기준은 있으나 자주 책망받아도 계속 버틴 이력과 갑작스러운 파멸을 현재 한 번의 실수에 넣을 수 없다.",
+      "contextNote": "반복 책망과 완강함의 결과를 경고한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "지적을 거부하는 태도를 살필 수 있다.",
+          "friction": "여러 번의 견책에도 버틴 과거가 입력에 없고 실제 파멸을 예고할 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:29:2",
+      "textSha256": "28dd1ac9716d6bcc0d8c63799d5bba8ef09254da914b5bc98623dc460caa390f",
+      "status": "hold",
+      "reason": "운영자의 태도가 사람들에게 닿는 가치는 있으나 의인과 악인의 집권을 첫 동아리 역할 지원에 바로 대응시키기는 넓다.",
+      "contextNote": "29장이 의와 악의 통치 아래 백성의 반응을 비교한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G15",
+          "clue": "운영의 책임과 다른 사람의 마음을 생각할 수 있다.",
+          "friction": "내가 의로운 통치자인지나 다른 사람이 악인인지의 정치적 분류를 새로 넣어야 한다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:29:3",
+      "textSha256": "d7e42c21dfcd3c7cc7c32560fa38b326f7d625af7e1d38dd549f8adbebee05b3",
+      "status": "hold",
+      "reason": "배움과 다른 친밀함의 비용은 있지만 창기를 사귀며 재산을 쓰는 상황이 현재 동료의 초대에 실제 주어진 것은 아니다.",
+      "contextNote": "지혜를 구함과 성적 방종의 재산 손실을 비교한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B019",
+          "clue": "현재 관계 밖으로 향하는 선택의 비용은 생각한다.",
+          "friction": "동료가 성매매 상대이거나 재산을 쓰는 행위는 입력에 없어 전체와는 차이가 크다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:29:4",
+      "textSha256": "ac1be4381957c7a784f77120aae6cfc79fbf776d69601a1bcb9fadf9ff041b44",
+      "status": "candidate",
+      "reason": "맡은 권한을 공평함에 두는 기준이 친분에 따른 분배를 다시 보게 한다.",
+      "contextNote": "공의의 안정과 강요된 뇌물의 파괴를 대비한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B003",
+          "clue": "작은 권한도 공평한 분배에 쓸 기준을 본다.",
+          "friction": "실제 왕이나 강요된 뇌물의 사건이 있다고 만들지 않고 같은 조건을 보존한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:29:5",
+      "textSha256": "3c20fed672e951a3120d2ba11d508a17e7a7eac468e690b68d6b468bfe991c87",
+      "status": "hold",
+      "reason": "기분 좋은 말이 도움만은 아니라는 기준은 있으나 현재 받은 칭찬이나 아첨의 실제 상황은 없다.",
+      "contextNote": "아첨을 이웃 발 앞의 그물에 비유한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "좋은 말보다 실제 도움을 볼 여지는 있다.",
+          "friction": "지적 외에 아첨을 들었다는 사실이 없어 원문 전체의 선택과는 거리가 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:29:6",
+      "textSha256": "a22554fde7b446cbe04f7a573b3e8180056c37aeb8e22ecf10344c881ca32f66",
+      "status": "candidate",
+      "reason": "거짓 행위가 스스로를 묶는 줄이 될 수 있다는 대비가 평가의 과장을 살피게 한다.",
+      "contextNote": "죄의 올무와 의로운 기쁨을 비교한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "한 번 유리해질 말이 나를 묶을 부담도 본다.",
+          "friction": "현재의 실제 적발과 처벌이나 정직의 평가 보상을 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:29:7",
+      "textSha256": "cc336186a3203e36195ce34ca46e2751ff76a2f050b1ae671c748f2445c2e650",
+      "status": "candidate",
+      "reason": "도움이 필요한 사람의 사정을 알아보는 행위 자체를 귀히 두어 여력 있는 나눔에 닿는다.",
+      "contextNote": "가난한 사람을 이해하는 지식과 무지를 비교한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H059",
+          "clue": "무조건 보유할지보다 지금 들리는 필요의 사정을 알아볼 수 있다.",
+          "friction": "돈을 못 내면 상대 사정을 무지하게 외면한 인격이라 판정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:29:8",
+      "textSha256": "c7d59f15b2b802e07a3fa8c50743a0251fbdccd74937131bc718aac85e085442",
+      "status": "candidate",
+      "reason": "노여움을 더 키우지 않는 분별이 화난 문장을 멈출 실제 이유를 준다.",
+      "contextNote": "모만한 요란함과 슬기로운 분노 절제를 비교한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "소란을 더 키우지 않을 문장과 시간을 고른다.",
+          "friction": "모만은 조롱과 거만의 문맥이며 사용자의 상한 마음 전부를 그 인격으로 낙인찍지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:29:9",
+      "textSha256": "c719ac9cf9bf284fa2302a9c73c70916bd8d69be1b6fb7e5bf30dc4ef81d2663",
+      "status": "candidate",
+      "reason": "말투를 바꿔도 끝나지 않는 다툼의 한계를 보여 이미 대화해도 반복된 침해에서 거리를 둘 여지를 준다.",
+      "contextNote": "분쟁 상대에 따라 분노와 웃음 모두 멎게 못하는 경우를 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H029",
+          "clue": "또 다른 부드러운 말만 반복하기보다 한계와 거리를 생각한다.",
+          "friction": "친구 전 인격을 미련하다 진단하거나 어떤 대화도 영원히 불가능하다는 보증은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:29:10",
+      "textSha256": "a0b9c21c3e616846d1ec75b6b3ec2ce7875d9d63707272b83ffb8f4cbf50dd4b",
+      "status": "exclude",
+      "reason": "온전한 이의 생명을 노리는 유혈 가해자를 진술하므로 현재 동료와 친구에게 살해 의도를 새로 넣어야 연결된다.",
+      "contextNote": "유혈을 좋아하는 이와 정직한 사람의 관계를 말한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:PRO:29:11",
+      "textSha256": "20f08001a08ffaa473f3241e9811cc82be2ca24d62888e527bd0ae56555e4675",
+      "status": "candidate",
+      "reason": "화를 다 드러내는 것과 억제하는 것을 직접 나누어 지금 메시지를 보낼지에 닿는다.",
+      "contextNote": "분노의 방출과 지혜로운 절제를 비교한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "분노의 전부를 즉시 보내지 않고 정리할 수 있다.",
+          "friction": "필요한 표현의 영구 금지나 반복 침해의 묵인이 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:29:12",
+      "textSha256": "fe6583fb4d562c7a5a7d08ac3a134d3b4e311911d27693ff5cb3cc62908f5adc",
+      "status": "hold",
+      "reason": "거짓을 받아주는 평가 구조는 살피게 하나 모든 하인이 악하다는 전체 진술을 한 번의 이력 평가에 일반화할 수 없다.",
+      "contextNote": "관원의 거짓 청취가 조직에 미치는 영향을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B014",
+          "clue": "과장을 좋게 받는 평가를 그대로 본받을지 살필 수 있다.",
+          "friction": "평가자가 거짓임을 알았는지와 구성원 전체의 악함은 현재 알 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:29:13",
+      "textSha256": "1ba9eab0dfef9a2f79cfaa6715d0b520891d03a69c6bf7861656dcc25bf73006",
+      "status": "candidate",
+      "reason": "형편과 행실의 차이에도 눈의 빛을 함께 받는다는 시선이 친분만으로 몫을 달리할지 돌아보게 한다.",
+      "contextNote": "가난한 이와 포학한 이에게도 주어진 빛을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B003",
+          "clue": "같은 자격의 사람을 친분과 인상만으로 덜 귀히 보지 않을 수 있다.",
+          "friction": "포학한 행위를 승인하거나 모임에 실제 폭력적 참여자가 있다는 사실을 더하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:29:14",
+      "textSha256": "355e2a445a5af127fea3c4d7b5d9dd003956bf9fbcc8193ceb01a4bf920040fc",
+      "status": "candidate",
+      "reason": "힘없는 사람의 사정을 진실하게 듣는 돌봄을 귀히 두어 여력 있는 도움의 방향을 생각하게 한다.",
+      "contextNote": "가난한 이의 신원과 왕의 견고함을 연결한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H059",
+          "clue": "필요한 사람의 사정을 성실하게 듣고 돕는 가치를 본다.",
+          "friction": "왕의 법적 신원을 개인 기부와 같게 보거나 권력의 보상을 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:29:15",
+      "textSha256": "8ef27c7d4ca0a6cb6bae0332d120be45062f0483d2063f8c590552df9b4afc2a",
+      "status": "exclude",
+      "reason": "채찍과 자녀 훈계를 모친의 명예와 연결하는 신체 징계 상황이므로 놀이 요청이나 성인 오류 수정에 순화해 붙일 수 없다.",
+      "contextNote": "자녀를 방임하지 않는 훈계와 지혜를 말한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:PRO:29:16",
+      "textSha256": "f09e95d9d7e07def01b6e8be2a4c8e41b43ecbc49c27edc0b8d96332396cb1e6",
+      "status": "hold",
+      "reason": "부정한 행위가 늘어나는 영향은 있지만 남의 몰락을 보게 될 선언이 현재 자신의 이력을 정직하게 쓸 실마리로는 간접적이다.",
+      "contextNote": "악인의 증가와 죄 및 그들의 몰락을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B014",
+          "clue": "부정한 성과의 많음만으로 좋은 기준은 아니라는 생각은 가능하다.",
+          "friction": "남의 몰락을 실제로 보게 된다는 현재 보증과 내 선악의 판정으로 바꿀 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:29:17",
+      "textSha256": "26000696657d8692d3124788c6a7e86d3b13079b2adaa4a3b2ed7ea6e5234ffd",
+      "status": "hold",
+      "reason": "자녀와의 관계를 돌볼 가치는 있지만 놀이를 청한 아이에게 어떤 징계가 필요한지라는 조건은 주어지지 않았다.",
+      "contextNote": "자녀 훈계와 부모의 평안 및 기쁨을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B017",
+          "clue": "아이와 함께하는 태도의 중요성은 있다.",
+          "friction": "놀이와 집안일의 배분이 잘못을 바로잡는 징계 상황은 아니어서 직접 판단하기 어렵다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:29:18",
+      "textSha256": "625d9e1253e8660940075ddf6b767a3dafefc962cc5167004c65805f65d0ae13",
+      "status": "hold",
+      "reason": "길잡이의 가치는 있으나 묵시와 율법을 현재 서로 다른 주변 의견에 바로 배정할 근거는 없다.",
+      "contextNote": "묵시 부재의 방자함과 율법 준수의 복을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H064",
+          "clue": "내가 따를 기준을 중요하게 볼 수 있다.",
+          "friction": "묵시의 예언적 안내와 실제 다양한 주변 의견은 같은 역할이 아니고 어떤 의견이 바른지도 미정이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:29:19",
+      "textSha256": "7d78bffe91146b01d9adfcc3cf1eb0045d65cb32be0687764da4c939c27ddbe2",
+      "status": "hold",
+      "reason": "말만으로 변하지 않을 한계는 있으나 종이 알고도 명령을 따르지 않는 관계를 친구 사이의 경계와 그대로 같게 할 수 없다.",
+      "contextNote": "종의 이해와 청종의 차이를 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H029",
+          "clue": "말로 계속 설명하는 데 한계가 있을 수 있다.",
+          "friction": "친구가 종처럼 내 명령을 따라야 한다는 관계를 가정하거나 이해하고 고의로 거부했다는 속내를 확정할 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:29:20",
+      "textSha256": "38e9a622d1d769a1abf80027cb1b0e8090371e9df0c4eca5e63dbc845385e115",
+      "status": "candidate",
+      "reason": "말의 조급함을 직접 경계해 화난 문장을 바로 보낼지에 멈춤을 준다.",
+      "contextNote": "성급한 언어의 위험을 자기 지혜보다 더 경계한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "지금의 말이 서두르는지 보고 전송을 멈출 수 있다.",
+          "friction": "영원히 침묵하거나 감정을 억압하라는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:29:21",
+      "textSha256": "4ed4869d9db89a0b6c9edf93f3de94a7aa073630ad8b4a683d47a2355930a189",
+      "status": "exclude",
+      "reason": "종을 곱게 기르면 자식인 체한다는 신분의 위계가 중심이라 일반 나눔과 관계 배려의 해로 그대로 옮길 수 없다.",
+      "contextNote": "종과 주인의 양육 및 신분 혼란을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:PRO:29:22",
+      "textSha256": "974f7a783305ca1784fa79777948e2e85e185e14f3e5e9bd5a282a59d0fb6376",
+      "status": "candidate",
+      "reason": "분노가 다툼과 잘못을 늘리는 영향을 말해 지금의 전송을 늦출 실마리를 준다.",
+      "contextNote": "분과 노의 관계적 결과를 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "분노가 더할 다툼을 보고 차분해질 시간을 둔다.",
+          "friction": "분노의 감정 자체를 죄의 확정으로 판정하지 않고 필요한 표현을 남긴다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:29:23",
+      "textSha256": "d96a76cabbba97aed3ac08e466b2fad15cd75908e875f8af80d01f662c19b31b",
+      "status": "candidate",
+      "reason": "겸손이 수치가 아니라 영예의 길일 수 있다는 말이 조언을 청할 체면 부담을 낮춘다.",
+      "contextNote": "교만의 낮아짐과 겸손의 존귀를 비교한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "부족함을 말해 묻는 겸손을 귀하게 볼 수 있다.",
+          "friction": "조언 이후의 명예나 결과를 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:29:24",
+      "textSha256": "326a5d453aa3a6ba1a5e329a68584f82293dd716365c8117d81607bdc2e68426",
+      "status": "hold",
+      "reason": "나쁜 이익에 동참하지 않을 가치는 있지만 강도의 공범과 맹세 후 은폐는 과장 이력의 유혹과 구체 행위가 다르다.",
+      "contextNote": "도둑과 결탁하여 증언을 숨기는 일을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B014",
+          "clue": "부정한 이득의 동참을 생각할 수 있다.",
+          "friction": "강도 공범과 법적 맹세의 실제 조건은 없어 과장을 범죄 사건으로 확대할 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:29:25",
+      "textSha256": "239c030a23dbd3d5bb72dd24d142b533fa98956a89d3bff763f8e928c91fda95",
+      "status": "candidate",
+      "reason": "사람의 평가를 두려워하는 마음도 올무가 될 수 있다는 말이 첫 지원의 비교 부담에 닿는다.",
+      "contextNote": "인간에 대한 두려움과 신뢰의 안전을 비교한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "남의 평가를 미리 두려워해 내 발을 묶는지 본다.",
+          "friction": "두려움이 비정상이라는 진단이나 지원의 안전과 합격 보증은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:29:26",
+      "textSha256": "9b5ecfb31db56e7e4472fba8bd62902e93a383ecbc579c3ec93d916fd9402cb8",
+      "status": "candidate",
+      "reason": "권한 있는 사람의 호의가 전부는 아니라는 시선이 좋은 평가를 위해 사실을 버려야 하는지 돌아보게 한다.",
+      "contextNote": "권력자에게 구하는 은혜와 최종 판단의 근원을 나눈다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "평가자의 호의만이 내가 쓸 말의 최종 기준인지 돌아본다.",
+          "friction": "하나님이 현재 평가를 바꾸실 것이라고 설명하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:29:27",
+      "textSha256": "b8f28a9dc707a9cac6a8e0be9ff074ec34a60df7595297ee2dc6689a3b439501",
+      "status": "candidate",
+      "reason": "정직해도 모두의 호감을 얻는 것은 아니라는 대조가 평가 이익과 진실의 갈림길을 다시 보게 한다.",
+      "contextNote": "불의와 정직이 각각 반대편에게 미움받음을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "모두에게 좋아 보이려고 사실을 굽힐 필요를 다시 본다.",
+          "friction": "내 비판자를 악인으로 판결하거나 불리한 평가가 곧 정직의 증거라고 하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:30:1",
+      "textSha256": "91561872b419cab23265ff93ad696e04efd8df6dfe1b10574892d1e8b6f06b72",
+      "status": "exclude",
+      "reason": "아굴과 수신자들의 이름을 소개하는 표제로 생활의 두 선택에 관한 내용은 없다.",
+      "contextNote": "30장의 저자와 발언 대상을 밝힌다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:PRO:30:2",
+      "textSha256": "a623ef061c4838d824730fce5971a747752493af3043f97f504e84cfba9a6b9a",
+      "status": "hold",
+      "reason": "지적 한계를 인정하는 뜻은 있으나 짐승처럼 총명이 없다는 자기 고백을 처음 지원자의 능력 판정으로 옮길 수 없다.",
+      "contextNote": "아굴이 신적 지혜 앞에서 자신의 한계를 고백한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "한계를 인정할 여지는 있다.",
+          "friction": "신적 지혜 앞 고백을 현재 사용자의 총체적 무능으로 읽으면 앞뒤 뜻이 달라진다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:30:3",
+      "textSha256": "e6f15297c6614a7ef90fd80edc44a2b53511bb012284372c076f8815404e5897",
+      "status": "hold",
+      "reason": "모르는 것을 인정할 여지는 있으나 거룩하신 분을 모른다는 고백만으로 선배에게 질문할 행동이 선명하지 않다.",
+      "contextNote": "아굴의 지혜와 하나님 앎의 부족 고백을 잇는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "모른다고 말할 가치는 느낄 수 있다.",
+          "friction": "현재 다른 사람에게 배울 질문이나 도움의 행동은 이 절에 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:30:4",
+      "textSha256": "fad9e623721ccd1ee61619888c02e386bbc3261b150d357d6f80292b1c377cc5",
+      "status": "hold",
+      "reason": "내 지식의 한계를 볼 수 있지만 창조의 권능과 이름 및 아들의 이름을 묻는 긴 질문이 결정의 부담에 닿기까지 해석을 더 요구한다.",
+      "contextNote": "인간이 다 알 수 없는 창조 권능의 주체를 묻는다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H061",
+          "clue": "모든 것을 알고 고를 수는 없다는 한계는 생각한다.",
+          "friction": "그 아들의 이름까지 묻는 신적 권능의 질문이 현재 두 길과 연결되려면 긴 풀이가 필요하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:30:5",
+      "textSha256": "a35e59566e0fee3659bcafebd691d77d147b9e1495bfe5cbd112a49bc5207a79",
+      "status": "candidate",
+      "reason": "의뢰할 방패가 있다는 그림이 지친 자신을 자기 힘만으로 지켜야 한다는 부담을 낮춘다.",
+      "contextNote": "순전한 말씀과 의뢰하는 이의 방패를 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "내 힘만이 아닌 기댈 방패의 자리를 둘 수 있다.",
+          "friction": "그 근원은 하나님이며 사람의 수락이나 현재 문제의 해결을 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:30:6",
+      "textSha256": "a919c622e3023146cbc2253a001bb692b42c76bd31f50da0acb2f3f2b3b612b5",
+      "status": "candidate",
+      "reason": "들은 것에 더해 거짓으로 만들지 않는 기준이 실제 활동보다 내용을 부풀릴지에 닿는다.",
+      "contextNote": "신적 말씀에 덧붙이는 말을 경계한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "실제 전할 사실에 내가 만든 유리한 말을 더할지 살핀다.",
+          "friction": "성경 말씀과 내 이력을 같은 권위로 만들지 않고 덧붙임의 개인적 비유로 읽는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:30:7",
+      "textSha256": "f2b0072e2d53d6603d86f5031535c906e800d082c16f5a1947ef0c0dad03ad83",
+      "status": "exclude",
+      "reason": "죽기 전 두 가지를 구한다는 청원의 도입만으로 실제 바라는 내용은 다음 절에 있다.",
+      "contextNote": "아굴의 두 가지 간구를 소개한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:PRO:30:8",
+      "textSha256": "dd6b058d10638a4cbe3079c362623ce1fff7074dc58e90403b3f7b9bf97a8d99",
+      "status": "candidate",
+      "reason": "부족과 과다 사이 필요한 몫을 구하는 말이 이미 가진 것이 충분한지 새 욕구를 더할지 돌아보게 한다.",
+      "contextNote": "거짓의 거절과 필요한 양식의 간구를 함께 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H001",
+          "clue": "더 많음보다 지금 필요한 충분함도 선택 기준에 둘 수 있다.",
+          "friction": "신발 구매를 거짓말로 판정하거나 모든 풍족함이 나쁘다는 규칙 및 실제 생활비 부족을 새로 만들지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:30:9",
+      "textSha256": "3b7a5ad4baf0e7b2df3c23d13183cc474f10f9bb18b1b537374a96fee07d0b3a",
+      "status": "hold",
+      "reason": "물질의 부족과 과다가 마음에 미치는 위험은 있으나 한 번 더 사는 신발에 신의 부정과 절도라는 조건까지는 주어지지 않았다.",
+      "contextNote": "앞의 적절한 양식 간구의 양쪽 위험을 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H001",
+          "clue": "풍요의 욕구와 부족의 압박을 함께 살필 수 있다.",
+          "friction": "현재 사용자가 신을 부정하거나 절도할 조건은 없어 물건 하나의 미래로 그 죄를 예고할 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:30:10",
+      "textSha256": "9f61aadb6302467ef6ca7a1f6d1b8289686e1158288df2239761cb81b67ea37f",
+      "status": "candidate",
+      "reason": "다른 사람을 불리한 자리에서 함부로 말하지 않는 기준이 소문만으로 친구를 판단할지에 닿는다.",
+      "contextNote": "종을 주인에게 훼방하는 말의 책임을 경계한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "직접 들어보기 전 남에게 불리한 말을 확정하지 않을 수 있다.",
+          "friction": "친구의 직장 신분과 상전이 있다는 사실이나 소문의 진위는 만들지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:30:11",
+      "textSha256": "d07ba6e7a0dc88b8e55ecdb16d1ce1ae6b12a90067e9cd7ca6e5328c41aeeddf",
+      "status": "hold",
+      "reason": "부모 존중의 가치는 있으나 부모와 다른 진로를 말하는 것이 저주하고 축복하지 않는 행위라는 사실은 없다.",
+      "contextNote": "부모를 저주하는 무리의 모습을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H036",
+          "clue": "부모를 존중할 말의 태도는 돌아본다.",
+          "friction": "자기 진로를 택함과 부모 저주를 같은 사건으로 만들 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:30:12",
+      "textSha256": "9e337373a3de83e5f9fb73351b8b8c108aa352b2130add9edb4c94c06ae6e9b8",
+      "status": "candidate",
+      "reason": "자기 눈에는 깨끗해도 실제 고칠 것이 남을 수 있다는 대비가 실수 지적을 받아들일지에 닿는다.",
+      "contextNote": "자기 의로움과 씻지 않은 실제를 비교한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "내 방법이 다 괜찮다는 생각과 실제 알려진 오류를 나눈다.",
+          "friction": "한 번 실수한 사용자 전 인격을 더러운 사람으로 낙인찍지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:30:13",
+      "textSha256": "e12bfa99ed81a6f875a4cd12ea2e5b365e038688af5ee2f29c2126c7994ef6a7",
+      "status": "hold",
+      "reason": "겸손을 돌아볼 여지는 있으나 높은 눈의 집단 묘사만으로 실제 지적을 고칠 행동까지 가는 단서는 약하다.",
+      "contextNote": "높은 눈꺼풀로 거만한 무리를 묘사한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "고집의 태도를 살필 여지는 있다.",
+          "friction": "현재 교만의 내면을 확정하기보다 실제 고칠 내용의 실마리가 있어야 하는데 이 절에는 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:30:14",
+      "textSha256": "6e99d025f41918aecb89902df41d6be50f0b8732fd3be01e075dd23520b73fd8",
+      "status": "hold",
+      "reason": "약한 이를 이용하지 않을 기준은 있지만 칼 같은 이로 가난한 이를 삼키는 가해를 단순 이자 선택과 같게 볼 수 없다.",
+      "contextNote": "빈곤한 이를 삼키는 탐욕을 치아의 무기로 비유한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B009",
+          "clue": "돈이 급한 상대에게 얹는 조건의 무게는 돌아볼 수 있다.",
+          "friction": "이자의 수준을 알지 못하고 빈곤한 이를 폭력적으로 삼키는 행위와 같다고 판정할 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:30:15",
+      "textSha256": "44f7f9c39c60f1d02596a1f3c1381fe079b49522db19bc6bcee42b6cbfa8d877",
+      "status": "candidate",
+      "reason": "더 달라는 반복과 족함을 모름을 선명히 그려 신발이 많은데도 새것을 원하는 마음에 닿는다.",
+      "contextNote": "만족 모르는 것들의 목록을 거머리의 요구로 연다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H001",
+          "clue": "또 달라는 마음과 이미 많은 소유의 충분함을 비교한다.",
+          "friction": "거머리의 과장을 사용자 인격이나 실제 가족에 붙이지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:30:16",
+      "textSha256": "eb1065c11a97e71befc590d5bee14845e7192bd735a563b198f1a35f805fc84d",
+      "status": "exclude",
+      "reason": "무덤과 불임과 마른 땅과 불의 목록은 앞의 족함 부재를 받아야 하며 현재 구매의 선택을 단독으로 읽기 어렵다.",
+      "contextNote": "만족을 모르는 네 대상을 열거한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:PRO:30:17",
+      "textSha256": "3c34a1f2b4ad38229b8182d0b2c98758667772f97c5a0a29c850d4913ba6ec75",
+      "status": "exclude",
+      "reason": "부모를 조롱하는 눈을 새가 먹는다는 강한 형벌은 현재 진로 차이의 사실이 아니며 부모 존중만 떼어 연결할 수 없다.",
+      "contextNote": "부모 경멸의 결과를 눈의 상해로 경고한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:PRO:30:18",
+      "textSha256": "2c9298dbf8070a94cc4493b130ce88f99658dbcbe4a94e148183eb24c209adbe",
+      "status": "exclude",
+      "reason": "깨닫지 못할 서너 가지가 있다는 목록 도입으로 실제 대상과 실마리는 다음 절에 있다.",
+      "contextNote": "인간이 기이하게 여기는 것들의 수를 제시한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:PRO:30:19",
+      "textSha256": "76280ee7755147091ac149ab2c94b44fe3b3f28abddfc64a86829349fa4f4d8c",
+      "status": "hold",
+      "reason": "관계의 알 수 없음은 떠올릴 수 있으나 동물과 배와 남녀 자취의 목록이 무엇을 뜻하는지 풀어야 고백의 갈등에 연결된다.",
+      "contextNote": "자취를 헤아리기 어려운 네 장면을 열거한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H032",
+          "clue": "상대와 관계의 신비를 인정할 여지는 있다.",
+          "friction": "자취의 의미와 남녀 관계가 현재 호감의 응답인지 불분명하고 상대 마음은 여전히 미정이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:30:20",
+      "textSha256": "506f0f4f78f55f35ee03a005afa245e7777551e1cc99d4e09124c30727c281e6",
+      "status": "candidate",
+      "reason": "자기 행동을 아무 일 아닌 듯 지워버리는 모습을 보며 현재의 친밀함이 가정 보존의 뜻과 맞는지 돌아보게 한다.",
+      "contextNote": "남녀의 자취 비유 뒤 간음을 부인하는 입을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B019",
+          "clue": "마음에 걸리는 친밀함을 별일 아니라고 지워버릴지 본다.",
+          "friction": "실제 간음이 이미 있었다고 만들거나 다른 사람의 전 인격을 음녀라 판정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:30:21",
+      "textSha256": "9a7bf21ba7246b29ac69fff70ebda8932be200288848f50f218c09698ef5bc51",
+      "status": "exclude",
+      "reason": "세상을 흔드는 서너 가지의 목록 도입으로 실제 사건이나 선택의 내용은 뒤에 있다.",
+      "contextNote": "사회 질서의 역전에 관한 목록을 연다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:PRO:30:22",
+      "textSha256": "2b209fbcbe07bd57b00a9bb072c4b891f53617155b80bf36e87196032a7e3096",
+      "status": "exclude",
+      "reason": "종의 왕위와 미련한 이의 포식이라는 미완결 열거로 첫 지원이나 충분한 누림을 부당한 신분 상승으로 대입할 수 없다.",
+      "contextNote": "앞의 질서 역전 목록의 첫 두 항목이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:PRO:30:23",
+      "textSha256": "7797a320ecf55de097cf5d9fc423a9dcad5b6d3e51c2f5f22ab168f50e189163",
+      "status": "exclude",
+      "reason": "미움받는 여성의 혼인과 여종의 지위 계승이 앞의 목록을 완성하므로 현재 연애나 부모 선택의 기준으로 읽을 맥락이 없다.",
+      "contextNote": "사회 질서 역전의 네 항목을 마친다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:PRO:30:24",
+      "textSha256": "da6240a87d8b5e0888ca3934e36835c0d0f45c858e64c23e4c8db71cedb16639",
+      "status": "hold",
+      "reason": "작아도 지혜로울 수 있다는 격려는 있으나 약함으로 무엇을 하는지는 다음 예들을 필요로 한다.",
+      "contextNote": "작고 지혜로운 네 생물을 소개한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "지금의 작음이 지혜의 부재는 아니라는 격려는 있다.",
+          "friction": "실제 작은 행동의 예가 뒤에 있어 지원의 실마리로 단독 충분할지는 불확실하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:30:25",
+      "textSha256": "78e0388b7bc2c0f56095723f2de80e335c0fb4e63c808e85d6bb55a853d3b742",
+      "status": "candidate",
+      "reason": "약한 존재도 제때 자기 몫을 준비한다는 모습이 처음부터 남보다 강해야 한다는 비교를 낮춘다.",
+      "contextNote": "작은 지혜의 첫 예를 여름의 개미로 든다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "지금 강하지 않아도 맡을 몫을 준비하며 움직일 수 있다.",
+          "friction": "개미의 생태를 현재 능력이나 합격의 보증으로 바꾸지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:30:26",
+      "textSha256": "09e3551279d33c3d2e0614cde3ae21971c0961d1c5799b15bbd4c2b05c6e91f9",
+      "status": "candidate",
+      "reason": "약한 존재가 바위의 힘에 기대 집을 짓는 모습이 혼자 힘으로만 버텨야 할 부담을 낮춘다.",
+      "contextNote": "작은 지혜의 두 번째 예를 바위 사이의 사반으로 든다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "내가 약할 때 외부의 힘에 기댈 자리를 찾을 수 있다.",
+          "friction": "사반의 종을 몰라도 약함과 바위의 비유는 읽히며 특정 조력자의 수락을 예고하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:30:27",
+      "textSha256": "0eb85f43e27e96221bd347f2af350af650b4bbf4ddc057a8ff2ee17193178445",
+      "status": "candidate",
+      "reason": "우두머리 없이도 함께 움직이는 모습이 남이 먼저 시작하기만 기다릴지 내 구역을 맡을지에 닿는다.",
+      "contextNote": "작은 지혜의 세 번째 예를 떼 지은 메뚜기로 든다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B008",
+          "clue": "남의 명령을 기다리지 않고 작은 구역을 맡아 협력할 수 있다.",
+          "friction": "이미 동아리 전체가 움직인다는 사실이나 지도자가 없다는 조건을 새로 넣지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:30:28",
+      "textSha256": "045cd6ece4f8f79805a99bbc08b8078dc979e189513c5efd183373f1c60301c9",
+      "status": "candidate",
+      "reason": "손에 잡힐 만큼 작아도 왕궁에 자리가 있다는 비유가 첫 지원의 지위 비교를 새로 보게 한다.",
+      "contextNote": "작은 지혜의 마지막 예를 도마뱀의 자리로 든다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "작고 미숙한 현재의 나를 좋은 자리에서 자동 배제하지 않는다.",
+          "friction": "왕궁의 비유를 채용이나 지원 합격의 예고로 설명하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:30:29",
+      "textSha256": "479313e6cb7f6c8f3e8815987278b7fc0537ab7e5a596cfd933175f4ea74e03a",
+      "status": "exclude",
+      "reason": "위풍 있게 걷는 서너 가지의 소개라 실제 대상과 삶의 실마리는 다음 절을 읽어야 한다.",
+      "contextNote": "당당하게 다니는 존재들의 목록을 연다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:PRO:30:30",
+      "textSha256": "f9f569d4e6a3bc151e050f7fec2d2a025d91dcd2603ae3559483c94ef8d2bc85",
+      "status": "candidate",
+      "reason": "작아질까 두려운 마음에 물러서지 않는 사자의 그림이 첫 운영 지원의 용기를 생각하게 한다.",
+      "contextNote": "위풍의 첫 예로 물러서지 않는 사자를 든다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G15",
+          "clue": "처음의 두려움만으로 내가 원하는 역할에서 바로 물러나지 않을 수 있다.",
+          "friction": "어떤 잘못된 길도 수정하지 말라는 뜻이나 실제 운영 성공의 보증은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:30:31",
+      "textSha256": "6b80615263b8169a0d1148fb972d14f26d03797a34aa21428c643a27e33a6849",
+      "status": "hold",
+      "reason": "당당함의 이미지는 있으나 개와 염소와 왕의 목록만으로 처음 맡을 역할의 부담까지 직접 닿지는 않는다.",
+      "contextNote": "위풍 있게 걷는 목록의 나머지 대상을 열거한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G15",
+          "clue": "당당하게 나설 용기는 연상할 수 있다.",
+          "friction": "목록의 위풍이라는 주제가 앞에 있고 내 준비나 역할의 선택 부담은 직접 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:30:32",
+      "textSha256": "4f7b90439e1cf04cec2b5e0ac6e9fc835b1befe33ba30e1099923eab15040bc3",
+      "status": "candidate",
+      "reason": "자기 과시나 해칠 계획이 섞였다면 입을 막는 조건이 화난 문장의 전송을 구체적으로 멈추게 한다.",
+      "contextNote": "교만이나 악한 도모 뒤의 자기 절제를 권한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "내 문장에 과시나 해를 갚을 뜻이 있다면 지금 멈출 수 있다.",
+          "friction": "만일의 조건을 사용자에게 이미 확정된 악의로 판정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:30:33",
+      "textSha256": "f37b9d3ffdc4e66d9fa8bd158eef1222ce2e0f1c45456b6ba9bbb07daa7d9547",
+      "status": "candidate",
+      "reason": "분노를 더 자극하면 다툼이 난다는 직접 비유가 메시지의 영향과 전송 시점을 돌아보게 한다.",
+      "contextNote": "젖과 코의 반응을 분노의 자극과 비교한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "상대를 더 자극할 말 대신 가라앉힐 시간을 둘 수 있다.",
+          "friction": "젖과 코의 비유를 실제 물리적 상해의 상황으로 만들거나 필요한 문제 제기를 막지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:31:1",
+      "textSha256": "f34f27ca530c1d665b4d270fbc63e100bf09636abd2c9f09c976ec7055577999",
+      "status": "exclude",
+      "reason": "르무엘 왕과 어머니의 가르침이라는 출처 소개로 현재 선택을 다루는 말은 아직 없다.",
+      "contextNote": "31장이 훈계의 발언자와 배경을 소개한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:PRO:31:2",
+      "textSha256": "2fdbc333dfb60fd0673c08d7c17035b8f33530e4b9c5dda24882382e1c244511",
+      "status": "hold",
+      "reason": "부모가 자녀에게 말할 친밀함은 있으나 무엇을 말할지 세 번 묻는 도입만으로 도움 요청의 실마리는 약하다.",
+      "contextNote": "어머니가 사랑하는 아들에게 권면을 열 준비를 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B015",
+          "clue": "자녀에게 내 말을 꺼낼 자리는 생각한다.",
+          "friction": "무엇을 말하는지 본론이 없어 도움의 실제 요청보다 친밀한 도입에 머문다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:31:3",
+      "textSha256": "431c16acb795bc306d023b600e9edd7f3de9071f490d6c69b2dfbad26725d477",
+      "status": "candidate",
+      "reason": "현재의 힘을 어디에 쏟는지 묻는 말이 가정을 지키려는 뜻과 관계 밖의 매력을 함께 살피게 한다.",
+      "contextNote": "왕에게 힘을 소모할 성적 관계와 파멸의 경로를 경계한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B019",
+          "clue": "설렘에 쓸 내 힘과 지키고 싶은 가정의 몫을 함께 본다.",
+          "friction": "모든 여성과의 교류를 해로운 것으로 일반화하거나 실제 정치적 파멸을 예고하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:31:4",
+      "textSha256": "5867182566c2a155fd36a32f1470c7d6c7208601b3548be0be17b79f480e7483",
+      "status": "hold",
+      "reason": "술의 선을 정할 여지는 있으나 마땅하지 않은 주체가 왕과 통치자라 현재 친구 모임에 같은 역할 조건을 넣어야 한다.",
+      "contextNote": "르무엘에게 왕의 음주 책임을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B010",
+          "clue": "판단을 위해 술을 줄이는 생각은 가능하다.",
+          "friction": "현재 왕의 직무나 특별한 공적 책임이 있다는 사실은 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:31:5",
+      "textSha256": "0f3568f30238181b637b6f26c3a9955445d915908a493bec5abbbed7c29172fd",
+      "status": "candidate",
+      "reason": "술이 판단과 공정함을 흐릴 수 있다는 우려가 더 마시고 싶지 않은 자기 선을 지킬 이유를 준다.",
+      "contextNote": "왕의 금주 권면을 법과 약자에 대한 판단의 보전으로 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B010",
+          "clue": "더 마시며 내 판단을 놓칠지 본인의 선을 돌아본다.",
+          "friction": "실제 법 위반이나 약자 압제를 이미 했다고 가정하지 않고 과음의 가능성을 경계하는 개인적 연결로 읽는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:31:6",
+      "textSha256": "6c0e4ea7f4420ff701311079cb11f60f8c8901c3ae41603d0fe07763870a9ce5",
+      "status": "exclude",
+      "reason": "죽음에 이른 이와 깊은 고통의 술이라는 특정 대상을 말하므로 보통 지친 마음의 일상 선택에 음주를 권하는 결과로 보낼 수 없다.",
+      "contextNote": "통치자의 판단 책임과 대비되는 극한 고통의 대상을 말한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:PRO:31:7",
+      "textSha256": "db58c4eb045cbcce658e6353c3885ba6e03a49b1109ad2cd45aa5f9ec0ae9a7c",
+      "status": "exclude",
+      "reason": "술로 빈궁과 고통을 잊는 앞의 대상을 잇는 문장이라 일반적 불편함을 살필지의 선택을 음주와 망각으로 바꿀 수 없다.",
+      "contextNote": "앞 절의 극한 고통을 잠시 잊는 장면을 설명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:PRO:31:8",
+      "textSha256": "e20f5c0be486ec114391b755470b2dd9604d0b0c5bb3437c26db8663a8b4abc6",
+      "status": "hold",
+      "reason": "작은 목소리의 도움을 생각할 수 있으나 실제 말 못 하는 이의 송사라는 법적 상황은 현재 친구의 필요에 없다.",
+      "contextNote": "왕에게 스스로 말 못 하는 이의 대변을 권한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "말로 돕는 작은 역할을 생각할 수 있다.",
+          "friction": "현재 친구가 법적 송사를 대변해 줄 사람을 필요로 한다는 정보는 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:31:9",
+      "textSha256": "2cde5ca5f40ab1ec0e91e5178651767dc8c3a297b887cc80e6a1a10f0cacc7c6",
+      "status": "hold",
+      "reason": "약한 이를 도울 가치는 있지만 공의로 재판하고 신원할 권한은 개인 나눔의 사용자에게 주어진 정보가 아니다.",
+      "contextNote": "통치자의 판단과 약한 이의 권리를 연결한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H059",
+          "clue": "힘없는 이를 돌아보는 가치는 있다.",
+          "friction": "재판과 신원의 권한이 필요한 도움을 개인 기부와 같게 놓으려면 연결 단계가 더 필요하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:31:10",
+      "textSha256": "64892f41be326fbdfb4970c57db824fbe0abcbf235620e1a34b84702bfc18c30",
+      "status": "candidate",
+      "reason": "관계의 가치를 귀금속보다 높이 보는 시선이 현재 배우자와 새 매력의 비교를 돌아보게 한다.",
+      "contextNote": "현숙한 여성의 드문 가치를 진주보다 높여 연다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B019",
+          "clue": "현재 관계의 사람을 새 자극과 재물로만 비교할지 돌아본다.",
+          "friction": "현숙한 여성의 이상을 모든 배우자의 실제 자질이나 사용자의 성별로 확정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:31:11",
+      "textSha256": "2fabc0baf4b35e1050dd0d8ba0d75c1f33dace0adc6e6d3a127b4ec0b7263f51",
+      "status": "hold",
+      "reason": "믿음의 가치는 있지만 그런 자의 자질을 앞에서 알아야 하고 산업의 부족 없음은 여행 초대의 선택과 직접 다르다.",
+      "contextNote": "현숙한 여성에 대한 남편의 신뢰와 생활을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B019",
+          "clue": "가정의 신뢰를 귀히 볼 수는 있다.",
+          "friction": "그런 자의 조건이 앞에 있고 실제 가계의 부족 없음은 현재의 알려진 사실이 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:31:12",
+      "textSha256": "98538f9863e877701c562e73059c6aeb06daf288956a7468cfad091280e47c12",
+      "status": "candidate",
+      "reason": "현재 배우자에게 선을 이루는 삶의 방향이 관계 밖의 친밀함과 가정을 지킬 뜻을 비교하게 한다.",
+      "contextNote": "현숙한 여성의 지속적인 선행을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B019",
+          "clue": "내 선택이 배우자에게 선이 되는지 가정 보존의 뜻으로 살핀다.",
+          "friction": "사용자의 성별을 가정하거나 모든 해로운 결혼에 영원히 남아야 한다는 규칙으로 넓히지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:31:13",
+      "textSha256": "9363257dc770d3f3d50614c7c53228d1cf824d6fa28ef4da3447b2dd32073b18",
+      "status": "candidate",
+      "reason": "구한 재료를 실제 손의 일로 옮기는 모습이 준비 후에도 프로젝트 시작을 미루는 고민에 닿는다.",
+      "contextNote": "양털과 삼을 구해 부지런히 작업함을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B006",
+          "clue": "준비된 재료를 실제 첫 작업에 쓸 수 있다.",
+          "friction": "원문의 직물 작업과 성별을 현재 프로젝트의 조건으로 만들거나 수익을 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:31:14",
+      "textSha256": "2dbc93dee7d3aaa183b37e0d4dfcbab07c8e1b0059da321231c6c62b0ceacc22",
+      "status": "exclude",
+      "reason": "먼 곳에서 양식을 가져오는 상선의 비유는 조달의 묘사로 현재 구매나 첫 시작의 갈림길을 직접 가르지 않는다.",
+      "contextNote": "가정의 양식을 마련하는 노력을 상선에 견준다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:PRO:31:15",
+      "textSha256": "28b40a20ea43dc883352aafabbae567b1621e8246ad63a81937979246fb8a948",
+      "status": "candidate",
+      "reason": "자기를 기다리는 사람의 필요를 챙기는 행동이 피곤함 속 이미 맡은 봉사 역할의 상대 부담을 보게 한다.",
+      "contextNote": "일찍 일어나 가족의 먹을거리와 여종의 일을 돌보는 장면이다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H011",
+          "clue": "피로뿐 아니라 이미 기다리는 사람의 필요와 내 약속도 같이 본다.",
+          "friction": "밤샘을 일반 덕목으로 만들거나 실제 사용자가 다른 사람에게 위임할 권한과 여종이 있다고 가정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:PRO:31:16",
+      "textSha256": "5fbe23babc2df044034d45b97a2fa02116fa6b664d86cbd7f13b704929b9de4d",
+      "status": "candidate",
+      "reason": "살 대상을 살펴보고 실제 자기 자원으로 사용을 이어가는 순서가 추천만 믿고 기기를 살지에 직접 닿는다.",
+      "contextNote": "밭을 검토해 사고 손의 수익으로 심는 활동을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H003",
+          "clue": "내가 실제 살 대상을 알아보고 사용 계획을 살필 수 있다.",
+          "friction": "밭의 수익 사례를 현재 기기의 효용이나 금전 보상 보증으로 바꾸지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
     }
   ]
 }

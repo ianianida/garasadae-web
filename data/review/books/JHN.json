@@ -1,0 +1,440 @@
+{
+  "bookCode": "JHN",
+  "corpusSha256": "f8d5c8b377e243b05fb884b4a6965d2c06a95de74b64a716ee4b95989d61e971",
+  "criteriaVersion": "garasadae-corpus-2026-10-08-v1",
+  "reviewer": "Codex review_ezk_rev",
+  "method": "direct-codex-reading",
+  "entries": [
+    {
+      "id": "KRV:JHN:1:1",
+      "textSha256": "8c7ccf594cd910d71741c70526d52cfda2f4516c04581b65ec3e9b9ba159dd66",
+      "status": "hold",
+      "reason": "말씀의 신적 정체를 선언하지만 여기서 말씀이 인격인 그리스도임을 구별하지 않으면 개인의 말에도 신적 권위를 붙이는 오독이 생길 수 있다.",
+      "contextNote": "요한복음의 서문이 말씀의 선재와 하나님과의 관계를 연다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "C001",
+          "clue": "하나님의 말씀과 내가 말하는 의견이 같은 종류인지 질문할 여지는 있다.",
+          "friction": "말씀은 곧 하나님이라는 문장을 내 생각을 신의 뜻으로 바꾸는 근거로 쓰면 맞지 않는다. 뒤의 육신이 된 말씀의 문맥이 필요하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:1:2",
+      "textSha256": "6223b631d43390dcfd9faf452f8b6d1596dca896071d2b2a70534cbc6236bfb8",
+      "status": "exclude",
+      "reason": "그가 태초에 함께 있었다는 짧은 연결은 앞의 말씀의 정체가 있어야 의미가 완성되며 현재의 관계나 역할을 같은 선재의 관계로 놓을 수 없다.",
+      "contextNote": "앞 절의 말씀과 하나님과의 관계를 다시 잇는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JHN:1:3",
+      "textSha256": "ca6bd71445b5fba811d53bad390c39f2f424a81eee18f9b1db21f6e0c1fd0bcb",
+      "status": "hold",
+      "reason": "모든 창조가 말씀으로 됐다는 신뢰는 가능성의 바탕을 주지만 현재 지원할 능력과 행동 기준보다 창조의 선언이 중심이다.",
+      "contextNote": "말씀의 창조 사역을 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "내 현재 힘만이 가능한 모든 일의 끝인지 돌아볼 여지는 있다.",
+          "friction": "내가 원하는 역할도 자동으로 이뤄진다는 보장이 아니다. 이 구체 선택에는 일반적인 하나님의 능력의 위로에 머물 수 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:1:4",
+      "textSha256": "1e8aea96aa9e4b1c58ac0c8c11b0dcaf7ace8583f60a17d5f28d2340682e83a5",
+      "status": "hold",
+      "reason": "생명과 사람의 빛이라는 선언은 방향을 찾는 마음에 닿지만 무엇을 구체적으로 멈추거나 볼지보다 말씀의 정체를 말한다.",
+      "contextNote": "말씀 안의 생명과 빛의 주제를 시작한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H063",
+          "clue": "더 많은 일 외에 내 삶을 비추는 중심이 무엇인지 생각할 여지는 있다.",
+          "friction": "그 안의 대상과 빛의 뜻을 더 풀어야 원인 모를 불편의 두 선택에 연결된다. 일반적인 영적 위로에 머물 가능성이 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:1:5",
+      "textSha256": "ff6bdd1a7c2a102d9e6f5646455ad056637d527cfa51bc4e413fd72b2c84c288",
+      "status": "hold",
+      "reason": "빛이 비쳐도 어둠이 깨닫지 못한다는 긴장은 진실이 늘 이해받는 것은 아님을 보이나 내 평가를 같은 빛으로 확정할 수 없다.",
+      "contextNote": "세상과 말씀의 관계를 빛과 어둠으로 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "인정받지 못할까 하는 걱정만으로 사실을 바꾸려는지 돌아볼 여지는 있다.",
+          "friction": "개역한글의 깨닫지 못함을 다른 번역의 이기지 못함으로 바꾸지 않는다. 나를 평가하는 사람을 어둠으로 정하거나 내 보고를 하나님의 빛으로 승인하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:1:6",
+      "textSha256": "e35db2716a6ee29c8cf1b22c6e411ea081d2d0b0a959686502de8826b56af8fb",
+      "status": "hold",
+      "reason": "요한이 하나님께 보내심을 받았다는 특정 위임은 실제 파송과 개인 의견을 구별하지만 생활의 자기 주장에 같은 위임을 새로 만들 수 없다.",
+      "contextNote": "빛의 증언자로 온 요한을 소개한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C001",
+          "clue": "권위를 대신 말하려면 실제 보냄과 내가 원하는 명분을 구별할 질문은 생긴다.",
+          "friction": "사용자는 분명히 받은 말씀이 없다는 입력이다. 요한의 보냄을 자기 의견이 곧 하나님의 뜻이라는 허가로 쓰는 연결은 맞지 않는다.",
+          "expectedEnough": "no"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:1:7",
+      "textSha256": "b6e6cc3a8265035a4df72057938b3f024b3289be3aecf7dad3874aa66c37c708",
+      "status": "hold",
+      "reason": "자신을 통해 빛을 증언하는 목적은 사람을 다른 중심으로 이끄는 역할을 보이지만 빛의 대상과 자기 역할의 구분은 다음 절이 더 밝힌다.",
+      "contextNote": "요한의 증언이 사람들의 믿음을 향한 것임을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C005",
+          "clue": "나를 돋보이게 하는 일과 사람들에게 길을 열어 주는 역할이 같은지 돌아볼 여지는 있다.",
+          "friction": "운영의 수치를 믿음의 사람 수와 동일시하지 않는다. 빛이라는 대상은 서문의 그리스도로 일상의 리더와 다르다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:1:8",
+      "textSha256": "a1dd4caf00a958c9be1657848c1005c7f3ba519595a3d5e3b1ed746988ba05fc",
+      "status": "candidate",
+      "reason": "자신은 빛이 아니고 빛의 증언자라고 분명히 나누어 자기 말과 대신 말하는 권위를 혼동하지 않는 자리를 준다.",
+      "contextNote": "빛과 요한의 관계를 구별한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C001",
+          "clue": "내 판단을 말하는 사람과 하나님의 뜻 자체를 결정하는 존재가 같은지 돌아볼 수 있다.",
+          "friction": "요한은 실제 증언의 사명을 받았지만 사용자의 개인 의견까지 같은 증언으로 승인되지 않는다. 겸손한 표현만 붙이면 신적 주장이 참이 되는 것도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:1:9",
+      "textSha256": "b0e955c47363aeae186e9959cce5e7288186c8b5eba2e05dd5897b529b9c8645",
+      "status": "hold",
+      "reason": "각 사람에게 비치는 참빛은 소속과 가치가 닫히지 않는 모습을 주지만 현재 모임에 남을지 말할지의 선택에는 직접 기준이 적다.",
+      "contextNote": "세상에 오는 참빛의 보편적 비춤을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H035",
+          "clue": "안쪽 사람만 빛을 받을 자격이 있다는 생각을 돌아볼 여지는 있다.",
+          "friction": "현재 모임의 실제 마음이 밝혀진 것은 아니며 참빛의 비춤을 소외감 해소의 결과로 보장하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:1:10",
+      "textSha256": "45ed51447405d321a1c95e365634747662eb0cd148ff6e8d1b43817c6e138769",
+      "status": "hold",
+      "reason": "세상을 지은 이를 세상이 모르는 역설은 인식과 실제 관계의 차이를 보이지만 개인의 과소평가를 같은 신적 거절로 만들 수 없다.",
+      "contextNote": "창조주인 말씀을 세상이 알아보지 못함을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H035",
+          "clue": "남의 즉각적 반응이 내 모든 가치와 관계를 정하는지 생각할 여지는 있다.",
+          "friction": "내가 모임을 만들었다거나 모두 나를 오해한다는 정보는 없다. 창조주와 세상의 관계를 그대로 적용하려면 간격이 크다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:1:11",
+      "textSha256": "b1e27ef08f309035a9ae338e2640eb29400687d1645d254ad8b7c18a78b14fba",
+      "status": "hold",
+      "reason": "자기 백성에게도 영접받지 못하는 모습은 가까움이 늘 수용을 보장하지 않음을 보이나 누구를 가리키는지와 뒤의 대안이 필요하다.",
+      "contextNote": "말씀을 거절한 이들과 그를 영접한 이들을 대비하기 시작한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H035",
+          "clue": "거절을 겪는 일이 곧 내 존재의 무가치를 뜻하는지 돌아볼 여지는 있다.",
+          "friction": "현재 모임이 실제 거절했다고 단정하지 않는다. 하였으나라는 끝은 자녀가 되는 다음 말에 이어져 단독의 선택 실마리는 제한적이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:1:12",
+      "textSha256": "16b4ee239509b558f140bdef4e8f23305dc81666ee1c28aad82f73d4a685baf2",
+      "status": "candidate",
+      "reason": "영접하고 믿는 이에게 자녀의 자리를 준다는 말은 부끄러운 과거 때문에 회복의 관계 밖으로만 자신을 미는 마음에 여지를 준다.",
+      "contextNote": "말씀의 거절 뒤 그를 영접하는 이들의 새 관계를 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "이미 인정하고 바로잡은 뒤에도 관계에 들어갈 자격이 영영 없다고 생각하는지 돌아볼 수 있다.",
+          "friction": "서비스가 사용자의 믿음과 구원을 판정하지 않으며 피해 회복 의무를 없애지 않는다. 성과로 자녀 됨을 산다는 뜻도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:1:13",
+      "textSha256": "7b87654ce29a65d361f29bcb86a2e0da3d7353c7e401e8aa3cf090e7af144c96",
+      "status": "candidate",
+      "reason": "혈통과 사람의 뜻이 자녀 됨의 유일한 근거가 아니라고 하여 처음부터의 배경으로 소속을 닫는 시선에 다른 틀을 준다.",
+      "contextNote": "하나님의 자녀가 되는 새 생명의 근원을 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H035",
+          "clue": "원래 어느 배경과 집단에서 왔는지가 관계의 가능성을 전부 정하는지 돌아볼 수 있다.",
+          "friction": "사람의 모임이 반드시 나를 받아들인다는 보장은 아니다. 육정 등 옛 표현은 낯설 수 있으며 신적 출생을 일상 가입과 같은 절차로 바꾸지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:1:14",
+      "textSha256": "56cc9dd3df742bdccf10e6f3f9eadbb5456302fbe9e5c555383dbced2c7ddbf2",
+      "status": "hold",
+      "reason": "말씀이 우리 가운데 거한다는 임재는 관계의 실제성을 주지만 성육신과 독생자의 영광을 단순한 실행 원칙으로 치환할 수는 없다.",
+      "contextNote": "서문이 말씀이 육신이 되어 드러난 은혜와 진리의 영광을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C005",
+          "clue": "좋은 말이나 수치뿐 아니라 사람 곁에 실제로 함께하는 몫을 생각할 여지는 있다.",
+          "friction": "운영 목적을 실천하는 일을 하나님의 성육신과 같게 놓지 않는다. 영광과 은혜의 긴 선언이 현재 신입 돌봄의 선택으로 바로 이어지는지는 불확실하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:1:15",
+      "textSha256": "26a97ec6cf9e42884aa5989e3a2cf48ff1d0a6e10a337850822e0fddde8d8087",
+      "status": "exclude",
+      "reason": "뒤에 왔으나 먼저 계셔 앞선다는 요한의 증언은 그리스도의 선재를 설명하여 취업 순서나 성과 속도의 비교 기준으로 바꾸기 어렵다.",
+      "contextNote": "육신이 된 말씀을 요한이 증언하며 예수의 정체를 밝힌다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JHN:1:16",
+      "textSha256": "34a269ac897a6fe8463cd67526072a668a7551c08d0f76065eb5097f8d33c26c",
+      "status": "candidate",
+      "reason": "받은 것이 은혜 위의 은혜라는 말은 잘못을 고친 뒤에도 계속 자기 벌로만 관계를 유지해야 하는지 돌아보게 한다.",
+      "contextNote": "말씀의 충만함에서 받은 공동의 은혜를 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "이미 사과하고 수정한 지금도 더 고통받아야만 한다는 생각 대신 받은 은혜를 안고 새 일을 할 여지가 있다.",
+          "friction": "무슨 잘못이든 책임이 없다는 선언은 아니다. 그의 대상은 그리스도로 사용자 자신의 충만한 능력이나 인품을 승인하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:1:17",
+      "textSha256": "4e4fdfbc347b9e4d6746da9db7776b118a20e3b61134ee695f177ba70814bf7c",
+      "status": "candidate",
+      "reason": "은혜와 진리가 함께 온다는 말은 잘못의 진실을 지키는 것과 달라진 사람을 은혜로 보는 것이 서로 지워야 할 선택인지 묻게 한다.",
+      "contextNote": "모세를 통한 율법과 그리스도를 통한 은혜와 진리를 구별한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C002",
+          "clue": "과거 잘못이 사실이라는 인정과 지금 달라지는 친구를 용서하는 마음을 함께 둘 수 있는지 생각할 수 있다.",
+          "friction": "율법이 나쁘거나 진실을 버려도 된다는 뜻은 아니다. 그리스도의 은혜를 관계 접근과 신뢰의 무조건 복구로 바꾸지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:1:18",
+      "textSha256": "2c20771cfb4f224fd722041d35ff229e0139a9512cceb5d67ca835dd3503b65f",
+      "status": "exclude",
+      "reason": "보이지 않는 하나님을 독생하신 이가 나타낸다는 특별한 계시 관계로 일반 조언자가 같은 신적 지식을 갖는다는 근거를 만들 수 없다.",
+      "contextNote": "서문을 하나님을 드러내는 아들의 정체로 마친다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JHN:1:19",
+      "textSha256": "14c5b85ed375b80470ac37ef70df18da2806cc13691f80d3915114ef794f830e",
+      "status": "exclude",
+      "reason": "요한에게 보낸 제사장과 레위인의 질문 장면을 소개하지만 증언의 내용은 다음 절에 있어 현재의 자기 설명 기준은 아직 없다.",
+      "contextNote": "서문 뒤 요한의 역사적 증언 장면으로 옮긴다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JHN:1:20",
+      "textSha256": "dd63f6ceaf38b145b71fd4b0424b25cc1bef8628ad4356731c4ddbb3b2bad2d7",
+      "status": "candidate",
+      "reason": "그리스도가 아니라고 숨기지 않고 밝히는 말은 높은 이름으로 보이려는 유혹 앞에 실제 자기 역할의 한계를 말하는 모습을 준다.",
+      "contextNote": "요한이 사람들의 정체 질문에 부풀린 지위를 거절한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "좋은 평가를 위해 실제보다 큰 역할을 주장하기보다 내가 아닌 것은 아니라고 말할 수 있다.",
+          "friction": "사용자가 그리스도를 사칭한다는 뜻은 아니다. 성과의 사실과 불려 보고 싶은 지위를 구분하는 개인 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:1:21",
+      "textSha256": "4e2649455c18d65c42761cf5a1dcb3907add094447fbf5f33e3eeb3328c1c96b",
+      "status": "candidate",
+      "reason": "엘리야나 그 선지자라는 기대에도 아니라 답하는 모습은 권위를 얻기 위해 주어진 이름을 무조건 받아들이지 않는 태도를 보여 준다.",
+      "contextNote": "요한이 여러 메시아적 신원 질문에 경계를 밝힌다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C001",
+          "clue": "설득이 쉬워지는 높은 권위를 실제로 받지 않았는데도 내 이름으로 받아들이고 있는지 돌아볼 수 있다.",
+          "friction": "요한의 사명 자체를 부정하거나 모든 사람이 신앙적 말을 못 한다는 뜻은 아니다. 사용자에게 없는 직접 위임을 만들지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:1:22",
+      "textSha256": "cc5c06012a2080e4a1fdf622379a070d54e9dabfd40b87eafcf9f8d5131ff83a",
+      "status": "hold",
+      "reason": "네 자신을 무엇이라 하느냐는 질문은 자기 설명의 자리를 주지만 어떤 가치로 선택할지보다는 파송자의 신원 보고가 목적이다.",
+      "contextNote": "조사자들이 요한에게 보낸 이들에게 전할 정체를 말해 달라고 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H064",
+          "clue": "남의 예상한 이름 외에 내가 무엇을 말할 수 있는지 생각할 여지는 있다.",
+          "friction": "현재의 가치 선택보다 신원 확인의 질문이라 두 선택의 부담을 바로 가르지는 않는다. 스스로 정하면 사실이 되는 뜻도 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:1:23",
+      "textSha256": "f7446f5976aa53a4662dca951ee3449d4ad4e920e346f142648e4e764717b537",
+      "status": "candidate",
+      "reason": "자신을 목적의 주인보다 길을 곧게 하는 소리로 설명하여 맡은 역할을 다른 사람의 길을 여는 일에서 보게 한다.",
+      "contextNote": "요한이 이사야의 말씀으로 자기 사명을 밝힌다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C005",
+          "clue": "운영자가 얼마나 돋보이는가보다 신입이 길을 가도록 실제 무엇을 열어 주는지 볼 수 있다.",
+          "friction": "운영자가 이 예언의 직접 대상이라는 뜻이나 구성원의 길을 이미 안다는 선언은 아니다. 광야의 소리라는 비유를 개인적으로 연결한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:1:24",
+      "textSha256": "868d932d1f6c3347af10b9d4b90c1b58feea556f837e06729e21fa857d72a196",
+      "status": "exclude",
+      "reason": "질문자들이 바리새인에게서 왔다는 소속의 설명만 있어 그 질문의 옳음이나 사용자가 따를 권위를 이름만으로 판단할 수 없다.",
+      "contextNote": "요한의 세례 권한을 묻는 이들의 배경을 밝힌다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JHN:1:25",
+      "textSha256": "b100e07225335485e12f2e7e4ad5b2511285ade1f1123bd00e7f1604c972de98",
+      "status": "hold",
+      "reason": "왜 세례를 주느냐는 권한 질문은 주장과 권위의 관계를 보지만 높은 직함이 아니면 사명도 없다는 가정은 그대로 받아들일 수 없다.",
+      "contextNote": "조사자들이 요한의 부인한 정체와 실제 세례 행위를 연결해 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C001",
+          "clue": "내가 대신 말하는 권위의 근거가 실제 무엇인지 돌아볼 질문은 생긴다.",
+          "friction": "요한은 뒤에서 별도의 보냄을 증언하므로 이 질문 자체를 최종 권위 판정으로 삼지 않는다. 사용자의 근거 없는 단정에 같은 사명을 주지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:1:26",
+      "textSha256": "18540ce7a9200db145f74b0a3f0d971931e37356b811e6aeee4b9ec6c85aca49",
+      "status": "hold",
+      "reason": "알지 못하는 이가 이미 가운데 서 있다는 말은 실제와 인식의 차이를 보이나 현재 모임의 마음과 같은 정보는 아니다.",
+      "contextNote": "요한이 자기 물세례와 드러날 예수의 정체를 구별한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H035",
+          "clue": "지금 내가 알아챈 반응이 관계의 전부인지 돌아볼 여지는 있다.",
+          "friction": "나를 반기는 누군가가 이미 숨겨져 있다는 보장은 아니다. 물세례와 그리스도의 구별이 중심이라 추가 해석 없이 충분할지는 불확실하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:1:27",
+      "textSha256": "e3e536349bce80bdfa035783d52776f53fa2e842b3d40467e4e71aa22a664a1a",
+      "status": "hold",
+      "reason": "신들메조차 풀 자격이 없다는 겸손은 자신과 예수의 차이를 보이지만 일상 보고에서 정당한 공로까지 숨기는 태도로 옮길 수 없다.",
+      "contextNote": "요한이 자기 뒤에 오는 예수의 높음을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "실제보다 높은 이름을 빌려 보이려는 마음을 돌아볼 여지는 있다.",
+          "friction": "모든 능력을 부정하거나 선배 앞에 무가치하다고 해야 한다는 뜻은 아니다. 신들메의 표현과 예수의 고유한 높임이 이해의 간격을 만든다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:1:28",
+      "textSha256": "80594b20e4f66a30a0f77aac989e114222c36473a61a7a1a714d80220c7c3c1a",
+      "status": "exclude",
+      "reason": "요단강 건너 베다니라는 증언 장소의 안내로 지금 이동이나 만남의 선택을 가를 행동과 이유는 없다.",
+      "contextNote": "요한의 질문 답변이 있었던 지점을 밝힌다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JHN:1:29",
+      "textSha256": "806c024da86fe4591fa892c606f55dd2d8c3e53eebbcd99ba73a96b6b7feabc4",
+      "status": "candidate",
+      "reason": "세상 죄를 지고 가는 어린양을 가리키는 말은 잘못을 고친 뒤에도 모든 벌을 혼자 더 져야 한다는 마음에 은혜의 자리를 준다.",
+      "contextNote": "요한이 다가오는 예수를 하나님의 어린양으로 증언한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "이미 사과하고 바로잡은 뒤에도 자책을 더 짊어지는 일만이 진심인지 돌아볼 수 있다.",
+          "friction": "어린양의 속죄를 아는 신앙적 개인 연결이며 서비스가 특정 죄의 사함이나 남은 배상 의무를 대신 판정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:1:30",
+      "textSha256": "3ee4e570e692772d14b74049334eee3bd78a4a7986ae71339c14df55706e4014",
+      "status": "exclude",
+      "reason": "자기 뒤에 오는 이가 먼저 계셔 앞선다는 증언은 예수의 선재를 가리켜 늦게 시작한 개인의 성과 역전을 보장하는 말이 아니다.",
+      "contextNote": "요한이 앞서 한 예수 정체의 말을 되풀이하며 대상을 밝힌다.",
+      "readability": "needs_explanation",
+      "connections": []
+    }
+  ]
+}

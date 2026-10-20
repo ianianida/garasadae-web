@@ -15711,6 +15711,613 @@
           "expectedEnough": "yes"
         }
       ]
+    },
+    {
+      "id": "KRV:LUK:24:13",
+      "textSha256": "0b1101ff34bd9188dd8f74e0b03b0266b539f9b2002afe6ed02bc70c7fe66df5",
+      "status": "exclude",
+      "reason": "두 사람이 엠마오로 가는 거리와 위치를 소개하는 절로 왜 떠나는지나 현재 선택할 행동은 아직 없다.",
+      "contextNote": "부활 날의 엠마오 동행 장면을 시작한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:24:14",
+      "textSha256": "658134606aa4d747258e272a8384595b60733b02ffbdffe6f9cdbae4481dc55e",
+      "status": "hold",
+      "reason": "서로 일어난 일을 말하는 모습은 혼자 품지 않는 대화를 보이나 이 모든 일의 내용과 도움의 관계는 앞 문맥이 필요하다.",
+      "contextNote": "두 사람이 길에서 예수의 수난을 함께 이야기한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "혼자만 생각하지 않고 다른 사람과 현재의 일을 나눌 여지는 있다.",
+          "friction": "어떤 대화나 지원인지 절 안에서 빠져 있어 몸과 마음의 도움을 청할지의 선택으로 바로 닿는 힘은 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:15",
+      "textSha256": "c772aae5bed89a3c7c95c055be11e9f061661079755b999a653cb4b774091473",
+      "status": "candidate",
+      "reason": "서로 말하고 묻는 길에 가까이 와 함께 걷는 예수의 모습은 모든 답을 혼자 마련한 뒤에야 동행할 수 있는지 돌아보게 한다.",
+      "contextNote": "두 사람이 아직 예수를 알아보지 못한 채 동행을 받는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "힘든 일을 다 정리하지 못한 상태에서도 누군가와 묻고 이야기하며 갈 수 있는지 생각할 수 있다.",
+          "friction": "예수가 곧 사람의 모습으로 나타난다는 보장이 아니다. 동행하시나라는 끝은 뒤의 알아보지 못함을 남기므로 모든 답을 즉시 얻었다고 꾸미지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:16",
+      "textSha256": "7326d1865f06af7f28687c1e3a03b27fbf1dda76494de6474e0f33eef6406e6f",
+      "status": "hold",
+      "reason": "동행하는 이를 알아보지 못함은 눈앞과 인식의 차이를 보이나 눈이 가려졌다는 특별한 설명을 현재 모임의 마음으로 옮기기 어렵다.",
+      "contextNote": "엠마오의 두 사람이 예수를 알아보지 못한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H035",
+          "clue": "지금 내 느낌이 관계의 모든 사실을 다 담는지 돌아볼 여지는 있다.",
+          "friction": "그 모임이 실제 나를 환대하고 있는데 못 알아본다고 확정하지 않는다. 신적 가려짐을 개인의 편견이나 장애로 진단하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:17",
+      "textSha256": "cbca3f44bd566911cd9ff54c8666e39963ae5eae6bf475e421c13b2e4e5cae4a",
+      "status": "candidate",
+      "reason": "함께 걷던 이야기의 내용을 묻고 슬픈 얼굴 앞에 멈추는 모습은 큰 설명을 먼저 주기보다 마음을 들을 자리를 보여 준다.",
+      "contextNote": "예수가 슬픔 속 두 사람에게 어떤 일을 말하는지 묻는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C016",
+          "clue": "위로의 정답을 준비하지 못해도 친구가 겪는 마음을 듣고 필요한 곁의 일을 할 자리를 열 수 있다.",
+          "friction": "친구에게 사건의 자세한 설명을 강요하라는 뜻은 아니다. 예수의 뒤 해석과 사별의 원인을 사용자가 대신 확정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:18",
+      "textSha256": "bfac7f95706ef853a6771649c0c87596d487543bee44b4145549d284bb927a87",
+      "status": "hold",
+      "reason": "홀로 그 일을 모르느냐는 반문은 공통 정보의 차이를 보여 주지만 배우려 묻는 사람을 이렇게 대하라는 모범은 아니다.",
+      "contextNote": "글로바가 예수를 알아보지 못한 채 예루살렘 소식을 되묻는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "남은 다 안다고 여겨도 누군가에게는 다시 설명할 자리가 있다는 생각은 가능하다.",
+          "friction": "모른다는 사람이 실제로 무능한 것은 아니며 이 반문을 선배가 반드시 할 반응으로 예측하지 않는다. 질문을 권하는 직접 말은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:19",
+      "textSha256": "e535677ac3b65266fc3e083bd5771c2f8366eb9cf8438873b5a2fd925352852b",
+      "status": "candidate",
+      "reason": "무슨 일이냐고 더 구체적으로 묻는 행동은 이미 큰 주제를 들었어도 이해할 내용을 한 번 더 확인할 수 있음을 보여 준다.",
+      "contextNote": "예수가 두 사람에게 예수 사건을 그들의 말로 설명하게 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "들은 내용을 다 안다는 모양보다 내가 이해해야 할 범위를 구체적으로 물을 수 있다.",
+          "friction": "예수가 실제 자신의 일을 몰랐다는 뜻은 아니다. 질문 자체와 무능의 판단이 같은 것은 아님을 개인적으로 읽으며 선배의 완전한 답을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:20",
+      "textSha256": "843a7bddfd30f24f5bf5f54eb08a569029eba83d12b001f44b589292eb886276",
+      "status": "exclude",
+      "reason": "지도자들이 예수를 사형에 넘긴 사실을 회고하는 보고로 현재의 고통이나 소문이 누구의 책임인지 같은 구조로 판단할 근거는 주지 않는다.",
+      "contextNote": "두 제자가 슬픈 사건의 경과를 예수에게 말한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:24:21",
+      "textSha256": "e207583a84d32dfc7ebd8a081e3d06518b188851d2679c2b3ae421b356aee94c",
+      "status": "hold",
+      "reason": "바랐던 구원과 사흘째의 실망을 말하여 기대와 현실의 간격은 비추지만 지금 가능한 다음 일을 선택하는 기준은 아직 없다.",
+      "contextNote": "두 사람이 꺾인 기대를 말하고 뒤의 부활 소식을 이어 전한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H060",
+          "clue": "내가 바랐던 것과 실제 현재의 조건을 따로 볼 여지는 있다.",
+          "friction": "예수의 부활이라는 반전을 개인의 놓친 기회에 보장하지 않는다. 희망이 무너진 감정만 보여 주므로 첫 결과가 공감에 머물 수 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:22",
+      "textSha256": "8a49be8a5e57cbe23224da5cf3a1a30b487cbff62be63f18c4ac6ad867d8ac9b",
+      "status": "exclude",
+      "reason": "여자들이 무덤에 갔다가 사람들을 놀라게 했다는 도입으로 정작 본 것과 전한 말은 다음 절에 남는다.",
+      "contextNote": "엠마오의 두 사람이 여자들의 소식을 소개한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:24:23",
+      "textSha256": "ae35551c16413656b9e5a7613fedc1fef591ec4931fdf4234241001612833f3d",
+      "status": "hold",
+      "reason": "시신은 못 보고 천사의 말을 전했다는 층위를 나누지만 보고된 내용의 진위와 실제 본 범위를 더 확인하는 과정은 다음에 있다.",
+      "contextNote": "두 사람이 여자들의 부활 증언을 예수에게 옮긴다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "직접 본 것과 다른 이에게 들은 설명을 구분해 말할 여지는 있다.",
+          "friction": "자기 경험이 아니라 여자의 보고를 다시 전하는 층위가 있어 첫 결과의 관계가 복잡하다. 천사 소식 자체를 거짓이나 개인 성과의 증명으로 쓰지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:24",
+      "textSha256": "bf88f70684fd4d973aff80ff2bab3e41748c278d6c3bea4232c3787657d1e0c1",
+      "status": "candidate",
+      "reason": "현장에서 확인한 것은 보고와 같았지만 예수는 못 봤다고 한계를 남기는 말은 사실과 그 이상을 구별하는 보고의 모습을 준다.",
+      "contextNote": "무덤을 확인한 이들의 관찰과 남은 모름을 두 사람이 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "성과를 좋게 만들려고 내가 보지 못한 결과까지 봤다고 말하는 대신 확인한 범위와 모르는 범위를 나눌 수 있다.",
+          "friction": "이 말로 부활이 없다는 결론을 낸 것이 아니다. 현재의 성과에 같은 기적이 있다는 뜻도 아니며 실제 아는 범위에만 연결한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:25",
+      "textSha256": "1bbee885a72fa77c2da65ea0105929a439b9f3e2189e444efa113dea7fc8aaa6",
+      "status": "hold",
+      "reason": "느리게 믿는 태도를 책망하지만 선지자들의 모든 말을 받아들이는 문제로 동료의 구체 지적에 같은 권위를 줄 수는 없다.",
+      "contextNote": "예수가 두 사람의 수난 해석을 고치기 시작한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "이미 들은 근거를 마음이 불편해 받아들이지 않는지 돌아볼 여지는 있다.",
+          "friction": "미련하다는 부름을 현재 사용자에게 대신 내리지 않는다. 고칠 구체 내용은 뒤의 수난과 성경 풀이에 있어 단독 충분함은 불확실하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:26",
+      "textSha256": "217ce90de8b929063ce60037da2ddd2154989f294385c36a07d9a5739dc0f090",
+      "status": "hold",
+      "reason": "고난 뒤 영광이라는 순서는 불편만으로 방향을 정하지 않게 하나 그리스도가 받아야 하는 특정 수난을 이직의 보상으로 바꿀 수 없다.",
+      "contextNote": "예수가 메시아의 고난과 영광의 관계를 답한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H047",
+          "clue": "어렵다는 사실과 의미 없는 길이라는 판단을 구분할 여지는 있다.",
+          "friction": "수입 감소를 겪으면 반드시 더 큰 영광을 얻는다는 보장이 아니다. 사용자의 새 일이 예수의 필연적 사명이라는 근거도 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:27",
+      "textSha256": "cb9ed447ded3d8675bcd4728c37040538188e3345c6827bebdf3543c0f9fef5f",
+      "status": "candidate",
+      "reason": "이미 있는 글을 자세히 풀어 주는 모습은 이해가 안 되면 혼자 감출 것이 아니라 설명을 받을 자리가 있음을 보여 준다.",
+      "contextNote": "예수가 모세와 선지자를 시작으로 자신에 관한 성경을 설명한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "모르는 부분을 혼자 넘기기보다 자세히 설명해 달라고 배우는 길을 생각할 수 있다.",
+          "friction": "모든 선배의 말이 성경 해석만큼 확실하다는 뜻은 아니다. 실제 설명할 능력과 시간과 동의는 별도로 남는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:28",
+      "textSha256": "372d417ab739c5a94ed4deef586e988435e37de03e5cf9840ffabb2b58ea88d0",
+      "status": "hold",
+      "reason": "더 가려는 것처럼 보이는 동행자의 모습은 요청 전의 상황을 보이나 실제 의사를 이 겉모양만으로 알 수는 없다.",
+      "contextNote": "목적지에 가까워졌을 때 예수가 더 갈 듯하고 뒤에서 제자들이 머물기를 청한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "상대가 바빠 보인다는 내 예상만으로 부탁할 자리도 전부 닫는지 생각할 여지는 있다.",
+          "friction": "보이는 모습과 실제 의사를 마음대로 확정하지 않는다. 이 절에는 요청이나 수락이 아직 없어 부담을 푸는 충분함은 제한적이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:29",
+      "textSha256": "7c23463add261b3258ba5df0f6174b762f41e25ac7108d8a0e7521ba6c14c76f",
+      "status": "candidate",
+      "reason": "함께 머물기를 바란다고 말하고 저무는 시간을 이유로 밝히는 요청은 동행의 필요를 구체적으로 말하는 모습을 준다.",
+      "contextNote": "두 사람이 예수에게 유숙을 청하고 예수가 함께 들어간다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "모든 문제를 맡기지 않아도 지금 함께 있어 달라는 부탁을 할 수 있다.",
+          "friction": "강권을 분명한 거절 뒤의 강압으로 모방하지 않는다. 상대의 수락이나 여력이 이미 정해졌다는 보장은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:30",
+      "textSha256": "253b07524e4f5016b11bbcb07a634bc99894766cc6483725adbfac0832848b59",
+      "status": "candidate",
+      "reason": "함께 먹으며 감사하고 떡을 떼어 주는 모습은 가진 것을 나눔과 교제의 몫으로 보는 여지를 준다.",
+      "contextNote": "엠마오의 식탁에서 예수가 떡을 나누며 곧 알아보임으로 이어진다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H059",
+          "clue": "내 몫의 보유만 보지 않고 지금 함께 나눌 수 있는 것의 가치를 생각할 수 있다.",
+          "friction": "떡 나눔을 정해진 기부액으로 바꾸거나 전 재산을 내놓으라는 명령으로 쓰지 않는다. 부활을 알아보는 본뜻도 구별한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:31",
+      "textSha256": "7e845f6ccdeeb0158a42112dc4515dd00f6ef980bc6555fbf5a27b11bed308ec",
+      "status": "exclude",
+      "reason": "예수를 알아본 뒤 보이지 않게 되는 특별한 부활 현현으로 개인의 느낌이 곧 신적 정답이거나 보이지 않는 도움을 확신할 증거라고 판정할 수 없다.",
+      "contextNote": "두 제자가 식탁에서 예수의 정체를 알아본다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:24:32",
+      "textSha256": "0fd30d9bc4cbb423c2fe11bfb0a674d59e593824bbd2ee5ae3a023622cc59f4a",
+      "status": "candidate",
+      "reason": "성경을 풀어 들을 때의 마음을 서로 돌아보는 대화는 바쁨으로 덮기보다 들은 말과 내 반응을 살필 자리를 준다.",
+      "contextNote": "두 제자가 동행 중 말씀을 듣던 경험을 회고한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H063",
+          "clue": "새 일정을 더 채우기보다 조용히 읽고 들은 것이 마음에 무엇을 건드리는지 돌아볼 수 있다.",
+          "friction": "뜨거운 느낌이 모든 선택의 하나님의 뜻이라는 판정은 아니다. 지금 원인 모를 불안이 즉시 풀린다는 효과도 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:33",
+      "textSha256": "de055702c2a809ff32017b91f69bf8d1ebca2e3363c665cc8113f6fcd0fae45d",
+      "status": "hold",
+      "reason": "돌아가 모인 이들을 만나는 장면은 혼자만의 길 밖 공동체를 보여 주지만 도움의 내용과 현재 관계는 아직 나오지 않는다.",
+      "contextNote": "두 제자가 즉시 예루살렘으로 돌아와 다른 제자들을 만난다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "힘든 일을 혼자 지닌 자리에서 다른 사람들과 만날 자리를 생각할 여지는 있다.",
+          "friction": "현재 사용자를 기다리는 모임이나 도울 사람이 이미 있다는 정보는 없다. 귀환의 이유는 앞의 부활 현현에서 받아야 한다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:34",
+      "textSha256": "1384f9285d9ffdeb28b5cbbceaab825aec532611e1789eee1f0650072e3aa341",
+      "status": "hold",
+      "reason": "주가 살아나 시몬에게 나타났다는 소식은 소망의 근거를 전하지만 현재 놓친 기회와 새로 할 일의 선택을 직접 말하지 않는다.",
+      "contextNote": "돌아온 두 사람이 모인 제자들의 부활 소식을 듣는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H060",
+          "clue": "마지막에 알던 결론만이 이야기의 전부인지 돌아볼 여지는 있다.",
+          "friction": "내 기회가 되살아나거나 특정인이 같은 확답을 갖고 있다는 예언이 아니다. 현재 행동보다 부활 보고의 위로에 머물 수 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:35",
+      "textSha256": "e084912f7cab7b786fdd1898fdd16e9a8a48015a3fff117b72320996f09be76a",
+      "status": "candidate",
+      "reason": "길에서 된 일과 어떻게 알아보았는지를 자기들의 경험으로 말하여 결론뿐 아니라 안 근거를 전달하는 모습을 준다.",
+      "contextNote": "엠마오의 두 사람이 자신의 동행과 식탁을 다른 제자들에게 보고한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "좋아 보이는 결론만 내세우기보다 실제 내가 겪고 확인한 과정이 무엇인지 말할 수 있다.",
+          "friction": "사용자의 성과가 같은 계시라는 뜻은 아니다. 떡의 기적을 과장 허가로 삼지 않고 자기 경험의 근거를 구별하는 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:36",
+      "textSha256": "5a4cd38ea8e8e59ac9ab58019c4cf10658946f034cf5b9c6cdcc58337f8dd0b8",
+      "status": "hold",
+      "reason": "평강의 인사는 마음에 닿지만 화난 메시지를 보낼 시점과 방식에 구체적인 실마리를 더하려면 현재 마음의 선택을 보태야 한다.",
+      "contextNote": "모인 제자들 가운데 예수가 서서 평강을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "내가 원하는 관계가 분노의 승리보다 평안인지 생각할 여지는 있다.",
+          "friction": "원문은 부활의 인사로 현재 화의 내용이나 선택을 직접 다루지 않아 일반 위로에 머물 수 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:37",
+      "textSha256": "7349d76c32b6d05e2259a7aec65c32e17adaab24800cb588a2c0958d36da33ef",
+      "status": "candidate",
+      "reason": "놀란 두려움이 보는 것을 영으로 해석하게 한 모습은 감정과 실제 사실의 결론을 나누어 보게 한다.",
+      "contextNote": "제자들이 부활한 예수를 보고도 영이라고 생각한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "놀랍고 불편하다는 느낌만으로 전해 들은 설명이 사실이라 확정하고 있는지 돌아볼 수 있다.",
+          "friction": "친구의 일을 영적 현상으로 진단하지 않는다. 본문의 뒤 손발 확인처럼 실제 무엇을 아는지 따로 살피는 개인 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:38",
+      "textSha256": "1d7dbd6f4099f1adb148e6b5c9999ab52e9b2a90c6f5b98966681967596add89",
+      "status": "candidate",
+      "reason": "왜 두려움과 의심이 일어나는지 묻는 말은 불편한 마음을 더 바쁨으로 덮기 전에 그 마음을 살필 자리를 준다.",
+      "contextNote": "예수가 놀란 제자들의 두려움을 질문으로 드러낸다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H063",
+          "clue": "이유 모를 불편을 곧 새 일정으로 가리기보다 지금 마음에 무엇이 일어나는지 돌아볼 수 있다.",
+          "friction": "불안하면 믿음이 없는 나쁜 사람이라는 정죄가 아니다. 의심의 실제 이유는 사용자가 살필 몫이며 즉각적인 해소를 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:39",
+      "textSha256": "203a25a965c78dd5d87c699ff50b8890da3c3141f2a60f32c1c532e8a1469a74",
+      "status": "candidate",
+      "reason": "직접 보고 만져 확인할 근거를 보이는 말은 처음의 두려운 해석과 확인 가능한 사실을 구별하게 한다.",
+      "contextNote": "예수가 손발과 몸을 통해 자신이 영이 아님을 확인하게 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "소문과 느낌이 만든 그림 외에 실제로 무엇을 확인할 수 있는지 따로 볼 수 있다.",
+          "friction": "타인의 몸이나 사생활을 동의 없이 검사하라는 뜻은 아니다. 부활의 몸에 대한 증거와 관계의 확인은 종류가 다르다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:40",
+      "textSha256": "a823c36ebd11f067d38b224ec23e02dd67a4e6f29a4b6f4d22b96ea8e0f44938",
+      "status": "hold",
+      "reason": "손발을 보이는 행동은 확인의 제공이지만 어떤 의문을 풀기 위한지 앞의 말씀이 필요하고 반응도 다음에 남는다.",
+      "contextNote": "예수가 자기 몸의 증거를 제자들에게 보인다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "말뿐 아니라 보여 주는 구체 사실을 살필 여지는 있다.",
+          "friction": "이 말씀의 내용이 빠져 있고 몸을 보이는 특별한 부활 장면이다. 현재 친구의 의심을 해소할 같은 증거가 있다고 가정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:41",
+      "textSha256": "458fdbcac9ffd6bcf6ceb5706bac06b06d6c2399d40526fb2c48cc6b83184165",
+      "status": "candidate",
+      "reason": "너무 기쁜 놀라움 속에서도 먹을 것이 있는지 묻는 작은 필요는 도움이 거창한 해결만은 아님을 보여 준다.",
+      "contextNote": "부활의 몸을 확인하는 자리에서 예수가 음식을 청한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "지금 필요한 작은 한 가지를 말하는 부탁부터 생각할 수 있다.",
+          "friction": "사람들이 기쁘기 때문에 내 부탁도 반드시 반긴다는 보장은 아니다. 예수의 식사가 몸의 증거라는 본뜻과 개인 요청을 구별한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:42",
+      "textSha256": "0a8bf9fd3334cadbed2d52ec2f29cd6a020caefd20b0e0e566682f91970be989",
+      "status": "candidate",
+      "reason": "구운 생선 한 토막을 실제로 건네는 작은 행동은 큰 설명을 못 해도 필요한 것을 보탤 몫이 있음을 보여 준다.",
+      "contextNote": "제자들이 예수의 음식 요청에 응답한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "큰 문제 전체를 바꾸지 못한다고 지금 줄 수 있는 작은 도움까지 없는 것으로 볼 필요가 있는지 생각할 수 있다.",
+          "friction": "모든 상황에서 음식 한 토막이면 충분하다는 규칙이 아니다. 상대의 실제 필요와 자발적인 동의는 남는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:43",
+      "textSha256": "55b251f99684106d10001f1e1942b068397e60ded5ba2a913efc541c0351177e",
+      "status": "hold",
+      "reason": "받아 먹는 모습은 도움의 수용이지만 누구에게 무엇을 받았는지 앞 절이 필요하고 본뜻도 부활 몸의 확인이다.",
+      "contextNote": "예수가 제자들 앞에서 받은 생선을 먹는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "작은 돌봄을 받는 자리가 자연스러울 수 있다는 여지는 있다.",
+          "friction": "요청의 부담이나 도움 범위가 절 안에서 드러나지 않아 혼자 견딜지의 선택에 바로 닿는 힘은 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:44",
+      "textSha256": "7b36ff6aa8a4f2c364274ec3b47b2913f9d56366a5a469d7dbc8a54d9d80dcf6",
+      "status": "exclude",
+      "reason": "율법과 선지자와 시편의 예수에 대한 기록이 이뤄져야 한다는 성취 설명으로 내 소원이나 과거 판단이 같은 필연의 약속이라고 선언할 수 없다.",
+      "contextNote": "예수가 수난과 부활을 성경 전체의 예고로 설명한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:24:45",
+      "textSha256": "33855fe12c15563855dd65044133d7f824163f985b5ac13b64aede5ac0269e05",
+      "status": "candidate",
+      "reason": "마음을 열어 이해하게 하는 도움을 받는 모습은 지금 모른다는 사실이 배움의 끝이나 자격 없음인지 돌아보게 한다.",
+      "contextNote": "예수가 제자들이 성경을 깨닫도록 돕는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "혼자 완성된 이해를 먼저 갖춰야 하는 대신 설명과 배움을 통해 알아갈 자리를 생각할 수 있다.",
+          "friction": "선배가 신적으로 내 마음을 열거나 즉시 모든 문제를 풀어 준다는 보장은 아니다. 성경의 깨달음과 업무 조언은 종류가 다르다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:46",
+      "textSha256": "f918528c1ad4b717f8df5e47fc16c4fa725bcb0e3d0431c17cfb0208e4dd1586",
+      "status": "exclude",
+      "reason": "그리스도의 고난과 사흘째 살아남의 기록을 설명하는 미완결 문장으로 개인의 실패가 같은 일정에 반전된다고 읽을 수 없다.",
+      "contextNote": "예수가 전할 복음의 근거를 수난과 부활로 시작한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:24:47",
+      "textSha256": "5df175bce15ae7b5cb995eed771948ce2932dd6ab8cf683fe2ce175cc19cc197",
+      "status": "candidate",
+      "reason": "회개가 죄 사함으로 이어지는 소식을 모든 족속에게 전한다고 하여 잘못을 고친 사람에게도 끝없는 자기 벌만 남는지 돌아보게 한다.",
+      "contextNote": "예수가 성경에 기록된 회개와 사함의 복음 전파를 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "이미 인정하고 수정한 뒤에도 더 괴로워해야만 한다는 기준 대신 사함과 새 삶의 자리를 생각할 수 있다.",
+          "friction": "회개의 행동이 필요 없다는 뜻이 아니며 서비스가 특정 실수의 사함을 판결하지 않는다. 이미 사과와 수정이 끝난 입력이 중요하다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:48",
+      "textSha256": "071a82bbe8d2bc21e95f92d59c6386e052c0b127b3070cd5833b2cfbc4383e6e",
+      "status": "candidate",
+      "reason": "겪은 일의 증인이라는 부름은 그럴듯한 주장을 더 만드는 것보다 내가 실제로 증언할 수 있는 범위를 보게 한다.",
+      "contextNote": "예수가 제자들의 수난과 부활 증언 역할을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "좋은 평가를 얻을 설명보다 내가 실제 아는 일에 어떤 근거를 말할 수 있는지 돌아볼 수 있다.",
+          "friction": "이 모든 일은 앞의 복음 사건으로 사용자의 성과가 같은 신적 증언은 아니다. 내 의견 전부를 계시로 승인하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:49",
+      "textSha256": "57dccb46199f8ea6c1fc7455217bb6fb5eba3e76f4f179cb3389965b2a42de02",
+      "status": "candidate",
+      "reason": "보냄의 일 앞에서도 필요한 능력을 받을 때까지 머물라는 조건은 의미 있는 일이라면 여력 없이 곧 더 맡아야 하는지 돌아보게 한다.",
+      "contextNote": "예수가 아버지의 약속을 기다릴 사도들의 준비 시간을 정한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H044",
+          "clue": "추가 일을 하기 전에 현재 힘과 준비가 실제로 남아 있는지, 잠시 머물 몫이 있는지 볼 수 있다.",
+          "friction": "사용자에게 같은 시점의 능력 부여가 약속됐다는 뜻은 아니다. 오늘 마감이 있는 다른 사례까지 무조건 미루라는 규칙으로 쓰지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:50",
+      "textSha256": "ef141e0c69a659f14658641ceb661e904c905022472b0c753ed2a10da42e9d37",
+      "status": "hold",
+      "reason": "함께 나가 축복하는 모습은 관계의 환대를 주지만 과거 실수에서 어느 선택을 할지보다 일반적인 축복이 중심이다.",
+      "contextNote": "예수가 베다니 앞까지 데리고 가 제자들에게 축복한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "잘못의 기억만으로 관계를 모두 닫지 않는 은혜를 생각할 여지는 있다.",
+          "friction": "이 절은 이전의 누가 어떤 잘못을 고쳤는지 직접 밝히지 않는다. 축복만으로 현재의 자책 선택에 충분한지 불확실하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:51",
+      "textSha256": "38d0923c8684a9a490d8f1486b7232002a70d3030458b6c37cfcbcf729eca75d",
+      "status": "exclude",
+      "reason": "축복 중 하늘로 올려지는 예수의 고유한 승천을 기록하여 사용자의 떠남이나 지위가 같은 신적 높임이라는 뜻으로 옮길 수 없다.",
+      "contextNote": "누가복음의 승천 장면이며 원문의 대괄호 표기를 보존한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:LUK:24:52",
+      "textSha256": "8df52f87d370075c100ca436730848150a1717c78e24f1ffcf63628ff10b500b",
+      "status": "candidate",
+      "reason": "큰 사건 뒤 경배와 기쁨으로 현재의 도시로 돌아가는 모습은 끝난 순간에만 머물지 않고 다시 살아갈 자리로 향하는 여지를 준다.",
+      "contextNote": "승천 뒤 제자들이 예루살렘으로 돌아간다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H060",
+          "clue": "지나간 기회를 되짚는 자리에서 지금 가능한 삶의 자리로 돌아갈 한 걸음을 생각할 수 있다.",
+          "friction": "승천은 실패한 기회가 아니며 같은 기회가 다시 주어진다는 보장도 아니다. 기쁨의 귀환이라는 본래 장면과 현재의 전환을 구별한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:LUK:24:53",
+      "textSha256": "53a9b920c7ad42f38f4a7e9ec965af5c9d9fc677a93a50bf9f78906ed3bb6a70",
+      "status": "candidate",
+      "reason": "큰 사건 뒤에도 계속 함께 찬송하는 생활은 기다리는 시간을 결과의 생각만으로 채우지 않는 일상의 모습을 준다.",
+      "contextNote": "약속을 기다리며 돌아온 제자들의 예배로 복음을 마친다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H056",
+          "clue": "결과를 계속 떠올리는 일 외에 오늘 이어 갈 작은 신앙의 일상과 사람의 자리를 생각할 수 있다.",
+          "friction": "늘 성전에만 있어야 하거나 진료와 확인을 멈추라는 뜻은 아니다. 제자들의 약속과 검사 결과가 같은 성취를 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
     }
   ]
 }
