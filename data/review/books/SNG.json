@@ -1,0 +1,1834 @@
+{
+  "bookCode": "SNG",
+  "corpusSha256": "f8d5c8b377e243b05fb884b4a6965d2c06a95de74b64a716ee4b95989d61e971",
+  "criteriaVersion": "garasadae-corpus-2026-10-08-v1",
+  "reviewer": "Codex review_1ch_lam",
+  "method": "direct-codex-reading",
+  "entries": [
+    {
+      "id": "KRV:SNG:1:1",
+      "textSha256": "4e8ab35b5df42999ebbef019c869407f00d4c0a0ae1ab34b7d33282b51d79d46",
+      "status": "exclude",
+      "reason": "솔로몬의 노래라는 제목으로 생활 선택을 생각할 내용은 아직 없다.",
+      "contextNote": "사랑의 노래의 표제다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:SNG:1:2",
+      "textSha256": "b216a48c66b2f273b78191c94bf46c81168d9fb5726d6acce41632b8f54280cc",
+      "status": "candidate",
+      "reason": "입맞춤을 바라는 마음과 사랑의 좋음을 직접 말하여 서로 좋아하는 연인에게 마음을 표현할지에 닿는다.",
+      "contextNote": "사랑하는 이를 향한 욕망과 기쁨으로 노래를 연다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B028",
+          "clue": "내 마음의 바람과 사랑의 좋음을 말로 솔직히 표현할 수 있다.",
+          "friction": "상대의 접촉 동의를 대신 정하지 않는다. 서로 좋아하는 연인이라는 생성 사례와 대조했다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:1:3",
+      "textSha256": "5560c3dd9c9603a4567359efa3dbf15bad6ac910127c8fd9138a4ccd1fd2a4b6",
+      "status": "hold",
+      "reason": "상대의 이름과 향기를 칭찬하는 말은 있으나 여러 처녀의 사랑까지 포함해 나의 소박한 표현으로 옮기는 부담이 있다.",
+      "contextNote": "향기와 좋은 이름을 연인의 매력에 비유한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B028",
+          "clue": "좋아하는 이의 좋은 점을 구체적으로 말할 여지를 읽는다.",
+          "friction": "여러 처녀가 사랑한다는 찬탄을 현재 상대의 인기나 내 가치로 확정할 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:1:4",
+      "textSha256": "1d1258069802da378d00e3766be0becb759e026d654d14618dce801cd3957565",
+      "status": "hold",
+      "reason": "함께 즐거워하는 사랑은 데이트 선택과 닿지만 왕의 침궁과 복수의 우리 및 처녀들이 섞여 독립 독해가 복잡하다.",
+      "contextNote": "왕이 이끄는 친밀함과 공동의 찬탄을 노래한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "B026",
+          "clue": "함께 누리는 사랑의 기쁨을 떠올린다.",
+          "friction": "왕과 침궁 및 여러 목소리의 전환을 현재의 단순 약속에 옮기려면 설명이 많다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:1:5",
+      "textSha256": "adf9e75b18f1b236e6ab4bc3e739ee62a003a14dab92833ff512d7356ab98abf",
+      "status": "candidate",
+      "reason": "자신이 흘겨볼 대상이 아니라 아름답다고 말하는 반전이 남보다 못할까 처음 지원을 피하는 마음의 가치 기준을 돌아보게 한다.",
+      "contextNote": "예루살렘 여자들에게 검은 피부와 자신의 아름다움을 함께 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "남과 다르거나 부족해 보이는 점이 내 가치 전체를 정하는지 돌아본다.",
+          "friction": "피부와 장막의 아름다움은 원문의 맥락이다. 검음을 열등하다고 제품이 규정하지 않고 실력이나 선발 성공도 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:1:6",
+      "textSha256": "76ed3d1405c8ac624be62f154f51bd35cc45965b4aabecd8ced0132f5798a75e",
+      "status": "candidate",
+      "reason": "남의 포도원을 맡느라 자기 포도원을 못 지킨다는 토로가 일을 더 맡을지 자신의 한계를 말할지에 닿는다.",
+      "contextNote": "가족의 분노로 일광 아래 일하게 된 화자가 자기 돌봄의 상실을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H044",
+          "clue": "남의 몫을 돌보느라 내 몫이 계속 비는 상태를 알아차린다.",
+          "friction": "원문의 가족 분노나 피부 상태를 사용자에게 가정하지 않고 현재 새 부탁과 자신의 한계를 읽는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:1:7",
+      "textSha256": "b7d7ecdf8b7ba51e6c7fee01eea9dba4eb7f89b13982972c3ff41f351fc68e00",
+      "status": "hold",
+      "reason": "상대가 쉬는 곳을 직접 물어 함께할 시간을 찾는 모습은 있지만 얼굴 가림과 다른 목자들의 양떼에 대한 반문까지 풀어야 한다.",
+      "contextNote": "연인을 찾는 화자가 양떼를 먹이고 쉬는 장소를 묻는다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "B026",
+          "clue": "함께할 시간과 장소를 직접 물을 여지를 생각한다.",
+          "friction": "목자와 얼굴 가림의 반문이 섞여 일상 일정의 망설임으로 바로 읽기 어렵다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:1:8",
+      "textSha256": "09ad8073d16254372aac7b832678ea54136a7d1af4c494c11203a849c355d7ab",
+      "status": "candidate",
+      "reason": "모르면 발자취와 목자들의 장막을 따라가라는 구체 길이 부족함을 숨기며 혼자 계획할지 경험자에게 배울지에 닿는다.",
+      "contextNote": "연인을 찾는 질문에 양떼의 길을 따라가라고 답한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "모르는 것을 숨기기보다 앞서 간 이의 길을 살필 수 있다.",
+          "friction": "실제 양을 키우라는 뜻이나 선배의 모든 발자취를 무조건 따르라는 말은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:1:9",
+      "textSha256": "60d523dbe0bcd0ca2389fed5ebe39acb81be86e050227bf0b5890c7fa9dcaddf",
+      "status": "hold",
+      "reason": "연인을 높이는 칭찬은 있으나 바로의 병거 말이 왜 좋은 비유인지 알아야 표현의 실마리가 된다.",
+      "contextNote": "사랑하는 여인을 왕의 병거에 매인 좋은 말에 견준다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "B028",
+          "clue": "내가 좋게 보는 상대를 칭찬하는 마음을 읽는다.",
+          "friction": "파라오 병거의 말이 갖는 찬탄의 의미가 현재 말투로 자연스럽게 전달되려면 풀이가 필요하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:1:10",
+      "textSha256": "bf0568d2e561647bf675ca68204da3a77ee4ff2105b0afd3116c7307a1423805",
+      "status": "candidate",
+      "reason": "상대의 머리와 장식에서 아름다운 점을 구체적으로 말해 거창한 말 대신 솔직한 칭찬을 건넬 실마리가 있다.",
+      "contextNote": "뺨과 목을 꾸민 머리와 구슬의 아름다움을 노래한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B028",
+          "clue": "거창한 선언보다 내가 실제 아름답게 보는 부분을 말할 수 있다.",
+          "friction": "상대가 실제 해당 머리나 장식을 했다고 만들지 않고 접촉을 요구하는 말로 쓰지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:1:11",
+      "textSha256": "7adeb89c59624d0546b6e832a9663ccc27ce93d42bdb54c18949b04907735c47",
+      "status": "hold",
+      "reason": "상대를 위해 장식을 마련하려는 마음은 보이나 금은 사슬을 만든다는 사실만으로 선물의 가격과 마음 중 무엇을 볼지 가르기 어렵다.",
+      "contextNote": "사랑하는 이를 위해 금과 은으로 장식하겠다고 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H007",
+          "clue": "선물로 마음을 표현하려는 정성을 본다.",
+          "friction": "금은 장식이라는 가격 사실이 작은 선물의 충분함이나 꼭 큰 비용을 쓸 근거는 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:1:12",
+      "textSha256": "d326b161d85882dc3933fe64a092b1435b3d491a0c338061d9901ad5457f9bb5",
+      "status": "hold",
+      "reason": "향기를 누리는 장면은 있지만 왕의 상과 나도 향의 묘사에서 자기 구매의 허용으로 건너갈 연결이 간접적이다.",
+      "contextNote": "왕과 함께한 자리에서 화자의 향유가 향기를 낸다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H009",
+          "clue": "아름다운 향을 누리는 즐거움을 생각한다.",
+          "friction": "본문은 이미 함께한 자리의 감각이라 현재 구매와 죄책감 사이의 실마리는 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:1:13",
+      "textSha256": "2765651dfd91b4f8530617215a437c0d6df4954624873c68dc490891e6b44765",
+      "status": "candidate",
+      "reason": "가까이 품는 향낭에 연인을 비기는 짧은 말이 솔직한 애정을 말로 건넬지에 친밀한 표현의 그림을 준다.",
+      "contextNote": "가까이 둔 몰약 향기 주머니로 사랑하는 이를 비유한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B028",
+          "clue": "가까이 두고 싶은 마음을 소박한 감각의 말로 표현할 여지를 읽는다.",
+          "friction": "몰약 향낭을 알아야 하는 짧은 비유다. 상대의 마음이나 신체 접촉 동의를 새로 확정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:1:14",
+      "textSha256": "2f7d9da18b0b477ad4df8f5cc2e1410bc838d3aade098d24199ad6d6ce8e6e2b",
+      "status": "hold",
+      "reason": "연인을 꽃송이에 비긴 칭찬은 있으나 엔게디와 고벨화를 알지 못하면 아름다움의 감각을 얻는 데 설명이 필요하다.",
+      "contextNote": "포도원에 핀 향기로운 꽃으로 연인을 비유한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "B028",
+          "clue": "꽃 같은 좋은 인상을 말로 건네는 길을 생각한다.",
+          "friction": "낯선 지명과 식물의 이미지가 핵심이어서 즉시 읽기에는 풀이 부담이 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:1:15",
+      "textSha256": "ebfdd279fcfe8bce7c911ec62bbd62e8d8fee81fbea60124db8520dbdc32389c",
+      "status": "candidate",
+      "reason": "어여쁘다는 직접 말과 부드러운 눈의 비유가 마음 표현을 거창하게 해야 한다는 부담을 낮춘다.",
+      "contextNote": "연인에게 아름다움을 반복해 말하고 눈을 비둘기에 견준다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B028",
+          "clue": "좋다고 느끼는 마음을 짧고 직접 칭찬해도 표현이 될 수 있다.",
+          "friction": "비둘기 눈은 비유이며 상대가 실제 어떻게 반응할지는 알 수 없다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:1:16",
+      "textSha256": "8103290e69f9328b0d3cbcd8b45e67b46ebda1e21495dfaaf45448053d3ab18c",
+      "status": "candidate",
+      "reason": "서로의 아름다움과 함께 쉬는 자리의 기쁨이 혼자 일만 더 할지 연인과의 시간을 낼지에 닿는다.",
+      "contextNote": "사랑하는 이의 모습과 둘의 푸른 침상을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B026",
+          "clue": "함께 있는 기쁨과 쉼을 일정의 실제 가치로 볼 수 있다.",
+          "friction": "푸른 침상의 시적 표현을 새 가구 구매나 신체 접촉 동의로 옮기지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:1:17",
+      "textSha256": "9c83481ada2507bcba32bcf91e17897fdc62a12ea96e2444412a3ef6bb7d7326",
+      "status": "hold",
+      "reason": "우리 집이라는 친밀감은 있으나 나무 들보와 석가래의 묘사만으로 데이트와 혼자 일의 갈림길을 충분히 열기 어렵다.",
+      "contextNote": "함께 있는 자리를 나무로 지은 집처럼 노래한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B026",
+          "clue": "둘이 함께 있는 자리의 친밀함을 생각한다.",
+          "friction": "집의 재료 목록만으로 시간을 낼지의 부담까지 충분히 읽히기는 어렵다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:2:1",
+      "textSha256": "a5e5652f441b618bcb23776e4e6250c4c6046e81971b58a4b95098ab9b07d479",
+      "status": "hold",
+      "reason": "골짜기의 꽃이라는 자칭에서 소박한 자기 가치를 읽을 수 있지만 첫 지원의 실력 비교로 옮기는 중간 해석이 필요하다.",
+      "contextNote": "화자가 자신을 들과 골짜기의 꽃으로 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "소박한 존재에도 아름다움이 있을 수 있다고 읽는다.",
+          "friction": "꽃의 자기 소개에서 지원과 실력의 비교로 건너가는 해석이 필요하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:2:2",
+      "textSha256": "dca59a541266e477159e5598a1befedcd6ed5eba55a5904843748d99df3ea536",
+      "status": "candidate",
+      "reason": "다른 이들 사이에서 내 사랑을 특별히 보는 말이 바깥의 끌림보다 지키고 싶은 배우자와의 관계를 다시 보게 한다.",
+      "contextNote": "여러 여자 가운데 자신의 연인을 백합화에 비유한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B019",
+          "clue": "새로운 끌림과 별개로 내가 지키려는 관계의 특별함을 다시 본다.",
+          "friction": "다른 여성 전부를 가시나무처럼 나쁘다고 판단하거나 배우자의 실제 성품을 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:2:3",
+      "textSha256": "5204d698d12a3a2f861556f7c43e2586fa0cdd1a75524761e53eb22e483d4b06",
+      "status": "candidate",
+      "reason": "연인 곁의 그늘과 열매를 기뻐하는 모습이 해야 할 일 때문에 함께할 시간을 계속 미룰지에 쉼의 가치를 준다.",
+      "contextNote": "남자들 가운데 연인을 사과나무와 그 아래의 누림으로 비유한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B026",
+          "clue": "연인과 함께하는 쉼도 미뤄 둘 사소한 일이 아니라 기쁨의 몫으로 읽는다.",
+          "friction": "상대를 돌봄 자원으로만 보거나 실제 사과와 그늘이 준비됐다고 가정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:2:4",
+      "textSha256": "66c67c9fe5dcc6163e625e2502af9c143251e75cabdbbb2471ceda5c6b0425ac",
+      "status": "candidate",
+      "reason": "사랑이 함께 즐기는 자리의 표지가 된다는 그림이 연인과 시간을 내어 함께하는 가치를 생각하게 한다.",
+      "contextNote": "연인이 잔치집으로 이끌고 사랑이 깃발처럼 덮는 모습을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B026",
+          "clue": "함께 축하하고 즐기는 시간을 사랑의 표현으로 볼 수 있다.",
+          "friction": "현재 연인이 구체 잔치를 마련했다는 사실이나 데이트의 완벽한 만족을 예고하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:2:5",
+      "textSha256": "873c97e9ada893969eb820033b2305e96c71d145a574d3c936326a2d61a53cfb",
+      "status": "hold",
+      "reason": "사랑의 마음을 솔직히 말하지만 건포도와 사과로 힘을 달라는 사랑병의 장면은 소박한 칭찬을 망설이는 부담과 강도가 다르다.",
+      "contextNote": "사랑으로 지친 화자가 먹을 것으로 힘을 돕게 해 달라고 부탁한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B028",
+          "clue": "사랑의 마음을 숨기지 않고 말하는 모습을 본다.",
+          "friction": "사랑병과 음식을 통한 회복의 큰 표현을 현재의 작은 칭찬으로 옮기는 부담이 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:2:6",
+      "textSha256": "8fae995c5ee15b42647991c6d82627cc97a52274da384dcbce698043870f8f13",
+      "status": "candidate",
+      "reason": "머리를 받치고 안아 주는 친밀한 돌봄의 모습이 연인과 함께할 시간을 계속 미루는 부담에 닿는다.",
+      "contextNote": "연인의 두 팔에 기대어 있는 화자의 모습이다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B026",
+          "clue": "함께 기댈 시간과 친밀한 돌봄의 가치를 떠올린다.",
+          "friction": "실제 접촉은 각자의 뜻을 존중해야 하며 약속이 곧 모든 신체 접촉의 동의라는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:2:7",
+      "textSha256": "f2d4309310b3992db9ff5311f9a683eb30a1d47463721f1cb7d874513355f182",
+      "status": "candidate",
+      "reason": "원하기 전에 사랑을 흔들어 깨우지 말라는 요청이 아직 준비되지 않은 신체적 친밀함의 속도를 말할지에 닿는다.",
+      "contextNote": "다른 여자들에게 사랑의 때를 서두르지 말라고 부탁한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B027",
+          "clue": "원하는 때가 오기 전에 억지로 맞추지 않고 내 속도를 말할 여지를 읽는다.",
+          "friction": "노루와 사슴으로 한 부탁의 시적 문맥이다. 특정 접촉 여부를 신의 직접 명령으로 제품이 말하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:2:8",
+      "textSha256": "e0c261bd1e1ea7ef057051311465c2690476ed459aff4a2657cd501639270149",
+      "status": "hold",
+      "reason": "사랑하는 이가 찾아오는 반가움은 기다림과 닿지만 이 절은 이미 목소리와 접근을 확인한 장면이라 답이 없는 현재와 조건이 다르다.",
+      "contextNote": "산을 넘어 오는 연인을 알아보고 반가워한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G12",
+          "clue": "사랑하는 이를 기다리며 반가워할 마음을 생각한다.",
+          "friction": "본문은 도착을 확인한 장면이라 현재 친구가 오거나 답하리라는 사실을 만들어 주지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:2:9",
+      "textSha256": "e59eb59f3e43a286ddd61cab3c55470e5ff0dce5ad4aed764f8887a74cb448bf",
+      "status": "hold",
+      "reason": "가까이 와서 바라보는 연인의 관심은 확인된 장면이며 답이 없는 이의 마음을 알아내는 실마리로 쓰려면 조건을 옮겨야 한다.",
+      "contextNote": "다가온 연인이 벽과 창 너머로 바라보는 모습을 노래한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G12",
+          "clue": "가까이하고 싶은 마음의 모습을 볼 수 있다.",
+          "friction": "답 없는 상대가 몰래 관심을 보인다고 확정할 수 없고 실제 관찰 장면을 옮기는 연결이 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:2:10",
+      "textSha256": "3fdde0d5d69660ebf09abb188845eb4e9ef33fd7dfb74dea7d71510a372c2f76",
+      "status": "candidate",
+      "reason": "일어나 함께 가자고 부르는 직접 초대가 미루던 연인과의 시간을 내는 선택에 닿는다.",
+      "contextNote": "연인이 화자에게 함께 나가자고 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B026",
+          "clue": "미루는 일상에서 일어나 함께할 시간을 내자는 초대를 읽는다.",
+          "friction": "원문의 말을 현재 상대가 직접 보냈다는 사실로 꾸미지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:2:11",
+      "textSha256": "6e8f99a8c5d47e15d907fb50547ac40d5795729499c54cc15d672720fec10392",
+      "status": "hold",
+      "reason": "겨울과 비가 지났다는 변화는 지금의 때를 생각하게 하지만 무엇을 할지의 내용이 다음 절의 초대에 걸려 있다.",
+      "contextNote": "밖으로 나가자는 초대를 계절의 변화로 설명하기 시작한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H060",
+          "clue": "지금 달라진 상황과 가능한 때를 생각한다.",
+          "friction": "현실의 어려움이 모두 끝났거나 놓친 기회가 다시 열린다는 사실은 알 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:2:12",
+      "textSha256": "6623f14fd1e2f63fbe149f91c2f693e7b2788e40d70869d5b333626bedd63ecd",
+      "status": "candidate",
+      "reason": "꽃과 새의 노래가 있는 때를 함께 누리는 그림이 일만 하며 미루는 데이트의 현재 가치를 떠올리게 한다.",
+      "contextNote": "봄의 감각으로 사랑의 초대를 이어 간다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B026",
+          "clue": "현재 함께 누릴 감각과 시간을 일보다 늘 뒤로만 미룰지 돌아본다.",
+          "friction": "현재의 실제 계절이나 날씨를 단정하지 않고 사랑 노래의 봄을 개인적으로 비춘다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:2:13",
+      "textSha256": "85cf08b36b64252508cb0a7a053c4fb735b31f72357237d1987351faa72f3a92",
+      "status": "candidate",
+      "reason": "열매와 꽃과 향기를 말한 뒤 함께 가자고 초대하여 연인과 시간을 내어 현재를 즐기는 선택에 닿는다.",
+      "contextNote": "계절이 무르익었음을 노래한 뒤 초대를 반복한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B026",
+          "clue": "혼자 할 일을 더 붙잡는 것 외에 일어나 함께할 기쁨도 볼 수 있다.",
+          "friction": "연인의 현재 마음과 실제 날씨 및 데이트 결과를 예고하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:2:14",
+      "textSha256": "36db4fa42c1ac1547d3f96c2ea8627cb30a49213a53ed2566a439524e163a514",
+      "status": "candidate",
+      "reason": "얼굴과 소리를 듣고 싶다는 초대가 거창하게 꾸민 말이 아니어도 내 목소리를 건네는 사랑의 표현을 생각하게 한다.",
+      "contextNote": "숨은 비둘기에 비긴 연인에게 얼굴과 목소리를 보여 달라고 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B028",
+          "clue": "꾸민 큰 말이 아니어도 내 목소리를 들려주는 표현을 생각한다.",
+          "friction": "숨은 비둘기의 비유이며 상대가 지금 같은 말을 요구했다고 꾸미지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:2:15",
+      "textSha256": "40f820670ebc983a4591f852d3a29fae448f01efb5ff5347c6b75adf1b335370",
+      "status": "candidate",
+      "reason": "아직 작은 여우도 꽃핀 포도원을 허물 수 있다는 그림이 관계를 지키고 싶은데 작은 호기심을 계속 키울지에 닿는다.",
+      "contextNote": "둘의 사랑을 포도원처럼 지키고 작은 해를 막자고 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B013",
+          "clue": "작아 보이는 반복된 호기심도 지키려는 관계에 주는 영향을 살핀다.",
+          "friction": "SNS를 보는 모든 행위를 배신이라고 단정하거나 실제 파탄을 예고하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:2:16",
+      "textSha256": "ec3f4af1014dfbff6edef741866b61dfe9deeab8879e283af9d2298e563d2fb5",
+      "status": "candidate",
+      "reason": "서로에게 속한 관계의 기쁨을 말해 새로운 끌림과 지키고 싶은 배우자 사이의 부담을 다시 보게 한다.",
+      "contextNote": "상호 사랑의 고백과 백합화 사이 양떼를 먹이는 연인의 모습을 함께 둔다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B019",
+          "clue": "새 끌림보다 서로 지키려는 관계의 몫을 다시 생각한다.",
+          "friction": "속함을 상대에 대한 소유권이나 통제의 허가로 읽지 않는다. 끝의 목자 장면은 사랑 노래의 이미지다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:2:17",
+      "textSha256": "db4ebd00df7e7e647ede63240ada799abe9aa86c99f465ff4b4b43a7cef59717",
+      "status": "hold",
+      "reason": "돌아와 달라는 마음은 함께할 시간과 닿지만 날과 그림자 및 베데르 산의 사슴 비유를 따라 읽는 부담이 있다.",
+      "contextNote": "떨어져 있는 연인에게 돌아오기를 바라는 노래다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "B026",
+          "clue": "함께할 시간에 돌아오기를 바라는 마음을 본다.",
+          "friction": "낯선 산과 사슴의 움직임 및 시간 표현을 풀어야 일상 약속으로 옮길 수 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:3:1",
+      "textSha256": "79c56be14d55a070c928e00984ba42b3ce1f40e63e29f17e7cafff226ac69fac",
+      "status": "hold",
+      "reason": "찾아도 만나지 못하는 정서는 답 없는 친구와 닿지만 이 절에는 더 찾을지 기다릴지의 실마리까지 나오지 않는다.",
+      "contextNote": "밤의 침상에서 사랑하는 이를 찾는 장면을 연다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G12",
+          "clue": "보고 싶은데 만나지 못하는 마음을 알아본다.",
+          "friction": "정서의 일치는 있으나 재연락과 기다림을 생각할 새 실마리는 적다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:3:2",
+      "textSha256": "d5ca31c283c7e1e9e4d7ebc3b0454317a7344a9f9f674a2e061d7ac5f598bde1",
+      "status": "candidate",
+      "reason": "찾지 못해도 일어나 직접 찾는 행동과 여전히 못 만난 끝이 두려움 속 마음을 표현할지에 결과를 보장하지 않는 시도를 보여 준다.",
+      "contextNote": "밤의 찾음이 성 안 거리에서의 능동적인 탐색으로 이어진다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H032",
+          "clue": "모든 반응을 알기 전에 마음을 표현하는 첫 움직임을 생각한다.",
+          "friction": "원문은 연인 찾기다. 실제로 거리를 추적하거나 거절 뒤에도 계속 쫓으라는 뜻이 아니고 끝에서도 만나지 못한 점을 지우지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:3:3",
+      "textSha256": "f4a5e6cdf4f4a767c540698819349c4ca46c03af5c1c61786632b9c3643cee04",
+      "status": "candidate",
+      "reason": "혼자 찾다 다른 이에게 아는 것을 묻는 구체 모습이 도움을 청하기 어려워 혼자 버티는 부담에 닿는다.",
+      "contextNote": "찾는 도중 만난 순찰자들에게 연인을 보았는지 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "모르는 것을 물으며 혼자 찾는 수고를 나눌 수 있다.",
+          "friction": "사랑을 찾는 장면과 도움 요청은 개인적 연결이다. 답변이나 해결 성공을 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:3:4",
+      "textSha256": "fb2120921ce15a2c1d51830f00a1287a905c6832452472e2ccd9cf3d9cbdd088",
+      "status": "hold",
+      "reason": "찾아 만나는 반가움은 있으나 어머니 방까지 붙잡고 놓지 않는 강한 친밀함이 답 없는 친구와의 재연락 부담에 바로 맞지는 않는다.",
+      "contextNote": "찾던 이를 만난 뒤 놓지 않고 집으로 이끄는 장면이다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G12",
+          "clue": "가까이하고 싶은 마음을 돌아본다.",
+          "friction": "본문은 실제 만남과 강한 붙잡음이 있는 연인의 장면이다. 현재 친구의 동의와 답변을 가정하거나 집요한 추적의 근거로 삼을 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:3:5",
+      "textSha256": "67f06012a4738070098333eead646d8c1666eeda527ddae1468559aea821d1e3",
+      "status": "candidate",
+      "reason": "사랑하는 이가 원하기 전 흔들어 깨우지 말라는 요청이 준비 안 된 친밀함을 상대에게 맞춰야 하는지에 닿는다.",
+      "contextNote": "사랑의 만남 뒤에 사랑의 때를 서두르지 말라는 부탁을 반복한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B027",
+          "clue": "서로 원하는 때를 기다리며 아직 준비 안 된 내 속도를 말할 수 있다.",
+          "friction": "사슴으로 한 시적 부탁이며 특정 친밀 행위를 하나님이 직접 금하거나 허용했다는 설명을 붙이지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:3:6",
+      "textSha256": "3250c18678111a9908ffe0e9b8983f6f619dca217034fc26fa8b55ea60accf4f",
+      "status": "exclude",
+      "reason": "향기와 연기처럼 다가오는 이가 누구인지 묻는 행렬의 도입으로 현재 선택의 실마리는 아직 없다.",
+      "contextNote": "왕의 혼인 행렬을 향기와 먼 모습으로 소개한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:SNG:3:7",
+      "textSha256": "940394eaacea9ea41901c5889b40a9d16c697e5cd7f18044df8598cef21de995",
+      "status": "exclude",
+      "reason": "솔로몬의 가마와 육십 용사의 호위를 소개하는 미완 문장이라 일반 이동이나 역할의 선택 기준을 주지 않는다.",
+      "contextNote": "혼인 행렬의 중심과 호위 인원을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:SNG:3:8",
+      "textSha256": "b0c95313c3dafa292bcb79bece916df948317f47cedc0efa0c926d41cb7de3a6",
+      "status": "hold",
+      "reason": "두려움에 준비해 두는 모습은 여행 걱정과 닿지만 검과 숙련된 호위가 필요한 밤의 조건은 현재 여행에 주어지지 않았다.",
+      "contextNote": "가마를 지키는 용사들이 밤의 위험에 대비한 상태를 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H013",
+          "clue": "두려움에 대비하는 실제 준비의 가치를 생각한다.",
+          "friction": "여행에 무장 호위가 필요한 상황은 주어지지 않았고 존재하지 않는 위험을 만들면 안 된다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:3:9",
+      "textSha256": "482c0fd498eb65de4412a327e2859444e63e18aab0a48cabcf32607ac78547b1",
+      "status": "exclude",
+      "reason": "왕이 가마를 레바논 나무로 만들었다는 제작 배경으로 시작이나 준비의 충분함을 가를 부담은 이 절에 없다.",
+      "contextNote": "혼인 가마의 재료와 제작을 소개한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:SNG:3:10",
+      "textSha256": "f743c86b15a48465ab470a427bf02c26cd8b8e5b3c416588a16dbf711e1c6bb2",
+      "status": "hold",
+      "reason": "화려한 재료 속에 사랑을 입혔다는 표현은 선물의 마음과 닿지만 비용과 마음을 어느 비중으로 볼지의 실마리는 간접적이다.",
+      "contextNote": "금은과 자색 천 및 사랑으로 꾸민 가마를 묘사한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H007",
+          "clue": "겉의 장식뿐 아니라 담은 사랑도 선물의 몫임을 생각한다.",
+          "friction": "가마에는 금은과 사랑이 함께 있어 꼭 적은 비용이 더 낫다는 비교 기준은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:3:11",
+      "textSha256": "64724dc166e3745085c4650f318d12266fe313ef980ccb817dffdb36488c6b5e",
+      "status": "candidate",
+      "reason": "혼인의 기쁨을 함께 나와 보라는 초대가 남의 기쁜 일을 비교 때문에 피할지 축하할지에 닿는다.",
+      "contextNote": "혼인날 어머니가 씌운 왕관과 기뻐하는 왕을 보라고 부른다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H040",
+          "clue": "다른 이의 기쁨을 보러 함께 나오는 것도 선택일 수 있다.",
+          "friction": "왕의 혼인이라는 원래 장면을 친구의 기쁜 일에 비추며 현재 성공의 종류나 가족 구성을 새로 만들지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:4:1",
+      "textSha256": "98cdaf0b586f678c3e694121507ff26f42d0a9cc1b74ecff20a12573dd4a32e9",
+      "status": "hold",
+      "reason": "연인의 아름다움을 칭찬하지만 너울과 길르앗의 염소 떼까지 함께 읽어야 해 소박한 칭찬을 꺼내는 데 비유 풀이 부담이 남는다.",
+      "contextNote": "눈과 머리털을 비둘기와 산기슭 염소 떼로 노래한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "B028",
+          "clue": "좋아하는 상대의 모습을 구체적으로 칭찬하는 마음을 읽는다.",
+          "friction": "비둘기 눈과 산기슭 염소 털의 비유를 현대 독자가 자연스럽게 이해하려면 설명을 빌려야 할 수 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:4:2",
+      "textSha256": "e0c4c5e27ebdc30644b47f69e362d6344c21b51324a68c4c3440c2e8ad0c6182",
+      "status": "hold",
+      "reason": "상대의 이를 세밀히 찬탄하나 털 깎인 양과 쌍태의 비교가 이의 아름다움으로 연결되는 방식을 풀어야 한다.",
+      "contextNote": "고르고 빠진 것 없는 이를 양 떼의 비유로 묘사한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "B029",
+          "clue": "몸을 아름답게 보는 마음을 표현하는 모습을 본다.",
+          "friction": "양과 쌍태 및 이의 정렬을 잇는 해석이 필요해 합의된 친밀함의 표현이라도 즉시 읽기 부담이 크다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:4:3",
+      "textSha256": "80af728f16132b32e9985ec4130a6e8af89efbb76a5c29b3f8b7957e4e553994",
+      "status": "candidate",
+      "reason": "입과 뺨을 구체적인 색과 열매로 칭찬해 거창한 선물 없이도 아름답게 보는 마음을 말할 수 있음을 보여 준다.",
+      "contextNote": "입술과 입 및 너울 뒤 뺨을 홍색 실과 석류로 노래한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B028",
+          "clue": "내가 실제 예쁘게 보는 점을 작은 말로 전할 수 있다.",
+          "friction": "시의 색과 열매가 상대의 실제 신체 조건이라고 만들거나 특정 외모를 미의 의무 기준으로 삼지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:4:4",
+      "textSha256": "468c3b2a786121056ab5773b101fb6d3fa0a4f7040e01f17143aef89b154f4ea",
+      "status": "hold",
+      "reason": "목을 아름답게 보는 말이지만 군기와 다윗의 망대와 천 방패가 신체 찬탄으로 읽히기에는 설명이 많이 필요하다.",
+      "contextNote": "연인의 목을 높고 당당한 군사 망대에 견준다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "B029",
+          "clue": "몸을 당당하고 아름답게 보는 마음을 읽는다.",
+          "friction": "목을 군사 망대와 방패에 비기는 옛 이미지가 중심이어서 의미 풀이가 필요하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:4:5",
+      "textSha256": "82abd3c16630a0051bb9ead5b0b049b1efeac7fc6cd17af82bbe277ebe93b1a8",
+      "status": "candidate",
+      "reason": "몸의 아름다움을 부드러운 생명의 비유로 직접 노래하여 서로 동의한 성인 연인에게 이런 마음을 표현할지에 닿는다.",
+      "contextNote": "연인의 두 가슴을 백합화 사이 어린 노루 한 쌍에 비유한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B029",
+          "clue": "몸에 대한 친밀한 아름다움도 숨겨야 할 잘못만은 아닐 수 있다.",
+          "friction": "동의한 성인 연인의 생성 사례다. 특정 신체 모양을 요구하거나 모든 상대에게 신체 칭찬을 해도 된다는 허용으로 일반화하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:4:6",
+      "textSha256": "19eec03262c8775fea70429453163624532c867cf62481707c38100735a46086",
+      "status": "hold",
+      "reason": "연인에게 다가가고 싶은 마음을 읽을 수 있으나 몰약 산과 유향 산 및 날과 그림자의 시적 대상을 알아야 한다.",
+      "contextNote": "연인의 몸을 찬탄한 뒤 향기로운 산으로 가겠다고 말한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "B026",
+          "clue": "사랑하는 이에게 다가가고 싶은 마음을 생각한다.",
+          "friction": "향기로운 산이 실제 목적지인지 몸의 비유인지와 시간 표현을 풀어야 한다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:4:7",
+      "textSha256": "98039a27dbed65332b45e5a0ac99d4dcf6571594812db8004772f5746379b419",
+      "status": "candidate",
+      "reason": "사랑하는 이를 어여쁘다고 온전히 칭찬하는 문장이 마음에만 둘지 직접 말할지의 표현 부담에 닿는다.",
+      "contextNote": "연인의 아름다움을 흠 없다는 사랑의 찬탄으로 총평한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B028",
+          "clue": "내가 느끼는 사랑과 아름다움을 직접 말할 수 있다.",
+          "friction": "흠 없다는 말은 사랑의 찬탄이며 상대의 실제 인격과 몸이 완벽하다는 사실 검증이 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:4:8",
+      "textSha256": "27a5f5b075c1b997697897321e9a83b45b5be0cf08a21d63bff7a19d762e9c45",
+      "status": "hold",
+      "reason": "함께 가자는 초대는 데이트와 닿지만 여러 산꼭대기와 사자 굴 및 표범 산을 내려다보라는 뒷부분까지 잇는 독해가 부담이다.",
+      "contextNote": "멀고 높은 장소에서 신부를 함께할 자리로 부른다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "B026",
+          "clue": "함께 가자는 초대를 생각한다.",
+          "friction": "산 이름과 맹수의 거처가 섞여 현재 데이트에 없는 위험과 장소를 옮기지 않으면서 읽는 부담이 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:4:9",
+      "textSha256": "845cf0d3137d75abc5174ee337739ea364e2f0757d6878a6f83e96cdbe9d704f",
+      "status": "candidate",
+      "reason": "한 번의 눈길과 작은 장식도 마음을 움직인다는 말이 거창한 표현이 아니면 부족할까 망설이는 부담에 닿는다.",
+      "contextNote": "신부의 눈길과 목 장식에 마음을 빼앗겼다고 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B028",
+          "clue": "큰 선물이 아니어도 눈길과 작은 표현으로 마음을 전할 수 있다.",
+          "friction": "나의 누이라는 사랑 노래의 호칭을 실제 남매 관계로 가정하지 않고 상대 반응을 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:4:10",
+      "textSha256": "b8ce72944651ab525b19d5ef62a56384a177116b8c38811a7b0c047fef287442",
+      "status": "candidate",
+      "reason": "향품보다 사랑 자체를 더 아름답다고 말해 값비싼 것 없이도 내 마음을 표현하는 가치를 생각하게 한다.",
+      "contextNote": "신부의 사랑과 향기를 포도주와 향품보다 높이 찬탄한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B028",
+          "clue": "사랑을 전하는 마음 자체가 값비싼 향품보다 귀할 수 있다.",
+          "friction": "원문의 친밀 호칭을 실제 혈연으로 만들지 않으며 선물 가격을 반드시 낮추라는 규칙도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:4:11",
+      "textSha256": "3444ec516b0ee006ceb83d8046e8cd0c29b5ed8f7cd25b3ec836efcc08954daf",
+      "status": "candidate",
+      "reason": "입술과 혀와 옷의 향기를 아름답게 노래해 합의된 친밀함 안에서 몸에 대한 애정을 말할 수 있음을 보여 준다.",
+      "contextNote": "연인의 말과 입맞춤 및 감각적 매력을 꿀과 젖과 향으로 표현한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B029",
+          "clue": "서로 동의한 친밀함에서 몸의 감각을 아름답게 말할 여지를 읽는다.",
+          "friction": "입술과 혀의 비유를 특정 접촉 요구로 바꾸거나 동의 없는 상대에게 보내는 근거로 일반화하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:4:12",
+      "textSha256": "646af8d41c313e603bb63ac5949fd88b3aefa0f7314b196b571548e0fec67adb",
+      "status": "candidate",
+      "reason": "잠근 동산과 봉한 샘의 모습이 친밀함을 서두르지 않고 내 몸의 속도를 말할 여지를 준다.",
+      "contextNote": "연인의 친밀함을 닫힌 동산과 샘으로 비유한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B027",
+          "clue": "내 안이 아직 열릴 준비가 안 됐다면 속도를 말할 여지를 읽는다.",
+          "friction": "다음에는 스스로 동산으로 초대한다. 닫힘을 영구한 금지나 상대의 소유권으로 규정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:4:13",
+      "textSha256": "fc83d8f7d72f5d3302b03d20489ae7cb6c40b2241d8a4f0c8d5d7a0ef7746021",
+      "status": "hold",
+      "reason": "연인을 풍성한 동산으로 칭찬하는 흐름이나 각종 나무와 향초의 목록이 다음 절에 이어져 몸에 대한 표현으로 읽을 설명이 필요하다.",
+      "contextNote": "신부의 아름다움을 여러 향기로운 식물로 나열하기 시작한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "B029",
+          "clue": "몸의 아름다움을 풍성한 동산처럼 표현하는 마음을 본다.",
+          "friction": "향초 이름이 낯설고 목록이 이어져 전체 장면을 설명해야 연결된다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:4:14",
+      "textSha256": "e42f3dd030ea9861f14cbff0b0e5590d33a85ed77787d51d35dc0c1fa71cab3b",
+      "status": "exclude",
+      "reason": "여러 향초와 향목의 목록이 앞의 네게서 나는 것을 이어받아 대상 없는 단독 목록으로는 선택의 실마리가 서지 않는다.",
+      "contextNote": "앞 절 동산 비유의 향품을 계속 나열한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:SNG:4:15",
+      "textSha256": "93e1ca7dba80a35eea7ab01fc19e5a4c8cb8de024de28155a3fa110ba114903b",
+      "status": "candidate",
+      "reason": "샘과 우물과 흐르는 시내로 연인을 생동하게 찬탄하여 친밀한 아름다움을 말해도 되는지의 부담에 닿는다.",
+      "contextNote": "식물 목록 뒤에 신부를 동산의 물 근원으로 노래한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B029",
+          "clue": "사랑하는 몸을 생동하는 샘처럼 아름답게 느끼는 마음을 표현할 수 있다.",
+          "friction": "샘과 우물은 시적 표현이며 생식 능력이나 건강 상태를 사실로 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:4:16",
+      "textSha256": "927eadbb787a8769c7c0d7dd7234f0aa2bff2f00dcaeea5afd88644e580167aa",
+      "status": "candidate",
+      "reason": "자기 동산으로 사랑하는 이를 초대하고 싶다는 말이 서로 동의한 친밀한 마음을 부끄러움 때문에 숨길지에 닿는다.",
+      "contextNote": "닫힌 동산의 비유 뒤에 화자가 스스로 연인을 초대한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B029",
+          "clue": "원하는 친밀함을 내 뜻으로 초대하고 말할 수도 있다.",
+          "friction": "바람과 동산은 시의 비유다. 합의된 성인 관계의 사례이며 상대가 원치 않는 접촉까지 허용하거나 언제나 열려 있어야 한다고 말하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:5:1",
+      "textSha256": "ac616d2caa95178ac5827882464e38a3c8f5d2a052b382cfbe97a35400e07ec5",
+      "status": "hold",
+      "reason": "친밀함을 누리는 기쁨은 있지만 동산과 음식과 술 및 친구들에게 많이 마시라는 호소가 한 절에 겹쳐 단순한 애정 표현으로 읽는 부담이 남는다.",
+      "contextNote": "동산의 만남과 누림에 이어 친구들에게 먹고 마시라고 부른다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "B029",
+          "clue": "친밀한 기쁨을 긍정하는 표현을 볼 수 있다.",
+          "friction": "친구들에게 마시라고 하는 목소리와 동산의 누림을 구별해 읽어야 하며 실제 음주나 집단 친밀 행위의 허용으로 옮길 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:5:2",
+      "textSha256": "4f23324fa5efbed2ef47387fa088d3c6366c26d6b63f694de0de1a0ada3f4f9c",
+      "status": "hold",
+      "reason": "마음은 깨어 있고 문을 두드리는 연인이 있다는 장면은 함께할 시간과 닿지만 밤 이슬 속 실제 방문이 현재 약속의 조건은 아니다.",
+      "contextNote": "자는 중 연인이 문을 두드려 열어 달라는 장면을 연다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B026",
+          "clue": "기다리는 사랑의 초대를 돌아볼 수 있다.",
+          "friction": "상대가 실제 밤에 와서 기다린다는 조건이 없고 그 호소가 신체적 준비 여부를 대신하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:5:3",
+      "textSha256": "d4e8d7dabbab1521e71c7c653bcd4c07e816bf7248659f262b673a7909c698a5",
+      "status": "hold",
+      "reason": "다 씻고 누웠으니 다시 움직이기 싫다는 마음은 데이트를 미루는 이유와 닿지만 이 절의 망설임에는 아직 그 선택에 대한 관점이 없다.",
+      "contextNote": "찾아온 연인에게 문을 열기 전 화자가 주저하는 말이다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B026",
+          "clue": "움직이기 싫은 관성이 관계의 시간을 밀고 있는지 생각한다.",
+          "friction": "주저한 말 자체이며 뒤의 전개 없이 무엇을 선택할 실마리인지 불명확하다. 쉼이나 동의 거부를 잘못으로 만들지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:5:4",
+      "textSha256": "afafd169d18c6399e08425bf178918dfe8400376d5481aabbe13b41465ac4eaa",
+      "status": "exclude",
+      "reason": "문틈의 손에 마음이 움직였다는 미완 장면으로 현재 친밀함의 준비나 선택을 어떤 기준으로 볼지까지 나오지 않는다.",
+      "contextNote": "문을 두드리는 연인에 화자가 동요하는 모습이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:SNG:5:5",
+      "textSha256": "4f2984e69fbc3c8fc1b349694a310ae4a5715ce77729757e98c4ecc85a029f25",
+      "status": "candidate",
+      "reason": "일어나 사랑하는 이를 위해 문을 여는 구체 행동이 일상의 관성 때문에 함께할 시간을 계속 미룰지에 닿는다.",
+      "contextNote": "화자가 마음을 움직여 문을 열고 손의 향기를 묘사한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B026",
+          "clue": "계속 미루기보다 일어나 함께할 시간을 여는 작은 행동을 생각한다.",
+          "friction": "실제 방문이나 몰약을 가정하지 않으며 원치 않는 신체 접촉을 받아들이라는 말은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:5:6",
+      "textSha256": "9b5c57f162aee388f3800f45f3c15213e00c11bc15632ee0b9981d99f6cdcdf8",
+      "status": "hold",
+      "reason": "불러도 응답이 없는 정서는 맞지만 먼저 온 이가 이미 떠난 경위가 있어 하루 답 없는 친구의 이유를 이 상황으로 채울 수 없다.",
+      "contextNote": "뒤늦게 문을 연 뒤 연인을 찾고 불러도 만나지 못한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G12",
+          "clue": "찾아도 응답이 없는 마음의 무게를 알아본다.",
+          "friction": "입력에 없는 내 늦은 대응이나 상대의 실망을 답 없음의 원인으로 꾸미면 안 된다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:5:7",
+      "textSha256": "94f888218cb6690363a644531f972846bb33a25c7ccf2738935976ab260b78ba",
+      "status": "hold",
+      "reason": "도움을 기대할 수 있는 파수자에게 오히려 다치는 장면은 권위에 대한 분별과 닿을 여지가 있으나 현재 선배에게 그런 위험이 주어지지 않았다.",
+      "contextNote": "연인을 찾던 화자가 순찰자들에게 맞고 옷을 빼앗긴다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "권위가 있다고 모든 도움과 행동이 옳은 것은 아님을 생각한다.",
+          "friction": "현재 선배가 폭력을 행사할 위험은 주어지지 않았다. 폭행과 강제 탈의의 장면에서 보통 조언 요청의 방향으로 가는 거리가 크다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:5:8",
+      "textSha256": "dfdd36ef5ee20b0269895a830c2d4d30d44d3c957b0ae1687badcc6b8ad8ad0f",
+      "status": "candidate",
+      "reason": "사랑하는 마음을 다른 이에게도 부탁해 전하려는 모습이 마음을 아예 감출지 말로 표현할지에 닿는다.",
+      "contextNote": "여자들에게 연인을 만나면 자신의 사랑병을 전해 달라고 부탁한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B028",
+          "clue": "내 애정을 말로 알리는 표현을 시도할 수 있다.",
+          "friction": "사랑병은 시적 말이며 실제 질병으로 진단하지 않는다. 대리 전달을 꼭 선택해야 한다거나 상대가 받아들인다고 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:5:9",
+      "textSha256": "e954bc15dc8bb094f28b4726c7696e1299e99dea8502516d06eb672ecf294458",
+      "status": "candidate",
+      "reason": "내 사랑의 어떤 점이 귀한지 묻는 반복이 거창한 선물 대신 구체 칭찬을 찾는 실마리가 된다.",
+      "contextNote": "동무들이 화자의 연인을 그토록 찾는 이유를 묻는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B028",
+          "clue": "내가 좋아하는 이의 어떤 점을 귀하게 보는지 찾아 말할 수 있다.",
+          "friction": "다른 사람의 연인보다 실제로 우월해야만 사랑할 수 있다는 기준을 세우지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:5:10",
+      "textSha256": "0cb88fecc80319f9733e215a5c3c3fa2239c587d20381fc5ea6c994375d93d12",
+      "status": "candidate",
+      "reason": "좋게 보는 연인을 높여 말하는 짧은 고백이 솔직한 칭찬을 입 밖에 낼지에 닿는다.",
+      "contextNote": "화자가 연인의 외모와 특별함을 찬탄하기 시작한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B028",
+          "clue": "좋게 느끼는 상대를 직접 칭찬하는 길을 읽는다.",
+          "friction": "희고 붉음은 원문의 외모 표현이며 특정 피부색을 더 가치 있는 사람의 기준으로 일반화하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:5:11",
+      "textSha256": "9fe6a09e6c16ce77c70d26d781ede1fea265d903b025e6dec4eb36d3c404779e",
+      "status": "candidate",
+      "reason": "머리와 곱슬한 머리털의 아름다움을 구체적으로 말해 친밀한 외모의 애정을 표현할 여지를 준다.",
+      "contextNote": "연인의 머리를 금에 머리털을 검은 까마귀에 비유한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B029",
+          "clue": "구체적으로 아름답다고 느끼는 모습을 말할 수 있다.",
+          "friction": "금과 까마귀의 시적 비유이지 정해진 머리 모양과 색을 요구하는 기준은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:5:12",
+      "textSha256": "7f4ea7654a39928f545971154f4bffde3bb9fa99cad15ebcb06d49612954af31",
+      "status": "candidate",
+      "reason": "눈이 아름답다는 감각적 찬탄이 합의된 친밀함에서 몸을 좋게 보는 마음을 말할지에 닿는다.",
+      "contextNote": "연인의 눈을 물가의 비둘기와 젖의 이미지로 묘사한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B029",
+          "clue": "눈에 느끼는 아름다움도 친밀한 칭찬으로 표현할 수 있다.",
+          "friction": "젖으로 씻은 듯하다는 비유를 신체의 실제 상태나 피부색의 우열로 설명하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:5:13",
+      "textSha256": "4aa7074ad7770904f6c63d39b4c3041d00db5ab6ee614d72e28e87c38ab97ed0",
+      "status": "candidate",
+      "reason": "뺨과 입술을 향기와 꽃에 비겨 몸에 대한 애정도 아름다운 표현으로 나눌 수 있음을 보여 준다.",
+      "contextNote": "향기로운 언덕과 백합과 몰약으로 연인의 얼굴을 노래한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B029",
+          "clue": "몸의 감각을 존중하며 아름답게 느끼는 마음을 말할 수 있다.",
+          "friction": "입맞춤이나 접촉을 상대에게 요구하는 권리로 만들지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:5:14",
+      "textSha256": "796f78a19ceca59945d6f73672b8cfb4fa4d3afe42190b8da4ba9a38f35674d9",
+      "status": "candidate",
+      "reason": "손과 몸의 아름다움을 귀한 재료로 찬탄해 서로 동의한 연인에게 신체적 아름다움을 말할 수 있음을 보여 준다.",
+      "contextNote": "손과 몸을 보석 박힌 금과 상아로 노래한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B029",
+          "clue": "몸의 아름다움에 대한 마음도 서로 나누는 표현의 몫으로 볼 수 있다.",
+          "friction": "보석과 상아는 비유이며 특정 몸의 색과 모양이 이상이어야 한다는 의무를 만들지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:5:15",
+      "textSha256": "665b88776dee47bb606d904be2e7512b9ef7c77003aebd4fa6b2e3fc538fef43",
+      "status": "candidate",
+      "reason": "몸의 당당함과 보기 좋음을 기둥과 나무로 표현하여 몸에 대한 마음을 부끄러워 감출지에 닿는다.",
+      "contextNote": "다리와 전체 모습을 귀한 기둥 및 레바논과 백향목에 비유한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B029",
+          "clue": "몸을 당당하고 보기 좋게 느끼는 마음을 표현할 여지를 읽는다.",
+          "friction": "화반석과 백향목의 귀함을 알아야 하는 이미지가 있으나 보기 좋다는 찬탄은 드러난다. 현재 몸에 특정 크기와 강함을 요구하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:5:16",
+      "textSha256": "85d107b22bd1e4fdb7569fb4935ee1bbcd55e4bee4689b0b21a36bf5fa434d64",
+      "status": "candidate",
+      "reason": "사랑하는 이를 친구라 부르며 전체가 사랑스럽다고 말해 어렵게 꾸미지 않아도 애정을 표현할 실마리를 준다.",
+      "contextNote": "몸의 찬탄을 전체 사랑과 친구라는 관계로 마무리한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B028",
+          "clue": "함께하는 친구로서 사랑스럽다는 마음을 짧게 건넬 수 있다.",
+          "friction": "상대의 반응을 보증하지 않으며 모든 신체 접촉이 동의되었다는 의미는 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:6:1",
+      "textSha256": "e1758193d3ff4f992de72fef5751f60b348477e9f627fe38ad19f21711fbe544",
+      "status": "candidate",
+      "reason": "우리가 함께 찾겠다는 동무들의 제안이 혼자 버텨야 한다는 부담에 도움을 나눌 그림을 준다.",
+      "contextNote": "여자들이 연인의 행방을 묻고 함께 찾겠다고 응한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "혼자 찾아야만 한다는 부담을 덜고 함께해 달라고 할 수 있다.",
+          "friction": "생성 고민의 상대가 실제 제안하거나 반드시 승낙한다는 사실로 꾸미지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:6:2",
+      "textSha256": "1e4dda1fc27054abf99c77ce404753cceeea3a70425624360e6c3359766f8943",
+      "status": "hold",
+      "reason": "연인이 있는 곳을 아는 친밀한 장면이지만 현재 답이 없는 친구의 행방이나 뜻을 알려 주는 내용으로 옮길 수는 없다.",
+      "contextNote": "연인이 향기로운 자기 동산에서 양떼를 먹이는 모습을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G12",
+          "clue": "그리운 이를 떠올리는 감각을 읽는다.",
+          "friction": "현재 친구가 어디 있는지 혹은 무슨 마음인지는 확인되지 않았고 이 장면만으로 재연락 여부가 열리지는 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:6:3",
+      "textSha256": "291bd382aea35616a5d0aa10fb5cc3bdcfbc964750b55207e6ed64c8c98f5195",
+      "status": "candidate",
+      "reason": "서로에게 속했다는 쌍방 고백이 새로운 끌림보다 지키고 싶은 배우자와의 관계를 다시 보게 한다.",
+      "contextNote": "상호 사랑의 소속과 백합화 사이 목자의 모습을 반복한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B019",
+          "clue": "이미 나누고 지키려는 관계의 쌍방 가치를 다시 생각한다.",
+          "friction": "속함을 소유권으로 바꾸지 않고 목자의 장면을 현재 배우자의 직업으로 가정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:6:4",
+      "textSha256": "df5033a430c60ab77c3fb768eb3206a3fb93b6710856b800b83b56dde6064875",
+      "status": "hold",
+      "reason": "사랑하는 이의 아름다움은 분명하나 디르사와 예루살렘 및 군대의 엄위가 아름다움에 어떻게 이어지는지 풀이 부담이 있다.",
+      "contextNote": "연인을 아름다운 도시와 깃발 펼친 군대에 비유한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "B028",
+          "clue": "사랑하는 이의 당당한 아름다움을 말하는 모습을 본다.",
+          "friction": "도시 이름과 군대의 엄위가 칭찬이 되는 감각을 풀어야 한다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:6:5",
+      "textSha256": "c22a2335eee9cafadc7d572af52e5d4f35bb450663a811c39a53bd1deddf12da",
+      "status": "hold",
+      "reason": "매혹되는 눈길과 머리털을 말하지만 보지 말라는 반어와 길르앗 염소 떼를 함께 읽어야 해 친밀한 칭찬으로의 독해가 복잡하다.",
+      "contextNote": "연인의 강한 눈길에 놀라며 머리털을 다시 찬탄한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "B029",
+          "clue": "상대의 눈과 머리에서 느끼는 매력을 표현하는 모습을 본다.",
+          "friction": "보지 말라는 반어와 옛 염소 떼의 비유가 섞여 실제 거절 또는 시선 요구로 오해 없이 읽기 어렵다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:6:6",
+      "textSha256": "58beb64bbfd30479099c5fb76fb371fcf57ff9de5a03ac098e227cae4c61015b",
+      "status": "hold",
+      "reason": "이의 아름다움을 노래하나 양 떼와 쌍태의 비교가 실제 신체의 고름으로 연결되는 해설을 필요로 한다.",
+      "contextNote": "목욕한 암양의 비유로 이를 찬탄하는 말을 반복한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "B029",
+          "clue": "몸의 세부를 아름답게 보는 마음을 생각한다.",
+          "friction": "쌍태 낳은 양과 이의 모양 사이 비유를 설명해야 한다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:6:7",
+      "textSha256": "fc56b440351248e27de76ea651f52c792fe7a1b194e40401b8bbd4ff238fa085",
+      "status": "candidate",
+      "reason": "뺨을 석류의 빛에 비기는 짧은 찬탄이 마음속의 예쁨을 구체적으로 말할 표현을 준다.",
+      "contextNote": "너울 안의 연인의 뺨을 노래한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B028",
+          "clue": "내가 예쁘게 보는 얼굴의 감각을 작은 칭찬으로 전할 수 있다.",
+          "friction": "너울과 석류는 원래 장면이며 상대에게 특정 피부색을 요구하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:6:8",
+      "textSha256": "9caba9d2311436558eed3890b6558f2ceb36dccfa6d2a6693719d3c1d3432290",
+      "status": "exclude",
+      "reason": "왕후와 비빈과 시녀의 수만 나열한 미완 문장으로 뒤의 유일한 사랑과의 비교 없이 선택의 뜻이 서지 않는다.",
+      "contextNote": "많은 왕실 여자들과 유일한 사랑을 대비하기 위한 배경이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:SNG:6:9",
+      "textSha256": "7b8f437a7fc70b57d61fa4bc77a98fd78592085b59deaaa4d9631eb6bbf1fb9c",
+      "status": "candidate",
+      "reason": "많은 이들 중 내 사랑은 하나라는 고백이 새 끌림보다 지키려는 관계의 고유한 가치를 보게 한다.",
+      "contextNote": "화자의 유일한 사랑을 어머니와 다른 여자들도 귀히 여긴다고 찬탄한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B019",
+          "clue": "다른 가능성의 수보다 하나로 지키려는 관계의 특별함을 본다.",
+          "friction": "배우자가 실제 외동딸이거나 다른 이들의 칭찬을 받는다는 사실을 만들지 않는다. 완전함은 시의 찬탄이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:6:10",
+      "textSha256": "22170ec0db6de4ee4fb435ded373e1798188fa91a788e97046544acc06593f91",
+      "status": "candidate",
+      "reason": "빛과 해와 달처럼 아름답고 당당하다는 여러 찬탄이 연인의 좋은 점을 마음에만 둘지 표현할지에 닿는다.",
+      "contextNote": "여인의 아름다움과 존재감을 아침빛과 천체와 군대에 비유한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B028",
+          "clue": "밝고 아름답고 당당하다고 느끼는 마음을 표현할 수 있다.",
+          "friction": "군대의 엄위는 존재감의 비유이며 공격이나 통제의 행동을 칭찬하는 뜻으로 옮기지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:6:11",
+      "textSha256": "666545599eefe7765ae1511430ef0bd4b69adbe65349b6dfd177058d538d19df",
+      "status": "exclude",
+      "reason": "식물의 상태를 보려고 동산에 간 도입이 다음의 수레 장면으로 이어져 지금의 선택에 쓸 판단은 아직 없다.",
+      "contextNote": "동산으로 내려간 때를 회고하기 시작한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:SNG:6:12",
+      "textSha256": "6f76ed949ad68483ad7502d244488c2ec16206505e3ec09f1b5adc84bc84c793",
+      "status": "hold",
+      "reason": "마음에 이끌리는 경험은 고백을 망설이는 마음과 관련되나 백성의 수레 가운데 이른 장면의 경위가 이 절만으로 불분명하다.",
+      "contextNote": "동산 장면 뒤 갑자기 수레 가운데 이른 것을 말한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H032",
+          "clue": "마음에 이끌려 움직이고 싶은 경험을 떠올린다.",
+          "friction": "수레 가운데 이른 경위가 불명확하고 마음이 끌리는 것만으로 고백 결과를 알 수는 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:6:13",
+      "textSha256": "e0aa33833b670d1d05090f86c687c3b823a686adb1cffad665b4d0384e8c6570",
+      "status": "hold",
+      "reason": "돌아와 보게 해 달라는 표현은 있지만 집단의 구경 초대여서 연인 사이 사적인 칭찬과 시간을 내는 부담으로 바로 옮기기 어렵다.",
+      "contextNote": "여러 이가 술람미 여자에게 돌아와 모습을 보여 달라고 부른다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B028",
+          "clue": "보고 싶다는 마음을 말로 나타내는 모습을 본다.",
+          "friction": "여러 사람이 여인을 보려 하는 장면이라 연인 간 소박한 표현으로 옮기려면 앞뒤 목소리를 구별해야 한다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:6:14",
+      "textSha256": "c92328c1a50f6dc0ba6e410a9cf9ae620b4218f33522ac9ee69193b4dba7a132",
+      "status": "hold",
+      "reason": "여인을 바라보는 이유를 묻지만 마하나임의 춤이 어떤 구경인지 알아야 하여 연인에게 표현할지의 부담에 바로 닿지 않는다.",
+      "contextNote": "술람미 여자를 보려는 이들에게 그 시선의 이유를 되묻는다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "B028",
+          "clue": "서로를 바라보는 마음과 시선을 생각한다.",
+          "friction": "마하나임의 춤과 반문의 의도를 알아야 하며 단순 칭찬의 표현은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:7:1",
+      "textSha256": "c44884f72dd877eddda6a53f02832d20b789efe135faf69cf90070fe57bc16eb",
+      "status": "candidate",
+      "reason": "발과 넓적다리의 아름다움을 구체적으로 찬탄해 동의한 성인 연인에게 몸에 느끼는 애정을 말할지에 닿는다.",
+      "contextNote": "여인의 발과 허벅지를 장인이 만든 장식에 비유한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B029",
+          "clue": "서로 동의한 친밀함에서 몸의 구체적인 아름다움을 말할 수 있다.",
+          "friction": "신체 모양을 의무 기준으로 만들거나 합의되지 않은 사람에게 몸 평가를 보내는 허용으로 쓰지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:7:2",
+      "textSha256": "6e8018d9d21abd72e2e24531d6fc4866090ea6d36109f24d96a656545f502b07",
+      "status": "candidate",
+      "reason": "배꼽과 허리를 풍성한 감각으로 아름답게 노래해 몸의 매력에 대한 말을 감춰야만 하는지 돌아보게 한다.",
+      "contextNote": "몸을 포도주 잔과 백합 둘린 밀단에 비유한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B029",
+          "clue": "몸에 느끼는 아름다움도 부끄러워 숨겨야만 하는 것은 아닐 수 있다.",
+          "friction": "술과 밀단은 시의 이미지이며 특정 몸의 형태나 음주를 요구하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:7:3",
+      "textSha256": "48a75fe30d615c592851805caa867e0608ea780b0677f6379af5069c4ca3cdf6",
+      "status": "candidate",
+      "reason": "몸의 아름다움을 어린 사슴의 한 쌍으로 표현하여 친밀함 안의 신체 찬탄도 말의 몫이 될 수 있음을 보여 준다.",
+      "contextNote": "연인의 두 가슴을 노루 새끼에 비유하는 말을 반복한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B029",
+          "clue": "친밀한 신체 찬탄도 애정을 표현하는 말이 될 수 있다.",
+          "friction": "비교의 사슴은 미의 정답이 아니며 합의된 성인 관계에 한해 대조한 생성 사례다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:7:4",
+      "textSha256": "c330cd5e03b9df0e40304754028f815596a43f1a7f20dbdd91f45dcc4f77c410",
+      "status": "hold",
+      "reason": "목과 눈과 코의 찬탄은 있으나 상아 망대와 헤스본의 못과 다메섹을 향한 망대를 각각 잇는 설명 부담이 크다.",
+      "contextNote": "여러 건축물과 장소로 연인의 신체를 묘사한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "B029",
+          "clue": "몸을 당당하고 아름답게 보는 마음을 읽는다.",
+          "friction": "낯선 문 이름과 못 및 망대가 핵심이어서 쉬운 찬탄으로 읽기에는 설명이 많이 필요하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:7:5",
+      "textSha256": "36b245b9c4c1273f0e480585d781d3fad0d989f5e6e54240e8e8417f02750da9",
+      "status": "hold",
+      "reason": "머리카락에 매혹된 마음은 있으나 갈멜산과 자주빛 및 왕의 매임이 겹쳐 몸에 대한 소박한 표현으로 읽는 데 풀이가 필요하다.",
+      "contextNote": "머리와 늘어진 머리털이 왕을 사로잡는다고 노래한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "B029",
+          "clue": "머리카락에 매혹되는 마음을 표현하는 모습을 본다.",
+          "friction": "산과 색과 왕이 매인다는 비유를 함께 이해해야 하며 실제 구속이나 상대 반응을 뜻하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:7:6",
+      "textSha256": "eab6d965ebede7c94123ca326ad77a81fe352d44019d3fe35987970c93377f39",
+      "status": "candidate",
+      "reason": "사랑하는 이가 아름답고 기쁨을 준다는 직접 표현이 친밀한 마음을 말할지 숨길지에 닿는다.",
+      "contextNote": "여러 신체 비유를 전체적인 아름다움과 즐거움의 찬탄으로 묶는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B029",
+          "clue": "아름답고 기쁘다고 느끼는 마음을 솔직히 건넬 수 있다.",
+          "friction": "내 즐거움을 상대에게 접촉을 요구할 권리로 만들지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:7:7",
+      "textSha256": "7483e1d77a4275b4f33641fcada2a2eed24404ec320e813902d4e52396d1499f",
+      "status": "candidate",
+      "reason": "키와 가슴을 나무와 열매로 아름답게 말해 동의한 친밀함에서 신체의 매력을 표현할 여지를 준다.",
+      "contextNote": "연인의 몸을 종려나무와 그 열매에 견준다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B029",
+          "clue": "자연의 아름다움처럼 몸의 매력도 애정 안에서 말할 수 있다.",
+          "friction": "특정 키와 가슴 모양을 요구하거나 모든 관계에 신체 찬탄을 보내도 된다고 일반화하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:7:8",
+      "textSha256": "d842cdffbf7674ce2cdfa17eaadb0cc86afa59a63d065a08c32fd7ed078fb5d3",
+      "status": "candidate",
+      "reason": "가까이 닿고 싶은 마음과 몸의 향기를 솔직히 노래하여 동의한 성인 연인에게 친밀한 바람을 표현할지에 닿는다.",
+      "contextNote": "종려나무에 올라 가지를 잡겠다는 비유로 친밀한 욕망을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B029",
+          "clue": "친밀해지고 싶은 마음을 서로 존중하며 말할 수 있다.",
+          "friction": "가지 잡음은 시의 비유다. 현재의 동의가 모든 접촉의 영구 동의는 아니며 특정 행동을 대신 지시하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:7:9",
+      "textSha256": "0eaa1bc11de6b06709498252312868561a82e5cbb2f95ae2a4d760b205385c2b",
+      "status": "hold",
+      "reason": "입의 달콤함을 노래하지만 사랑하는 자와 자는 자의 입으로 흐르는 포도주의 시적 움직임과 목소리 전환을 풀어야 한다.",
+      "contextNote": "입맞춤의 즐거움을 흐르는 포도주로 묘사한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "B029",
+          "clue": "친밀한 감각을 나누는 표현을 본다.",
+          "friction": "잠든 자의 입과 흐르는 포도주를 문자적 접촉 허용으로 읽지 않으려면 시의 목소리와 비유를 구별해야 한다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:7:10",
+      "textSha256": "7a21adebd7b255488b43f28362ef6f0cebdf95bdabee7f7acb7fd4cbd1b0077e",
+      "status": "candidate",
+      "reason": "서로를 사모하는 관계를 솔직히 말해 상호 마음을 알면서도 표현을 망설이는 부담에 닿는다.",
+      "contextNote": "화자가 사랑하는 이와의 소속과 그리움을 고백한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B028",
+          "clue": "서로 좋아함을 알면서도 감추던 내 애정을 말할 수 있다.",
+          "friction": "상대의 마음이 불명인 H032에 사모함이 확인됐다는 사실로 보내지 않는다. 속함은 소유권이 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:7:11",
+      "textSha256": "839e1816f1de155e29043bf0b7b441655dc9129808cd39536c8977d9d3a6d845",
+      "status": "candidate",
+      "reason": "둘이 함께 들로 가서 머물자는 직접 제안이 혼자 일만 더 하며 데이트를 미루는 부담에 닿는다.",
+      "contextNote": "여인이 사랑하는 이에게 함께 바깥으로 가자고 초대한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B026",
+          "clue": "혼자 일만 더 하기보다 둘이 시간을 내어 함께하자는 제안을 생각한다.",
+          "friction": "유숙을 현재 데이트의 의무나 모든 신체 접촉 동의로 만들지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:7:12",
+      "textSha256": "b002df630a29771fd00a86760a59c2195ef7e3800b2258cd7a7fe14eaa89570f",
+      "status": "candidate",
+      "reason": "함께 꽃과 열매를 살피며 사랑을 나누자는 구체 초대가 일상 속 연인의 시간을 낼지에 닿는다.",
+      "contextNote": "아침에 함께 포도원으로 가서 사랑을 주겠다고 노래한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B026",
+          "clue": "함께 볼 것과 사랑을 나눌 시간을 구체적으로 내어 볼 수 있다.",
+          "friction": "현재의 장소나 접촉을 지정하지 않는다. 사랑을 주겠다는 원문의 뜻을 일방의 신체 의무로 바꾸지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:7:13",
+      "textSha256": "59bc88a5a54b79842c86beb127d39717aaa2f66fddda3dee200eddab4257b853",
+      "status": "candidate",
+      "reason": "상대를 위해 좋은 것을 모아 둔 정성이 선물의 높은 가격보다 담은 마음을 표현할지에 닿는다.",
+      "contextNote": "향기와 문 앞의 여러 열매를 사랑하는 이를 위해 마련했다고 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H007",
+          "clue": "가격을 키우는 것 외에 상대를 생각하며 준비한 마음을 선물로 볼 수 있다.",
+          "friction": "합환채와 귀한 열매는 사랑 노래의 감각이다. 작은 물건을 반드시 상대가 좋아한다고 보증하거나 비싼 선물을 금지하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:8:1",
+      "textSha256": "34e1551dede94caf18485b9af558d43b0583e260dc4bcb9c3e382e9b5793a2a8",
+      "status": "hold",
+      "reason": "애정을 드러내고 싶다는 부담은 맞지만 오라비였다면 밖에서도 입맞출 수 있다는 가정의 문화와 혈연 표현을 풀어야 한다.",
+      "contextNote": "공개적 친밀함을 제약하는 시선에서 벗어나고 싶은 마음을 말한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "B029",
+          "clue": "애정을 말하고 드러내고 싶은 마음의 무게를 읽는다.",
+          "friction": "오라비였으면 하는 가정과 당시의 시선에 관한 문맥이 필요하며 혈연 간 친밀함을 현재 권하는 말로 읽으면 안 된다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:8:2",
+      "textSha256": "2370d55d901bc1cd8110c2b4a42014c95d0c3301bd55ade57c30469c25d7e7de",
+      "status": "hold",
+      "reason": "사랑하는 이를 집으로 이끌고 대접하는 마음은 있으나 어머니 집과 교훈 및 술의 가정적 서술이 앞 절의 바람을 이어받는다.",
+      "contextNote": "앞의 오라비 같았다면이라는 바람에서 가능한 만남을 계속 노래한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "B029",
+          "clue": "내가 원하는 친밀한 대접과 만남을 생각한다.",
+          "friction": "어머니 집과 교훈 및 술을 주는 가정의 앞 문맥이 필요하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:8:3",
+      "textSha256": "09d8dee417a7d922057de197d09269f56cd8dda8c03915db910f3e2dde2b2074",
+      "status": "candidate",
+      "reason": "머리를 받치고 안아 주는 친밀한 몸의 표현이 합의된 관계에서 애정을 말할지에 닿는다.",
+      "contextNote": "바랐던 친밀함을 연인의 두 팔에 기대는 모습으로 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B029",
+          "clue": "몸을 기대고 안는 애정을 서로 나누고 싶은 마음도 표현할 수 있다.",
+          "friction": "바람을 그린 문장이며 현재 실제 포옹이나 동의의 범위를 제품이 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:8:4",
+      "textSha256": "cbef1e6b44795f82054670a3291daff53c1411a2fd5132e64670edf443d4f5a5",
+      "status": "candidate",
+      "reason": "사랑하는 이가 원하기 전 깨우지 말라는 부탁이 준비 안 된 접촉을 상대에게 맞출지 내 속도를 말할지에 직접 닿는다.",
+      "contextNote": "사랑의 때를 서두르지 말라는 부탁을 다시 반복한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B027",
+          "clue": "상대를 실망시킬까보다 내가 원할 때와 속도도 존중할 수 있다.",
+          "friction": "원문의 사랑의 때를 현재 행위의 신적 금지나 명령으로 설명하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:8:5",
+      "textSha256": "7acac87d1504a6535cbbd1fbd7a5ae6910b8cc1d7a729412fb9c8ef9ff00f06c",
+      "status": "hold",
+      "reason": "사랑하는 이에게 의지하는 모습은 함께할 시간과 닿지만 화자 전환과 어머니의 산고 및 사과나무에서 깨움이 겹쳐 독해 부담이 크다.",
+      "contextNote": "들에서 올라오는 여인의 모습과 사랑의 기억을 잇는다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "B026",
+          "clue": "함께 기대어 온 사랑의 기억을 생각한다.",
+          "friction": "누가 누구를 깨웠는지와 출생의 기억이 결합해 단순한 데이트 시간의 부담으로 읽는 설명이 많다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:8:6",
+      "textSha256": "e290cba7fa2bba9d73e6289e7922895cc62a903a4b47a53419383199d804517e",
+      "status": "candidate",
+      "reason": "마음에 새기고자 하는 강한 사랑과 질투의 무게를 함께 말해 바깥의 끌림 앞에서 지키려는 관계의 깊이와 파급을 생각하게 한다.",
+      "contextNote": "사랑의 강함을 죽음과 음부 및 거센 불에 견준다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B019",
+          "clue": "내가 지키려는 사랑의 깊이와 새로운 끌림이 관계에 줄 무게를 함께 본다.",
+          "friction": "질투의 잔혹함과 불을 지우지 않는다. 질투를 통제나 폭력의 권리로 정당화하지 않고 현재 배우자의 반응도 예고하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:8:7",
+      "textSha256": "c495021488e27d4491eec0d46963f10970c2b8b0de758e74311d4b746c951af0",
+      "status": "candidate",
+      "reason": "사랑은 재산 전부와도 바꿀 수 없다는 대비가 비싼 선물로 마음을 증명해야 하는지의 부담에 직접 닿는다.",
+      "contextNote": "꺼지지 않는 사랑의 힘과 돈으로 살 수 없는 가치를 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H007",
+          "clue": "선물의 비용으로 사랑의 크기를 살 수 있는지 다시 본다.",
+          "friction": "홍수에도 꺼지지 않는다는 찬탄을 현재 관계가 절대 깨지지 않는다는 보증으로 만들지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:8:8",
+      "textSha256": "b66706b62bd3b23a388f8059965c39771cf082bb8e9c5ee5a16fe55eb6022e40",
+      "status": "hold",
+      "reason": "준비되지 않은 이를 위해 무엇을 할지 묻지만 아직 성장하지 않은 누이와 가족의 청혼 계획은 성인 당사자의 접촉 속도와 조건이 다르다.",
+      "contextNote": "가족이 어린 누이의 장래 청혼을 어떻게 대할지 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B027",
+          "clue": "친밀함에는 각자의 준비된 때를 살필 몫이 있음을 생각한다.",
+          "friction": "신체 성장 정도와 미성년 가족의 혼인을 성인의 동의 여부로 그대로 옮길 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:8:9",
+      "textSha256": "b1a6102931e7fe90c522f8e65cc69c195f780b4703d88fec6e473c6516edfd0b",
+      "status": "hold",
+      "reason": "벽과 문을 보호하는 이미지에서 경계를 읽을 수 있지만 가족이 세우는 탑과 판자의 뜻을 풀어야 내 속도의 실마리가 된다.",
+      "contextNote": "누이의 상태를 벽과 문으로 가정해 가족의 대응을 말한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "B027",
+          "clue": "내 경계를 존중할 필요를 생각할 수 있다.",
+          "friction": "벽과 문 및 가족의 조치가 무엇을 뜻하는지 풀이해야 하며 당사자의 뜻 대신 가족이 정해도 된다는 의미로 쓰지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:8:10",
+      "textSha256": "3dc7f11fac7f59bde866508012176611ca1e3e47b4f36d45452e25c2e116a9f2",
+      "status": "candidate",
+      "reason": "나는 성벽이라는 자기 말과 몸의 성숙을 함께 말해 몸이 성숙했어도 내 경계와 속도를 말할 수 있음을 생각하게 한다.",
+      "contextNote": "여인이 자신과 친밀함의 자리를 성벽과 망대로 고백한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B027",
+          "clue": "성숙한 몸이어도 내 경계를 스스로 말할 여지를 읽는다.",
+          "friction": "성벽과 망대의 몸 비유다. 경계를 말하면 반드시 상대가 평화롭게 받아 준다는 보증은 없다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:8:11",
+      "textSha256": "7ca6511c3e53fccb51efce31a0b2e9d058da6e8015dcb0ed759b47c8446aab80",
+      "status": "exclude",
+      "reason": "왕의 포도원과 은 천을 받는 수익 구조의 소개로 현재 친밀함이나 공정한 비용의 기준이 독립적으로 드러나지 않는다.",
+      "contextNote": "왕이 포도원을 맡겨 수익을 받는 배경을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:SNG:8:12",
+      "textSha256": "0e7180dd3cbe6afb702c8c5b00472c338757cfc0fca61d11d50bd85d841e768b",
+      "status": "hold",
+      "reason": "내 포도원이 내 앞에 있다는 자율성의 실마리는 있지만 왕과 경작자의 금액과 동산 비유를 함께 이해해야 한다.",
+      "contextNote": "왕의 수익과 맡은 이의 몫을 말한 뒤 자신의 포도원을 구별한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "B027",
+          "clue": "친밀함의 내 몫을 다른 이의 수익이나 요구와 구별할 여지를 읽는다.",
+          "friction": "포도원과 사랑의 비유 및 금액 배분을 풀어야 하며 현재 관계에 돈 교환 조건을 만들 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:8:13",
+      "textSha256": "eb3cea72f88a7c9942874238332a893eac87b74516d5551415b6cdef4ce3dd62",
+      "status": "candidate",
+      "reason": "내 목소리를 들려 달라는 짧은 초대가 상호 애정 안에서 거창하지 않아도 마음을 표현할 여지를 준다.",
+      "contextNote": "동산의 연인에게 목소리를 듣게 해 달라고 부른다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B028",
+          "clue": "크게 꾸미지 않아도 내 목소리를 들려주는 표현을 생각한다.",
+          "friction": "친구들과 상대가 지금 실제로 말해 달라고 요청했다는 사실로 꾸미지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:SNG:8:14",
+      "textSha256": "412babc61c06ac09528c94e45ecb996a9d4e70a4146ff5b79a03762563fed1e8",
+      "status": "hold",
+      "reason": "사랑하는 이를 부르는 간절함은 있지만 향기로운 산에서 달리는 사슴이 다가옴인지 떠남인지 절 안에서는 방향이 뚜렷하지 않다.",
+      "contextNote": "연인에게 빠르게 움직이라고 부르는 시로 끝난다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B026",
+          "clue": "함께하고 싶은 간절한 부름을 읽는다.",
+          "friction": "달림의 방향이 절 안에 없고 사슴과 산의 비유를 곧바로 지금 데이트에 오라는 말로 단정하기 어렵다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    }
+  ]
+}

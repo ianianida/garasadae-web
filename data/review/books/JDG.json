@@ -4151,6 +4151,1885 @@
           "expectedEnough": "yes"
         }
       ]
+    },
+    {
+      "id": "KRV:JDG:13:16",
+      "textSha256": "6cc20c916dd76d4f7398e86f09202c4c4d269be6cdef5fe99d84c1e5f88af9fc",
+      "status": "hold",
+      "reason": "A012에서 대접 제안이 거절될 수도 있음을 받아들일 여지는 있지만 사자 대신 하나님께 번제를 드리라는 제의 구분이 길게 붙어 친구 식사를 제안할지의 직접 실마리는 약하다.",
+      "contextNote": "사자가 식사를 거절하고 번제를 드릴 대상을 하나님으로 바로잡지만 마노아는 아직 정체를 모른다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:13:17",
+      "textSha256": "cfd904321e9a7e81dc4004ece29cd2c0448fd04c364abb5c3ce1b7e9d4711d92",
+      "status": "hold",
+      "reason": "A012에서 존중과 감사를 전하려는 마음은 닿지만 약속이 이루어질 미래에 이름을 높이려는 요청이어서 이미 도움 준 친구에게 지금 식사를 청할 부담과는 다르다.",
+      "contextNote": "마노아가 사자의 이름을 물으며 예언 성취 뒤 존숭하겠다고 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:13:18",
+      "textSha256": "15fd54442414242c2be13cc9618670a738e6530564827ff180b976cb249adb58",
+      "status": "hold",
+      "reason": "H056에서 모든 것을 다 알아야만 하는지 돌아볼 수는 있으나 내 이름은 기묘라는 신적 정체의 응답이므로 검사 결과의 미지와 같은 뜻으로 풀려면 설명이 필요하다.",
+      "contextNote": "사자가 이름을 묻는 마노아에게 자신의 이름의 신비를 답한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:13:19",
+      "textSha256": "42663c1d56d6a2d33db476d1ecfff208be7626635c6609ccdea5c66b0f224acd",
+      "status": "exclude",
+      "reason": "H042의 결과를 내놓기와 비교해도 제물과 소제를 반석에서 드린 뒤 이적을 보기 시작했다는 제의 도입으로 현재 작업 공개의 부담은 담지 않는다.",
+      "contextNote": "마노아 부부가 번제를 드리는 중 사자가 이적을 보인다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:13:20",
+      "textSha256": "88d86b670d2423d575dcc86ffea211f6eb0fbd315a57221e2db98399e7b8868b",
+      "status": "hold",
+      "reason": "A035에서 하나님 앞에 엎드리는 태도는 보이나 불꽃으로 올라가는 사자를 목격한 반응이 중심이어서 혼란한 선택을 조용히 살필 방법은 직접적이지 않다.",
+      "contextNote": "사자가 제단 불꽃을 따라 올라가자 부부가 엎드린다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:13:21",
+      "textSha256": "13175d20d63212106db830d22ee35d1413641a2aa53870fec22165e46175e2b2",
+      "status": "exclude",
+      "reason": "H003의 정보 확인과 비교해도 사자가 다시 나타나지 않은 뒤 정체를 알았다는 미완 서술로 제품 필요나 추천의 근거를 확인할 행동 단서는 없다.",
+      "contextNote": "사자의 사라짐 뒤 마노아가 그의 정체를 깨닫는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:13:22",
+      "textSha256": "30635a05ac4caacc398323c6ba08654f32899c0e03b64483e309dc27a9546cf5",
+      "status": "hold",
+      "reason": "H056에서 두려워 최악의 결론으로 뛰는 모습을 돌아볼 수는 있으나 하나님을 보아 반드시 죽는다는 종교적 공포만 제시해 기다림의 실제 선택은 다음 응답에 달려 있다.",
+      "contextNote": "마노아가 하나님을 직접 봤으므로 죽으리라고 아내에게 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:13:23",
+      "textSha256": "a0bbc696271d89114b1175ce0712f69743ee600bf405bab30ff9a158611fb3c5",
+      "status": "candidate",
+      "reason": "H063에서 막연한 불안에 계속 바쁘게 반응하기보다 이미 아는 사실과 내가 붙인 두려운 해석을 나눠 살필 실마리가 아내의 반문에 있다.",
+      "contextNote": "아내가 받아들여진 제물과 받은 계시를 근거로 하나님이 자신들을 죽이려는 뜻이 아니라고 마노아를 진정시킨다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H063",
+          "clue": "두려운 결론을 내리기 전에 실제로 받은 말과 벌어진 일을 되짚는 모습을 보고 막연한 불안에 바쁘게 도망치기보다 잠시 앉아 사실과 해석을 구별할 수 있다.",
+          "friction": "사자의 출생 약속과 제물 수납을 근거로 생존을 추론한 특정 사건이다. 사용자에게 같은 근거가 있다고 채우지 않고 현재 치료나 검사 결과가 안전하다는 보증으로 사용하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:13:24",
+      "textSha256": "6f1ca665dff80a42a892ff6d4e27c325f76a63f2e2cee28241c8e8195c075280",
+      "status": "hold",
+      "reason": "G15에서 성장 중 받는 복을 생각할 수는 있으나 출생과 이름 및 자라는 아이의 소개일 뿐 현재 역할을 맡는 두려움의 선택에 대한 단서는 적다.",
+      "contextNote": "삼손이 태어나 자라고 하나님이 복 주심을 요약한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:13:25",
+      "textSha256": "1cd7d238d8aafa104fe68ad75028c5ff669620e34920228d061c7a20487a3b36",
+      "status": "hold",
+      "reason": "A035에서 마음의 감동을 살필 수는 있으나 특정 두 성읍 사이에서 삼손에게 성령이 역사하기 시작한 기록으로 현대 개인의 모든 직감을 신적 지시라고 받아들일 근거는 아니다.",
+      "contextNote": "삼손의 활동이 시작될 지역과 성령의 감동을 소개한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:14:1",
+      "textSha256": "9a0dc99d54a13aec109a57b9f7ca1318a241f006ae9196c40917dedc70e85ad3",
+      "status": "exclude",
+      "reason": "H032의 고백과 비교해도 딤나에서 여자를 보았다는 미완 도입만 있어 두 사람의 관계나 마음을 어떻게 말할지의 단서는 없다.",
+      "contextNote": "삼손이 블레셋 여인을 처음 본 장면을 소개한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:14:2",
+      "textSha256": "a8053d38dc8222bcae71c9d9595545c9325224c0d90058f2ca21cae8a8ab637e",
+      "status": "hold",
+      "reason": "H036에서 부모에게 원하는 것을 말하는 방향은 보이나 여인을 데려와 아내로 삼게 해 달라는 요청으로 상대 여성의 의사도 아직 없어 자기 진로 의사를 말하는 선택과는 마찰이 크다.",
+      "contextNote": "삼손이 부모에게 딤나의 여인과 혼인하게 해 달라고 요청한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:14:3",
+      "textSha256": "71146c97b416faa1158c612cf03a8515dbb13ef92ddb82272ca5e7c4bdb50afd",
+      "status": "candidate",
+      "reason": "H036에서 부모의 다른 기대 앞에서도 내가 무엇을 원하는지 직접 밝히는 단서가 삼손의 응답에 있다.",
+      "contextNote": "부모가 자기 민족 안의 혼인을 권하자 삼손이 자신은 그 여인을 좋아한다고 답한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H036",
+          "clue": "부모가 다른 길을 권할 때도 내가 좋아하고 원하는 것이 무엇인지 직접 말하는 모습에서 자기 의사를 숨기지 않을 방향을 읽는다.",
+          "friction": "민족 간 혼인과 부모에게 아내를 데려와 달라는 고대 관습이 있다. 상대 여인의 동의를 생략하거나 부모의 우려가 전부 틀렸다고 단정하는 적용은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:14:4",
+      "textSha256": "5eb45cb1ac4168ebb70034dd2517e9e87b70c86c83232266b15e322abeffdf0d",
+      "status": "hold",
+      "reason": "H036에서 부모가 내 선택의 모든 이유를 모를 수 있다는 생각은 들지만 블레셋 공격을 위한 하나님의 숨은 뜻을 기록한 절이므로 내 진로도 무조건 같은 신적 계획이라고 정당화할 수 없다.",
+      "contextNote": "삼손의 혼인 사건에 부모가 모르는 대블레셋 구원의 뜻이 있음을 서술한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:14:5",
+      "textSha256": "0ee3462fa812c0c6e3711fb1fedc32c0fc5f5088afadef2d1cb4bb3ba464319f",
+      "status": "exclude",
+      "reason": "H013의 여행 걱정과 비교해도 삼손과 부모가 포도원에서 으르렁거리는 사자를 만난 장면이어서 현재 여행에도 그런 실제 위험이 있다는 조건을 더할 수 없다.",
+      "contextNote": "딤나로 가는 길에 사자가 나타난다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:14:6",
+      "textSha256": "e1d366e3fc38587160f90cf01489140cd31a3bd0b26178c8fa3d5104797c05eb",
+      "status": "hold",
+      "reason": "G15에서 도구가 없어도 하나님을 의지하는 힘은 읽히지만 사자를 염소처럼 찢고 부모에게도 숨긴 후반이 있어 처음 역할을 시도할 실마리로는 거칠다.",
+      "contextNote": "성령의 힘으로 삼손이 사자를 맨손으로 죽이고 그 일을 부모에게 말하지 않는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:14:7",
+      "textSha256": "0fc41fa3e6aa7e03302ad7559a2d6a00b516dbcf4e1ffccc1a30488f846be03e",
+      "status": "hold",
+      "reason": "H032에서 좋아하는 사람과 직접 이야기하는 행동은 보이지만 삼손이 여인을 기뻐했다는 결과뿐으로 이미 친구인 사람에게 마음을 고백할지의 새 실마리는 적다.",
+      "contextNote": "삼손이 여인과 말하며 혼인 의사를 강화한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:14:8",
+      "textSha256": "4a31f1e53c886c1aa394a3046aeea23a9921e513da896fb2a68a288cbba96ed3",
+      "status": "exclude",
+      "reason": "H006의 기존 물건을 다시 보기와 비교해도 사자 사체에서 벌과 꿀을 본 사건이어서 아직 잘 작동하는 기기의 업그레이드 가치를 판단할 자연스러운 기준은 없다.",
+      "contextNote": "삼손이 다시 가는 길에 죽인 사자의 몸에 생긴 벌떼와 꿀을 발견한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:14:9",
+      "textSha256": "e2228fd1672715e3726ad6c420ae5f075d4cc6d43ecc61e2a5d9e793ece0c0e3",
+      "status": "candidate",
+      "reason": "H022에서 상대가 묻지 않아도 물건의 중요한 출처나 흠을 내가 알고 있다면 숨길지 돌아볼 단서가 꿀의 출처를 말하지 않은 행동에 있다.",
+      "contextNote": "삼손이 사체의 꿀을 부모에게도 먹이면서 어디서 얻었는지는 알리지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H022",
+          "clue": "자기는 알고 있는 꿀의 출처를 받는 사람에게 말하지 않은 모습을 보고 구매자가 안 물었다는 이유만으로 내가 아는 흠을 숨길지 돌아볼 수 있다.",
+          "friction": "사체에서 얻은 꿀과 나실인 문맥이다. 작은 흠이 사체나 건강 위해와 같다고 과장하거나 현재 판매자가 이미 속였다고 낙인찍지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:14:10",
+      "textSha256": "be73ac28e856ab09600f40313cadfaa47d046b22a493fad752064c2d8e61237a",
+      "status": "hold",
+      "reason": "G04에서 잔치의 즐거움은 보이나 청년들의 혼인 풍속을 따라 잔치를 열었다는 설명만으로 일을 마친 뒤 공연을 누릴지의 구체 부담은 약하다.",
+      "contextNote": "삼손의 혼인 잔치가 당시 풍속에 따른 것임을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:14:11",
+      "textSha256": "46a6f8b8c543e8781b854adc52a348c965c697beae0528911b6e99ee3fc36dd1",
+      "status": "hold",
+      "reason": "A018에서 혼자 온 사람에게 동무들을 붙여 주는 모습은 있으나 이 동무들이 아내를 위협하며 수수께끼를 캐는 뒤 사건과 연결돼 진실한 환대의 사례로 바로 받기는 어렵다.",
+      "contextNote": "블레셋 사람들이 삼손 곁에 서른 명의 동무를 둔다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:14:12",
+      "textSha256": "25dd6ca0ce2c8897e9fb0edf5b2f389499cb18e7c62956e16e89f754c1ab3c45",
+      "status": "hold",
+      "reason": "G09에서 정한 조건에 따라 주겠다는 약속은 보이나 칠일 수수께끼와 옷 서른 벌의 내기이며 뒤 살인으로 지급하는 문맥까지 있어 정상 거래의 약속과 같은 모델로 삼기 어렵다.",
+      "contextNote": "삼손이 잔치 동안 수수께끼를 풀면 의복을 주겠다고 내기를 제안한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:14:13",
+      "textSha256": "74ab35977e031871535bdac0bbec27a114bb8fc33e3f0d397e2ff967213e161e",
+      "status": "hold",
+      "reason": "A006에서 먼저 대가의 조건을 말하는 형태는 있지만 서로 지면 옷을 내는 내기 합의이므로 친구의 반복된 실제 노동에 공정한 보수를 청하는 문제와는 다르다.",
+      "contextNote": "삼손이 수수께끼를 못 풀면 상대가 옷을 주도록 반대 조건도 합의한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:14:14",
+      "textSha256": "5da04ea7629d61272070cc0a119b14cd9b468f937ab9c64cac7e487506b0cf3c",
+      "status": "hold",
+      "reason": "H061에서 답을 오래 찾는 답답함은 닿지만 자기만 아는 사자와 꿀 경험의 수수께끼가 중심이라 실제 선택의 완벽한 정답을 기다릴지의 단서는 해설을 필요로 한다.",
+      "contextNote": "삼손이 사자와 꿀을 비유한 수수께끼를 내고 동무들이 삼일간 풀지 못한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:14:15",
+      "textSha256": "29163b5860d7d995cd7ba7a77148c6e22358375f152787ff57609e0b775f0fe1",
+      "status": "hold",
+      "reason": "H039에서 비밀을 캐묻는 압박은 보이지만 아내와 가족을 불태우겠다는 실제 생명 협박이므로 보통 친구의 비밀을 지키는 선택과 같게 해 어떠한 위험에도 숨기라고 할 수 없다.",
+      "contextNote": "동무들이 삼손의 아내에게 가족 살해를 위협하며 수수께끼 답을 알아내라고 강요한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:14:16",
+      "textSha256": "d44307141b75c06ba368f8f36a1d25e2e2bd296eb4033b50b36ed120f8716541",
+      "status": "candidate",
+      "reason": "H039에서 사랑이나 친밀함을 내세운 요구에도 모든 비밀을 바로 풀어 말할 의무는 없다는 경계를 읽을 수 있다.",
+      "contextNote": "생명 위협을 받은 아내가 사랑을 이유로 답을 재촉하고 삼손은 부모에게도 말하지 않았다고 버틴다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H039",
+          "clue": "가까운 사람에게도 말하지 않은 내용은 말하지 않을 수 있다고 밝힌 응답에서 친밀함과 비밀 공개 의무를 구별할 수 있다.",
+          "friction": "아내는 실제 가족 살해 협박을 받았고 뒤에서 답을 전한다. 협박받은 사람을 악의적인 조종자로 단정하거나 생명 위험과 피해 신고까지 비밀로 감추라는 규칙으로 확대하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:14:17",
+      "textSha256": "1c7e13b107db855604fb6c2b2114fe01300f9cacf9c49dc338c798d7ce3f1956",
+      "status": "hold",
+      "reason": "H039에서 압박 때문에 비밀이 전달되는 모습은 있지만 아내는 가족 살해 협박을 받고 있어 호기심에 묻는 친구들에게 무조건 끝까지 저항해야 한다는 예로 삼기는 어렵다.",
+      "contextNote": "아내의 강박 끝에 삼손이 답을 말하고 아내가 자기 민족에게 전한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:14:18",
+      "textSha256": "b002154407ffc88020c7e03cadcd43d9c46f09d7d4b1a99069389b5818151753",
+      "status": "exclude",
+      "reason": "H039의 비밀 유출과 비교해도 꿀과 사자의 수수께끼 답 및 아내를 암송아지로 비유한 비난이 중심이라 현재 친구의 비밀을 지킬 실마리로 읽으려면 여러 비유를 풀이해야 한다.",
+      "contextNote": "답을 알아낸 성읍 사람들에게 삼손이 아내를 통해 답을 캤다고 반박한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:14:19",
+      "textSha256": "a172f237b1c10c677b2e3b792ed408ec5b980b53f1996caf8b2586a76ed5eec4",
+      "status": "exclude",
+      "reason": "G09의 약속 이행과 비교해도 옷을 주기 위해 서른 명을 죽여 노략한 전체 행동이므로 합의는 어떤 수단으로든 지켜야 한다는 뜻으로 쓸 수 없다.",
+      "contextNote": "분노한 삼손이 아스글론 사람들을 죽여 내기 대가를 주고 아버지 집으로 간다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:14:20",
+      "textSha256": "77a54fb9fe7cf530039eafaa34ceba432e52532c37db4ce170391012332e902c",
+      "status": "exclude",
+      "reason": "H032의 마음 고백과 비교해도 삼손의 아내가 다른 동무에게 주어졌다는 결과일 뿐 당사자의 동의나 친밀한 관계의 선택을 말해 주지 않는다.",
+      "contextNote": "삼손이 떠난 뒤 아내를 그의 동무에게 주었다고 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:15:1",
+      "textSha256": "b73135428912ab26939938a3bca8c384ebb3a13052d8451e14221b7a27d449fa",
+      "status": "hold",
+      "reason": "H026에서 엇갈린 관계를 직접 찾아가 말하려는 행동은 보이나 혼인 상대가 동무에게 주어진 상황과 침실 출입 갈등이어서 서운함을 말할지의 일반 고민과는 조건이 다르다.",
+      "contextNote": "삼손이 염소를 들고 아내를 찾으나 장인이 접근을 막는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:15:2",
+      "textSha256": "f24e9f0a48315347d3e975cbfdd4b886639ed066c8024bff6f2b32b054627080",
+      "status": "hold",
+      "reason": "G12에서 상대 마음을 확인하지 않고 미워한다고 생각해 일을 바꾼 오류는 닿지만 아내 대신 더 아름다운 동생을 취하라는 후반이 강해 답장 지연의 실마리로 바로 받기는 어렵다.",
+      "contextNote": "장인이 삼손의 마음을 추측해 혼인을 바꿨다고 밝히고 다른 딸을 제안한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:15:3",
+      "textSha256": "4faa68ce171473bec3b93a803a60b7ed5ac9fa25450d70b7f550fcba59009945",
+      "status": "hold",
+      "reason": "H031에서 화가 나 해치려는 자신을 정당화하는 모습을 돌아볼 수는 있으나 해쳐도 허물이 없다는 문자 뜻만으로는 오히려 보복을 정당화할 수 있어 좋은 첫 결과로 충분함이 불확실하다.",
+      "contextNote": "삼손이 이번에는 블레셋을 해쳐도 잘못이 없겠다고 선언하며 보복을 시작한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:15:4",
+      "textSha256": "0a293dd3002d1cac1d5a2336d567d57f2d72adc42431df2949f0d63433075e62",
+      "status": "exclude",
+      "reason": "A014의 위험 대비와 비교해도 여우 꼬리를 묶어 횃불을 다는 방화 준비이며 재산을 보호하는 일상 예방과는 다른 행동이다.",
+      "contextNote": "삼손이 삼백 여우에 불을 달아 곡식밭을 태울 준비를 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:15:5",
+      "textSha256": "e52ea89a65f4f3386474102a2f58eecfd646a48b5845a25d5f41577e3e25c7c3",
+      "status": "exclude",
+      "reason": "H031의 분노 해소와 비교해도 곡식과 감람원을 실제로 불태우는 보복이 전체 행동이어서 차분히 말할지의 선택으로 바꿔 읽을 수 없다.",
+      "contextNote": "삼손이 여우들을 몰아 블레셋의 곡식을 파괴한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:15:6",
+      "textSha256": "290e5175b0dd8e2b250060c883ae0c1eff2ad90b06dd5eea390d2696b77f75a0",
+      "status": "exclude",
+      "reason": "H030에서 누가 했는지 묻는 절차는 있지만 답을 들은 뒤 당사자의 아내와 아버지를 불태운 결말이 강해 공정한 확인의 생활 실마리로 삼기 어렵다.",
+      "contextNote": "블레셋 사람들이 방화의 이유를 알고 삼손의 아내와 장인에게 보복한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:15:7",
+      "textSha256": "00e21d09431a2002a25b577207599fb5ca063ccbf9cb3456294322ccd0aaf717",
+      "status": "exclude",
+      "reason": "H029의 경계와 비교해도 원수를 갚은 뒤에야 멈추겠다는 보복 선언이어서 반복 침해에 더 대화할지 거리를 둘지의 정상적인 선택과 다르다.",
+      "contextNote": "삼손이 가족을 태운 블레셋에게 추가 복수를 선언한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:15:8",
+      "textSha256": "66cc92de47831c230c260db2554cc739b0b7c84f78193c60c11244da0edb0093",
+      "status": "exclude",
+      "reason": "A008의 거리 두기와 비교해도 먼저 크게 도륙한 사람이 숨는 장면이므로 침해받은 사용자가 안전한 접촉 거리를 마련하는 행동으로 바꾸어 놓을 수 없다.",
+      "contextNote": "삼손이 블레셋 사람들을 죽인 뒤 에담 바위틈에 머문다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:15:9",
+      "textSha256": "8f2d0d1d01994813f66343ed23d91d46510f2bc23d5c15235a874229c24cd14f",
+      "status": "exclude",
+      "reason": "H013의 불확실한 위험과 비교해도 블레셋 군대가 유다와 레히를 점거한 위치 정보로 현재 여행이나 일정의 위험을 판단할 근거는 없다.",
+      "contextNote": "블레셋이 삼손 때문에 유다 지역으로 군대를 보낸다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:15:10",
+      "textSha256": "8a1ac905b51ba8cebab67a79c09b47db294727ff924e7676f5a400a065bf0a88",
+      "status": "hold",
+      "reason": "H037에서 직접 찾아온 이유를 묻는 점은 닿지만 실제 공격자와 보복 목적이 명시된 전쟁 협상이라 아직 동료가 나를 싫어하는지 모르는 상황과 같게 둘 수 없다.",
+      "contextNote": "유다 사람들이 블레셋의 목적을 묻고 삼손에게 복수하려 왔다는 답을 듣는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:15:11",
+      "textSha256": "24be17983096c0f21a8006b5b4c3b0497db6fb497831d9e5c5896f07471e97b8",
+      "status": "hold",
+      "reason": "H031에서 받은 만큼 돌려줬다는 자기 설명을 돌아볼 수는 있으나 삼천 명의 압력과 국가 지배 배경이 길어 분노한 메시지를 보낼지의 실마리는 설명을 필요로 한다.",
+      "contextNote": "유다 사람들이 삼손에게 항의하고 삼손은 자신도 당한 대로 했다고 답한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:15:12",
+      "textSha256": "f1ab903e58e5acf79b12cf81f5f2870a4bbf94cc0ec06f26f1bc063adabe26c3",
+      "status": "hold",
+      "reason": "H029에서 직접 해치지 않겠다는 경계를 요구하는 말은 보이나 자신을 적에게 묶어 넘기는 상황 자체는 막지 못해 약속만 받으면 안전하다는 선택의 실마리로 삼기 어렵다.",
+      "contextNote": "유다 사람들이 삼손을 넘기려 하고 삼손은 그들이 직접 치지 않겠다는 맹세를 요구한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:15:13",
+      "textSha256": "fb73701506b80703584f848a7800b2994bcc71c37abbbfe40e2bcbe5e4ff557c",
+      "status": "exclude",
+      "reason": "G09의 약속 이행과 비교해도 직접 죽이지는 않겠지만 묶어 적에게 넘기는 행동으로 위해를 떠넘긴 장면이라 정상 거래의 신뢰 모델로 볼 수 없다.",
+      "contextNote": "유다 사람들이 삼손을 새 줄로 묶어 블레셋에게 끌고 간다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:15:14",
+      "textSha256": "6923e052de11fb3ee1d7c9e7e28adad6a633f6ed60fa5a0a9bbf579a29e417b0",
+      "status": "candidate",
+      "reason": "H029에서 계속 침해하는 관계에 묶여 있어야만 하는 것은 아니라는 개인 실마리를 결박이 떨어지는 장면에서 읽을 수 있다.",
+      "contextNote": "성령의 권능이 임해 삼손의 줄이 끊어지고 적 앞에서 풀려난다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H029",
+          "clue": "손을 묶은 줄이 떨어지는 모습을 개인적으로 읽어 이미 여러 번 침해된 관계를 그대로 유지해야만 한다는 부담을 내려놓고 거리를 둘 수 있다.",
+          "friction": "삼손의 초자연적 신체 힘과 적의 포위라는 사건이다. 현대 사용자가 실제 물리적 결박을 힘으로 풀 수 있다거나 안전이 보장된다는 탈출 처방으로 쓰지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:15:15",
+      "textSha256": "3beeb94820e716cdbe7cde4716ddec838487c392a11a58d7293c92d859a0e345",
+      "status": "exclude",
+      "reason": "H057의 작은 도구로 시작하기와 비교해도 턱뼈로 천 명을 죽인 전체 결과가 있어 준비를 줄이고 운동을 시작하라는 뜻으로 자를 수 없다.",
+      "contextNote": "삼손이 나귀 턱뼈로 블레셋 사람들을 죽인다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:15:16",
+      "textSha256": "54c95b31a0967755b935378404f04ec682fb0a68a6753e6a71ac5b0ef594af20",
+      "status": "exclude",
+      "reason": "H041의 자기 힘 확인과 비교해도 죽인 천 명의 더미를 자랑하는 승전 발언이라 새 역할의 부족함에 대한 자연스러운 격려로 삼기 어렵다.",
+      "contextNote": "삼손이 턱뼈의 승리를 반복해 노래한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:15:17",
+      "textSha256": "b801372e38788d3f71c43308441b3ca8fa44b89c889dfbb33a85c11c8b7311ac",
+      "status": "exclude",
+      "reason": "H006의 기존 도구와 비교해도 학살 뒤 턱뼈를 버리고 장소 이름을 지은 내력만 있어 작동하는 기기를 바꿀지의 기준은 없다.",
+      "contextNote": "삼손이 턱뼈를 던지고 그곳을 라맛 레히라 이름 붙인다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:15:18",
+      "textSha256": "0973a53fe83dec7246a460e790b6dd8d4732d8382a02887dba0635927a4f7c19",
+      "status": "candidate",
+      "reason": "H058에서 큰 일을 해낸 사람도 실제 갈증과 한계를 말하며 도움을 구할 수 있다는 구체 실마리가 있다.",
+      "contextNote": "승리 뒤 삼손이 극심한 갈증을 호소하며 하나님께 부르짖는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "큰 일을 마친 삼손도 목마르고 힘든 상태를 말한 모습을 보고 내가 해내던 사람이라는 이유로 도움을 숨길 필요는 없겠다는 방향을 읽는다.",
+          "friction": "죽을 듯한 갈증과 적에게 넘겨질 위기를 하나님께 아뢰는 기도다. 현재 업무를 같은 생명 위기로 과장하거나 친구가 반드시 해결한다고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:15:19",
+      "textSha256": "f17bcf3f351e3abe301cb91b6b10ff4d07587d11ac9cf32dc7b4c26d9fe7b87b",
+      "status": "candidate",
+      "reason": "G13에서 성과를 더 내기 전에 몸의 필요를 돌보고 회복을 허용할 방향을 물을 마셔 소생한 장면에서 읽는다.",
+      "contextNote": "하나님이 물을 솟게 하셔서 삼손이 마시고 회복하며 샘 이름의 내력을 남긴다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G13",
+          "clue": "몸이 필요로 하는 것을 받고 회복한 장면에서 피곤한 몸을 더 밀기 전에 잠과 휴식을 허용할 실마리를 읽는다.",
+          "friction": "하나님이 기적의 샘을 주신 특정 사건으로 물만 마시면 수면 부족이 해결되거나 휴식 뒤 같은 성과를 반드시 낸다는 건강 처방은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:15:20",
+      "textSha256": "e6c693d66d70c12252cd719cc7afc276da013df8d9e8ab086955c189a802edce",
+      "status": "exclude",
+      "reason": "A030의 역할과 비교해도 삼손의 이십 년 사사 활동 기간을 요약할 뿐 오늘 체력과 업무를 어떻게 조정할지의 단서는 없다.",
+      "contextNote": "삼손의 사사 기간을 간단히 요약한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:16:1",
+      "textSha256": "6ac75ab2a9c72f6e310650b654270cc1ea5eb91290db89e78343fe59e3b75cc6",
+      "status": "exclude",
+      "reason": "H032의 관계 고백과 비교해도 삼손이 기생에게 들어간 사건의 도입으로 이미 친구인 사람의 마음을 모르는 고민과 같은 상호 관계 조건은 없다.",
+      "contextNote": "삼손이 가사의 한 기생을 찾아간다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:16:2",
+      "textSha256": "49964c9aa637c5c6303fe5b3ac4a6cabcd962a3d5791ccd382c33d7ff1300bf8",
+      "status": "exclude",
+      "reason": "G07의 기다릴지와 비교해도 죽이려는 사람들이 밤새 성문에 매복해 날 밝기를 기다린 장면으로 가격 유지와 확인 피로의 실마리가 될 수 없다.",
+      "contextNote": "가사 사람들이 삼손을 잡으려고 밤새 문에서 기다린다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:16:3",
+      "textSha256": "4237618b2da41d54f0d39ce601a609f8676be26122d2c6c891caa24da0a9fb01",
+      "status": "hold",
+      "reason": "G15에서 위기를 벗어나는 힘은 보이지만 거대한 성문을 통째로 메고 산에 간 초인적 신체 행동으로 실제 능력의 두려움을 점검할 선택은 직접 다루지 않는다.",
+      "contextNote": "삼손이 밤중에 성문과 빗장을 빼어 산으로 옮겨 포위를 벗어난다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:16:4",
+      "textSha256": "4a8d16308164a297e3717a3876baf3a243e11c4b746393d2bf7e8b050f3e0790",
+      "status": "hold",
+      "reason": "H032에서 좋아하는 마음은 닿지만 들릴라를 사랑했다는 시작뿐으로 상대 마음을 고백할지 기다릴지의 선택 실마리는 아직 없다.",
+      "contextNote": "삼손과 들릴라의 관계를 소개한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:16:5",
+      "textSha256": "ff5ac075c45e14366e02e20c1c989c7ea4e83e24cb3b007c04b6930376082027",
+      "status": "hold",
+      "reason": "H039에서 비밀이 위해에 이용될 위험은 보이나 실제 돈을 주고 속여 약점을 알아내려는 음모여서 친구의 비밀을 캐묻는 사람에게 같은 악의를 입력 없이 채울 수 없다.",
+      "contextNote": "블레셋 방백들이 들릴라에게 돈을 약속하며 삼손 힘의 비밀을 알아내게 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:16:6",
+      "textSha256": "b0c9e9b58404d75f59487c5a3821ebd1c601a7a385d30b59f30c9366ca3f5828",
+      "status": "hold",
+      "reason": "H029에서 상대를 곤고하게 할 약점을 묻는 요청은 경계할 수 있지만 현재 친구가 같은 가해 계획을 직접 말한 것은 아니므로 그대로 예측해 거절 근거로 삼기에는 조건이 다르다.",
+      "contextNote": "들릴라가 삼손에게 힘의 원천과 결박할 방법을 직접 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:16:7",
+      "textSha256": "4e06b055d92a9b91ccd6136dde007ceb1caef6720f78b7d6cb0964f2e0a528ec",
+      "status": "exclude",
+      "reason": "H052의 평가 과장과 비교해도 생명을 노리는 상대에게 일부러 틀린 결박 방법을 말한 방어적 기만으로 일반 실적 과장을 정당화하거나 비난할 근거가 아니다.",
+      "contextNote": "삼손이 푸른 칡 일곱으로 묶으면 약해진다는 첫 거짓 답을 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:16:8",
+      "textSha256": "824805e95bcca0acfc519dcdc93d34165706dc26794d9b5e41db8e7174619f49",
+      "status": "hold",
+      "reason": "A008에서 가까운 사람이 실제 몸을 결박한 침해는 뚜렷하지만 가해 행동만 서술해 피할지 다시 설명할지의 실마리는 다음 반복을 함께 읽어야 한다.",
+      "contextNote": "들릴라가 방백들이 준 칡으로 삼손을 묶는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:16:9",
+      "textSha256": "15493b6a7273156f02ce7c251a9748288c80844ff512640401848f9b02af96c4",
+      "status": "hold",
+      "reason": "H029에서 침해가 실제였다는 증거는 보이나 매복과 초인적인 줄 끊기 및 비밀 미확인의 결과가 함께 있어 현재 사용자가 같은 힘으로 벗어날 수 있다는 뜻으로 주기 어렵다.",
+      "contextNote": "들릴라가 매복자를 숨긴 채 공격을 알리고 삼손이 칡을 끊지만 비밀은 드러나지 않는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:16:10",
+      "textSha256": "c724fe3ddd32a584451c76285f487989e67b88d5730b1cbcd686218f2ceadb6c",
+      "status": "hold",
+      "reason": "H039에서 속임수라며 비밀 공개를 압박하는 모습은 있으나 실제로 삼손을 해치려는 관계여서 보통 친구 질문자의 동기를 같은 것으로 추정하거나 모든 비밀 보호 수단을 허용할 수 없다.",
+      "contextNote": "들릴라가 첫 답이 거짓이었다고 말하며 다시 결박 방법을 요구한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:16:11",
+      "textSha256": "f02d4d44401453e0585deb2a86f3cb1626a097f3339ecd926bda54d542a6bd8a",
+      "status": "exclude",
+      "reason": "H052의 평가 과장과 비교해도 공격자의 결박 질문에 일부러 틀린 방법을 주는 방어적 기만이어서 좋은 평가를 위해 자기 실적을 부풀릴지의 기준으로 옮길 수 없다.",
+      "contextNote": "삼손이 들릴라에게 새 줄로 묶으면 약해진다는 두 번째 거짓 답을 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:16:12",
+      "textSha256": "f8e7c4e6651ccae6892b31b12563e3402cd251cde68b1e71068f1e1f4638302d",
+      "status": "hold",
+      "reason": "H029에서 실제 침해가 되풀이된 점은 보이나 새 줄을 초인적으로 끊고 매복자가 있었다는 전투 장면이 길어 현재 사용자의 거리 두기와 같은 대응 능력을 가정할 수 없다.",
+      "contextNote": "들릴라가 다시 묶고 공격을 알리지만 삼손이 줄을 끊는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:16:13",
+      "textSha256": "42703538b07b152cb9857e1271b4c95f1f2006542db0f6eba857862fed896aed",
+      "status": "hold",
+      "reason": "H039에서 비밀을 계속 재촉하는 압박은 보이지만 답이 머리털과 직조틀의 거짓 단서여서 친구에게 맡은 비밀을 지킬지의 단서는 여러 장치를 해설해야 한다.",
+      "contextNote": "들릴라가 세 번째로 묻고 삼손은 머리털을 직조에 섞으라는 답을 준다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:16:14",
+      "textSha256": "aa6502df500d15d00cf0d736a057827c17ac163c8b8335bef64510be631553d9",
+      "status": "hold",
+      "reason": "A008에서 잠든 중 신체에 손댄 침해는 읽히나 잠에서 깨어 직조틀을 통째로 빼는 초인적 탈출이 결말이라 현재 물리적 대응의 모델로 삼기 어렵다.",
+      "contextNote": "들릴라가 머리털을 묶어 시험하고 삼손이 직조틀을 떼어낸다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:16:15",
+      "textSha256": "ceceda914adeda3728a14a13c48b0a4a2e8d303ebaf25133e839497dd5821826",
+      "status": "candidate",
+      "reason": "H039에서 비밀을 말하지 않으면 마음이 없다는 압박에도 친밀함과 공개 의무를 구별할 실마리가 있다.",
+      "contextNote": "들릴라가 세 번의 실패 뒤 사랑의 진정성을 내세워 힘의 비밀을 말하라고 조른다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H039",
+          "clue": "사랑하면 비밀을 말해야 한다는 압박을 보고 친밀함이 맡은 내용을 공개할 의무까지 만들지는 않는다는 경계를 읽는다.",
+          "friction": "들릴라는 이미 위해 목적을 갖고 있고 삼손은 자신을 지키기 위해 거짓 답을 했다. 현대 질문자에게 같은 악의를 붙이거나 모든 거짓말을 정당화하지 않으며 생명 위험이나 피해 신고를 숨기는 규칙도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:16:16",
+      "textSha256": "5e4f37b9efe2d6a95470f56505560cb2aaa642f27cded6a23ea55586d72ea86f",
+      "status": "candidate",
+      "reason": "H029에서 매일 재촉해 마음이 견디기 힘들어진 실제 반복을 보고 부드러운 설명을 또 하는 것만으로 해결될지 재고할 단서가 뚜렷하다.",
+      "contextNote": "들릴라의 집요한 말이 삼손을 지속적으로 괴롭게 한 상태를 서술한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H029",
+          "clue": "매일 같은 말로 재촉해 견딜 수 없어진 모습을 보고 한 번 더 부드럽게 설명하면 괜찮을 것이라는 기대보다 이미 반복된 침해를 기준으로 거리를 살필 수 있다.",
+          "friction": "생명의 비밀을 노린 들릴라의 압박 문맥이다. 현대 친구가 같은 살해 음모를 꾸민다고 예측하지 않고 사례에 명시된 반복 침해만 대조한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:16:17",
+      "textSha256": "6d8cb0c1d9791a3f62ff58ebb5dd1131e2e56c32193a6e92c24e721017448040",
+      "status": "hold",
+      "reason": "H039에서 압박 뒤 모든 비밀을 푼 장면은 닿지만 태중 나실인 규례와 머리털의 힘을 알아야 하며 현재 비밀의 위험이나 결과를 같은 것으로 가정할 수 없다.",
+      "contextNote": "삼손이 더 버티지 못하고 봉헌과 머리털의 비밀을 모두 말한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:16:18",
+      "textSha256": "be26f4cd307dce916d76ad7b651653927731ac5bcda57a1173f8d2935af8823e",
+      "status": "exclude",
+      "reason": "H052의 정보 전달과 비교해도 돈을 받으려고 상대의 취약성을 적군에 팔아넘기는 행동이므로 자기 평가를 조금 과장할지의 상황과 같은 도덕적 무게로 묶을 수 없다.",
+      "contextNote": "들릴라가 진짜 비밀을 알았다고 방백들을 불러 은을 받는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:16:19",
+      "textSha256": "ab6d0cddb2cda6753dbe2fbc410281c873f1a5461a455ce7f0c751bbcf67c68e",
+      "status": "candidate",
+      "reason": "A008에서 가까운 사이여도 방심한 때 몸을 내맡기면 이미 침해한 사람이 경계를 다시 넘을 수 있음을 비춰 둘만의 접촉을 피할 단서를 읽는다.",
+      "contextNote": "들릴라가 잠든 삼손의 머리를 깎게 하고 힘을 빼앗아 괴롭게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A008",
+          "clue": "가까운 관계 속에 방심한 몸을 이용해 경계를 넘는 장면을 보고 반복된 접촉자와 둘만 있는 자리를 피하는 방향을 읽는다.",
+          "friction": "머리를 깎아 초인적 힘을 없애는 나실인 사건이다. 현재 접촉이 같은 생명 결과를 낳거나 신앙의 힘이 떠난다고 단정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:16:20",
+      "textSha256": "450ffa13c50e8285eaf4012d53c5b46dd693778665aa26995766364fb41843cd",
+      "status": "candidate",
+      "reason": "H043에서 예전에 됐으니 지금도 같겠지 하는 가정을 멈추고 실제 달라진 조건을 살필 실마리가 있다.",
+      "contextNote": "삼손이 이전처럼 벗어나려 하지만 하나님이 떠나신 줄 몰랐다고 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H043",
+          "clue": "전과 같이 하면 되리라는 생각이 실제 조건과 어긋난 장면에서 반복 실패에 같은 시도만 더하기 전에 가정을 다시 살필 수 있다.",
+          "friction": "원문의 결정적 조건은 하나님이 삼손에게서 떠나신 일이다. 사용자의 실패 원인도 신앙이나 하나님의 버림이라고 채우지 않고 실제 방법과 조건을 점검하는 실마리로 읽는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:16:21",
+      "textSha256": "d28d762fc1b4d1a428473df0ec175e970a46b86b85b6b200b190bde42654d6c2",
+      "status": "exclude",
+      "reason": "H029의 경계와 비교해도 붙잡아 눈을 빼고 줄로 묶어 감옥 노동을 시킨 결과가 전부여서 보통의 침해에 다시 대화할지의 실마리로 주기는 과중하다.",
+      "contextNote": "블레셋이 무력해진 삼손을 실명시키고 감금해 맷돌을 돌리게 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:16:22",
+      "textSha256": "f6789fa232740cb845bc3fed7fe1aa25798f60f956b6ac0d00623d342724d47d",
+      "status": "candidate",
+      "reason": "H060에서 상실 뒤 모든 가능성이 즉시 끝난 것은 아니라는 작은 시작을 다시 자라기 시작한 머리털에서 개인적으로 읽을 수 있다.",
+      "contextNote": "붙잡힌 삼손의 머리털이 다시 자라는 사실을 뒤의 사건에 앞서 기록한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H060",
+          "clue": "밀린 뒤에도 다시 자라기 시작했다는 작은 변화에서 잃은 기회만 반복하기보다 지금 시작되는 가능성에 마음을 둘 수 있다.",
+          "friction": "삼손의 머리털과 나실인 힘의 복선이다. 다음 기회나 완전 회복을 보장하지 않으며 A022의 자연스러운 대머리를 고쳐야 한다거나 현재 치료 결과가 좋아진다는 약속도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:16:23",
+      "textSha256": "2c7b9f24b0c57af43bcdd37035031814ce028e38bba7f5e599e0b9fb8d0d9c3d",
+      "status": "exclude",
+      "reason": "G04의 기쁨 누리기와 비교해도 원수를 잡았다고 다곤에게 제사하고 즐거워한 전승 행사라 일을 마친 개인의 공연 선택에 같은 감사와 기쁨으로 옮기기 어렵다.",
+      "contextNote": "블레셋 방백들이 삼손 포획을 다곤의 승리로 기념한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:16:24",
+      "textSha256": "097608bcc82450307b227f92cc509dd63fd2fb4c860e3eda57d0ecf253abb998",
+      "status": "exclude",
+      "reason": "H040의 성공 축하와 비교해도 토지를 파괴하고 사람을 죽인 원수의 포획을 자기 신에게 돌리는 전쟁 찬송으로 친구 성취를 반길지의 실마리는 없다.",
+      "contextNote": "블레셋 백성도 삼손을 보며 다곤을 찬양한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:16:25",
+      "textSha256": "81c2d7f44357e752d431d16f52c4437364336d5bf9bb33cebcc6e011a30c8e23",
+      "status": "hold",
+      "reason": "A025에서 약한 사람을 구경거리로 만드는 문제는 떠오르지만 이 절만은 실명 상태를 다시 말하지 않아 앞의 포로 학대를 알아야 조롱과 공연의 차이가 읽힌다.",
+      "contextNote": "백성이 포로 삼손을 불러 재주를 부리게 하고 두 기둥 사이에 세운다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:16:26",
+      "textSha256": "d6db5038cde671e5b105dbd4bfe7ab8db5316dbc5ef74783ec3d97d407d04073",
+      "status": "hold",
+      "reason": "H058에서 기대어 쉴 곳을 요청하는 말은 보이나 기둥에 다가가는 실제 목적이 집을 무너뜨리는 것이므로 몸이 힘들 때 정직한 도움을 청하는 모델로 삼기는 어렵다.",
+      "contextNote": "삼손이 자신을 인도하는 소년에게 중심 기둥을 만지고 의지하게 해 달라고 청한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:16:27",
+      "textSha256": "5d089caa1384acc1b20b4e91ea72fd43c4302e6cc5fc7c0f152c576bc20eb8c8",
+      "status": "exclude",
+      "reason": "H017의 큰 모임 부담과 비교해도 방백과 지붕 위 삼천 명의 관객 규모를 적은 배경으로 혼자 행사에 갈지의 불안과 선택 단서는 없다.",
+      "contextNote": "삼손이 서 있는 집의 구조와 관객 수를 다음 붕괴의 배경으로 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:16:28",
+      "textSha256": "7b0b17271e88c1cd7377c0d9c4271657ac04f7dc58892e267feccce60c71c6bf",
+      "status": "exclude",
+      "reason": "H058의 도움 요청과 비교해도 힘을 주어 두 눈의 원수를 단번에 갚게 해 달라는 기도라 개인의 과로를 덜 지원 요청으로 잘라 읽을 수 없다.",
+      "contextNote": "삼손이 원수를 갚을 힘을 마지막으로 구한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:16:29",
+      "textSha256": "e65ab19d6b920fea5d595c1471f7e1fa66774778a5a371b5c37d22aa6c61b5a8",
+      "status": "exclude",
+      "reason": "H055의 쉬기와 비교해도 집의 중심 기둥을 양손에 껴 잡아 무너뜨릴 준비여서 기대어 몸을 회복하는 휴식 선택과 다르다.",
+      "contextNote": "삼손이 양 기둥을 잡고 마지막 행동을 준비한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:16:30",
+      "textSha256": "30f76c837c476510626d3f25af35791dd73238a70745907bcdcb43804d5fc17d",
+      "status": "exclude",
+      "reason": "H011의 헌신과 비교해도 함께 죽기를 원하며 건물을 무너뜨려 군중을 죽인 결말로 보통 약속한 봉사의 부담을 같은 희생으로 확대할 수 없다.",
+      "contextNote": "삼손이 집을 무너뜨려 자신과 더 많은 블레셋 사람이 함께 죽는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:16:31",
+      "textSha256": "ed13e723b51888f16e417cb7cf6ecaf6a4dc23eb39339cb43cd64a8954c5d05d",
+      "status": "exclude",
+      "reason": "A012의 보답과 비교해도 가족이 시체를 가져다 장사한 장소와 사사 기간을 기록하는 장례 결말로 살아 있는 친구에게 식사를 제안할 선택 실마리는 없다.",
+      "contextNote": "가족이 삼손을 아버지의 묘지에 장사하고 그의 이십 년 활동을 다시 요약한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:17:1",
+      "textSha256": "6235eade223b3693c0151ad695037c569f729ca3114b8babf3849cffba7c739f",
+      "status": "exclude",
+      "reason": "H063에서 자신을 돌아볼 계기를 찾더라도 에브라임의 미가라는 인물 소개뿐이며 고민의 양쪽 부담이나 행동은 전혀 나오지 않는다.",
+      "contextNote": "미가와 단 지파 이야기의 주인공을 소개한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:17:2",
+      "textSha256": "75bb02c14c9ef94a5efdd26b71d1928f460f5a4491bb64304de2aff6c716055c",
+      "status": "candidate",
+      "reason": "A010에서 상대의 돈이 내게 있다는 사실을 숨기기보다 먼저 알려 확인할 구체 단서가 있다.",
+      "contextNote": "미가가 어머니의 은을 자신이 취했다고 고백하고 어머니가 아들에게 복을 빈다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A010",
+          "clue": "없어진 돈이 내게 있다고 먼저 말한 것처럼 상대가 착오로 더 보낸 돈의 사정을 확인하고 돌려줄 수 있다.",
+          "friction": "미가는 실제로 은을 취한 사람이다. 현재 착오 송금을 받은 사용자를 도둑으로 낙인찍지 않고 고백 뒤 어머니의 축복을 금전 보상으로 약속하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:17:3",
+      "textSha256": "09c7435ba3e2bdeb332e7b5c69f0351276e8c49900bb4322e788a62c2b5b2192",
+      "status": "hold",
+      "reason": "A010에서 돈을 돌려주는 행동은 있으나 어머니가 그것으로 신상을 만들겠다고 다시 주는 후반이 커서 반환하면 선물로 돌아온다는 오독 없이 첫 결과로 받기는 어렵다.",
+      "contextNote": "미가가 은을 돌려주자 어머니가 신상 제작을 위해 하나님께 드린다며 다시 준다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:17:4",
+      "textSha256": "a85a86bac7bc8896bb49b10598154ff18371b8eb2d9df87fc61106726212f211",
+      "status": "hold",
+      "reason": "A010에서 반환은 보이지만 은 이백으로 신상을 제작하고 집에 둔 과정이 문장 대부분이어서 착오 송금의 확인과 반환 선택으로는 연결이 흐린다.",
+      "contextNote": "어머니가 은 일부를 은장색에게 주어 신상을 만들어 미가 집에 둔다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:17:5",
+      "textSha256": "2dfc4f7ef51ab069e0076784ef082d1dd2e24f384e2296290499bd742dba4cf9",
+      "status": "hold",
+      "reason": "A036에서 종교적 행위도 신앙의 기준으로 살필 필요는 떠오르지만 신당과 에봇과 드라빔 및 아들 제사장이라는 장치의 문제를 알아야 현재 점집 제안의 실마리로 연결된다.",
+      "contextNote": "미가가 자기 신당의 기구와 제사장을 임의로 마련한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:17:6",
+      "textSha256": "cb010aced1c20036e4d2a09073eaa7a70a57db932befac2f43e1880a4e28df65",
+      "status": "candidate",
+      "reason": "H048에서 자기 생각에 맞는다는 이유만으로 옳다고 고집하지 말고 확인된 지적과 기준을 돌아볼 실마리가 있다.",
+      "contextNote": "미가 사건을 이스라엘에 왕이 없어 각자 자기 소견대로 행한 시대의 사례로 평가한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "내 소견에 옳다고만 행하는 모습을 보고 실제 누락 지적을 내 기분과 판단만으로 밀어내지 않을 수 있다.",
+          "friction": "왕 없는 시대의 종교적 혼란을 평가하는 문장이다. 자기 가치로 선택하는 모든 일을 악으로 보거나 현대 지도자에게 무조건 복종하라는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:17:7",
+      "textSha256": "cca4db9fb135597a7c240255be47b589dc54df6a6712b4c44bd6d74a801184dd",
+      "status": "exclude",
+      "reason": "A018의 새 사람과 비교해도 레위인 소년의 베들레헴 체류와 신분 소개뿐으로 환대나 먼저 말 걸기 중 어떤 행동을 할지의 단서는 없다.",
+      "contextNote": "미가 집에 오게 될 젊은 레위인을 소개한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:17:8",
+      "textSha256": "696e67dfe84892d58540d4bb53797cca90e620bf26c348ec774cded66969d49e",
+      "status": "candidate",
+      "reason": "A020에서 익숙한 도시를 떠나 실제 목적을 향해 움직이는 모습이 준비 가능한 새 도시 기회로 갈 용기를 개인적으로 줄 수 있다.",
+      "contextNote": "젊은 레위인이 거처를 찾으려고 베들레헴을 떠나 에브라임의 미가 집에 도착한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A020",
+          "clue": "필요한 삶의 자리를 향해 익숙한 도시를 실제로 떠난 행동에서 준비된 새 도시 기회 앞의 두려움만으로 멈추지 않을 용기를 읽는다.",
+          "friction": "거처를 찾던 레위인이 뒤에 잘못된 신당의 제사장이 되는 이야기다. 그 직무를 승인하거나 현재 새 도시의 거처와 소득 및 정착 성공을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:17:9",
+      "textSha256": "38b3d160fa1f69774bd02977c82ce34d994df1a3041dd83fea82eab14c42eee4",
+      "status": "hold",
+      "reason": "H033에서 자기 필요가 거처임을 말한 모습은 있으나 출신을 묻고 답하는 자기소개여서 부탁이 부담일까 혼자 할지의 선택으로는 한 단계 더 연결이 필요하다.",
+      "contextNote": "미가가 레위인에게 어디서 왔는지 묻고 그가 거처를 찾고 있다고 답한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:17:10",
+      "textSha256": "7b7b8c3b123ea7b1b7d7da8541e85b149ae20acea551b213c297e65222200fff",
+      "status": "candidate",
+      "reason": "A006에서 맡길 일과 보수 및 제공 범위를 먼저 분명히 말하는 실마리가 구체 조건 안에 있다.",
+      "contextNote": "미가가 레위인에게 제사장 역할을 제안하며 연간 은과 의복과 식물을 약속한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A006",
+          "clue": "할 일과 해마다 줄 보수 및 제공품을 구체적으로 말한 모습에서 친구 일도 맡기 전에 대가와 범위를 합의할 수 있다.",
+          "friction": "미가의 잘못된 사적 신당 제사장 고용이다. 그 신앙 형태를 승인하거나 현대 보수가 같은 금액이어야 한다는 뜻이 아니라 정당한 업무의 조건을 분명히 하는 단서다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:17:11",
+      "textSha256": "4bd1ef5e337bd93e19a1e1149612dcd6b7e0164729ceff281ffe0e2c9cdddbf3",
+      "status": "candidate",
+      "reason": "A018에서 새로 온 사람이 식구처럼 느껴지도록 함께 지내는 모습이 혼자 있는 새 동료에게 먼저 다가갈 단서가 된다.",
+      "contextNote": "레위인이 미가와 함께 살기를 만족해하고 미가가 그를 아들처럼 대한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A018",
+          "clue": "새로 온 사람이 아들처럼 받아들여져 함께 지내기를 만족한 모습에서 혼자 있는 동료를 먼저 식사나 대화에 끼워 줄 방향을 읽는다.",
+          "friction": "레위인이 미가의 사적 제사장이 된 문맥이다. 새 사람에게 종교적 동조나 가족 같은 헌신을 요구하거나 환대가 충성으로 보답될 것을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:17:12",
+      "textSha256": "bd13baa1724890cf17a768c58c68bb0ea0c2a48d7c62759df4401f9efde4c0ef",
+      "status": "hold",
+      "reason": "A018에서 새 사람을 받아 함께 거주한 점은 보이나 거룩히 구별해 개인 제사장으로 세운 일이 중심이라 보통 동료의 사회적 환대로 바로 잇기는 어렵다.",
+      "contextNote": "미가가 레위인을 자기 집 제사장으로 위임한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:17:13",
+      "textSha256": "4eb56966fc9a13fe68b991b227a910f5d49cd73a3b2a80b9ae0bfad766fa109f",
+      "status": "hold",
+      "reason": "H056에서 불안을 덜 확신을 찾는 마음은 보이지만 특정 제사장을 얻었으니 반드시 복받는다는 미가의 추정으로 현재 검사나 미래의 좋은 결과를 확인해 줄 수 없다.",
+      "contextNote": "미가가 레위인을 고용한 종교적 형식을 하나님의 복의 보증으로 생각한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:18:1",
+      "textSha256": "1843719579b345f804a7a8adc414cf2462e9b323024145a5249a58b885c4291a",
+      "status": "hold",
+      "reason": "A001에서 집단이 거할 공간을 찾는 문제는 닿지만 단 지파가 아직 기업을 얻지 못했다는 배경뿐이어서 좁아진 공동 공간을 함께 쓸지 나눌지의 기준은 없다.",
+      "contextNote": "왕 없는 시대 단 지파가 거처를 찾던 상황을 소개한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:18:2",
+      "textSha256": "9753b81d3ba6eb1342a7d155e9cec393ff88e06499b83a75d6fd1b26fd4dfcac",
+      "status": "candidate",
+      "reason": "H003에서 결정 전에 적합한 사람이 직접 살펴 정보를 얻는 행동이 친숙한 추천만으로 구매하지 않을 실마리가 된다.",
+      "contextNote": "단 지파가 다섯 정탐꾼에게 땅을 살피게 하고 그들이 미가 집에 머문다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H003",
+          "clue": "땅을 직접 살펴보게 한 행동에서 평판만 듣고 사기 전에 실제 필요와 조건을 확인해 볼 방향을 읽는다.",
+          "friction": "정탐 뒤 평온한 라이스를 공격하는 사건으로 이어진다. 약한 사람을 공략하라는 목적이나 불법 정보를 얻는 방식까지 좋은 모델로 삼지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:18:3",
+      "textSha256": "5f2fb56546ff3de15937a87ab5a37d00489b5fc271e31c74c474436a30a15766",
+      "status": "hold",
+      "reason": "H003에서 누구를 통해 무슨 일을 하는지 묻는 확인은 있지만 레위인 개인의 이동과 고용 사정을 알아보는 질문이라 제품 필요를 더 확인할지의 단서는 간접적이다.",
+      "contextNote": "정탐꾼들이 아는 목소리의 레위인에게 현재의 생활과 대우를 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:18:4",
+      "textSha256": "0a2d562daf2c5684f5b3ac624b2c499baa395b47861ea4ad27e72f06c0f5fa25",
+      "status": "hold",
+      "reason": "H052에서 자기 일을 사실로 설명하는 모습은 있으나 미가의 대우와 제사장 고용을 알린 일상 보고뿐이며 평가를 위한 과장 유혹이나 실제 정직 기준은 드러나지 않는다.",
+      "contextNote": "레위인이 자신이 미가의 제사장이 된 사정을 답한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:18:5",
+      "textSha256": "39e28e83927c6887787897f917672096083c61682ac5e214288175aeb0b543fc",
+      "status": "hold",
+      "reason": "H061에서 결정을 앞두고 확실한 답을 구하는 마음은 닿지만 미래의 형통을 하나님께 물어 알려 달라는 요청이라 서비스가 실제 결과를 예언해 주는 방식으로 옮길 수 없다.",
+      "contextNote": "정탐꾼들이 레위인에게 자신들의 길이 잘될지 신탁을 청한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:18:6",
+      "textSha256": "e40dac67f5931507715203e961fde20b48db1b1e52c64d1cd4e69fff0f86b2e8",
+      "status": "hold",
+      "reason": "A020에서 낯선 길도 하나님 앞에 있다는 말은 좋지만 이 응답은 평온한 사람들을 칠 길을 승인하는 개인 제사장의 말이므로 현재 진로의 형통을 신이 확인했다는 결과로 주기에는 마찰이 크다.",
+      "contextNote": "미가의 제사장이 단 지파 정탐의 길을 평안하다고 보증하는 문맥이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:18:7",
+      "textSha256": "6c11db41e401b821137c0c98a4781301b60220bd5cc0919864962d35bc815730",
+      "status": "hold",
+      "reason": "H013에서 평안해 보이는 장소를 살피는 모습은 있지만 주민의 고립과 권력 부재를 공격 기회로 본 정탐이므로 현재 여행의 안전한 결과나 좋은 장소를 확정할 근거가 아니다.",
+      "contextNote": "정탐꾼들이 라이스의 평온과 외부 지원의 부재를 관찰한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:18:8",
+      "textSha256": "b1d4c8b94f23bfb10eb55357e4073be726faa3ace38e63481da3f07f8e5b1528",
+      "status": "candidate",
+      "reason": "H003에서 직접 보고 온 사람에게 어떠했는지 묻는 행동이 추천만 듣고 넘기기보다 실제 정보와 필요를 확인할 단서가 된다.",
+      "contextNote": "정탐꾼들이 돌아오자 형제들이 현장 관찰 결과를 묻는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H003",
+          "clue": "직접 보고 온 사람에게 어떠했는지 묻는 질문에서 추천만으로 넘어가기 전에 실제 관찰과 내 필요를 확인할 수 있다.",
+          "friction": "정탐 결과가 다음 공격 계획으로 이어지는 역사다. 현재 친구가 속이고 있거나 후기만 들으면 제품이 반드시 맞는다고 가정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:18:9",
+      "textSha256": "4ecfe90a2131ece03d6e106af288b311f8f1731d9fc68a959872a848876aafff",
+      "status": "hold",
+      "reason": "H050에서 미루지 말라는 독촉은 강하지만 좋은 땅의 평온한 주민을 치자는 전쟁 촉구이므로 오늘 준비가 덜 된 지원을 서둘러도 된다는 실마리로 자를 수 없다.",
+      "contextNote": "정탐꾼들이 라이스 공격과 영토 취득을 서두르자고 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:18:10",
+      "textSha256": "08896819566547f3dc394537bf553cd71d18e60d90a981948e91b0ddf02e8225",
+      "status": "hold",
+      "reason": "A020에서 넓고 부족함 없는 새 땅은 매력적이지만 하나님이 주셨다는 전언이 평온한 주민의 땅을 빼앗을 명분과 묶여 있어 새 도시의 자원과 정착 성공을 보증할 수 없다.",
+      "contextNote": "정탐꾼들이 라이스의 풍요와 주민의 무방비를 공격 근거로 제시한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:18:11",
+      "textSha256": "fe01a955ae5ad6d6b98f5668abe27168f6b7dbaeb179f1b3c3397c3dc815e45f",
+      "status": "exclude",
+      "reason": "G15의 출발과 비교해도 무장한 단 지파 육백 명이 떠났다는 이동 도입뿐으로 역할의 두려움을 다룰 선택 단서는 없다.",
+      "contextNote": "단 지파 무장대가 라이스를 향해 출정한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:18:12",
+      "textSha256": "0709cea08f1506706224b6552c5958e3e8ff20f433825c3645c15a48219a85a8",
+      "status": "exclude",
+      "reason": "A020의 새로운 곳과 비교해도 기럇여아림 뒤의 진영과 마하네단 지명 유래가 중심이어서 준비된 진학 기회를 고르는 실마리는 없다.",
+      "contextNote": "단 지파 진영의 위치와 이름을 설명한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:18:13",
+      "textSha256": "92f77bb64081c36268d6a41f6aec98e22030f9d9cabd8af974a94d4afe9d26e1",
+      "status": "exclude",
+      "reason": "H033의 방문과 비교해도 미가 집에 도착했다는 짧은 이동 기록뿐이며 어떤 도움을 왜 요청할지의 단서는 없다.",
+      "contextNote": "단 지파 군대가 정탐 때 들렀던 미가 집에 온다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:18:14",
+      "textSha256": "5ae913144039bc7f3c329a3187a4ba42fe6350815a16383eaf1d69e589b18eef",
+      "status": "hold",
+      "reason": "H061에서 마땅히 할 것을 생각하라는 말은 있으나 종교 기구가 있음을 확인해 강탈을 준비하는 권유라 내 선택을 더 숙고할지의 일반 실마리로는 방향이 엇갈린다.",
+      "contextNote": "정탐꾼들이 군대에게 미가 집의 신상과 기구를 알려 준다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:18:15",
+      "textSha256": "4e13fd46cff134d432157dee5d80da252e2c0c55c492947c2301ae4c23532c8b",
+      "status": "exclude",
+      "reason": "A018의 먼저 인사하기와 비교해도 기구를 빼앗으려 집에 들어가 문안한 장면이라 평범한 환대의 의도와 같다고 보기 어렵다.",
+      "contextNote": "정탐꾼들이 레위인 집에 인사하며 접근한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:18:16",
+      "textSha256": "c99865649cbf57bbb0d60ef2a3134ca54ef6f4bee6e68fb13d7d9b5d5e03c387",
+      "status": "exclude",
+      "reason": "H029의 경계 지키기와 비교해도 무장한 육백 명이 남의 문에 버티는 강탈 장면으로 개인의 침해받은 경계를 세우는 행동과 다르다.",
+      "contextNote": "무장대가 문 입구에 서서 정탐꾼들의 탈취를 뒷받침한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:18:17",
+      "textSha256": "a0375581db72c506193327352e4a5595bf95be45355da6062655cb38f1559240",
+      "status": "exclude",
+      "reason": "H024의 물건 처분과 비교해도 남의 종교 기구를 몰래 취하는 도중 제사장이 군대와 문에 선 상황이어서 자기 소유를 팔지 줄지의 선택과는 다르다.",
+      "contextNote": "다섯 정탐꾼이 미가의 신상과 기구들을 탈취한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:18:18",
+      "textSha256": "10afff845132c02de62d54a5c4e240516444e4abe1349a5f29c43d64acbf6c77",
+      "status": "candidate",
+      "reason": "H026에서 눈앞의 실제 행동에 대해 무엇을 하는지 직접 묻는 말이 불편함을 무조건 삼키지 않을 실마리가 된다.",
+      "contextNote": "기구를 들고 나오는 사람들에게 제사장이 항의성 질문을 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H026",
+          "clue": "실제 눈앞의 행동을 보고 무엇을 하는지 묻는 말에서 혼자만 불편함을 쌓기보다 행동에 대해 직접 확인하고 말할 수 있다.",
+          "friction": "무장 강탈과 우상 기구의 문맥이며 보통 친구가 물건을 훔쳤다는 뜻을 붙이지 않는다. 이미 여러 번 부드럽게 설명했는데도 반복된 H029를 다시 같은 말만 하게 하는 적용은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:18:19",
+      "textSha256": "7ee8f0c5b2817ea5af9bb156ecdb94225c3209556ff860d0a8bb17ebf1570bfd",
+      "status": "hold",
+      "reason": "H054에서 큰 역할의 제안에 마음이 흔들릴 수는 있지만 강탈을 묵인하라며 한 집 대신 한 지파의 제사장이 되라는 회유이므로 정상적인 새 기회를 같은 잘못으로 묶을 수 없다.",
+      "contextNote": "단 지파가 레위인에게 입을 다물고 더 큰 제사장 자리를 따라오라고 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:18:20",
+      "textSha256": "54e48a6b32c1d939b04b011cd3ebb5bd03f77f4deb2e94a4ce01c7da51cbb70d",
+      "status": "hold",
+      "reason": "H054에서 더 큰 기회를 좇아 떠나는 모습은 보이지만 남의 기구까지 가져간 강탈 가담이 결합되어 이미 한 정상 약속과 더 좋은 기회의 부담으로만 읽기 어렵다.",
+      "contextNote": "레위인이 더 큰 직무를 기뻐하며 기구를 들고 단 지파에 합류한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:18:21",
+      "textSha256": "c7d865cdfbfa5f67ee9c1280158fba9cd386332d75807e63875a62a3f148c4a5",
+      "status": "candidate",
+      "reason": "A032에서 빠른 사람만 앞으로 가기보다 아이들과 짐 있는 무리를 앞에 두고 함께 이동하는 모습을 속도를 맞출 단서로 읽을 수 있다.",
+      "contextNote": "단 지파가 아이들과 가축 및 재물을 앞에 두고 떠난다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A032",
+          "clue": "아이들과 짐을 앞에 두어 한 무리로 움직인 장면에서 빠른 내 걸음만 기준으로 앞서가기보다 느린 사람과 함께 갈 위치를 생각할 수 있다.",
+          "friction": "강탈 뒤 군대의 행군이며 본문은 배치 이유를 명시하지 않는다. 역사 인물의 동기를 친절로 확정하지 않고 사례에 이미 주어진 시간 여유 안에서 같이 이동할 실마리로 읽는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:18:22",
+      "textSha256": "f14d11cf0691180c03384bb4af240f447dd8c20f2e47d89b8b21d59ce40ab341",
+      "status": "hold",
+      "reason": "H029에서 이웃이 함께 문제를 따지는 모습은 있으나 뒤쫓아 도착했다는 연결절로 반복 침해에 또 말할지의 판단은 다음 대화에 달려 있다.",
+      "contextNote": "미가와 이웃들이 떠난 단 지파를 따라잡는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:18:23",
+      "textSha256": "dc76d9d0eb045c105581e5b1b4c34fc2b412836a90457e9b293125842c21e0ce",
+      "status": "hold",
+      "reason": "H037에서 무슨 일인지 묻는 형식은 있으나 이미 물건을 가져간 사람들이 피해자를 모른 척하는 질문이라 상대 의도를 차분히 확인하는 좋은 모델로 삼기 어렵다.",
+      "contextNote": "단 지파가 뒤따라온 미가에게 모여 온 이유를 되묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:18:24",
+      "textSha256": "f8cb13d5aa773e91f5fd9c580c503e99c9e8fa803063451b2a757313818f12ac",
+      "status": "hold",
+      "reason": "H026에서 무엇을 빼앗겼는지 직접 말하는 항의는 보이나 나의 만든 신과 제사장 없이는 남은 것이 없다는 정체성의 문제까지 커서 보통 서운함의 선택으로는 무겁다.",
+      "contextNote": "미가가 빼앗긴 종교 기구와 제사장을 돌려 달라는 이유를 항변한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:18:25",
+      "textSha256": "0eee5f442b9686ade3f75e7d230e402e71b20d65416c2dee3d1090d83ffe5de6",
+      "status": "exclude",
+      "reason": "H029의 단호함과 비교해도 목소리를 내면 본인과 가족을 죽일 수 있다는 강탈자의 협박이므로 정당한 개인 경계의 모델로 줄 수 없다.",
+      "contextNote": "단 지파가 미가에게 항의를 그치라며 생명 위협을 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:18:26",
+      "textSha256": "1658c8a6edae290deda0dcd3b30b3b082d55675b3b12bde1ca13dbc16e752570",
+      "status": "hold",
+      "reason": "H025에서 이길 수 없는 갈등을 멈추는 모습은 있지만 생명 위협을 받은 강탈 피해자가 더 강한 군대 앞에서 돌아간 상황이라 무례한 가격 흥정의 불쾌함과 같은 무게로 둘 수 없다.",
+      "contextNote": "미가가 단 지파가 더 강함을 보고 추격을 포기하고 귀가한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:18:27",
+      "textSha256": "1406312f5c65b2ff18d22c7c8dc108894eef791d59da33e4e623e61f46f126e3",
+      "status": "exclude",
+      "reason": "A020의 새 도시 정착과 비교해도 평온한 주민을 칼로 치고 성을 불태운 점령이 전체여서 새로운 기회를 향해 떠나는 개인 실마리로 옮길 수 없다.",
+      "contextNote": "단 지파가 라이스에 이르러 주민을 죽이고 도시를 불태운다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:18:28",
+      "textSha256": "c1fb1411054b8f08cdc1e07115d1c525d081aaa451881fdc6fe74db8ad578da0",
+      "status": "hold",
+      "reason": "H033에서 고립돼 도움받지 못한 위험은 읽히나 시돈과 멀어 구조가 없었다는 지역 사정과 정복자의 재건이 중심이라 현재 친구의 여력과 응답을 추정할 수 없다.",
+      "contextNote": "라이스가 구원받지 못한 이유와 단 지파의 재건을 설명한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:18:29",
+      "textSha256": "9b8f14c86b4321ee186591486ab11af9b463f3375dfdfd9d014caade6cf55120",
+      "status": "exclude",
+      "reason": "H060의 새 시작과 비교해도 라이스를 조상 이름 단으로 바꾼 유래만으로 현재 놓친 기회와 할 수 있는 일을 구별할 단서는 없다.",
+      "contextNote": "점령한 도시를 단이라고 부르게 된 내력을 기록한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:18:30",
+      "textSha256": "defc9cc7c3f712ac361312d4534522e256b66d0978698f4eb0c1dbb7a72bb69c",
+      "status": "hold",
+      "reason": "A036에서 겉모양의 종교를 살필 수는 있지만 새긴 신상과 게르손 및 요나단 계보와 포로 때까지의 제사장 세습을 알아야 현재 신앙 선택과 연결된다.",
+      "contextNote": "단 지파의 우상과 제사장 가문이 오랫동안 이어졌음을 기록한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:18:31",
+      "textSha256": "edeea4a3faad16b73f7c8dc08323c94f904fa1a3d5a9fc7a7bcfb0ee8171f908",
+      "status": "hold",
+      "reason": "A036에서 하나님의 집과 다른 신상의 공존은 돌아볼 수 있으나 실로와 미가 신상의 시대 비교가 핵심이라 점집 동행의 개인 부담에 닿으려면 역사 설명이 필요하다.",
+      "contextNote": "실로 성소가 있던 동안 단 지파에 미가 신상이 있었음을 대조한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:19:1",
+      "textSha256": "7b25646f12c1cf599999fc5b834b88098119efd6b8bafd730b63209303671a06",
+      "status": "exclude",
+      "reason": "H032의 관계 고민과 비교해도 왕 없는 시대의 레위인과 첩의 출신을 소개할 뿐 상호 마음이나 관계를 선택할 기준은 없다.",
+      "contextNote": "기브아 사건의 남편과 첩을 소개한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:19:2",
+      "textSha256": "a2f9c8f095f06e8406ccbde09ce5e83e47e5fcde21ffef1c55ddfa5675b93188",
+      "status": "hold",
+      "reason": "H028에서 관계의 잘못 뒤 떨어져 지낸 상태는 있지만 아내가 넉 달 친정에 머물렀다는 배경만으로 이미 용서한 작은 잘못을 놓을지의 단서는 나오지 않는다.",
+      "contextNote": "첩이 남편을 떠나 친정에 머문 사정을 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:19:3",
+      "textSha256": "ce15ced2a0971dc9fbcf218026674ce691c516f9392715fc1999043a38c28ef1",
+      "status": "hold",
+      "reason": "H026에서 다정히 말하려 찾아가는 행동은 좋으나 첩을 데려오려는 남편의 의도와 뒤에 아내를 내주는 폭력이 함께 있어 다정함만으로 상대를 신뢰하라는 결과로 쓰기 어렵다.",
+      "contextNote": "남편이 여인을 찾아 다정히 말하고 장인이 그를 환영한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:19:4",
+      "textSha256": "52cd28e61cabe93ad2a539cf21fe3ce50db967fdd2b19be11b07de9ff270369e",
+      "status": "hold",
+      "reason": "H015에서 함께 먹고 머물며 쉬는 장면은 있으나 삼일의 체류 사실뿐으로 지금의 빈 주말에 휴식을 남길지 새 경험을 택할지의 기준은 약하다.",
+      "contextNote": "장인이 사위를 머물게 하여 삼일 동안 접대한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:19:5",
+      "textSha256": "2c4363a690778527090421b1007e21aae750de712afe631482c8fd0ceca80515",
+      "status": "candidate",
+      "reason": "G13에서 길을 계속하기 전에 몸의 기력을 보충하라는 말이 지친 몸을 더 밀기보다 돌볼 실마리가 된다.",
+      "contextNote": "떠나려는 사위에게 장인이 먼저 조금 먹어 기력을 도우라고 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G13",
+          "clue": "길을 가기 전에 기력을 돕는 시간을 가지라는 말에서 지친 몸을 더 밀기보다 잠과 회복을 선택할 여지를 읽는다.",
+          "friction": "식사를 권하는 여행 장면이다. 음식만으로 수면 부족이 해결되거나 현재 미완 과제를 끝낸 것으로 가정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:19:6",
+      "textSha256": "68d4dc977f3ad695c9b6300622f45c610fde87814d3ba2e521aa4f142349a026",
+      "status": "candidate",
+      "reason": "H015에서 새 이동을 더하기보다 잠시 머물러 마음을 즐겁게 하는 선택도 허용된다는 실마리가 있다.",
+      "contextNote": "함께 먹은 뒤 장인이 하룻밤 더 머물러 즐겁게 쉬라고 권한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H015",
+          "clue": "머물며 마음을 즐겁게 하라는 초대에서 빈 시간을 또 경험으로 채우지 않고 쉬는 것도 내 선택이 될 수 있겠다는 단서를 읽는다.",
+          "friction": "장인이 떠날 사람을 붙드는 여행 접대 문맥이다. 다른 사람의 실제 약속을 무시하거나 H012와 G05의 오늘 마감 미완 일을 없는 것으로 만들지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:19:7",
+      "textSha256": "49c15fd847ac8523b0beab5dd918f3d892ddb7acdad1194ae62a6228ff8f8520",
+      "status": "hold",
+      "reason": "H044에서 부탁 때문에 계획을 더 미루는 모습은 닿지만 이 절은 간청을 받아 다시 머문 결과만 말해 지금 과로 속 새 부탁의 한계를 정할 실마리는 간접적이다.",
+      "contextNote": "떠나려던 남편이 장인의 간청으로 하루를 더 머문다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:19:8",
+      "textSha256": "b67188490b0aec8e25178b5e921e66ef1630e5eaa1a1d812cd1e22b5e0542722",
+      "status": "hold",
+      "reason": "G13에서 기력 보충은 보이지만 해 기울 때까지 머물라는 지연과 이어지는 미완 식사 장면이 있어 단순히 몸을 돌보고 가라는 실마리로는 마찰이 크다.",
+      "contextNote": "다섯째 날에도 장인이 먼저 먹고 오래 머물라고 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:19:9",
+      "textSha256": "124317cf4280afad8ef6f90c2aeb7299522222850c3ef58ff6d78944953d32e1",
+      "status": "candidate",
+      "reason": "H015에서 더 움직이기보다 하룻밤 머물며 마음을 즐겁게 할 여지를 읽고 쉴 시간을 선택지로 남길 수 있다.",
+      "contextNote": "장인이 해가 저무니 쉬고 이튿날 일찍 돌아가라고 마지막으로 권한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H015",
+          "clue": "계속 이동하는 대신 하루 쉬고 마음을 즐겁게 하라는 말에서 주말에 쉬는 시간을 남길 여지를 읽는다.",
+          "friction": "장인의 반복된 체류 권유이며 이 제안을 따랐으면 어떤 사건도 없었을 것이라는 안전 보증은 아니다. 현재 실제 마감이나 선약이 있다고 새로 채우지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:19:10",
+      "textSha256": "191172064280567445e6b987418ebc1a2b0dfff7e59707bb5ba241d2a7087cfd",
+      "status": "candidate",
+      "reason": "H044에서 여러 번의 머물라는 부탁에도 이제는 떠나겠다는 선택을 실행하는 모습이 계속 더 맡아야 한다는 부담을 덜 단서가 된다.",
+      "contextNote": "남편이 이번에는 더 머물지 않고 첩과 하인을 데리고 출발한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H044",
+          "clue": "상대가 거듭 붙잡아도 더 머물지 않고 떠난 행동에서 이미 한 만큼을 넘는 새 부탁에 한계를 말할 수 있다.",
+          "friction": "뒤 여행에서 비극이 일어나지만 떠난 선택 자체가 그 범죄의 책임은 아니다. 현대 거절 뒤 결과가 모두 좋아지거나 상대가 수긍한다고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:19:11",
+      "textSha256": "1bb0529b6002785ea63052b1bfbf5743fbad925e974ae497e9489a34845cb387",
+      "status": "candidate",
+      "reason": "G13에서 더 밀고 가기보다 해 질 때 쉴 곳을 찾자는 말이 피로를 인정하고 멈출 실마리가 된다.",
+      "contextNote": "날이 저물자 종이 가까운 성에서 묵자고 제안한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G13",
+          "clue": "더 늦기 전에 머물 곳을 찾자는 말에서 몸이 지쳤는데도 계속 공부를 미는 대신 쉴 때를 살필 수 있다.",
+          "friction": "해 질 무렵의 여행 숙박 제안이다. 현재 일정에 같은 이동 위험이 있거나 쉬면 모든 결과가 안전하다고 확정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:19:12",
+      "textSha256": "79bd499c6ccc1cbb4bf31f405d5420684c6281662b9461722278455bf96d86f8",
+      "status": "hold",
+      "reason": "H003에서 익숙한 집단이면 더 안전하다는 가정을 돌아볼 수는 있지만 외인의 도시를 피하겠다는 문자 뜻과 뒤의 기브아 범죄가 대비되어야 그 오류가 읽힌다.",
+      "contextNote": "레위인이 외인 도시 여부스를 피하고 자기 민족의 기브아로 가겠다고 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:19:13",
+      "textSha256": "1746611f6731f835bb2249fe50165e756b0763a6216342a620641605b37bfc35",
+      "status": "hold",
+      "reason": "H061에서 두 대안을 놓고 적절한 곳을 고르는 모습은 있지만 기브아와 라마의 실제 위치를 모르면 단순 숙박지 제안이고 완벽한 답을 기다리는 부담을 직접 다루지는 않는다.",
+      "contextNote": "레위인이 두 이스라엘 성읍 중 한 곳에서 묵자고 한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:19:14",
+      "textSha256": "418b1d30ab11a39a7364c2e3cb20121fe3a57e5be0f389a03e5b0d5fb6b6c468",
+      "status": "exclude",
+      "reason": "H050의 늦음과 비교해도 기브아 근처에서 해가 졌다는 이동 시각 기록뿐으로 오늘 마감의 지원 준비에 관한 선택 단서는 없다.",
+      "contextNote": "길을 더 간 일행이 어두워질 무렵 기브아에 도착한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:19:15",
+      "textSha256": "2621e9716122c941fb47dacca65d3d206f3618b690997a89a1b52d9c35802deb",
+      "status": "candidate",
+      "reason": "A018에서 낯선 사람이 혼자 있는데 아무도 맞지 않은 장면을 통해 내가 먼저 끼워 주는 선택의 의미를 읽을 수 있다.",
+      "contextNote": "일행이 성읍 거리에 앉았지만 아무도 자기 집으로 맞지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A018",
+          "clue": "거리의 낯선 이를 아무도 맞지 않은 장면에서 새 동료도 그런 고립을 느낄 수 있음을 돌아보고 먼저 함께할 자리를 권할 수 있다.",
+          "friction": "실제 여행 숙박의 부재와 뒤 범죄의 배경이다. 현재 회사가 같은 위험한 곳이거나 동료가 특정 어려움을 겪는다고 채우지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:19:16",
+      "textSha256": "87aa977571ec98e168dd08d53722389732913b4b1a7ce18dbd958aeb23d6ba0c",
+      "status": "hold",
+      "reason": "A030에서 나이 든 사람도 할 일이 있다는 모습은 보이나 밭일을 하고 돌아온 노인의 출신 소개로 실제 체력이 떨어진 사용자의 역할 조정 기준은 아니다.",
+      "contextNote": "노인의 출신과 기브아 체류를 소개한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:19:17",
+      "textSha256": "bd5df49e7537e74a7ec064f9c794fe2964f40c22d0e9e89955c833aaae96ace4",
+      "status": "candidate",
+      "reason": "A018에서 낯선 사람이 있음을 보고 먼저 말을 거는 구체 행동이 혼자 있는 새 동료에게 다가갈 실마리가 된다.",
+      "contextNote": "노인이 거리의 행객을 보고 어디서 와 어디로 가는지 묻는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "A018",
+          "clue": "눈을 들어 혼자 있는 사람을 보고 먼저 묻는 행동에서 어색해 보이는 새 동료에게 한마디를 건넬 방향을 읽는다.",
+          "friction": "여행자에게 출발지와 목적지를 묻는 고대 환대다. 현대 동료의 사생활을 캐거나 초대 수락을 보장하는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:19:18",
+      "textSha256": "5a65aa41214c79f67b16761d633ef8a121ccea503fe9c11061dc320b8a732c58",
+      "status": "candidate",
+      "reason": "H033에서 나를 받아 줄 곳이 없다는 실제 필요를 숨기지 않고 말하는 방향이 도움을 청할 단서가 된다.",
+      "contextNote": "레위인이 목적지와 여정을 설명하고 아무도 영접하지 않았다고 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "아무도 맞아 주지 않아 자리가 필요하다는 사실을 말한 것처럼 혼자 애쓰는 상태와 필요한 도움을 구체적으로 알릴 수 있다.",
+          "friction": "하룻밤 묵을 곳을 찾는 상황이며 친구에게 같은 숙박 책임이 생기는 것은 아니다. 상대가 반드시 받아 줄 미래도 확정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:19:19",
+      "textSha256": "f31538f7cdc62609dd597d52c4958332be29a1b2e295cc94d68b377e6c55b64d",
+      "status": "candidate",
+      "reason": "H033에서 이미 가진 것과 필요한 도움을 구분해 알리는 말이 부탁을 막연한 큰 짐으로만 보지 않을 단서가 된다.",
+      "contextNote": "레위인이 식량과 가축 먹이는 준비돼 있고 잠잘 곳이 필요함을 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "내가 준비한 것과 남에게 필요한 부분을 나눠 말하는 모습에서 모든 일을 떠넘기는 부탁이 아니라 필요한 지원을 구체적으로 청할 수 있다.",
+          "friction": "식량과 가축 먹이는 충분하지만 거처는 없는 여행자의 말이다. 현재 사용자에게 없는 돈이나 준비를 채워 넣지 않으며 도움을 청하기 전 모든 것을 혼자 갖춰야 한다는 뜻도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:19:20",
+      "textSha256": "6687aefc6354928466955314f4ff91862abfb45bb360b1502e8285c4231dc183",
+      "status": "hold",
+      "reason": "H034에서 실제 필요에 응하는 환대는 좋지만 모든 쓸 것을 내가 책임진다는 큰 약속이 전체에 있어 현재 작은 도움 정도를 할 수 있는 사용자의 범위와는 차이가 있다.",
+      "contextNote": "노인이 거리에서 자지 말라며 일행의 필요를 책임지겠다고 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:19:21",
+      "textSha256": "3a9e36ec3bfeb767a503787d6d53f6146ff3af6ec9f86be4d406d675d437ea75",
+      "status": "candidate",
+      "reason": "A018에서 새 사람을 실제 자리와 식사에 맞아들이는 구체 행동이 혼자 있는 동료에게 말을 걸고 함께 먹을 단서가 된다.",
+      "contextNote": "노인이 행객을 집으로 들여 사람과 나귀를 돌보고 함께 먹는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A018",
+          "clue": "집으로 들여 함께 씻고 먹을 자리를 만든 행동에서 새 동료에게 실제 식사 자리를 권해 따뜻하게 포함할 수 있다.",
+          "friction": "노인은 뒤에서 여성을 대신 내놓는 잘못을 한다. 이 환대의 형태가 그의 모든 행동을 정당화하거나 현대 동료에게 무제한 가족 같은 헌신을 요구하는 것은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:19:22",
+      "textSha256": "d4fe31840c1ab116cb7aac301eecc81653f232bec819331b469c843b9d62e47c",
+      "status": "exclude",
+      "reason": "A007의 싸움 말리기와 비교해도 집을 에워싸 손님을 성폭행하려 내놓으라는 가해자들의 요구가 전부여서 일상의 갈등 선택을 지지하는 말로 삼기 어렵다.",
+      "contextNote": "성읍 무리가 집에 몰려와 손님을 끌어내라고 요구한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:19:23",
+      "textSha256": "59337dd789a76a9e68ab15ed4c38b8a14b5b80519e0626547e560924d861dbf2",
+      "status": "candidate",
+      "reason": "A007에서 여러 사람이 흥분해 해치려 할 때 조용히 동조하기보다 나와서 악을 행하지 말라고 말릴 단서가 직접 있다.",
+      "contextNote": "노인이 문밖으로 나와 손님에게 망령된 일을 하지 말라고 무리를 만류한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A007",
+          "clue": "무리 앞에 나와 악한 일을 하지 말라고 직접 말하는 모습에서 다칠 수 있는 싸움을 그저 보고 있기보다 말릴 방향을 읽는다.",
+          "friction": "성폭행을 막는 말이지만 바로 다음 절에서 노인은 다른 여성들을 대신 내놓는다. 그 희생 제안은 본받을 것이 아니며 한 사람을 지키기 위해 다른 이를 해쳐도 된다고 설명하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:19:24",
+      "textSha256": "899ec7f050dc9260dd30b4c5fec51a80ee08adf4a7aab2713dadaa3a8ae9cf07",
+      "status": "exclude",
+      "reason": "A007의 위해 방지와 비교해도 다른 여성들을 대신 내줘 욕보이게 하라는 요구가 핵심으로 한 사람을 보호하려 다른 사람을 희생시키는 모델을 줄 수 없다.",
+      "contextNote": "노인이 남성 손님 대신 자기 딸과 첩을 가해자들에게 내놓겠다고 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:19:25",
+      "textSha256": "c43e815aaa64ba72536a9e3dd128447bca6baa3f87ebf2021c0a46232be8168f",
+      "status": "exclude",
+      "reason": "A008의 접촉 회피와 비교해도 남편이 여성을 강제로 내주고 무리가 밤새 성폭행한 가해 장면이므로 피해자가 더 잘 설명해야 한다는 관계 교훈으로 바꿀 수 없다.",
+      "contextNote": "무리가 만류를 무시하자 남편이 첩을 내주고 집단 성폭행이 이어진다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:19:26",
+      "textSha256": "b0a6ee66666df64391b6e312a5c67b3a2de5c559449f7c0924b124a5dcefe545",
+      "status": "exclude",
+      "reason": "G13의 쉬기와 비교해도 성폭행 피해자가 집 문까지 와 쓰러져 밤을 보낸 가해 후의 상태이므로 회복을 위해 자발적으로 쉬는 선택으로 읽을 수 없다.",
+      "contextNote": "학대당한 여인이 동틀 때 문 앞에 쓰러진다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:19:27",
+      "textSha256": "90492043545f8cd2dd02e2496fb4678e2fea13b05debb0b54293b99d9afa7b51",
+      "status": "exclude",
+      "reason": "H034의 도움과 비교해도 떠나려던 남편이 문지방의 여인을 발견한 미완 장면으로 피해자에게 어떤 돌봄을 선택했는지는 나오지 않는다.",
+      "contextNote": "남편이 아침에 문을 열다 쓰러진 여인을 본다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:19:28",
+      "textSha256": "a41d523fca88c39143e71c70f0753c24518b5c286266ab4d10388b5116ceb057",
+      "status": "exclude",
+      "reason": "H058의 도움 요청과 비교해도 반응 없는 여인의 시체를 싣고 가는 사망 장면이어서 힘든 사용자에게 일어나 계속 가라는 권유로 잘라 줄 수 없다.",
+      "contextNote": "남편이 대답 없는 여인을 죽은 채로 싣고 돌아간다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:19:29",
+      "textSha256": "fd3280b0c6dabf176292b4bace83d67307051da4416535d3463ad4462c63b4e1",
+      "status": "exclude",
+      "reason": "H026의 감정 전달과 비교해도 시신을 열두 부분으로 훼손해 보내는 행동으로 일상 서운함을 알리거나 도움을 구하는 방법과 같게 둘 수 없다.",
+      "contextNote": "남편이 첩의 시신을 잘라 이스라엘에 보내 고발한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:19:30",
+      "textSha256": "f7392e7a6a53a15bd85d2bd7244ada2b7c26975358f2338843444e18c1f55856",
+      "status": "candidate",
+      "reason": "H031에서 충격과 분노에 즉시 반응하기보다 먼저 생각하고 상의한 뒤 말하자는 명시적 단서가 있다.",
+      "contextNote": "끔찍한 시신을 본 사람들이 사건의 유례없음을 말하며 숙고와 상의를 촉구한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "생각하고 상의한 후 말하자는 문장에서 분노로 쓴 메시지를 즉시 보내기보다 잠시 멈추어 살필 방향을 읽는다.",
+          "friction": "시신 훼손을 받은 총회의 충격과 전쟁으로 이어진 사건이다. 현재 친구 갈등을 같은 범죄로 과장하거나 함께 분노를 키우라는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:20:1",
+      "textSha256": "a2da55bf01803811104badbd5aaa6af50f5993d43ae57df8e9d522ef173b97cc",
+      "status": "hold",
+      "reason": "A035에서 함께 하나님 앞에 모이는 모습은 있으나 여러 지역의 회중 집결을 알린 미완 문장으로 혼자 마음을 살필지의 선택과는 다르다.",
+      "contextNote": "이스라엘 여러 지역의 회중이 미스바에 모인다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:20:2",
+      "textSha256": "35ee8d165d1b60eca8195bcedf67611247d397c936077d2494d6f866f119e7a5",
+      "status": "exclude",
+      "reason": "A009의 구성원과 비교해도 지도자들의 집회와 무장 보병 사십만 명의 규모를 기록하며 누가 무슨 일을 나눌지의 단서는 없다.",
+      "contextNote": "이스라엘 총회의 지도자와 군사 규모를 제시한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:20:3",
+      "textSha256": "960bfdc5bb73522c10c896fc7f663df0a982aa98275de360627363c62cd894d5",
+      "status": "candidate",
+      "reason": "H030에서 들은 사건에 바로 판단을 굳히기보다 실제 정황을 먼저 말해 달라고 요구하는 단서가 있다.",
+      "contextNote": "베냐민도 회집 소식을 듣는 가운데 총회가 사건의 전모를 설명하라고 요청한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "사건의 정황을 고하라는 요청에서 소문을 듣자마자 거리를 두기보다 무슨 일이었는지 먼저 확인할 수 있다.",
+          "friction": "바로 뒤의 남편은 자기 가해를 누락한다. 한 사람에게 들었다고 사실이 모두 확인됐다는 뜻이 아니며 현재 친구의 유죄나 결백을 앞당기지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:20:4",
+      "textSha256": "901d84cac7641dcd9db50f55f2dcf7ad7ed67a6fa7f2e2d4ed46fcec29e5aa36",
+      "status": "exclude",
+      "reason": "H052의 정직한 보고와 비교해도 레위인이 자기 첩과 기브아에 갔다고 서두를 연 미완 진술로 실제 보고의 선택과 정확성은 뒤 내용을 더 읽어야 한다.",
+      "contextNote": "남편이 총회에서 사건 경위를 말하기 시작한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:20:5",
+      "textSha256": "d79ca16a16e3dca92b34b2520ab7db8159a29d6db9d0574eb7c45c8d292c2b82",
+      "status": "hold",
+      "reason": "H052에서 자신에게 불리한 일을 빼고 말하는 위험은 있지만 이 절만으로는 첩을 본인이 내준 사실의 누락이 드러나지 않아 앞 가해 장면과 대조해야 실마리가 읽힌다.",
+      "contextNote": "남편이 포위와 첩의 죽음을 말하면서 자신이 여인을 내준 행동은 빼고 진술한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:20:6",
+      "textSha256": "3c0d110d12174ac9f8fc138dbc8a20cdb6bd139d40b08365529ddbabdc4861c0",
+      "status": "exclude",
+      "reason": "H052의 사실 전달과 비교해도 시신을 쪼개 보낸 이유를 성범죄의 고발로 설명하는 진술이라 평가를 조금 과장할 유혹에 같은 내용과 수단을 대응시킬 수 없다.",
+      "contextNote": "남편이 시신 훼손과 발송을 설명하며 공동체에 고발한 이유를 밝힌다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:20:7",
+      "textSha256": "4e0476d120032da6389595d9a2a34f01eec929bbf4c9ee0de245c2e38324773f",
+      "status": "candidate",
+      "reason": "H051에서 혼자 방책을 아는 척하기보다 함께 있는 사람에게 의견과 방법을 구할 구체 문장이 있다.",
+      "contextNote": "남편이 총회에 의견과 대책을 내 달라고 청한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "너희 의견과 방책을 내 달라는 구체 요청을 보고 모르는 부분의 조언을 구하는 일을 무능함의 고백으로만 보지 않을 수 있다.",
+          "friction": "끔찍한 성범죄 뒤 군사 대책을 논하는 총회다. 현대 멘토의 권위나 호의적 반응을 확정하거나 여러 의견이 정답을 보장한다고 하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:20:8",
+      "textSha256": "5f4a6e86167386ea33b267763f743a73790c91939eff16e97090675543ff1813",
+      "status": "hold",
+      "reason": "H054에서 해결할 때까지 돌아가지 않겠다는 의지는 있으나 전쟁 결의를 말하는 미완 문장으로 이미 약속한 정상 작업과 다른 기회 사이의 부담을 다루는 기준은 약하다.",
+      "contextNote": "총회가 집으로 돌아가지 않고 문제에 대응하기로 일제히 결의한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:20:9",
+      "textSha256": "5d91ad23f24a7c3d23865875baf1d33f67fd94a8e2b565b30601b10dc5554a54",
+      "status": "exclude",
+      "reason": "H061의 판단 지연과 비교해도 제비로 공격 대상을 정하겠다는 전쟁 계획이어서 사적인 선택을 무작위 신의 정답으로 확인하는 방법으로 옮길 수 없다.",
+      "contextNote": "이스라엘이 기브아를 치는 절차를 결정한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:20:10",
+      "textSha256": "5ec431039ea3fac06e2fa22630e463837f79acf1fc1ab7a3ff5996a0ee1fb8a4",
+      "status": "candidate",
+      "reason": "A009에서 모두가 같은 현장 일만 하지 않고 일부가 먹을 것을 준비하도록 역할을 나누는 구체 실마리가 있다.",
+      "contextNote": "이스라엘이 십 분의 일을 보급에 배치하고 나머지 군사 대응을 준비한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A009",
+          "clue": "일부가 양식을 준비하고 다른 사람들이 현장 일을 하는 식으로 나눈 모습을 보고 가능한 팀원에게 실제 지원 업무를 맡길 수 있다.",
+          "friction": "성읍 징계를 위한 군사 보급이며 뒤에 내전이 확대된다. 현대 업무에서 같은 십 분의 일 비율이나 폭력적 목적을 따르라는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:20:11",
+      "textSha256": "0cbcefa385bd6225583d953203d9da41daed559f02d8589ed67ab9ee4de6917c",
+      "status": "hold",
+      "reason": "A009에서 함께 힘을 모으는 모습은 있으나 성읍을 치려 합심해 모였다는 결과만으로 혼자 처리하던 세부 업무를 어떻게 맡길지까지는 분명하지 않다.",
+      "contextNote": "이스라엘이 한마음으로 기브아 공격을 위해 모였음을 요약한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:20:12",
+      "textSha256": "6a3bed67c39cb7d1ee05c1a3ef8ee5cda3bca16400e3cf811cb34255dcb21e6d",
+      "status": "hold",
+      "reason": "H030에서 이유를 묻는 절차는 있지만 너희 중 악이 어찌 생겼느냐는 이미 유죄를 전제한 책망이라 확인되지 않은 친구 소문을 중립적으로 살피는 말과는 다르다.",
+      "contextNote": "이스라엘이 베냐민에게 성범죄 사건의 책임을 묻는 사자를 보낸다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:20:13",
+      "textSha256": "69ed12dacb65ac3f6d013962c7760f8ebf558b282e560e2a581b1b35c455c791",
+      "status": "hold",
+      "reason": "A016에서 집단의 편이라고 악을 덮지 않는 기준은 떠오르지만 가해자를 넘겨 죽이라고 요구하는 사형 협상이라 현재 직접 못 본 일을 증언할지의 문제에 그대로 적용할 수 없다.",
+      "contextNote": "기브아 가해자를 넘기라는 요구를 베냐민이 거절한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:20:14",
+      "textSha256": "8f0e6f170cb4a130e0407451d65f4e04f741a102def730e952c37ce85b8c4a9d",
+      "status": "exclude",
+      "reason": "H029의 단호함과 비교해도 상대 말을 듣지 않고 군사로 맞서려 모인 장면이어서 실제 침해를 당한 사용자의 정당한 거리 두기로 바꿀 수 없다.",
+      "contextNote": "베냐민이 이스라엘과 싸우려고 기브아에 모인다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:20:15",
+      "textSha256": "961d8421517559949496fccc63dcafc83aaacb932f772e61640386fe5ce3801f",
+      "status": "exclude",
+      "reason": "A029의 필요에 따른 배분과 비교해도 이만육천과 기브아 칠백 명이라는 병력 집계로 실제 기능별 필요량의 기준은 없다.",
+      "contextNote": "베냐민의 출정 병력 수를 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:20:16",
+      "textSha256": "319c2cebbbb338142dce27cd406ba4a7f899031abbfaf71d354f01738af6a453",
+      "status": "hold",
+      "reason": "H041에서 남들과 다른 손을 써도 능력이 있을 수 있다는 모습은 보이나 칠백 명 모두 정확한 사격술을 가졌다는 특별 역량 기록이어서 현재 사용자도 완벽해야 한다는 부담이나 능력 보증으로 옮기기 쉽다.",
+      "contextNote": "베냐민의 정예 왼손잡이 물매 군사들을 소개한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:20:17",
+      "textSha256": "29dbf29221ce7215e728cb499ec8c8586abe62db24d398952fb4a90ebae10b8f",
+      "status": "exclude",
+      "reason": "R027의 적은 모임과 비교해도 사십만 명 모두 전사였다는 수적 규모만 있고 인원 충분성이나 시작 준비 조건은 담지 않아 소수로 시작할 근거가 되지 않는다.",
+      "contextNote": "베냐민 외 이스라엘 군대 규모를 재확인한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:20:18",
+      "textSha256": "be3e4065bcc30db0af6bb0b24475cfeaef067c52e5fe57f02128b3fe5c949e57",
+      "status": "candidate",
+      "reason": "A035에서 행동 순서를 정하기 전에 하나님께 묻는 행동이 외부 조언만 더하기보다 기도하며 내 선택을 돌아볼 단서가 된다.",
+      "contextNote": "이스라엘이 벧엘에서 먼저 싸울 지파를 묻고 유다가 먼저라는 응답을 받는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A035",
+          "clue": "행동에 앞서 하나님께 묻는 순서에서 사람의 조언만 늘리기 전에 기도하며 자신의 마음과 기준을 살필 수 있다.",
+          "friction": "하나님이 유다를 먼저 지정하신 특정 전쟁 이야기이며 이후 두 차례 패한다. 현대 기도의 첫 느낌이 정답이거나 원하는 결과를 보장한다는 방식으로 쓰지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JDG:20:19",
+      "textSha256": "56fc5a26704dcd97a6107e2e18e2031f854daccf27d2a9923ab30176163decd1",
+      "status": "exclude",
+      "reason": "H050의 일찍 시작하기와 비교해도 기브아 맞은편에 아침 진을 친 기록뿐으로 마감의 준비 부족을 다룰 실마리는 없다.",
+      "contextNote": "첫 전투를 위해 이스라엘이 진을 친다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:20:20",
+      "textSha256": "c04b9194450487b1cf2710928eac32bca0ba242f20e97a430d63ee94a2da550a",
+      "status": "exclude",
+      "reason": "A009의 역할 배치와 비교해도 전투 대열을 펴 싸우려 한다는 도입만 있어서 팀원의 실제 업무와 의사를 나눌 기준은 없다.",
+      "contextNote": "이스라엘이 기브아 앞에 전열을 펼친다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:20:21",
+      "textSha256": "052669f839c9ac1f990a653359a5405a04b545ba5b04e696a9879d334f9471b3",
+      "status": "exclude",
+      "reason": "H043의 실패와 비교해도 이만이천 명의 죽음이라는 전투 결과의 미완 절로 현재 방법을 지속하거나 바꿀 단서는 없다.",
+      "contextNote": "첫 전투에서 이스라엘이 크게 패한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:20:22",
+      "textSha256": "685ccf3bbe401fcd0d99aad6daf9f3f709888cfca385393d5f02bf1126860901",
+      "status": "hold",
+      "reason": "H043에서 스스로 용기를 내어 다시 하는 모습은 있으나 같은 진형을 재현해 뒤에서 다시 크게 패하므로 반복 실패에도 단순히 같은 방식을 더 하라는 첫 결과로 주기 어렵다.",
+      "contextNote": "이스라엘이 첫날의 진형을 같은 곳에 다시 편다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:20:23",
+      "textSha256": "87fb84e59b16225c0c9d207c62ec0bf349083461badbb4da865cc799a9ae6386",
+      "status": "hold",
+      "reason": "H043에서 실패 뒤 하나님께 다시 묻는 행동은 보이나 그대로 치라는 응답 뒤 또 대패하는 문맥이므로 현재 반복 실패에 같은 방법을 계속하라는 확정 답으로 옮길 수 없다.",
+      "contextNote": "이스라엘이 울며 다시 출전을 묻고 두 번째 공격 명령을 받는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:20:24",
+      "textSha256": "9cfcd02e17a923c5025bd5fbfecb8b1e947fc13d75d837258bea9138da7c2a0d",
+      "status": "exclude",
+      "reason": "H043의 재시도와 비교해도 다음 날 다시 공격했다는 이동 사실뿐으로 변화된 방법이나 새로운 근거는 나오지 않는다.",
+      "contextNote": "둘째 날 이스라엘이 다시 베냐민을 공격한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:JDG:20:25",
+      "textSha256": "348000466bb5b1c674b110f7e38e8ddadfd2433ccba6e65ceb598e214c5232f2",
+      "status": "exclude",
+      "reason": "G15의 실패 두려움과 비교해도 다시 일만팔천 명이 죽은 전과 기록이므로 현대 역할의 실패를 예고하거나 도전 여부를 대신 정할 단서는 없다.",
+      "contextNote": "베냐민이 둘째 전투에서도 이스라엘을 크게 무너뜨린다.",
+      "readability": "thinkable",
+      "connections": []
     }
   ]
 }

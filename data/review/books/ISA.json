@@ -1,0 +1,864 @@
+{
+  "bookCode": "ISA",
+  "corpusSha256": "f8d5c8b377e243b05fb884b4a6965d2c06a95de74b64a716ee4b95989d61e971",
+  "criteriaVersion": "garasadae-corpus-2026-10-08-v1",
+  "reviewer": "Codex review_1ch_lam",
+  "method": "direct-codex-reading",
+  "entries": [
+    {
+      "id": "KRV:ISA:1:1",
+      "textSha256": "36a4293d0ab27f42d77de8ef950bbe6b4676666be702ad3a941026490f820141",
+      "status": "exclude",
+      "reason": "왕들의 시대와 예언자의 가족 및 유다와 예루살렘이라는 대상의 소개로 생활 선택을 생각할 실마리는 아직 없다.",
+      "contextNote": "이사야가 본 환상의 시대와 범위를 밝히는 표제다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:1:2",
+      "textSha256": "bec8388a53b19cd43f015cd73f3e42d21f7e8d490692312cf09e839bea4051ce",
+      "status": "hold",
+      "reason": "길러 준 관계의 무게는 부모가 도움을 말할지와 닿지만 현재 자녀의 거역은 주어지지 않아 같은 상태로 읽기 어렵다.",
+      "contextNote": "양육하신 하나님을 거역한 백성을 하늘과 땅 앞에서 책망한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B015",
+          "clue": "돌봐 온 관계 안에서 필요한 도움을 말할 여지를 생각한다.",
+          "friction": "현재 자녀가 거역했거나 내게 돌봄의 빚이 있다는 규정은 할 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:1:3",
+      "textSha256": "4b02cf210dd4cd36137d5ed0232faf5ec2ba06ddd936de67d5fbeb8576ac1b40",
+      "status": "hold",
+      "reason": "돌봄의 근원을 잊지 않는다는 관점은 있으나 주인과 짐승의 비유를 성인 자녀의 도움 요청에 옮기면 관계의 권한을 과장하기 쉽다.",
+      "contextNote": "주인을 아는 가축과 하나님을 모르는 백성을 대비한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B015",
+          "clue": "돌봄을 주고받은 관계를 기억하는 가치를 생각한다.",
+          "friction": "하나님과 백성의 관계를 부모의 소유권처럼 옮기면 자녀를 종속시키는 조건을 만들게 된다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:1:4",
+      "textSha256": "cee1477d50418862eac97b6aeb4018d9b0bda10f342cc46c1c17b91557234b21",
+      "status": "hold",
+      "reason": "옳은 길을 버리는 부패를 탄식하지만 국가와 후손 전체의 심한 규정이 당장의 이력 과장 여부와 연결되는 부담은 크다.",
+      "contextNote": "하나님을 떠난 나라와 백성의 행위를 탄식한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B014",
+          "clue": "좋은 평가와 별개로 내가 따르는 길의 정직을 돌아볼 수 있다.",
+          "friction": "국가 전체의 부패와 신앙 이탈을 현재 개인의 이력 작성으로 좁히는 해석이 많이 필요하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:1:5",
+      "textSha256": "579842d46b462214b68edc9bddee419719180ce9787d19acc40fc2e5d8646006",
+      "status": "hold",
+      "reason": "계속 같은 해를 더하는 모습은 실패 반복과 닿지만 고난을 패역 때문에 맞은 매로 보는 원문을 보통의 실패 원인으로 옮길 수 없다.",
+      "contextNote": "더욱 거역하는 백성의 상태를 병든 머리와 지친 마음으로 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H043",
+          "clue": "같은 길로 더 지치고 있는지 돌아볼 수 있다.",
+          "friction": "원문은 패역과 징계다. 일반적인 작업 실패를 하나님께 매맞는 잘못으로 해석할 근거는 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:1:6",
+      "textSha256": "6f139d5cb4db10302ec5d19ef489c20e029017cb60288ac242dcfa41a3e97410",
+      "status": "candidate",
+      "reason": "상처가 온몸에 있으나 싸매지 못한 모습이 회복을 위해 쉬어야 해도 돌봄을 뒤로 미루는 부담에 닿는다.",
+      "contextNote": "나라의 손상을 치료받지 못한 몸의 상처로 묘사한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H055",
+          "clue": "상처를 그대로 두고 일만 이어가는 대신 돌봄을 받을 몫을 본다.",
+          "friction": "나라의 심판을 몸으로 그린 비유이며 사용자의 피로를 죄의 징계로 설명하거나 치료 결과를 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:1:7",
+      "textSha256": "d1f1896003fb518b5fbc806c0beee4a2a9b4a73d67df47f39d881570926ad4b9",
+      "status": "exclude",
+      "reason": "땅의 황폐와 성읍의 화재 및 이방인의 점령을 열거하여 현재의 생활 실패에 옮기려면 침략이라는 원인을 새로 넣게 된다.",
+      "contextNote": "상처 난 몸의 비유를 나라의 실제 황폐로 설명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:1:8",
+      "textSha256": "325b1adab1f853f5ba8cb131c35b704cb85fcc1f9957426bcb8161e18a011eb6",
+      "status": "hold",
+      "reason": "겨우 남은 외로운 망대의 모습은 혼자 버티는 피로와 닿지만 부탁과 독립 중 어느 부담을 볼지의 행동 실마리는 적다.",
+      "contextNote": "포위 속 겨우 남은 시온을 임시 막사와 망대로 비유한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "혼자 겨우 버티는 상태를 알아볼 수 있다.",
+          "friction": "상직막 같은 낯선 말과 포위된 성의 비유가 있고 도움 요청의 행동은 직접 나오지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:1:9",
+      "textSha256": "1853a2f979df67c582ab7678bd174a2b1015db6340a2a1224f4ad7985fb6d0ac",
+      "status": "hold",
+      "reason": "남겨진 몫의 의미는 지금 가능한 일을 보는 마음과 닿지만 소돔과 고모라처럼 되지 않았다는 구출의 비교를 먼저 알아야 한다.",
+      "contextNote": "나라가 완전히 사라지지 않은 것을 하나님의 남김으로 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H060",
+          "clue": "아직 남은 몫의 가치를 생각한다.",
+          "friction": "두 도성의 심판을 알아야 비교가 서며 현재 기회가 보존됐다고 보증하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:1:10",
+      "textSha256": "c0e1ecc62d6543c267abf4d60c0b2bbbf82ebe2db13ddf7329b1471c287fb486",
+      "status": "hold",
+      "reason": "귀 기울이라는 권고는 지적 수용과 닿지만 소돔과 고모라라는 책망의 호칭과 하나님의 법을 팀원의 실제 지적에 옮기는 부담이 있다.",
+      "contextNote": "부패한 통치자와 백성을 불러 하나님의 말을 듣게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "불편해도 먼저 듣는 태도를 생각한다.",
+          "friction": "팀원을 하나님처럼 보거나 사용자와 팀을 소돔으로 판정하지 않으면서 읽는 해석이 필요하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:1:11",
+      "textSha256": "aa70b9400d153c61cdbf98b8d054f0518b9d1058527eda9a15c4e743bc21d5bc",
+      "status": "candidate",
+      "reason": "제물의 많음과 상대의 기뻐함을 같게 보지 않는 말이 비싼 선물로 마음을 증명해야 하는지에 닿는다.",
+      "contextNote": "하나님이 제물의 수와 기름과 피 자체를 기뻐하지 않으신다고 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H007",
+          "clue": "큰 비용 자체가 마음을 전하는 충분조건인지 묻는다.",
+          "friction": "예배의 제물과 개인 선물은 다르며 모든 선물이 헛되거나 상대가 작은 것을 더 좋아한다고 확정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:1:12",
+      "textSha256": "097b04812a9581cceecf9d5c45f5584264ea2b094838eef59d1817f02cbcc22c",
+      "status": "hold",
+      "reason": "몸만 나타내는 것과 진짜 역할의 차이를 생각할 수 있으나 이미 기다리는 봉사를 누가 요구했느냐는 말로 취소할 근거는 없다.",
+      "contextNote": "찾아오는 예배가 마당만 밟는 일이 되었다고 책망한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H011",
+          "clue": "겉으로 참석만 하는 것과 맡은 역할을 실제 돌보는 것을 구별한다.",
+          "friction": "사례에는 기다리는 사람이 있으므로 이 약속을 아무도 요구하지 않은 부담이라고 바꿀 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:1:13",
+      "textSha256": "5f5e0cbff34cda6d1555f9eaf2d836a4898ad2ac0e57556905ad6e34f0ab876a",
+      "status": "candidate",
+      "reason": "큰 모임과 종교적 외형이 악한 행위를 덮지 못한다는 전체가 화려한 역할의 거짓 홍보를 받아들일지에 닿는다.",
+      "contextNote": "제사와 절기를 지키면서 악을 행하는 공존을 거부한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B016",
+          "clue": "화려한 겉모습이 거짓을 요구하는 실제 일을 덮는지 살펴본다.",
+          "friction": "원문은 부패한 예배이며 현재 회사의 종교나 모든 행사 자체를 악으로 판정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:1:14",
+      "textSha256": "c7b221c725d28dd3e123b6408facfa176e0e65711f861ead6cfc9287aaa6e8d1",
+      "status": "hold",
+      "reason": "더 감당하기 어려운 짐의 표현은 과부하와 닿지만 화자의 짐은 자신의 약속이 아닌 백성의 부패한 절기여서 생활 부탁과 주체가 다르다.",
+      "contextNote": "부패한 예배가 하나님께 무거운 짐이 됐다고 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H044",
+          "clue": "더 쌓이는 부담을 돌아볼 수 있다.",
+          "friction": "하나님이 백성의 절기를 싫어하시는 화자와 직장 부탁을 받는 내 입장이 다르다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:1:15",
+      "textSha256": "00a251223295280a27b9feb1205d2345be64a631d844ef2b47d864435c1148e0",
+      "status": "hold",
+      "reason": "겉의 말과 실제 행위가 다르면 안 된다는 관점은 있으나 피 묻은 손과 듣지 않는 기도를 이력의 꾸밈에 바로 옮기기는 무겁다.",
+      "contextNote": "폭력의 손을 그대로 둔 채 드리는 많은 기도를 거절한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "좋게 보이는 말 이전에 실제 행위를 생각한다.",
+          "friction": "피 가득한 손과 기도 거절의 전체를 읽어야 하며 현재 사용자의 기도를 안 들으신다고 판정할 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:1:16",
+      "textSha256": "a5836fc0892eca64d0af71faac3fa7fba589a2193ec7a5015d769681282323bf",
+      "status": "candidate",
+      "reason": "나쁜 행위를 멈추고 스스로 깨끗이 하라는 구체 말이 잘 보이기 위한 꾸밈을 더할지 사실로 돌아올지에 닿는다.",
+      "contextNote": "제사보다 먼저 악을 버리는 실제 변화를 요구한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "꾸밈을 더하기보다 지금 사실과 어긋나는 일을 멈추는 선택을 생각한다.",
+          "friction": "현재 선택을 하나님이 직접 지정했다거나 사실대로 쓰면 보상이 생긴다고 설명하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:1:17",
+      "textSha256": "ef2705396ad38edb34223ba72700d73ddb34e1500f340a4a04578b3b7fa11c27",
+      "status": "candidate",
+      "reason": "선을 배우고 약한 이의 편을 돕는 행동이 큰 해결은 못 해도 내 여력으로 도울지의 부담에 닿는다.",
+      "contextNote": "악행을 그치는 데서 더 나아가 도움과 공의를 행하도록 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H059",
+          "clue": "도움을 마음에만 두기보다 할 수 있는 선한 행동을 배워 나눌 수 있다.",
+          "friction": "현재의 받는 이를 반드시 고아·과부·학대 피해자로 가정하지 않으며 큰 법적 해결을 혼자 맡아야 한다고 요구하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:1:18",
+      "textSha256": "58b7cf81b01d2c63162e61745a948d7034a79de524f5d1e5080d1df5d7fcf7d5",
+      "status": "candidate",
+      "reason": "잘못이 짙어도 다시 이야기하고 깨끗해질 길이 있다는 초대가 잘못을 알지만 먼저 사과하기 어려운 부담에 닿는다.",
+      "contextNote": "백성을 변론의 자리로 부르며 죄의 씻김을 색의 변화로 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H027",
+          "clue": "잘못이 있어도 이야기하고 돌아올 길이 닫힌 것은 아니라고 읽는다.",
+          "friction": "친구가 사과를 받아 주거나 관계가 즉시 회복될 것이라는 사실은 알 수 없다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:1:19",
+      "textSha256": "6bd3b44e20c5625aa8edb78638830caba7c3e900186c20af1256db3075f2d6d6",
+      "status": "candidate",
+      "reason": "기꺼이 들으며 돌아서는 가치를 말해 실제 실수의 지적을 자존심 때문에 거절할지에 닿는다.",
+      "contextNote": "돌아와 순종하는 백성이 누릴 땅의 몫을 약속한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "기꺼이 듣고 고치는 방향에서 얻을 몫을 기대할 수 있다.",
+          "friction": "원문은 하나님께 돌아온 백성의 약속이다. 팀원의 모든 의견을 신적 명령으로 만들거나 수정 뒤 평가·수익을 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:1:20",
+      "textSha256": "2769f31665423f2888705279986f4d735fd21b7e77c0a7ae8d3c5981d5add6a9",
+      "status": "hold",
+      "reason": "거절의 무게를 말하지만 배반하면 칼에 삼키인다는 조건까지 있어 보통의 팀원 지적을 받을지의 선택에 옮기는 부담이 크다.",
+      "contextNote": "앞의 순종과 대비해 배반의 결과를 경고한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "맞는 지적까지 자존심으로 거절하는지 돌아볼 수 있다.",
+          "friction": "실제 실수 수정과 하나님 배반 및 칼의 심판 사이의 간격이 커 그대로 대응하기 어렵다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:1:21",
+      "textSha256": "c164dca1df394c68c35103aa9144abcb6e902d1a995e9bfb12748a85521e71a9",
+      "status": "hold",
+      "reason": "공평을 잃은 자리를 돌아보게 하나 창기와 살인자의 성읍이라는 강한 전환은 업체 선물과 현재 판단의 조건보다 크다.",
+      "contextNote": "신실하고 정의롭던 도성이 폭력으로 바뀐 것을 탄식한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B025",
+          "clue": "맡은 자리가 지키던 공평을 잃는 모습을 생각한다.",
+          "friction": "현재 업체나 선택자를 살인자와 같은 상태로 규정할 근거가 없고 비유의 범위가 매우 크다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:1:22",
+      "textSha256": "c900d5fc38b515484a7698bbac858ccecc8e1726b15ac4f2fde2a109c4203155",
+      "status": "candidate",
+      "reason": "은의 찌꺼기와 물 탄 포도주처럼 드러난 겉과 실제 내용의 차이가 작은 하자를 말할지에 생각할 틈을 준다.",
+      "contextNote": "도성의 신뢰 상실을 순수함이 훼손된 재물과 음료로 비유한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H022",
+          "clue": "겉으로 보이는 가치와 실제 상태의 차이를 숨기지 않을지 생각한다.",
+          "friction": "도성의 타락을 재물과 음료로 그린 비유이며 작은 흠집 때문에 물건 전체가 쓸모없다는 뜻으로 옮기지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:1:23",
+      "textSha256": "fccdc7cb5a0220cfb333e4b3dbd394563d1ce5969ed181bc1ef1ecb5b931ff1d",
+      "status": "candidate",
+      "reason": "뇌물과 사례를 좋아하느라 맡은 공정한 판단을 놓는 모습이 업체 선정과 개인 선물의 갈등에 직접 닿는다.",
+      "contextNote": "지도자의 부패가 약한 이의 송사를 외면하는 행위로 나타난다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B025",
+          "clue": "개인 선물이 맡은 공정한 판단을 밀어내는지 본다.",
+          "friction": "현재 업체가 도적이거나 고아·과부의 송사를 막는다는 사실을 더하지 않는다. 평가 조건의 개인 선물이 주어진 사례다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:1:24",
+      "textSha256": "f7a965f4644c1b733e271f927f30ca14636ea080d99a8ce9f1b38bf84558dbcc",
+      "status": "hold",
+      "reason": "원수에게 보응하는 마음은 억울함과 닿지만 여기의 주체는 하나님이며 동료의 실패에 비웃음을 보탤지의 실마리로 옮기기 어렵다.",
+      "contextNote": "하나님이 부패한 도성을 대적으로 대하여 보응하겠다고 선언한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B022",
+          "clue": "내가 직접 보복의 말을 보탤 필요가 있는지 생각할 여지는 있다.",
+          "friction": "원문의 보복 주체는 하나님이며 동료가 하나님의 대적이라거나 그 실패가 신적 벌이라는 결론은 낼 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:1:25",
+      "textSha256": "94e98883836c7238059884bd1160f21577efe7878dc8d02521c68193b34b71af",
+      "status": "candidate",
+      "reason": "찌꺼기를 걷어 내는 변화의 그림이 기분 나쁜 지적을 피하기보다 내 오류를 고칠지에 닿는다.",
+      "contextNote": "보응에 이어 혼합물을 제거해 정결하게 할 일을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "고쳐야 할 부분을 걷어 내는 일을 내 전체를 버리는 것으로만 보지 않을 수 있다.",
+          "friction": "정련은 도성의 회복 비유다. 팀원의 모든 수정 요구가 하나님의 정결 과정이라고 확정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:1:26",
+      "textSha256": "3f8d2fc7d8fca01afa0b6c0652ebc6ff05083ece8844110875ba7d3e715baae6",
+      "status": "hold",
+      "reason": "회복의 희망은 있지만 사사와 모사의 복구 뒤 도성의 이름이 바뀐다는 구조가 현재 틀어진 계획의 대응과 곧장 맞지는 않는다.",
+      "contextNote": "바른 지도자들이 회복된 뒤 도성이 신실하다고 불릴 것을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H062",
+          "clue": "흐트러진 뒤에도 회복의 가능성을 생각한다.",
+          "friction": "사사와 모사의 복구 및 도시의 재평가를 현재 계획에 어떻게 옮길지의 구체 단서가 적다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:1:27",
+      "textSha256": "ca461ceca5daa482067d9423bece0ee9b334d017ff048288b34523514225d52e",
+      "status": "candidate",
+      "reason": "공평과 의를 회복의 길로 보는 문장이 유리한 꾸밈보다 사실대로 돌아갈지의 가치 기준에 닿는다.",
+      "contextNote": "시온과 돌아온 이의 구속을 공평과 의로 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "나에게 이로운 꾀보다 공평과 사실에 맞는 방향으로 돌아설 가치를 본다.",
+          "friction": "귀정과 구속은 신앙적 문맥이다. 이력의 평가 결과나 구원을 현재 글쓰기의 보상으로 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:1:28",
+      "textSha256": "a8faab7626dd6f595f69949ab028a58972c5b7b8f71636bc74ca015436670f18",
+      "status": "hold",
+      "reason": "악한 길의 무게는 읽히지만 하나님을 버린 이들의 전면적 멸망을 현재 작은 이력 과장에 놓으면 범위가 크게 달라진다.",
+      "contextNote": "돌아온 이와 달리 계속 패역한 이의 끝을 경고한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "거짓을 가벼운 이익으로만 볼지 돌아본다.",
+          "friction": "전체 멸망 선언을 현재 한 행동의 결과 예고로 만들지 않으면서 읽는 부담이 크다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:1:29",
+      "textSha256": "2f5912e02f5ac27ce808d06b4031ee887793e837870e26cea5aa234a81ebeb54",
+      "status": "hold",
+      "reason": "좋아하고 택한 것이 수치가 될 수 있다는 말은 구매와 관련될 여지가 있으나 원문의 나무와 동산은 신앙을 버린 예배의 대상이다.",
+      "contextNote": "백성이 기뻐하던 우상 숭배의 장소 때문에 부끄러워질 것을 말한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H001",
+          "clue": "기뻐하는 소유가 내게 무엇이 되는지 생각할 수 있다.",
+          "friction": "본문의 나무와 동산은 우상 예배 문맥이다. 여력이 있는 운동화 욕구를 곧 우상 숭배로 판정할 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:1:30",
+      "textSha256": "a4b78c150bad89a2cffa54d5b6a7d48e3780becec2b28e3f646663299a8b4a99",
+      "status": "hold",
+      "reason": "마르고 물 없는 모습은 피로와 닿지만 앞으로 받을 심판의 비유라 현재 휴식을 미루는 상태와 연결하려면 주체와 때를 옮겨야 한다.",
+      "contextNote": "잎 마른 나무와 물 없는 동산으로 백성의 쇠락을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H055",
+          "clue": "물 없는 동산처럼 메마른 몸과 마음을 돌아볼 수 있다.",
+          "friction": "원문은 앞으로의 심판으로 현재 피로의 원인이나 결과를 설명하는 근거는 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:1:31",
+      "textSha256": "911e257f52061f75a5b7e717a7d51c7518e6474e0a698a8bda8e4f062563676d",
+      "status": "hold",
+      "reason": "강한 이도 자기 행위와 함께 타는 이미지는 부정한 성과를 돌아보게 하지만 끌 사람 없는 전소를 작은 과장의 선택에 바로 놓기 어렵다.",
+      "contextNote": "강한 자와 그의 행위가 함께 불타는 심판으로 장을 닫는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B014",
+          "clue": "힘 있어 보이는 부정한 방식도 나를 지켜 줄지 돌아본다.",
+          "friction": "삼오라기와 불티의 심판 비유를 알아야 하며 현재의 실패나 처벌을 예고하는 근거는 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:2:1",
+      "textSha256": "66506aae947657ad7c5cd3c028bcf4c40a631c7882d4eb6b893bd7d4eae22eef",
+      "status": "exclude",
+      "reason": "예언자와 말씀의 대상인 도성만 밝히는 표제로 생활 고민에 관한 내용이 아직 없다.",
+      "contextNote": "유다와 예루살렘에 대한 다음 말씀을 연다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:2:2",
+      "textSha256": "0ba74ed009fa96c7c5cc2744a26e629ef1a49b840fb347626f0c910c2c0856cc",
+      "status": "hold",
+      "reason": "많은 이가 더 높은 가르침의 자리로 모이는 그림은 있으나 배우러 갈 의도는 다음 절에서 구체화되어 조언의 선택에 간접적이다.",
+      "contextNote": "마지막 날에 높아진 성전 산으로 여러 민족이 모일 것을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "배움의 자리로 움직이는 가치를 생각한다.",
+          "friction": "성전 산이 높아지는 열방의 미래에서 개인 조언 요청으로 건너가는 연결은 간접적이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:2:3",
+      "textSha256": "4af7467da286d0d79041588789520c88aa70f1e86a747ec3cbbe71cb4f6ada12",
+      "status": "candidate",
+      "reason": "모든 것을 혼자 알기보다 함께 가서 길을 배우고 행하자는 초대가 선배에게 조언을 구할지에 닿는다.",
+      "contextNote": "민족들이 하나님께 배우러 시온과 예루살렘으로 가는 모습을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "모른다는 체면보다 배우러 가는 행동을 귀히 볼 수 있다.",
+          "friction": "가르치는 분은 원문에서 하나님이다. 선배의 모든 말을 하나님의 말씀과 같은 권위로 만들지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:2:4",
+      "textSha256": "5c4c6511e9882a8fbb5ef70313de8676ec49de84a54046f8a67a835b07038089",
+      "status": "candidate",
+      "reason": "싸움의 도구를 삶을 가꾸는 도구로 바꾸는 구체 반전이 화난 메시지로 다투기보다 관계를 세울 말로 돌릴지에 닿는다.",
+      "contextNote": "하나님의 판단 아래 나라들이 무기를 농기구로 바꾸는 평화를 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "공격할 말에 쓰던 힘을 관계를 돌볼 말로 바꾸는 길을 생각한다.",
+          "friction": "국제적 평화의 약속을 개인에게 비추는 해석이며 친구의 화해 수용이나 갈등의 즉시 종결을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:2:5",
+      "textSha256": "ce3e45cda59e0623dc7d68be4acb2069fde86377f748dcba34ef150a22af97f0",
+      "status": "candidate",
+      "reason": "빛 가운데 걸어가자는 짧은 초대가 겉의 화려함보다 지키려는 정직의 길을 선택할 부담에 닿는다.",
+      "contextNote": "야곱 족속도 하나님의 빛에 함께 걷자고 부른다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B016",
+          "clue": "내가 따르고 싶은 빛과 정직의 기준을 다시 잡을 수 있다.",
+          "friction": "어느 역할이 하나님의 직접 지시인지 제품이 지정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:2:6",
+      "textSha256": "f58fdf004c5201c478bbf012ce7cb8e76912fbb1c8400195e16d5743429e86a2",
+      "status": "exclude",
+      "reason": "이방 풍속과 술객 및 외국과의 언약 때문에 버림받은 백성을 설명하여 일반적인 다른 의견이나 외부 조언으로 바꾸면 조건과 의미가 달라진다.",
+      "contextNote": "야곱 족속의 종교와 동맹의 잘못을 지적한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:2:7",
+      "textSha256": "9be3084eb9b13c56929f450249cb537beb360ca2973a9b5b6c6d44bb8e17fb45",
+      "status": "hold",
+      "reason": "많은 소유의 목록은 욕구를 비춰 볼 수 있지만 무한한 보물과 말과 병거를 가진 사실만으로 현재 추가 구매의 부담이 열리지는 않는다.",
+      "contextNote": "나라에 가득한 재물과 군사 자원을 열거한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H001",
+          "clue": "많음 자체가 충분한 만족인지 돌아볼 여지는 있다.",
+          "friction": "이 절은 재산과 무기의 양을 말하며 그에 대한 평가와 현재 지출 부담은 아직 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:2:8",
+      "textSha256": "5aeeb9292e7f0cc6778d4e4c31421c5927fb380bbcd811cb0519954a036d634c",
+      "status": "hold",
+      "reason": "자기 손으로 만든 것을 높이는 문제는 물건에 대한 집착과 닿으나 현재 기기 욕구가 실제 예배인지는 주어지지 않았다.",
+      "contextNote": "나라의 풍부함에 이어 가득한 우상 숭배를 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H006",
+          "clue": "내가 만든 소유의 가치를 지나치게 높이는지 돌아볼 수 있다.",
+          "friction": "현재 제품을 예배한다거나 기기 교체 욕구가 곧 우상 숭배라는 사실을 만들 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:2:9",
+      "textSha256": "9c7b857a26e7d91cce098e662bcf9aa3963d583afc6a1d49b2f3a6f91681ff2d",
+      "status": "exclude",
+      "reason": "앞의 우상에 절하는 이들을 용서하지 말라는 기도로 대상의 전제가 없고 일반 친구의 실수에 옮길 근거가 없다.",
+      "contextNote": "귀천 없이 우상에 굴복하는 이들에 대한 심판을 청한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:2:10",
+      "textSha256": "3f95e7c0f86f0ed5604878119b040dee969e475af53eea047143cc0296d4135e",
+      "status": "exclude",
+      "reason": "하나님의 위엄을 피해 바위와 흙에 숨는 구체 심판 장면으로 단순히 불편한 마음을 쉬며 생각하는 선택과 목적이 다르다.",
+      "contextNote": "교만한 이들에게 다가올 하나님의 위엄 앞의 두려움을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:2:11",
+      "textSha256": "3a8d7242cc2ed076248283ced67263e125125dc9aa010b4fb82de16399f254c7",
+      "status": "candidate",
+      "reason": "자기를 높이는 마음도 내려놓게 된다는 대비가 먼저 사과하면 진다는 체면의 부담을 돌아보게 한다.",
+      "contextNote": "교만한 인간의 낮아짐과 하나님만 높아짐을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H027",
+          "clue": "먼저 낮추는 말을 패배로만 보는 체면을 놓을 여지를 읽는다.",
+          "friction": "하나님의 높임과 인간의 낮아짐이 원문이다. 특정 친구가 교만해서 벌받는다고 예고하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:2:12",
+      "textSha256": "16af3462cf00662722eaf3849741dbbfb10772f752bb4f887536b01e1cf5a312",
+      "status": "hold",
+      "reason": "교만을 낮추는 날의 무게는 사과의 체면과 닿지만 심판 대상들을 이어 열거하는 도입이어서 현재 내 행동으로 읽기에는 맥락 부담이 있다.",
+      "contextNote": "높아진 모든 것에 임할 날을 선언하고 대상을 나열하기 시작한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H027",
+          "clue": "높아지려는 마음을 돌아본다.",
+          "friction": "뒤의 여러 심판 대상을 잇는 도입이어서 작은 사과의 망설임에 그대로 놓는 부담이 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:2:13",
+      "textSha256": "a48efce52ad52be0fc8f7bddc61c79941f20cdca4cedc83c033759e30dba6610",
+      "status": "exclude",
+      "reason": "백향목과 상수리나무의 지명 목록으로 무엇이 임하는지는 앞 절에 걸려 있어 독립된 선택 실마리가 없다.",
+      "contextNote": "높고 강한 것에 대한 심판 목록의 나무들이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:2:14",
+      "textSha256": "69e606a3fe74656d7588f1d4d5465bce4c6e58becabdb06455852800bab45a3b",
+      "status": "exclude",
+      "reason": "높은 산과 작은 산만 이어 나열하여 행위와 판단을 앞 절에서 빌려야 한다.",
+      "contextNote": "심판을 받을 높은 것들의 산 목록이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:2:15",
+      "textSha256": "043fb304c15e0614e86b734503da6c710592e8a55807e90828dfc611937f2f18",
+      "status": "exclude",
+      "reason": "망대와 성벽이라는 대상 목록일 뿐 현재 방어와 도움 중 무엇을 고를지 가를 말은 없다.",
+      "contextNote": "강함을 상징하는 건축물의 목록을 이어 간다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:2:16",
+      "textSha256": "d5d719402eb582685327705b237598dec0899a6d7d9d7e4add9c046a06c32cbe",
+      "status": "exclude",
+      "reason": "배와 조각물에도 임한다는 말은 앞의 심판의 날과 목록을 알아야 하며 현재 구매나 교역의 판단을 독립적으로 주지 않는다.",
+      "contextNote": "무역과 아름다운 물건까지 높은 것들의 심판 목록에 넣는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:2:17",
+      "textSha256": "c38b11001be9f61b0f5a06a011ec31288d48faa181b74d9f27e1b634b695e930",
+      "status": "candidate",
+      "reason": "자고한 마음의 낮아짐과 다른 기준의 높임이 사과를 패배로만 보는 자존심을 돌아보게 한다.",
+      "contextNote": "인간의 교만이 낮아지는 날의 주제를 다시 반복한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H027",
+          "clue": "내가 높아 보여야 한다는 마음 외의 기준을 생각한다.",
+          "friction": "친구의 승리나 내 처벌을 하나님이 정했다는 사실로 만들지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:2:18",
+      "textSha256": "7cfb8ee4286427ab8f3f0360ac4ac5e74b8d91990ad45df9e7211faff6da4bca",
+      "status": "hold",
+      "reason": "의지하던 것이 사라지는 한계는 소유 욕구와 닿을 여지가 있으나 우상의 소멸을 현재 제품 교체 여부와 연결하려면 의미를 옮겨야 한다.",
+      "contextNote": "하나님의 날에 우상들이 완전히 없어짐을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H006",
+          "clue": "소유를 최종 의지처로 만들지 않을 여지를 생각한다.",
+          "friction": "우상이 없어짐은 기기의 가치가 사라졌다는 뜻이 아니며 현재의 실제 예배 여부도 알 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:2:19",
+      "textSha256": "607d296ee4b32991d4321f6bb5bc100ae468839cacee6b133246da8e73ffcbd3",
+      "status": "exclude",
+      "reason": "땅이 진동할 때 동굴로 피하는 사람들의 모습으로 두 현실 선택의 부담을 가를 실마리보다 심판 때의 공포가 중심이다.",
+      "contextNote": "하나님의 위엄 앞에서 사람들이 숨는 장면을 그린다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:2:20",
+      "textSha256": "a13c48e369c2cd17e26c6c199959d2b47328f6d860e8d20ffc2991cf1dee0be6",
+      "status": "hold",
+      "reason": "귀한 금은도 놓는 장면은 필요 없는 희소품을 놓칠 아쉬움과 닿지만 숭배하던 우상을 버리는 상황과 뒤의 도피를 알아야 한다.",
+      "contextNote": "심판의 날에 귀한 재료의 우상도 짐승에게 버린다고 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H008",
+          "clue": "귀하고 희소하다는 이유만으로 계속 붙들지 않을 가능성을 본다.",
+          "friction": "심판의 날에 우상을 버리는 문맥이므로 현재 주문을 취소하지 않으면 재앙이 온다고 읽어서는 안 된다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:2:21",
+      "textSha256": "f42f610a5ab5a06716719a53c0ed2be9a2a43f3d65c8e9a0f28d153872786f2f",
+      "status": "exclude",
+      "reason": "바위굴에 숨어 영광을 피하는 행동이 앞의 심판에 대한 반응이어서 현재 계획이나 구매의 대처로 옮길 조건이 없다.",
+      "contextNote": "땅을 진동시키는 하나님의 위엄 앞에 숨는 모습을 반복한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:2:22",
+      "textSha256": "5ff81047e11d280e6e09d92721bb8b94fc439122de56b2eb03357348b1e2369f",
+      "status": "candidate",
+      "reason": "남의 힘과 판단도 유한하다는 말이 모든 주변 의견에 나를 맡길지 내 중요한 기준을 잡을지에 닿는다.",
+      "contextNote": "심판 앞에서 호흡이 짧은 인간을 최종 의지처로 삼지 말라고 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H064",
+          "clue": "사람들의 의견을 내 삶의 전부를 정하는 최종 힘으로 삼을지 돌아본다.",
+          "friction": "원문은 하나님 대신 인간을 의지하는 문제다. 사람의 존엄을 낮추거나 필요한 조언과 의료 도움까지 거부하라는 말로 쓰지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:3:1",
+      "textSha256": "ff5de62f4ff0b209e0a849e5c4a238001e6f2e0cbb65d4b1b7b3fba29fd2eb45",
+      "status": "exclude",
+      "reason": "도성의 양식과 물을 제거하는 심판의 도입이라 현재 예산의 부족이나 식사의 선택으로 바꾸면 박탈의 원인을 새로 만들게 된다.",
+      "contextNote": "유다와 예루살렘이 의지하는 자원과 사람을 잃는 일을 연다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:3:2",
+      "textSha256": "0540d76f7a2cf7cd25877cb9eeaf0640ac4389114f00b399c13f46600698f93f",
+      "status": "exclude",
+      "reason": "용사와 재판관과 선지자 등 제거될 사람들의 목록으로 독립적인 역할 판단이나 행동은 없다.",
+      "contextNote": "앞에서 제거하겠다는 선언의 인물 목록이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:3:3",
+      "textSha256": "82942412bc96a7be2dd690665372b994c8b232a3a67fef78e52c9a1de44b5b3d",
+      "status": "exclude",
+      "reason": "관리와 장인과 술객의 제거를 이어 말하나 그리하실 것의 뜻은 앞에 의존해 생활의 조언 상대를 구별하는 기준이 서지 않는다.",
+      "contextNote": "도성이 잃을 지도자와 기능인의 목록을 마친다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:3:4",
+      "textSha256": "3c689fc78b6e972b530220dbad765a83241853fc950a0f198ba21319926fb74a",
+      "status": "hold",
+      "reason": "경험 없는 통치의 문제가 초보 지원의 두려움과 관련될 수 있으나 아이들이 다스리는 나라의 혼란을 현재 능력 부족의 증거로 삼을 수 없다.",
+      "contextNote": "질서를 잃은 백성에게 미숙한 통치가 임함을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "맡을 역할에 실제 준비가 어떤지 살필 여지는 있다.",
+          "friction": "처음 해 보는 사람 모두가 무능하다는 뜻이 아니며 현재 지원자의 능력과 공동체 조건은 알려지지 않았다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:3:5",
+      "textSha256": "02fd58309391bfcc820146c8fa7454fbd72271c19999364e27ee86740a10b48d",
+      "status": "hold",
+      "reason": "관계의 힘이 해를 줄 수 있다는 관점은 있으나 온 백성의 상호 학대와 신분 질서의 붕괴를 반복 약속 위반에 옮기는 범위가 크다.",
+      "contextNote": "백성이 서로 잔해하고 세대와 지위의 갈등이 일어남을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H029",
+          "clue": "관계 안에서 실제 나를 해치는 부분을 가볍게 넘기지 않는다.",
+          "friction": "현재의 한 관계를 사회 전체의 폭력과 세대 갈등에 대응하려면 해석이 많이 필요하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:3:6",
+      "textSha256": "00fffbba28ca0472811824c7baf54227026b0782041ea5b23640da8efb2aafa2",
+      "status": "hold",
+      "reason": "조금 자원이 있어 보인다는 이유로 모두 맡기려는 요청은 과부하와 닿지만 이 절은 멸망한 공동체의 부탁만 담고 응답이 없다.",
+      "contextNote": "무너진 백성이 형제를 붙잡아 관장이 되어 달라고 요청한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H044",
+          "clue": "남이 맡기고 싶어 하는 양과 내가 감당할 역량을 나눠 생각한다.",
+          "friction": "현재 업무가 나라의 멸망 같은 위기라고 가정할 수 없고 거절의 응답은 다음 절에 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:3:7",
+      "textSha256": "2769d1c58f1c99764f488e59f805ede63d47878dcc87d966be35b06df8b15c6f",
+      "status": "candidate",
+      "reason": "나에게 회복시킬 자원과 능력이 없다고 공개적으로 말하는 모습이 새 부탁에 내 한계를 말할지에 닿는다.",
+      "contextNote": "관장으로 세우려는 요청에 양식과 옷도 없는 자신의 역량을 밝히며 거절한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H044",
+          "clue": "구할 힘이 없는 부탁에 내 자원과 한계를 솔직히 말할 수 있다.",
+          "friction": "나라를 회복시킬 지도자 요청이라는 큰 장면이다. 현재 사용자가 실제 무일푼이거나 전혀 무능하다고 판정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    }
+  ]
+}
