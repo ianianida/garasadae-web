@@ -1,0 +1,703 @@
+{
+  "bookCode": "1SA",
+  "corpusSha256": "f8d5c8b377e243b05fb884b4a6965d2c06a95de74b64a716ee4b95989d61e971",
+  "criteriaVersion": "garasadae-corpus-2026-10-08-v1",
+  "reviewer": "Codex review_gen_2ki",
+  "method": "direct-codex-reading",
+  "entries": [
+    {
+      "id": "KRV:1SA:1:1",
+      "textSha256": "28232270873efdeab5434dcb7e535171b649955d4f618a843cbaff72156a4a26",
+      "status": "exclude",
+      "reason": "A030의 세대와 비교해도 엘가나의 거주지와 오대 계보를 소개할 뿐 지금 몸에 맞춰 역할을 나눌 행동 단서는 없다.",
+      "contextNote": "엘가나의 출신과 조상들을 소개한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:1:2",
+      "textSha256": "96b8493b1fdce4d956f06b08aa96014b31acf6b9180f4b59c6efeb9b1090ecab",
+      "status": "hold",
+      "reason": "G14에서 자녀 문제의 고통은 떠오르지만 두 아내 중 한 명의 무자녀 상태를 대비하는 배경으로 현재 치료를 지속하거나 쉴지의 실마리는 아직 없다.",
+      "contextNote": "한나와 브닌나의 자녀 유무를 대조해 사건 배경을 만든다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:1:3",
+      "textSha256": "3693eca628b804a4d7a29142535399ecf5c77ee785a307ed57c42d1ff90cc5a8",
+      "status": "hold",
+      "reason": "A035에서 하나님께 돌아가는 행동은 있지만 매년의 제사와 두 제사장 신원 소개가 붙어 복잡한 선택을 앞두고 자기 마음을 잠시 살피는 방향은 간접적이다.",
+      "contextNote": "엘가나 집안의 연례 실로 예배와 당시 제사장들을 소개한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:1:4",
+      "textSha256": "e969472369f8cc0d68cd5caa810893128955d922b22f797510f356385f324cf0",
+      "status": "hold",
+      "reason": "A021에서 각 사람에게 몫을 주는 행동은 보이나 아내와 자녀에게 제물을 준다는 미완 서술로 같은 노동의 보상을 공평히 나눌 기준은 담지 않는다.",
+      "contextNote": "엘가나가 제사의 분깃을 가족에게 나눠 준다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:1:5",
+      "textSha256": "e2fd43b0a38eade3a0deaf5e1e6c5bb3a6f2659ccb66ecaff93fd22713fc1615",
+      "status": "hold",
+      "reason": "A021에서 배분 차이는 보이지만 사랑하는 아내에게 갑절 주는 편애와 불임의 배경이므로 같은 일을 한 동료에게 관리자라는 이유로 더 가져갈 근거가 아니다.",
+      "contextNote": "엘가나가 한나를 사랑해 특별한 몫을 주지만 자녀는 없었음을 설명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:1:6",
+      "textSha256": "2e764bbd84f77003cf1a6778af80ef736e9e7ea65421458cf9a131b1fb0f4575",
+      "status": "hold",
+      "reason": "H029에서 실제로 상대를 괴롭히는 행동은 있지만 불임을 하나님이 막으신 일로 설명하는 원인과 감정 상태만 있고 대처의 실마리는 아직 없다.",
+      "contextNote": "브닌나가 한나의 무자녀 상태를 이용해 격동시킨다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:1:7",
+      "textSha256": "11aee65e5e6d1a1dfe3a10bfaaf8f1b54125ebb203b6f38e24a262ca3f50458a",
+      "status": "candidate",
+      "reason": "H029에서 해마다 되풀이되어 울고 먹지 못할 만큼 된 침해의 실제 패턴을 보고 같은 설명만 또 기대할지 재고할 수 있다.",
+      "contextNote": "연례 예배 때마다 반복된 브닌나의 괴롭힘과 한나의 반응을 서술한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H029",
+          "clue": "해마다 같은 괴롭힘으로 일상까지 무너진 모습을 보고 한번 더 부드럽게 말할 기대보다 이미 확인된 반복을 기준으로 거리를 살필 수 있다.",
+          "friction": "불임을 이용한 가정 내 괴롭힘이다. 현재 사용자에게 불임이나 같은 신적 원인을 붙이지 않고 실제 반복 침해만 대조한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:1:8",
+      "textSha256": "b4dd9350a50fac0be611eeb502e10b55bf6ae580f554c859e954ec759b654d86",
+      "status": "hold",
+      "reason": "A013에서 슬픔을 묻는 관심은 보이지만 내가 열 아들보다 낫지 않느냐는 남편의 기준이 후반에 있어 친구가 실제 원하는 도움을 먼저 듣는 말과는 차이가 있다.",
+      "contextNote": "엘가나가 한나의 눈물과 식사 거부를 묻고 자신의 사랑으로 위로하려 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:1:9",
+      "textSha256": "09447dc5e3a870a72557cb0620b76ea3d8cf34b76ac681fa61c44a66cfe7593a",
+      "status": "hold",
+      "reason": "A035에서 자리를 일어나 마음을 돌리는 모습은 있지만 한나가 일어나고 엘리가 앉아 있는 위치만 기록해 기도의 실마리는 다음 절을 읽어야 한다.",
+      "contextNote": "식사 뒤 한나와 제사장 엘리의 위치를 소개한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:1:10",
+      "textSha256": "f399973c575fc6f8cd0ff026b8ac5fc84b74fe600dd3a082253a85eccfc9c949",
+      "status": "candidate",
+      "reason": "A035에서 괴로운 마음을 하나님 앞에 솔직히 드러내는 행동이 다른 조언만 늘리기 전 내 마음을 살필 단서가 된다.",
+      "contextNote": "한나가 마음의 괴로움을 기도와 통곡으로 아뢴다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A035",
+          "clue": "괴로운 마음을 하나님께 솔직히 드러낸 모습에서 남의 답을 더 모으기 전에 내 혼란과 바람을 조용히 살필 수 있다.",
+          "friction": "통곡하는 한나의 상황이고 뒤에 특정 출산 응답이 있다. 같은 감정 표현이나 같은 결과를 모든 사용자에게 요구하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:1:11",
+      "textSha256": "cc1f401a314e8e64666faa28b05bb48cc0236c301b30b8e13241f2f5a6a7b4f5",
+      "status": "hold",
+      "reason": "G14에서 고통을 솔직히 아뢰는 마음은 있으나 아들을 주면 평생 바치겠다는 특정 출산 서원과 나실인 규례가 붙어 현재 치료의 결과나 필요한 대가를 같은 것으로 만들 수 없다.",
+      "contextNote": "한나가 아들의 출생과 봉헌을 조건으로 서원한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:1:12",
+      "textSha256": "a53e115eb7e0e4f48e60f86d8de3200cc1eb2c819e63e6a2e66a084e211c44e3",
+      "status": "hold",
+      "reason": "H030에서 보이는 것만 주목하는 태도를 돌아볼 수는 있지만 엘리가 입을 보았다는 도입뿐으로 어떤 해석이 잘못인지 이 절 안에는 없다.",
+      "contextNote": "오래 기도하는 한나의 입술을 엘리가 지켜본다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:1:13",
+      "textSha256": "2ab36baca61cb60a73967c1895ccd8e4c88ce7edb0719f659d65a75165a7f8fb",
+      "status": "candidate",
+      "reason": "H030에서 실제 속사정과 겉모습으로 내린 추측이 어긋날 수 있음을 문장 자체의 대조에서 읽는다.",
+      "contextNote": "마음속 기도로 입술만 움직인 한나를 엘리가 취했다고 오해한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "입술만 움직이는 모습은 같아도 속사정은 추측과 달랐다는 대조에서 소문만으로 친구를 단정하지 않고 사실을 확인할 수 있다.",
+          "friction": "한나는 실제로 기도 중이었음이 밝혀진 사례다. 현재 친구의 결백이나 숨은 선의를 미리 확정하는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:1:14",
+      "textSha256": "e8a7ae40bea2d5ad8604814895eefd464cade16a6f05f7c53d1d2df350a334f2",
+      "status": "hold",
+      "reason": "H048에서 지적을 받아들이는 문제와 닿아도 여기의 금주 명령은 사실을 모르고 한 잘못된 지적이라 실제 누락이 확인된 사례와 같게 적용할 수 없다.",
+      "contextNote": "엘리가 술 취했다는 오해로 한나를 꾸짖는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:1:15",
+      "textSha256": "2fbdaf7e5b5dbbbbd86531ce2a0c83d4456e9a150f910f911e506049b526c466",
+      "status": "candidate",
+      "reason": "H026에서 공격적으로 맞서기보다 내 실제 상태와 감정을 존중하는 말로 직접 밝히는 구체 단서가 있다.",
+      "contextNote": "한나가 술이 아니라 슬픈 심정을 하나님께 토한 것이라고 해명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H026",
+          "clue": "그렇지 않다고 차분히 말하고 내 마음의 상태를 직접 설명한 응답에서 불편함을 감추거나 폭발시키는 대신 표현할 방향을 읽는다.",
+          "friction": "술 취했다는 명시적 오해를 받았던 상황이다. 현재 친구에게 악의가 있었다고 채우지 않으며 반복 침해 H029에 같은 설명만 다시 하라는 뜻도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:1:16",
+      "textSha256": "b1d71e5441372c93f070835b907ca1c4c2e409ca503d549f47d68012bc76e80a",
+      "status": "candidate",
+      "reason": "H026에서 나를 나쁘게 단정하지 말아 달라고 말하면서 원통한 마음을 설명하는 태도가 불편함을 숨기지 않을 단서가 된다.",
+      "contextNote": "한나가 엘리에게 자기 기도의 원인인 슬픔과 격동을 더 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H026",
+          "clue": "나를 악하게 단정하지 말아 달라고 말하면서 왜 괴로운지를 설명하는 모습에서 상대에게 내 마음을 존중하는 말로 알릴 수 있다.",
+          "friction": "실제 술 오해를 해명하는 한나의 말이다. 현재 사용자가 아무 잘못도 없다고 확정하거나 상대의 모든 지적을 부정하는 수단으로 쓰지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:1:17",
+      "textSha256": "1172d0174d2e4a4a68e34671f5a3296517a090ed42a6ce783578e188a3357d74",
+      "status": "candidate",
+      "reason": "H056에서 결과를 아직 받기 전에도 평안히 일상으로 돌아갈 수 있다는 방향을 축복의 말에서 읽는다.",
+      "contextNote": "엘리가 오해를 푼 뒤 한나의 기도가 응답받기를 바라며 평안히 보내 준다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H056",
+          "clue": "구한 결과를 아직 받기 전에도 평안히 가라는 축복에서 결과만 붙들고 멈추기보다 오늘의 생활로 돌아갈 여지를 읽는다.",
+          "friction": "기도가 허락되기를 바라는 축복이지 현재 검사 결과나 치료가 반드시 좋다는 예언은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:1:18",
+      "textSha256": "62f78ae19bf118c94a53a1e249c315446e35bc0dd5cfef04146dce0b765007f2",
+      "status": "candidate",
+      "reason": "H056에서 결과가 아직 나오지 않았어도 먹고 자기 생활을 돌보는 행동이 걱정만 반복하지 않을 구체 실마리가 된다.",
+      "contextNote": "한나가 기도와 축복 뒤 돌아가 먹고 얼굴의 수심을 던다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H056",
+          "clue": "기도 뒤 실제로 먹고 자기 생활을 돌보는 행동에서 알 수 없는 결과를 반복 상상하는 대신 지금 일상을 챙길 수 있다.",
+          "friction": "한나의 실제 마음 변화다. 슬픔이 계속되면 믿음이 부족하다고 낙인찍거나 현재 검사 결과가 안전하다고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:1:19",
+      "textSha256": "ede453bfd131141c5d188565c82cf194bb88b41887a94da585dae4273cf224bf",
+      "status": "hold",
+      "reason": "G14에서 하나님이 생각하신다는 희망은 있으나 부부의 동침과 뒤 임신으로 이어지는 특정 결과의 문맥이라 현재 치료도 같은 신체 결과를 낸다고 보장할 수 없다.",
+      "contextNote": "엘가나 집안이 예배 뒤 돌아오고 하나님이 한나를 돌보신다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:1:20",
+      "textSha256": "d68a477c40f35812d4574cc6f618a1218868fe35b98e40bda23220f067bf8b9a",
+      "status": "hold",
+      "reason": "G14에서 기도의 성취는 보이지만 임신과 아들 출생이라는 확정된 결과이므로 지금의 미확인 치료 결과를 좋다고 확정하는 첫 결과로 옮길 수 없다.",
+      "contextNote": "한나가 사무엘을 낳고 기도로 얻었다는 이름을 준다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:1:21",
+      "textSha256": "6c8dc7f35dcf9b6d01752867de51651f6105973a906998a8b53fc44dfece3393",
+      "status": "exclude",
+      "reason": "H011의 약속 참여와 비교해도 온 집이 매년 제사에 올라갈 때라는 미완 배경으로 피곤한 사용자가 선약을 어떻게 볼지의 기준은 없다.",
+      "contextNote": "가족의 다음 연례 제사를 한나의 다른 일정과 대조할 준비를 한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:1:22",
+      "textSha256": "c9618c4b6f3a0b7a86435bc414c495ba07477c4b30e4b746c22792205b0e0938",
+      "status": "candidate",
+      "reason": "H062에서 이전의 일정을 억지로 반복하기보다 실제 조건에 맞춰 이행 시점을 조정하는 구체 실마리가 있다.",
+      "contextNote": "한나가 아이의 젖을 뗀 뒤 데려가겠다며 이번 연례 방문은 미룬다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H062",
+          "clue": "매년 하던 일정도 실제 조건이 준비될 때로 조정하는 모습에서 바뀐 계획을 받아들일 선택의 여지를 읽는다.",
+          "friction": "젖 뗌 뒤의 서원 이행이라는 구체 조건이다. 현대에 이미 오늘 마감이나 날짜가 정해진 약속을 자동으로 미뤄도 된다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:1:23",
+      "textSha256": "63eed2458298cf5c3c600afffe9e958ae678bc4c511c1a4c53f56186871c27a1",
+      "status": "candidate",
+      "reason": "H062에서 달라진 조건을 존중하며 기다리는 방향이 정해 둔 방식을 고수할지의 부담에 닿는다.",
+      "contextNote": "엘가나가 한나의 판단을 존중해 아이가 젖 뗄 때까지 기다리게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H062",
+          "clue": "실제 상황에 맞춰 기다리는 판단을 가족이 존중하는 모습에서 원래 방식만 강행하지 않고 조정할 수 있다.",
+          "friction": "어린아이 양육과 하나님의 약속에 관한 문맥이다. 현재 바뀐 일정이 반드시 같은 좋은 결과를 낸다고 보장하거나 다른 사람의 동의를 미리 확정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:1:24",
+      "textSha256": "01d459e65e4b5286f5d5b82593921de972df4e8f49508eae9c99d6fd3b33cab0",
+      "status": "hold",
+      "reason": "H011에서 약속한 일을 때가 되어 이행하는 모습은 있지만 여러 제물과 어린아이의 성전 봉헌이 중심이라 보통 봉사 약속에 대한 피로와 같은 무게로 놓기 어렵다.",
+      "contextNote": "한나가 젖 뗀 사무엘과 제물을 실로로 데려간다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:1:25",
+      "textSha256": "daf813f5bdf8994e20062d3210ed2be4d3316e0d990f1bdd33131c4b589d3e78",
+      "status": "exclude",
+      "reason": "H048의 지적 이행과 비교해도 수소를 잡고 아이를 엘리에게 데려가는 제의 과정의 연결절로 실제 업무 누락을 수정할 선택과는 다르다.",
+      "contextNote": "가족이 제사를 드리고 사무엘을 엘리에게 데려온다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:1:26",
+      "textSha256": "cd7c467813be45226d1f5023aa2ba7dc01481100963b741a097a948bd4222ffe",
+      "status": "hold",
+      "reason": "A012에서 도움을 준 사람을 다시 찾는 모습은 있으나 이전에 기도하던 자신을 소개하는 말뿐으로 감사 행동을 더할지의 부담은 뒤 진술에 달려 있다.",
+      "contextNote": "한나가 엘리에게 예전에 기도하던 여자라고 자신을 밝힌다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:1:27",
+      "textSha256": "ae2167e8194b99a74a6ef12b7312cb85166ecb18446a5babe96a19b618e9149e",
+      "status": "hold",
+      "reason": "A012에서 받은 응답을 기억하는 감사는 있으나 아이를 얻었다는 고백 자체여서 이미 말로 감사한 친구에게 어떤 행동을 더할지의 실마리는 간접적이다.",
+      "contextNote": "한나가 사무엘을 기도로 얻었다고 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:1:28",
+      "textSha256": "68da6b9bdb6b3ee96e3d5cd6b45cd76c6f194f8524c4ae9d4f1f525d1b4105be",
+      "status": "hold",
+      "reason": "G09에서 서원을 이행한 마음은 있지만 아이의 평생을 성전에서 보내게 한 봉헌으로 정상 물건 거래를 지키는 선택과 같은 의무로 일반화할 수 없다.",
+      "contextNote": "한나가 사무엘을 평생 하나님께 봉헌한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:2:1",
+      "textSha256": "36bacc4616f7b56a93ceea2a9c15e7979641f0acdd3b4dcb44a03ca29b787710",
+      "status": "candidate",
+      "reason": "A011에서 이전의 괴롭힘에만 마음을 묶기보다 실제로 받은 구원과 지금의 기쁨을 중심에 둘 방향을 읽을 수 있다.",
+      "contextNote": "한나가 응답 후 하나님 때문에 기뻐하고 대적 앞에서 회복된 마음을 노래한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A011",
+          "clue": "하나님이 베푸신 현재의 좋은 일을 기뻐하는 노래에서 과거 방해자를 다시 붙잡기보다 이미 달라진 삶에 마음을 둘 수 있다.",
+          "friction": "원수를 향해 입이 크게 열렸다는 승리 표현도 있다. 현대 동료를 조롱하거나 반드시 벌받으리라고 예언하는 적용은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:2:2",
+      "textSha256": "344db09d8d0a100f7fb57d52216282de2380a68f48d4d26a03cf2f688be7f149",
+      "status": "candidate",
+      "reason": "A036에서 내 삶의 의지할 반석을 누구로 여기는지 확인하며 다른 신앙 행위에 참여할지를 판단할 기준이 된다.",
+      "contextNote": "한나가 하나님만 거룩하고 반석 같은 분임을 찬양한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "A036",
+          "clue": "내 의지할 반석이 하나님이라는 고백을 통해 재미로 권유받은 점집 참여가 내 믿음과 맞는지 살필 수 있다.",
+          "friction": "신앙의 고백이며 현재 친구들의 의도나 점술의 실제 효과를 단정하거나 서비스가 행동 명령을 덧붙이지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:2:3",
+      "textSha256": "b95be9b7a4379d6b0490c0ba47b33ea99370db22f9431693ee5c8fa743342f5d",
+      "status": "candidate",
+      "reason": "H052에서 과장된 말보다 실제 행동을 기준으로 보라는 명시적 단서가 좋은 평가를 위한 부풀림을 멈출 이유가 된다.",
+      "contextNote": "한나의 찬송이 교만한 말과 하나님이 달아 보시는 행동을 대조한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "오만한 말보다 행동을 달아 보신다는 말에서 유리한 표현으로 부풀리기보다 실제 한 일을 그대로 보고할 수 있다.",
+          "friction": "하나님의 판단을 노래한 찬송이다. 현대 평가자가 모든 사실을 알거나 과장 하나가 같은 신적 심판을 낳는다는 위협으로 만들지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:2:4",
+      "textSha256": "4d28173e47619df8af750904399cf0a3931cf6ae34dcb949e486f9e72a9cec42",
+      "status": "candidate",
+      "reason": "H041에서 지금 강해 보이는 크기만으로 내 가능성을 닫지 않을 용기를 넘어졌던 사람의 새 힘에서 읽을 수 있다.",
+      "contextNote": "하나님이 강자와 약자의 형편을 바꾸심을 활과 힘의 띠로 노래한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "넘어진 사람도 힘을 얻는 대비에서 지금 약해 보인다는 비교만으로 새 역할을 미리 포기하지 않을 용기를 읽는다.",
+          "friction": "강약의 역전을 노래하는 시적 표현이지 현대의 능력이 갑자기 완성되거나 경쟁자가 실패할 예언은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:2:5",
+      "textSha256": "5398a13f79845928ff55b86087037ca88b7fe2d40ae9ec744bd54d9c45cc3a7d",
+      "status": "hold",
+      "reason": "G02와 G14에서 형편이 바뀔 희망은 있으나 음식과 노동과 다산 및 쇠약을 한꺼번에 뒤집는 노래이므로 현재 생활비나 치료 결과를 좋다고 확정할 수 없다.",
+      "contextNote": "부와 빈곤 및 출산의 역전을 병렬로 노래한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:2:6",
+      "textSha256": "dc45a066b740c3af6282828442e1275474c8f2f468f9fcc6ecd5aa3442eee8b1",
+      "status": "hold",
+      "reason": "A036에서 생명의 주권이 하나님께 있다는 기준은 떠오르지만 죽음과 음부까지 주관하는 선언으로 연애 운세 동행의 구체 부담에 대한 첫 실마리는 간접적이다.",
+      "contextNote": "하나님이 삶과 죽음을 주관하심을 노래한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:2:7",
+      "textSha256": "c2abadc5c5793ea22cc4ddec947490f266d49bcba2f23fce4ca43e3485af00c0",
+      "status": "candidate",
+      "reason": "H047에서 돈과 지위가 한 방향으로 고정돼야만 옳은 선택이라는 생각을 내려놓고 내 가치와 함께 살필 실마리가 있다.",
+      "contextNote": "가난과 부 및 낮음과 높음이 하나님께 달렸다고 노래한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H047",
+          "clue": "부와 낮음이 고정된 유일한 잣대는 아니라는 신앙의 말에서 소득 가능성과 내가 소중히 여기는 일을 함께 살필 수 있다.",
+          "friction": "하나님의 형편 역전을 말할 뿐 현재 새 수입이나 일자리가 준비됐다고 하지 않는다. 실제 생활비 부족 G02를 믿음으로 없애는 후보로 확장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:2:8",
+      "textSha256": "31f271e96c684a013ea26b1fad426b92a3c87da7a3b4c54f2763647539b81527",
+      "status": "hold",
+      "reason": "H041에서 낮은 자리도 바뀔 희망은 있지만 가난에서 귀족의 영광으로 올리는 큰 역전과 땅의 기둥이라는 시적 우주관이 붙어 실제 새 역할의 선택으로는 마찰이 크다.",
+      "contextNote": "빈곤한 사람을 높이시는 하나님과 세계의 주권을 함께 노래한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:2:9",
+      "textSha256": "2f0722d1a6880d6950cc70d7ca216ebd06cb0eb2aa64c3a35eba82a8de685ff2",
+      "status": "candidate",
+      "reason": "G15에서 힘의 비교만으로 원하던 역할을 포기하지 않고 하나님을 의지할 단서가 힘으로만 이기지 못한다는 말에 있다.",
+      "contextNote": "거룩한 자를 지키고 악인을 잠잠하게 하는 하나님의 힘을 노래한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G15",
+          "clue": "힘만으로 이기는 것이 아니라는 말에서 내 능력의 크기만 비교하기보다 하나님을 의지해 원하던 역할을 시도할 수 있다.",
+          "friction": "악인의 흑암 심판도 포함된 문장이다. 현재 동료를 악인으로 정하거나 역할 결과를 보장하는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:2:10",
+      "textSha256": "2e31f12512668e005e1543ae58a4d0e8fb4d5004ee385d744a119db3483cef60",
+      "status": "hold",
+      "reason": "G15에서 하나님이 힘주신다는 격려는 있으나 대적의 산산조각과 우뢰 심판 및 왕의 뿔이라는 긴 승전 그림이 붙어 일반 역할의 두려움에 바로 연결하기는 과중하다.",
+      "contextNote": "하나님의 대적 심판과 기름 부음 받은 왕의 높아짐으로 찬송을 마친다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:2:11",
+      "textSha256": "40d63797c9c39f6b82a3dee11e12194370df684686a2cb70bb5a18f56300591a",
+      "status": "candidate",
+      "reason": "A020에서 가족이 집으로 돌아가도 나는 새 자리에서 맡은 삶을 살아갈 수 있다는 모습을 읽을 수 있다.",
+      "contextNote": "엘가나가 돌아가고 사무엘은 엘리 앞에 남아 하나님을 섬긴다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A020",
+          "clue": "가족은 집으로 돌아가고 한 사람은 새 자리에 남아 자기 일을 하는 모습에서 익숙한 보호 밖의 준비된 기회로 나아갈 수 있다.",
+          "friction": "어린 사무엘의 평생 성전 봉헌 이야기다. 성인 사용자의 선택권을 지우거나 낯선 곳의 보호와 성공을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:2:12",
+      "textSha256": "305d1e3b827f2047b015cc80997b1b330ab60951c934a4e8e5ef87a9804feebb",
+      "status": "hold",
+      "reason": "H030에서 직함만으로 사람을 다 알 수 없다는 생각은 들지만 엘리 아들들의 불량함을 선언하는 소개여서 현재 친구의 소문을 확인하는 행동은 뒤 사실을 더 읽어야 한다.",
+      "contextNote": "제사장 아들들의 행실과 신앙 부재를 다음 사건에 앞서 평가한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:2:13",
+      "textSha256": "ceaae8b608b59aa001618b1ae2ef19248972c514412e9d00ce0633595ade01d3",
+      "status": "exclude",
+      "reason": "A021의 몫 배분과 비교해도 고기를 삶는 중 갈고리를 들고 오는 사환의 습관 도입뿐으로 공정한 배분의 기준은 아직 없다.",
+      "contextNote": "제사장 집안이 제물을 취하는 방식을 소개한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:2:14",
+      "textSha256": "974cff958089bc9f6385a4e4d9c6540107f49a954a01a0fd9a755cf1996cd842",
+      "status": "hold",
+      "reason": "A021에서 공동 제물을 사적으로 취하는 문제는 있으나 솥과 갈고리의 관습을 알아야 부당성이 읽혀 현재 같은 노동 보상을 나눌 기준으로는 설명이 필요하다.",
+      "contextNote": "사환이 갈고리로 고기를 꺼내 제사장이 취하는 방식을 설명한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:2:15",
+      "textSha256": "ce3a2518bcea04df6fd16d350b43a1e1b40a245e78d77b5eb1de0c7842eb8b02",
+      "status": "hold",
+      "reason": "H029에서 정해진 순서를 무시한 요구가 시작되지만 기름을 먼저 태우는 제의 질서를 알아야 침해가 읽히므로 생활 경계의 첫 실마리로는 간접적이다.",
+      "contextNote": "제사장의 사환이 제사의 순서 전에 생고기를 요구한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:2:16",
+      "textSha256": "476e2cd0d9613ec51b8e273b3d2e202560c1bb37e1c730ad704375d17430694c",
+      "status": "candidate",
+      "reason": "H029에서 정당한 경계와 순서를 말해도 당장 내놓으라며 강제로 빼앗겠다는 반복 압박을 정상적인 부탁과 구별할 단서가 있다.",
+      "contextNote": "제사 드리는 사람의 타당한 요청을 사환이 무시하고 강탈을 위협한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H029",
+          "clue": "합리적인 순서를 말해도 당장 달라며 강제로 가져가겠다는 반응에서 이미 여러 번 무시된 경계를 다시 부드럽게 설명하는 일만으로 해결될지 살필 수 있다.",
+          "friction": "제물 강탈과 직접적인 폭력 위협이다. 현재 친구에게 같은 살상 의도나 종교적 죄를 가정하지 않고 명시된 반복 침해만 대조한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:2:17",
+      "textSha256": "08060312e8ee76577578f46eda35220935afb3cd44253b3416fa0d0e68ab350a",
+      "status": "hold",
+      "reason": "H048에서 잘못을 가볍게 보지 않는 기준은 있지만 제사를 멸시한 죄가 심히 크다는 종교적 평가여서 실제 업무 누락을 인정할 부담과 같은 무게로 놓기 어렵다.",
+      "contextNote": "제사장 아들들의 제물 강탈을 하나님 앞의 큰 죄로 결론낸다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:2:18",
+      "textSha256": "3ddf529f54441b6f21ff7583f7e9ef4729296e160a50bfb9c23606141a087e09",
+      "status": "candidate",
+      "reason": "G15에서 아직 작은 사람도 맡은 자리에서 섬기는 모습이 완벽한 사람이 될 때까지 도전을 미루지 않을 단서가 된다.",
+      "contextNote": "제사장 아들들과 대조해 어린 사무엘의 성전 섬김을 소개한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G15",
+          "clue": "어린 사람도 맡은 자리에서 섬긴 장면에서 완벽한 역량을 모두 갖춰야만 시작할 수 있다는 부담을 내려놓을 수 있다.",
+          "friction": "에봇을 입는 특정 성전 역할이다. 현대 자격이나 준비가 전혀 필요 없다거나 사용자가 사무엘처럼 임명됐다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:2:19",
+      "textSha256": "9076094c1066f2a817b5df41262c20b96864cf44d19f8a37b8cd0089d4c62aa2",
+      "status": "candidate",
+      "reason": "H007에서 마음을 전하는 선물이 크고 비싼 것만일 필요는 없다는 단서를 해마다 지어 주는 작은 옷에서 읽는다.",
+      "contextNote": "한나가 해마다 사무엘에게 작은 겉옷을 만들어 준다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H007",
+          "clue": "작은 겉옷을 만들어 전한 돌봄에서 가격 경쟁보다 실제 마음과 쓰임을 담는 선물을 선택할 수 있다.",
+          "friction": "어머니가 자녀에게 준 옷이며 작은 것이 반드시 싸다는 뜻은 아니다. 친구가 비싼 답례를 요구했다고 채우거나 정해진 예산을 대신 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:2:20",
+      "textSha256": "79b9a14482b16182077ca6c6b48ae222d6a004d18d342b8f74f950a921944e06",
+      "status": "hold",
+      "reason": "G14에서 기도의 복은 보이지만 바친 아들 대신 후사를 얻으라는 출산 축복이라 현재 치료 결과나 무언가를 주면 더 받는다는 거래로 일반화할 수 없다.",
+      "contextNote": "엘리가 엘가나 부부에게 사무엘 대신 다른 자녀의 복을 빈다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:2:21",
+      "textSha256": "7391ad5f6f3b3da2293972f08f9a470768a8413447d1cf90b5d56d4e77f1f483",
+      "status": "hold",
+      "reason": "G14에서 응답의 희망은 있지만 다섯 자녀를 실제 더 낳은 결과를 기록하므로 현재 치료도 같은 출산이나 회복을 얻는다는 보증으로 주기는 어렵다.",
+      "contextNote": "한나의 추가 자녀와 사무엘의 성장을 함께 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:2:22",
+      "textSha256": "434cc74a5c7ae40332d1221ea54b37fe4fa51b6424cafa694e4e1f8e97611ab6",
+      "status": "hold",
+      "reason": "H029에서 나쁜 행동을 듣는 상황은 있지만 노년 엘리와 회막 여인들의 성적 관계에 관한 보고만 있어 현재 반복 침해에 어떻게 대응할지의 실마리는 아직 없다.",
+      "contextNote": "엘리가 아들들의 제물 남용과 성적 행실을 알게 된다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:2:23",
+      "textSha256": "a6018bfb12d4193d0ec8b86c6ed49f7c2eb8efef79eaf0b311344688f2449393",
+      "status": "hold",
+      "reason": "H030에서 당사자에게 이유를 묻는 형식은 보이지만 이미 악행이라고 규정한 책망이므로 미확인 소문으로 친구를 대할 때 같은 전제를 쓸 수 없다.",
+      "contextNote": "엘리가 아들들에게 들은 악행을 책망한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:2:24",
+      "textSha256": "293544961c3578cbcf708f9a239ff66caf36c9e9bf108085a3a5f067c17652ec",
+      "status": "hold",
+      "reason": "H048에서 잘못된 행동을 멈추라는 지적은 있으나 백성까지 범과하게 하는 제사장들의 악행에 대한 말이라 작은 업무 누락을 그대로 종교적 죄로 키울 수 없다.",
+      "contextNote": "엘리가 아들들에게 나쁜 행실과 공동체에 미치는 영향을 지적한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:2:25",
+      "textSha256": "3a7a403ef4e7d27cc08baebff1c0e9c1b24468fcea84022656d8602c00408d52",
+      "status": "exclude",
+      "reason": "H029에서 계속 듣지 않는 문제는 있지만 하나님이 죽이려 뜻하셔서 듣지 않았다는 결말이 붙어 현대 친구의 반복 침해에 같은 죽음과 신적 원인을 부과할 수 없다.",
+      "contextNote": "아들들이 아버지의 책망을 거부한 일을 하나님의 심판 뜻과 연결한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:2:26",
+      "textSha256": "ff0cdb98fcea163c60eef21a51bb46d911f4783b8f2e94063c0084ccc0de8298",
+      "status": "candidate",
+      "reason": "G15에서 처음부터 완성된 사람이 아니라 점점 자라는 사람도 쓰임 받을 수 있다는 실마리가 있다.",
+      "contextNote": "사무엘의 성장과 하나님 및 사람의 은총을 아들들의 타락과 대조한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G15",
+          "clue": "점점 자라는 모습에서 처음부터 완성된 사람으로 보이려 하기보다 맡은 역할 속에서 배울 여지를 읽는다.",
+          "friction": "사무엘이 실제로 은총을 받은 역사다. 현대의 동료와 지도자가 반드시 좋아해 주거나 성공할 미래를 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:2:27",
+      "textSha256": "1a6a63f00863f67dc692251aca650633067db8e33e8f9771df25f7bf2b18205a",
+      "status": "hold",
+      "reason": "A011에서 지난 도움을 기억하는 질문은 있으나 애굽의 조상에게 나타난 신적 역사를 권면의 근거로 드는 도입이라 이미 좋은 팀에 옮긴 현재로 마음을 둘 실마리는 간접적이다.",
+      "contextNote": "하나님의 사람이 엘리 집안의 과거 부르심을 상기시킨다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:2:28",
+      "textSha256": "14e0e77bedfe4ea6c28927399c09ceb3085d054038295edfb2e3148b4102b27d",
+      "status": "hold",
+      "reason": "A009에서 정해진 역할과 몫은 보이지만 제사장 가문의 봉헌과 화제 분깃이라는 제도가 중심이어서 자발적 팀원의 일 분담으로 연결하려면 설명이 필요하다.",
+      "contextNote": "하나님이 엘리 조상에게 주신 제사장 직분과 양식을 열거한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:2:29",
+      "textSha256": "7d47d2d6d31d6cd0cad61621c6dfd617e1e45286eab9c68ec111e192243732bb",
+      "status": "candidate",
+      "reason": "A021에서 맡은 지위나 가족이라는 이유로 공동의 좋은 몫을 사적으로 더 취하는 일을 돌아볼 명시적 단서가 있다.",
+      "contextNote": "하나님이 제물을 멸시하고 아들을 더 높이며 가장 좋은 것으로 살찐 엘리를 책망하신다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A021",
+          "clue": "맡은 자리와 가까운 사람을 앞세워 좋은 몫으로 자기만 살찌는가라는 질문에서 공동 돈을 관리자 몫이라 더 챙길지 돌아볼 수 있다.",
+          "friction": "하나님께 드린 제물과 제사장 가문의 남용에 대한 책망이다. 현재 사용자가 이미 횡령했다거나 같은 종교적 죄를 지었다고 낙인찍지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:2:30",
+      "textSha256": "4604321983c9b9bd56e339dc3f535f54e70b7491dccc81336c14d016fd313e8c",
+      "status": "candidate",
+      "reason": "A036에서 겉의 관계나 형식보다 내가 하나님을 실제로 존중하는지를 신앙 선택의 기준으로 읽을 수 있다.",
+      "contextNote": "제사장 가문의 기존 약속을 거두며 하나님을 존중하는 태도와 멸시를 대조한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A036",
+          "clue": "하나님을 존중하는지를 묻는 대조에서 주변의 재미보다 내가 지키는 믿음으로 점집 동행을 판단할 수 있다.",
+          "friction": "엘리 집안의 언약과 심판 문맥이다. 사용자가 참여하면 같은 가문 재앙을 겪는다고 예언하거나 친구들에게 악의를 붙이지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:2:31",
+      "textSha256": "d4c5a9e6e2a8b110dfba35c8cd5d0ac40c43c29c9817543a8d0fb6384bb1323b",
+      "status": "exclude",
+      "reason": "A030의 노년 고민과 비교해도 팔을 끊어 집안에 노인이 없게 하겠다는 가문 심판으로 현재 나이나 체력의 의미를 그런 벌로 채울 수 없다.",
+      "contextNote": "엘리 가문의 권세와 장수를 끊는 심판을 예고한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:2:32",
+      "textSha256": "66cd0bdee4da5df47f8ed016f9eabca688caf3dc8f8b9a44aabf45e80e47264d",
+      "status": "exclude",
+      "reason": "H040의 비교와 달리 다른 이들의 복 속에서 집안은 영원히 노인이 없으리라는 가문 심판이므로 친구 성취를 보고 내 가치를 평가하는 정상 고민과 같은 미래로 둘 수 없다.",
+      "contextNote": "이스라엘의 복과 엘리 집안의 상실을 대조해 경고를 이어 간다.",
+      "readability": "thinkable",
+      "connections": []
+    }
+  ]
+}
