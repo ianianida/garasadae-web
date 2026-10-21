@@ -4486,6 +4486,1913 @@
           "expectedEnough": "no"
         }
       ]
+    },
+    {
+      "id": "KRV:JHN:7:17",
+      "textSha256": "d578e1d345706298d42c9cc908db271627735f070d14fee5bdc7f51d1e5c1d31",
+      "status": "candidate",
+      "reason": "교훈이 하나님께로서인지 스스로 하는 말인지 구별하는 질문을 열어 둔다. 내 의견을 곧 하나님의 뜻이라 포장하려는 고민과 직접 맞닿는다.",
+      "contextNote": "예수의 교훈의 출처를 논하는 말이다. 마음이 원하는 느낌만 있으면 모든 해석이 신적 지시가 된다는 방법으로 만들지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C001",
+          "clue": "내가 스스로 말하는 것과 실제 받은 말씀을 같은 것으로 놓고 있지 않은지 분리할 수 있다.",
+          "friction": "하나님 뜻을 행하려는 태도와 예수의 교훈에 관한 말이다. 서비스가 개인 의견의 신적 출처를 인증하는 절차가 되지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:7:18",
+      "textSha256": "d12395d5adee4d7b23951a02759ffd0bdc1d456525ceba61e298e5d3b804d032",
+      "status": "candidate",
+      "reason": "자기 영광을 구하는 말과 보내신 이의 영광을 구하는 말을 구분한다. 동의를 얻을 내 욕심이 하나님 이름 뒤에 숨는지 살필 실마리다.",
+      "contextNote": "예수의 참된 교훈에 관한 설명이다. 좋은 의도를 말하기만 하면 내 의견에 불의가 없다고 인증하지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C001",
+          "clue": "하나님 뜻이라는 말로 실제 높이려는 것이 내 입장과 영향력인지 돌아볼 수 있다.",
+          "friction": "예수의 파송과 진실을 설명한다. 하나님을 위한다는 자기 선언만으로 타인의 검증과 이견을 막을 수는 없다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:7:19",
+      "textSha256": "f92b05b463fd0aab3c0275bd7e13881595b90885acaeaceeab8b852c4ccd15f7",
+      "status": "candidate",
+      "reason": "율법을 내세우면서 죽이려는 행동을 되묻는다. 옳음을 말하는 나의 실제 행동에도 같은 기준을 대는 실마리다.",
+      "contextNote": "예수가 자신을 죽이려는 이들의 불일치를 짚는다. 모든 사실 지적을 살해와 같게 두지는 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C009",
+          "clue": "상대 잘못을 조롱할 때 내가 지키겠다는 기준도 함께 어기고 있는지 살필 수 있다.",
+          "friction": "본문은 예수 살해의 실제 의도다. 동료 조롱을 같은 범죄라고 규정하지 않고 비판 명분과 내 행동의 일치를 본다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:7:20",
+      "textSha256": "55c3263d369062056208a7a9f29759c7e1a7d5c336cd3943ac3e977433481a42",
+      "status": "candidate",
+      "reason": "귀신 들렸다는 말로 문제 제기를 밀어내는 모습은 불편한 상대를 모욕하여 대화를 끝내려는 태도를 비춰 준다.",
+      "contextNote": "무리의 비난을 기록한 것이지 예수에 대한 사실 판정이 아니다. 앞에서 실제 살해 의도가 이미 드러났다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C009",
+          "clue": "상대의 말을 확인하기보다 모욕적인 이름을 덧붙여 통쾌함을 얻으려는지 멈춰 볼 수 있다.",
+          "friction": "예수에게 귀신 들렸다고 비난하는 장면이다. 사용자의 모든 반박이 모욕이라는 뜻은 아니며 실제 잘못의 확인은 별개다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:7:21",
+      "textSha256": "793f96007e5e7fb60f657029d74319894944275ad2d24dc8f924d42cf52f12c4",
+      "status": "hold",
+      "reason": "한 가지 일 때문에 괴이히 여긴다고 하지만 무엇을 했는지 이 절에는 나오지 않는다.",
+      "contextNote": "안식일 치유를 가리키는 말이다. 확인한 실수에 대한 동료의 지적과 자동으로 같게 두지 않는다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "반응의 크기와 실제 한 일을 나누어 볼 여지는 있다.",
+          "friction": "사용자는 실제 놓친 실수를 지적받았고 본문은 치유를 문제 삼는 이들에게 하는 말이다. 인정과 수정의 방향이 직접 드러나지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:7:22",
+      "textSha256": "655cd8abecd212b62e456533266e2268e55f6ce4a56f8d6d3dc108937d7b4bc0",
+      "status": "candidate",
+      "reason": "모세가 준 할례의 출처를 조상들에게까지 구별하는 괄호 설명은 정확한 귀속을 놓치지 않는 실마리다.",
+      "contextNote": "안식일 할례 관행을 들어 뒤의 치유 논증을 준비한다. 괄호를 잘라 출처 구분을 지우지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "대표적으로 알려진 사람만 말하기보다 시작과 실제 기여를 정확히 구분해 전할 수 있다.",
+          "friction": "할례의 기원과 관행에 관한 말이다. 현대 작업을 같은 종교 의식으로 만들지 않고 확인한 기여의 정확성과 연결한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:7:23",
+      "textSha256": "8068c1f4022da0424e8eaa4c60773e44e4a0aaecd631a3186244d9d890d16319",
+      "status": "candidate",
+      "reason": "규칙을 지키려 할례는 하면서 온몸의 회복에는 화내는 모순을 짚는다. 관리 기준이 실제 사람의 필요에 일관되게 적용되는지 살필 실마리다.",
+      "contextNote": "안식일 치유 논쟁이다. 할례나 안식일 전체를 무가치하다고 선언하지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C005",
+          "clue": "형식을 지킨다는 이유로 사람을 돕는 일을 막으면서 다른 예외는 허용하는지 돌아볼 수 있다.",
+          "friction": "예수의 전신 치유에 관한 말이다. 신입의 적응 어려움은 실제 들은 내용으로 다루며 규칙을 모두 버리라는 결론은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:7:24",
+      "textSha256": "0c37b9361b05b363fb4d48286bc098ef3d2d0503b640edf014441893e7799c76",
+      "status": "candidate",
+      "reason": "겉모양과 공의로운 판단을 분명히 구분한다. 평판만으로 관계를 정리하기보다 실제 사실을 살필 실마리가 직접적이다.",
+      "contextNote": "안식일 치유에 대한 판단에서 나온 말이다. 내가 이미 정한 결론을 공의라고 부르는 면허는 아니다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "겉에 보이는 인상이나 전달된 평판 대신 당사자의 말과 행한 일을 살펴 판단할 수 있다.",
+          "friction": "공의로운 판단은 친구가 반드시 무죄라는 뜻이 아니다. 확인한 사실이 불편해도 그대로 남긴다.",
+          "expectedEnough": "yes"
+        },
+        {
+          "scenarioId": "H048",
+          "clue": "지적받아 기분이 나쁘다는 인상과 실제 놓친 실수의 사실을 나누어 볼 수 있다.",
+          "friction": "지적자의 모든 말이 공정하다고 보증하지 않는다. 실제 놓친 부분을 인정하고 필요한 수정을 살피는 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:7:25",
+      "textSha256": "4c0e35ad96fd155225c88f078e5f5f6dcd911827ab7fb7f3f886495ded6942de",
+      "status": "hold",
+      "reason": "죽이려 하는 사람이 아니냐는 질문은 앞서 부인된 위협을 다시 드러내지만 이 질문 하나가 사실을 검증하는 절차는 아니다.",
+      "contextNote": "예루살렘 사람들의 대화다. 다수의 질문만으로 어떤 소문도 확정하지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "같은 사건에 대한 서로 다른 말이 있는지 확인할 수 있다.",
+          "friction": "질문의 내용과 실제 사실을 나눠야 한다. 친구 말을 듣기 전 관계를 결정할 충분한 기준은 이 절에 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:7:26",
+      "textSha256": "b8fde80f92843b292e9df6d3599f7586bf2eb6105897e2dcbf258ff3f2365cb6",
+      "status": "hold",
+      "reason": "당국자들이 침묵하니 그리스도로 아는가 하고 묻는다. 침묵의 이유가 아직 모른다는 점을 살필 여지는 있다.",
+      "contextNote": "청중의 추측성 질문이며 당국자의 실제 인정 선언은 아니다. 침묵으로 상대 마음을 확정하지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H037",
+          "clue": "겉으로 말을 안 한다는 사실과 속으로 무엇을 안다는 추측은 다를 수 있다.",
+          "friction": "이 절은 열린 질문이라 그 추측을 반박하는 설명까지 담지는 않는다. 동료에게 확인할지의 단독 방향은 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:7:27",
+      "textSha256": "b0958b98e973151e19bf53524377677b5f8ac86cd734034d6fb67e46ef6c9bd0",
+      "status": "candidate",
+      "reason": "어디서 왔는지 안다는 정보와 그리스도의 출처에 관한 기대를 결합해 결론짓는다. 일부 지식만으로 상대 설명을 닫는지 살필 실마리다.",
+      "contextNote": "곧 예수는 보내신 아버지를 말한다. 사람들에게 익숙한 지역 정보가 그의 출처를 전부 설명하지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "알고 있는 일부 사실과 내 기대를 합쳐 당사자의 말을 듣기도 전에 결론을 끝내는지 돌아볼 수 있다.",
+          "friction": "그리스도의 출처를 둘러싼 대화다. 현대 친구에게 같은 신비한 정체성을 부여하거나 소문이 거짓이라고 단정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:7:28",
+      "textSha256": "47519de4050fd2f517e709be04703937717876d0e5a4b12553145d88e3270a01",
+      "status": "hold",
+      "reason": "스스로 온 것이 아니라 보내신 분에게서 왔다고 밝힌다. 실제 파송 없는 자기 의견과는 조건이 다르다.",
+      "contextNote": "예수가 성전에서 자신의 출처를 설명한다. 상대가 하나님을 모른다고 몰아 내 의견을 강제하지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C001",
+          "clue": "개인적 주장과 실제 보내심의 구분을 살필 수 있다.",
+          "friction": "사용자에게 예수와 같은 파송이 주어졌다는 증거가 없다. 내 생각을 하나님의 뜻으로 포장하는 연결은 맞지 않는다.",
+          "expectedEnough": "no"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:7:29",
+      "textSha256": "88329959e175643d0f3252850cd80b1be6f0c7c6b200eb48d58bf3c7c4619f4f",
+      "status": "hold",
+      "reason": "보내신 이를 안다는 이유를 자신이 그에게서 났음과 보내심에 둔다. 사용자가 같은 지식의 근거를 갖는 것은 아니다.",
+      "contextNote": "예수의 고유한 관계 설명이다. 강한 확신만으로 하나님 뜻을 직접 안다고 주장하지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C001",
+          "clue": "안다고 말할 때 실제 근거가 무엇인지 구분할 수 있다.",
+          "friction": "사용자는 받은 말씀 없이 자기 의견을 가진 상태다. 예수의 출처를 자기 의견의 권위로 빌릴 수 없다.",
+          "expectedEnough": "no"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:7:30",
+      "textSha256": "9dec8260c3351b63390344abf5046f0d8b416c286d00757c3f1fc56969f86a7e",
+      "status": "hold",
+      "reason": "때가 이르지 않아 잡히지 않았다는 결과는 예수의 때를 말하지만 사용자의 위험이 사라지는 시기를 예고하지 않는다.",
+      "contextNote": "체포하려는 사람들의 의도와 실제 미실행이 함께 나온다. 위험 점검을 접어도 된다는 보증은 아니다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H013",
+          "clue": "타인의 위협적 의도만으로 모든 일이 즉시 결정되는 것은 아니라는 희망을 읽을 수 있다.",
+          "friction": "예수의 때에 관한 사건이다. 여행의 안전이나 아직 일어나지 않은 불편이 없어질 것을 확정하지 못한다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:7:31",
+      "textSha256": "94b165522de804c4bebc857e6653a5f5e504b21ac892c4cba51d6edc436d146d",
+      "status": "candidate",
+      "reason": "이미 행한 표적을 두고 더 많은 것을 기다려야 하는지 묻는다. 끝없는 추가 증거와 현재 충분한 근거를 구분할 실마리다.",
+      "contextNote": "예수를 믿게 된 무리의 질문이다. 수량이 많으면 모든 주장이 참이라는 일반 규칙은 아니다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H061",
+          "clue": "더 완벽한 답이 나타나기만 기다리는 동안 지금 실제 가진 근거를 보지 못하는지 살필 수 있다.",
+          "friction": "예수의 표적과 그리스도에 관한 믿음이다. 사용자의 필요한 확인을 생략하거나 어느 선택이 충분한지 서비스가 결정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:7:32",
+      "textSha256": "51861192692c4cd9ab2c2c174d271f51e20c632447cca716a9fd18f7077af173",
+      "status": "candidate",
+      "reason": "수군거림을 듣고 잡으려 사람을 보내는 반응은 전해진 말과 실제 듣고 판단하는 일을 구분하게 한다.",
+      "contextNote": "권력자들의 체포 시도다. 모든 절차나 제재가 부당하다고 일반화하지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "주변 말을 들었다는 이유만으로 당사자를 배제하는 행동부터 시작하고 있는지 돌아볼 수 있다.",
+          "friction": "예수에 대한 체포 사건이다. 사용자의 거리 두기를 체포와 같은 강도로 규정하지 않고 직접 들을 기회를 살피는 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:7:33",
+      "textSha256": "f6b5de53528d4c128c634575a9d9d2b6f26072c416d31113af09d4a2724f628f",
+      "status": "hold",
+      "reason": "조금 더 함께 있다가 보내신 이에게 돌아간다는 말은 동행의 유한함을 알린다. 이미 놓친 기회를 다시 붙잡을지의 답은 아니다.",
+      "contextNote": "예수의 떠남과 아버지께 돌아감이다. 사용자의 남은 시간이나 사망 시점을 예고하지 않는다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H060",
+          "clue": "현재 함께할 수 있는 시간이 영원히 같지 않을 수 있음을 생각할 수 있다.",
+          "friction": "사용자는 이미 놓친 기회 앞에 있다. 예수의 돌아감을 그 기회가 다시 열린다는 뜻으로 옮길 수 없어 연결이 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:7:34",
+      "textSha256": "daf596a4a01d854fbef9b1c4c78a092916c8260273a8901867ac8b7afb0b668b",
+      "status": "exclude",
+      "reason": "예수가 있는 곳에 올 수 없고 찾아도 만나지 못한다는 말은 그의 떠남에 관한 경고다. 놓친 일상 기회가 영구 금지됐다는 진단은 아니다.",
+      "contextNote": "아버지께 돌아감을 둘러싼 다음 질문의 원인이다. 개인의 재지원이나 관계 회복 가능성을 이 문장으로 닫지 않는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JHN:7:35",
+      "textSha256": "6002c52d7a4f3927f98ec8069a376251b26d6a28985b7e71fbfa03cf685d3295",
+      "status": "hold",
+      "reason": "어디로 갈지 모르는 사람들이 헬라인에게 가는지 추측한다. 질문과 사실을 구분할 필요가 있으나 해결은 아직 없다.",
+      "contextNote": "예수의 돌아감을 지리 이동으로 이해한 추측이다. 실제로 헬라인에게 갔다는 서술로 바꾸지 않는다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "이해하지 못한 것을 추측으로 채우고 있는지 확인할 수 있다.",
+          "friction": "사람들끼리 묻는 장면이라 당사자에게 조언을 구하는 행동까지는 이어지지 않는다. 원래 말의 뜻 설명이 필요하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:7:36",
+      "textSha256": "1ec6889eb0ec24ad688ecf9b137e24e619fe395476f54aaa28c8bef18781fa26",
+      "status": "candidate",
+      "reason": "이 말이 무슨 뜻인지 모르겠다고 질문을 드러낸다. 이해한 척하기보다 구체적으로 모르는 말을 짚을 실마리다.",
+      "contextNote": "예수의 떠남을 두고 묻는다. 이 질문의 화자를 잘 아는 교사로 바꾸거나 이미 이해했다는 결론을 붙이지 않는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "막연히 어렵다고 숨기기보다 어떤 말의 뜻을 모르겠는지 그대로 물을 수 있다.",
+          "friction": "예수의 말을 놓고 청중이 묻는 장면이다. 일반 선배에게 완전한 해답을 요구하는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:7:37",
+      "textSha256": "3fd99fa9c1bcb8057ff68a48922960c7317faeaa9b204da3765b4723a3cbc109",
+      "status": "candidate",
+      "reason": "목마른 사람을 오라고 부른다. 부족함이 도움을 청할 부끄러운 탈락 사유만은 아니라는 실마리가 분명하다.",
+      "contextNote": "예수가 자신에게 와서 마시라 초대하며 뒤에서 성령을 설명한다. 인간의 무제한 공급으로 바꾸지 않는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "필요가 있다는 것을 감추기보다 그 필요를 안고 다가가 구할 수 있다.",
+          "friction": "예수의 영적 초대다. 친구가 반드시 응답할 능력과 시간이 있다는 약속은 아니며 실제 부탁의 범위를 나눈다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:7:38",
+      "textSha256": "a840289ba9f37712be3d9991b14837e90373d021aa9e979370cad7fc2895ab1d",
+      "status": "candidate",
+      "reason": "믿는 사람 안에서 생수의 강이 흐른다는 그림은 외부 활동만 더 늘려 채우려는 마음에 다른 근원을 생각하게 한다.",
+      "contextNote": "다음 절은 성령을 가리킨다고 명시한다. 배 속 감각이나 모든 직감을 선택의 계시로 읽지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H063",
+          "clue": "바깥 일정을 계속 채우는 것 외에 내면을 살리는 양식을 받고 머물 자리가 있는지 돌아볼 수 있다.",
+          "friction": "성령을 가리키는 비유다. 휴식이 모든 불안의 치료라는 뜻이나 느끼는 것이 곧 하나님 답이라는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:7:39",
+      "textSha256": "670f81cc7c698567d760536163224db781b19445f7ad2987ef00409fb596124c",
+      "status": "hold",
+      "reason": "생수의 뜻이 받을 성령임을 밝히지만 영광 이전의 시점을 설명하는 괄호까지 이해해야 한다.",
+      "contextNote": "예수의 역사 속 성령의 선물을 설명한다. 괄호를 삭제해 단순 감정의 흐름으로 만들지 않는다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H063",
+          "clue": "내면의 양식을 개인의 분주함으로 만들어 내는 것만은 아니라는 방향은 읽을 수 있다.",
+          "friction": "성령의 주심과 예수의 영광이라는 역사적 설명이 중심이다. 잠시 살필지 더 바빠질지의 단독 실마리는 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:7:40",
+      "textSha256": "4b0796f025e777cbfe38228dc925270a5b3b2d8ac61d25647a51c7aecd33e702",
+      "status": "hold",
+      "reason": "말씀을 들은 이들이 선지자라고 판단한 반응이다. 어떤 근거를 들었는지 이 절은 밝히지 않는다.",
+      "contextNote": "뒤에서 서로 다른 평가가 이어진다. 어느 쪽 말이 많다는 이유로 판단을 대신하지 않는다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H064",
+          "clue": "같은 말을 듣고도 사람들은 특정 이름과 판단을 붙인다.",
+          "friction": "그 선지자가 누구인지 앞의 기대를 알아야 하고 자기 가치에 따라 선택할 기준은 아직 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:7:41",
+      "textSha256": "30a39aa23a511f63b7588cb35f103cabd8ea08cee3a24a86c4135921dde2d564",
+      "status": "candidate",
+      "reason": "그리스도인가라는 판단에 갈릴리라는 출신 기대가 끼어든다. 지역과 평판만으로 실제 대상을 단정하는지 살필 실마리다.",
+      "contextNote": "군중의 상반된 말이다. 갈릴리에서 나온다는 질문을 예수에 대한 최종 판정으로 승인하지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "들은 출신이나 배경만으로 상대 말을 들을 필요가 없다고 정하고 있는지 돌아볼 수 있다.",
+          "friction": "그리스도의 출처 논쟁이다. 현대 친구를 그리스도에 대응시키지 않고 부분 정보와 직접 확인을 나눈다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:7:42",
+      "textSha256": "3cec56ed6db9e44eedb055a215877a840d78ab0fe0426cc4c2cc4b000b0e7fda",
+      "status": "hold",
+      "reason": "다윗의 씨와 베들레헴이라는 기록을 들지만 그 기준과 예수의 실제 출생을 어떻게 확인했는지는 나오지 않는다.",
+      "contextNote": "앞의 갈릴리 출신 판단에 이어지는 인용이다. 기록 자체를 거짓이라고 부르지 않는다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "기준을 알고 있는 일과 대상의 실제 사실을 확인한 일은 다를 수 있다.",
+          "friction": "베들레헴 예언과 실제 출처의 관계를 알아야 한다. 친구의 말을 직접 들을지의 실마리로는 설명이 먼저 필요하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:7:43",
+      "textSha256": "bd1fe507b4bcb226ab05daa22a26bd31a59ad27dfad19f50ce643fcd4dff4dfa",
+      "status": "hold",
+      "reason": "예수를 두고 쟁론이 생겼다는 상황만 전한다. 의견이 갈린다는 사실 자체는 어느 선택을 할 근거가 아니다.",
+      "contextNote": "앞의 선지자와 그리스도, 출처 논쟁을 묶는 문장이다. 갈등이 있으니 모두 틀렸다고 하지 않는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H064",
+          "clue": "의견이 갈리는 상황을 그대로 인정할 수 있다.",
+          "friction": "자기 판단의 근거나 가치가 무엇인지까지 말하지 않아 단독 결과로는 상황 반복에 가깝다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:7:44",
+      "textSha256": "109f7b326719fba733bc64cfbe9fd1c910097baa2e02d042ff570863d7611fcc",
+      "status": "hold",
+      "reason": "잡으려는 자가 있어도 실제 손댄 자는 없었다고 한다. 의도와 결과를 나누지만 정직한 선택 뒤 무사함의 보증은 아니다.",
+      "contextNote": "다툼 속 체포 의도와 실행의 부재를 기록한다. 사용자에게 같은 보호 결과를 예고하지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "압박하는 사람의 의도가 결과를 전부 정하는 것은 아닐 수 있다.",
+          "friction": "사용자의 말과 선택에 관한 장면은 아니고 체포되지 않은 결과다. 반대하면 불이익이 없다는 쪽으로 읽으면 넘친다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:7:45",
+      "textSha256": "537dc178e75de08247aaec5c79acc73cfe7c2d89275f27b459e355825330f9b8",
+      "status": "hold",
+      "reason": "왜 잡아오지 않았느냐는 추궁은 지시를 이행하지 않은 결과를 묻지만 대답의 근거는 다음 절에 나온다.",
+      "contextNote": "하속들이 돌아온 뒤 지도자들의 질문이다. 체포 지시를 일반 요청과 동일한 의무로 놓지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H044",
+          "clue": "요청을 그대로 이행하지 못하면 설명을 요구받을 수도 있다.",
+          "friction": "이 절에는 거절한 이유나 실제 여력이 없다. 새 일을 받을지의 방향보다 압박 상황의 반복에 가깝다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:7:46",
+      "textSha256": "cbbca87ef9f19291c18027d4e98efdd9058239a8aae0286674e8c4a23dadd5cd",
+      "status": "candidate",
+      "reason": "하속들은 직접 들은 말 때문에 사람을 잡아오지 않았다고 답한다. 전달된 지시보다 당사자를 실제 듣는 과정의 중요성을 보여 준다.",
+      "contextNote": "예수의 독특한 말씀에 대한 하속들의 평가다. 인상적인 말이면 모든 주장을 믿어야 한다는 기준은 아니다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "주변에서 정한 평판대로 행동하기 전에 직접 말을 들어 보고 판단할 여지가 있다.",
+          "friction": "체포 지시를 받은 하속들이 예수의 말을 듣는 장면이다. 친구의 설명을 들으면 반드시 좋은 결론이 난다는 보장은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:7:47",
+      "textSha256": "183bd7df453219ccd97df8d0bda37c0bfa05fd24c54a99e7bccac370eb394d79",
+      "status": "candidate",
+      "reason": "직접 들은 하속들의 판단을 미혹됐다는 말로 밀어내는 반응은 상대 설명 대신 낙인을 붙이는지 돌아보게 한다.",
+      "contextNote": "바리새인들의 말이지 하속들이 실제 속았다는 판정은 아니다. 발언 주체와 기록자의 판단을 구분한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "당사자 말을 듣고 온 사람까지 나쁜 평판에 맞지 않는다는 이유로 무시하는지 살필 수 있다.",
+          "friction": "예수를 체포하지 않은 하속들을 꾸짖는 장면이다. 모든 의심이나 비판이 낙인이라는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:7:48",
+      "textSha256": "c926f8bb529f50f6ce2156c528bb059464ac0c9bf1f72e221ba39a18b584804e",
+      "status": "candidate",
+      "reason": "지위 있는 이 중 누가 믿느냐를 판단 근거로 내세운다. 타인의 직함과 내가 확인할 근거를 구분할 실마리가 있다.",
+      "contextNote": "지도자들의 반문을 기록한다. 권위자가 믿지 않으면 틀렸다는 기준을 승인하는 말이 아니다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H064",
+          "clue": "높은 지위의 사람이 어느 쪽인지로만 내 판단을 대신하고 있는지 돌아볼 수 있다.",
+          "friction": "예수에 대한 믿음의 논쟁이다. 전문가 조언을 전부 버리라는 뜻이 아니라 직함과 이유를 나누는 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:7:49",
+      "textSha256": "1ae87ee14de8bf39b885e00bb2a7172864844e364bcfa393a6e18fb2be21e632",
+      "status": "candidate",
+      "reason": "모르는 무리를 저주받았다고 몰아붙이는 말은 지식을 가진 지도자가 배우는 사람을 어떻게 대하는지 비춰 준다.",
+      "contextNote": "바리새인들의 평가이지 실제 저주 선언을 서비스가 채택하는 것이 아니다. 지식 부족과 사람의 가치를 같게 두지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C005",
+          "clue": "규칙과 정보를 잘 안다는 이유로 적응이 어려운 신입을 낮춰 보며 돌봄을 놓치고 있는지 살필 수 있다.",
+          "friction": "율법 지식과 군중에 대한 모욕이다. 신입을 본문의 특정 무리와 동일시하거나 필요한 안내를 생략하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:7:50",
+      "textSha256": "5645ccb8659cc2b0a7791c2606ca95e19af1ad1fa3f125f55e6e0e1cdda3b491",
+      "status": "exclude",
+      "reason": "니고데모의 소속과 이전 방문을 소개하며 다음 발언을 연다. 아직 판정의 근거는 말하지 않는다.",
+      "contextNote": "앞서 예수를 찾아왔던 이가 지도자들 안에서 발언하는 연결이다. 등장만으로 그의 모든 행동을 옳다고 만들지 않는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JHN:7:51",
+      "textSha256": "efcaf8f5ed8f7f6732410bdd33f90bb93275fb1f887369dd5aee312fc5cc30b6",
+      "status": "candidate",
+      "reason": "사람의 말을 듣고 행한 것을 알기 전 판결하느냐고 묻는다. 소문만 듣고 관계를 닫기 전 직접 확인할 실마리가 매우 분명하다.",
+      "contextNote": "니고데모가 율법의 판단 절차를 되묻는다. 현대 법률 판단을 대신하거나 당사자가 반드시 옳다고 예고하지 않는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "평판만으로 거리를 두기 전에 본인의 말을 듣고 실제 행동을 살필 수 있다.",
+          "friction": "예수에 대한 판결의 문맥이다. 직접 듣는 것이 모든 주장을 그대로 믿거나 필요한 경계를 해제한다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:7:52",
+      "textSha256": "74625f0e46beecdb3e395612296213d3f56bfd8d1b5896f15e2d1d57235bf62b",
+      "status": "candidate",
+      "reason": "듣고 확인하자는 제안에 출신을 묻고 배제하는 반응은 논거 대신 사람의 배경을 공격하는지 돌아보게 한다.",
+      "contextNote": "지도자들의 반박이다. 갈릴리의 선지자에 관한 주장을 별도 검증 없이 보편 사실로 채택하지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "무엇을 실제로 했는지 듣자는 말에 출신과 편 가르기로 답하고 있는지 살필 수 있다.",
+          "friction": "그리스도와 선지자의 출처 논쟁이다. 특정 지역을 무조건 좋거나 나쁘다고 판정하는 연결이 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:7:53",
+      "textSha256": "e15fce8d6ae3fb444eb0be33955315fb04008430647a1006eecfe7e0587b6898",
+      "status": "exclude",
+      "reason": "각각 집으로 돌아간다는 장면 전환이다. 업무를 그만둘지 행사에 남을지 판단할 이유는 담지 않는다.",
+      "contextNote": "원문에서 대괄호가 여기서 시작해 8:11에 닫힌다. 없음 슬롯이나 잘못 끼어든 데이터로 처리하지 않는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JHN:8:1",
+      "textSha256": "a015510c807322378d8deb694065ea896f51ee9a38bb295deba68be372c4379b",
+      "status": "exclude",
+      "reason": "예수가 감람산으로 간 이동만 전한다. 여기에는 수면이나 피로 회복의 이유가 명시되지 않는다.",
+      "contextNote": "전날과 다음 아침을 잇는 장면이다. 산으로 감을 사용자에게 필요한 휴식 기간으로 바꾸지 않는다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:JHN:8:2",
+      "textSha256": "3adaf49e9fa04ff9dc07dabd4f474325a64a35e6ce9dd3538e14fe06f099461f",
+      "status": "hold",
+      "reason": "백성이 모여 예수의 가르침을 듣는 자리는 열리지만 질문을 청하거나 적응의 어려움을 듣는 방식은 나오지 않는다.",
+      "contextNote": "아침 성전의 가르침 도중 여자를 끌고 오는 사건이 시작된다. 교육 자체를 무의미하다고 하지 않는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C005",
+          "clue": "사람들이 실제로 배울 수 있는 시간을 마련하는 일을 생각할 수 있다.",
+          "friction": "신입의 알려진 적응 문제에 어떤 돌봄이 필요한지는 이 가르침 장면만으로 정해지지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:3",
+      "textSha256": "562bd1734683632cfabd286fc073bcc484475635dbb42524c44cec8d8a603f24",
+      "status": "candidate",
+      "reason": "잘못한 사람을 끌어다가 모두 가운데 세우는 모습은 공개적으로 흠을 드러내고 공격하는 자리에 동참할지 돌아보게 한다.",
+      "contextNote": "간음 사건의 고발 장면이며 뒤에서 예수를 고소할 목적이 밝혀진다. 잘못 자체가 없었다고 지우지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C009",
+          "clue": "누군가 실수했다는 사실과 그를 가운데 세워 함께 공격하는 일은 구분할 수 있다.",
+          "friction": "본문은 간음과 처벌 논쟁이다. 동료의 오류를 같은 범죄라고 부르지 않으며 필요한 책임 확인과 조롱을 나눈다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:4",
+      "textSha256": "c812ec5af52a52074c67d176d4cd310ae3a5ed5490e194745c1ec68f1800710f",
+      "status": "hold",
+      "reason": "현장에서 간음으로 잡혔다는 고발 내용은 실제 행위의 문제다. 아직 은밀한 연락을 합리화하는 사례와는 단계가 다르다.",
+      "contextNote": "고발자들의 발언이다. 사용자에게 없던 육체적 관계를 있었다고 만들거나 뒤의 자비를 먼저 지우지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C014",
+          "clue": "마음과 행동의 경계가 실제 관계에 중요하다는 점은 떠올릴 수 있다.",
+          "friction": "사용자는 아직 육체적 관계가 없고 연락 여부를 고민한다. 이 고발 한 절은 마음의 경계를 구분하는 충분한 실마리가 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:5",
+      "textSha256": "c9558036c8125ed25df00d31391956877917215a30533170f629bd09e5001d7d",
+      "status": "hold",
+      "reason": "처벌 규정을 인용해 어떻게 말하겠느냐 묻는다. 답을 읽기 전 인용만으로 현대인에게 같은 처벌을 요구할 수 없다.",
+      "contextNote": "시험하려는 고발자들의 질문이다. 이미 개선하는 친구에게 더 벌을 주라는 예수의 명령이 아니다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "C002",
+          "clue": "잘못을 알았을 때 책임과 응답을 어떻게 다룰지 질문은 생긴다.",
+          "friction": "돌로 치는 처벌을 내세운 질문만 있고 예수의 답이 아직 없다. 현재 개선을 받아들일지의 방향은 뒤를 읽어야 한다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:6",
+      "textSha256": "94f3ce7f3e3e7bd9f0e3daa8fbcb6ad67a6c069cb09b0d123e3b33c9d5e9c5ff",
+      "status": "candidate",
+      "reason": "옳은 판단을 묻는 형식을 쓰면서 실제로는 고소할 조건을 얻으려 한다. 사실을 핑계로 상대를 몰아붙이는 마음을 드러낸다.",
+      "contextNote": "예수는 몸을 굽혀 땅에 쓴다. 무엇을 썼는지는 본문에 없으므로 죄 목록이나 특정 메시지를 만들어 넣지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C009",
+          "clue": "잘못을 이야기하는 목적이 사실 확인인지 예전 감정을 풀고 상대를 공격할 구실인지 돌아볼 수 있다.",
+          "friction": "예수를 시험하는 고발자들의 의도가 명시된 사건이다. 모든 질문을 공격으로 정하지 않고 자신의 조롱 동기를 살피는 연결이다.",
+          "expectedEnough": "yes"
+        },
+        {
+          "scenarioId": "H031",
+          "clue": "즉시 말싸움으로 반응하지 않고 한 박자 멈추는 모습을 볼 수 있다.",
+          "friction": "예수가 화났다고 나오지는 않고 땅에 쓴 이유도 명시하지 않는다. 감정 조절의 방법으로 단정하기는 어렵다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:7",
+      "textSha256": "115f7ddd7b6c0c5a51af10675b358fffdab303e50fde6495e8fc4124231a8f7c",
+      "status": "candidate",
+      "reason": "죄 없는 자가 먼저 돌을 치라는 말은 남을 공격하기 전 자기 자리도 보게 한다. 잘못을 부인하지 않으면서 조롱을 멈출 실마리다.",
+      "contextNote": "계속 묻는 이들에게 예수가 답한다. 책임 확인과 보호 경계까지 오직 완전무결한 사람만 할 수 있다는 뜻은 아니다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C009",
+          "clue": "상대의 실수가 내 조롱을 정당화하는지, 나 역시 자비가 필요한 사람인지 먼저 살필 수 있다.",
+          "friction": "돌로 치는 형벌 장면이다. 동료의 오류를 없던 일로 만들거나 조롱과 정당한 지적을 같게 두지 않는다.",
+          "expectedEnough": "yes"
+        },
+        {
+          "scenarioId": "C002",
+          "clue": "실제로 변하고 있는 친구에게 벌을 더 주려 할 때 내 자신은 어떤 자리에 서 있는지 돌아볼 수 있다.",
+          "friction": "사과와 개선의 사실은 생성 사례에 있는 조건이다. 모든 반복 침해를 무조건 허용하라는 뜻으로 넓히지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:8",
+      "textSha256": "852c53e0c87005fe4d7e2afabc61428d15f7abb01677b484874dc6f3b387a467",
+      "status": "hold",
+      "reason": "다시 몸을 굽혀 쓰는 동작은 있지만 무엇을 썼고 왜 그랬는지는 나오지 않는다.",
+      "contextNote": "말씀한 뒤 고발자들의 반응을 기다리는 장면이다. 기록되지 않은 내용을 선택의 신호로 만들지 않는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "말을 한 뒤 계속 반격을 더하지 않는 모습을 떠올릴 수 있다.",
+          "friction": "쓰기 동작만으로 분노 조절이나 메시지 전송의 원칙이 정해지는 것은 아니다. 주변 대화 설명이 필요하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:9",
+      "textSha256": "563a6775869d28d8c6bb4d4cc05ab9e1772cda14f244b1fd6bb7356ab4c47e4e",
+      "status": "candidate",
+      "reason": "양심의 가책을 받고 한 사람씩 떠난다. 집단에 남아 한마디를 더하기보다 자기 마음을 보고 물러설 실마리다.",
+      "contextNote": "어른부터 젊은이까지 나가고 예수와 여자가 남는다. 나이순을 죄의 크기나 특정 집단의 악함으로 해석하지 않는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C009",
+          "clue": "다 같이 공격하는 자리에서도 내가 할 몫은 추가 조롱이 아니라 멈추고 빠져나오는 것일 수 있다.",
+          "friction": "고발 현장에서 떠나는 모습이다. 실제 잘못의 수정이나 피해자의 보호까지 포기하라는 명령은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:10",
+      "textSha256": "194b77c6b33fa3f5ffcf25a2c3eff260a484a668d2257037fc9c66a485bca2d7",
+      "status": "candidate",
+      "reason": "고소하던 이들이 어디 있는지 묻는다. 지금 실제 책임을 다한 뒤에도 내 안에서 계속되는 재판을 구분할 질문이 된다.",
+      "contextNote": "다음 절에서 예수의 비정죄와 다시 죄짓지 말라는 말이 이어진다. 고발자의 부재만으로 잘못이 없었다고 하지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "지금 실제로 남은 책임이 무엇이고, 무엇은 내 머릿속에서 끝없이 나를 세우는 재판인지 살펴볼 수 있다.",
+          "friction": "여자에게 남은 고발자를 묻는 장면이다. 사용자의 모든 갈등이 사라졌다는 확답이나 과거 잘못의 부인이 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:11",
+      "textSha256": "598dac74581de377e9a928b7ef2177efdccbb79f4449910ef77ae12d348190f1",
+      "status": "candidate",
+      "reason": "정죄하지 않는다는 말과 다시 죄를 범하지 말라는 말이 함께 있다. 벌을 더 쌓는 일과 이후의 실제 변화를 구분할 실마리가 뚜렷하다.",
+      "contextNote": "여자는 고소하던 이가 없다고 답하고 예수는 가라고 하신다. 마지막 경고를 잘라 무책임한 면제로 만들지 않는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "잘못을 인정하고 고친 뒤에는 계속 자신을 벌하는 것보다 앞으로 다시 같은 일을 하지 않는 삶으로 갈 수 있다.",
+          "friction": "예수의 자비와 변화의 요청이다. 수정이 끝났다는 사례 조건을 지키며 아직 해결할 책임이 없다고 임의 단정하지 않는다.",
+          "expectedEnough": "yes"
+        },
+        {
+          "scenarioId": "C002",
+          "clue": "계속 벌을 주는 것과 실제로 변하는 삶을 받아들이는 것을 구분할 수 있다.",
+          "friction": "현재 친구가 사과하고 개선하는 사실이 중요하다. 변화 없는 반복 침해까지 접근을 허용하라는 말은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:12",
+      "textSha256": "07e98897f4f21039fa2439bf6c52766165fecfa6208f683ea4c8b3687bcc08ea",
+      "status": "hold",
+      "reason": "예수를 따르는 자에게 생명의 빛을 말한다. 방향의 중심은 있지만 불안해서 더 바빠질지의 구체 갈림은 직접 드러나지 않는다.",
+      "contextNote": "예수 자신이 세상의 빛이라는 선언이다. 어두움이라는 말을 사용자의 우울이나 모든 고민과 같은 진단으로 놓지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H063",
+          "clue": "바깥 일을 늘리는 것보다 나를 이끄는 빛이 무엇인지 생각할 수 있다.",
+          "friction": "예수와의 따름에 관한 말이다. 잠시 불안을 살피는 선택과는 한 단계 연결이 필요하고 모든 감정이 빛의 신호는 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:13",
+      "textSha256": "0018b55a99b5a805aa068e9b645933ab0d5900357f8cda4d1e01356803dfe612",
+      "status": "hold",
+      "reason": "자기 증언은 참되지 않다는 바리새인들의 주장은 다음에 반박된다. 실제 경험을 일인칭으로 말하는 것 자체가 거짓이라는 규칙은 아니다.",
+      "contextNote": "반대자의 말과 예수의 답을 나눠 읽어야 한다. 이 문장을 기록자의 최종 판정으로 삼지 않는다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "자기 주장에 어떤 근거가 있는지 검토할 수 있다.",
+          "friction": "본문의 주장은 곧 반박된다. 정확한 개인 후기도 자기 증언이라는 이유만으로 거짓이 되지 않으므로 단독 연결이 어렵다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:14",
+      "textSha256": "1e88b8ef3cb040a9bbec0056c9a5db5b730bbe56333d5c2accc295121d69a8b1",
+      "status": "candidate",
+      "reason": "자신이 실제 아는 출처와 목적을 근거로 증언한다. 타인이 모르는 경험을 말한다는 이유만으로 포장이나 거짓이 되는 것은 아니라는 실마리다.",
+      "contextNote": "예수의 고유한 출처를 아는 증언이다. 사용자의 모든 자기평가를 무오류로 인증하지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "남에게 아직 알려지지 않았어도 내가 실제 알고 경험한 범위는 사실대로 말할 수 있다. 더 큰 이야기를 꾸밀 필요와 구별한다.",
+          "friction": "예수는 자신의 출처와 돌아갈 곳을 아신다. 사용자는 실제 확인한 경험만 말하고 모르는 동기나 결과를 보태지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:15",
+      "textSha256": "9539aa5a932adf3b5fee9399a5cb10b96c52b7ea905847c6681749381e74b51d",
+      "status": "candidate",
+      "reason": "육체를 따라 판단하는 것과 예수가 사람을 다루는 방식을 대비한다. 겉의 인상만으로 관계를 닫을지 살필 실마리다.",
+      "contextNote": "아무도 판단하지 않는다는 말까지 포함한다. 뒤에 참된 판단을 설명하므로 모든 책임 판단을 금지하는 규칙으로 바꾸지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "평판과 겉인상만으로 사람 전체를 판정하기보다 직접 말과 행동을 알아볼 여지를 둘 수 있다.",
+          "friction": "예수의 판단에 관한 대화다. 친구가 무조건 옳다는 뜻이나 필요한 거리와 사실 검토를 포기하라는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:16",
+      "textSha256": "5e784e87617085bba9f6b0eac3e5190b9f707fbbb9c62073a6bc1128736c1fab",
+      "status": "hold",
+      "reason": "판단이 참인 근거를 함께 계신 아버지에 둔다. 하나님이 함께한다고 느끼면 내 의견도 무오류라는 뜻은 아니다.",
+      "contextNote": "예수와 보내신 이의 관계다. 일반 개인에게 없는 권세를 빌리지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C001",
+          "clue": "참된 판단의 근거를 자신 밖에서도 살펴야 한다는 질문은 가능하다.",
+          "friction": "예수의 고유한 관계를 사용자에게 옮길 수 없다. 내 확신에 하나님 이름을 붙여 이견을 막는 연결은 맞지 않는다.",
+          "expectedEnough": "no"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:17",
+      "textSha256": "ab08d6a390f11d803fa4b772df840541e4b09a49a27b0dfcdac5890802e96715",
+      "status": "candidate",
+      "reason": "한 사람 주장만이 아닌 두 증거를 든 기록은 사실 보고의 근거를 교차 확인할 실마리가 있다.",
+      "contextNote": "율법의 증언 규정을 예수와 아버지 증언의 논증에 사용한다. 현대 법률의 판정이나 두 사람이 동의하면 언제나 참이라는 공식은 아니다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "좋게 보이려 말을 키우는 대신 실제 자료와 다른 확인 근거를 갖춰 정확히 말할 수 있다.",
+          "friction": "율법의 증언 규정을 인용한다. 숫자 둘 자체가 진실을 보장하지 않으며 독립된 실제 근거인지 살핀다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:18",
+      "textSha256": "52ef20e2c09af34b3b94cc666147e92a74c4d4010ae011eda547c1ec80dc42f5",
+      "status": "hold",
+      "reason": "예수 자신과 보내신 아버지를 증거자로 든다. 자기 생각에 하나님도 동의한다고 선언하는 사람의 조건과는 다르다.",
+      "contextNote": "앞의 두 증거 논증의 구체적 적용이다. 사용자에게 없는 아버지의 직접 증언을 만들어 주지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C001",
+          "clue": "무엇이 실제 증언이고 무엇이 내 주장의 덧붙임인지 구분할 수 있다.",
+          "friction": "사용자는 별도 받은 말씀 없이 자기 의견을 말한다. 하나님도 나를 증거한다는 권위로 포장하는 연결은 성립하지 않는다.",
+          "expectedEnough": "no"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:19",
+      "textSha256": "407059bba4ab20f9b59b2e7b9be32e644be99fd52b62e1033d5401dfb47cc018",
+      "status": "hold",
+      "reason": "아버지가 어디 있느냐는 질문에 예수를 알면 아버지도 알았을 것이라고 답한다. 일반 조언 요청의 질문과 답은 아니다.",
+      "contextNote": "예수와 아버지를 아는 관계를 설명한다. 모르는 것을 묻는 초심자를 신앙 없는 자로 몰지 않는다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "말의 대상을 몰라 질문이 생길 수 있다는 점은 보인다.",
+          "friction": "아버지의 정체와 예수의 관계가 중심이다. 질문하면 선배가 어떻게 받을지에 대한 근거로는 충분하지 않다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:20",
+      "textSha256": "09ccfc3318721f61655115df4fa3250e74d3807ab4fefdc4945c0f6dceea4565",
+      "status": "hold",
+      "reason": "성전 연보 궤 앞에서도 잡히지 않은 이유를 예수의 때로 설명한다. 사용자도 위험한 곳에서 안전하다는 약속은 아니다.",
+      "contextNote": "장소 표기와 체포 부재, 아직 아닌 때를 함께 기록한다. 장소나 시각을 사용자 운명으로 읽지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H013",
+          "clue": "두려운 의도가 곧 실제 결과 전부를 결정하는 것은 아닐 수 있다.",
+          "friction": "예수의 때에 관한 사건이다. 여행의 알려진 위험을 검토할 필요까지 없애거나 무사함을 보증하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:21",
+      "textSha256": "6c31d60895cc9cee44c9af4066150916559d451b3ad7066e5396ac6cd228479b",
+      "status": "hold",
+      "reason": "죄 가운데 죽고 예수가 가는 곳에 오지 못한다는 경고를 포함한다. 떠남만 잘라 일반 재출발의 위로로 꾸밀 수 없다.",
+      "contextNote": "예수를 찾으나 믿지 않는 청중의 문제이며 뒤에 믿음과 죄를 더 설명한다. 이미 수정한 업무 실수를 같은 상태로 판결하지 않는다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "삶의 방향과 죄의 문제를 가볍게 보지 않는 경고는 읽을 수 있다.",
+          "friction": "이 절은 고친 실수 뒤의 자기 처벌을 요구하지 않는다. 죄 가운데 죽는다는 경고를 사용자에게 바로 덮으면 주어진 사실을 넘는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:22",
+      "textSha256": "61f5315830fb0cfb0a9b0c356110c172b5d9ac04049c1e67f857f95d78877264",
+      "status": "candidate",
+      "reason": "알지 못하는 떠남을 자결이라는 추측으로 채운다. 낯선 말을 들었을 때 확인 전 극단적 해석을 사실로 굳히는지 돌아보게 한다.",
+      "contextNote": "유대인들의 추측이지 예수의 의도에 대한 기록자의 확인은 아니다. 다음에서 예수는 위로부터 온 출처를 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "전해진 한마디의 뜻을 다 모를 때 가장 나쁜 해석부터 확정하고 있는지 살필 수 있다.",
+          "friction": "예수의 떠남을 오해한 질문이다. 친구의 소문이 거짓이라는 결론은 아니고 당사자 설명을 들을 여지를 둔다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:23",
+      "textSha256": "cbcba22ea9a4028f7bef689520c94326c4fb462085956d10e86a1d58dc8d34d5",
+      "status": "hold",
+      "reason": "예수와 청중의 출처를 위와 아래로 구분한다. 내 의견은 위에서 왔고 상대는 세속적이라고 나눌 권리가 사용자에게 생기지는 않는다.",
+      "contextNote": "예수의 고유한 정체성 설명이다. 사람의 가치나 지적 능력을 출신에 따라 서열화하는 말로 쓰지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C001",
+          "clue": "누가 실제 어떤 출처를 가진 말인지 구별할 수 있다.",
+          "friction": "사용자의 일반 의견을 예수의 위로부터 온 말씀에 놓을 근거가 없다. 상대를 낮춰 동의를 강제하는 연결은 맞지 않는다.",
+          "expectedEnough": "no"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:24",
+      "textSha256": "89b3d2e851993563a65daeeb3eed96ddfb53e9604aa20eafd15cd7bc6a458cf8",
+      "status": "hold",
+      "reason": "죄 가운데 죽음과 믿음의 조건을 함께 말하므로 앞의 경고를 단순한 떠남으로 줄일 수 없다.",
+      "contextNote": "예수의 정체를 믿지 않는 청중에게 한 경고다. 이미 바로잡은 업무 실수와 같은 상태로 판정하지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "삶의 방향과 죄를 진지하게 보는 말은 읽을 수 있다.",
+          "friction": "고친 실수 뒤 자기 처벌을 더 하라는 말은 아니다. 사용자가 죄 가운데 죽는다고 적용하면 입력을 넘는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:25",
+      "textSha256": "4f949401a6e3ca61e461dfc8c184851ad19b40346a631aca8182aeb2b5f1102d",
+      "status": "hold",
+      "reason": "누구냐는 질문에 처음부터 말해 왔다고 답하지만 정체를 충분히 알려면 이전 말씀을 알아야 한다.",
+      "contextNote": "예수의 반복된 자기 설명을 가리킨다. 질문 자체를 무능이나 악의로 단정하지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "이해하지 못한 대상의 정체를 다시 물을 수 있다.",
+          "friction": "답이 앞선 말씀 전체를 가리켜 단독 결과로는 구체적인 도움 요청보다 설명 공백이 크다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:26",
+      "textSha256": "f831291e7953083d77d1c05b75d1cc78471e5f2d21379f55564b740447f493bf",
+      "status": "candidate",
+      "reason": "말하고 판단할 것이 많아도 실제 들은 것을 전한다는 구분은 말할 수 있는 범위와 내 추측을 나누게 한다.",
+      "contextNote": "예수는 참된 보내신 이에게서 들은 것을 말씀한다. 개인의 생각을 같은 계시로 주장하지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "더 많은 해석을 덧붙여 보이기보다 실제 듣고 확인한 내용을 전할 수 있다.",
+          "friction": "예수의 아버지께 들은 말씀이다. 사용자는 실제 경험과 출처를 정확히 밝히며 하나님이 내 평을 인증한다고 하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:27",
+      "textSha256": "c298a7f359899842d5e4214db0fde237ef7b5a2e45bd6499713c71f3efa33b53",
+      "status": "hold",
+      "reason": "청중은 아버지를 가리킨 줄 깨닫지 못했다. 듣고도 대상이 불분명할 수 있음을 보여 주지만 질문 행동은 없다.",
+      "contextNote": "앞 절의 보내신 이가 아버지임을 기록자가 설명한다. 모르는 사람 전체를 악하다고 부르지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "말을 들었다는 것과 뜻을 이미 안다는 것은 다를 수 있다.",
+          "friction": "이해하지 못한 상황만 있어 조언을 구할지의 방향으로는 간접적이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:28",
+      "textSha256": "8ac5dd5c832960fa631f531fd70afd8544196d78e2a4ddfd2df913dff1eb8d56",
+      "status": "hold",
+      "reason": "인자를 든 뒤 알게 될 것과 아버지께 배운 말씀을 말한다. 뒤늦은 이해를 사용자의 실수 확인 일정에 대응시킬 수 없다.",
+      "contextNote": "예수의 들림과 정체에 관한 예고다. 일반 실패가 하나님의 계획임을 서비스가 설명하지 않는다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "지금의 판단을 나중에 달리 이해할 수 있다는 여지는 있다.",
+          "friction": "인자를 든 후의 깨달음을 말한다. 실제 놓친 실수를 지금 인정할지의 단서보다 역사와 신앙 설명이 먼저 필요하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:29",
+      "textSha256": "701e0026255165e5f4f12b48346f290fd2a985dda81b349371d7cebf1d711020",
+      "status": "hold",
+      "reason": "함께하심과 항상 기뻐하시는 일을 행함을 함께 말한다. 전반부만 떼어 실수한 사람의 상황과 같게 놓지는 않는다.",
+      "contextNote": "예수와 보내신 이의 관계다. 실수하면 하나님이 버린다는 역명제도 만들지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "혼자 두지 않으시는 관계에서 희망을 생각할 수 있다.",
+          "friction": "예수의 항상 기쁘게 행함이라는 조건을 그대로 사용자에게 옮기면 완전해야 동행을 받는다는 새 부담이 될 수 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:30",
+      "textSha256": "bc0147eec217a1e814df1b2756bc00d20a4f124115b3a59b784e8a1cfcf98973",
+      "status": "hold",
+      "reason": "많은 사람이 말씀을 듣고 믿었다는 반응은 전하지만 무엇을 받아들였는지 이 절만으로 충분히 알 수 없다.",
+      "contextNote": "바로 뒤에서 믿은 이들에게 말씀에 거할 것을 말한다. 큰 반응 자체를 진실의 증명으로 삼지 않는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "말을 들은 사람의 반응이 나타날 수 있다.",
+          "friction": "좋은 평가를 얻기 위한 말의 기준은 나오지 않는다. 사실대로 말하면 반드시 다수가 믿는다는 보장은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:31",
+      "textSha256": "146a75f4074c0ce2e852e190b1aade8f6df18843658cecc070cbdf823b174153",
+      "status": "candidate",
+      "reason": "한때 믿는 반응과 말씀에 계속 거하는 제자의 길을 구분한다. 새 흥미만 좇기보다 이미 받은 방향에 머물 실마리가 있다.",
+      "contextNote": "예수를 믿은 이들에게 하는 말이며 다음에 진리와 자유를 설명한다. 모든 업무를 무조건 계속하라는 명령은 아니다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H053",
+          "clue": "시작의 흥미를 얻는 것과 맡은 방향에 머물러 끝까지 살아내는 일을 나누어 볼 수 있다.",
+          "friction": "예수의 말씀에 거하는 제자됨이다. 지친 상태나 해로운 업무까지 그대로 붙들라는 뜻이 아니라 미완료 일과 새 흥미를 비교하는 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:32",
+      "textSha256": "df5f11404b365abac7e880ad5217ba6002ffc3dad5ad346f4fea5e50b0a2ddbd",
+      "status": "candidate",
+      "reason": "진리와 자유의 연결은 당장의 평가를 위해 거짓에 자신을 묶는 대신 사실을 택할 실마리를 준다.",
+      "contextNote": "이어 죄의 종과 아들의 자유를 설명한다. 정직하면 즉시 경제적 손해나 팀 압박이 사라진다는 약속은 아니다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "불편한 사실을 감추며 더 많은 거짓에 묶이는 일과 진실을 택하는 자유를 비교할 수 있다.",
+          "friction": "예수 안에서 아는 진리와 죄로부터의 자유다. 정직 뒤 불이익이 없다는 보장이나 사용자 선택의 자동 판결은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:33",
+      "textSha256": "dcd9207522256a7b06deeee76f3e83b636bddb5965b34a53ef2fffa27e240a19",
+      "status": "hold",
+      "reason": "아브라함 자손이라는 정체로 종일 가능성을 부인한다. 가족 이름과 실제 상태가 같은지 물을 여지는 있다.",
+      "contextNote": "청중의 답변이며 뒤에서 죄의 종을 설명한다. 그들의 자기 평가를 기록자의 승인으로 만들지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C003",
+          "clue": "가족 정체성이 개별 행동의 책임과 같은 것은 아닐 수 있다.",
+          "friction": "이 절은 자유가 필요 없다는 청중의 주장이다. 성인 형제의 독립된 잘못을 내가 감쌀지의 방향은 아직 충분하지 않다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:34",
+      "textSha256": "6fb6a739a247990ee39503ffd8592d5ffe53c5a362b5f3f817aa49df0e7de1ec",
+      "status": "candidate",
+      "reason": "죄를 범함을 종됨과 연결한다. 불이익을 피할 한 번의 동참이 나를 어디에 묶는지 돌아볼 실마리가 있다.",
+      "contextNote": "자유가 필요 없다는 청중에게 죄의 속박을 설명한다. 실수 한 번으로 사람 전체를 영구 악인으로 고정하지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "지금 편해지려 거짓 수치에 동참하는 선택이 이후에도 거짓을 지켜야 하는 속박이 될지 생각할 수 있다.",
+          "friction": "죄의 종이라는 강한 비유다. 팀 사람들을 노예나 악인으로 낙인찍거나 저항하면 손해가 없다고 약속하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:35",
+      "textSha256": "e528464441ee761fc8c3c8986430efa40c70ee7c048f669f67e07f64df32583b",
+      "status": "hold",
+      "reason": "종과 아들의 거함을 대조하지만 지금 누가 어떤 자리에 있는지 알기 위해 뒤의 아들의 자유가 필요하다.",
+      "contextNote": "집의 영속적 거함에 관한 비유다. 일반 가정의 종업원이나 입양 관계의 권리를 판단하지 않는다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "존재의 자리를 실적만으로 유지하는 관계와 다른 소속을 생각할 수 있다.",
+          "friction": "종은 거하지 못한다는 앞말이 고친 실수 뒤 다시 쫓겨날 두려움으로 읽힐 수 있다. 아들이 자유케 함의 설명이 먼저 필요하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:36",
+      "textSha256": "bd2c95b8e7e6f21145ea8066a98a9bfd1c515a70fb182ced899438725c8473a0",
+      "status": "candidate",
+      "reason": "아들이 자유롭게 하면 참으로 자유롭다는 말은 이미 바로잡은 과거에서 자신을 계속 묶어야 하는지 돌아보게 한다.",
+      "contextNote": "앞에서 말한 죄의 종됨으로부터의 자유다. 현실의 책임과 보호 경계가 모두 없어진다는 뜻은 아니다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "과거 잘못을 인정하고 고친 뒤에도 스스로를 영구 죄인 신분에 묶어 두는 것만이 다음 길인지 살필 수 있다.",
+          "friction": "아들 예수의 자유다. 서비스가 사용자의 구원을 판결하거나 미해결 조치를 면제하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:37",
+      "textSha256": "dbb64b450e0d44ca69d5f03094e1acd231887fcabea386d666b2d8aa8d54ca3b",
+      "status": "candidate",
+      "reason": "혈통을 인정하면서도 지금 죽이려는 행동을 따로 지적한다. 가족 이름과 실제 선택의 책임을 분리할 실마리가 있다.",
+      "contextNote": "예수는 아브라함 자손이라는 사실을 부정하지 않고 말씀을 받아들이지 않는 행동을 짚는다. 모든 가족에게 같은 책임을 나누지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C003",
+          "clue": "가족이라는 관계를 지키는 일과 성인 형제의 실제 거짓과 약속 위반을 없던 일로 감싸는 일은 구별할 수 있다.",
+          "friction": "본문은 예수 살해 의도다. 형제의 거짓을 같은 범죄로 높이지 않고 관계와 행동 책임의 구분만 연결한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:38",
+      "textSha256": "631f5e13524cdbaef2f921b9c0552e2bbadecfb021fd9d70055a579420beaaa3",
+      "status": "hold",
+      "reason": "예수가 아버지에게서 본 것과 청중이 자기 아비에게서 들은 일을 대비한다. 그 아비가 누구인지 뒤의 설명이 필요하다.",
+      "contextNote": "후속 대화에서 아브라함과 하나님, 마귀를 논한다. 생물학적 부모에 대한 일반 비난으로 바꾸지 않는다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "C001",
+          "clue": "실제 본 출처와 자신이 따르는 소리를 구별할 수 있다.",
+          "friction": "예수의 아버지 목격을 사용자의 일반 생각에 옮길 수 없다. 반대자의 출처를 악하다고 단정하는 연결은 맞지 않는다.",
+          "expectedEnough": "no"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:39",
+      "textSha256": "3fd2bbe109d0593ceeed1847af060a03d8de5d98f03a6456ba992ee023a2c61c",
+      "status": "candidate",
+      "reason": "아브라함을 아버지라 부르는 주장과 실제 행사가 일치하는지 묻는다. 이름과 지위보다 실제 한 일을 확인할 실마리다.",
+      "contextNote": "가족 정체성과 믿음의 행위를 논한다. 부모의 모든 선택을 복제하라는 일반 의무는 아니다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "나를 소개하는 좋은 이름만 강조하기보다 그 이름에 맞게 실제 무엇을 했는지 정확히 말할 수 있다.",
+          "friction": "아브라함의 자손에 관한 말이다. 개인 이력이 같은 신앙 지위를 증명한다는 뜻이나 사실을 꾸며야 한다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:40",
+      "textSha256": "ae9cabce0c26a35d4a66f2865c2a09c69dd91026c54d00aa30cc49d0ef142343",
+      "status": "candidate",
+      "reason": "진리를 말한 이를 죽이려는 행동이 아브라함과 다르다고 지적한다. 반응이 거칠다는 이유만으로 진실이 잘못이 되지는 않는다.",
+      "contextNote": "예수의 참된 말씀과 청중의 살해 의도를 말한다. 사용자에게 같은 폭력 위험을 새로 설정하지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "불편한 사실에 공격적으로 반응하는 분위기와 내가 사실을 지킬 이유를 따로 볼 수 있다.",
+          "friction": "살해를 꾀하는 이들에 대한 예수의 말이다. 팀의 나쁜 평가를 같은 범죄로 규정하거나 안전한 결과를 약속하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:41",
+      "textSha256": "c041cb82e945f678eabb76868d539cdfa2528d4286aa48c2f5730cdfa496974d",
+      "status": "hold",
+      "reason": "청중은 자기들의 아버지가 하나님이라고 주장한다. 주장 자체가 참됨을 증명하는 절은 아니다.",
+      "contextNote": "예수의 아비의 행사 지적과 청중의 응수가 함께 있다. 음란한 출생이라는 표현으로 현대 가족을 모욕하지 않는다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "C001",
+          "clue": "하나님이 근원이라는 자기 주장을 실제 행동과 구분해 볼 여지는 있다.",
+          "friction": "대화의 반박까지 읽어야 주장과 사실이 나뉜다. 이 한 절을 자기 의견의 신적 인증으로 삼으면 맞지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:42",
+      "textSha256": "63a5f949aa8fcbcafa7c48029d2d2342f0b25ba27b9d076ba78df02d492e2a07",
+      "status": "hold",
+      "reason": "하나님을 아버지라 한다면 예수를 사랑할 것이라고 말한다. 내 의견을 사랑하지 않는 것이 하나님을 거부하는 일은 아니다.",
+      "contextNote": "예수의 실제 보내심과 출처가 근거다. 동료와의 이견을 같은 신앙 판별로 쓰지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C001",
+          "clue": "말의 출처와 따르는 대상 사이를 살필 수 있다.",
+          "friction": "사용자는 예수의 지위를 가진 것이 아니다. 내 의견에 동의하지 않는 사람을 하나님 자녀가 아니라고 몰아가는 연결은 성립하지 않는다.",
+          "expectedEnough": "no"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:43",
+      "textSha256": "3e39590cd809fc7076a9b913189a82c7de27a0e0e0f5578205bfb8c50d9aa4ae",
+      "status": "hold",
+      "reason": "깨닫지 못함을 말씀을 들을 줄 모르는 태도와 연결한다. 모르는 것을 조언받으려는 초심자와는 다른 상황이다.",
+      "contextNote": "예수의 출처를 거부하는 논쟁 중 청중에게 하는 질문이다. 지식 부족 전부를 의도적인 거부로 바꾸지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "듣는 자세와 단순히 소리를 접하는 일이 다를 수 있다.",
+          "friction": "청중의 거부를 지적하는 말이다. 질문하려는 사용자를 들을 줄 모르는 사람으로 정하거나 더 묻지 말라는 근거로 쓰기 어렵다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:44",
+      "textSha256": "be616cda8833ad7cfa4c9d3dd061e3ee74ab3263cc5fda1b4ba825283613ecc1",
+      "status": "candidate",
+      "reason": "살인과 거짓, 욕심의 관계를 강하게 드러낸다. 사실을 왜곡하는 선택을 사소한 편의만으로 볼지 돌아볼 실마리가 있다.",
+      "contextNote": "예수가 자신을 죽이려는 청중을 향해 마귀의 행사를 지적한다. 팀원이나 사용자를 마귀의 자녀로 판정하지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "당장의 분위기를 위해 거짓을 만드는 일이 어떤 방향의 행동인지 진지하게 살필 수 있다.",
+          "friction": "아비 마귀와 살인까지 포함한 강한 진술이다. 사용자의 한 선택을 사람 전체의 영구 신분으로 낙인찍지 않고 수치 왜곡 행동을 구분한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:45",
+      "textSha256": "a6fc75af5586bdda4b6c71407c3874def09d19f989ce2b97a34fe3bca55fadb1",
+      "status": "candidate",
+      "reason": "진리를 말하기 때문에 믿지 않는다는 역설은 수용의 크기와 진실을 같게 놓지 않을 실마리다.",
+      "contextNote": "예수에 대한 청중의 거부를 말한다. 비판받는 나의 모든 말이 자동으로 진실이라는 역추론은 아니다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "좋은 평가나 즉각적인 동의를 얻기 위해 사실을 바꾸는지 돌아볼 수 있다.",
+          "friction": "예수의 진리 증언이다. 정직한 개인 후기에도 오류가 있을 수 있으므로 실제 확인한 범위를 지킨다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:46",
+      "textSha256": "e333850a74620b7b2be09e9653125b641452420533813b23bec01087741b73e1",
+      "status": "hold",
+      "reason": "예수는 죄로 책잡을 자가 있는지와 진리를 왜 믿지 않는지 묻는다. 보통 사람의 의견에 같은 무오류가 주어지는 것은 아니다.",
+      "contextNote": "예수 자신의 삶과 진실을 근거로 한 질문이다. 이견을 모두 악의로 치부하지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C001",
+          "clue": "주장과 실제 삶의 근거를 살펴볼 수 있다.",
+          "friction": "사용자가 죄 없고 틀릴 수 없다는 근거는 없다. 내 의견에 대한 비판을 신적 진리 거부로 바꾸는 연결은 맞지 않는다.",
+          "expectedEnough": "no"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:47",
+      "textSha256": "64b8e2c8bec95ef9f12c8cf7f6029da468de0feec9200316dcf99c4fe2d5bc31",
+      "status": "hold",
+      "reason": "하나님 말씀을 듣는 관계를 말하지만 사용자 자신의 의견을 듣는 일과 동일하지 않다.",
+      "contextNote": "예수가 청중의 불신을 지적한다. 의견 반대자를 하나님께 속하지 않은 자로 판결하지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C001",
+          "clue": "지금 전하는 것이 실제 말씀인지 개인 생각인지 구별해야 한다.",
+          "friction": "사용자는 별도 말씀 없이 자기 의견을 말하려 한다. 상대 동의를 신앙의 자격으로 삼는 연결은 성립하지 않는다.",
+          "expectedEnough": "no"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:48",
+      "textSha256": "23a9064330b75bd3df57ced70f5536e637629a933b267cb0f045eeb927088eab",
+      "status": "candidate",
+      "reason": "사마리아 사람과 귀신 들렸다는 이름으로 상대를 몰아세운다. 반박 대신 모욕을 보태는 일에 동참할지 멈춰 볼 실마리다.",
+      "contextNote": "유대인들의 공격적 발언이다. 인종 명칭 자체를 모욕으로 승인하거나 귀신 들림을 의학적 진단처럼 사용하지 않는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C009",
+          "clue": "상대에게 붙이는 이름이 실제 사실 확인인지 집단 조롱의 한마디인지 살필 수 있다.",
+          "friction": "예수를 비난하는 장면이다. 동료 잘못을 확인하는 모든 말이 모욕이라는 뜻은 아니며 실제 책임은 남는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:49",
+      "textSha256": "43917c928ac0c2abf35eabef909e62081199df81225add553059e47dd8741e9b",
+      "status": "candidate",
+      "reason": "잘못된 낙인을 부정하고 자신이 하는 일과 받는 무시를 분명히 말한다. 상처를 숨기거나 맞공격하기 외에 사실을 말할 실마리다.",
+      "contextNote": "예수는 귀신 들리지 않았고 아버지를 공경한다고 답한다. 인간의 모든 자기 해명이 무오류라는 뜻은 아니다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H026",
+          "clue": "상대의 규정을 그대로 삼키지 않으면서 내가 한 일과 무시받아 상처 난 지점을 분명히 말할 수 있다.",
+          "friction": "예수의 정체 논쟁이다. 첫 대화로 반드시 화해한다는 보증도, 이미 여러 번 말한 침해에 같은 말만 반복하라는 뜻도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:50",
+      "textSha256": "a990ed64b59d7e76770b216bbacbaf56f8beead6fc47bc17c68b66188197008c",
+      "status": "candidate",
+      "reason": "자기 영광을 구하지 않으며 판단하시는 이가 있음을 말한다. 사람들의 평가를 얻으려 자신을 꾸미는 데서 물러설 실마리다.",
+      "contextNote": "예수의 영광과 아버지의 판단을 말한다. 사용자의 모든 평가를 무조건 뒤집겠다는 약속은 아니다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "내 평판을 당장 높이는 것만을 목적으로 삼지 않고 사실을 말할 수 있다.",
+          "friction": "하나님의 판단을 인간의 칭찬이나 좋은 성적과 동일시하지 않는다. 정직 뒤의 평가 결과는 아직 모른다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:51",
+      "textSha256": "97af80cce25d1c87403a2a282851d59d335ab6e87cf27b4c60c4dfe8605d0eb5",
+      "status": "hold",
+      "reason": "말씀을 지키는 자가 죽음을 보지 않는다는 약속은 생명의 희망을 말하지만 육체적 죽음이나 현재 치료 결과의 면제는 아니다.",
+      "contextNote": "뒤에서 아브라함의 죽음을 든 청중의 오해가 이어진다. 그 오해대로 임상 경과를 확답하지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G14",
+          "clue": "현재 아픔이 생명에 대한 모든 희망을 끝내는 것은 아니라는 방향을 생각할 수 있다.",
+          "friction": "예수의 말씀과 영생의 약속이다. 치료를 계속할지 다른 방식을 알아볼지의 구체 기준은 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:52",
+      "textSha256": "da3abc54d42d1e9a933f7c6af713cddca43c7a6b16b97b12dcd5695ad9507718",
+      "status": "candidate",
+      "reason": "비유의 뜻을 확인하기 전 조상의 죽음을 근거로 귀신 들렸다고 단정한다. 일부 사실과 전체 해석을 나눌 실마리다.",
+      "contextNote": "조상들이 죽었다는 사실과 예수의 생명 말씀을 연결하는 청중의 오해다. 죽음의 사실 자체를 부인하지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "확인한 일부 사실은 남기되 그 사실에 붙인 최악의 해석까지 확정하고 있는지 살필 수 있다.",
+          "friction": "영원한 생명에 대한 예수의 말씀을 오해한 장면이다. 친구의 말이 옳다는 결론 대신 뜻을 직접 들을 여지를 둔다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:53",
+      "textSha256": "a74b94d3d0c1f38efd9dac16716b924047c5a3202ad3467709afb1b1758c3d9f",
+      "status": "hold",
+      "reason": "아브라함과 선지자보다 큰지, 누구라 하려는지 묻는다. 주장자의 정체를 확인하는 일과 조롱의 목적을 나눌 필요가 있다.",
+      "contextNote": "예수의 정체에 대한 반문이다. 질문을 했다는 이유만으로 잘못이라고 하거나 이 반문을 최종 진실로 삼지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C001",
+          "clue": "자신을 어떤 권위로 말하고 있는지 물어볼 수 있다.",
+          "friction": "예수는 실제로 아브라함 이전의 정체를 밝힐 분이다. 사용자에게 없는 권위를 같은 것으로 빌릴 수 없고 이 질문만으로 개인 의견의 출처가 판정되지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:54",
+      "textSha256": "6ff8a445904366599ca8cabc9ed998516842a27b1671a97ca1e47b005310133a",
+      "status": "candidate",
+      "reason": "자기에게 돌리는 영광과 아버지가 주시는 영광을 나눈다. 좋아 보이려 스스로 공을 키우는 일을 돌아볼 실마리다.",
+      "contextNote": "예수와 아버지의 관계를 설명한다. 사용자가 겸손하면 사람들의 칭찬이 반드시 늘어난다는 약속은 아니다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "내가 내 평판을 크게 만들기 위한 설명인지 사실을 전하는 것인지 살필 수 있다.",
+          "friction": "예수의 영광에 관한 말이다. 일반 성과가 하나님의 직접 인증이라는 뜻으로 넓히지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:55",
+      "textSha256": "37d68b9c5fe977e798285c230c8a02c8d3ec46be1097c287c610036f7a50c131",
+      "status": "candidate",
+      "reason": "아는 것을 모른다고 하면 거짓이 된다는 말은 과장뿐 아니라 사실을 감춰 겸손한 척하는 것도 나누게 한다.",
+      "contextNote": "예수는 아버지를 알고 말씀을 지킨다고 하신다. 청중을 거짓말쟁이라 한 표현을 현대 동료에게 그대로 붙이지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "부풀리지 않는 것과 실제 아는 것까지 부인하는 것은 다르다. 확인한 기여와 경험은 정확히 말할 수 있다.",
+          "friction": "예수의 아버지에 대한 앎이다. 사용자는 모르는 것까지 안다고 하지 않고 자기 경험의 실제 범위를 지킨다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:56",
+      "textSha256": "5013c67cbd2e4a8dabaafc26430aa86f72babbcae17180c1d448cafac7ece648",
+      "status": "hold",
+      "reason": "아브라함이 예수의 때를 보고 기뻐했다는 말은 기쁨을 보여 주지만 그 때와 봄의 뜻을 알아야 한다.",
+      "contextNote": "뒤의 나이와 선재 논쟁으로 이어진다. 사용자가 놓친 기회가 반드시 다시 열린다는 약속은 아니다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H040",
+          "clue": "다른 이의 때를 보고 기뻐하는 모습을 떠올릴 수 있다.",
+          "friction": "아브라함과 그리스도의 때에 관한 특별한 말이다. 친구 성과와 자신의 비교 감정을 가를 충분한 단서는 간접적이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:57",
+      "textSha256": "15814ffc9072862653dec4f00f1aafea5f160c770c62a6fe2c19f835cea5f36c",
+      "status": "hold",
+      "reason": "나이를 근거로 아브라함을 보았는지 묻는다. 평범한 시간 계산 자체가 잘못은 아니며 예수의 출처를 이해해야 한다.",
+      "contextNote": "청중의 물음 뒤 예수의 선재 선언이 나온다. 모든 상식적 검증을 불신으로 규정하지 않는다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H061",
+          "clue": "내가 세운 조건으로 설명이 다 되는지 물어볼 수 있다.",
+          "friction": "여기는 예수의 선재가 쟁점이다. 일반 선택에서 사실과 시간 제약을 확인하지 말라는 방향은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:8:58",
+      "textSha256": "983ce97771f2d9fae9c851ff08687805f1e94482ff76911f22014d77081df64c",
+      "status": "exclude",
+      "reason": "아브라함 이전의 존재를 밝히는 예수의 고유한 정체성 선언이다. 개인 경력이나 출발 시점에 대응시킬 수 없다.",
+      "contextNote": "앞의 나이 질문에 대한 답이다. 사용자가 본래부터 선택받은 진로를 안다는 예언으로 바꾸지 않는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JHN:8:59",
+      "textSha256": "6efac0efbeaa6009ff61b74ec7abacde69702a34697d06e1325cfbcedd038308",
+      "status": "candidate",
+      "reason": "돌을 들려는 이들 앞에서 예수는 숨어 나가신다. 격해진 장면에서 맞공격 외에 벗어나는 길도 있음을 보여 준다.",
+      "contextNote": "실제 돌로 치려는 위협이다. 사용자의 메시지 갈등을 같은 생명 위험으로 꾸미지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "상대 반응에 즉각 더 센 공격을 돌려주는 대신 지금의 충돌 자리에서 물러날 수 있다.",
+          "friction": "예수가 물리적 위협에서 벗어난 사건이다. 보내야 할 설명을 영구 피하라는 뜻이나 실제 위험이 없다는 보증은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:9:1",
+      "textSha256": "5c1d378b246368835e0b0fbaaa927dcbb13ca8713da92342eea2108a841ec129",
+      "status": "hold",
+      "reason": "날 때부터 보지 못한 사람을 보았다는 소개는 고통의 실제 상태를 보여 주지만 아직 원인이나 대응은 말하지 않는다.",
+      "contextNote": "이어 제자들이 죄의 원인을 묻는다. 장애를 그 사람의 잘못이라는 증거로 미리 두지 않는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C017",
+          "clue": "겪는 어려움의 상태 자체를 먼저 볼 수 있다.",
+          "friction": "이 절에는 죄와 어려움의 관계에 대한 답이 없다. 새 어려움을 벌로 보는 생각을 풀기에는 뒤의 대화가 필요하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:9:2",
+      "textSha256": "8ad697a7ccbf0c8bfa50fe8a3f925cbe40b029cae0f8912a8ecf48d22560e01f",
+      "status": "candidate",
+      "reason": "자기 죄냐 부모 죄냐는 질문은 두 선택지 모두에 죄가 원인이라는 전제를 넣는다. 어려움을 무조건 벌로 보는 질문의 틀을 돌아볼 실마리다.",
+      "contextNote": "제자들의 질문이며 다음 절에서 그 전제가 수정된다. 질문을 예수의 확정 진단으로 승인하지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C017",
+          "clue": "새 어려움의 원인을 찾는다면서 이미 누군가의 죄 때문이라고 결론 내린 뒤 고르고 있는지 살필 수 있다.",
+          "friction": "태어날 때부터 보지 못한 사람에 관한 제자들의 질문이다. 과거 잘못을 부인하는 뜻이 아니라 원인을 미리 단정하는 틀을 보는 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:9:3",
+      "textSha256": "bb03571d96964aea989d06e9732d8d2a61d4fecf2be96ec96e6e1e9f85283fbe",
+      "status": "candidate",
+      "reason": "본인이나 부모의 죄 때문이라는 설명을 거절하고 하나님의 일을 나타냄을 말한다. 모든 새 어려움을 더 나쁜 사람의 증거로 읽는 틀과 다른 실마리다.",
+      "contextNote": "특정 사람에 대한 예수의 답과 뒤의 치유가 문맥이다. 하나님이 사용자를 벌하거나 고통시켜 특정 성과를 내신다는 새 설명을 만들지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C017",
+          "clue": "어려움이 있다는 사실만으로 이미 바로잡은 죄의 벌이라고 정할 필요는 없는지, 각각의 원인과 현재 할 일을 살필 수 있다.",
+          "friction": "뒤말의 하나님의 하시는 일도 남긴다. 모든 문제의 숨은 목적을 서비스가 해설하거나 사용자의 회복을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:9:4",
+      "textSha256": "caea9cdc26c0b2428e99861691b74d8800a1719bf994bacff53ae384b7113ac2",
+      "status": "candidate",
+      "reason": "할 수 있는 낮과 할 수 없는 밤을 구분한다. 무한한 준비 대신 실제 가능한 때에 할 일을 할 실마리가 있다.",
+      "contextNote": "예수가 보내신 이의 일을 하는 때다. 야간 수면을 없애라는 명령이나 사용자의 마감을 새로 예언하는 말은 아니다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H050",
+          "clue": "다음 기회가 확실하지 않고 오늘이 실제 기한이라면 준비를 무한히 늘리는 일과 가능한 지금의 행동을 비교할 수 있다.",
+          "friction": "예수의 일과 때에 관한 말이다. 미완성 지원의 선발을 보장하지 않으며 몸의 한계를 무시하라고 하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:9:5",
+      "textSha256": "253233d20ab10b3904e3b58cd2bc1fc6dc15b79838ff5d05a9ba395dd3b4a3cc",
+      "status": "hold",
+      "reason": "예수가 세상의 빛이라는 선언은 보지 못한 사람을 만나는 문맥에 놓인다. 불안을 다루는 구체 선택은 이 절에 적다.",
+      "contextNote": "세상에 있는 동안이라는 조건도 포함한다. 빛을 모든 개인 직감과 동일시하지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H063",
+          "clue": "내가 의지하는 빛이 무엇인지 생각할 수 있다.",
+          "friction": "예수의 정체성 선언이라 더 바빠질지 잠시 살필지의 충분한 갈림은 아직 드러나지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:9:6",
+      "textSha256": "a155001b3f3a44599ec3b0b99293af261dfda9e9fb4b15bdf800a8e61f389502",
+      "status": "exclude",
+      "reason": "침으로 진흙을 이겨 눈에 바르는 특정 치유 행동이다. 작은 도움이라는 이름으로 사용자가 재현할 처치로 제시할 수 없다.",
+      "contextNote": "다음 실로암 씻음과 함께 기록된 예수의 치유 과정이다. 방법의 일부를 일반 건강 지침이나 부적 같은 규칙으로 만들지 않는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JHN:9:7",
+      "textSha256": "8da351f13c72075786bd7a9e4fee86b57fdaf477994c72885843a35657e4b0f1",
+      "status": "hold",
+      "reason": "실제로 받은 씻으라는 말에 따라 가고 보게 된 결과까지 담는다. 치료 중인 사람에게 같은 방법과 결과가 정해진 것은 아니다.",
+      "contextNote": "실로암 이름 뜻의 괄호도 포함한 사건이다. 보냄이라는 지명을 사용자의 진로 지시로 읽지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G14",
+          "clue": "받은 도움에 응답하고 실제 행동을 하는 모습을 볼 수 있다.",
+          "friction": "이 사람은 예수의 구체 말씀과 실제 회복을 경험했다. 현재 치료 방법을 유지할지 바꿀지의 기준을 대신하지 못한다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:9:8",
+      "textSha256": "97fedbaa6f0b7226f7ba46c2791fddd37b47620dfebb8fcf93e69a07cbe0bb13",
+      "status": "hold",
+      "reason": "이웃들은 과거 구걸하던 모습으로 지금의 사람을 알아보려 한다. 과거 정체성과 현재 변화를 구별할 여지는 있다.",
+      "contextNote": "놀라서 신원을 확인하는 질문이며 조롱했다고 나오지는 않는다. 이웃에게 없는 적의를 덧붙이지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "과거의 한 모습만이 지금 사람의 모든 상태는 아닐 수 있다.",
+          "friction": "업무 잘못이나 정죄가 아니라 실제 치유 뒤 신원 확인이다. 고친 실수의 자기 처벌을 멈출 직접 실마리는 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:9:9",
+      "textSha256": "12dab7997393096bfe0435878b5725124eb086ad6394b26f17dde449ce6bd9f3",
+      "status": "candidate",
+      "reason": "주변의 서로 다른 추측 속에서 당사자가 자기 신원을 직접 말한다. 타인의 추측과 내가 아는 사실을 구별해 전할 실마리다.",
+      "contextNote": "비슷한 사람이라는 말과 본인이라는 말을 함께 기록한다. 주변 의견을 모두 악의로 취급하지 않는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "사람들이 여러 이야기를 붙일 때 내가 실제 아는 경험과 사실은 꾸미지 않고 직접 말할 수 있다.",
+          "friction": "치유된 이의 신원 확인이다. 자기 말이면 무조건 참이라는 규칙이 아니라 직접 아는 범위를 말하는 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:9:10",
+      "textSha256": "95f570563bbef36d679a70ac4e81582e6c0213e797429374e8bc28c0efbfb2a5",
+      "status": "candidate",
+      "reason": "어떻게 눈이 떠졌는지 구체적인 과정을 묻는다. 모르는 방법을 혼자 추측하기보다 질문할 실마리다.",
+      "contextNote": "이웃들이 변화의 경위를 묻는 장면이다. 이 질문 자체에 악의가 명시되지 않는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "결과만 보고 방법을 아는 척하지 않고 어떻게 된 일인지 물을 수 있다.",
+          "friction": "기적의 경위를 묻는 질문이다. 선배가 모든 것을 안다거나 질문에 원하는 답을 반드시 준다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:9:11",
+      "textSha256": "77ac419b521c2d94e92412ef33c000c8869eb83fefcd73d3c01fc769cdd2b9b3",
+      "status": "candidate",
+      "reason": "누가 무엇을 하고 자신은 어떻게 움직여 무엇을 보았는지 순서대로 전한다. 사실을 구체적으로 말할 실마리가 선명하다.",
+      "contextNote": "진흙과 실로암은 실제 치유 사건의 경과다. 이 처치의 재현을 권하는 연결은 아니다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "좋게 보이도록 큰 의미를 보태기보다 실제 겪은 과정과 결과를 정확히 말할 수 있다.",
+          "friction": "예수의 치유를 받은 이의 보고다. 확인하지 않은 동기나 효능까지 일반화하지 않고 본 사실에 머문다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:9:12",
+      "textSha256": "04da74c812a8be6cab2b26481b15bea1b976761e065dffeef2012a6cc33f53bf",
+      "status": "candidate",
+      "reason": "알지 못하는 위치를 모른다고 답한다. 큰 경험을 했어도 모든 정보를 아는 척할 필요가 없다는 실마리가 직접적이다.",
+      "contextNote": "고침 받은 사람은 치유의 경과는 알지만 예수의 현재 위치는 모른다. 모름을 사건 전체의 거짓으로 만들지 않는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "알고 있는 사실은 말하고 확인하지 않은 것은 모른다고 남길 수 있다.",
+          "friction": "한 사람의 위치에 대한 답이다. 실제 아는 기여까지 숨기거나 필요한 확인을 포기하라는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:9:13",
+      "textSha256": "b40bb82f2d2bfd6d440eddd50022e062996aa87aafdb7f6fc306ca01b6a6aadd",
+      "status": "exclude",
+      "reason": "전에 보지 못했던 사람을 바리새인들에게 데려간 이동이다. 데려간 이유와 태도는 이 절만으로 분명하지 않다.",
+      "contextNote": "다음에 안식일과 조사 대화가 나온다. 모든 인계를 고발이나 돌봄으로 단정하지 않는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:JHN:9:14",
+      "textSha256": "c61a554b0a70e819d5ab8c969d74d4953b53c7bb234793a63cae1a99afa0a3ec",
+      "status": "hold",
+      "reason": "눈을 뜨게 한 날이 안식일이라는 사실은 이후 규칙 논쟁의 조건이다. 이 절만으로 규칙과 돌봄의 우선이 정해지지는 않는다.",
+      "contextNote": "진흙을 이겨 치유한 날을 밝힌다. 안식일 언급만으로 휴식이 잘못이거나 규칙이 전부 무익하다고 하지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C005",
+          "clue": "같은 행동도 운영 규칙과 어떤 관계에 놓였는지 살필 수 있다.",
+          "friction": "아직 청중의 판단이나 실제 충돌의 설명이 없다. 신입 돌봄을 택할 단독 실마리는 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:9:15",
+      "textSha256": "c758bc3ec06c8cd23e340ca69a707f46c3fa501ac051c7f12e3a38d49732858d",
+      "status": "candidate",
+      "reason": "다시 물어도 바르고 씻고 보게 된 실제 경과를 짧게 말한다. 반응에 맞춰 이야기를 키우지 않는 실마리가 있다.",
+      "contextNote": "바리새인들의 질문에 대한 치유된 이의 답이다. 질문자에게 아직 밝혀지지 않은 지식까지 채우지 않는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "좋아 보이는 새 이야기를 더하지 않고 같은 사실을 간명하게 전할 수 있다.",
+          "friction": "기적을 겪은 사람의 보고다. 진흙 처치가 보편 치료라는 주장이 아니라 실제 사건의 정확성과 연결한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:9:16",
+      "textSha256": "f7a7a37e9b869e11cab20dfa8c766a0fa2613f84f816b0a5e8020d25fe58e0ff",
+      "status": "candidate",
+      "reason": "안식일 준수만으로 출처를 부정하는 말과 실제 치유를 보는 말이 갈린다. 규칙 항목과 실제 사람에게 일어난 일을 함께 볼 실마리다.",
+      "contextNote": "바리새인들 내부에도 논쟁이 있다. 한 집단 모두가 같은 판단이라고 단정하지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C005",
+          "clue": "형식 위반만 보며 사람의 실제 어려움과 변화는 놓치는지, 판단에 무엇을 함께 볼지 살필 수 있다.",
+          "friction": "예수의 치유와 하나님께로서 옴을 논한다. 동아리의 모든 성과가 규칙을 면제한다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:9:17",
+      "textSha256": "5491285efe9eb2c66f83d3c0dcc90b550bcc4c30a88c697379e57f7cebc708fe",
+      "status": "candidate",
+      "reason": "다른 이들의 논쟁 뒤 경험 당사자에게 너는 어떻게 보느냐고 묻는다. 남의 판단과 내 경험에 근거한 답을 분리할 실마리다.",
+      "contextNote": "그는 눈을 뜨게 한 이를 선지자라 답한다. 주관적 경험 하나로 모든 주장의 진위를 확정하는 공식은 아니다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H064",
+          "clue": "주변의 말이 갈려도 내가 직접 아는 경험과 중요하게 보는 이유를 말해 볼 수 있다.",
+          "friction": "예수에 대한 믿음과 평가다. 사용자의 어느 선택도 신적 정답으로 확정하지 않고 자기 근거를 정리하는 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:9:18",
+      "textSha256": "ae9ffad94254090a6eeb6c90e4b7330b565cfa02f9dbf36c44fdfa0b22c4380a",
+      "status": "hold",
+      "reason": "믿지 않던 사람들이 부모를 불러 신원과 과거 상태를 확인한다. 확인 요청 자체와 결론을 미리 정한 태도를 나눠야 한다.",
+      "contextNote": "부모의 답은 다음 절들에 나온다. 추가 확인을 하는 일 전부가 악한 불신이라고 하지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "전해진 말 외에 실제 사정을 아는 사람에게 확인할 수 있다.",
+          "friction": "여기에는 부모의 답과 당사자의 설명을 어떻게 받아들일지 아직 없다. 확인을 건너뛸지의 기준으로 쓰기 어렵다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:9:19",
+      "textSha256": "ac2b484c392955977563465857b59914ec0eab490c0744888e8174e1b77228b1",
+      "status": "candidate",
+      "reason": "아들이 맞는지와 지금 어떻게 보는지를 구별해 묻는다. 하나의 인상으로 묶지 않고 확인할 질문을 나눌 실마리다.",
+      "contextNote": "태어날 때 상태와 현재 변화의 경위를 부모에게 묻는다. 질문의 존재만으로 조사자들의 모든 판단을 승인하지 않는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "누가 했는지, 전후가 어땠는지, 무엇을 직접 아는지 질문을 나눠 정확한 보고를 준비할 수 있다.",
+          "friction": "치유된 이의 가족에게 확인하는 장면이다. 확인되지 않은 답은 빈칸으로 남기고 추측으로 채우지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:9:20",
+      "textSha256": "261987d0ce7987e39a519e3654494c0b625d6d1a674eb4a5da0e23c2b61d888a",
+      "status": "candidate",
+      "reason": "부모는 자기 아들이며 날 때부터 보지 못했음을 안다고 범위를 말한다. 확실히 아는 사실을 분명히 전할 실마리다.",
+      "contextNote": "뒤에서 모르는 경위를 별도로 말한다. 부모의 동기에는 두려움이 있다는 뒤 문맥도 함께 본다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "설명을 크게 만들기보다 실제로 아는 두 가지 사실처럼 확인한 범위를 분명히 말할 수 있다.",
+          "friction": "가족의 신원과 병력에 대한 보고다. 모든 것을 안다는 주장이나 좋은 평가를 받을 거라는 보증은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:9:21",
+      "textSha256": "fc8c1acce0fc402a4df7bb06533da28df41c5633c22fa92c1c962f54d2cbbeb8",
+      "status": "candidate",
+      "reason": "모르는 경위와 직접 말할 수 있는 성인의 경험을 구분한다. 타인의 일을 대신 꾸며 말하지 않을 실마리다.",
+      "contextNote": "뒤에서 부모의 두려움이 밝혀진다. 겁이 난 동기까지 모범으로 만들거나 실제로 알고도 거짓말했다고 단정하지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "내가 아는 일과 당사자에게 직접 물어야 할 일을 나눠 보고할 수 있다.",
+          "friction": "부모의 답에는 출교 두려움이 작용했다. 모른다는 말로 실제 아는 사실까지 회피하라는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        },
+        {
+          "scenarioId": "C003",
+          "clue": "성인이 자기 경험과 선택에 대해 직접 말할 자리를 대신 감싸며 없애지 않을 수 있다.",
+          "friction": "부모는 두려워 말을 줄였다. 가족을 버리는 모범이 아니라 성인 형제의 독립된 행동 책임과 내 책임을 나누는 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:9:22",
+      "textSha256": "8cf56cf0dae1777b6c26493c5c299c12f2e5fe8874fb0576b2c683cfb2df68f9",
+      "status": "candidate",
+      "reason": "출교 두려움이 답변 방식에 작용했음을 밝힌다. 사실과 별개로 불이익의 두려움이 말의 범위를 정하는지 살필 실마리다.",
+      "contextNote": "기록자는 부모의 두려움을 설명하지만 그들이 치유 과정을 사실은 다 알았다고 말하지 않는다. 거짓 동기를 새로 만들어 넣지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "지금 말하려는 내용이 실제 사실의 범위 때문인지 불리한 평가를 피하려는 두려움 때문인지 구분할 수 있다.",
+          "friction": "본문의 불이익은 출교다. 팀의 평가와 같은 강도라고 하지 않으며 사실을 말하면 불이익이 없다는 약속도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:9:23",
+      "textSha256": "37d4d5dbb21a9bd6e3501d7a165fafd0cc2d2a874e1f3fc4e49fd25e8f969bad",
+      "status": "candidate",
+      "reason": "성인이므로 직접 물으라고 말한다. 가족이라는 이유로 당사자의 말과 책임을 전부 대신할 필요가 있는지 돌아보게 한다.",
+      "contextNote": "이 말의 배경에는 부모의 두려움이 있다. 두려움 자체를 정당화하거나 가족의 실제 지원을 모두 끊지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C003",
+          "clue": "성인 형제가 독립적으로 한 말과 약속을 내가 모두 대신 설명하고 감춰야 하는지 나눠 볼 수 있다.",
+          "friction": "부모와 치유된 성인의 조사 상황이다. 형제의 잘못이 치유와 같다는 뜻이 아니라 직접 말할 책임을 구분하는 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:JHN:9:24",
+      "textSha256": "53f2b1371ab15389142ecb6afd0a93651c121abec984c2c417759279fea54e38",
+      "status": "candidate",
+      "reason": "하나님께 영광을 돌리라는 말에 이미 죄인이라는 지도자들의 결론을 붙인다. 경건한 말이 사실 확인을 대신할 수 있는지 돌아보게 한다.",
+      "contextNote": "조사자들의 주장이지 예수가 죄인이라는 기록자의 판정은 아니다. 다음에 당사자는 아는 것과 모르는 것을 나눈다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C001",
+          "clue": "하나님을 위한 말이라는 명분으로 내가 정한 평가에 상대를 동의시키려 하는지 살필 수 있다.",
+          "friction": "예수의 치유를 조사하는 이들의 압박이다. 지도자의 선언만으로 하나님이 실제 그렇게 말씀하셨다는 증거가 되지 않는다.",
+          "expectedEnough": "yes"
+        },
+        {
+          "scenarioId": "C008",
+          "clue": "권위자가 결론을 이미 정해도 내가 확인하지 못한 것까지 그 결론에 맞춰 말해야 하는지 생각할 수 있다.",
+          "friction": "죄인이라는 판정을 요구하는 장면이다. 현대 수치 보고와 동일 사건은 아니며 정직 뒤의 평가를 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
     }
   ]
 }

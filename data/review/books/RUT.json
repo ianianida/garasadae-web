@@ -1,0 +1,1040 @@
+{
+  "bookCode": "RUT",
+  "corpusSha256": "f8d5c8b377e243b05fb884b4a6965d2c06a95de74b64a716ee4b95989d61e971",
+  "criteriaVersion": "garasadae-corpus-2026-10-08-v1",
+  "reviewer": "Codex review_gen_2ki",
+  "method": "direct-codex-reading",
+  "entries": [
+    {
+      "id": "KRV:RUT:1:1",
+      "textSha256": "581d00621f8f03b29275336c6501a9b361d5419daaebff9670954f5560041620",
+      "status": "hold",
+      "reason": "A020에서 익숙한 곳을 떠나 생활을 옮기는 모습은 있지만 실제 흉년 때문에 가족 모두 이주한 배경이라 준비 가능한 진학 기회 앞의 가족 이별 부담과는 조건이 다르다.",
+      "contextNote": "사사 시대 흉년에 엘리멜렉 가족이 모압으로 옮긴 일을 소개한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:1:2",
+      "textSha256": "e64aaefe2bc2bceffef91d0f8bbb8fa112452dc838cb16698b7d9310c782af26",
+      "status": "exclude",
+      "reason": "A020의 이주와 비교해도 네 가족의 이름과 베들레헴 출신 및 모압 체류를 적은 신원 소개라 현재 새 기회를 선택할 기준은 없다.",
+      "contextNote": "엘리멜렉과 나오미와 두 아들의 신원을 제시한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:1:3",
+      "textSha256": "e2f49f43d02fe8f05b42152a1f0b88a3b92c98ecd63aec6ccdd95b97830e6f5b",
+      "status": "exclude",
+      "reason": "H060의 상실과 비교해도 남편이 죽고 세 가족이 남았다는 사실만으로 지금 할 일과 놓친 기회를 가려 볼 실마리는 없다.",
+      "contextNote": "모압에서 나오미가 남편을 잃는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:1:4",
+      "textSha256": "a847891ac7853d397c805da14708fe1dec0deaf88221b52960366ecf0ef4b7f9",
+      "status": "exclude",
+      "reason": "H032의 관계 시작과 비교해도 두 아들의 혼인 상대 이름과 십 년 체류를 소개할 뿐 당사자의 마음과 선택 부담은 나타나지 않는다.",
+      "contextNote": "오르바와 룻을 며느리로 소개한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:1:5",
+      "textSha256": "4f0a5ef5851cbc7df7897b3bc2873742f5f3b83f782f36d03f040dbd5c72908b",
+      "status": "exclude",
+      "reason": "H060의 기회 상실과 비교해도 두 아들까지 죽어 나오미가 남았다는 연속 사별의 기록으로 현재의 선택 방향을 읽을 단서는 아직 없다.",
+      "contextNote": "나오미가 남편과 두 아들을 모두 잃은 상태를 설명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:1:6",
+      "textSha256": "9fa8c011b36f9235677a31854b60687b2dfdbe8112db2eb72879e857d8ebcfac",
+      "status": "candidate",
+      "reason": "A020에서 실제로 들은 새 기회를 근거로 일어나 움직이는 장면이 익숙한 곳을 떠날 용기를 개인적으로 줄 수 있다.",
+      "contextNote": "나오미가 고향에 양식이 생겼다는 소식을 듣고 돌아갈 준비를 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A020",
+          "clue": "실제 들은 좋은 소식에 일어나 길을 준비한 모습에서 이미 준비 가능한 새 도시 기회를 두려움만으로 미루지 않을 용기를 읽는다.",
+          "friction": "양식을 찾아 고향으로 돌아가는 사별한 가족의 이야기다. 현재 사용자에게 빈곤이나 새로운 가족 동행을 채워 넣거나 진학 뒤 소득과 정착 성공을 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:RUT:1:7",
+      "textSha256": "7efaae12ef36c5ee22124524c483c6c3e670b27f7f78f09f8ba35c1c9c2fff4b",
+      "status": "candidate",
+      "reason": "A020에서 있던 곳을 떠나 목적지를 향해 실제 길을 시작하는 행동이 막연한 두려움으로 미루던 결정을 움직일 단서가 된다.",
+      "contextNote": "나오미와 며느리들이 유다를 향해 함께 출발한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A020",
+          "clue": "있던 곳을 떠나 길을 시작하는 행동에서 머릿속 걱정만 반복하기보다 준비된 기회로 움직일 수 있겠다는 방향을 읽는다.",
+          "friction": "유다로 돌아가는 여행의 연결절이다. 현재 새 도시를 하나님이 직접 지시했다거나 가족이 반드시 함께할 것이라고 말하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:RUT:1:8",
+      "textSha256": "a67d5da427b582c689fbc5e08b53fae0f219f9dc69bd563b52b4f86f44e6b1c4",
+      "status": "candidate",
+      "reason": "H044에서 이미 베푼 도움을 인정하면서 상대를 자기 길로 보내는 말이 더 이상 모든 부탁을 맡아야 한다는 부담을 덜 실마리가 된다.",
+      "contextNote": "나오미가 며느리들의 지난 선대를 축복하며 친정으로 돌아가라고 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H044",
+          "clue": "이미 잘해 준 마음을 인정하면서 돌아가도 된다고 말한 장면에서 더 해 주어야만 관계가 지켜진다는 부담을 내려놓을 수 있다.",
+          "friction": "사별 뒤 시어머니가 며느리를 보내는 말이다. 현재 부탁한 사람이 반드시 같은 이해를 보인다고 보장하거나 이미 약속한 일을 모두 취소하라는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:RUT:1:9",
+      "textSha256": "21ec096d327b0a22af1336718ee4ed96c29b490d6557037b34c0c532bae5986b",
+      "status": "candidate",
+      "reason": "H040에서 다른 사람이 자기 평안을 얻기를 바라며 보내는 마음이 비교 때문에 축하를 막는 부담에 닿는다.",
+      "contextNote": "나오미가 며느리들의 새 가정의 평안을 빌고 서로 울며 작별하려 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H040",
+          "clue": "슬픈 마음과 별개로 상대의 평안을 빌어 주는 모습에서 내 비교 감정이 있어도 친구의 좋은 일을 축하할 수 있다.",
+          "friction": "새 남편의 집을 위한 축복과 작별의 눈물이다. 평안은 혼인에서만 온다거나 친구의 미래 결과가 확정됐다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:RUT:1:10",
+      "textSha256": "1b4feae2b8f4a2483d1918e8735363f209d9dbbe92d80fe83f6cfdbe04e5b375",
+      "status": "hold",
+      "reason": "H054에서 함께하겠다는 자발적 의사는 읽히지만 앞서 한 작업 약속의 이행이 아니라 동행의 새 결심이므로 더 좋은 기회 때문에 선약을 바꿀지와는 전제가 다르다.",
+      "contextNote": "두 며느리가 나오미와 함께 유다로 가겠다고 처음 답한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:1:11",
+      "textSha256": "bee0fe7105d10e80491f9e25d101a635cc2ee415e59ebcf59fbd754cb044d5c9",
+      "status": "hold",
+      "reason": "H044에서 상대에게 더 기대를 갖지 말라는 한계는 보이나 태중에 남편될 아들이 있느냐는 당시 혼인 관습을 알아야 해 새 부탁의 부담과 바로 잇기는 어렵다.",
+      "contextNote": "나오미가 새 남편을 마련해 줄 수 없다고 설명하며 며느리들을 다시 돌려보내려 한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:1:12",
+      "textSha256": "9fca29c025bbc3f3fff9a236aeacf8c09a55efb222f1a3145279bd83a579683c",
+      "status": "hold",
+      "reason": "A030에서 나이를 인정하고 역할의 한계를 말하는 모습은 있으나 재혼과 출산 가정이 중심이라 육체 일을 줄여 경험을 전할지의 선택으로는 간접적이다.",
+      "contextNote": "나오미가 자신의 노년과 가상적인 출산까지 들어 기다릴 실익이 없다고 설명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:1:13",
+      "textSha256": "1fe24caa215c6e3431fd441c4d731f9dfc3dd1ee717c6676b7d41c1b95a7e3ca",
+      "status": "hold",
+      "reason": "H050에서 오지 않을 기회를 계속 기다리지 말라는 단서는 있으나 아들의 성장과 혼인을 기다리는 조건 및 하나님의 징벌이라는 탄식이 길어 오늘 실제 마감의 선택과는 마찰이 크다.",
+      "contextNote": "나오미가 며느리들의 미래를 묶고 싶지 않다고 말하며 자기 사별을 하나님의 손으로 탄식한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:1:14",
+      "textSha256": "2c20ed2ca26fdb43b104ba4d66c85ece505c0dd822cd38e2ba6d767531368214",
+      "status": "candidate",
+      "reason": "H064에서 같은 상황의 두 사람이 서로 다른 결심을 할 수 있음을 보고 다른 사람의 선택을 곧 내 답으로 삼지 않을 실마리가 있다.",
+      "contextNote": "오르바는 작별하고 룻은 나오미를 계속 따른다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H064",
+          "clue": "한 사람은 돌아가고 한 사람은 남은 장면에서 다른 사람의 선택이 내 마음까지 대신 정해야 하는 것은 아니라는 여지를 읽는다.",
+          "friction": "오르바와 룻의 서로 다른 가족 동행 선택이며 본문은 여기서 오르바를 비난하지 않는다. 내 가치로 결정하면 모든 결과가 좋다고 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:RUT:1:15",
+      "textSha256": "6158c7657958df95ac2784f325ea12b48fc4f719e6d0823a975d17f3714e1a98",
+      "status": "hold",
+      "reason": "H064에서 남의 선택을 따라야 하는지 돌아볼 계기는 있지만 다른 신과 백성에게 돌아가라는 문자 명령은 뒤 룻의 거절과 함께 읽어야 개인의 결심으로 연결된다.",
+      "contextNote": "나오미가 오르바의 귀환을 이유로 룻도 돌아가라고 재차 권한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:1:16",
+      "textSha256": "ee6a0038606accdb0b812dc7903286752a6e8d9c175be49341cda08156f5b07d",
+      "status": "candidate",
+      "reason": "H036에서 다른 사람의 권유와 별개로 내가 함께하고 믿고 싶은 방향을 분명히 말하는 구체 단서가 있다.",
+      "contextNote": "룻이 강권을 멈춰 달라며 나오미의 길과 백성과 하나님을 자기 선택으로 받아들이겠다고 답한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H036",
+          "clue": "강권을 멈춰 달라고 말하고 내가 따를 길을 구체적으로 밝힌 모습에서 부모 기대 앞에서도 내 뜻을 직접 전할 수 있다.",
+          "friction": "시어머니와 신앙까지 함께하기로 한 룻의 결심이다. 모든 가족 곁에 영구히 남아야 한다거나 부부 독립 A002를 죄로 만드는 적용은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:RUT:1:17",
+      "textSha256": "998857f1812a4cd23a1118c6e4b194ff22faade2cc60d84fdb18d833a3737bce",
+      "status": "hold",
+      "reason": "G09에서 한번 한 말을 무겁게 여기는 마음은 보이지만 죽음과 장사 및 떠나면 벌받겠다는 평생 서약이라 정상 거래의 약속과 같은 의무로 확장할 수 없다.",
+      "contextNote": "룻이 죽음까지 동행하겠다는 엄중한 맹세로 결심을 강조한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:1:18",
+      "textSha256": "fbbc6f3dd3e46bff542db8bac6c469634278f0e88ce1e5981948fcd3be727cf2",
+      "status": "candidate",
+      "reason": "H036에서 자기 결심을 분명히 전하고 상대가 그 결심을 존중해 권유를 멈추는 모습이 의사를 말할 단서가 된다.",
+      "contextNote": "나오미가 룻의 확고한 결심을 보고 더 말하지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H036",
+          "clue": "내 결심을 분명히 말할 수 있고 상대도 그것을 존중해 말을 멈출 수 있다는 장면에서 자기 의사를 숨기지 않을 방향을 읽는다.",
+          "friction": "나오미가 실제로 수긍한 사건이다. 현재 부모가 반드시 권유를 멈추거나 갈등이 사라진다고 예측하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:RUT:1:19",
+      "textSha256": "e38c30a38bbfdb6d9146f1a1411fbba659a9cd90f1e06e60c98dd4294bd2b16f",
+      "status": "hold",
+      "reason": "A020에서 목적지까지 함께 간 모습은 보이지만 고향 사람들이 나오미를 알아보고 놀라는 장면이 붙어 새로운 도시의 두려움을 다루는 구체 실마리는 적다.",
+      "contextNote": "두 사람이 베들레헴에 도착하자 주민들이 나오미를 알아본다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:1:20",
+      "textSha256": "aa39bcaca279e7b95a9b6e6e71132d976a15b98f5a1240d235e63c66f1e73920",
+      "status": "hold",
+      "reason": "H063에서 괴로운 감정을 숨기지 않는 태도는 읽히지만 전능자가 괴롭게 하셔서 이름을 쓰다고 바꾼다는 탄식이므로 이유 불명인 내 불안도 같은 신적 징벌로 채울 수 없다.",
+      "contextNote": "나오미가 자기 이름 대신 마라라고 부르라며 사별의 괴로움을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:1:21",
+      "textSha256": "7da58bdcd5af2ad04de1aacb67d0a986fa7aa6bdd325d916ff16f7fa31deea6c",
+      "status": "hold",
+      "reason": "H060에서 잃은 것을 솔직히 말하는 모습은 있지만 비어 돌아온 일이 하나님의 징벌이라는 설명이 전체여서 현재 놓친 기회의 원인을 같은 벌로 확정할 수 없다.",
+      "contextNote": "나오미가 풍족한 출발과 빈 귀환을 하나님 앞의 고통으로 대조한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:1:22",
+      "textSha256": "5d81674d0d06cf2ef2a19d198bfc112be4ccaccd739d9446d67d6e919fbe74cb",
+      "status": "candidate",
+      "reason": "H060에서 상실만으로 끝난 듯한 자리에도 다시 시작되는 때가 있음을 추수 시작의 도착 장면에서 읽을 수 있다.",
+      "contextNote": "나오미와 룻의 귀환 시점을 보리 추수의 시작으로 알린다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H060",
+          "clue": "빈손 같은 귀환이 추수의 시작에 닿은 장면에서 지난 기회만 보지 않고 지금 할 수 있는 작은 시작을 돌아볼 수 있다.",
+          "friction": "구체적인 농사 시기이지 현재 새 일자리나 판매 기회가 이미 생겼다는 예언은 아니다. 상실이 쉬운 일이었다고 축소하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:RUT:2:1",
+      "textSha256": "eb00aeeb89d5d7e084dfc9edc03e99ad68e8c520cd54d7ac03943702c0251bca",
+      "status": "exclude",
+      "reason": "H033의 도움과 비교해도 엘리멜렉 친족 보아스의 이름과 유력함을 소개할 뿐 현재 사용자에게도 부유한 도움자가 있다는 조건을 채울 수 없다.",
+      "contextNote": "다음 사건의 인물 보아스와 친족 관계를 소개한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:2:2",
+      "textSha256": "2755da6203d7eaa1cd6f4abc48c54553202253b43f944fbd85ea874454bb925d",
+      "status": "candidate",
+      "reason": "H057에서 완벽한 준비를 더 기다리기보다 가능한 작은 행동을 먼저 청하고 시작할 실마리가 이삭 줍기의 제안에 있다.",
+      "contextNote": "룻이 밭에서 이삭을 주워 보겠다고 하자 나오미가 허락한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H057",
+          "clue": "가능한 작은 일을 해 보겠다고 말하고 나선 모습에서 모든 준비가 완벽해지기 전의 첫 실천을 읽는다.",
+          "friction": "은혜를 입는 밭에서 이삭을 줍는 생계 활동이다. 현대 운동의 강도나 건강 상태를 처방하거나 도움과 성과가 보장됐다고 하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:RUT:2:3",
+      "textSha256": "15334d3d0a68438db40ea3641a40d1a039518213ed5d14183410e0a2529fe390",
+      "status": "candidate",
+      "reason": "H057에서 작아 보이는 일을 실제로 시작하는 행동을 통해 준비만 이어가기보다 할 수 있는 첫걸음을 읽을 수 있다.",
+      "contextNote": "룻이 나가 이삭을 줍다가 우연히 보아스 밭에 이른다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H057",
+          "clue": "실제로 나가 작은 일을 시작하는 장면에서 장비와 계획만 늘리기보다 할 수 있는 한 걸음을 내딛을 수 있다.",
+          "friction": "우연히 보아스의 밭에 닿는 결과가 있다. 지금 시작하면 특별한 도움자를 만나거나 결과가 반드시 잘된다는 숨은 보증으로 쓰지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:RUT:2:4",
+      "textSha256": "ca6e0cea72c6f64fa6414777b4e69e2c2ab08393d02e73bfbb86085c4e1de22c",
+      "status": "candidate",
+      "reason": "H040에서 다른 사람의 좋은 일을 바라 주는 말이 내 몫을 빼앗기는 행위는 아니라는 실마리가 서로의 축복에 있다.",
+      "contextNote": "보아스와 일꾼들이 하나님의 함께하심과 복을 서로 빈다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H040",
+          "clue": "서로에게 복을 빌어 주는 인사에서 다른 사람의 좋은 일을 바라는 것이 내 가치를 줄이는 것은 아니라는 방향을 읽는다.",
+          "friction": "고용주와 일꾼의 신앙 인사다. 모든 직장 관계가 공정하다고 가정하거나 불편한 감정을 반드시 없애야 한다고 요구하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:RUT:2:5",
+      "textSha256": "a9e6467d8cd51c3fb5015d44a6a3082d17ca8db87cfb7d211052139d5a97fbd8",
+      "status": "candidate",
+      "reason": "A018에서 낯선 새 사람을 그냥 지나치지 않고 누군지 관심을 갖는 행동이 먼저 다가갈 실마리가 된다.",
+      "contextNote": "보아스가 밭의 새 여인 룻에 대해 일꾼 책임자에게 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A018",
+          "clue": "새로 온 사람이 누구인지 먼저 알아보는 관심에서 혼자 있는 동료를 그냥 두지 않고 한마디 건넬 수 있다.",
+          "friction": "고대 밭의 책임자에게 신원을 묻는 질문이다. 상대의 개인정보를 캐거나 고용주처럼 통제하라는 뜻이 아니며 환대를 받으려 배경을 증명해야 한다는 조건도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:RUT:2:6",
+      "textSha256": "9dcd4b6fb73740531d4944dbe1154c3c2c2c3468397d5507106e677954c7ab3b",
+      "status": "hold",
+      "reason": "A018에서 새 사람의 배경을 이해하는 정보는 있지만 나오미와 온 모압 여인이라는 신원 답변뿐으로 어떻게 맞이할지의 행동은 아직 없다.",
+      "contextNote": "일꾼 책임자가 룻의 출신과 동행을 소개한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:2:7",
+      "textSha256": "8a00050bd6eb08bcd377fe9f2c9373d0da14f81a24052032ae5440146a8f508b",
+      "status": "hold",
+      "reason": "G13에서 잠시 쉰 뒤 일한 모습은 있지만 아침부터 거의 계속 일했다는 근면의 보고가 중심이라 이미 잠이 부족한 사람에게 더 쉬라는 첫 실마리로는 방향이 엇갈린다.",
+      "contextNote": "책임자가 룻의 허락 요청과 그날의 이삭 줍기 활동을 보고한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:2:8",
+      "textSha256": "548c9348d2cad78592c538822ad260faf87496a68eebf6ac90c81bface54d218",
+      "status": "candidate",
+      "reason": "A018에서 낯선 사람을 자기 일행과 함께 있게 하는 직접 초대가 혼자 있는 새 동료를 끼워 줄 단서가 된다.",
+      "contextNote": "보아스가 룻에게 다른 밭으로 가지 말고 자기 소녀들과 함께 있으라고 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "A018",
+          "clue": "우리 일행과 함께 있으라는 초대에서 낯선 동료에게 함께 먹고 지낼 자리를 직접 권할 수 있다.",
+          "friction": "이삭을 줍는 밭을 지정한 보호의 문맥이다. 현대 동료의 다른 관계나 이직 자유를 막으라는 뜻으로 확대하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:RUT:2:9",
+      "textSha256": "9c39d4d200a903c9d5d1debdfc2cff5290b30d2236983713f1e4943aaee726ca",
+      "status": "candidate",
+      "reason": "H029에서 상대가 건드리지 않을 경계를 세우고 다른 사람과 함께 지내는 보호가 정당하다는 실마리가 직접 있다.",
+      "contextNote": "보아스가 일꾼들에게 룻을 건드리지 말라고 명하고 물을 마실 수 있게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H029",
+          "clue": "건드리지 말라는 명확한 경계와 함께할 무리의 보호를 보고 이미 밝힌 개인 경계를 존중받는 것이 정당함을 읽는다.",
+          "friction": "보아스에게 실제 명령권과 물이 있는 일터다. 현재 사용자에게 같은 보호자가 있다고 채우거나 실패한 부드러운 설명만 다시 하라는 뜻으로 쓰지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:RUT:2:10",
+      "textSha256": "442a6aa2959f09ee6f0ff4f8004ac7824d0aaee4272de912cfba0af7f8ed7864",
+      "status": "candidate",
+      "reason": "A018에서 낯선 사람에게 건넨 작은 관심이 큰 은혜로 느껴질 수 있음을 룻의 반응에서 읽는다.",
+      "contextNote": "룻이 이방 여인인 자신을 돌아봐 주는 이유를 보아스에게 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A018",
+          "clue": "낯선 이를 돌아본 관심이 크게 받아들여지는 모습을 보고 새 동료에게 먼저 자리를 권하는 작은 행동의 의미를 읽는다.",
+          "friction": "이방 여인의 신분 차이와 엎드림이 있는 시대다. 새 동료에게 과한 감사나 낮은 지위를 요구하는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:RUT:2:11",
+      "textSha256": "7afc3619a60e9033e1c9e0174ce3e7246b44bd62fa25e8d826e0501a5bd056f0",
+      "status": "candidate",
+      "reason": "A020에서 부모와 익숙한 곳을 떠나 낯선 사람들 가운데 가는 결심이 이해받을 수 있음을 구체적인 이동 회고에서 읽는다.",
+      "contextNote": "보아스가 룻이 나오미를 돌보고 고국을 떠난 일을 들었다고 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A020",
+          "clue": "부모와 고국을 떠나 알지 못하던 사람들에게 간 행동을 인정하는 말에서 준비된 새 도시를 택하는 두려움을 개인적으로 살필 수 있다.",
+          "friction": "배우자를 잃고 시어머니를 따른 룻의 실제 사정이다. 현재 가족이 같은 돌봄을 요구한다거나 새 도시에서 인정받을 결과를 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:RUT:2:12",
+      "textSha256": "d88f624bc28ff4df1a35bb75460c42edc40b68c8150dae1f357505e19e866feb",
+      "status": "candidate",
+      "reason": "A020에서 익숙한 보호를 떠나도 하나님을 의지할 수 있다는 방향을 날개 아래 온 사람을 위한 축복에서 읽는다.",
+      "contextNote": "보아스가 룻의 행동을 축복하며 하나님이 보호하고 보상하시기를 빈다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A020",
+          "clue": "하나님의 날개 아래 보호를 구한 사람을 위한 축복에서 익숙한 곳 밖에서도 믿음을 의지해 나아갈 용기를 읽는다.",
+          "friction": "보아스의 축복 기도이지 현대 진학의 성공과 온전한 물질 보상을 확정하는 예언은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:RUT:2:13",
+      "textSha256": "de00bd900981e6eebce20e326183005cb8a6e9c594b0e2820b5e969ae19b69eb",
+      "status": "candidate",
+      "reason": "A018에서 위로와 기쁘게 하는 말이 새 사람에게 실제 힘이 될 수 있음을 직접 들을 수 있다.",
+      "contextNote": "룻이 일꾼들과 같지 못한 자신에게 보아스가 위로의 말을 해 준 것에 감사한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A018",
+          "clue": "위로와 마음을 기쁘게 한 말이 힘이 됐다는 응답에서 새 동료에게 한마디를 건네고 함께하도록 초대할 수 있다.",
+          "friction": "시녀보다 낮다는 자기 표현이 있으나 새 동료의 가치를 낮게 정하거나 환대받기 위해 낮춰 말해야 한다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:RUT:2:14",
+      "textSha256": "03740d9ec03e8aabae9563ecfb0bbf42833d51fe94a3e086837f466e9adcc527",
+      "status": "candidate",
+      "reason": "A018에서 혼자 있는 사람을 실제 식사 자리로 불러 함께 먹는 구체 실마리가 있다.",
+      "contextNote": "보아스가 룻을 일꾼들 곁에 앉혀 음식을 나누고 룻이 배불리 먹는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "A018",
+          "clue": "이리 와서 함께 먹으라는 실제 초대에서 혼자 있는 새 동료에게 식사 자리를 권할 방향을 읽는다.",
+          "friction": "보아스의 농장 식사이고 룻은 배불리 먹었다. 현재 동료가 반드시 수락하거나 도움을 필요로 한다고 확정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:RUT:2:15",
+      "textSha256": "2a51a5b0cb6d3af3c08ee54a3dae53babf549e0e0ae6a3e4027c1be1afdcfa74",
+      "status": "candidate",
+      "reason": "H059에서 내 몫을 더 엄격하게 지키기보다 필요한 사람이 얻을 수 있게 공간을 남기고 책망하지 않을 단서가 있다.",
+      "contextNote": "보아스가 룻이 단 사이에서 주워도 책망하지 말라고 일꾼들에게 지시한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H059",
+          "clue": "내가 가진 몫을 상대가 얻을 수 있게 열어 두고 책망하지 않은 모습에서 여력 안의 실질적인 나눔을 읽는다.",
+          "friction": "이삭 줍기의 농업 관습이다. 현대 현금의 의무 비율을 만들거나 생활비가 실제 모자란 G02에도 무리하게 내놓으라고 하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:RUT:2:16",
+      "textSha256": "8731f61a40f5359d574d2526b8df5afd060beb941a9f7c9c5d42094b7fe05dce",
+      "status": "candidate",
+      "reason": "H059에서 큰 재산을 모두 내놓기보다 조금씩 실질적으로 나누며 상대를 꾸짖지 않는 구체 단서가 있다.",
+      "contextNote": "보아스가 룻을 위해 곡식을 일부러 조금씩 남겨 두라고 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H059",
+          "clue": "조금씩 남겨 줍게 하고 꾸짖지 말라는 말에서 큰 부담을 전부 지기보다 가능한 만큼 나누며 상대의 존엄도 지킬 수 있다.",
+          "friction": "곡식 주인이 일꾼에게 지시한 장면이다. 구체적인 현대 금액이나 받는 사람의 극심한 빈곤을 입력 없이 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:RUT:2:17",
+      "textSha256": "e5555ffb27449bc3f035adb7efdbdc5ef6564412d929fda4e97088363f47d62c",
+      "status": "hold",
+      "reason": "H057에서 작은 일을 꾸준히 해 양식을 얻는 모습은 있지만 저녁까지 하루를 일한 수확량이 중심이라 완벽한 준비를 기다릴지 지금 시작할지의 직접 단서는 약하다.",
+      "contextNote": "룻이 하루 동안 모은 이삭을 떨어 양을 확인한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:2:18",
+      "textSha256": "c87753ba6d0d6ebfe5c00b72a131c597ba8ade775d75358a5d05239f8962812a",
+      "status": "candidate",
+      "reason": "H059에서 내가 배불리 먹고 남긴 것을 다른 사람에게 실제 건네는 행동이 여력 안의 나눔을 선택할 실마리가 된다.",
+      "contextNote": "룻이 주운 곡식과 남은 음식을 나오미에게 가져다준다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H059",
+          "clue": "자기가 충분히 먹고 남은 것을 실제로 나눈 행동에서 내 여력을 인정하면서 필요한 사람을 도울 수 있다.",
+          "friction": "룻이 나오미와 생계를 함께하는 관계다. 현재 사용자도 식량이 남아야만 도울 수 있다는 조건이나 모든 가족 생계를 책임져야 한다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:RUT:2:19",
+      "textSha256": "8df59318afc12c113dad57b52c6387d349bb65a9c0b1fe5574acfe08bdc96635",
+      "status": "hold",
+      "reason": "A012에서 도운 사람에게 복을 비는 감사는 보이나 어디서 일했는지와 이름을 묻는 정보 확인이 길고 이미 말로 감사한 뒤 식사를 제안할지의 새 실마리는 간접적이다.",
+      "contextNote": "나오미가 룻의 일터와 도운 사람을 확인하며 축복한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:2:20",
+      "textSha256": "4461cfe73b6bd2367609c9b06e1bb1edf5866df7b1dc734ed4a871a5fc707b27",
+      "status": "hold",
+      "reason": "A012에서 은혜를 기억하고 축복하는 태도는 있으나 기업을 무를 가까운 친족이라는 설명이 후반 핵심이라 친구에게 감사 행동을 더할 선택으로는 추가 풀이가 필요하다.",
+      "contextNote": "나오미가 보아스의 친절을 기리고 법적 친족 관계를 알려 준다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:2:21",
+      "textSha256": "ed8263bfa29fa24c13fd129fbbeb343c016c2803a4f87a877296b1373ad12e2a",
+      "status": "candidate",
+      "reason": "H053에서 새 일을 다시 찾기보다 현재 시작한 일을 마칠 때까지 함께하는 방향을 추수 완료라는 범위에서 읽는다.",
+      "contextNote": "룻이 추수 끝까지 보아스 일꾼들과 있으라는 말을 나오미에게 전한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H053",
+          "clue": "추수를 다 마칠 때까지 현재 자리에서 함께하라는 기간의 말에서 새 일을 시작하기 전 기존 일을 끝낼 방향을 읽는다.",
+          "friction": "룻이 보호받는 구체 일터이며 모든 직장을 무조건 끝까지 버텨야 한다거나 반복 실패 H043의 방법을 바꾸지 말라는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:RUT:2:22",
+      "textSha256": "d7cee419bcee732126332a92424a8024baa7250c2aa36d65498ccda0c2c75f7e",
+      "status": "candidate",
+      "reason": "A008에서 이미 안전을 확보한 무리와 함께 있고 불필요한 단독 접촉을 피하는 방향이 구체적으로 읽힌다.",
+      "contextNote": "나오미가 룻에게 보아스의 소녀들과 함께 다니고 다른 밭에서 사람을 만나지 말라고 권한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A008",
+          "clue": "믿을 수 있는 무리와 함께 있고 다른 접촉을 피하라는 조언에서 반복된 원치 않는 접촉자와 단둘이 만나지 않을 방향을 읽는다.",
+          "friction": "보아스의 일터에 실제 보호가 있는 상황이다. 현재 사용자에게 그런 보호자가 있다고 가정하거나 다른 밭의 모든 사람이 가해자라고 확대하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:RUT:2:23",
+      "textSha256": "20cc9d408a5e367fd9a0a5b6dc7192a17347fc91ffa4dec71a4e3433a66aefa2",
+      "status": "candidate",
+      "reason": "H053에서 보리 추수와 밀 추수가 끝날 때까지 시작한 일을 이어가는 모습이 새 일로 옮기기 전 현재 것을 마칠 단서가 된다.",
+      "contextNote": "룻이 일꾼들과 가까이 지내며 추수를 마치고 나오미와 함께 산다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H053",
+          "clue": "시작한 추수를 끝까지 마친 장면에서 지루해졌다는 이유만으로 새 일로 옮기기 전에 현재 것을 마칠 여지를 읽는다.",
+          "friction": "생계와 보호를 얻은 일터의 기록이다. 현재 작업의 결과나 무한한 체력을 보장하지 않고 실제 건강상 휴식 지시 H055를 무시하게 하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:RUT:3:1",
+      "textSha256": "1d4ef2f8a67896020d44435a3619fada6a887827cb3a2eb28c8de247de085d1f",
+      "status": "candidate",
+      "reason": "A002에서 며느리가 안식할 자기 삶의 자리를 찾는 일도 가족이 바랄 수 있는 선함이라는 실마리가 있다.",
+      "contextNote": "나오미가 룻의 새 혼인과 안정을 위해 거할 곳을 구하려 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A002",
+          "clue": "시어머니도 며느리의 안식할 자리를 구하려는 말에서 부부가 자기 집을 찾는 일이 가족을 버리는 마음과 같지만은 않다는 단서를 읽는다.",
+          "friction": "사별한 룻의 새 혼인을 구하는 문맥이다. 이미 결혼한 사용자에게 새 혼인을 권하거나 현재 부모가 반드시 독립을 환영한다고 예측하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:RUT:3:2",
+      "textSha256": "310b975c6973bfd58216641257119e7f0e42f751a03f03a8cdc60511036115b9",
+      "status": "hold",
+      "reason": "H032에서 관심 있는 사람을 만날 시간과 배경은 주어지지만 보아스의 친족 관계와 타작 일정만 알려 주어 마음을 고백할지의 판단은 다음 제안에 달려 있다.",
+      "contextNote": "나오미가 보아스와 그날 밤 타작을 다음 계획의 배경으로 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:3:3",
+      "textSha256": "68b880c6d72b6e68cfb04af972ab53592b9b54b6c2ccc3648ac3552b936d2972",
+      "status": "hold",
+      "reason": "H032에서 준비하고 상대의 식사가 끝날 때를 기다리는 모습은 있지만 향유와 옷 및 타작장의 은밀한 접근이라는 관습이 있어 친구에게 고백할지의 직접 실마리로 옮기기 어렵다.",
+      "contextNote": "나오미가 룻에게 외모를 갖추고 식사 뒤 보아스에게 가라고 지시한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:3:4",
+      "textSha256": "df723d94915c0ba4a269c46f271f7c5596db516b77d9856a368bdf61cdafb63b",
+      "status": "hold",
+      "reason": "H032에서 직접 다가가는 행동은 있지만 잠든 사람 발치 이불을 들고 누우라는 특정 혼인 관습을 해설해야 해 현재 친구에게 같은 방식으로 접근할 기준이 아니다.",
+      "contextNote": "나오미가 보아스 발치에 누워 그의 응답을 기다리게 한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:3:5",
+      "textSha256": "6dd41fcee74a80fe782d1022d52b2331c8ddf58d8e48892f89b4fa44b4a33da9",
+      "status": "hold",
+      "reason": "H036에서 가족의 조언을 받아들이는 선택은 보이나 말씀대로 모두 하겠다는 동의만 있어 자기 진로와 부모 기대를 어떤 기준으로 고를지는 나타나지 않는다.",
+      "contextNote": "룻이 나오미의 계획을 따르겠다고 답한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:3:6",
+      "textSha256": "3a65484a4ac860fc44b69b706928e9394932c8e0532292eba6054e7d6a7dcc8d",
+      "status": "exclude",
+      "reason": "H048에서 조언을 실행하는 모양은 있어도 타작장의 혼인 접근을 그대로 했다는 과정 요약으로 실제 빠진 업무를 수정할 선택과 같은 조건은 없다.",
+      "contextNote": "룻이 시어머니의 지시를 실행하기 위해 타작장에 간다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:3:7",
+      "textSha256": "3e8f1af630f71b4279a03b942ad3282e8059a3b06d62c5ff07cc0908b16c8468",
+      "status": "hold",
+      "reason": "H032에서 상대에게 다가가는 장면은 있지만 식후 잠든 사람의 이불을 들고 곁에 눕는 은밀한 행동이어서 현대의 고백 방법으로 자연스럽게 줄 수 없다.",
+      "contextNote": "룻이 보아스가 잠든 뒤 발치에 눕는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:3:8",
+      "textSha256": "6029fc309c01663745b4b1c219fca83da7f5959b7ff578e6d50f534357f31355",
+      "status": "exclude",
+      "reason": "H032에서 서로 마주하는 순간과 비교해도 잠에서 놀라 깨어 자기 발치 여인을 본 장면뿐으로 자발적인 고백과 상대 마음의 선택 기준은 없다.",
+      "contextNote": "보아스가 밤중에 룻의 존재를 발견한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:3:9",
+      "textSha256": "174524bd8a28a552319ffa18148c6bb0f3291f8c4d0b79bca7763b3318f733ce",
+      "status": "hold",
+      "reason": "H033에서 직접 필요를 말하는 점은 좋지만 옷자락을 덮는 청이 기업 무를 친족의 혼인 책임과 연결돼 있어 보통 친구에게 지원을 구하는 첫 결과로는 제도 풀이가 필요하다.",
+      "contextNote": "룻이 자기 신원을 밝히고 보아스에게 친족의 보호와 혼인을 청한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:3:10",
+      "textSha256": "0f888b0c144a16f880d65d7357349cb4e34f5bf9c136e2db6ceaee7c8f9225a7",
+      "status": "hold",
+      "reason": "H032에서 다른 기준으로 사람을 택할 수는 있지만 젊은 남자를 좇지 않은 인애를 칭찬하는 말로 이미 친구인 사람에게 고백할지의 부담과는 다른 선택이다.",
+      "contextNote": "보아스가 룻이 친족과 집안을 위해 자신에게 온 행동을 칭찬한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:3:11",
+      "textSha256": "6315ebd8cd5d91209814c30fd08cc4433df05c7c1dc28ddc21da5c7e1401db80",
+      "status": "hold",
+      "reason": "H033에서 요청을 받아 주는 따뜻함은 있으나 모든 요청대로 하겠다는 약속과 온 성읍이 현숙함을 안다는 조건이 있어 현재 친구의 수락이나 내 평판을 같은 것으로 채울 수 없다.",
+      "contextNote": "보아스가 룻을 안심시키고 도울 뜻을 밝히며 평판을 칭찬한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:3:12",
+      "textSha256": "b82f1cba4340701991224c78b639a266fbb7f112b4d079493bfbddea23c1a898",
+      "status": "candidate",
+      "reason": "G09에서 내 뜻과 별개로 먼저 있는 정당한 관계와 순서를 확인하는 말이 이미 한 합의를 존중할 실마리가 된다.",
+      "contextNote": "보아스가 자신보다 가까운 기업 무를 친족의 우선 책임을 밝힌다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G09",
+          "clue": "내가 원하고 할 수 있어도 먼저 있는 다른 사람의 정당한 순서를 밝히는 모습에서 더 높은 제안보다 선행 합의를 존중할 수 있다.",
+          "friction": "기업 무를 친족의 혼인과 재산 제도다. 사람을 물건처럼 소유하거나 현대 거래에 같은 친족법이 적용된다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:RUT:3:13",
+      "textSha256": "fa85f55ace38dbc70f0b0ee0c07f55ae3ec575640e3c3f2f98e6c25ddb48ea95",
+      "status": "candidate",
+      "reason": "G09에서 먼저 책임과 권리가 있는 사람의 선택을 확인한 뒤 자기 뜻을 행하겠다는 태도가 선행 약속을 지킬 단서가 된다.",
+      "contextNote": "보아스가 가까운 친족에게 먼저 기회를 주고 그가 안 하면 자신이 책임지겠다고 약속한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G09",
+          "clue": "먼저 책임 있는 사람의 의사를 확인하고 그 뒤 자기 뜻을 행하는 순서에서 이미 한 거래 합의를 새 제안보다 앞에 둘 수 있다.",
+          "friction": "혼인과 기업의 조건부 약속이며 두 거래를 모두 얻을 수 있다는 보장이나 현대 기한을 하루 늘려 주는 약속은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:RUT:3:14",
+      "textSha256": "609074fb7f50238756b4d90d75a24e10b46cbc4333771e796f94c4cd9ad8717c",
+      "status": "hold",
+      "reason": "H039에서 사생활이 드러나지 않게 보호하는 태도는 있지만 발치의 밤 방문을 숨기는 구체 혼인 관습이라 친구가 맡긴 비밀과 같은 윤리 조건인지 풀이가 필요하다.",
+      "contextNote": "룻이 남의 눈에 띄기 전 떠나고 보아스가 타작장 방문을 알리지 말라고 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:3:15",
+      "textSha256": "92f96cd214a33a66c15cd0ef5d6832558c14159beec170d69b1a7bd3ec88333b",
+      "status": "candidate",
+      "reason": "H059에서 필요한 것을 실제로 나누되 구체적인 몫으로 담아 건네는 행동이 여력 안의 도움을 선택할 실마리가 된다.",
+      "contextNote": "보아스가 룻의 겉옷에 보리를 여섯 번 재어 얹어 보낸다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H059",
+          "clue": "자기 곡식을 실제 몫으로 재어 건네는 행동에서 가지고 있는 여력 가운데 가능한 도움을 선택할 수 있다.",
+          "friction": "나눠 준 여섯 번의 보리를 현대의 정해진 기부량으로 바꾸지 않으며 사용자의 생활비나 상대 필요액을 새로 만들지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:RUT:3:16",
+      "textSha256": "9baab370ebf838a488083b7d9b1d54af3ed21ab8c40175705c236258993fd0db",
+      "status": "candidate",
+      "reason": "H052에서 실제 있었던 일을 다 알리는 태도가 좋은 평가를 위해 말을 더 꾸미려는 유혹을 돌아볼 단서가 된다.",
+      "contextNote": "룻이 보아스가 자신에게 한 일을 나오미에게 모두 전한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "자기에게 실제 일어난 일을 다 전한 모습에서 유리하게 꾸민 이야기보다 확인된 내용을 그대로 보고할 방향을 읽는다.",
+          "friction": "성과평가가 아닌 가족 사이의 사건 보고다. 본문이 모든 세부를 검증해 주거나 사용자가 이미 거짓말했다고 단정하는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:RUT:3:17",
+      "textSha256": "195a8c7d57e6c25e09b37c333bc3b92b3fc977530c818c598c3b20d58f1a8f62",
+      "status": "candidate",
+      "reason": "H059에서 손에 있는 몫을 나눠 보내 다른 사람의 필요를 돌보는 구체 실마리가 있다.",
+      "contextNote": "룻이 빈손으로 나오미에게 가지 말라며 보아스가 곡식을 준 일을 전한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H059",
+          "clue": "빈손으로 보내지 않으려고 가능한 곡식을 나눈 행동에서 나의 여력 가운데 실제 도움을 건넬 수 있다.",
+          "friction": "보아스의 곡식과 나오미의 생계가 구체적으로 있는 상황이다. 사용자의 돈과 상대의 필요액을 새로 정하거나 모든 방문에 선물을 의무화하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:RUT:3:18",
+      "textSha256": "6791af4c45c3f1cb32f26129f62d50ed87d22199546554bf4dfeb0f95232207e",
+      "status": "candidate",
+      "reason": "G07에서 내가 계속 확인해도 바로 알 수 없는 상황은 잠시 앉아 기다릴 수 있다는 단서가 첫 권면에 또렷하다.",
+      "contextNote": "나오미가 보아스가 법적 일을 처리할 것을 신뢰하며 룻에게 결과를 알 때까지 기다리라고 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G07",
+          "clue": "어떻게 되는지 알 때까지 가만히 앉아 있으라는 말에서 급히 돈이 필요한 것이 아니라면 계속 확인하기를 잠시 멈추고 기다릴 수 있다.",
+          "friction": "나오미는 보아스가 오늘 처리하리라는 의도를 실제로 신뢰한다. 현재 구매자가 이미 움직이고 있다거나 오늘 팔린다고 채우지 않으며 G08과 H020의 실제 현금 기한을 없애지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:RUT:4:1",
+      "textSha256": "6f91d23c1b0078b560c9ae5f2eec1e75ea168758d5c4b7d61082e740a3480929",
+      "status": "hold",
+      "reason": "H026에서 당사자를 직접 불러 대화의 자리를 만드는 모습은 있으나 기업 무를 우선 친족을 성문에 앉히는 절차라 서운함을 말할 내용과 기준은 아직 없다.",
+      "contextNote": "보아스가 성문에서 가까운 친족을 만나 불러 앉힌다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:4:2",
+      "textSha256": "557b3ac05f18ebb2cf9b84bfff48a9023970dd036c1bbd968d61ffb3b03af243",
+      "status": "hold",
+      "reason": "A009에서 다른 사람을 부르는 행동은 있지만 장로 열 명은 법적 증인으로 앉는 것이어서 작은 업무를 혼자 붙들던 부담을 실제 맡기는 역할과는 다르다.",
+      "contextNote": "보아스가 증인 역할의 장로들을 모은다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:4:3",
+      "textSha256": "f09dafeed098415ff7c840160cf94cb076b2ed68cbb04c544da2b799e7725730",
+      "status": "exclude",
+      "reason": "H022의 공개와 비교해도 나오미와 엘리멜렉 땅의 관계를 설명하는 미완 거래 도입으로 알려야 할 조건과 상대의 선택은 다음 절을 더 읽어야 한다.",
+      "contextNote": "보아스가 친족에게 땅의 상황을 설명하기 시작한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:4:4",
+      "textSha256": "1ee35c4d70ed8a9c324fa16d2d98736a814a4c2760385b4445546aab6192cf9d",
+      "status": "candidate",
+      "reason": "A005에서 할지 말지 정해 알려 달라고 묻고 그 응답에 맞춰 다음 순서를 정하는 구체 실마리가 있다.",
+      "contextNote": "보아스가 우선 친족에게 기업을 무를 의사를 분명히 묻고 자신이 다음임을 밝힌다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A005",
+          "clue": "할 뜻이면 하고 아니면 알려 달라는 명확한 질문에서 기다림만 늘리기보다 답을 구해 다음 계획을 정할 수 있다.",
+          "friction": "성문 증인과 친족의 우선권이 있는 재산 거래다. 현재 동료에게 같은 법적 의무가 생기거나 원하는 답을 얻는다고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:RUT:4:5",
+      "textSha256": "ecbd063bd258ba7b0b7afd5f204213e9bba7733dd653a599720ef228169625f4",
+      "status": "candidate",
+      "reason": "H022에서 가격이나 장점뿐 아니라 인수에 따르는 실제 조건도 상대가 알게 말할 단서가 있다.",
+      "contextNote": "보아스가 땅을 얻으면 죽은 자의 이름과 룻의 혼인에 관한 책임도 잇게 됨을 밝힌다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H022",
+          "clue": "받게 되는 것에 따르는 책임도 숨기지 않고 밝힌 행동에서 작은 흠을 묻지 않았다는 이유로 빼지 않을 방향을 읽는다.",
+          "friction": "룻과 죽은 자의 이름을 잇는 고대 혼인·기업 제도다. 여성을 물건의 결함처럼 부르거나 현재 중고 거래에 같은 법을 적용하는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:RUT:4:6",
+      "textSha256": "f830a9b9b2e45fb6401591a654f5f58b4e7921fdcc1a10322d2b49b5128e4278",
+      "status": "candidate",
+      "reason": "H044에서 감당하면 내 몫에 손해가 생길 수 있음을 인정하고 맡지 못한다고 분명히 말하는 한계의 실마리가 있다.",
+      "contextNote": "가까운 친족이 자기 기업의 부담을 이유로 무를 권리를 보아스에게 넘긴다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H044",
+          "clue": "감당할 수 없는 부담을 이유로 맡지 못한다고 말하고 다른 사람이 맡게 한 모습에서 새 부탁에 내 한계를 분명히 할 수 있다.",
+          "friction": "손해를 우려한 친족의 재산 판단이다. 모든 나눔을 이기적으로 거부하라는 뜻이 아니며 이미 약속한 의무가 자동으로 사라진다고도 하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:RUT:4:7",
+      "textSha256": "bdb3bf50aff13f51872d9bece7f92cfb61545282c27b3e78392a8cb830effa97",
+      "status": "hold",
+      "reason": "G09에서 합의를 분명하게 확정하는 중요성은 보이나 신을 벗어 이웃에게 주는 거래 관습을 풀이해야 해서 이미 한 약속을 지킬지의 부담에 바로 닿지는 않는다.",
+      "contextNote": "옛 이스라엘의 무르기와 교환 증명 관습을 설명한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:4:8",
+      "textSha256": "7e2c3fbb3d20873faf4277d4d06909c3a5e4df56e576bbe88c2203f577650036",
+      "status": "hold",
+      "reason": "G09에서 권리를 정리하는 모습은 있으나 사라는 말과 신 벗는 상징이 앞의 친족 합의를 알아야 읽혀 현재 정상 거래를 바꿀지의 기준으로는 간접적이다.",
+      "contextNote": "친족이 권리를 포기하고 신을 벗어 보아스에게 확인한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:4:9",
+      "textSha256": "0ed3543b0abd898adc374297a2d561eb11774bcaa000274f54f3882ff97418cd",
+      "status": "candidate",
+      "reason": "A034에서 자신이 실제 한 일을 증인들 앞에 분명히 밝히는 행동이 실제 기여를 드러낼지의 부담에 닿는다.",
+      "contextNote": "보아스가 구입한 가족의 재산을 공개적으로 확인하고 증인을 세운다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A034",
+          "clue": "실제로 한 일을 사람들이 확인하도록 말한 모습에서 조용히 사라진 내 기여를 밝히고 이름 표기를 요청할 수 있다.",
+          "friction": "노동 공로가 아닌 재산 매매의 증인 선언이다. 상대가 고의로 공로를 빼앗았다거나 현대 발표에 같은 법적 절차가 필요하다고 확정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:RUT:4:10",
+      "textSha256": "5e35b450ab926a8f410ffd7a541eaa9c3729aaf0b8cfe89a77ee7a9f13eb7a24",
+      "status": "hold",
+      "reason": "A034에서 이름이 끊기지 않게 하는 중요성은 있으나 혼인과 죽은 자의 기업 계승이라는 제도가 중심이어서 내 제작 공로가 발표에서 빠진 문제와 바로 같게 놓기 어렵다.",
+      "contextNote": "보아스가 룻과의 혼인 및 말론 이름의 계승도 증인 앞에서 선언한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:4:11",
+      "textSha256": "08516a2c319537499dd24853b2a021e70c5389c54770686bfacab0c421489052",
+      "status": "candidate",
+      "reason": "H040에서 다른 사람의 새로운 좋은 일을 진심으로 축복하는 태도가 비교로 축하를 미루던 부담에 닿는다.",
+      "contextNote": "공동체가 보아스와 룻의 새 가정을 라헬과 레아의 집처럼 복되게 해 달라고 빈다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H040",
+          "clue": "공동체가 새 가정을 위한 좋은 말을 함께한 장면에서 비교 감정을 따로 살피면서도 친구의 성취를 축하할 수 있다.",
+          "friction": "자손과 명성의 축복이지 현재 친구가 같은 가족을 이루거나 유명해질 미래가 보장된다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:RUT:4:12",
+      "textSha256": "2f8d139e3223c8e1e8f05ed1c8c6b34c8cd82b8c8dd0e08ab780a1b9842a1d1f",
+      "status": "hold",
+      "reason": "H040에서 남의 좋은 미래를 비는 마음은 있으나 다말과 유다와 베레스의 후사라는 계보 축복을 알아야 해 현재 친구의 성취를 축하할 실마리로는 마찰이 크다.",
+      "contextNote": "공동체가 새 부부에게 자손과 번성의 복을 빈다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:4:13",
+      "textSha256": "d90dcff6509f1cefeba19c34c2bebe1e685f02a5b4164cd06ff07188914ae164",
+      "status": "exclude",
+      "reason": "H032의 고백과 비교해도 혼인과 동침 뒤 출산한 이미 성립한 결과를 기록할 뿐 상대 마음을 모르는 친구에게 고백할지의 판단 근거는 없다.",
+      "contextNote": "보아스와 룻이 혼인하고 오벳을 낳는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:4:14",
+      "textSha256": "cae621eab159d4bf6134dc107379b50f386d98f2eab02a72b90efa81de105d36",
+      "status": "hold",
+      "reason": "H060에서 잃은 자리 뒤 돌봄을 얻은 희망은 있지만 기업 무를 자와 아이의 유명한 이름을 빈 축복이어서 현재에도 새 도움자나 기회가 이미 마련됐다고 채워 넣으면 안 된다.",
+      "contextNote": "이웃 여인들이 나오미의 새 가족과 아이를 축복한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:4:15",
+      "textSha256": "2c732f5cc94bc369809ef1027a33c199edee3bdcc488d866975c153cbc3b6f72",
+      "status": "hold",
+      "reason": "A030에서 노년에 돌봄을 받을 수 있는 마음은 닿지만 실제 태어난 아이를 미래 봉양자로 칭하고 룻을 일곱 아들보다 높이는 가족 축복으로 현장 일을 줄이고 후배를 도울지와는 다르다.",
+      "contextNote": "여인들이 아이의 의미와 룻의 사랑을 나오미에게 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:4:16",
+      "textSha256": "570a8e4fee87ca5d531c5f447b79d10a95b732cefcc170e65c90cf507025a24f",
+      "status": "candidate",
+      "reason": "A030에서 큰일을 잃은 뒤에도 품고 돌보는 새 역할이 생긴 모습을 통해 힘든 현장 일 외에 경험과 관심으로 기여할 방향을 읽을 수 있다.",
+      "contextNote": "나오미가 아이를 품고 양육자가 된다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A030",
+          "clue": "나오미가 아이를 품고 돌보는 역할을 새로 맡은 모습에서 무거운 현장 일을 줄여도 다음 사람을 돌보고 가르치는 기여는 남을 수 있겠다는 방향을 읽는다.",
+          "friction": "아이 양육은 그 자체로 육체 부담도 있는 가족 역할이다. 현대 사용자에게 돌봄 노동을 더 맡기거나 반드시 아기를 돌보라는 뜻이 아니라 실제 가능한 경험 공유를 살피는 실마리다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:RUT:4:17",
+      "textSha256": "a980545abcbe492d8f037bdd21adf9d8e9ebe352d62c96bf6a812aedf58666b7",
+      "status": "exclude",
+      "reason": "H060의 새로운 가능성과 비교해도 오벳이라는 이름과 이새 및 다윗의 계보를 밝힌 기록으로 현재 작은 시작이 같은 위대한 결과를 낳는다는 근거가 될 수 없다.",
+      "contextNote": "오벳을 나오미의 아들이라 부르는 이웃의 말에서 다윗 계보로 이어 간다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:4:18",
+      "textSha256": "fff1cc5a9c32257346b285f6e23c063f58ee0fe00c092d6532392b362ee0dce7",
+      "status": "exclude",
+      "reason": "A030의 세대 계승과 비교해도 베레스와 헤스론의 부자 관계를 적은 계보 도입으로 경험을 전하거나 역할을 고를 행동은 없다.",
+      "contextNote": "베레스 계보를 시작한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:4:19",
+      "textSha256": "c731da9ad7f60a68a8ff034f042dfb128a169aa9c709016a3235466fd4eb24b4",
+      "status": "exclude",
+      "reason": "H053의 일을 이어감과 비교해도 헤스론과 람과 암미나답의 출생 관계뿐으로 기존 작업을 계속할지의 판단 단서는 없다.",
+      "contextNote": "헤스론에서 암미나답까지 계보를 잇는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:4:20",
+      "textSha256": "0e52afd6417fcfe64b4cb979de11245478dc4edf27dcf53d586208cce29b8dbf",
+      "status": "exclude",
+      "reason": "A018의 공동체와 비교해도 암미나답과 나손과 살몬의 부자 이름만 있어 새 사람을 맞을 태도나 행동은 나타나지 않는다.",
+      "contextNote": "암미나답에서 살몬까지 계보를 잇는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:4:21",
+      "textSha256": "fa1ff5082fb40cdccda7cfff8d9fc0d9172df82114a7a66e33172180682c06bc",
+      "status": "exclude",
+      "reason": "A012의 관계와 비교해도 살몬과 보아스와 오벳의 출생 계보만 기록해 도움에 감사를 전할 선택의 실마리는 없다.",
+      "contextNote": "보아스와 오벳을 앞 계보에 연결한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:RUT:4:22",
+      "textSha256": "95d845bf6ceeb1bf7f520ca184f7e3d8a98fc40b2783836559eaa6211a5f480a",
+      "status": "exclude",
+      "reason": "G15의 작은 시작과 비교해도 오벳과 이새와 다윗의 계보 결론으로 현재 새 역할이 다윗 같은 성취로 이어진다는 신호를 만들 수 없다.",
+      "contextNote": "오벳에서 다윗까지 이어 책의 계보를 닫는다.",
+      "readability": "thinkable",
+      "connections": []
+    }
+  ]
+}
