@@ -503,6 +503,870 @@
       "contextNote": "예수 부활을 선포하는 연설이다.",
       "readability": "thinkable",
       "connections": []
+    },
+    {
+      "id": "KRV:ACT:2:25",
+      "textSha256": "bcb32fa103d02f4805465659d2e336f4e75b14b4c0598ba9fcb13da3045f2c36",
+      "status": "candidate",
+      "reason": "흔들리는 자신 곁에 주가 있다는 고백은 처음 맡을 일의 두려움에 붙잡힌 사람이 시도할 마음을 얻을 실마리가 된다. 능력이나 결과가 보장된다고 읽을 필요는 없다.",
+      "contextNote": "베드로가 다윗의 시를 인용하며 이어서 그리스도의 부활에 연결한다. 곁에 계심이라는 개인적 공명과 부활 논증을 구별한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "나로 요동치 않게 하기 위하여 내 우편에 계신다는 말에서 혼자 성과를 증명해야 한다는 부담을 조금 내려놓고 지원할 방향을 읽을 수 있다.",
+          "friction": "지원의 성공이나 실제 실력이 확인되는 것은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:2:26",
+      "textSha256": "e33f8aaa56ede5352447663832554e1cc0ec4eb614893f2842490e003815ba51",
+      "status": "hold",
+      "reason": "마음과 입술의 기쁨, 육체의 희망은 고무적이지만 이유가 앞절에 걸려 있다. 결과를 기다리는 사람이 오늘 무엇을 택할지까지는 이 절만으로 선명하지 않다.",
+      "contextNote": "다윗 시 인용 중이며 다음 절의 죽음과 썩지 않음이 부활에 연결된다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H056",
+          "clue": "희망 안에 머문다는 말이 걱정 속에서도 일상을 살아볼 마음과 연결될 수 있다.",
+          "friction": "육체의 희망을 치료 결과의 긍정 예고로 읽기 쉽고 일상 선택의 실마리는 간접적이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:2:27",
+      "textSha256": "5ba999435198fbe89abfd2df342b592d3a613b0d2649dae73550fb94c36643ff",
+      "status": "hold",
+      "reason": "음부와 썩지 않음은 부활에 관한 구체 진술이다. 현재 병이나 위기를 반드시 피한다는 약속으로 옮기지 않으면 생활의 두 선택을 가를 실마리가 약하다.",
+      "contextNote": "베드로는 이 인용을 다윗 자신이 아닌 그리스도의 부활로 풀이한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:2:28",
+      "textSha256": "426761a85e9ca4eeabc0e65580b7faa20723a7a6992eece1d1c30e38844b6fbe",
+      "status": "candidate",
+      "reason": "주의 앞에서 기쁨을 얻는 생명의 길이라는 말은 잘못 뒤 기도를 피하는 사람이 다시 하나님께 나아갈 방향으로 읽을 수 있다. 새 진로나 현실의 길이 지정됐다고 덧붙이지 않는다.",
+      "contextNote": "시편 인용의 끝이며 그리스도 부활 논증 안에 있다. 개인적으로 주 앞에 나아가는 공명은 별도로 본다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "R021",
+          "clue": "주의 앞에서 기쁨이 충만하다는 고백이 부끄러움 때문에 피하기보다 잘못을 인정한 채 다시 기도하는 방향을 비춘다.",
+          "friction": "사과와 변화 노력을 없던 일로 만들거나 추가 잘못이 없다고 판정하는 말은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:2:29",
+      "textSha256": "9771536484eb973a00a9b77e920b328151d50cc8424812adba34ad8b975f59c0",
+      "status": "exclude",
+      "reason": "다윗의 죽음과 남아 있는 무덤으로 부활 논증을 여는 역사 정보다. 생활의 선택에 대응할 행동이나 관점이 절 안에 드러나지 않는다.",
+      "contextNote": "다윗 자신의 영원한 생존을 말한 것이 아님을 설명하는 베드로의 연설이다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:2:30",
+      "textSha256": "1026010267d27771f2d64b147d6db39a6eeaf6eb97517e8d6d69af75f2366188",
+      "status": "hold",
+      "reason": "후손을 왕위에 앉히리라는 맹세가 다음절의 해석을 기다린다. 사용자의 승진이나 기회가 약속됐다는 식으로 옮기면 본문과 입력에 없는 사실을 보태게 된다.",
+      "contextNote": "다윗의 후손과 그리스도를 잇는 부활 논증의 한 문장이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:2:31",
+      "textSha256": "ef1a6759f4a6b40d3f4de199aa695dee8ffdeae5b64b719b5cbeaaac59c7aabc",
+      "status": "hold",
+      "reason": "그리스도의 부활과 육신이 썩지 않음을 직접 설명하는 절이다. 일반적인 실패 회복으로 바꾸려면 구체 진술의 의미를 해설해야 한다.",
+      "contextNote": "앞의 다윗 시를 예수의 부활 예언으로 해석한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:2:32",
+      "textSha256": "30f1eebf730cd33b403ffabf208271defcbfa7c3cb9afb54769b42688c69d7ba",
+      "status": "hold",
+      "reason": "예수 부활의 목격 증언은 신앙상 중요하지만 현재 제시된 고민의 양쪽 부담을 비출 직접 실마리는 약하다. 일반 성공의 증거로 전용하지 않는다.",
+      "contextNote": "베드로가 자신과 사도들을 부활 증인으로 제시한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:2:33",
+      "textSha256": "1a638f2d7d6c20f1ccf41734ec0fc044b747ef764feab21ff0042453cc9441bb",
+      "status": "hold",
+      "reason": "예수의 높아지심과 성령의 부으심으로 오순절 현상을 설명한다. 지금 보이는 어떤 일을 신적 승인으로 알아보라는 적용에는 설명과 없는 조건이 필요하다.",
+      "contextNote": "성령 강림 현상을 예수 부활과 승천에 연결하는 연설이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:2:34",
+      "textSha256": "0e0a5fc2d101a746dd77ba154a892750a65631d0fc3190cd9885679ca976ebed",
+      "status": "exclude",
+      "reason": "다윗이 하늘에 오르지 않았다는 설명 뒤 인용을 시작하다 끝난다. 말의 핵심이 다음절에 있어 독립된 뽑기로는 문장이 닫히지 않는다.",
+      "contextNote": "주께서 내 주에게 하신 말씀을 이어 인용하는 도입부다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:2:35",
+      "textSha256": "bf2a196fd30457e63e2a17aeb3facb2426cfe291fee5d83e3faa9e584660421b",
+      "status": "hold",
+      "reason": "원수를 발등상으로 만들 때까지 곁에 앉으라는 왕권 인용이다. 갈등 상대를 반드시 굴복시킨다는 보장으로 읽기 쉬우며 생활의 기다림과 구별할 설명이 필요하다.",
+      "contextNote": "시편 인용으로 예수의 주되심을 설명하며 일반 개인의 원수 처리를 약속하는 장면은 아니다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:2:36",
+      "textSha256": "21beacd9710ea427c27926ce7da12c07610f90cabb654c0dfbc59dda365798bc",
+      "status": "hold",
+      "reason": "예수를 주와 그리스도로 선포하면서 청중의 십자가 처형 책임을 지적한다. 일반 고민 사용자에게 그 책임을 입히지 않고 연결할 구체 선택이 현재 사례에는 없다.",
+      "contextNote": "이스라엘 청중에게 전하는 베드로 연설의 결론이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:2:37",
+      "textSha256": "dc83ab0c1f7a2bcdf53c1b7898506aa6c1e4cb284909dcbebdd7741d517fe832",
+      "status": "candidate",
+      "reason": "마음에 찔린 사람들이 방어하지 않고 어떻게 해야 하는지 묻는 모습은 실수를 알려준 사람에게 배우고 고칠지 망설이는 마음을 뜻밖에 비춘다.",
+      "contextNote": "예수에 관한 연설을 들은 청중의 회개 질문이다. 팀원의 지적을 이 사건과 같은 죄로 판정하지 않는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "마음이 찔려도 우리가 어찌할꼬 묻는 태도에서 자존심으로 버티기보다 인정하고 고칠 방법을 묻는 방향을 읽을 수 있다.",
+          "friction": "청중의 종교적 회개와 업무 실수는 다르며 모든 지적이 옳다고 단정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:2:38",
+      "textSha256": "b7db04cb7dd83723af4e6e2b6e92eaec8cd27badb5504b05cf42f986c4d46db6",
+      "status": "candidate",
+      "reason": "과거 잘못 때문에 믿음과 세례 준비를 미루는 고민에는 회개와 죄 사함, 세례를 함께 말하는 전체 절이 직접 닿는다. 먼저 흠없는 사람이 돼야 한다는 부담에서 나아갈 실마리가 있다.",
+      "contextNote": "어찌할지 묻는 오순절 청중에게 베드로가 회개와 세례를 권한다. 성령은 성과 보상이 아닌 신앙의 선물로 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C018",
+          "clue": "회개하여 세례를 받고 죄 사함을 얻으라는 말에서 잘못을 숨긴 채 자격을 기다리기보다 인정하며 신앙과 세례 준비를 시작할 방향을 읽을 수 있다.",
+          "friction": "이미 세례받은 사람에게 반복 세례를 요구하거나 생활 문제 해결을 보장하는 연결은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:2:39",
+      "textSha256": "a8f157bcfe1813764b88001d3c0db8135f703f096e520571f6fb608b221b602a",
+      "status": "candidate",
+      "reason": "부르심의 약속이 가까운 사람과 먼 사람에게도 열린다는 말은 신앙을 시작하려는 사람이 자신은 자격 밖이라는 두려움을 내려놓을 실마리가 된다.",
+      "contextNote": "앞절의 회개·세례·성령 약속의 범위를 설명한다. 개인의 원하는 결과를 약속한 구절로 확대하지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C018",
+          "clue": "너희뿐 아니라 먼데 사람에게도 열려 있다는 말이 과거 잘못만으로 스스로를 밖에 두지 않고 세례 준비를 시작할 마음과 연결된다.",
+          "friction": "모든 사람의 현재 상태를 판정하거나 회개를 불필요하게 만드는 약속은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:2:40",
+      "textSha256": "652752faca6fa7ac40aa34f74836105090a5297879c5c6e27880f0656afbd077",
+      "status": "hold",
+      "reason": "패역한 세대에서 구원받으라는 권면은 현재 생활 고민의 상대나 모임을 악하다고 지정할 근거가 아니다. 어떤 관계를 떠날지 읽으려면 없는 판단을 덧붙이게 된다.",
+      "contextNote": "오순절 설교와 회개 권면을 요약하는 절이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:2:41",
+      "textSha256": "a50911a3fd21605860c6a1964ddf9c6c7a62853e1c6012c393dfe9c51aca468d",
+      "status": "exclude",
+      "reason": "세례받은 제자가 삼천 명 늘었다는 사건의 집계다. 수의 증가 자체를 현재 모임의 성과나 지원 결과에 적용할 선택 실마리는 없다.",
+      "contextNote": "베드로 설교 뒤 공동체 형성을 기록한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:2:42",
+      "textSha256": "1881a28ab3239f4eff3f9bce5facbc8e5eac0eb428f8550f8f5c06fb004abf89",
+      "status": "candidate",
+      "reason": "가르침을 받고 교제하고 식사와 기도에 힘쓰는 장면이 신앙생활을 시작할까 미루는 사람에게 실제로 한 걸음 들어갈 방향을 준다.",
+      "contextNote": "세례 후 형성된 초기 신앙 공동체의 생활을 묘사한다. 모든 참석 횟수를 의무로 정한 절은 아니다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C018",
+          "clue": "완전해질 때까지 떨어져 있기보다 가르침·교제·기도에 참여하며 믿음을 배워가는 모습을 실마리로 삼을 수 있다.",
+          "friction": "과거 잘못의 책임을 교회 참여만으로 없애거나 준비 절차를 생략한다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:2:43",
+      "textSha256": "b9a3448da801f0baa61f665cb3430c10f4b21508fbd70e4f134d6a9161ca8abb",
+      "status": "hold",
+      "reason": "사도들의 기사와 표적에 사람들이 두려워했다는 기록이다. 현재 어떤 도움이나 믿음의 시도에 기적이 나타날 것을 약속하지 않으면 선택 연결은 약하다.",
+      "contextNote": "초기 공동체 생활과 사도들의 표적을 함께 설명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:2:44",
+      "textSha256": "b5a60087efeeb31e5665950e42e32717cebfdd1feabfb06e7c6a10f9b15b5354",
+      "status": "candidate",
+      "reason": "함께 지내며 물건을 서로 쓰는 장면은 쓰지 않는 물건을 팔지 가족과 나눌지 망설이는 사람에게 소유를 관계 안에서 보는 실마리가 된다.",
+      "contextNote": "믿는 공동체의 자발적 공유를 묘사한다. 모든 소유를 처분하라는 보편 지시로 옮기지 않는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H024",
+          "clue": "돈으로 바꾸는 가치와 함께 서로 물건을 나누는 가치가 눈에 들어와 가족에게 선물하는 쪽으로 마음을 정할 수 있다.",
+          "friction": "가족에게 특정 필요가 있다고 보태거나 모든 물건을 공용으로 만들 의무를 주지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:2:45",
+      "textSha256": "fd8f0a91345a7c96090ebc31655baa265e3947be12a0456d50c8a67fd566b205",
+      "status": "candidate",
+      "reason": "사람의 필요에 따라 나누는 구체 모습은 생활비가 부족하지 않은데 도움을 줄지 돈을 아낄지 망설이는 마음을 비춘다. 재산 처분의 규모를 그대로 요구할 필요는 없다.",
+      "contextNote": "초기 교회가 소유를 팔아 공동체의 필요를 채우는 장면이다. 나눔의 보편적 강제 규정과 구별한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H059",
+          "clue": "각 사람의 필요를 따라 나눴다는 말이 내가 조금 아끼는 것과 상대의 필요를 함께 보게 해 도움을 건네는 방향을 준다.",
+          "friction": "기부하면 다시 돈이 생긴다는 보장이나 생활비까지 소진하라는 해석은 더하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:2:46",
+      "textSha256": "ed693f5b57d4fb7110b0e84b15150d41bdf79ff4e747ec5050a423568017355a",
+      "status": "candidate",
+      "reason": "함께 모여 순전한 기쁨으로 밥을 먹는 장면은 소외된 듯한 추측 때문에 모임을 떠날지 망설일 때 관계의 소박한 가치를 다시 보는 실마리가 된다.",
+      "contextNote": "성전과 집에서 이어진 초기 공동체의 일상을 묘사한다. 현재 모임도 이미 화목하다고 단정하는 적용은 피한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H035",
+          "clue": "마음을 같이해 함께 먹는 장면이 모임 자체를 포기하기 전에 같이하고 싶은 마음을 이야기해보는 쪽으로 기울게 할 수 있다.",
+          "friction": "실제 소외 여부나 다른 사람의 마음은 여전히 알 수 없고 대화가 잘 풀린다는 보장도 없다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:2:47",
+      "textSha256": "c605a4822103a4ab8540e3e4853694fa1f80b7ef7363ca3d40c8abf5b15d70cb",
+      "status": "hold",
+      "reason": "찬미와 사람들의 칭송, 구원받는 사람의 증가가 이어지는 공동체 기록이다. 현재 조직이 칭송받고 커질 것이라는 보장 없이 선택 방향을 찾기에는 연결이 간접적이다.",
+      "contextNote": "초기 공동체 생활의 마무리로 주께서 사람을 더하심을 기록한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:3:1",
+      "textSha256": "f3c7f584afcdfb035a76c73f0559ab1ce74e738572218cdf64702743e0dca917",
+      "status": "exclude",
+      "reason": "기도 시간에 두 사도가 성전에 가는 장면을 여는 이동 정보다. 시간과 장소를 그대로 신호로 삼지 않으면 현재 생활의 갈등을 비출 내용은 약하다.",
+      "contextNote": "이후 성전 문에서 걷지 못하는 사람을 만나는 사건의 도입이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:3:2",
+      "textSha256": "3d34e163c5861f874e6221710baf4472c48a6b31c21ae06f48023e774f819d60",
+      "status": "candidate",
+      "reason": "걸을 수 없는 사람을 사람들이 매일 데려다주는 장면은 사정을 모두 해결하지 못해도 작은 실질 도움을 줄지 고민하는 마음에 닿는다. 구걸과 성전 문이라는 뒷부분도 도움의 목적을 보여준다.",
+      "contextNote": "나면서 걷지 못하던 사람의 일상과 주변의 이동 도움을 설명하며 뒤에 치유 사건이 이어진다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "문까지 데려다주는 사람들이 당사자의 모든 어려움을 해결하지 못해도 지금 필요한 한 부분을 돕는 모습에서 작은 도움을 건넬 방향을 읽을 수 있다.",
+          "friction": "본문의 구걸 생활을 친구에게 있다고 가정하지 않고 치유가 내 도움의 결과로 보장된다고 읽지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:3:3",
+      "textSha256": "59721bd77d59a308eaa4d40b17dc4005fc5522b2f5eb0b7e86ddd4641b071049",
+      "status": "exclude",
+      "reason": "성전으로 들어가는 사도들에게 구걸하는 짧은 사건 연결이다. 요청의 내용이나 선택의 관점은 이 절에서 아직 드러나지 않는다.",
+      "contextNote": "걷지 못하는 사람과 사도들의 만남 도입이다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:3:4",
+      "textSha256": "338d98945c20850d528dd23e566e54b3e9ffeb44beb673700d72ffb54ab5679b",
+      "status": "hold",
+      "reason": "상대를 주목하는 태도에는 도움의 실마리가 있지만 우리를 보라는 발화가 뒤의 기적을 기다린다. 작은 돌봄의 충분한 결과로 단독 연결하기에는 약하다.",
+      "contextNote": "베드로가 구걸하는 사람에게 시선을 맞춘다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "주목하며 먼저 말을 거는 모습에서 작은 관심을 건넬 수 있다.",
+          "friction": "우리를 보라는 말만으로 어떤 도움을 줄지는 드러나지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:3:5",
+      "textSha256": "84c8c3c7b2287400a5cc72339932b6331f1d30ed0d709bf058b9fec7e4b94c4b",
+      "status": "exclude",
+      "reason": "무엇을 받을지 기대하며 바라보는 장면이다. 기대의 대상과 이후 판단이 없어 요청할지 기다릴지의 실마리로 삼기 어렵다.",
+      "contextNote": "구걸하던 사람이 베드로의 말을 듣고 주목한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:3:6",
+      "textSha256": "8000cd0027029283767439eb37e9773990f60cb84926cefbd42078460b7a7aa2",
+      "status": "hold",
+      "reason": "내게 있는 것을 준다는 앞부분은 작은 도움과 닿지만 전체는 예수 이름으로 걸으라는 치유 선언이다. 뒷말을 그대로 두면 일반 도움의 조합은 충분함이 불확실하다.",
+      "contextNote": "베드로가 돈 대신 치유를 선포하는 사건이다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "돈이나 큰 해결책이 없어도 내가 가진 것으로 돕는 모습을 떠올릴 수 있다.",
+          "friction": "걸으라는 기적의 선언까지 포함돼 작은 일상 도움에 바로 옮기기 어렵다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:3:7",
+      "textSha256": "eebbacde94f78ba3841dd50012977d15df58e60531bca29e57943b51e8c36159",
+      "status": "candidate",
+      "reason": "오른손을 잡아 일으키는 구체 장면은 실패로 주저앉은 아이에게 지적부터 할지 곁에서 도울지의 갈림길에 뜻밖의 실마리가 된다.",
+      "contextNote": "본문은 실제 발과 발목의 치유다. 아이의 정서적 좌절에 대한 개인적 비유와 구별한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "R007",
+          "clue": "먼저 손을 잡아 일으키는 모습이 울고 있는 아이 곁에서 다시 서도록 돕는 방향을 비춘다.",
+          "friction": "아이의 신체가 아프다고 가정하거나 위로하면 곧 경기력이 회복된다고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:3:8",
+      "textSha256": "a0156a9d825d52e46441deed29a2607408d499010159e69f63bf08586bbc82ea",
+      "status": "hold",
+      "reason": "걷고 뛰며 찬미하는 기쁨은 선명하나 치유가 이미 일어난 뒤의 모습이다. 현재 제약이 해소됐다고 보태지 않고 생활 선택으로 옮길 충분한 조합은 아직 약하다.",
+      "contextNote": "치유받은 사람이 사도들과 성전에 들어간다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:3:9",
+      "textSha256": "d1508f05b26debd7976db3b133912f82fe381dfaca7017d5011bb7a85fba3dcd",
+      "status": "exclude",
+      "reason": "사람들이 걷는 모습과 찬미를 보았다는 관찰로 다음절의 반응에 이어진다. 현재 고민의 방향을 독립적으로 비출 내용은 적다.",
+      "contextNote": "성전의 사람들이 치유된 사람을 목격한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:3:10",
+      "textSha256": "53dab3f4e895f0cebede8424e14816cb17a60de865e24bef030b2b6917f45fa0",
+      "status": "exclude",
+      "reason": "구걸하던 사람임을 알아보고 놀란 군중의 반응이다. 기적의 확인 정보 외에 현재 선택의 양쪽 부담을 읽을 실마리는 없다.",
+      "contextNote": "목격자들이 치유 전의 인물을 알아본다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:3:11",
+      "textSha256": "2296e777a1b7aa858a57375739b6be30eae54bd1783c83c8fe13c123f5252b82",
+      "status": "exclude",
+      "reason": "치유된 사람이 사도들을 붙잡고 군중이 행각으로 모이는 장소 전환이다. 붙잡음 자체를 관계의 답으로 삼기에는 상황 의존성이 크다.",
+      "contextNote": "이어질 베드로 연설의 청중이 모인다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:3:12",
+      "textSha256": "dbe2a0429a9a5c0d3115a9a21396f6bc992fae1288ddb57dbacbcfc4dd7f400c",
+      "status": "candidate",
+      "reason": "사람들의 주목을 자신만의 능력과 경건에서 돌리는 발화는 팀 성과를 혼자 해낸 듯 말할지 고민하는 사람에게 공을 바로 보는 실마리가 된다.",
+      "contextNote": "베드로는 치유의 근원을 하나님과 예수에게 돌린다. 팀원의 기여를 인정하는 개인적 공명과 구별한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "R016",
+          "clue": "왜 우리 개인의 힘으로 한 것처럼 보느냐는 질문이 자기 혼자 해냈다는 인상을 바로잡고 실제 동료의 기여를 밝힐 방향을 준다.",
+          "friction": "팀 작업을 치유 기적으로 선언하거나 동료와 하나님을 동일시하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:3:13",
+      "textSha256": "8df3d4e8d556c8c788394dd70465c48f9a8f9c7c7909744d5e28ab8337129201",
+      "status": "hold",
+      "reason": "예수를 영화롭게 하신 하나님과 예수를 부인한 청중을 대조한다. 현재 사용자의 업무나 관계에 이 처형 책임을 입히지 않으면 직접 연결은 약하다.",
+      "contextNote": "베드로가 치유 뒤 예수의 처형과 부활을 선포한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:3:14",
+      "textSha256": "a7dd002606ac454177b80c452d2349b1d792d7b6d5e311f5f573127b276d5c5a",
+      "status": "hold",
+      "reason": "의로운 이를 부인하고 살인자를 놓아달라 한 고발이 다음절로 이어진다. 일반 타협 고민을 곧 이 범죄로 규정할 수 없어 적용 설명이 필요하다.",
+      "contextNote": "예수를 거부한 청중의 선택을 지적하는 연설이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:3:15",
+      "textSha256": "92d5f9d482d46ed7d7158f8f26f9cb65f03684830b11bea03a4adf4a221a086a",
+      "status": "hold",
+      "reason": "죽임당한 예수를 하나님이 살리셨다는 증언이다. 지금의 손실이나 치료 결과가 뒤집힌다는 약속으로 옮기지 않으면 생활 선택의 실마리는 간접적이다.",
+      "contextNote": "생명의 주의 죽음과 부활을 선포한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:3:16",
+      "textSha256": "adab8cc79da3e2bedc7a3efb8c77adf8e5cc7da7d0cab5b73f43bf3156fe2cb8",
+      "status": "hold",
+      "reason": "믿음과 예수 이름으로 이 사람이 완전히 나았다고 설명한다. 현재 병자의 믿음 정도나 회복 결과를 단정하는 조합이 되지 않도록 설명이 필요하다.",
+      "contextNote": "눈앞의 치유 사건의 근원을 설명하는 베드로의 연설이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:3:17",
+      "textSha256": "c7ed34160d8b8ef5d93985a868ce719e02188693e3e4a4b1a8851c9b027dca82",
+      "status": "hold",
+      "reason": "청중과 관원의 무지로 예수를 거부했다고 말한다. 현재 상대가 몰라서 그랬다는 속사정을 알 수 없는 고민에 넣으면 입력에 없는 이유를 보태게 된다.",
+      "contextNote": "처형 책임 지적 뒤 회개 권면으로 넘어가는 대목이다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:3:18",
+      "textSha256": "3e7ccb661ac44c9938f4b4825828d08bb4055c2b72d3e2454ece8751d70e23cf",
+      "status": "hold",
+      "reason": "그리스도의 고난이 예언대로 이루어졌다는 설명이다. 지금 사용자의 어려움을 신적 예정이나 반드시 필요한 과정으로 지정할 수 없어 생활 연결을 보류한다.",
+      "contextNote": "예수의 고난을 선지자들의 예언에 연결한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:3:19",
+      "textSha256": "c061962c5b65da413fbd2514e4b11fd57f1d92f420b60d07e2f93a9b73c494bb",
+      "status": "candidate",
+      "reason": "회개하고 돌이켜 죄 사함을 받으라는 말은 이미 잘못을 인정했지만 기도를 피하는 마음에 다시 하나님께 나아갈 실마리를 준다.",
+      "contextNote": "베드로가 청중에게 회개와 주 앞의 회복을 권한다. 유쾌한 날을 당장 모든 현실 문제 해결로 바꾸지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "R021",
+          "clue": "피하는 대신 잘못을 인정한 채 주 앞으로 돌아갈 방향을 읽을 수 있다.",
+          "friction": "기도하면 관계나 기분이 즉시 좋아진다는 보장은 없으며 남은 책임을 지우지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:3:20",
+      "textSha256": "9e59572d5a24c5041536b315983c05954aa13519fb7558f3ec5a3b5c7cec7571",
+      "status": "hold",
+      "reason": "예정하신 예수를 보내실 것이라는 약속이 종말의 회복 문맥으로 이어진다. 현재 고민에 새 기회가 온다고 읽으려면 본문 밖의 풀이가 필요하다.",
+      "contextNote": "회개 권면 뒤 그리스도의 다시 오심을 말한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:3:21",
+      "textSha256": "5dadf63450bf5419e590bcba0e9a7370ef95f23baef8c01cd64e93b87c01d56a",
+      "status": "hold",
+      "reason": "만유 회복의 때와 하늘에 계신 그리스도를 설명한다. 이를 사용자의 기다림이 끝날 시점으로 적용할 정보는 절에 없다.",
+      "contextNote": "선지자들의 약속과 종말의 회복을 잇는 문장이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:3:22",
+      "textSha256": "fb70f719cd3dba348bbb13442b474c364cb4cd6d2c4a8bd1e1955affc2b7727d",
+      "status": "hold",
+      "reason": "모세가 예고한 선지자의 모든 말을 들으라는 인용이다. 누구를 가리키는지 해설이 필요하고 지금 만난 지도자의 요구에 무조건 따르는 근거로 쓰기 어렵다.",
+      "contextNote": "베드로는 모세의 예언을 예수에게 연결한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:3:23",
+      "textSha256": "8fcbfdac83b227264e228d9d5646062b2932d33771e9f19865aedf6173db3bcd",
+      "status": "hold",
+      "reason": "그 선지자를 듣지 않는 자의 멸망을 경고한다. 지시 대상을 밝히는 앞문맥 없이 현재 선택을 신적 벌과 연결하기 쉽다.",
+      "contextNote": "모세의 선지자 예언 인용에 붙은 언약 경고다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:3:24",
+      "textSha256": "ba23fdbcbfdc88e3e7e22dcfea0cb374b5bc999a9d57ebbfc250db626bcf926d",
+      "status": "exclude",
+      "reason": "사무엘 이후 선지자들이 이때를 말했다는 예언 계보의 확인이다. 일반 생활의 선택을 비출 독립 내용은 없다.",
+      "contextNote": "예수 사건을 예언의 성취로 설명하는 연설이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:3:25",
+      "textSha256": "146affcc2c620df6954dacd69369be16aed096d5bd617fa42dc25d3d5fff8c2d",
+      "status": "hold",
+      "reason": "언약의 자손과 아브라함의 씨를 통한 모든 족속의 복을 말한다. 개인의 자격이나 사업의 번창 보장으로 바꾸지 않고 읽으려면 언약 문맥 설명이 필요하다.",
+      "contextNote": "베드로가 이스라엘 청중의 언약적 위치를 설명한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:3:26",
+      "textSha256": "d65e21713cce46c06793484ed64315562fc17d2fda3005f3155a57d7c5742896",
+      "status": "candidate",
+      "reason": "하나님이 복 주시려 보내시며 각자의 악함에서 돌이키게 하신다는 말은 잘못 때문에 신앙 시작을 미루는 사람이 변화의 길로 들어갈 실마리가 된다.",
+      "contextNote": "예수를 먼저 이스라엘에게 보내신 목적을 회개와 복으로 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C018",
+          "clue": "먼저 완전해져야 다가갈 수 있다는 부담보다 돌이키도록 보내셨다는 말에서 잘못을 인정하며 믿음과 세례 준비를 시작할 방향을 읽을 수 있다.",
+          "friction": "입력에 없는 새 죄를 지목하거나 세례가 물질적 복을 준다고 약속하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:4:1",
+      "textSha256": "27db159a4f9249a62cfe7fef12962448afc541b1cdde799a7c6cb00ba8b04b49",
+      "status": "exclude",
+      "reason": "제사장과 성전 관리들과 사두개인이 현장에 온다는 사건 도입이다. 문장이 다음절의 이유와 체포로 이어져 단독 선택 실마리는 없다.",
+      "contextNote": "치유와 설교 후 지도자들의 제지가 시작된다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:4:2",
+      "textSha256": "175cfdf420f04fdcbcf91547890eeeaab1337be9d77c3f0ba86d857840939dda",
+      "status": "exclude",
+      "reason": "지도자들이 사도들의 가르침과 부활 선포를 싫어했다는 이유 설명이다. 반대가 있다는 사실만으로 지금 선택의 옳고 그름을 읽을 수 없다.",
+      "contextNote": "앞절 지도자들의 등장과 다음절 체포를 잇는다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:4:3",
+      "textSha256": "fc0210ffcaae0b102447962d35a49cd41852ef272a7b5b59941bf450da5bcbc0",
+      "status": "hold",
+      "reason": "밤새 가둔 사건은 억압을 보여주지만 현재 갈등의 대응 방향은 절 안에 없다. 어떤 고생도 그대로 감수해야 한다는 적용에는 설명이 필요하다.",
+      "contextNote": "성전 지도자들이 사도들을 붙잡아 심문까지 가둔다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:4:4",
+      "textSha256": "6ace57486a37037be430a63b3b819c17126ab813e9bfd53a94d6f5a7bc1c85f6",
+      "status": "exclude",
+      "reason": "설교를 듣고 믿은 남자의 수를 기록한다. 숫자 증가를 현재 프로젝트의 성공 예고로 바꾸지 않으면 독립적인 선택 실마리는 없다.",
+      "contextNote": "체포 중에도 믿는 이가 늘어난 사건 기록이다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:4:5",
+      "textSha256": "b082d759d461884928c34b95a84e1d29eb11c5673dc0c3a1d7d6732245721a6c",
+      "status": "exclude",
+      "reason": "이튿날 지도자들이 예루살렘에 모였다는 심문 일정과 장소다. 생활 고민에 옮길 판단 관점은 드러나지 않는다.",
+      "contextNote": "공회 심문 장면의 도입이다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:4:6",
+      "textSha256": "0b50b82b9887f97ed6c786686c748af7de16b289f92ef235245f696a82563593",
+      "status": "exclude",
+      "reason": "대제사장들과 문중 참석자의 명단이다. 이름이나 지위를 개인 선택의 신호로 삼을 근거가 없다.",
+      "contextNote": "공회에 참석한 종교 권력자들을 열거한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:4:7",
+      "textSha256": "5f75d852250d90998426e19d7504baad7e3189f830c861054a3312bc64799ddf",
+      "status": "candidate",
+      "reason": "무슨 권세와 누구 이름으로 했느냐는 질문은 자기 판단을 하나님 뜻이라 말하려는 사람에게 발화의 실제 근거를 돌아보게 한다.",
+      "contextNote": "공회가 치유를 행한 사도들을 추궁하는 질문이다. 질문자의 모든 의도를 본받는 적용은 아니다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C001",
+          "clue": "누구의 이름과 권세인지 묻는 말이 내 생각뿐인 것을 하나님의 뜻이라 내세우지 않고 출처를 솔직히 밝힐 방향을 비춘다.",
+          "friction": "자기 의견을 말하려면 특별한 권능을 먼저 받아야 한다는 뜻으로 옮기지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:4:8",
+      "textSha256": "19bcb75fd822932111ea39bed4a8a30e08a7f06149e25753d56b5f67e4f743c9",
+      "status": "exclude",
+      "reason": "베드로가 성령 충만해 지도자들에게 말을 여는 호칭이다. 답변의 내용이 뒤에 있어 이 절만의 선택 실마리는 없다.",
+      "contextNote": "공회의 질문에 대한 베드로 답변 도입이다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:4:9",
+      "textSha256": "721295cd1a6942b60048f1d05932b02b16443aea88b03859c27aadb82c068bc7",
+      "status": "hold",
+      "reason": "병자에게 한 선행과 치유의 근원을 질문하는 조건절이다. 답이 다음절에 있어 도움의 선택으로 단독 사용하면 문장이 덜 닫힌다.",
+      "contextNote": "베드로가 심문 주제를 치유의 선행으로 짚는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:4:10",
+      "textSha256": "7992d275a2957e52740dd8a4a48c9b4644d4ab41107cc509859499e43258d0a9",
+      "status": "hold",
+      "reason": "예수의 죽음과 부활, 그 이름으로 일어난 완치를 함께 선언한다. 현재 치료의 결과나 신적 원인을 지목하지 않으려면 별도 설명이 필요하다.",
+      "contextNote": "베드로가 눈앞의 치유를 예수의 이름에 돌린다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:4:11",
+      "textSha256": "ca9df19b6c55c6e367ccfe20152b5027991226aa7cbca4564b4540a56c187b3e",
+      "status": "candidate",
+      "reason": "버린 돌이 머릿돌이 되었다는 역전의 그림은 주변의 낮은 평가 때문에 지원을 접을지 망설이는 마음에 닿는다. 우승을 예고하지 않아도 평가에 매이지 않을 실마리가 있다.",
+      "contextNote": "본문은 예수가 거부당했으나 중심이 되셨다는 비유다. 개인의 진로 연결은 별도 공명으로 본다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "R012",
+          "clue": "사람들이 버렸다는 판단이 돌의 마지막 가치를 정하지 않는 그림에서 주변 말만으로 지원을 포기하지 않을 방향을 읽을 수 있다.",
+          "friction": "본선 진출이나 나중의 성공이 보장된다는 해석은 더하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:4:12",
+      "textSha256": "447ae908abba161509befeda4608d74bc0461df000f95381a23cfadc1359f749",
+      "status": "candidate",
+      "reason": "구원의 이름을 예수에게 두는 고백은 답답해서 점집에 갈지 자신의 신앙 안에서 생각하고 기도할지 망설이는 경우 기준을 다시 잡게 한다.",
+      "contextNote": "베드로가 예수의 유일한 구원을 선포한다. 일반적 정보 탐색이나 치료 수단을 거부하는 말로 확대하지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B030",
+          "clue": "다른 구원의 이름을 찾기보다 내가 믿는 분을 의지한다는 방향이 점집 대신 신앙 안에서 생각하고 기도하는 선택과 닿는다.",
+          "friction": "점집에서 무슨 일이 생길지 예고하거나 기도만 하면 결정 결과가 보장된다고 하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:4:13",
+      "textSha256": "c80f2ad55456631e9f3ba041e34624d9b6d97c7fc7b856f62ad028e802c3e035",
+      "status": "candidate",
+      "reason": "학문 없는 평범한 사람들이 기탄없이 말하는 모습은 남들보다 못할까 두려워 첫 지원을 미루는 마음을 뜻밖에 비춘다.",
+      "contextNote": "지도자들이 사도들의 담대함과 예수와 함께한 사실에 놀라는 장면이다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "평범하다는 평가와 담대히 말하는 모습이 함께 있어 완벽한 이력부터 갖춰야만 시도할 수 있다는 부담을 덜 수 있다.",
+          "friction": "지식이나 준비가 필요 없다는 뜻도, 모든 지원이 인정받는다는 보장도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:4:14",
+      "textSha256": "246531b5b688fd247864de9c22ca38341cb0d58750a49bcc3d37842cb8a2fc72",
+      "status": "hold",
+      "reason": "치유받은 당사자가 함께 선 증거의 힘은 읽히지만 현재 보낸 기록을 제시할지의 고민까지 바로 닿는지는 불확실하다.",
+      "contextNote": "공회가 사도들과 함께 선 치유된 사람을 보고 반박하지 못한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "R015",
+          "clue": "함께 있는 실제 증거가 왜곡된 주장을 바로잡는 힘을 떠올릴 수 있다.",
+          "friction": "병 나은 당사자의 현존과 자료 전송 기록은 다르고, 절에는 당사자가 반박하는 선택이 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:4:15",
+      "textSha256": "b376daa989aaae7e63ccfe7aa7b7a3b828bdb6faf2a98e47a5f71ab6fe372f6a",
+      "status": "exclude",
+      "reason": "사도들을 내보내고 내부 의논을 시작하는 장면 전환이다. 의논 내용이 없어 현재 협의 여부의 충분한 실마리는 없다.",
+      "contextNote": "공회가 사도들 없는 자리에서 대응책을 논의한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:4:16",
+      "textSha256": "9815c3644facfcbe4af408d62c71d25b639e64faae63ffd8ed44e63d0e57859a",
+      "status": "candidate",
+      "reason": "적대하는 지도자들조차 드러난 일을 부인할 수 없다고 인정하는 말은 확인된 실수 앞에서 방어할지 인정할지의 마음을 비춘다.",
+      "contextNote": "공회는 표적의 사실은 인정하면서 다음절에서 전파를 막으려 한다. 이후 억압까지 옹호하지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "우리도 부인할 수 없다는 말이 기분과 별개로 확인된 실수를 받아들이고 고칠 방향으로 기울게 할 수 있다.",
+          "friction": "공회의 뒤이은 은폐 시도를 모범으로 삼지 않으며 팀원의 모든 말을 무조건 사실로 만들지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:4:17",
+      "textSha256": "c99c9907d7c539fa0b05825212a2d081fb88c10201b8a4f24d143d13c172dab5",
+      "status": "hold",
+      "reason": "위협해서 예수 이름의 전파를 막자는 억압적 제안이다. 발화 자체가 악역이라서가 아니라 현재 사례의 두 선택에 충분히 닿는 전체 연결이 없다.",
+      "contextNote": "공회가 이미 인정한 표적의 확산을 막으려 의논한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:4:18",
+      "textSha256": "f81dc880f9ad17aa45ec11a5142c848aec97cea5e3961fbc4d0e668bf182aec9",
+      "status": "hold",
+      "reason": "예수 이름으로 말하거나 가르치지 말라는 금지다. 앞뒤 저항 문맥 없이 단독 뽑으면 신앙을 숨기라는 신호와 뒤섞여 해설이 필요하다.",
+      "contextNote": "공회가 사도들을 다시 불러 명령한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:4:19",
+      "textSha256": "7e45a85f8daa83ae4e83046fc643bd968c761358ba9366078ae5c0e20f87533f",
+      "status": "candidate",
+      "reason": "사람의 요구와 하나님 앞의 옳음을 비교하라는 질문은 친구의 권유와 자기 신앙 기준 사이에서 망설이는 마음에 직접 닿는다.",
+      "contextNote": "예수 이름의 전파 금지에 사도들이 답한다. 자기 바람을 새 하나님의 명령이라고 선언하는 적용은 아니다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B030",
+          "clue": "함께 가자는 사람들의 말보다 하나님 앞에서 내가 지키려는 기준을 살피는 방향으로 마음을 정할 수 있다.",
+          "friction": "서비스가 특정 선택을 하나님의 직접 답이라고 확정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:4:20",
+      "textSha256": "ee611afdbeba0b34ab22a073261028a102880aba617a078c4a13978e2ec41675",
+      "status": "candidate",
+      "reason": "직접 보고 들은 사실을 말하겠다는 고백은 사실과 다른 공개 발언에 반박할지의 고민에 선명한 실마리를 준다.",
+      "contextNote": "사도들이 자신들의 증언을 막을 수 없다고 답한다. 모든 사적 정보 공개 의무로 확대하지 않는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "R015",
+          "clue": "내가 보고 알고 기록도 있는 사실을 말하는 쪽으로 기울 수 있다.",
+          "friction": "상대를 공격하거나 모든 사실을 언제나 공개해야 한다는 뜻은 아니고, 상대가 받아줄지는 모른다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:4:21",
+      "textSha256": "8844ca9830f2eeda708183d0e5c5cdccf9b3d62d41d5fe9aa0d8b26cbaecb375",
+      "status": "hold",
+      "reason": "위협 뒤 풀려난 이유와 군중의 찬미를 함께 기록한다. 사실대로 말하면 처벌을 피한다는 보장 없이 일반 갈등의 실마리로 옮기기에는 결과 의존성이 크다.",
+      "contextNote": "공회는 군중 때문에 벌할 방도를 못 찾고 사도들을 놓는다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:4:22",
+      "textSha256": "12eb692e677fb293d6486252ef51224abb1cf9f0fcfa1e4568c2748b31789e19",
+      "status": "exclude",
+      "reason": "치유된 사람의 나이를 부연하는 사실이다. 늦은 도전의 성공으로 읽으면 나이 정보에 없는 뜻을 보태게 된다.",
+      "contextNote": "표적을 받은 사람이 사십여 세였다고 확인한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:4:23",
+      "textSha256": "b2672ac3db02067b8a2f9e4929665e77464f91c38a74c68cd154879b672f115d",
+      "status": "candidate",
+      "reason": "풀려난 뒤 동료에게 돌아가 겪은 말을 모두 전하는 모습은 힘든 일을 해결책 요구로 오해받을까 혼자 감추는 마음에 닿는다.",
+      "contextNote": "사도들이 공동체에 위협과 심문 내용을 알리고 뒤에 함께 기도한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B011",
+          "clue": "먼저 겪은 일을 알리는 모습에서 큰 돈이나 해결을 요구하지 않아도 들어달라고 말할 방향을 읽을 수 있다.",
+          "friction": "친구들이 모두 이해하거나 문제를 해결해준다는 결과는 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:4:24",
+      "textSha256": "db95a7516cc88b4c7c755375d3a0d4fc51e6a0c84f57cb2296052cabb69b3e21",
+      "status": "hold",
+      "reason": "함께 하나님께 소리 높이는 모습은 기도의 실마리가 있지만 호칭과 창조 고백을 열다가 다음절로 이어진다. 현재 고민의 요청을 단독으로 읽기에는 덜 닫힌다.",
+      "contextNote": "위협을 들은 공동체의 합심 기도 도입이다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A035",
+          "clue": "다른 답을 찾기 전에 하나님께 마음을 향하는 모습을 떠올릴 수 있다.",
+          "friction": "기도의 핵심 요청이 아직 나오지 않아 한 절 결과의 충분함은 불확실하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:4:25",
+      "textSha256": "3210ee9ce5dd66aba8eeff350753e215be0d676b96d77d499901fd5c6702007d",
+      "status": "hold",
+      "reason": "열방의 분노와 헛된 계획을 묻는 시편 인용이다. 현재 반대자들의 실제 의도를 이 말로 판단하면 입력 밖의 적대 이유를 보태게 된다.",
+      "contextNote": "공동체가 시편의 왕권 노래를 기도에서 인용한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:4:26",
+      "textSha256": "bd5bf007084e74067531b0869e48699d7caba2625140cb1127788a5f556f7f62",
+      "status": "hold",
+      "reason": "왕과 관원들이 그리스도를 대적한다는 인용은 역사적 박해를 해석한다. 생활의 반대 의견을 곧 하나님 대적으로 규정하지 않고 읽을 충분한 사례는 없다.",
+      "contextNote": "앞절의 열방과 왕들의 반역 인용이 이어진다.",
+      "readability": "needs_explanation",
+      "connections": []
     }
   ]
 }

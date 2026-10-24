@@ -5787,6 +5787,947 @@
       "contextNote": "도엑이 신탁과 음식 및 칼 제공을 보고한다.",
       "readability": "thinkable",
       "connections": []
+    },
+    {
+      "id": "KRV:1SA:22:11",
+      "textSha256": "aa37d6408d2e2bf8c2b98779ae9c6fd672309f3d88959efc74f65160ed00ffd9",
+      "status": "exclude",
+      "reason": "왕이 제사장 일가를 소환했다는 사건만 있어 어느 생활 선택으로 마음을 기울일 실마리가 없다.",
+      "contextNote": "사울이 도엑의 보고 뒤 놉 제사장들을 부른다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:22:12",
+      "textSha256": "a40abde6c183feef80840f79634c8fc3e2847851d132c37c2e5c0485bc5e3e48",
+      "status": "exclude",
+      "reason": "왕의 호명과 제사장의 응답만으로 이루어져 자신의 뜻을 밝히거나 관계를 풀 실마리가 없다.",
+      "contextNote": "사울이 아히멜렉을 심문하기 시작한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:22:13",
+      "textSha256": "fa6acc704a2a6a841b1b7c7e762dbc053badf04450b31ad8c612ad7098aad8a4",
+      "status": "hold",
+      "reason": "H037의 의심과 닿아도 떡과 칼 제공을 매복 공모로 단정하는 긴 비난이라 상대 마음을 모르는 현재 고민에 그 추정을 보탠다.",
+      "contextNote": "사울이 아히멜렉의 도움을 반역으로 몰아 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H037",
+          "clue": "보이는 도움을 적대 의도로 단정하는 질문",
+          "friction": "왕의 오해를 알리는 주변 이야기 없이 읽으면 의심을 정당화하기 쉽다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:22:14",
+      "textSha256": "3c5f69a615e1d114187d9daf5e22bf37799fbf885764e4415576f957cc22a0a5",
+      "status": "candidate",
+      "reason": "R023에서 한 번의 이상한 행동보다 오랫동안 충실했던 사람의 모습을 돌아볼 실마리가 전체 반문에 있다. 친분만으로 현재의 잘못이 없다고 확정하지는 않는다.",
+      "contextNote": "아히멜렉이 왕에게 다윗의 충실함과 기존 신뢰를 들어 도움을 변호한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "R023",
+          "clue": "다윗 같이 충실한 자가 누구인지요",
+          "friction": "왕실 직책의 나열은 낯설어도 평소 신뢰한 사람을 다시 보는 반문은 읽힌다. 지각 이유는 알 수 없다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:22:15",
+      "textSha256": "cc1c8849681427e2abb38c394e7e29183996f5dfed2f02bc595e689a427e7fcc",
+      "status": "candidate",
+      "reason": "A033에서 자신이 알지도 가담하지도 않은 일의 책임을 집안 전체에 돌리지 말라는 호소가 집단 비난을 구분할 실마리가 된다. 실제 팀원 각자의 책임은 입력대로 남긴다.",
+      "contextNote": "아히멜렉이 평소의 신탁과 이번 사정을 몰랐음을 말하며 온 집에 책임을 돌리지 말라 청한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A033",
+          "clue": "종과 종의 아비의 온 집에 아무것도 돌리지 마옵소서",
+          "friction": "신탁과 왕의 심문은 현재 팀 과제와 다르지만 전부의 책임으로 뭉뚱그리지 않는 방향은 읽힌다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:22:16",
+      "textSha256": "e3305d3a96a8500ba5d5bbac308d6cda598b4c7c55a8398e43dd632e0c804c53",
+      "status": "exclude",
+      "reason": "반드시 죽고 집안도 죽는다는 왕의 선고가 전부라 일상의 망설임에 제공할 만한 선택 실마리가 없다.",
+      "contextNote": "사울이 변호를 듣고도 아히멜렉 일가의 처형을 선고한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:22:17",
+      "textSha256": "47783b5b3dbaf99255a3268878f8473f063a65cc85dd6551dfe39a3ece6f190f",
+      "status": "hold",
+      "reason": "A016의 부당한 부탁 거부와 닿는 신하들의 거절이 있으나 왕의 학살 명령과 공모 비난이 절 대부분을 차지한다. 거짓 증언 부탁의 첫 결과로 충분할지는 경계다.",
+      "contextNote": "사울의 제사장 살해 명령을 시위 신하들이 따르기를 거부한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A016",
+          "clue": "명령을 받고도 손을 들어 죽이기를 싫어한 신하들",
+          "friction": "누가 옳은지 모르는 증언 문제와 대량 살해는 정도가 달라 거부 장면만 떼어 충분하다고 보기는 어렵다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:22:18",
+      "textSha256": "fe0107766931350ef25eb53f283b5ea5418db9d11e1e87a2f93e463e4561abef",
+      "status": "exclude",
+      "reason": "도엑이 명령을 받아 제사장 팔십오 명을 죽였다는 학살 기록으로 현재 선택을 풀 단서가 없다.",
+      "contextNote": "왕의 신하들이 거절한 일을 도엑이 실행한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:22:19",
+      "textSha256": "23d126e15bb4811b59f21e462583de87f4e09c0031d8a4d831dd0c20a8114c04",
+      "status": "exclude",
+      "reason": "도시의 주민과 가축을 살해한 기록만 있어 생활 갈등의 첫 결과로 받아들일 연결이 없다.",
+      "contextNote": "놉에서 어린아이까지 포함한 학살이 벌어진다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:22:20",
+      "textSha256": "c7c9261da1632a8de35c6407aa6460c68d921272ef2f7c51444e4948eefa6e23",
+      "status": "exclude",
+      "reason": "아비아달의 이름과 탈출 목적지를 소개하다 끝나 도움을 요청하거나 피할 기준이 절 안에서 완결되지 않는다.",
+      "contextNote": "아히멜렉의 아들 아비아달이 다윗에게 피한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:22:21",
+      "textSha256": "d65ea5e9ee2b229aacebd09549ba0d3bd8988b7a96299bc3da2075be58213ad3",
+      "status": "exclude",
+      "reason": "누가 살해 소식을 누구에게 알렸는지만 남은 연결 절이라 현재 선택을 읽기 어렵다.",
+      "contextNote": "아비아달이 다윗에게 제사장들의 죽음을 전한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:22:22",
+      "textSha256": "575882afe3f950003320c14276704e235583abe1a953fac3a7ae7c69e186adf5",
+      "status": "hold",
+      "reason": "G10의 자기 잘못 인정과 닿지만 보고를 예상했으면서 온 집의 죽음을 자기 탓이라 하는 장면이다. 심한 말로 다툰 고민에 그 무게를 그대로 옮기기는 어렵다.",
+      "contextNote": "다윗이 도엑의 고발을 예상했음을 말하고 아비아달 집안의 죽음에 자기 책임을 인정한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G10",
+          "clue": "나의 연고로다",
+          "friction": "학살의 인과와 자기 책임을 말하는 장면은 현재 사과의 구체 방향보다 무거운 죄책감을 줄 수 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:22:23",
+      "textSha256": "eefc41ee76af2b89e371b50e2127b0e1c5b45008bf6a90a46602883feb0ed3dc",
+      "status": "hold",
+      "reason": "H033에서 두려워 말고 함께 있으라는 말은 도움을 구할 실마리가 될 수 있으나 같은 살해 위협과 신변 보전 약속이 붙어 있다. 현재 상대의 수락과 보호를 보태지 않고 충분할지 미정이다.",
+      "contextNote": "다윗이 같은 적을 피해 온 아비아달에게 함께 머물며 보호받으라 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "두려워 말고 내게 있으라",
+          "friction": "현재 고민에는 같은 적이나 안전 보장도 없으므로 함께 있으면 보전된다는 뒷말까지 자연스럽게 받을지 불확실하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:23:1",
+      "textSha256": "b0b556def8c023b42404520e9582f0d4e44c48b313116c1840f8b47a93192bac",
+      "status": "exclude",
+      "reason": "그일라의 타작마당 약탈 소식을 전달하는 장면으로 도울 범위나 선택 방향은 제시되지 않는다.",
+      "contextNote": "다윗이 블레셋의 그일라 공격 소식을 듣는다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:23:2",
+      "textSha256": "1a9de9e805b48047ea5d53d947c190f034109000ba35e31bec9cb8daaa1c7b34",
+      "status": "hold",
+      "reason": "A035의 기도와 닿는 질문이 있지만 뒤에 특정 군대를 치라는 직접 응답이 이어진다. 현재 선택에 그 군사 명령을 옮겨 읽지 않고 충분할 연결이 없다.",
+      "contextNote": "다윗이 그일라 구원을 물어 출전하라는 응답을 받는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A035",
+          "clue": "여호와께 묻자와",
+          "friction": "기도하는 과정보다 블레셋 공격 명령이 절의 결론이라 현재 고민에 어느 행동을 명받았다는 뜻으로 옮길 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:23:3",
+      "textSha256": "5c56781efd1e62761d5051212c0897a3e6a30c204124fe32791113976e3f8d2e",
+      "status": "hold",
+      "reason": "H044에서 이미 힘든데 더 큰 일을 어떻게 맡느냐는 질문은 닿지만 절 자체는 군대를 치기 두렵다는 반대다. 현재 한계를 말할 방향까지 충분히 읽힐지는 경계로 남긴다.",
+      "contextNote": "다윗의 사람들이 유다에서도 두려운데 그일라 출전은 더 두렵다고 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H044",
+          "clue": "우리가 유다에 있기도 두렵거든 하물며",
+          "friction": "이미 지친 업무와 군사적 공포는 다르고 이 절만으로 부담을 나누거나 거절하는 기준이 분명하지 않다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:23:4",
+      "textSha256": "5492166463dd29fd4fe5a9760b83c0b66be920ab87f2aad4a48d4cb32c129960",
+      "status": "hold",
+      "reason": "H041의 도전에 용기를 줄 표현이 있으나 특정 적을 손에 붙인다는 승리 약속까지 현재 지원의 결과로 읽게 된다. 결과가 미확인인 고민의 충분한 후보로는 보류한다.",
+      "contextNote": "다윗이 다시 묻고 그일라로 가라는 승리 약속을 받는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "일어나 그일라로 내려가라",
+          "friction": "군사 승리가 약속된 장면이므로 지원 결과를 알 수 없는 현재 고민과 그대로 같지 않다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:23:5",
+      "textSha256": "198a9e73b66cca9ab8f95360bff6b534306ff8c00ba2cff2f69bc140f708baf1",
+      "status": "exclude",
+      "reason": "군대를 크게 도륙하고 가축을 취해 성읍을 구원한 전쟁 결과라 현재의 작은 도움이나 도전과 연결하려면 이야기를 바꿔야 한다.",
+      "contextNote": "다윗의 군대가 그일라를 구원한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:23:6",
+      "textSha256": "06c8dc384c8f8c96a4d996c5c2f3aeb4d224948f7ec1812d1b25de348010bae3",
+      "status": "exclude",
+      "reason": "제사장이 도망올 때 에봇을 가져왔다는 배경 정보여서 도움이나 준비의 선택 기준은 없다.",
+      "contextNote": "아비아달의 에봇이 뒤의 신탁 질문을 준비한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:23:7",
+      "textSha256": "f420f3c38b28a8b25920f9fdbee6cabe14fd6f869e51170ddb480b92c009bd18",
+      "status": "hold",
+      "reason": "C001의 자기 판단을 하나님의 뜻으로 말하는 갈등과 닿지만 사울의 자신 있는 발화만 읽으면 그것이 잘못된 판단인지 드러나지 않는다. 반례 설명이 필요하다.",
+      "contextNote": "사울이 다윗의 성읍 체류를 하나님이 잡게 한 기회로 오판한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C001",
+          "clue": "하나님이 그를 내 손에 붙이셨도다",
+          "friction": "착각임을 알리는 이야기가 이 절에는 없어 자기 판단에 신적 권위를 붙이는 쪽으로 읽힐 수 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:23:8",
+      "textSha256": "35f7ee4eb9204b7e8c4d3276ff1c4b19089c9f3a225488063c30191a5cb5b2ed",
+      "status": "exclude",
+      "reason": "왕이 군사를 모아 다윗을 포위하려는 이동 기록이며 현재 선택에 받아들일 실마리가 없다.",
+      "contextNote": "사울이 그일라를 에워싸려 준비한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:23:9",
+      "textSha256": "0126cdd4f463b426bbdbdd161b6f567364e1d05de93f6ea94752820313854090",
+      "status": "exclude",
+      "reason": "계교를 안 뒤 제사장에게 에봇을 가져오라는 구체 절차라 현재 계획 확인이나 조언 요청으로 옮기려면 풀이가 필요하다.",
+      "contextNote": "다윗이 사울의 공격 계획을 알고 신탁을 준비한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:23:10",
+      "textSha256": "f9b8c3136d7db7d4f71295caa232fa410086f375992f480e4aebfdebd1d99aca",
+      "status": "hold",
+      "reason": "H037과 달리 자신 때문에 성을 멸하려는 계획을 분명히 들었다는 보고다. 확인되지 않은 상대 마음을 알려진 위해로 바꾸게 되어 현재 고민에는 충분하지 않다.",
+      "contextNote": "다윗이 사울의 성읍 공격 계획을 하나님께 아뢴다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H037",
+          "clue": "꾀한다 함을 분명히 들었나이다",
+          "friction": "현재 입력은 직접 보지도 못한 추측이므로 본문의 확실한 적대 정보를 보탤 수 없다.",
+          "expectedEnough": "no"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:23:11",
+      "textSha256": "307d45f403da998907792cd28763c2e56899f437b2c0311e29ff072528ab5e15",
+      "status": "exclude",
+      "reason": "특정 성읍과 왕의 향후 행동을 묻고 내려온다는 응답을 받는 절이다. 일상 상대의 미래 행동을 새로 알려 주는 말로 제공할 수 없다.",
+      "contextNote": "다윗이 주민의 인도와 사울의 진군을 묻고 진군 응답을 듣는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:23:12",
+      "textSha256": "e2b440dcecbba996862ad5b8a971dc788de907eda38ea220fb6b52afa57c9e43",
+      "status": "exclude",
+      "reason": "주민들이 다윗을 넘길 것이라는 특정 신탁 답변만 있어 현재 친구나 동료의 마음을 모르는 고민에 적용하면 배신을 새 사실로 보탠다.",
+      "contextNote": "다윗이 그일라 주민의 인도를 다시 묻는다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:23:13",
+      "textSha256": "888c03a8a051e884e01df6ade331967bb58f0ef317069d9e5690b52cd03e4d3d",
+      "status": "hold",
+      "reason": "A008의 반복되는 접근에서 자리를 피하는 방향과 닿지만 육백 명이 신탁을 듣고 왕을 피한 전술적 이동이다. 떠나면 상대도 그친다는 결과까지 현재 관계에 옮길 수 없다.",
+      "contextNote": "다윗이 그일라를 떠나자 사울이 진군을 멈춘다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A008",
+          "clue": "떠나서 갈 수 있는 곳으로 갔더니",
+          "friction": "현재 원치 않는 접촉과 군사 포위는 다르고 상대의 접근이 멈출지도 입력에는 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:23:14",
+      "textSha256": "1d023d9e69dcceb7223feda83dc8ea0285de5ed36b26e1de1d9975173a1fbc53",
+      "status": "hold",
+      "reason": "H058에서 지키심을 떠올릴 수 있어도 도피 장소와 매일의 추격, 왕에게 넘기지 않으셨다는 사건이 중심이다. 도움을 부탁할지 정하는 실마리는 약하다.",
+      "contextNote": "사울이 다윗을 매일 찾지만 붙잡지 못한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "하나님이 그를 그의 손에 붙이지 아니하시니라",
+          "friction": "버티기와 도움 요청 가운데 어느 방향을 읽을지 분명하지 않고 현재 신변 보장도 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:23:15",
+      "textSha256": "91d53aeaab4975c57074538f29366a02fe7f59f489d57ed91c237e2a8ca211f5",
+      "status": "exclude",
+      "reason": "생명을 노리는 왕을 보고 수풀에 있었다는 미완 장면으로 현재 갈등의 방향을 읽을 단서가 부족하다.",
+      "contextNote": "다윗이 십 황무지 수풀에 머무는 위협 상황이다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:23:16",
+      "textSha256": "f2f76a649b80f933726afd8852344c15c3430f55f614cbfe4b2cf83d1e2fe4b1",
+      "status": "candidate",
+      "reason": "R022에서 현실 문제를 해결하지 못해도 친구가 하나님을 의지하도록 곁에 가는 일이 실제 도움이 된다는 실마리가 있다. 기도가 말뿐일까 주저하는 마음에서 위로를 전할 방향을 읽을 만하다.",
+      "contextNote": "요나단이 도피 중인 다윗을 찾아가 하나님을 의지하도록 북돋는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "R022",
+          "clue": "그로 하나님을 힘있게 의지하게 하였는데",
+          "friction": "본문은 방문과 격려이며 기도 메시지를 보내라는 직접 지시는 아니지만 해결해 주지 못해도 믿음을 북돋는 도움은 읽힌다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:23:17",
+      "textSha256": "02daa98854b5146fbc002e9dd4e12966993b8498f7c31da1d28fa3121ef75b8b",
+      "status": "hold",
+      "reason": "H041의 두려움에 격려가 될 수 있으나 왕이 되고 친구가 다음이 된다는 확정된 미래까지 붙는다. 현재 지원의 성공과 지위를 알 수 없어 충분한 연결로 남기지 않는다.",
+      "contextNote": "요나단이 다윗의 생존과 왕위, 자기 자리를 확신하며 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "두려워 말라",
+          "friction": "특정 왕위와 적의 실패까지 단정하는 뒷말이 있어 불확실한 지원 결과를 보태기 쉽다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:23:18",
+      "textSha256": "f5279cc4b75a93ba4731435655549de78220e16b6c39d4fc1cb2998a888c51a8",
+      "status": "exclude",
+      "reason": "두 사람의 언약과 서로 다른 거처로 돌아가는 사건만 있어 현재 관계를 시작하거나 대화할 기준이 절 안에서 드러나지 않는다.",
+      "contextNote": "요나단과 다윗이 언약한 뒤 헤어진다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:23:19",
+      "textSha256": "58875d5c4734f3f9affaa155a4191ed966fca69fffbdc49fc6a878677166ddec",
+      "status": "exclude",
+      "reason": "십 사람들이 왕에게 다윗의 은신처를 고발하는 지명 중심 보고라 현재 고민과 연결할 선택 실마리가 없다.",
+      "contextNote": "십 사람들이 사울에게 다윗의 위치를 알린다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:23:20",
+      "textSha256": "c38c5eff5e7684d387bb911cf7436f8e8dcd3bb70b086a2c712ab9b560e8e63b",
+      "status": "exclude",
+      "reason": "도망자를 왕에게 넘기는 것이 자기 의무라는 추격 협조 발언이다. 현재 도움이나 책임 고민에 적용할 근거가 없다.",
+      "contextNote": "십 사람들이 다윗을 사울에게 넘기겠다고 약속한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:23:21",
+      "textSha256": "473fea66b8c7d63ee106cd5e677431794e5a9084dfbbda14b60fa19d7b259454",
+      "status": "hold",
+      "reason": "A012에서 도움에 고마움을 표현할 실마리는 보이지만 현재 절은 다윗을 고발한 이들에게 왕이 감사와 축복을 전하는 장면이다. 식사를 제안할 망설임까지 충분히 풀지는 불확실하다.",
+      "contextNote": "사울이 십 사람들의 추격 협조를 자신을 긍휼히 여긴 일로 감사한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "A012",
+          "clue": "나를 긍휼히 여겼으니 복 받기를 원하노라",
+          "friction": "고마움을 표현하는 말은 읽혀도 대접 여부의 방향은 약하고 앞뒤에서는 박해 협조를 고마워한다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:23:22",
+      "textSha256": "12e72fed0c3d4efdb66daf766447a87f068994e35a40c740f94efddd579d295e",
+      "status": "hold",
+      "reason": "R006의 직접 확인과 닿는 자세히 살피라는 말이 있지만 은신한 사람의 위치와 목격자를 찾는 긴 추격 지시다. 동네를 살펴 집을 고르는 고민에 온 절이 맞을지는 경계다.",
+      "contextNote": "사울이 다윗의 은신처와 목격자를 더 확인하라 명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "R006",
+          "clue": "더 자세히 살펴서 알아보고",
+          "friction": "직접 확인한다는 말 이외에는 주택 선택과 닿지 않고 사람의 은적을 조사하는 목적이 강하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:23:23",
+      "textSha256": "d23a8284eedd3281218d3c9e7eafac6a584f66af4e2b98551cd3b0175c1c0472",
+      "status": "exclude",
+      "reason": "은신처를 모두 탐지하고 함께 가서 찾아내겠다는 수색 지시라 일상 정보 확인이나 협동의 첫 결과로 쓰기 어렵다.",
+      "contextNote": "사울이 십 사람들에게 다윗의 모든 은신처를 찾으라 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:23:24",
+      "textSha256": "53f4bddbcafe2eb6bb4062ec3c9d5e36cca81735726047466e9ca6019028ab5c",
+      "status": "exclude",
+      "reason": "사람들의 이동 순서와 마온 황무지 위치를 알리는 장면으로 현재 선택 실마리는 없다.",
+      "contextNote": "십 사람들이 먼저 돌아가고 다윗은 마온에 있다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:23:25",
+      "textSha256": "335922025f2a6d52aa892991ed9d7ea1d38c1e80d3c7e9ad3fe419c584cdcb7a",
+      "status": "exclude",
+      "reason": "추격 소식과 황무지로 이동하는 양편의 동선을 소개하다 끝나는 절이다. 현재 관계에서 피할 기준으로 삼으려면 이야기를 보태야 한다.",
+      "contextNote": "다윗이 추격 소식을 듣고 바위로 내려가자 사울이 따른다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:23:26",
+      "textSha256": "5346549b07c736baa9b0f0e99245294892726bc4c1606786f5a9a8db658d6981",
+      "status": "exclude",
+      "reason": "산을 사이에 둔 추격과 포위의 긴박함을 그린다. 이미 확인된 살해 위협이 없는 일상의 갈림길에는 연결이 성립하지 않는다.",
+      "contextNote": "사울이 다윗을 거의 포위한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:23:27",
+      "textSha256": "b0f7248f328cba468e12e1c53471ba77c2c3035fa68407206024a66eb13b6cf0",
+      "status": "exclude",
+      "reason": "블레셋의 침공 때문에 왕을 급히 부르는 군사 보고다. 사용자의 일상 우선순위를 결정할 정보는 없다.",
+      "contextNote": "사자가 사울에게 새로운 침공을 알린다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:23:28",
+      "textSha256": "fd5fb42662746e6bf6e683b653d74fc8c0185130ebcf512d0c0129e3a9510154",
+      "status": "hold",
+      "reason": "H062의 계획 변경과 닿을 수 있으나 추격을 멈춘 이유는 새로운 적의 침공이고 끝은 지명 유래다. 현재 바뀐 상황을 받아들일 실마리로 충분할지는 약하다.",
+      "contextNote": "사울이 다윗 추격을 멈춰 블레셋과 싸우러 가고 장소 이름이 생긴다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H062",
+          "clue": "쫓기를 그치고 돌아와서",
+          "friction": "새 침공이라는 우선 사유와 지명 설명까지 이어져 일반 계획 변경에 온전히 닿지는 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:23:29",
+      "textSha256": "3223247d450943ea1c3a52dab41864fda2566755671a708126a4b8455248b0a4",
+      "status": "exclude",
+      "reason": "엔게디 요새로 거처를 옮겼다는 짧은 이동 기록이라 사용자가 옮길지 남을지 읽을 기준은 없다.",
+      "contextNote": "다윗이 엔게디 요새에 머문다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:24:1",
+      "textSha256": "f96c02524f3667e980ffca517c9b7b92b945aa8f8158fe7a1f2ec6bc472568d2",
+      "status": "exclude",
+      "reason": "왕이 귀환한 뒤 다윗의 위치를 보고받았다는 이야기의 연결부여서 현재 고민의 실마리가 없다.",
+      "contextNote": "사울이 다시 다윗의 은신처를 듣는다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:24:2",
+      "textSha256": "83dab175c580f4cdf1be562559d1beef8ce207f6228246098fb4607eb03fca49",
+      "status": "exclude",
+      "reason": "삼천 명을 거느리고 바위로 수색하러 가는 군사 동선으로 생활 선택에 닿는 기준이 없다.",
+      "contextNote": "사울이 정예 군사로 다윗을 찾는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:24:3",
+      "textSha256": "e977061b2dc7ee5cdb6642ba40da00181d4f75d9ac07cf45ff3a3bcfa824192f",
+      "status": "exclude",
+      "reason": "굴에서 사울과 다윗이 우연히 가까이 있게 되는 배경이다. 발을 가리운다는 옛 표현도 설명이 필요하고 선택 실마리는 아직 나오지 않는다.",
+      "contextNote": "사울이 용변을 위해 들어간 굴 깊은 곳에 다윗 일행이 있다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:24:4",
+      "textSha256": "5e4cadbd5e2d1c0bb05b1d7623c3f8d5109e1266441eca8a17f9281e38d5497c",
+      "status": "hold",
+      "reason": "C001에서 상황을 하나님의 허락으로 단정하는 모습을 돌아볼 여지는 있지만 뒤의 옷자락 행동만으로 그 확신을 재고하는 방향은 드러나지 않는다.",
+      "contextNote": "다윗의 사람들이 원수를 처리할 신적 기회라 말하고 다윗이 옷자락을 벤다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C001",
+          "clue": "이것이 그 날이니이다",
+          "friction": "주변 사람들의 확신과 다윗의 행동만 나와 현재 자기 생각을 하나님의 뜻으로 부르지 말아야 한다는 실마리는 뒤 문맥에 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:24:5",
+      "textSha256": "e4ea5dc5cbe70f3e1db0098db7152d79760968bb2bedb0ae47d906692ab0d634",
+      "status": "hold",
+      "reason": "H027에서 마음의 찔림을 외면하지 않는 실마리는 있으나 옷자락을 벤 뒤 찔렸다는 미완 절이다. 무엇을 잘못했고 어떻게 관계를 풀지 풀이 없이 충분한지 불확실하다.",
+      "contextNote": "다윗이 사울의 옷자락을 벤 일로 양심의 찔림을 느낀다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H027",
+          "clue": "다윗의 마음이 찔려",
+          "friction": "옷자락 벤 행위의 의미는 설명이 필요하며 사과를 망설이는 현재 선택까지 절 안에서 이어지지는 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:24:6",
+      "textSha256": "ee8fd71e8e229baf48e4b05e3394ca4d0fe94555cd1d5f7095e2ce234765fca2",
+      "status": "hold",
+      "reason": "A007에서 다른 사람을 해치지 못하게 할 실마리가 있지만 왕이 기름 부음 받았기에 손댈 수 없다는 특정 신분의 이유가 중심이다. 일상 친구를 말리는 방향으로 충분할지 보류한다.",
+      "contextNote": "다윗이 사울을 해치지 않는 이유를 자기 사람들에게 밝힌다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A007",
+          "clue": "내가 손을 들어 내 주를 치는 것은 금하시는 것",
+          "friction": "왕과 기름 부음이라는 근거가 낯설고 누구의 폭력도 말린다는 뜻으로 일반화하려면 설명이 필요하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:24:7",
+      "textSha256": "9e24d2572c8cf03ac76c67874cd8252c11bc3fcf5e7b9c4f7bf7a49295a8af3c",
+      "status": "candidate",
+      "reason": "A007에서 주위 사람들을 말로 제지해 한 사람을 해치지 못하게 하는 장면이 싸움을 말릴 방향의 직접 실마리가 된다. 상대가 반드시 물러나거나 안전해진다는 현재 보장은 붙이지 않는다.",
+      "contextNote": "다윗이 부하들을 말려 사울을 해치지 못하게 하고 사울은 굴을 떠난다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "A007",
+          "clue": "자기 사람들을 금하여 사울을 해하지 못하게 하니라",
+          "friction": "왕의 추격 상황과 모임의 싸움은 다르지만 가까운 사람들의 가해를 막는 행동은 절 전체에서 분명하다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:24:8",
+      "textSha256": "19d57f67c2c7c72b1173107049263604eae460f2372e4df57c4c681d48b36876",
+      "status": "exclude",
+      "reason": "다윗이 왕을 부르고 엎드려 절하는 예법만 묘사되어 현재 갈등을 말할 내용과 기준은 뒤 절을 기다려야 한다.",
+      "contextNote": "다윗이 굴 밖에서 사울을 부른다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:24:9",
+      "textSha256": "ed979bc202d588c8f9a4d29d200dc0b2241e857a3f4cb406dd205d862aad55df",
+      "status": "candidate",
+      "reason": "H030에서 다른 사람의 나쁜 말을 듣고 친구를 해하려는 사람처럼 대하기 전에 그 말을 왜 믿는지 돌아볼 실마리가 직접 질문에 있다. 친구의 실제 속마음은 확정하지 않는다.",
+      "contextNote": "다윗이 사울에게 자신에 관한 적대적 소문을 왜 듣느냐고 묻는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "해하려 한다고 하는 사람들의 말을 어찌하여 들으시나이까",
+          "friction": "왕에 대한 위해 소문과 현재 친구 소문은 내용이 다르지만 전해 들은 말로 상대를 판단하는 선택을 건드린다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:24:10",
+      "textSha256": "f021cf48a2d547adc632476cfeef6b4fb15a6d671ce3a8dc53118b7b6f93ff07",
+      "status": "hold",
+      "reason": "A007에서 주변의 가해 권유를 따르지 않는 실마리는 있지만 왕을 살려 둔 이유가 기름 부음 받은 신분과 결합한 긴 발언이다. 모임 싸움을 말리는 첫 결과로 충분한지는 경계다.",
+      "contextNote": "다윗이 왕을 죽이라는 권유를 거절했음을 사울에게 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A007",
+          "clue": "나를 권하여 죽이라 하였으나 내가 왕을 아껴",
+          "friction": "본문은 직접 가해하지 않는 선택이며 다른 친구의 싸움을 말리는 문제와 같지는 않다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:24:11",
+      "textSha256": "335e25335e59ec8bde850c5b67b72144839f344551aed74420131d4b9d7f63ce",
+      "status": "candidate",
+      "reason": "R015에서 자신이 실제로 한 일의 증거를 보여 주고 사실과 다른 비난을 분명히 밝힐 실마리가 있다. 현재 다툼을 생명 위협으로 확대하지 않고 입증하며 말하는 행동을 읽는다.",
+      "contextNote": "다윗이 옷자락을 증거로 제시해 사울을 해칠 뜻이 없었음을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "R015",
+          "clue": "내 손에 있는 옷자락을 보소서 범죄한 일이 없나이다",
+          "friction": "살해 추격은 현재 자료 전달과 다르지만 증거를 보여 억울한 비난을 바로잡는 구조가 전체 절에서 읽힌다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:24:12",
+      "textSha256": "d7814ddf59555b5c7a5c6de19b80d1f500e1d66942683d661eb1737fdc3bad82",
+      "status": "hold",
+      "reason": "A011에서 직접 보복하지 않겠다는 말은 지난 일에 매달리지 않을 실마리가 된다. 다만 하나님이 상대에게 보복하실 것이라는 확정도 함께 있어 현재 동료의 향후 벌을 보태지 않고 충분할지 미정이다.",
+      "contextNote": "다윗이 판단과 보복은 하나님께 맡기고 자기 손으로 왕을 해하지 않겠다고 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A011",
+          "clue": "내 손으로는 왕을 해하지 않겠나이다",
+          "friction": "현재 이미 나아진 생활을 택하는 고민에 하나님의 보복이 정해졌다는 사실을 넣을 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:24:13",
+      "textSha256": "9b029bb8543e4a5b28a83c350dca45888ba4862ae22e1e45066f37a0116c6f99",
+      "status": "candidate",
+      "reason": "B022에서 상대의 지난 비웃음을 이유로 이번에는 내가 해치는 사람이 될 필요가 없다는 실마리가 있다. 악이 어디서 나는지를 돌아보고 가해에 가담하지 않을 방향을 읽을 만하다.",
+      "contextNote": "다윗이 악은 악인에게서 난다는 속담을 들어 왕을 해하지 않겠다고 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B022",
+          "clue": "악은 악인에게서 난다 내 손이 왕을 해하지 아니하리이다",
+          "friction": "왕에 대한 직접 위해와 조롱은 다르지만 상대의 잘못에 내 악행을 덧붙이지 않는 관점은 절 안에 있다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:24:14",
+      "textSha256": "008385a074ca45a10d12b62c701729dda4003a20102ea8cb85a2e9a1bd7c2863",
+      "status": "exclude",
+      "reason": "왕의 추격을 죽은 개나 벼룩을 쫓는 일에 비유한 자기 낮춤이다. 외모나 역할의 망설임을 풀려면 그 비유의 역사적 의도를 따로 설명해야 한다.",
+      "contextNote": "다윗이 사울의 지나친 추격을 자기의 미미함에 비추어 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:24:15",
+      "textSha256": "2955d8a2458f7a16db136f68c7be2bbf0bdf7708401ce9e3eb693c9c1e625502",
+      "status": "hold",
+      "reason": "R015의 억울함과 닿아도 하나님이 사정을 살펴 신원하고 구원하기를 바라는 기도다. 사실을 밝힐지 침묵할지의 현재 선택까지 이 절만으로 충분히 연결되는지는 미정이다.",
+      "contextNote": "다윗이 하나님께 자신과 사울 사이의 판결과 구원을 구한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "R015",
+          "clue": "나의 사정을 살펴 신원하시고",
+          "friction": "신원의 옛말이 낯설고 실제 보낸 기록을 말할 행동의 실마리는 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:24:16",
+      "textSha256": "30188e71f80c4a38fd2762bc2efaa77d23e644c6453c3a0f085bb7a56ca03c3b",
+      "status": "exclude",
+      "reason": "사울이 목소리를 알아듣고 우는 반응을 소개하다 끝난다. 현재 친구의 반응을 알 수 없는 고민에 이를 새 사실처럼 제공할 수 없다.",
+      "contextNote": "다윗의 말을 들은 사울이 운다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:24:17",
+      "textSha256": "e0ac9ec7ac7e8e46ccebb4c4cd523d0ea21e59d18d1260b5ba8e7d39ec52f02c",
+      "status": "hold",
+      "reason": "G10에서 자기의 잘못을 상대에게 인정하는 태도는 닿지만 나는 학대했고 너는 선대했다는 비교가 붙는다. 현재 친구가 선대했다는 정보가 없어 그대로 충분하다고 보기 어렵다.",
+      "contextNote": "사울이 자신과 다윗의 행위를 비교해 다윗의 의로움을 인정한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G10",
+          "clue": "나는 너를 학대하되 너는 나를 선대하니",
+          "friction": "심한 말을 한 자기 잘못은 입력에 있으나 친구가 선대했다는 상황은 알 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:24:18",
+      "textSha256": "78e198012ae4dfcad3a139527e0794de495e7eecb16efe4f3aaf98538ba835f1",
+      "status": "hold",
+      "reason": "B022에서 상대를 해칠 기회에도 선대했다는 장면과 닿지만 죽이지 않은 일을 말하는 군사 상황이다. 실패를 조롱할지의 작은 선택에 전체 절이 충분한지 경계다.",
+      "contextNote": "사울이 다윗이 자신을 죽일 수 있었으나 살렸음을 인정한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B022",
+          "clue": "나 선대한 것을 나타내었나니",
+          "friction": "상대의 실패를 퍼뜨리는 문제를 살해 기회로 바꿀 수 없고 명백한 위해 기회가 현재 입력에는 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:24:19",
+      "textSha256": "1954c94d00663eb815e6f4fe5c000063a34acaee2e352648b9c435052d5ef758",
+      "status": "candidate",
+      "reason": "A019에서 사이가 나쁜 사람도 곤란을 더 겪게 두지 않고 평안히 보내는 뜻밖의 선대를 읽을 실마리가 있다. 마지막은 선으로 갚아 주길 바라는 축원이며 현재 보상의 보장으로 옮기지 않는다.",
+      "contextNote": "사울이 원수인 자신을 살려 준 다윗의 선대를 감사하며 축복한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A019",
+          "clue": "원수를 만나면 그를 평안히 가게 하겠느냐",
+          "friction": "물건을 돌려주는 행동과 전쟁 중 원수를 살리는 일은 크기가 다르지만 미운 상대를 해치지 않고 잘되게 놓아주는 방향은 읽힌다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:24:20",
+      "textSha256": "19deb552cb1c5ce374700dddc3c85c59899459f2e612aeeeb8d93414d89874f3",
+      "status": "hold",
+      "reason": "H041에서 앞으로 자리 잡을 것이라는 격려로 읽힐 수 있지만 왕위와 나라의 견고함을 반드시 된다고 말하는 예견이다. 결과를 모르는 현재 지원에 성공을 보태게 된다.",
+      "contextNote": "사울이 다윗이 왕이 될 것을 안다고 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "나라가 네 손에 견고히 설 것을 아노니",
+          "friction": "현재 역할 지원의 결과와 지위를 확정할 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:24:21",
+      "textSha256": "267157c9f914e21e440ebf8a3e1746dd7cb84ca1468f8679bf41ed6102424bab",
+      "status": "exclude",
+      "reason": "자기 후손과 가문의 이름을 멸하지 않겠다는 맹세를 요청한다. 왕가의 보복 방지 조건을 현재의 보통 약속과 같은 것으로 옮길 근거가 없다.",
+      "contextNote": "사울이 다윗에게 자기 집안의 보존을 맹세하라 청한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:24:22",
+      "textSha256": "d9c22b0e70782a227fe36b4b5cdf33c0bf45c061903a0a0d8d5bed3770d4a2fe",
+      "status": "hold",
+      "reason": "H029에서 맹세 후에도 각자 다른 곳으로 가는 장면이 관계 회복과 거리 두기를 함께 생각하게 할 수 있다. 그러나 무슨 맹세인지 절 안에 없고 안전을 위한 거리의 의미는 문맥 설명이 필요하다.",
+      "contextNote": "다윗이 맹세한 뒤 사울은 집으로, 다윗 일행은 요새로 돌아간다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H029",
+          "clue": "맹세하매 사울은 집으로 다윗은 요새로",
+          "friction": "반복해 선을 넘는 친구에게 거리를 둘 기준을 이 동선만으로 충분히 읽을지는 불확실하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:25:1",
+      "textSha256": "f28e21a4c53e9a41f786e109eff96d08cad7a3472f2e8d1253e95b4192e1305e",
+      "status": "hold",
+      "reason": "B024에서 여러 사람이 모여 애곡하고 장사하는 모습은 슬픔의 자리에 갈 실마리와 닿는다. 다만 끝에 다윗의 광야 이동까지 붙어 조문과 모임의 갈림길에 전체가 충분할지 경계다.",
+      "contextNote": "사무엘의 죽음과 온 이스라엘의 애도, 다윗의 이동을 기록한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B024",
+          "clue": "온 이스라엘 무리가 모여 그를 애곡하며",
+          "friction": "애도 모임은 연결되지만 새 인물의 광야 이동으로 끝나 현재 조문 망설임에 집중한 결과인지는 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:25:2",
+      "textSha256": "39768cf141209c4cd2b55f1d38aebd2c1ea6c3c96caf49e9ade067b6fd988fe1",
+      "status": "exclude",
+      "reason": "한 부자의 거처와 가축 수, 양털 깎는 일을 소개하는 배경이어서 재산을 쓸지 나눌지의 실마리는 없다.",
+      "contextNote": "갈멜에 재산을 둔 나발의 부유함을 소개한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:25:3",
+      "textSha256": "f8654fb91a01a087efba299bb8a524ddf654e30e48b2aa302cb20cf8b36f5c09",
+      "status": "exclude",
+      "reason": "부부의 이름과 외모 및 성품, 족속을 대비해 소개한다. 현재 사람의 성격이나 속마음을 확인해 주는 판단으로 제공할 수 없다.",
+      "contextNote": "총명한 아비가일과 완고한 나발이 등장한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:25:4",
+      "textSha256": "8970f6fadf1e5970fde260a98e0be83465d1ec77847dea7661b057ea69537f17",
+      "status": "exclude",
+      "reason": "다윗이 양털 깎는 소식을 들었다는 한 사건만 있어 현재 부탁하거나 나눌 선택의 기준은 없다.",
+      "contextNote": "다윗이 광야에서 나발의 일을 듣는다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:25:5",
+      "textSha256": "075a732ab2bb523394ba77b8b96e3b543466fa8d233926fd2ea5dd9949f4c0b6",
+      "status": "exclude",
+      "reason": "소년들을 특정 사람에게 보내 문안하라는 지시가 미완으로 이어진다. 부탁의 내용과 목적이 없어 현재 대화의 방향을 읽기 어렵다.",
+      "contextNote": "다윗이 나발에게 보낼 사환들을 준비한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:25:6",
+      "textSha256": "8f67134815884c9e58faedf4287e6721996df744d74b873c945b70168d1ceb53",
+      "status": "hold",
+      "reason": "R022에서 상대와 집의 평안을 비는 말은 위로를 전할 실마리와 닿지만 부한 자에게 전할 인사라는 호칭과 현재의 힘든 친구가 다르다. 이 한 절로 기도 메시지의 망설임이 풀릴지 경계다.",
+      "contextNote": "다윗이 나발의 집과 소유에 평안을 비는 인사를 전하게 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "R022",
+          "clue": "너는 평강하라 네 집도 평강하라",
+          "friction": "부유한 사람에게 예물을 요청하기 위한 인사이며 힘든 친구를 위한 기도와 동일한 상황은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:25:7",
+      "textSha256": "b5d637e05a11035aa8e5bc3f8564fa8bb899fb603bf114501bd8eb3178ae9ac3",
+      "status": "exclude",
+      "reason": "목자와 그 소유를 해치지 않았음을 상기시키는 요청의 근거다. 앞뒤 부탁 없이 현재 누가 누구에게 무엇을 구할 방향은 드러나지 않는다.",
+      "contextNote": "다윗이 나발의 목자들을 지켜 준 일을 상기시킨다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:25:8",
+      "textSha256": "5ed043d76f5c38d00bd71386ccfcb9554c1aade015cd7f82d21c47bd828859ba",
+      "status": "hold",
+      "reason": "H033에서 필요한 도움을 손에 있는 만큼 요청하는 실마리는 있지만 소년들에게 사실을 묻고 좋은 날의 은혜를 달라는 여러 관계가 한 절에 얽혀 있다. 현재 부탁의 부담을 풀 충분함은 미정이다.",
+      "contextNote": "다윗이 나발에게 목자들의 증언을 확인하고 가능한 것을 나누라 부탁한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "네 손에 있는대로 주기를 원하노라",
+          "friction": "조직의 사환과 양털 잔치의 관계는 낯설며 민폐를 걱정하는 개인 부탁과는 다르다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:25:9",
+      "textSha256": "7ccba493e7cc1e54a414f97bdc26609d939d7bd2a3edc8339096b690548ecfb6",
+      "status": "exclude",
+      "reason": "사환들이 준비된 말을 전했다는 연결 절로 부탁의 내용은 빠져 있다. 현재 고민의 선택 실마리가 절 안에 남지 않는다.",
+      "contextNote": "다윗의 소년들이 나발에게 말을 마친다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:1SA:25:10",
+      "textSha256": "6480af1abf313d7e66b658124c877147475e9102008764d7214521d565325ad4",
+      "status": "hold",
+      "reason": "H033에서 부탁을 거절당할 두려움과 닿아도 모르는 사람과 도망 종을 경멸하는 나발의 발화다. 현재 도움 받을 사람의 속마음을 이처럼 미리 정할 근거는 없다.",
+      "contextNote": "나발이 다윗을 주인에게서 달아난 종에 빗대어 거절한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "다윗은 누구며 이새의 아들은 누구뇨",
+          "friction": "현재 부탁 상대가 경멸하거나 거절한다는 정보가 없고 이 절에는 그 말을 재고할 단서도 없다.",
+          "expectedEnough": "no"
+        }
+      ]
+    },
+    {
+      "id": "KRV:1SA:25:11",
+      "textSha256": "ba04b38744973a2d1b0b0c95a07d8cb9edb37f864768d58a83435bd997c32d9d",
+      "status": "hold",
+      "reason": "H059에서 내 음식을 타인에게 나눌지의 갈림길은 닿지만 어디서 왔는지 모르는 자에게 줄 수 없다는 거절만 보인다. 나눌 여유가 있는 현재 선택에 충분한 방향을 줄지 경계다.",
+      "contextNote": "나발이 자기 일꾼을 위해 준비한 먹을 것을 다윗 일행에게 주기를 거절한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H059",
+          "clue": "내 떡과 물과 고기를 가져 주겠느냐",
+          "friction": "뒤 이야기 없이 읽으면 미지의 사람에게 나눠 주지 않는 태도를 정당화할 수 있고 현재 도움의 대상 정보도 다르다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
     }
   ]
 }

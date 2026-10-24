@@ -9178,6 +9178,919 @@
       "contextNote": "앗수르 왕이 선왕들의 정복지를 들어 유다의 신뢰를 흔든다.",
       "readability": "needs_explanation",
       "connections": []
+    },
+    {
+      "id": "KRV:ISA:37:13",
+      "textSha256": "ffaa277f3c4af8df323c5f642084f2c763608fc81c9a8b9127d43346f2e79fee",
+      "status": "exclude",
+      "reason": "정복당한 여러 왕의 행방을 묻는 위협으로 두 선택을 살필 생활의 실마리가 없다.",
+      "contextNote": "산헤립의 편지가 정복 사례를 열거하며 히스기야를 압박한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:37:14",
+      "textSha256": "2968a251ed18f49d2ebfc0714fca0aa1ee67572d5edcb5428a8e59ed1e3f20f1",
+      "status": "candidate",
+      "reason": "고민을 담은 글을 하나님 앞에 펴 놓는 행동에서 답답함을 점술로 풀기보다 자기 신앙 안에서 직면할 실마리를 읽을 수 있다.",
+      "contextNote": "히스기야가 앗수르의 협박 편지를 성전에 가져가 기도를 시작한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B030",
+          "clue": "답을 구하러 다른 곳에 가기보다 지금의 문제를 그대로 하나님 앞에 펼쳐 놓는 모습이 보인다.",
+          "friction": "협박 편지라는 원래 상황이며 개인의 결정에 대한 답이나 기도 결과를 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:37:15",
+      "textSha256": "5bdb096be36cbcb60e998e721194c41eed76522c6e87c225ad0d3b24cbcf7fb9",
+      "status": "exclude",
+      "reason": "기도를 시작했다는 도입만 있고 실제 기도 내용과 선택을 비춰볼 문장이 없다.",
+      "contextNote": "히스기야의 기도 내용을 다음 절부터 소개한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:37:16",
+      "textSha256": "25dcaa56d8e371c90f1b1ff292632d77106326fa8b773be68eaa264062959034",
+      "status": "candidate",
+      "reason": "천지를 지은 유일한 하나님을 부르는 고백은 점집과 자신의 신앙 사이에서 어떤 기준에 의지할지 읽을 수 있다.",
+      "contextNote": "히스기야가 성전에서 하나님께 기도하며 그분의 유일성을 고백한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B030",
+          "clue": "유일하신 하나님이라는 고백이 내가 믿는 기준 안에서 생각하겠다는 쪽에 닿는다.",
+          "friction": "그룹과 만군이라는 성전 언어가 낯설 수 있으며 특정 결정의 해답을 주지는 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:37:17",
+      "textSha256": "35a1ecc75f7da82e0d05f75475a41fb99310bf6b02e69b1e4b5815c38567dafc",
+      "status": "hold",
+      "reason": "괴로운 말을 하나님께 들어 달라고 구하는 모습은 와닿지만 상대의 말이 하나님을 훼방했다는 전제가 있어 일반 갈등에 바로 놓기 어렵다.",
+      "contextNote": "히스기야가 산헤립의 신성 모독을 기도의 내용으로 올린다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "화난 말을 바로 되돌려 보내기 전에 속상한 일을 기도로 꺼내는 계기를 생각할 수 있다.",
+          "friction": "본문은 자기 분노의 메시지 처리를 말하지 않으며 친구를 신성 모독자로 놓으면 과하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:37:18",
+      "textSha256": "f1c97f49a30bbaee855f1ae17852d7236fb5d53981311c680dcabdf719ef3abd",
+      "status": "exclude",
+      "reason": "앗수르의 실제 정복 피해를 인정하는 미완 문장으로 현재 고민의 어느 쪽을 살필지 드러나지 않는다.",
+      "contextNote": "히스기야가 적의 군사적 성공을 부인하지 않고 기도한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:37:19",
+      "textSha256": "b4ad092f941fa538f443ed9f5be1f498d69ad98e82c97760030272f0f527f118",
+      "status": "hold",
+      "reason": "사람이 만든 것을 신으로 삼는 한계가 점술 고민과 닿을 수 있으나 불에 탄 우상과 멸망의 역사 설명을 건너야 한다.",
+      "contextNote": "앗수르가 다른 나라의 신상을 파괴했어도 여호와와는 다르다는 기도이다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B030",
+          "clue": "사람이 만든 대상에 의지하는 일을 되돌아볼 여지는 있다.",
+          "friction": "점집과 나무·돌 신상을 같다고 설명해야 하며 현재 점술의 결과를 단정할 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:37:20",
+      "textSha256": "ff3413b80de1e27a95e946b7babf894a117ce2c301aa74bd446a579d40ac553a",
+      "status": "hold",
+      "reason": "구원을 구하는 기도는 신앙 안에서 생각하는 쪽과 연결되나 열방에게 유일신을 알리는 목적까지 현재 개인 고민에 이어지지는 않는다.",
+      "contextNote": "히스기야가 앗수르의 손에서 건져 달라며 하나님의 이름을 구한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B030",
+          "clue": "답답한 일을 하나님께 구한다는 방향을 떠올릴 수 있다.",
+          "friction": "위협에서의 구원과 천하 만국을 향한 목적이 점집에 갈지의 고민과 거리가 남는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:37:21",
+      "textSha256": "b63a79f135ae5cd53f7c7c80a5eb239bb2d61bd26182784ff91e57b3519c9ac6",
+      "status": "exclude",
+      "reason": "특정 왕의 기도를 받으셨다는 응답의 도입이라 내용 없이 현재 사용자의 기도가 수락됐다는 말로 옮기기 어렵다.",
+      "contextNote": "이사야가 히스기야에게 여호와의 답을 전하기 시작한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:37:22",
+      "textSha256": "5ea7c9f3f7ce05a866633915e013ba1726cfba8ad205b86ab5e66875e853d95e",
+      "status": "exclude",
+      "reason": "예루살렘이 침략자를 조소한다는 의인화여서 관계에서 상대를 멸시해도 된다는 실마리로 쓰기 어렵다.",
+      "contextNote": "여호와의 답변에서 시온이 산헤립의 오만을 비웃는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:37:23",
+      "textSha256": "070ac8727f6f99302aea28370ba5e0d1a3e09117162c0b81bedafa01ef7a9c7b",
+      "status": "exclude",
+      "reason": "이스라엘의 거룩한 이를 향한 신성 모독을 고발하는 말로 현재 고민자의 행동이나 상대에게 같은 죄를 전제할 근거가 없다.",
+      "contextNote": "하나님이 산헤립이 누구를 능욕했는지 되묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:37:24",
+      "textSha256": "c5efc30b2a67e1f35e4c1eb4f56a5e8170642dafb2d6af2b8dd2c043391bbe52",
+      "status": "exclude",
+      "reason": "병거와 레바논 벌목을 자랑하는 침략자의 긴 인용이며 일상의 도전을 권하는 문장으로 읽기에는 파괴와 자만이 중심이다.",
+      "contextNote": "여호와가 산헤립이 종들을 통해 뽐낸 말을 인용해 책망한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:37:25",
+      "textSha256": "051657cb85aba74efea412d05bea84a85dbf60a2fb4217daf66947e67c6b3203",
+      "status": "exclude",
+      "reason": "애굽 강까지 말리겠다는 침략의 자랑이므로 자신감이나 실행의 격려로 떼어 주면 전체 의미가 바뀐다.",
+      "contextNote": "산헤립의 정복 능력 과시를 이어 인용한 말이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:37:26",
+      "textSha256": "93e8be9e41022ec1c756166325ca0e8e6bf28f8dd2749e2486ead605a7a566cf",
+      "status": "exclude",
+      "reason": "정복과 성 파괴를 하나님이 미리 정하셨다는 설명은 현재 실패나 성공의 신적 원인을 새로 붙이게 한다.",
+      "contextNote": "하나님이 앗수르의 승리도 자신의 역사 아래 있었음을 밝힌다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:37:27",
+      "textSha256": "b5847d9de98a24072e80b9d6e3d62d06f949569b77e43f5c86cf6d8ee0cb811f",
+      "status": "exclude",
+      "reason": "정복당한 주민의 무력함을 풀에 비유하는 묘사로 약해진 자신에게 어떤 선택의 실마리를 줄지 불분명하다.",
+      "contextNote": "앗수르에게 무너진 성읍 사람들이 수치를 당한 이유를 설명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:37:28",
+      "textSha256": "f3d338abc4684cb8e10b486b7fe0a847626dfc91a2e8e8477bdbade984d30b6d",
+      "status": "exclude",
+      "reason": "거처와 출입을 안다는 친밀한 어구 뒤에 하나님을 거슬러 분노한다는 지적이 붙어 현재 고민자에게 반역을 전제하게 된다.",
+      "contextNote": "하나님이 산헤립의 행동과 적의를 아신다고 말씀한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:37:29",
+      "textSha256": "f5b820c6a4d1c33449c4ce797de22ed22e6cf2b366ce34834ec8b8241370e98c",
+      "status": "exclude",
+      "reason": "오만한 침략자를 갈고리와 재갈로 돌려보내겠다는 심판으로 현재의 이동이나 갈등 선택에 적용할 근거가 없다.",
+      "contextNote": "앗수르 왕의 오만에 대한 강제 퇴각 선언이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:37:30",
+      "textSha256": "d68b259db9f56fa4e17354a18d6a242143fb2fc6532a3119922ddb8d958dd16d",
+      "status": "hold",
+      "reason": "당장 거두는 시기와 다시 심는 시기를 나눈 장면은 조급한 계획을 돌아보게 하지만 삼 년의 먹거리 보장은 현재 조건에 옮길 수 없다.",
+      "contextNote": "히스기야에게 전쟁 뒤 농경 회복의 단계가 징조로 주어진다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H046",
+          "clue": "다른 사람의 속도와 달라도 지금의 시기를 견디며 다음 일을 준비하는 생각은 가능하다.",
+          "friction": "스스로 나는 식량과 삼 년 일정이 실제로 주어진다는 전제를 덧붙이면 안 된다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:37:31",
+      "textSha256": "b2892e57fdd0b00a17ca2106b0c81515cf8ad487025870e3291093724f3e7adf",
+      "status": "candidate",
+      "reason": "다시 뿌리내리고 열매를 맺는 짧은 그림은 놓친 일에만 매달릴지 지금 가능한 일을 새로 시작할지의 고민에 재출발의 방향을 준다.",
+      "contextNote": "전쟁에서 살아남은 유다의 남은 자들이 회복될 것을 식물에 비유한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H060",
+          "clue": "지난 기회에만 매이기보다 지금 다시 뿌리내릴 일을 택하는 실마리가 보인다.",
+          "friction": "유다 공동체의 회복 약속을 개인 일의 성공 보증으로 바꾸지 않으며 기회의 재등장을 전제하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:37:32",
+      "textSha256": "f1ee167c5bfc376d184ccc31e48053ccbfda4b245a1a3b4dce2e48c75a6e6827",
+      "status": "hold",
+      "reason": "살아남은 이들의 회복을 이루시는 열심이 힘이 될 수 있으나 예루살렘과 시온에서 나오는 남은 자의 맥락이 선택을 가린다.",
+      "contextNote": "31절의 뿌리와 열매가 예루살렘 남은 자의 구원임을 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H060",
+          "clue": "끝난 일 뒤에도 남은 것에서 새 출발을 생각할 여지가 있다.",
+          "friction": "무엇을 새로 할지의 실마리는 앞 절에 의존하며 현재 구원의 결과로 확정하기 어렵다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:37:33",
+      "textSha256": "896e09429bfe51660ac709ccd0ee429979c519b7ce506aef818a6a6d485c20e6",
+      "status": "exclude",
+      "reason": "적의 화살과 공성전이 성에 미치지 못한다는 구체 군사 예언으로 일반 결정의 위험이 사라진다고 옮길 수 없다.",
+      "contextNote": "앗수르 왕이 예루살렘을 공격하지 못할 것이라는 응답이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:37:34",
+      "textSha256": "3fb091cfc92bc51c19d066f9d7067c5f6014b7eb851d8bd92c42db469eedabe9",
+      "status": "exclude",
+      "reason": "침략자가 오던 길로 돌아간다는 특정 예언이어서 귀가나 계획 철회의 신호로 주면 원문의 대상을 바꾸게 된다.",
+      "contextNote": "앗수르의 예루살렘 진입 실패와 퇴각을 재확언한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:37:35",
+      "textSha256": "ea36079a7051e9b6f865d9b2304627a81451541d55d2ee035b67dc136b7e377f",
+      "status": "hold",
+      "reason": "보호와 구원의 약속 자체는 위로가 되지만 하나님 자신과 다윗을 위한 성의 구원이 현재 개인 선택의 근거가 되기는 어렵다.",
+      "contextNote": "하나님이 다윗과 자신의 이름을 위해 예루살렘을 지키겠다고 하신다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G15",
+          "clue": "두려움 속에서도 보호받는다는 느낌을 개인적으로 받을 수는 있다.",
+          "friction": "지원 과정이 보호되고 잘된다는 보장으로 들리기 쉬우며 선택에 닿는 별도 실마리가 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:37:36",
+      "textSha256": "04e15e7dd97b4a81a4ad403d485c6a9528f9ba2ad90b2c415506b027dac9f4ad",
+      "status": "exclude",
+      "reason": "앗수르 군대의 집단 죽음을 서술하며 현재의 적대자나 어려움이 사라질 것이라는 예고로 제공하기 어렵다.",
+      "contextNote": "여호와의 사자가 앗수르 진영을 치는 구원 사건이다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:37:37",
+      "textSha256": "2444df57a1809bfb0f3b3dc4eebe00c719c1300586599a10109ad0a36a26b8a7",
+      "status": "exclude",
+      "reason": "산헤립이 니느웨로 돌아간 사건 기록만 있어 현재 사용자가 남을지 떠날지 읽을 고유한 실마리가 없다.",
+      "contextNote": "앗수르 왕의 퇴각 후 거처를 설명한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:37:38",
+      "textSha256": "5f55735f939291b264c49ffd74d66b717ff8db179ebed90388ed954022674907",
+      "status": "exclude",
+      "reason": "신전에서의 왕 살해와 왕위 계승을 기록한 절로 현재 선택과 연결하려면 등장인물의 악행이나 죽음을 임의 대응해야 한다.",
+      "contextNote": "산헤립이 아들들에게 죽고 에살핫돈이 왕이 되는 후일담이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:38:1",
+      "textSha256": "65d200da516981533519b4ee70578a6e5bc365e3cdde658cca48a8802d3b4687",
+      "status": "exclude",
+      "reason": "히스기야에게 주어진 죽음과 유언의 예고이므로 현재 병이나 중대한 고민에 죽을 것이라는 판단을 새로 붙이게 한다.",
+      "contextNote": "죽을 병에 걸린 히스기야에게 이사야가 여호와의 말씀을 전한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:38:2",
+      "textSha256": "04a1d55f79618b9de9f0b25651864b88f24961387e48c0e7e2fb6e8bbdf38584",
+      "status": "candidate",
+      "reason": "왕이 얼굴을 돌리고 기도하는 작은 행동은 답답한 결정을 자기 신앙 안에서 꺼내 보겠다는 방향으로 읽을 수 있다.",
+      "contextNote": "죽음의 예고를 들은 히스기야가 하나님께 기도한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B030",
+          "clue": "답을 찾아 점집으로 가기보다 기도로 마음을 돌리는 모습에 닿는다.",
+          "friction": "원래는 죽을 병의 장면이며 본문이 개인 결정의 답이나 이후 회복을 약속하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:38:3",
+      "textSha256": "1e9ca82d1837855df3ad113b8c4db88f5c99521f89ba9d9a0377742f59ea0d70",
+      "status": "hold",
+      "reason": "진실하게 살아온 일을 돌아보며 우는 기도는 마음을 드러내는 실마리가 되지만 선행을 기억해 달라는 호소가 선택을 흐릴 수 있다.",
+      "contextNote": "히스기야가 하나님 앞에서 자신의 삶을 기억해 달라며 통곡한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B030",
+          "clue": "답답함을 숨기지 않고 기도 속에서 표현하는 모습은 연결될 수 있다.",
+          "friction": "내가 선하게 살았으므로 답을 받아야 한다는 계산으로 읽을 여지가 있고 점술 고민의 구체 갈등은 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:38:4",
+      "textSha256": "bb11ee4da3375110f22dd20b77b57cb5e368ffbabfe5730be7341c19b0d67a3b",
+      "status": "exclude",
+      "reason": "말씀이 이사야에게 임했다는 전달 도입만 있어 사용자가 읽을 선택의 단서가 없다.",
+      "contextNote": "이사야에게 임한 응답을 다음 절부터 소개한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:38:5",
+      "textSha256": "5af660c0352b28e5961801e56e760fad2d6f80e9a1bb8a2ece2c570bee08e0b7",
+      "status": "exclude",
+      "reason": "눈물과 기도를 보셨다는 말 뒤에 수명 십오 년 연장이라는 특정 약속이 붙어 현재 건강이나 기한의 보장으로 오해될 여지가 크다.",
+      "contextNote": "여호와가 히스기야의 생명을 연장하겠다고 전하게 하신다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:38:6",
+      "textSha256": "80a53e4196fc3bca4326105801b7764f2ef482edb5af6c2330840067efeb93e2",
+      "status": "exclude",
+      "reason": "왕과 성을 앗수르에서 구원하겠다는 전쟁 약속으로 현재의 위험이나 갈등이 해소된다고 옮길 수 없다.",
+      "contextNote": "수명 연장 약속에 예루살렘 보호 약속을 덧붙인다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:38:7",
+      "textSha256": "a4511008e4f62607ac383b7551b96a7175d851913869230f1843f437e462fb2f",
+      "status": "exclude",
+      "reason": "특정 말씀의 성취를 위한 징조를 주겠다는 말이어서 현재의 우연을 확정적 응답으로 볼 근거가 되지 않는다.",
+      "contextNote": "히스기야에게 줄 해 그림자의 징조를 소개한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:38:8",
+      "textSha256": "a62a5b01559ae6b78f18d245c35da570ed9ddaba09d3cba75a9c1ec153156d1a",
+      "status": "exclude",
+      "reason": "일영표의 그림자가 십도 물러나는 기적을 서술해 현재 결정의 시간이나 기한이 되돌아온다는 실마리로 삼기 어렵다.",
+      "contextNote": "수명 연장을 증명하는 표징이 이루어진다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:38:9",
+      "textSha256": "868887445a4f244b5c7b110fc95dc654bdd010ddafb5509a9d163b5be09ef5f5",
+      "status": "candidate",
+      "reason": "힘든 일을 겪은 사람이 기록을 남겼다는 장면은 지금 공개적으로 말하기보다 글로 자기 경험을 보존하는 선택에 닿는다.",
+      "contextNote": "히스기야가 병에서 회복한 뒤 남긴 시의 표제이다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B012",
+          "clue": "힘든 경험을 겪고 기록한 글이라는 행위가 시간이 지나 사라지게 두기보다 적어 두는 쪽을 비춘다.",
+          "friction": "왕의 병 회복이라는 원래 사정과 현재 사건을 동일시하거나 지금 어려움이 끝났다고 덧붙이지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:38:10",
+      "textSha256": "50e393fb8eed28b55e01cdd05a03fd6b64f1069ae94618c957d6d70c63cd4e4b",
+      "status": "exclude",
+      "reason": "중년에 죽음의 세계에 들어가 남은 해를 빼앗긴다는 탄식은 현재의 수명이나 기회 상실을 예고하는 말처럼 들릴 수 있다.",
+      "contextNote": "히스기야가 죽을 병 당시 느꼈던 삶의 박탈을 회상한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:38:11",
+      "textSha256": "e1dc5a2d6107c72b6a9e6e42e71d54e82a8023163343331721a3d95fcd604cf2",
+      "status": "exclude",
+      "reason": "다시는 하나님과 사람을 보지 못할 것이라는 죽음의 탄식은 관계나 일상 선택에 맞추기에 절망의 확정이 지나치다.",
+      "contextNote": "생존 세계를 떠난다고 여겼던 왕의 슬픔이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:38:12",
+      "textSha256": "97ed6d9728acecd4c4ea7059d44a881df34517a7bd031e82c5c1fdd336fcfbf2",
+      "status": "exclude",
+      "reason": "장막과 베를 걷는 비유 뒤에 생명이 곧 끊긴다는 말이 붙어 이사나 일의 마무리에 연결하면 죽음의 뒷말이 남는다.",
+      "contextNote": "히스기야가 자신의 죽음을 장막 철수와 직조의 끝에 비유한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:38:13",
+      "textSha256": "45e8d4dc463877d1df7c285f232f53d3bed2061fefd599b5214621a469d85886",
+      "status": "exclude",
+      "reason": "하나님이 사자처럼 뼈를 꺾고 곧 죽게 한다는 탄식으로 현재 피로나 질병에 신적 가해와 죽음을 보태게 한다.",
+      "contextNote": "왕이 밤을 견디며 느꼈던 극심한 고통을 회상한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:38:14",
+      "textSha256": "3afb65337d41a71c760e8a07adfaef7d56aab449cfd144d1fe134acd1fbf5a75",
+      "status": "hold",
+      "reason": "힘든 마음을 울음과 도움 요청으로 드러내는 모습은 혼자 버틸지의 고민과 닿지만 중보와 압제의 표현이 다소 멀다.",
+      "contextNote": "병중의 히스기야가 새들의 울음에 빗대 하나님께 보증과 도움을 구한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "혼자 견디는 대신 내 어려움을 말하고 도와 달라고 부르는 생각이 생길 수 있다.",
+          "friction": "하나님께 하는 중보 요청을 사람의 도움과 연결해야 하며 현재 압제자를 새로 만들면 안 된다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:38:15",
+      "textSha256": "b57914ce8a2d1a094e9568975ef06aee6fefecdec9b4a7fbf49bb5ca55d3edbf",
+      "status": "hold",
+      "reason": "고통 뒤 삶을 조심스럽게 돌아보는 태도는 실마리가 되지만 각근히라는 옛말과 이미 응답이 이루어졌다는 고백에 기대고 있다.",
+      "contextNote": "히스기야가 응답받은 뒤 평생의 삶을 돌아보겠다고 말한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "B012",
+          "clue": "힘들었던 일을 그냥 잊지 않고 이후 삶에 남기려는 생각을 할 수 있다.",
+          "friction": "기록을 직접 말하지 않고 현재 고통의 해결도 확인되지 않아 설명이 필요하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:38:16",
+      "textSha256": "842ff99573019863dad22a19a4e4aa82816d250b3b077b82ae11ba0fa602f450",
+      "status": "hold",
+      "reason": "살려 달라는 기도는 힘겨움과 닿으나 치료를 이어갈지 대안을 찾을지에 대한 실마리는 본문에 없다.",
+      "contextNote": "왕이 생명을 주관하는 주께 회복을 구한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G14",
+          "clue": "몸과 마음이 지친 상태에서 치료와 생명을 구하는 마음에 공감할 수 있다.",
+          "friction": "치료 선택의 방향과 결과는 제시하지 않으며 호소를 회복 보장으로 바꾸면 안 된다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:38:17",
+      "textSha256": "fc43f5ea64179b8f6480c9fd701d1f647cdbaa21b25485b1b4c44a17f11bfbf7",
+      "status": "exclude",
+      "reason": "평안을 위한 고통이었다는 해석과 죄 용서가 함께 있어 현재 어려움의 신적 목적이나 원인을 새로 확정하게 한다.",
+      "contextNote": "히스기야가 구원 이후 자신의 고통과 사랑을 회고한 고백이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:38:18",
+      "textSha256": "04fff5d945ad6f0641b4b6a95b450b109c153f01d064b2121ad19e46ac16c8d4",
+      "status": "exclude",
+      "reason": "죽은 자는 찬양하지 못한다는 당시의 탄식으로 일상을 누릴 선택보다 죽음과 사후 세계 설명이 앞선다.",
+      "contextNote": "왕이 산 자의 감사와 죽음의 침묵을 대비한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:38:19",
+      "textSha256": "0cba221fdefdc409dc08c1e02a3b253baf4c404b44650398abfe016b4bdb4fe7",
+      "status": "hold",
+      "reason": "살아 있는 오늘 감사한다는 부분은 기다림 속 일상을 돌아보게 하지만 자녀에게 신실을 전하는 뒷말까지 같은 고민에 닿지는 않는다.",
+      "contextNote": "회복한 히스기야가 산 자의 감사와 세대 전승을 노래한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H056",
+          "clue": "결과만 생각하기보다 살아 있는 오늘의 일상과 감사를 느끼는 방향이 보일 수 있다.",
+          "friction": "검사 결과나 치료 상황을 해결됐다고 볼 수 없고 부모와 자녀의 대목은 별도 맥락이다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:38:20",
+      "textSha256": "357e526edbbef77c2b6a979b908aa6ded683cf61e21e98c25d2d0f56b2a48cbc",
+      "status": "hold",
+      "reason": "평생 노래하겠다는 감사는 신앙 안에서 마음을 표현할 여지가 있으나 성전의 수금과 확신하는 구원의 맥락이 남는다.",
+      "contextNote": "왕이 구원을 확신하며 공동체와 성전에서 노래하겠다고 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B030",
+          "clue": "불안한 답을 찾아 나서기보다 신앙의 표현으로 마음을 돌릴 수 있다.",
+          "friction": "특정 선택의 해결과 구원을 보장받았다고 읽을 수 없어 첫 결과의 충분함은 불확실하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:38:21",
+      "textSha256": "74e1f8249fb8cbf2348fa526d8a04b1b852e676cdd437bc19f877130418b5152",
+      "status": "exclude",
+      "reason": "종기에 무화과를 붙이면 낫는다는 왕의 치료 지시여서 현재 사람의 질병이나 치료법에 직접 옮길 수 없다.",
+      "contextNote": "이사야가 히스기야의 종처에 대한 처치를 말한 일을 덧붙인다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:38:22",
+      "textSha256": "189202e0b386f20df3278f8c92a6ed846dc5b509c4e88249acdd6c583ac7beca",
+      "status": "exclude",
+      "reason": "성전에 올라갈 징조가 무엇인지 묻는 회고로 현재 선택의 기준보다 추가 표징을 찾는 질문만 남는다.",
+      "contextNote": "히스기야가 회복의 표징을 물었던 일을 설명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:39:1",
+      "textSha256": "b196dd03aba1ee9c53fdb837f7ef8b69bd672fbf3685c2b95d2a30857192a039",
+      "status": "exclude",
+      "reason": "바벨론 왕이 병 회복 소식을 듣고 예물을 보낸 외교 경위로 현재 선택의 갈등을 비추는 내용이 없다.",
+      "contextNote": "바벨론 사절의 방문 배경을 소개한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:39:2",
+      "textSha256": "2b8af97448b2f953ff3b59af1c93d9b1ddf500975afca1c5ba9aa56ad59049c0",
+      "status": "hold",
+      "reason": "기뻐서 소유를 모두 보이는 왕의 모습은 자랑과 경계를 돌아보게 하지만 결과를 모르면 단독으로는 그 의미가 정해지지 않는다.",
+      "contextNote": "히스기야가 바벨론 사절에게 왕궁의 보물과 무기를 전부 공개한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H039",
+          "clue": "알고 있는 것을 전부 보여도 되는지 잠깐 멈추어 생각할 여지는 있다.",
+          "friction": "친구의 비밀을 지키는 고민과 왕의 자기 재산 공개는 다르며 잘못이라는 판단이 뒤 문맥에 의존한다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:39:3",
+      "textSha256": "1193325268a1cdb24e5578adc188e20c7da803daca999dbd7a6fd76d150fde55",
+      "status": "exclude",
+      "reason": "사절이 어디서 왔는지 묻고 바벨론이라고 답하는 외교 대화로 현재 의논이나 확인의 방향을 읽기에는 내용이 비어 있다.",
+      "contextNote": "이사야가 왕을 찾아 바벨론 사절의 방문을 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:39:4",
+      "textSha256": "e004c11089bc610bfe2ba5fb65b8deec2ed160ea7ccd925e5d8e7b75b028f720",
+      "status": "hold",
+      "reason": "모두 보였다는 반복은 경계 없는 공개를 돌아보게 하지만 자기 재산과 남의 비밀은 다르고 부정적 결과도 뒤에 나온다.",
+      "contextNote": "히스기야가 이사야에게 보물을 빠짐없이 보였다고 답한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H039",
+          "clue": "알고 있는 것을 전부 말해도 되는지 경계를 생각할 수 있다.",
+          "friction": "자기 보물 공개와 약속한 타인의 비밀은 같지 않아 선택의 충분한 근거가 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:39:5",
+      "textSha256": "85a909b1bc5ab490a64271832510cb8de2f5ce8ee4a3dc57d9df8ce2bf4736cd",
+      "status": "exclude",
+      "reason": "왕에게 말씀을 들으라는 전달 도입만 있어서 현재 선택에 대조할 내용이 없다.",
+      "contextNote": "이사야가 히스기야에게 심판 예언을 전하기 시작한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:39:6",
+      "textSha256": "75fcaf9af0699f1647a627e8e5ad89f272c2b1e2f546d722097cb484d8f5d299",
+      "status": "exclude",
+      "reason": "왕실의 모든 소유가 바벨론으로 옮겨질 예언으로 현재 구매나 보관 선택에 전 재산 상실을 예고할 수 없다.",
+      "contextNote": "유다 왕실의 보물이 훗날 바벨론에 빼앗길 것을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:39:7",
+      "textSha256": "78a0a9d36f72169cdbcd1daf318554033eadcd8448536367a137919580a35214",
+      "status": "exclude",
+      "reason": "왕의 후손들이 포로와 환관이 된다는 예언이므로 현재 가족이나 진로 선택에 같은 피해를 대응할 근거가 없다.",
+      "contextNote": "히스기야의 후손이 바벨론 궁정에 사로잡힐 일을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:39:8",
+      "textSha256": "af529b317aae756995cb7fa0c72e5aebc8c31aeb73b67509c0fa4723ff62544b",
+      "status": "exclude",
+      "reason": "자기 생전의 평안을 좋게 여기는 왕의 답은 후손의 포로 예언을 전제로 해 오늘을 누리라는 격려로 주기 어렵다.",
+      "contextNote": "히스기야가 이사야의 예언을 듣고 자신의 생전 평안을 언급한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:40:1",
+      "textSha256": "e75a17c98973d342d04fa2648e7e3828e538609884839358f89a39a9eece69a4",
+      "status": "candidate",
+      "reason": "위로하라는 짧고 반복되는 말은 해결책이 작아 망설일 때 마음을 곁에 전하는 선택에 바로 닿는다.",
+      "contextNote": "포로와 심판 뒤 하나님의 백성을 위로하라는 선언이 시작된다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "문제를 크게 해결하지 못해도 위로 자체를 건넬 수 있겠다는 방향을 읽는다.",
+          "friction": "원래 대상은 하나님의 백성이며 친구가 어떤 반응을 보일지나 문제가 해결될지는 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:40:2",
+      "textSha256": "4137e9b83ba3c88e15c1340f43739309b67b84f243ad4fd5f166439c1fa10c46",
+      "status": "exclude",
+      "reason": "다정히 말하라는 부분 뒤에 복역 종료와 죄 사함·배의 징벌이 붙어 현재 친구의 고통이 끝났거나 죄 때문이라고 보태게 된다.",
+      "contextNote": "예루살렘의 형벌이 끝났다는 위로의 내용을 전한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:40:3",
+      "textSha256": "dde208d80698b41b59509b40803e0012f10935ef9051a1bc9ba773aeba5a7867",
+      "status": "candidate",
+      "reason": "거친 곳에 길을 준비하는 구체 행동은 막막한 공동 공간에서 손댈 수 있는 정리를 시작할 실마리로 읽을 수 있다.",
+      "contextNote": "광야에서 돌아오실 하나님을 맞을 길을 마련하라는 외침이다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B008",
+          "clue": "전체가 막막해도 내가 손댈 수 있는 곳에 길을 내고 정리하기 시작하는 그림이 보인다.",
+          "friction": "공동 공간이 곧 하나님의 대로라는 뜻은 아니며 자신의 구역 배분은 입력에 있는 조건이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:40:4",
+      "textSha256": "ff5bd17fbae2098b50c62f96b4a1f1315719a9ecce2ad46fbcd0c9328b2d2515",
+      "status": "hold",
+      "reason": "험한 곳이 평지가 되는 그림은 막힌 일의 관점을 바꿀 수 있으나 길이 저절로 풀릴 약속처럼 읽힐 수 있어 선택의 단서가 약하다.",
+      "contextNote": "하나님의 귀환을 앞두고 광야의 지형이 고르게 되는 그림이다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H043",
+          "clue": "반복된 막힘을 넘는 다른 길을 상상할 여지는 있다.",
+          "friction": "방법을 바꾸거나 견딜지 직접 드러나지 않고 현재 장애가 없어짐도 보장할 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:40:5",
+      "textSha256": "40b9aa5f781134f8fb5abfc78b6433b485644e9d8c37e47e939297ecbd22bd04",
+      "status": "hold",
+      "reason": "여럿이 함께 영광을 보리라는 말은 신앙의 확신을 주지만 현재 점술과 기도 중 어느 쪽인지의 구체 단서는 약하다.",
+      "contextNote": "여호와의 영광이 모든 육체에게 나타날 것을 선포한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B030",
+          "clue": "하나님을 바라보는 방향으로 마음을 모을 수 있다.",
+          "friction": "보편적 영광의 약속이 개인 결정에 대한 표징이나 해답이라는 뜻은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:40:6",
+      "textSha256": "d98d9c51a5ea2e207cc6c251783119bc1b4df1d874c37a260a2a764a33d86275",
+      "status": "candidate",
+      "reason": "사람의 아름다움을 잠시 피는 꽃에 비유하는 말은 더 좋은 것에 붙들린 마음을 비춰 지금 가진 것으로 만족하는 쪽을 읽게 한다.",
+      "contextNote": "무엇을 외칠지 묻는 소리에 인간의 유한함을 전하라는 응답이 나온다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H006",
+          "clue": "아름답고 더 좋아 보이는 것도 시드는 꽃 같다는 그림에서 최고를 좇는 부담을 내려놓을 수 있다.",
+          "friction": "원래는 인간의 유한함이며 제품 성능의 사실 판단이나 모든 구매 금지로 바꾸지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:40:7",
+      "textSha256": "078e994b9ff76722eb2bb2de367f1cb953b51e143835b9ea4dc2e26ac7cbbb1e",
+      "status": "hold",
+      "reason": "풀과 꽃의 시듦은 비교와 소유의 집착을 돌아보게 하나 하나님의 기운에 백성이 마른다는 뒷말이 무겁고 선택의 초점이 흐려진다.",
+      "contextNote": "인간의 덧없음을 풀에 빗대 하나님의 영원함과 대비한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H006",
+          "clue": "좋아 보이는 것도 영원하지 않다는 생각은 가능하다.",
+          "friction": "현재 가진 물건이나 내 삶이 하나님의 바람으로 쇠한다는 원인을 보태면 안 된다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:40:8",
+      "textSha256": "fc98e99b2754c521f86fd49751fce6a2397a5825b6812fff24aebcfceb434e9e",
+      "status": "candidate",
+      "reason": "시드는 것과 오래 서는 말씀의 대비는 답을 다른 곳에 맡길지 자기 신앙의 기준에 남을지의 고민에 분명한 실마리를 준다.",
+      "contextNote": "덧없는 사람과 영원한 하나님의 말씀을 대비한 선언이다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B030",
+          "clue": "흔들리는 마음을 붙들 기준을 하나님의 말씀에서 찾겠다는 쪽이 보인다.",
+          "friction": "성경이 해당 결정의 정답을 즉시 준다는 뜻이나 다른 해석의 권위 보증으로 넓히지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:40:9",
+      "textSha256": "61ca26355d2e8b71226826ce0790682b8f9148fb8b3e889a9334012b44ee3fc0",
+      "status": "hold",
+      "reason": "두려워 말고 소리를 높이라는 문장은 표현을 망설이는 마음과 닿지만 내용이 시온과 유다에 전할 하나님의 임재 소식으로 길게 한정된다.",
+      "contextNote": "좋은 소식을 전하는 이에게 여호와의 오심을 외치라고 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B028",
+          "clue": "마음을 담은 말을 두려움 때문에 숨기지 않는 모습을 떠올릴 수 있다.",
+          "friction": "연인에게 하는 칭찬과 구원의 선포는 다르고 높은 산·유다 성읍의 대목도 남는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:40:10",
+      "textSha256": "f35f8c967a7a08db4f64fe716f2e33913ae3126cf6dc9dc4334e835c4bd851d0",
+      "status": "hold",
+      "reason": "강하게 다스리며 상급을 가져오는 모습은 의지할 마음을 줄 수 있으나 새 역할 선택에 보상이 따른다는 약속으로 읽기 쉽다.",
+      "contextNote": "여호와가 힘 있게 돌아오시며 보응을 행하실 것을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G15",
+          "clue": "두려운 시작에 나만의 힘으로 버티지 않는다는 생각이 들 수 있다.",
+          "friction": "지원의 성과나 상급을 예고하지 않고 현재 선택에 고유한 실마리는 약하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:40:11",
+      "textSha256": "54d06581aea3aa15c618c52e3c30a47ddf6c385fce7011d1baa80cc4abd727ef",
+      "status": "candidate",
+      "reason": "먹이고 품고 온순히 인도하는 작은 돌봄의 모습은 큰 해결을 못 해도 힘든 친구에게 할 수 있는 도움을 주는 방향으로 닿는다.",
+      "contextNote": "돌아오시는 하나님을 어린 양과 젖먹이는 양을 돌보는 목자에 비유한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "상대를 먹이고 품어 주는 세심한 돌봄이 큰 해결책 없이도 가능한 도움을 비춘다.",
+          "friction": "내가 하나님을 대신한다거나 친구가 반드시 회복된다고 주장하지 않는 개인적 비유이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:40:12",
+      "textSha256": "c9cc043086f7d9b5e776c820cef0f61b45c5e7d38b4c1d120335309679e8eae8",
+      "status": "hold",
+      "reason": "창조의 크기를 묻는 질문이 걱정의 관점을 넓힐 수는 있지만 옛 도량형과 우주의 규모가 어느 선택의 실마리로 이어지는지는 약하다.",
+      "contextNote": "하나님이 바다와 하늘과 산을 헤아리시는 위대함을 노래한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H063",
+          "clue": "마음을 괴롭히는 것에서 시야를 넓히며 잠시 멈출 계기가 될 수 있다.",
+          "friction": "멈추거나 바쁘게 지낼 방향을 본문이 직접 비추지는 않으며 저울 어휘 설명이 필요하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:40:13",
+      "textSha256": "bc3f584fe68ff97ad3ee07b619ac8137548dfb02e306ff151b9c456b14b9e2b2",
+      "status": "exclude",
+      "reason": "하나님의 영을 누가 가르쳤느냐는 수사 질문으로 사람에게 조언을 구할지의 고민에 옮기면 하나님의 독립성을 인간에게 적용하게 된다.",
+      "contextNote": "하나님의 지혜를 지도할 인간이 없음을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:40:14",
+      "textSha256": "00b27c6c5c6fad8ddec7cbda9bc506bbfd4f7683c998e097b8358f2339d93136",
+      "status": "exclude",
+      "reason": "하나님에게 의논 상대나 스승이 필요 없다는 질문이므로 사람이 혼자 계획해야 한다는 방향으로 주기 어렵다.",
+      "contextNote": "창조주가 공평과 지식을 누구에게 배우셨는지 되묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:40:15",
+      "textSha256": "9c2898b21fadced0c4e43cb2dfe1bab2a1c6526f221fd49a340a2e709f9cb858",
+      "status": "hold",
+      "reason": "큰 열방도 작은 물방울이라는 시야는 비교를 줄일 여지가 있으나 국가와 창조주 사이의 규모를 개인 성과에 옮기는 거리가 남는다.",
+      "contextNote": "열방과 섬들이 하나님 앞에서 매우 작음을 비유한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H040",
+          "clue": "남의 커 보이는 성공도 더 큰 시야에서 바라보는 계기는 될 수 있다.",
+          "friction": "친구의 성공을 하찮게 여기거나 축하 모임 참석의 답으로 바로 잇기는 어렵다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:40:16",
+      "textSha256": "484d24086a271e6bd4cc8e71a1764ea13c58a946640b856e2a6289f191a950af",
+      "status": "hold",
+      "reason": "온 레바논도 제물로 부족하다는 말은 크기와 값으로 마음을 재는 태도를 돌아보게 하지만 제사 규모의 이해가 필요하다.",
+      "contextNote": "하나님의 크심을 다 담을 수 없는 제물과 땔감의 한계를 말한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H007",
+          "clue": "비싼 선물의 크기로 마음을 다 표현해야 하는지 되돌아볼 수 있다.",
+          "friction": "하나님께 드릴 제물의 부족함을 친구 선물에 적용하려면 별도 비유가 필요하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:40:17",
+      "textSha256": "08de8ff19aa7f06ef39682f7bf7a15baba02aa293e86ec730e913d0edf0b998c",
+      "status": "exclude",
+      "reason": "열방을 없는 것처럼 여기신다는 말은 하나님의 초월성을 위한 대비여서 현재 사람이나 관계의 가치를 무시하는 신호로 주기 어렵다.",
+      "contextNote": "모든 나라가 창조주 앞에서 미미함을 강조한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ISA:40:18",
+      "textSha256": "8ea0647a44fa39afb556a4e309a9ff07402debc7be1cbb5ad24404b1021e09c0",
+      "status": "candidate",
+      "reason": "하나님을 다른 형상과 견줄 수 있느냐는 질문은 답답할 때 신앙 밖의 점술에 의지할지 스스로 기준을 세울 실마리가 된다.",
+      "contextNote": "하나님의 유일함을 선언한 뒤 사람이 만든 우상과 대비하기 시작한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B030",
+          "clue": "내가 믿는 하나님을 다른 대상과 같은 답변 수단처럼 놓을지 돌아보게 한다.",
+          "friction": "점집의 결과나 친구의 마음을 단정하지 않으며 개인의 신앙에 따른 선택의 여지를 남긴다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ISA:40:19",
+      "textSha256": "7b6951efb753f427df49b2db78af08aea914264d98ccff33acdff7be5c9b06c2",
+      "status": "hold",
+      "reason": "금과 은으로 사람이 만든 신상을 보여 주어 점술 고민과 연결될 수 있지만 제작 묘사만으로는 의지할 기준이 충분히 드러나지 않는다.",
+      "contextNote": "하나님과 견줄 수 없는 우상이 장인에게 제작되는 과정을 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B030",
+          "clue": "사람이 만든 대상의 권위를 다시 보는 실마리는 가능하다.",
+          "friction": "점집의 방식과 이 금속 신상은 다르며 연결을 설명해야 할 여지가 남는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
     }
   ]
 }
