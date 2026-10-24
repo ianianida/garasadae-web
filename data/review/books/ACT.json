@@ -1,0 +1,508 @@
+{
+  "bookCode": "ACT",
+  "corpusSha256": "f8d5c8b377e243b05fb884b4a6965d2c06a95de74b64a716ee4b95989d61e971",
+  "criteriaVersion": "garasadae-corpus-2026-10-08-v1",
+  "reviewer": "Codex review_ezk_rev",
+  "method": "direct-codex-reading",
+  "entries": [
+    {
+      "id": "KRV:ACT:1:1",
+      "textSha256": "1910af2fdc1eda6ce21668866dd6c147ae1b1f723d933b546d6cd59367ee5015",
+      "status": "exclude",
+      "reason": "앞서 쓴 글의 범위를 소개하다 문장이 이어진다. 예수의 행함과 가르침이라는 주제만으로 생활 선택의 실마리는 부족하다.",
+      "contextNote": "데오빌로에게 앞 기록을 상기시키는 서문 첫 부분이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:1:2",
+      "textSha256": "11c5d56171e4dbef0f0b6e87b90e205013cc7ed33fe5046d583b048fc972ffd4",
+      "status": "hold",
+      "reason": "사도에게 명한 뒤 승천까지 기록했음을 말한다. 기록 범위의 정보이며 현재 무엇을 할지의 독립 기준은 적다.",
+      "contextNote": "앞 절에서 이어지는 이전 저술의 요약이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:1:3",
+      "textSha256": "9148ef3463a297788b6b1ccade831a27cbbb1d9d39e51e281d508dfc81645042",
+      "status": "hold",
+      "reason": "부활의 여러 증거와 사십 일의 가르침을 요약한다. 충분히 확인한다는 태도는 있으나 특정 기간을 준비 기준으로 삼을 수 없다.",
+      "contextNote": "부활 후 예수가 사도들에게 나타난 기간과 주제다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:1:4",
+      "textSha256": "691e1e6c62a4fe92d766efe6e2e48bcbcff128b7c8e0f3c9a9fad1b586eab2df",
+      "status": "hold",
+      "reason": "예루살렘에 머물며 약속을 기다리라는 구체 명령이다. 매물이나 진로를 기다리는 고민에 이미 결과 약속이 있다는 사실을 보태게 된다.",
+      "contextNote": "성령을 기다리도록 사도들에게 한 말이다. 모든 이동의 보류 신호가 아니다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:1:5",
+      "textSha256": "60b70e69a51fe870dc2e56ac9a662b9be48bec697bffa851ccdf1b7912f0436d",
+      "status": "hold",
+      "reason": "물 세례와 곧 받을 성령 세례를 대비한다. 앞으로 며칠 내 변화가 온다는 현실 예고로 쓰지 않으면 생활 선택의 연결은 약하다.",
+      "contextNote": "성령 약속을 사도들에게 밝히는 문맥이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:1:6",
+      "textSha256": "e9da6be3691f51fa4c56ae3e0752409f8b94337d0b7981aee370340242792786",
+      "status": "hold",
+      "reason": "나라 회복의 때를 묻는 사도들의 질문이다. 기다리는 마음과 닮지만 시기에 대한 판단 방향은 다음 답에 있다.",
+      "contextNote": "승천 전 이스라엘 회복에 대한 질문이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:1:7",
+      "textSha256": "efecd668ae62b875eb86cabd78e02eb6422f5e673ca3a225ad987be12836bcb9",
+      "status": "candidate",
+      "reason": "알 수 없는 때와 기한을 자기 통제로 만들지 않는 말이 결과 생각에 갇힌 마음을 비춘다. 결과를 안다는 신호 없이 현재로 돌아갈 실마리가 있다.",
+      "contextNote": "나라 회복의 시기를 묻는 사도에게 한 답이다. 이미 주어진 업무 마감은 몰라도 된다는 뜻이 아니다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H056",
+          "clue": "치료 결과가 언제 어떻게 나올지 생각만 붙잡기보다 알 수 없는 부분을 두고 평소 일상을 조금 해볼 수 있다.",
+          "friction": "치료의 경과나 결과는 예고하지 않는다. 의료진 설명이나 예약 일정을 무시하라는 말도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:1:8",
+      "textSha256": "e5c82b942b9b4035e1e9f34bf9fed37e717ee5e2cbef8c0fdf7f7c0c6ef7c78b",
+      "status": "hold",
+      "reason": "성령의 권능과 땅끝까지 증언할 사명을 예고한다. 도전의 용기는 있으나 일반 지원자가 같은 능력과 사명을 받았다고 확정할 수 없다.",
+      "contextNote": "사도 증언의 지리적 확장과 성령의 약속이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:1:9",
+      "textSha256": "be464f03000854cd93a0ba184b94b282213a5dcca09fcc88f5d339132d2fc460",
+      "status": "exclude",
+      "reason": "예수가 올라가 구름에 가려지는 사건이다. 상승이나 떠남의 말만으로 현재 진로나 이사 선택을 정할 근거는 없다.",
+      "contextNote": "예수 승천의 목격 기록이다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:1:10",
+      "textSha256": "a04ed934961ee082292981db52fb1b0dfdc08908588bd39712e6da0f8c7b57f7",
+      "status": "exclude",
+      "reason": "하늘을 쳐다보는 제자 곁에 흰옷 입은 이들이 선다. 무엇을 말하는지 다음 절 전에는 선택의 방향이 드러나지 않는다.",
+      "contextNote": "승천 뒤 천사의 말이 이어지는 장면이다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:1:11",
+      "textSha256": "8615c9620daddbb661af715e11d8b051e6e3c1eff33c5e183a033e3919184b0a",
+      "status": "hold",
+      "reason": "하늘만 보는 이유를 묻고 예수가 다시 올 것을 밝힌다. 현재로 돌아오라는 울림은 있으나 재림 약속의 뒷부분을 일상 재회의 보장으로 옮길 수 없다.",
+      "contextNote": "승천한 예수와 제자에게 주어진 재림의 말이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:1:12",
+      "textSha256": "6265b4e35905ccf4bbbd8ff7d2f0ce580e98f962b4772af30119be41863a662e",
+      "status": "exclude",
+      "reason": "감람산에서 예루살렘으로 돌아온 거리와 동선이다. 방문할지의 고민에 안식일 길이라는 규정만으로 충분한 실마리가 없다.",
+      "contextNote": "승천 후 제자들의 귀환이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:1:13",
+      "textSha256": "9fd1c7634ff1e996e6207c9ba99e2518f21d264ea74e14f80d9b90f0fb3e3bd1",
+      "status": "exclude",
+      "reason": "다락방의 위치와 모인 사도들의 이름을 열거한다. 명단의 정확성 외에 현재 선택의 부담을 비추는 내용은 적다.",
+      "contextNote": "기도 공동체의 구성원을 소개한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:1:14",
+      "textSha256": "61fe147b683adc82cdae76c978a2c7eb25f22867642d15951719f3f694b81539",
+      "status": "candidate",
+      "reason": "마음을 모아 기도에 힘쓰는 행동이 서로 다른 조언에 마음이 흐려진 상황에서 답을 더 쌓기보다 기도로 돌아갈 계기가 된다.",
+      "contextNote": "사도들과 예수 가족과 여성들이 성령을 기다리며 함께 기도한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A035",
+          "clue": "다른 답을 더 구하기 전에 기도하며 중요하게 여기는 마음을 돌아보는 쪽을 읽을 수 있다.",
+          "friction": "본문은 공동 기도이며 혼자만의 기도법을 명령하지 않는다. 기도 뒤 특정 선택의 정답을 알려준다는 약속은 없다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:1:15",
+      "textSha256": "261b87eb78fdd330e72c1bcc4430b5056c561c078aabdd336e035f84c2094baf",
+      "status": "exclude",
+      "reason": "모인 사람 수와 베드로가 일어서 말할 준비를 기록한다. 많은 수라는 사실은 작은 모임을 시작할지의 기준이 아니다.",
+      "contextNote": "유다의 빈자리를 논의하는 연설 도입이다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:1:16",
+      "textSha256": "4191153a25067eed398514d4abd88ac9f1fb03b389d326c46bdbdf352f0eae1d",
+      "status": "hold",
+      "reason": "유다의 배반을 성경 성취와 잇는다. 가까운 사람의 잘못이 예정됐다는 설명으로 쓰려면 확인되지 않은 운명을 덧붙이게 된다.",
+      "contextNote": "베드로가 사도 보충의 이유를 성경에서 설명한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:1:17",
+      "textSha256": "d02d427cba0369e2a612c57d0454a8610ad34669e48ad1bb18962082c13c83a9",
+      "status": "hold",
+      "reason": "유다가 한때 같은 직무의 몫을 맡았다고 말한다. 구성원 책임은 있으나 지금 맡길지 내려놓을지의 기준은 아직 제시되지 않는다.",
+      "contextNote": "뒤의 유다 사건과 공석 보충을 위한 배경이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:1:18",
+      "textSha256": "ec3662dff13eaa69731f6699e4c315821c5d9033e155b2afe61e8b287028b60c",
+      "status": "exclude",
+      "reason": "불의한 돈과 유다의 끔찍한 죽음을 연결한 사건이다. 돈의 선택을 이런 죽음의 개인적 예고나 처벌 공포로 판단하게 할 수 없다.",
+      "contextNote": "유다의 결말을 설명하는 괄호 속 기록이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:1:19",
+      "textSha256": "4d3bca66795b93377931cc1c71596de3000289c860c0fb9580db69832be901c0",
+      "status": "exclude",
+      "reason": "피밭이라는 이름이 생긴 경위와 그 뜻을 기록한다. 악명이나 평판을 피하라는 생활 지침으로 옮기기에는 앞 죽음 사건 의존이 크다.",
+      "contextNote": "예루살렘 사람들에게 알려진 유다 사건의 후속 설명이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:1:20",
+      "textSha256": "8d1f9fb1b276ec201787f356e47fe51694369d21d060af654ebd13a0463d2134",
+      "status": "hold",
+      "reason": "황폐를 구하는 시와 직분 교체가 함께 인용된다. 후임을 세운다는 부분만 쓰면 저주의 앞문장을 지우게 된다.",
+      "contextNote": "유다의 공석에 다른 사도를 세울 성경적 근거를 베드로가 든다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:1:21",
+      "textSha256": "01758ba5a6765bcccc28bcd6f75e29bac6a4fe70d5555162678d5631c0e1901e",
+      "status": "exclude",
+      "reason": "요한의 세례부터 승천까지 함께한 기간을 열거하며 문장이 이어진다. 어떤 역할을 맡길지의 결론이 아직 없다.",
+      "contextNote": "사도 후보의 경험 범위를 설명하는 앞부분이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:1:22",
+      "textSha256": "7f51ae5ed1848c7943b61d29d4fbd514b24f3025b423a5cf401e03c2a9c93fdf",
+      "status": "hold",
+      "reason": "함께 다닌 사람을 부활 증인으로 세우자는 기준이다. 경험 있는 사람에게 맡기는 실마리는 있으나 증인 자격과 일반 분업은 구별해야 한다.",
+      "contextNote": "사도의 빈자리를 메울 목격 증인의 조건이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:1:23",
+      "textSha256": "841c8b669603feb015bfd944d8d24ba22e930331ec20cd0d0de59005a3d2665e",
+      "status": "exclude",
+      "reason": "두 추천자의 이름과 별명을 나열한다. 선택지를 좁힌 결과만 있고 왜 누구를 택할지 판단 근거가 없다.",
+      "contextNote": "맛디아 추첨에 앞선 후보 소개다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:1:24",
+      "textSha256": "42ee0379565f5db29b0ff38fa0b0f1ac96abf49a920678a000a8e21d5e98d269",
+      "status": "hold",
+      "reason": "사람 마음을 아는 주께 택한 이를 묻는 기도다. 역할을 고를 때 기도할 여지는 있지만 구절 추첨이 남의 마음이나 신적 선발을 알려준다고 만들 수 없다.",
+      "contextNote": "두 사도 후보 중 직무 담당을 구하는 공동 기도이며 다음 절과 이어진다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:1:25",
+      "textSha256": "f66982b96eb169d8322ef7adfce816edeab86e734dc6f16264ee80d2d840318f",
+      "status": "hold",
+      "reason": "유다를 대신해 봉사와 사도의 직무를 맡을 이를 구한다. 후임 고민과 닮아도 유다의 이탈 배경이 정상 임기 종료와 다르다.",
+      "contextNote": "앞 절의 기도 문장을 마치며 유다의 공석을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:1:26",
+      "textSha256": "61fe09a66ba90301fcd50b95f2b31721f461c1e147b57602331ae279192ea4e7",
+      "status": "candidate",
+      "reason": "준비된 후보 둘 중 제비로 한 사람을 정하는 장면이 동등한 참여자의 순서를 공정하게 정할지의 고민에 실마리를 준다.",
+      "contextNote": "사도 공석을 채운 역사적 공동체 결정이다. 모든 추첨 결과가 하나님의 직접 선발임을 뜻하지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B007",
+          "clue": "오래 참여한 사람만 우선하기보다 모두 같은 절차로 차례를 정하는 쪽을 읽을 수 있다.",
+          "friction": "본문은 직무 선출이고 사례는 차례 분배다. 확률의 신적 정확성이나 결과 만족을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:2:1",
+      "textSha256": "14de8e64b3a7ee5f9af6653c88824177782083b5e9aaf74dd8fec841cef9b69d",
+      "status": "hold",
+      "reason": "같은 곳에 모였다는 도입이다. 적은 모임도 시작할 수 있는지의 고민에는 인원이나 결론이 없고 이후 사건이 의미를 더한다.",
+      "contextNote": "오순절 성령 사건의 시간과 장소를 여는 문장이다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:2:2",
+      "textSha256": "9493ee74336b05f13dbb5db7e3b27e2d29d43e24b08b51942b89ea33b789d47d",
+      "status": "hold",
+      "reason": "바람 같은 소리가 집을 채운 사건이다. 변화의 울림은 있으나 현재 주변 소리나 기상 현상을 선택 신호로 삼을 수 없다.",
+      "contextNote": "오순절 성령 임재의 감각적 묘사다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:2:3",
+      "textSha256": "12db1c39b22d7becb250a66965207eff6c91f70bc4692c81744852699271023c",
+      "status": "hold",
+      "reason": "불의 혀 같은 것이 각 사람 위에 임한다. 각자의 몫이라는 주제는 있으나 물건 분배나 역할 배정을 위한 말로 바로 옮기기 어렵다.",
+      "contextNote": "성령 임재를 보이는 형상으로 기록한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:2:4",
+      "textSha256": "ba80902ef1a7c13b1b1e6d77e2adb86ed4c1fe8495c992353f7bea5dd1e23d9f",
+      "status": "hold",
+      "reason": "성령 충만을 받아 다른 언어로 말하는 사건이다. 발표 도전의 용기는 있으나 준비 없이 말 능력이 생긴다는 기대를 덧붙이기 쉽다.",
+      "contextNote": "오순절의 특별한 성령 사역이다. 학습이나 발표 성과를 보장하지 않는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:2:5",
+      "textSha256": "4054c57fb2caf28481778dc7de9fd5e72e6d9da0a186e37779d664675393b3e6",
+      "status": "exclude",
+      "reason": "각국에서 온 경건한 유대인이 예루살렘에 머문 배경이다. 다양한 출신이라는 사실만으로 생활 선택 방향은 없다.",
+      "contextNote": "뒤에서 각자의 언어로 듣는 군중의 구성을 설명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:2:6",
+      "textSha256": "acd7010c54243b91477e3a97cf7fd6baa2f0516ec506a8fb5f5eec0e3066d729",
+      "status": "hold",
+      "reason": "각자가 자기 언어로 듣고도 소동하는 장면이다. 수신자에 맞는 소통과 닿지만 문장 끝의 놀람과 혼란까지 보면 명료한 안내의 본은 불확실하다.",
+      "contextNote": "오순절 방언을 듣는 군중의 반응이다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C012",
+          "clue": "듣는 사람이 알아들을 언어로 전달하는 중요성을 떠올릴 수 있다.",
+          "friction": "소동하여로 끝나는 사건을 한눈에 읽히는 공지의 성공 사례로 바꾸지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:2:7",
+      "textSha256": "c49aadcbfb2078bb6f0bc0eb59d1dadc0bbbd1034f074ed58c5b378cb9fbf7ed",
+      "status": "hold",
+      "reason": "갈릴리 출신이 다양한 언어를 말함에 놀라는 질문이다. 배경으로 능력을 단정하지 말자는 실마리는 있으나 질문의 답이 없다.",
+      "contextNote": "군중이 예상 밖의 방언을 이해하려는 장면이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:2:8",
+      "textSha256": "6d1770a1406a4a6146880cae6c256098bd42a16ffdbcfe720b0a5a65feeedeab",
+      "status": "hold",
+      "reason": "각자의 고향 말로 듣게 된 이유를 묻는다. 이해 가능한 소통의 울림은 있으나 질문만으로 현재 무엇을 고칠지의 방향이 부족하다.",
+      "contextNote": "오순절 현상의 의미를 묻는 군중의 반응이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:2:9",
+      "textSha256": "0c937d31b4ccc85d211df99cbe99fb310f7ed97167970576f5c1ecfa1266984e",
+      "status": "exclude",
+      "reason": "지역과 출신 이름을 열거하다 문장이 이어진다. 명단은 이 절만으로 생활 선택의 실마리를 제공하지 않는다.",
+      "contextNote": "오순절에 모인 여러 지역 사람들의 목록 일부다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:2:10",
+      "textSha256": "1230dedeb98979a632f1b274211780b6bc76b242fdc153275195d3f062ab56e2",
+      "status": "exclude",
+      "reason": "지역과 나그네의 신분을 더 나열한다. 다양성을 느낄 수 있어도 무엇을 택할지의 방향은 아직 없다.",
+      "contextNote": "앞뒤의 출신 목록을 잇는 문장이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:2:11",
+      "textSha256": "ad214b67c1ae9a2c139fe55c218c8470907550a3eae607586d7c4b7d60678c69",
+      "status": "hold",
+      "reason": "각 언어로 하나님의 큰 일을 듣는다고 말한다. 전달의 접근성은 있으나 출신 목록의 끝이라 단독으로 현재 공지 수정과 연결하기 어렵다.",
+      "contextNote": "오순절 방언을 이해하는 군중의 말을 맺는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:2:12",
+      "textSha256": "5c7eac726577e07f5a0f3768f37d3f2d2ed7bc1dbc0cf6411fc50f232ebb730b",
+      "status": "hold",
+      "reason": "놀라고 의혹하여 무슨 일인지 묻는 반응이다. 모를 때 물을 여지는 있지만 어떤 사실을 확인할지의 독립 정보가 없다.",
+      "contextNote": "성령 임재의 의미를 아직 모르는 군중의 반응이다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:2:13",
+      "textSha256": "e57076584cf97c7aeb0426f6f275452a6fdd02ad55e4e8d99f59aba6780c4e2c",
+      "status": "hold",
+      "reason": "새 술에 취했다고 비웃는 말이다. 섣부른 단정의 반면교사는 문맥에서 드러나지만 이 절만으로 조롱을 거두는 방향은 불명확하다.",
+      "contextNote": "뒤에서 베드로가 이 추정을 정정한다. 조롱의 말을 사실로 승인하지 않는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:2:14",
+      "textSha256": "1dac5e132355f4d0b3478d40bb95d77c74560c6a074668d0339dc40566750ae7",
+      "status": "hold",
+      "reason": "베드로가 군중에게 들으라고 요청한다. 공개적으로 말할 용기는 있지만 전할 내용은 다음 절부터여서 충분한 방향이 아직 없다.",
+      "contextNote": "오순절 현상을 설명할 연설의 시작이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:2:15",
+      "textSha256": "d4785658a0a6b63422d1e78fe73adcfab9f656deea98f5a5550ea1c77b5d1af2",
+      "status": "candidate",
+      "reason": "너희 생각과 같이 취한 것이 아니라고 바로잡는 답이 사실과 다른 공개 비난 앞에서 설명을 시작할 실마리를 준다.",
+      "contextNote": "베드로가 술 취했다는 조롱을 당시 시간과 함께 반박한다. 시각만으로 현대의 음주 여부를 판정하는 법칙은 아니다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "R015",
+          "clue": "상대의 주장 때문에 침묵하기보다 실제 보낸 기록을 근거로 사실과 다름을 알릴 수 있다.",
+          "friction": "본문의 세 번째 시각을 사용자의 업무 기한과 동일시하지 않는다. 정정 후 상대 반응은 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:2:16",
+      "textSha256": "76c0e8bcba2a68e86613940e33466d2b4e7251cdcbc41a0e525338aeef851014",
+      "status": "exclude",
+      "reason": "앞 현상을 요엘의 말과 연결한다고 소개한다. 인용의 내용이 다음 절에 있어 독립된 생활 선택 메시지는 없다.",
+      "contextNote": "베드로가 성령 사건을 설명할 성경 인용 도입이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:2:17",
+      "textSha256": "8a1967dbab493571987f33aad8a1fb3666c17a987812302a732ef613d0286da5",
+      "status": "candidate",
+      "reason": "젊은이뿐 아니라 늙은이도 꿈꾼다는 그림이 나이 때문에 새 배움을 접을지의 고민을 비춘다. 나이를 가능성의 끝으로 정하지 않을 실마리가 있다.",
+      "contextNote": "요엘의 성령과 예언 약속 인용이다. 기타 학습의 개인적 연결을 성령의 예언과 같은 뜻으로 확정하지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "R005",
+          "clue": "쉰 살이라는 이유만으로 배우고 싶은 마음을 접기보다 지금 기타를 배워볼 수 있다.",
+          "friction": "꿈을 꾼다는 표현은 개인적 비유이며 기타 실력이나 특별한 계시를 받는다는 보장은 없다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:2:18",
+      "textSha256": "39359e2bcf7d843a422dfd774140c71a6d9bc4eaac2a334ca1860695193af61d",
+      "status": "hold",
+      "reason": "남종과 여종에게도 성령이 부어짐을 말한다. 지위와 성별을 넘어서는 울림은 있으나 기존 지원 고민의 기술과 경험 차이를 직접 해결하지는 않는다.",
+      "contextNote": "요엘 인용의 일부이며 성령의 보편적 부어짐을 말한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:2:19",
+      "textSha256": "833d83f2691d2acfd6b9e68455a2c8e9c1216b16f8628509e2d0bd0945717ae4",
+      "status": "hold",
+      "reason": "하늘과 땅의 피와 불과 연기를 징조로 예고한다. 현재 불안한 사건을 재난 예언으로 읽지 않고는 생활 선택 연결이 약하다.",
+      "contextNote": "주의 날에 관한 요엘의 묵시적 인용이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:2:20",
+      "textSha256": "442a8fc083d5524c32af7b8200cad6e5a53114fbce716534d88fe8f018a2b8f1",
+      "status": "hold",
+      "reason": "해와 달이 변할 주의 날을 말한다. 일정이나 현실 사건의 시점을 알려주는 신호로 제시할 수 없어 해설이 필요하다.",
+      "contextNote": "앞의 하늘과 땅 징조를 잇는 요엘 인용이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:2:21",
+      "textSha256": "9449b08c12883697412e7525dedc3f62d69eebb6bc682719234b2f78a161d83a",
+      "status": "candidate",
+      "reason": "누구든지 주의 이름을 부를 수 있다는 말이 잘못 뒤 하나님께 기도하기 부끄러운 마음에 돌아갈 여지를 준다.",
+      "contextNote": "요엘 인용에서 주께 부르짖는 이의 구원을 말한다. 특정 치료나 거래의 구출 약속으로 쓰지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "R021",
+          "clue": "부끄럽다는 이유로 계속 피하기보다 잘못을 인정한 채 하나님께 기도할 수 있다.",
+          "friction": "이미 사과하고 고치려는 입력을 유지한다. 모든 현실 문제가 즉시 해결되거나 추첨이 용서를 판결한 것은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:2:22",
+      "textSha256": "9c98314a34354b9d132263106e9a3bd9201c98802d6d7b5a7c9d7d821f6bca43",
+      "status": "hold",
+      "reason": "예수의 권능과 표적이 하나님이 그를 드러낸 증거라고 말한다. 자신에게 생긴 작은 사건을 신적 증명으로 바꾸지 않으면 선택 연결은 약하다.",
+      "contextNote": "베드로가 예수의 사역을 군중에게 증언한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:2:23",
+      "textSha256": "e76cdc40b764d3d1111772e6702162c98830a03ccfa0ae6f02209bb405052f25",
+      "status": "hold",
+      "reason": "하나님의 뜻과 인간의 처형 책임을 함께 말한다. 고통이 예정돼 피할 수 없다는 해석으로 옮기기 쉬워 생활 적용에는 설명이 필요하다.",
+      "contextNote": "예수의 죽음에 대한 베드로의 고발과 신앙 고백이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:2:24",
+      "textSha256": "b612a5f5f42e132536d9c6dc1e5add75e3e007c6460e0498e3a967aed9c62982",
+      "status": "hold",
+      "reason": "하나님이 예수를 사망에서 살리셨다고 선포한다. 실패를 넘어서는 희망은 있지만 당면 치료의 생존이나 사건 반전을 보장하는 조합은 될 수 없다.",
+      "contextNote": "예수 부활을 선포하는 연설이다.",
+      "readability": "thinkable",
+      "connections": []
+    }
+  ]
+}
