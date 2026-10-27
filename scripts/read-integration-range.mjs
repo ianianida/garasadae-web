@@ -11,6 +11,16 @@ if(mode && !['--compact','--reading'].includes(mode)) throw new Error('Use --com
 if(mode==='--reading') {
   // Independent reading view: every whole verse and unique neighbor stays intact.
   // Omit prior reasons to avoid anchoring the integration judgment to them.
+  // Show the actual concerns once so role and uncertainty do not depend on summaries.
+  const caseFiles=['scenarios.json','scenarios-gen-2ki.json','scenarios-1ch-lam.json','scenarios-ezk-rev.json','scenarios-integration.json'];
+  const cases=new Map((await Promise.all(caseFiles.map(async file=>JSON.parse(await readFile(`data/review/${file}`,'utf8'))))).flat().map(item=>[item.id,item]));
+  const caseIds=[...new Set(selected.flatMap(item=>item.connections.map(pair=>pair.scenarioId)))];
+  const concreteScenarios=caseIds.map(id=>{
+    const item=cases.get(id);
+    if(!item) throw new Error(`SCENARIO_MISSING_${id}`);
+    return item;
+  });
+  console.log(JSON.stringify({concreteScenarios}));
   const chosen=new Map(selected.map(row=>[row.id,row]));
   const visible=new Set();
   for(const item of selected) {

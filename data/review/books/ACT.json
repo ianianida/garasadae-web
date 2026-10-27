@@ -6475,6 +6475,2750 @@
       "contextNote": "예루살렘의 편지를 안디옥 회중에게 읽히기 전이다.",
       "readability": "clear",
       "connections": []
+    },
+    {
+      "id": "KRV:ACT:15:31",
+      "textSha256": "d0b1fac01958da4a7c5e94224839228e3c195ecb40d24500d081ea567f6eb933",
+      "status": "hold",
+      "reason": "위로하는 편지를 읽고 기뻐한 반응이다. 어떤 말이 부담을 덜었는지 없는 채 독서나 현재 선택의 결과를 긍정하기는 어렵다.",
+      "contextNote": "안디옥 신자들이 이방인의 부담을 던 회의 결정을 읽고 기뻐한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:15:32",
+      "textSha256": "10eafa7eff5ceaba744cae445992429a6942ccc00105b73d0e691bf241fc1894",
+      "status": "candidate",
+      "reason": "말로 형제들을 권면해 굳게 하는 모습은 작은 도움이라도 줄지의 마음을 비춘다.",
+      "contextNote": "유다와 실라가 안디옥 형제들을 여러 말로 격려한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "권면하는 말로도 사람을 굳게 한다는 모습에서 큰 해결책이 없어도 작은 도움과 말을 건넬 마음을 읽는다.",
+          "friction": "선지자의 권면을 현재 내가 특별한 계시를 말할 자격으로 바꾸지 않는다. 말이 반드시 상대의 사정을 해결한다는 보장 없는 도움의 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:15:33",
+      "textSha256": "39228a95e7481745166c03219f0b6366282c61fe1b2cf13d8ca63f99e39a59e0",
+      "status": "hold",
+      "reason": "평안한 전송을 받고 보낸 사람들에게 돌아간 귀환이다. 현재 역할이 끝났거나 상대의 양해가 있다는 조건을 새로 넣어야 허가처럼 읽힌다.",
+      "contextNote": "사절들이 일정 기간 뒤 예루살렘 쪽으로 돌아간다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:15:34",
+      "textSha256": "2c5539adbf825ee1c84f495c41d2e3ab18f6627a722578a5aea4ff650909eec7",
+      "status": "exclude",
+      "reason": "공식 개역한글에서 본문이 없는 절 번호다. 추첨에 보여 줄 말씀 본문이 없다.",
+      "contextNote": "없음 표기를 보존하고 다른 역본의 문장을 보충하지 않는다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:15:35",
+      "textSha256": "380a8bd747a39e2992aba9c1039dbc85fd6bdf1d9cf964708221603618080c41",
+      "status": "candidate",
+      "reason": "다른 여러 사람과 함께 가르치는 모습은 일을 혼자 다 맡을지의 마음을 비춘다.",
+      "contextNote": "바울과 바나바가 안디옥에서 다른 이들과 함께 전하고 가르친다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A009",
+          "clue": "다수의 다른 사람들과 함께 일을 하는 모습에서 적합한 팀원에게 역할을 나눠 맡길 실마리를 읽는다.",
+          "friction": "교육과 선교의 사역을 일상 팀 과제에 비춘다. 현재 팀원들이 모든 부담을 대신 질 수 있다는 결과를 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:15:36",
+      "textSha256": "6bd15c5093995f4968a804ebde9f52d12143090752db9e34f751aedc80643e98",
+      "status": "candidate",
+      "reason": "사람들이 어떠한지 다시 방문하자는 제안은 성과보다 적응 중인 사람을 챙길지의 고민과 가깝다.",
+      "contextNote": "바울이 전도한 도시들에 다시 가서 형제들의 형편을 살피자고 바나바에게 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C005",
+          "clue": "형제들이 어떠한가 다시 방문하자는 말에서 행사 숫자만 늘리기보다 적응이 어렵다는 새 부원을 살필 실마리를 읽는다.",
+          "friction": "선교 후 방문과 동아리 돌봄은 다르다. 현재 성과를 버려야 한다는 단정 없이 사람의 형편에 시간을 쓰는 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:15:37",
+      "textSha256": "168fb28d2742c586448cc211fdc2d026871e32bbbbb80a65527cb27b7d8795cd",
+      "status": "hold",
+      "reason": "요한도 데리고 가고 싶다는 희망만 말하다 대조절로 끝난다. 그 사람의 역할과 과거를 모르면 동행의 판단을 읽기 어렵다.",
+      "contextNote": "마가의 동행 여부를 두고 바나바와 바울의 의견이 갈리기 시작한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:15:38",
+      "textSha256": "becb8bf70d0c13cfb57dae17db5e50504dba0880e1016e55e0c2787852a776ff",
+      "status": "candidate",
+      "reason": "전에 함께 일하지 않고 떠났던 사람을 다시 데려가지 않겠다는 입장은 반복된 선 넘음 뒤 거리를 둘지의 마음을 비춘다.",
+      "contextNote": "바울은 지난 여정에서 떠난 마가의 재동행을 반대하고 바나바는 동행을 원한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H029",
+          "clue": "이전 행동을 고려해 다시 같은 동행을 하지 않겠다는 말에서 또 같은 자리를 내주기보다 거리를 둘 실마리를 읽는다.",
+          "friction": "업무 이탈과 친구의 선 넘음을 같은 사건으로 확정하지 않는다. 바나바의 다른 선택도 있는 장면이므로 모든 재기회를 거절하는 규칙은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:15:39",
+      "textSha256": "5db4c1476c23b770ff9a703d5949cde8bb4443a9da03ca592e35871c46971e80",
+      "status": "candidate",
+      "reason": "같이 가던 이들이 갈라 각자 길을 가는 모습은 반복되는 경계 침해 뒤 거리 선택을 비춘다.",
+      "contextNote": "마가 문제로 바울과 바나바가 심하게 다투고 바나바는 마가와 구브로로 간다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H029",
+          "clue": "함께하던 길에서 갈라서 다른 길로 가는 모습에서 계속 같은 관계 거리를 유지하지 않아도 될 실마리를 읽는다.",
+          "friction": "심한 다툼과 바나바의 마가 수용이 함께 나오는 복합 장면이다. 현재도 싸워야 한다거나 상대가 반드시 나쁘다는 판정 없이 거리의 가능성으로 읽는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:15:40",
+      "textSha256": "a49af2cfd5b4f73f0578f7448804130ad93bd19bd9b0fb23506cf8c0fc087139",
+      "status": "candidate",
+      "reason": "동행할 사람을 택해 떠나는 모습은 책임자가 혼자 일을 수행할지의 마음을 비춘다.",
+      "contextNote": "바울이 실라를 택하고 형제들의 축복을 받아 떠난다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A009",
+          "clue": "함께할 사람을 택해 나서는 모습에서 자잘한 일까지 혼자 붙들기보다 적합한 팀원과 나눌 실마리를 읽는다.",
+          "friction": "새 선교 동행의 선택이며 현재 누구를 택하라는 지정은 아니다. 적합한 팀원이 있다는 입력에만 기대는 분담의 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:15:41",
+      "textSha256": "284dc583267e311996acf976e6d454904fe827cb008a7528bc62060b9214d0cc",
+      "status": "hold",
+      "reason": "여러 지역을 다니며 교회를 굳게 했다는 여행 요약이다. 무엇으로 누구를 어떻게 돌봤는지는 단독으로 드러나지 않는다.",
+      "contextNote": "바울과 실라가 수리아와 길리기아 교회들을 격려한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:16:1",
+      "textSha256": "04ce21d71141ea3ca9f7b81629eca2a76a74699ccff8f7f593f2cc7b5d2efcde",
+      "status": "exclude",
+      "reason": "디모데가 사는 곳과 부모의 출신을 소개한 인물 배경이다. 현재 선택의 방향이나 이유를 비출 행동은 아직 없다.",
+      "contextNote": "바울이 더베와 루스드라에서 디모데를 만나는 도입이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:16:2",
+      "textSha256": "1dbd1fa4cb31ba1f5b1b723303679e0ecd2e375add8887d014322eeafabf2048",
+      "status": "hold",
+      "reason": "디모데가 여러 지역에서 칭찬받았다는 평판의 소개다. 현재 사용자의 역량이나 평판도 그렇다고 보태야 확신이 된다.",
+      "contextNote": "동행자로 택할 디모데에 관한 형제들의 평판이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:16:3",
+      "textSha256": "66db25e64f5dfb8d5281b90b969061ab65bb141c49d8e2d2a359528659b1cddf",
+      "status": "hold",
+      "reason": "혼인 배경과 할례를 한 이유가 길게 묶인 사건이다. 앞선 회의의 규정과 다른 선교 전략을 풀어야 현재 행동과 구별된다.",
+      "contextNote": "바울이 유대인들을 고려해 헬라인 아버지를 둔 디모데에게 할례를 행한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:16:4",
+      "textSha256": "3e5138285ec4fb1ed55e51e08ec0eba67646d490920be49ecec8f4ca7ff62692",
+      "status": "hold",
+      "reason": "예루살렘의 작정 규례를 전달해 지키게 했다는 말이다. 규례의 내용과 권위를 모르면 현재 누구의 지시를 따를지로 연결하기 어렵다.",
+      "contextNote": "여러 도시의 교회들에게 예루살렘 회의 결정을 전한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:16:5",
+      "textSha256": "152360071fc23f70ece717f48b2c9965979def6a0b4be1c3a24dbfc0fb428bce",
+      "status": "hold",
+      "reason": "믿음과 수가 늘었다는 결과 보고만 있다. 현재도 같은 성장과 성과를 얻는다는 예고로 만들지 않는다.",
+      "contextNote": "규정을 전한 뒤 여러 교회가 굳어지고 커지는 경과다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:16:6",
+      "textSha256": "0c5bc034d512c373cc3818c56ba2a37c417157bc00f51486c6a0a6f466f73086",
+      "status": "candidate",
+      "reason": "가려던 곳이 막히자 다른 지역으로 다니는 모습은 달라진 계획을 받아들일지의 마음을 비춘다.",
+      "contextNote": "성령이 아시아에서 전하지 못하게 해 다른 지역을 지나는 선교 여정이다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H062",
+          "clue": "한 길로 가지 못할 때 다른 길로 움직이는 모습에서 원래 방식만 붙들기보다 바뀐 상황을 받아들일 실마리를 읽는다.",
+          "friction": "성령이 길을 막은 이야기지만 현재 계획의 좌절 원인이 하나님의 금지라는 뜻은 아니다. 실제 바뀐 계획에 한정한 유연함의 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:16:7",
+      "textSha256": "23956fa1e0e6ac7a1c0d3114df05a7cb5f163b8e4d84da2405634b61c1e26fd8",
+      "status": "candidate",
+      "reason": "가고자 애써도 허락되지 않는 길의 모습은 달라진 조건에 원래 방식만 고집할지의 마음을 비춘다.",
+      "contextNote": "비두니아로 가려 하지만 예수의 영이 허락하지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H062",
+          "clue": "애써도 열리지 않는 방향의 모습에서 바뀐 상황을 받아들이고 다른 길을 생각할 실마리를 읽는다.",
+          "friction": "현재 계획이 막힌 원인을 하나님의 직접 금지라고 판정하지 않는다. 아직 어떤 대안이 성공할지도 알지 못하는 계획 조정의 비유다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:16:8",
+      "textSha256": "37736c7b60ab0d11cc5b585a847d6b20722df0b02a729aa49b91918e7655155d",
+      "status": "exclude",
+      "reason": "무시아를 지나 드로아로 내려간 지리 이동만 기록한다. 현재의 두 선택을 비출 관점은 드러나지 않는다.",
+      "contextNote": "새 방향의 환상을 보기 전 드로아에 도착한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:16:9",
+      "textSha256": "4622f8e65c3bf424c556efbe61906c0502e1c83b94bdc7f26b15dcc28872d94b",
+      "status": "candidate",
+      "reason": "우리를 도우라고 직접 청하는 말은 민폐가 될까 부탁을 미루는 마음을 비춘다.",
+      "contextNote": "환상 속 마게도냐 사람이 바울에게 건너와 도와 달라고 청한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "우리를 도우라고 말하는 모습에서 필요를 혼자 감추기보다 도와 달라고 부탁할 실마리를 읽는다.",
+          "friction": "환상으로 주어진 선교 요청을 현재 서비스가 받은 계시나 도움의 수락 보장으로 옮기지 않는다. 요청의 표현 자체로 충분할 연결을 예상한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:16:10",
+      "textSha256": "135d9297068eedf5205679638ece05ca599fec869f9c753ec8bde0c4bc735671",
+      "status": "hold",
+      "reason": "환상을 하나님의 부르심으로 인정하고 출발하는 해석이 핵심이다. 현재에는 그런 환상을 받았다는 사실이 없고 일상 선택의 구체 실마리는 약하다.",
+      "contextNote": "일행이 바울의 환상을 마게도냐 선교의 부름으로 해석한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:16:11",
+      "textSha256": "87ec32cc22d27b23aebd79414c0071bbe5589107dd12dc88898f9deacdc8b0d4",
+      "status": "exclude",
+      "reason": "배를 타고 여러 항구를 지나간 이동 순서의 기록이다. 일상의 선택에 적용할 관점은 드러나지 않는다.",
+      "contextNote": "드로아에서 사모드라게를 거쳐 네압볼리에 도착한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:16:12",
+      "textSha256": "ea495bfbc0fc5ffd2afbbdba01a7a2f76446fb7c9a93e91bab7cb0d49467e850",
+      "status": "exclude",
+      "reason": "빌립보의 지리와 로마 식민지라는 배경 및 체류 기간을 소개한다. 현재 판단의 실마리는 아직 없다.",
+      "contextNote": "일행이 빌립보에 도착해 며칠 지낸다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:16:13",
+      "textSha256": "009f29acaed6c5ba88584fbdfa1a66f3c5153f419f330019361a608d80572a12",
+      "status": "candidate",
+      "reason": "성 밖 강가에서 기도처를 찾는 모습은 예배당에 못 가면 기도를 미룰지의 마음을 비춘다.",
+      "contextNote": "안식일에 강가에서 기도처를 찾다가 모인 여자들에게 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C020",
+          "clue": "기도할 곳을 찾아 강가로 가는 모습에서 예배당에 못 간다고 기도를 넘기기보다 지금 있는 방에서 기도할 마음을 읽는다.",
+          "friction": "강가와 혼자 있는 방은 다르고 이 절의 끝은 대화다. 장소가 예배당이어야만 한다는 부담을 덜 약한 연결로 충분할 것을 예상한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:16:14",
+      "textSha256": "cfa03d63cc59e709a1360d21013589b6b90764edf243f2df51caa78ad0997064",
+      "status": "hold",
+      "reason": "루디아의 출신과 직업 및 마음이 열려 청종한 사건을 설명한다. 현재 친구의 속마음도 그렇게 열릴 것이라고 보태지 않고는 선택에 닿는 힘이 약하다.",
+      "contextNote": "강가에서 바울의 말을 듣던 루디아가 청종한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:16:15",
+      "textSha256": "073f7f8cf2759ebb3a1c6f19b114fa41d9b9b045d11b46c473a519816e576b53",
+      "status": "candidate",
+      "reason": "가르침을 받은 뒤 자기 집에 들어와 머물라고 청하는 모습은 도움받은 사람을 대접할지의 마음을 비춘다.",
+      "contextNote": "루디아와 집안이 세례를 받은 뒤 사도들을 집으로 초대한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A012",
+          "clue": "도움을 받은 뒤 집에 초대하는 모습에서 고마운 사람에게 간단한 식사라도 청할 마음을 읽는다.",
+          "friction": "영적 가르침과 숙박 초대의 장면을 현재 받은 도움과 식사 초대에 비춘다. 상대가 초대를 반드시 수락한다는 보장은 아니며 사용자를 초대받는 쪽으로 바꾸지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:16:16",
+      "textSha256": "4daa5c5cf05b6aaf69676c779192588108007396d6a7e0e3d2bfc73a8d0aa137",
+      "status": "candidate",
+      "reason": "점치는 일을 귀신과 이익의 관계로 묘사하는 말은 믿음 때문에 점집 방문이 불편한 마음을 비춘다.",
+      "contextNote": "일행이 점치는 여종을 만나고 그 주인들이 점으로 이익을 얻고 있음을 소개한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A036",
+          "clue": "점치는 일과 귀신을 함께 말하는 모습에서 재미와 별개로 내 믿음에 걸리는 방문은 빠질 마음을 읽는다.",
+          "friction": "고대의 귀신 들린 종과 주인의 이익 구조다. 오늘날 모든 종사자의 상태나 친구의 의도를 진단하지 않는 신앙상 불편의 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:16:17",
+      "textSha256": "4a51d9ed02fd356d3491292bf11c0d04f2761adca3eee2817f8e2114c7766da9",
+      "status": "hold",
+      "reason": "이 사람들이 누구인지 구원의 길을 전한다는 특정 평가다. 현재 어떤 사람을 믿어도 되는지로 옮기려면 발화자와 지시 대상을 풀어야 한다.",
+      "contextNote": "점치는 여종이 사도들을 따라오며 하나님의 종이라고 외친다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:16:18",
+      "textSha256": "196dd3f9f7b1e3380baab6c5926a08eded0256998398935d7bcd04a3e17f829b",
+      "status": "hold",
+      "reason": "반복되는 소리에 괴로워 귀신에게 명령하고 즉시 나갔다는 사건이다. 반복 접촉의 지인을 귀신과 같게 바꿔 경계의 방법을 얻는 마찰이 크다.",
+      "contextNote": "바울이 여종에게 있던 귀신을 예수의 이름으로 내쫓는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:16:19",
+      "textSha256": "cf86f9086341d5788adf727815f25c3f25191dec4f701c2b2221e28bab2f20b9",
+      "status": "exclude",
+      "reason": "돈벌이의 소망을 잃은 주인들이 사도들을 잡아 관원에게 끌고 가는 소송의 발단이다. 현재 선택의 실마리는 드러나지 않는다.",
+      "contextNote": "점치는 능력에 따른 이익이 끊겨 주인들이 보복한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:16:20",
+      "textSha256": "749501fe2abb640298e07db2c1975cbe1394c4c50a9e39f640675f64ae924cc0",
+      "status": "hold",
+      "reason": "소란을 일으킨다는 고발의 시작으로 끝난다. 고발의 진위를 단독으로 알 수 없고 현재 상대가 같은 거짓 고발을 했다는 사실을 더하지 않는다.",
+      "contextNote": "여종의 주인들이 사도들을 로마 관원에게 고발한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:16:21",
+      "textSha256": "d045d51ce425369411cfd95c06b94b4c80cfb2cb8949a1ee72e7463e5d9bb653",
+      "status": "hold",
+      "reason": "자기들이 받지 못할 풍속을 전한다는 고발 내용이다. 교리와 법적 배경을 모르면 다른 문화의 사람을 배제하라는 권고처럼 읽힐 수 있다.",
+      "contextNote": "사도들에 대한 로마 시민의 풍속 위반 고발이 이어진다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:16:22",
+      "textSha256": "0d2cc9de619a35a25570f022e1ab5b1d9ee3eab0c801b7cef01b57c98b5802e4",
+      "status": "exclude",
+      "reason": "군중의 송사와 관원들의 태형 명령을 기록한 폭력 사건이다. 현재의 갈림을 비출 관점 없이 당시 고통만 옮기게 된다.",
+      "contextNote": "고발을 들은 관리들이 사도들의 옷을 벗기고 매질하게 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:16:23",
+      "textSha256": "3d8b60a87a036551759a1abb65301ca9d099adf5261ee52d26aaf0b405ebd9db",
+      "status": "exclude",
+      "reason": "많이 때린 뒤 옥에 가두고 감시를 명령한 수감의 경과다. 현재 사용자가 같은 처지라는 가정 없이 취할 실마리가 없다.",
+      "contextNote": "태형 뒤 빌립보 감옥에 수감되며 간수가 관리 책임을 받는다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:16:24",
+      "textSha256": "a1a97006088490815338fde989dbd45b9961769ba988cd7cfeae0e746466788f",
+      "status": "exclude",
+      "reason": "명령을 받아 깊은 감옥에 넣고 착고로 묶었다는 수감 방식이다. 영과 착고의 옛 뜻을 풀어도 생활 선택의 방향은 없다.",
+      "contextNote": "간수가 받은 명령대로 사도들의 발을 고정한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:16:25",
+      "textSha256": "30a7b636fa582d57bb6b1e4703d679b0f36209520a0e17de11177bde85068a20",
+      "status": "candidate",
+      "reason": "감옥 안에서도 기도하고 찬미하는 모습은 예배당에 못 가면 기도를 미룰지의 마음을 비춘다.",
+      "contextNote": "바울과 실라가 밤중 옥에서 기도하고 찬미하며 다른 죄수들이 듣는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C020",
+          "clue": "감옥 같은 자리에서도 기도하는 모습에서 예배당에 못 갔다고 넘기기보다 지금 있는 방에서 하나님께 기도할 마음을 읽는다.",
+          "friction": "현재 사용자가 수감됐다는 뜻이 아니며 기도 뒤 문이 열린 결과를 현재 문제 해결의 보장으로 붙이지 않는다. 기도 장소의 연결만으로 충분함을 예상한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:16:26",
+      "textSha256": "2c8517648dba98af043763e5b958b3272b6294911974da58928851ff8b4a7beb",
+      "status": "hold",
+      "reason": "지진과 모든 문 및 속박이 한꺼번에 풀린 사건 전체가 중심이다. 해방의 이미지로 연결은 가능하지만 현재 선택의 실마리는 구체적이지 않다.",
+      "contextNote": "옥중 기도 뒤 지진이 나서 사도들과 모든 죄수의 결박이 풀린다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "매인 것이 벗어지는 이미지에서 이미 수습한 과거에 계속 매이지 않을 마음은 읽을 수 있다.",
+          "friction": "지진과 감옥 전체의 기적적 해방을 현재 현실 제약이나 자책의 자동 해소로 바꾸지 않고서 충분할 연결인지는 불확실하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:16:27",
+      "textSha256": "81a07960a1e11bc86aeadb57f6f3a6935eb0f78cba14bf8211bf705e441bd1df",
+      "status": "hold",
+      "reason": "죄수들이 도망한 줄 알고 자결하려는 간수의 위기다. 그 생각이 틀렸다는 사실은 다음 절을 알아야 하며 일상 고민의 부정 예시로 단순화하기 어렵다.",
+      "contextNote": "열린 옥문을 본 간수가 검을 빼지만 사도들은 도망하지 않았다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:16:28",
+      "textSha256": "7d3b6a4caca7a60b99747bb866c4d3dbb943aad9890c36f308c7d9382fb8a5da",
+      "status": "candidate",
+      "reason": "네 몸을 상하지 말라는 분명한 말은 회복을 위한 쉼을 알면서도 놓지 못하는 일을 비춘다.",
+      "contextNote": "바울이 모든 죄수가 남아 있음을 알리며 간수의 자결을 막는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H055",
+          "clue": "몸을 상하게 하지 말라는 말에서 계속 바쁘게 버티기보다 이미 들은 회복의 설명에 따라 오늘 쉬는 실마리를 읽는다.",
+          "friction": "실제 자결 위기의 말이지만 사용자에게 그런 의도를 가정하지 않는다. 주변 사람이 지금 모두 대기한다거나 치료 결과가 보장된다는 뜻 없이 몸을 돌봄에 비춘다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:16:29",
+      "textSha256": "cd14261c202fcbc50dac32bd566ea4ac8654b3eef32874284dec4cca3be52869",
+      "status": "hold",
+      "reason": "등불을 달라 하고 떨며 엎드린 간수의 반응이다. 무엇을 물을지의 실마리는 다음 말에 남고 두려움 자체를 현재에게 덧붙이지 않는다.",
+      "contextNote": "자결을 멈춘 간수가 사도들 앞에 엎드린다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:16:30",
+      "textSha256": "f4e11f888ff6b537d8714aac6637d17139da7d24b766ed95b4440d7599ecd8ff",
+      "status": "candidate",
+      "reason": "어떻게 해야 하는지 선생에게 직접 묻는 모습은 모르는 신앙 내용을 숨길지의 마음을 비춘다.",
+      "contextNote": "간수가 사도들을 데리고 나와 구원의 길을 질문한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C021",
+          "clue": "선생들께 어떻게 해야 하는지 묻는 모습에서 모르는 부분을 아는 척하기보다 잘 아는 사람에게 설명을 부탁할 실마리를 읽는다.",
+          "friction": "구원의 질문과 특정 성경 구절 풀이의 요청은 다르다. 모른다는 사실을 드러내며 묻는 모습의 연결로 충분할 것을 예상한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:16:31",
+      "textSha256": "4fca1ece0c674596df68baaeeccb8ab05e2c7f886b643f602d0159170ba336ec",
+      "status": "candidate",
+      "reason": "주 예수를 믿으라는 답은 더 나은 사람이 된 뒤에만 신앙을 시작할 수 있다는 부담을 비춘다.",
+      "contextNote": "간수의 질문에 답한 뒤 집의 모든 사람에게 말씀을 전하고 그들이 믿고 세례를 받는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C018",
+          "clue": "주 예수를 믿으라는 말에서 먼저 자격을 완성하려 미루기보다 믿음과 세례 준비를 시작할 마음을 읽는다.",
+          "friction": "너와 네 집에 대한 특정 응답이며 가족도 이어 말씀을 듣고 믿는 문맥이다. 내가 믿으면 모든 친척의 구원이 자동 보장된다는 판정으로 삼지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:16:32",
+      "textSha256": "a95f734dd9b1a77cb422e1855063430778d4261f2ea335e7db6f329904e7bcb2",
+      "status": "candidate",
+      "reason": "그 사람과 집의 사람들에게 말씀을 전하는 모습은 신앙에 관한 질문 앞에서 말을 나눌 마음을 비춘다.",
+      "contextNote": "간수와 집안이 구원의 답 뒤 말씀을 듣는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C019",
+          "clue": "말씀을 사람들에게 전하는 모습에서 친구가 물은 나의 믿음을 얼버무리기보다 솔직히 나눌 마음을 읽는다.",
+          "friction": "현재 친구가 이미 질문했다는 입력에 한정한다. 가족 전체를 강제로 믿게 하거나 대화의 결과를 보장하는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:16:33",
+      "textSha256": "3e7a6b2afd74575d5132826449f222db817cae4846b25665c8569153cb5d90c7",
+      "status": "candidate",
+      "reason": "맞은 자리를 씻기는 구체 돌봄은 사정을 바꿔 주지 못해도 작은 일을 도울지의 마음을 비춘다.",
+      "contextNote": "간수가 사도들의 상처를 씻긴 뒤 집안과 함께 세례를 받는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C016",
+          "clue": "상처 입은 사람의 자리를 씻어 주는 실제 돌봄에서 완벽한 위로의 말을 못해도 식사나 정리 같은 작은 도움을 줄 실마리를 읽는다.",
+          "friction": "태형 상처와 사별의 고통은 다르다. 세례가 슬픔을 없앤다는 결과 없이 말보다 구체적인 돌봄에 비춘다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:16:34",
+      "textSha256": "fbdf8cc246a33967c83dfffb0d2f2592fcf5019c267069b6ac2eb04f7b57e93f",
+      "status": "candidate",
+      "reason": "도움을 준 이들을 집에 데려가 음식을 차리는 모습은 고마움을 식사 초대로 표현할지의 마음과 가깝다.",
+      "contextNote": "믿고 세례 받은 간수가 사도들을 집에서 대접하고 집안이 기뻐한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A012",
+          "clue": "자기 집에 데려가 음식을 차리는 모습에서 지난주 도와준 사람에게 간단한 식사라도 초대할 마음을 읽는다.",
+          "friction": "신앙을 전해 받은 감사와 일반 도움의 감사는 다르다. 사용자는 도움받은 뒤 대접하려는 쪽이며 상대가 수락할 보장은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:16:35",
+      "textSha256": "c6c968171b48621c57e88a99b8995d0f0b557189106c7fa83d1f7be5dbae511a",
+      "status": "hold",
+      "reason": "관리들이 석방을 지시했다는 행정의 변화다. 현재의 제약도 이미 해소됐다는 사실을 새로 만들지 않고서는 결단의 방향이 약하다.",
+      "contextNote": "날이 밝자 관리들이 사도들을 놓아 주라고 아전들을 보낸다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:16:36",
+      "textSha256": "c30a85509cf9605022247aff945d6d834d5ae1a536eef54b82ace29ce95b925c",
+      "status": "candidate",
+      "reason": "이제 나가서 평안히 가라는 말은 이미 수습한 과거에 머물지 말고 다시 시작할 마음을 비춘다.",
+      "contextNote": "간수가 석방 명령을 전하지만 바울은 다음 절에서 공개적 부당함을 바로잡기를 요구한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "이제 나가 평안히 가라는 말에서 이미 인정하고 고친 일에 나를 계속 가두기보다 지금 할 일을 다시 시작할 실마리를 읽는다.",
+          "friction": "법적 석방과 자책은 다르며 뒤의 바울은 정당한 시정도 요구한다. 잘못의 미수습이나 실제 법적 책임을 무시하는 허가로 쓰지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:16:37",
+      "textSha256": "47f841484e7d31d74b12220cc7f311dcdbe891da9392d26b9916d95c0fd6ee1d",
+      "status": "candidate",
+      "reason": "공개적으로 부당하게 대우한 일을 조용히 덮지 말라고 요구하는 말은 확인된 사실을 바로잡을지의 마음을 비춘다.",
+      "contextNote": "바울이 로마 시민의 권리를 들어 공개 처벌 뒤 비공개 석방에 항의한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "R015",
+          "clue": "공중 앞에서 한 일을 가만히 덮으려 하느냐는 말에서 보낸 기록이 있는 사실을 분명히 밝혀 바로잡을 마음을 읽는다.",
+          "friction": "태형과 시민권의 법적 문제를 현재 동료의 발언과 같게 만들지 않는다. 죄를 정치한다는 옛말은 어렵지만 공개와 비공개의 대비에서 연결을 예상한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:16:38",
+      "textSha256": "beb42239672f370b7ad852baeafde3e47a56f2fe5e219864e4c2bb2f4d3dd7b0",
+      "status": "hold",
+      "reason": "로마 사람이라는 사실에 관리들이 두려워한 반응이다. 사실을 말하면 현재 상대도 두려워할 것이라는 결과를 보탤 수 없다.",
+      "contextNote": "아전들이 바울의 시민권 주장을 관리들에게 보고한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:16:39",
+      "textSha256": "9b13bfbf2c3c6804ed8e7c93f660066a6b55a634681a97b0dded3e2fd7db1971",
+      "status": "hold",
+      "reason": "관리들이 직접 나와 사도들을 데리고 나간 뒤 도시를 떠나 달라고 청한 경과다. 현재의 갈림에는 누가 무엇을 청하는지 바꿔 넣어야 한다.",
+      "contextNote": "관리들이 사도들을 직접 이끌어 내며 도시를 떠나기를 청한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:16:40",
+      "textSha256": "8357535538e00cabef3a14c5b0f7ecf14d4db89d0e65086fdfcfea8c95b5628a",
+      "status": "candidate",
+      "reason": "떠나기 전 형제들을 만나 위로하는 모습은 큰 해결책이 없어도 도움을 건넬지의 마음을 비춘다.",
+      "contextNote": "석방된 바울과 실라가 루디아의 집에서 형제들을 격려하고 떠난다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "만나 보고 위로하고 가는 모습에서 큰 일을 못 해도 작은 도움과 말을 건넬 마음을 읽는다.",
+          "friction": "박해받은 교회의 위로와 일상의 고민은 다르다. 말 한마디로 사정이 다 해결된다는 결과를 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:17:1",
+      "textSha256": "44b18568b0f2bdaabf6f7ea37826e9904a365974ebdadd24ce2689da396da547",
+      "status": "exclude",
+      "reason": "두 도시를 거쳐 회당이 있는 데살로니가에 도착한 지리 소개다. 현재 판단의 관점은 드러나지 않는다.",
+      "contextNote": "빌립보 이후 사도들의 이동과 다음 설교 장소를 소개한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:17:2",
+      "textSha256": "41dacb24072e0c8cdec05586061d70ad4aea86906512a6119b17bd0971daa1e5",
+      "status": "candidate",
+      "reason": "성경을 가지고 강론하는 모습은 모르는 신앙 내용을 다른 사람과 배우고 의논할지의 마음을 비춘다.",
+      "contextNote": "바울이 회당에서 세 안식일 동안 성경을 바탕으로 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C021",
+          "clue": "성경을 함께 놓고 뜻을 배우는 모습에서 혼자 아는 척 넘기기보다 잘 아는 사람에게 설명을 부탁할 마음을 읽는다.",
+          "friction": "강론은 설교와 논증의 맥락이며 질문자가 직접 등장하지는 않는다. 배우는 자리를 구해도 된다는 약한 연결로 충분할 것을 예상한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:17:3",
+      "textSha256": "8cdbd1c7866649862f7e67fc1473cb2d5212f468fde7a1e8480503a8ccc48d0f",
+      "status": "candidate",
+      "reason": "뜻을 풀어 설명하는 모습은 성경을 몰라도 아는 척해야 하는지의 부담을 비춘다.",
+      "contextNote": "바울이 그리스도의 고난과 부활을 성경에서 풀어 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C021",
+          "clue": "뜻을 풀어 전하는 모습에서 모르는 부분은 설명을 부탁하며 배울 수 있다는 실마리를 읽는다.",
+          "friction": "예수의 고난과 부활을 논증한 내용이지 어떤 질문이든 바로 풀린다는 보장은 아니다. 현재 스스로 모른다는 입력에 기대는 학습의 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:17:4",
+      "textSha256": "d64bd2d3c16f1fa650704aac62572ae3e4d5b176ba258ca01100b403e49147f1",
+      "status": "hold",
+      "reason": "여러 계층이 권함을 받아 따랐다는 결과에서 다음 반대 장면으로 이어진다. 현재 누가 어떤 말을 할지의 실마리는 약하다.",
+      "contextNote": "데살로니가에서 유대인 일부와 헬라인들 및 귀부인들이 믿는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:17:5",
+      "textSha256": "89f46854e75719c9d4f97b51d580392047979bbcd308f7327fb016db2d913f90",
+      "status": "candidate",
+      "reason": "시기 때문에 남의 자리에 소동을 일으키는 모습은 친구의 성공 앞에서 비교에 머물지의 마음을 돌아보게 한다.",
+      "contextNote": "시기한 사람들이 불량한 무리를 모아 야손의 집을 공격한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H040",
+          "clue": "시기에서 남을 괴롭히는 방향으로 흐르는 모습에서 비교에 갇히기보다 친구를 축하할 마음을 읽는다.",
+          "friction": "현재 사용자가 폭력을 준비하거나 이미 비방했다는 뜻은 아니다. 강한 부정 예시와 시장을 뜻하는 저자라는 옛말의 마찰을 남긴다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:17:6",
+      "textSha256": "99a2f5db06bf1f64a4f4030201663d834ea89221e9b1dc1f76933547db81fb1c",
+      "status": "hold",
+      "reason": "사도들을 찾지 못하자 다른 이들을 끌고 가 고발하는 문장이 이어진다. 천하를 어지럽힌다는 비난의 진위를 단독으로 알 수 없다.",
+      "contextNote": "야손과 형제들이 관리들에게 끌려가며 사도들에 대한 고발이 시작된다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:17:7",
+      "textSha256": "2d1d9782bb29314f13614c5db942c0abc630923428dc8eb30950cb1820ae79e1",
+      "status": "hold",
+      "reason": "예수의 왕권을 로마 황제에 대한 반역으로 고발한다. 현재 친구에게 믿음을 말할지의 질문을 정치적 반역과 같게 만들지 않는다.",
+      "contextNote": "야손의 환대와 사도들의 말을 황제의 명령 위반으로 몰아간다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:17:8",
+      "textSha256": "b852278e386b282890846bb2bc10688321bd88de77f09e1096d68fd18271cc82",
+      "status": "exclude",
+      "reason": "고발을 듣고 군중과 관리들이 소동한 반응만 기록한다. 소동 자체에서 현재 취할 선택은 나오지 않는다.",
+      "contextNote": "야손 등에 대한 고발에 데살로니가 사람들이 동요한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:17:9",
+      "textSha256": "07d0d1ce1c14b7f902339cb86bce1f7cb215e1b1950d57b869ebc11290d67b8f",
+      "status": "exclude",
+      "reason": "야손 등에게 보를 받고 풀어 준 소송 절차의 기록이다. 보증금의 옛말을 풀어도 현재 갈림의 기준은 없다.",
+      "contextNote": "관리들이 야손 등에게 보증을 받고 놓아 준다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:17:10",
+      "textSha256": "ce6616d359045c699281ceade371da37b03e139f2867bd5879f5223360317258",
+      "status": "hold",
+      "reason": "밤에 다른 도시로 보내고 회당에 들어간 이동이다. 떠남을 위협 회피의 실마리로 읽으려면 앞의 고발과 소동을 보충해야 한다.",
+      "contextNote": "형제들이 바울과 실라를 밤에 베뢰아로 보낸다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:17:11",
+      "textSha256": "ad02b162d32204f851df9d2bc60c78659a004a80ed2625cfdd6da640d16e9c49",
+      "status": "candidate",
+      "reason": "이것이 그런가 직접 살피는 모습은 후기만 믿을지 실제 필요를 알아볼지의 고민과 가깝다.",
+      "contextNote": "베뢰아 사람들이 말씀을 열심히 받아들이면서 성경을 날마다 상고한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H003",
+          "clue": "그런가 하여 직접 살피는 모습에서 추천과 후기만 따라 사기보다 내게 필요한지 더 알아볼 마음을 읽는다.",
+          "friction": "성경을 상고하는 신앙 학습을 제품 조사에 비추는 연결이다. 추천이 거짓이거나 제품이 나쁘다는 판정은 더하지 않는다. 상고는 낯설어도 이것이 그러한가라는 병행 말이 뜻을 돕는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:17:12",
+      "textSha256": "c2cafecf4f338191548d1ec5f7929f2cfb32eae719ce9953b869ff0a2857dca3",
+      "status": "hold",
+      "reason": "믿은 사람들이 많고 여러 남녀가 있었다는 결과로 끝난다. 다양한 사람이 있었다는 정보만으로 현재 환대의 행동 기준은 약하다.",
+      "contextNote": "베뢰아에서 여러 배경의 사람들이 믿기 시작한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:17:13",
+      "textSha256": "975df9c6c948da5fd43b09f4b003eab5640d02b45a3d2d5cde03cd1cdcbf94f2",
+      "status": "exclude",
+      "reason": "다른 도시의 적대자들이 와서 군중을 소동시킨 사건이다. 현재 상대가 같은 악의를 품었다는 가정 없이 선택의 실마리는 없다.",
+      "contextNote": "데살로니가의 적대자들이 베뢰아까지 따라온다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:17:14",
+      "textSha256": "227a391e73aea28a59642a87953503e5c410c219ba2b350ee6316163685e10ce",
+      "status": "hold",
+      "reason": "한 사람을 바다로 보내고 두 사람은 남은 배치만 제시한다. 역할을 나눈 이유와 현재 누가 무엇을 맡을지는 앞뒤에서 보충해야 한다.",
+      "contextNote": "베뢰아의 형제들이 바울을 피신시키고 실라와 디모데는 남는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:17:15",
+      "textSha256": "c578c41215ce295d1797e4c1162c43c341617d79cf356fe8fb68a54a1389d5cb",
+      "status": "candidate",
+      "reason": "동료들에게 속히 와 달라는 말을 전하는 모습은 민폐가 될까 부탁을 감추는 마음을 비춘다.",
+      "contextNote": "바울을 아덴까지 인도한 사람들이 실라와 디모데에게 합류 명령을 전한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "함께할 사람에게 와 달라는 뜻을 전하는 모습에서 혼자 버티기보다 필요한 도움을 부탁할 실마리를 읽는다.",
+          "friction": "명령을 전한 동역 관계와 일상의 부탁은 다르다. 상대에게 반드시 복종할 의무나 여유가 있다고 더하지 않는 요청의 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:17:16",
+      "textSha256": "abd62bcae775b3ca55d2c038e868a5a4d6d185b7d074592c3b77ecabe57710de",
+      "status": "hold",
+      "reason": "우상이 가득한 도시를 보고 분한 마음이 들었다는 감정의 도입이다. 분노 뒤 어떤 행동을 할지는 다음 절에 남는다.",
+      "contextNote": "동료를 기다리는 바울이 아덴의 우상들을 보고 격분한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:17:17",
+      "textSha256": "704d591f8c320363917cc6f6fb6dd3f86d8c7cb9284f73badf710fae6dbfdb94",
+      "status": "hold",
+      "reason": "회당과 시장에서 만나는 사람들과 변론한 활동을 말한다. 친구에게 강요 없이 믿음을 말할지의 고민에는 논쟁의 뉘앙스가 큰 마찰이다.",
+      "contextNote": "바울이 아덴의 유대인과 경건한 사람들 및 시장 사람들과 논의한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:17:18",
+      "textSha256": "884f12c05eed7952ac0da1678fc607658bda54dc9fc7813da304b4f4aacc2d41",
+      "status": "hold",
+      "reason": "낯선 철학 학파와 말장이 및 이방 신에 대한 오해가 길게 묶인다. 예수와 부활에 대한 논쟁의 배경을 풀어야 읽힌다.",
+      "contextNote": "에피쿠로스와 스토아 철학자들이 바울의 전함을 다르게 받아들인다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:17:19",
+      "textSha256": "2501203976e722ca2ef217005aad7d10cc6ced8f4591787d9e407acb60b5f41b",
+      "status": "candidate",
+      "reason": "새 가르침이 무엇인지 알 수 있겠느냐고 묻는 말은 모르는 성경을 아는 척할지의 마음을 비춘다.",
+      "contextNote": "아덴 사람들이 바울을 아레오바고로 데려가 그 가르침을 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C021",
+          "clue": "무엇인지 알 수 있겠느냐고 직접 묻는 모습에서 모르는 뜻을 잘 아는 사람에게 설명해 달라고 할 마음을 읽는다.",
+          "friction": "새 종교를 탐문한 질문과 교회 안의 학습은 다르다. 묻는 일 자체가 믿음 부족의 증거라는 판단을 하지 않는 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:17:20",
+      "textSha256": "6a3f96c2600da0833dbbff198cbca475a7b471d8e3cda26871c1b67ad6ce613f",
+      "status": "candidate",
+      "reason": "무슨 뜻인지 알고자 한다는 솔직한 말은 모르는 것을 감추고 넘길지의 마음과 가깝다.",
+      "contextNote": "아덴 사람들이 바울에게 낯선 가르침의 뜻을 더 묻는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C021",
+          "clue": "무슨 뜻인지 알고 싶다고 말하는 모습에서 아는 척 넘기기보다 직접 설명을 부탁할 실마리를 읽는다.",
+          "friction": "아덴의 호기심과 신앙 학습의 동기는 다르지만 모름을 질문으로 표현하는 구조가 분명해 충분할 연결을 예상한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:17:21",
+      "textSha256": "f8cbcc4ae4ebf5f0127154788803c7dd6b6752438ada8d73d889dbc1c8182c09",
+      "status": "candidate",
+      "reason": "새로운 것을 말하고 듣는 일 외에는 시간을 쓰지 않는 모습은 새 소식 확인에 과제 시간을 놓치는 고민과 가깝다.",
+      "contextNote": "아덴 사람들과 체류 외국인들의 새 이야기 취향을 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C023",
+          "clue": "새것을 듣는 데만 시간을 쓰는 모습에서 계속 새 소식을 확인하기보다 알림을 잠시 끄고 과제를 시작할 마음을 읽는다.",
+          "friction": "고대의 담론 문화를 짧은 영상과 소식 확인에 비춘다. 모든 소식이 해롭다는 일반 법칙 없이 실제 과제를 미루는 입력에만 대조한 예상이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:17:22",
+      "textSha256": "ab5e1b886f2772d85bc1feab4fb90842ec439830890f44eb26e4620c493e616f",
+      "status": "hold",
+      "reason": "종교성이 많다는 관찰은 칭찬과 비판의 뉘앙스를 뒤의 연설에서 가려야 한다. 현재의 믿음 선택에 단독 기준이 되기 어렵다.",
+      "contextNote": "바울이 아레오바고 연설을 시작하며 아덴의 종교성을 언급한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:17:23",
+      "textSha256": "780cda37a4d208c0277c22cd5ab410eb5df7d7478041d59e2d93eb0f23d83f4a",
+      "status": "hold",
+      "reason": "알지 못하는 신의 제단과 그 대상을 알려 주겠다는 연설의 시작이다. 어떤 신과 관계되는지 다음 창조주 설명이 필요하다.",
+      "contextNote": "바울이 아덴의 제단을 출발점으로 하나님을 말한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:17:24",
+      "textSha256": "99d2e190daf32c8c3ad9b564bb1c7fa2ba324364466b3973e49d7d79393c912d",
+      "status": "candidate",
+      "reason": "창조주가 손으로 지은 전에만 계시는 분이 아니라는 말은 예배당에 못 가면 기도를 넘길지의 마음을 비춘다.",
+      "contextNote": "바울이 창조주를 사람이 세운 신전에 가둘 수 없는 분으로 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C020",
+          "clue": "손으로 지은 건물에 갇히지 않는 하나님이라는 말에서 예배당 밖인 지금 방에서도 기도할 마음을 읽는다.",
+          "friction": "주재와 전이라는 옛말이 있으나 손으로 지었다는 표현이 건물의 뜻을 돕는다. 공동 예배가 무가치하다는 결론 없이 장소의 부담을 덜 연결을 예상한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:17:25",
+      "textSha256": "2b553d2209debaf4c7cb1e1677de41de25d2fe6f4460154edeb500999a156739",
+      "status": "candidate",
+      "reason": "하나님이 무엇이 부족해 사람의 섬김을 받아야 하는 분이 아니라는 말은 감당 못할 헌금을 해야 할 부담을 비춘다.",
+      "contextNote": "바울이 창조주를 인간의 공급에 의존하는 신으로 보지 말라고 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "R019",
+          "clue": "하나님의 부족을 채우기 위해 내야 하는 것이 아니라는 말에서 생활비를 무리해 내기보다 감당할 작은 금액으로 감사를 표현할 실마리를 읽는다.",
+          "friction": "헌금 자체를 무가치하다고 하는 말은 아니다. 지금 생활비가 빠듯하다는 실제 입력에 대조해 금액으로 하나님의 필요를 채워야 한다는 부담을 덜 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:17:26",
+      "textSha256": "7d6cdcd03b80da8f239c2bad16a36d227ec21c7855eebcaa9bb9c59823abb14f",
+      "status": "candidate",
+      "reason": "모든 족속을 한 혈통으로 만들었다는 말은 국적과 문화 때문에 선을 긋는 마음을 비춘다.",
+      "contextNote": "바울이 모든 민족의 공통 근원과 거주 시대 및 경계를 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C022",
+          "clue": "한 혈통으로 만든 모든 족속이라는 말에서 나와 다른 문화를 이유로 별개 사람처럼 나누지 않고 함께할 마음을 읽는다.",
+          "friction": "뒤의 경계와 시대 설정을 현재 사람을 분리해야 한다는 명령으로 옮기지 않는다. 구체 새 사람의 마음이나 믿음을 알아낸 판정도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:17:27",
+      "textSha256": "d4f6977375129c43db9e2e7cbe23f9431dd635e4bbc7718c4f6687ebc6378a26",
+      "status": "candidate",
+      "reason": "하나님이 각 사람에게서 멀리 떠나 있지 않다는 말은 예배당에 못 가 기도를 미룰지의 마음을 비춘다.",
+      "contextNote": "창조주가 사람들로 하나님을 찾게 하며 가까이 계심을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C020",
+          "clue": "각 사람에게서 멀리 계시지 않다는 말에서 지금 있는 방에서도 하나님을 찾아 기도할 실마리를 읽는다.",
+          "friction": "하나님을 더듬어 찾는다는 표현이 있지만 장소의 거리를 묻는 부담에는 가까움이 분명하다. 교회 공동체가 필요 없다는 결론은 더하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:17:28",
+      "textSha256": "aa6215f04bc26c23e96991556620bed0c154c14b2cc9460aab35483b339276fb",
+      "status": "hold",
+      "reason": "하나님을 힘입어 존재하며 그의 소생이라는 시인 인용이다. 기동과 소생의 뜻 및 하나님과 인간의 관계를 풀어야 현재의 실마리가 잡힌다.",
+      "contextNote": "바울이 아덴 시인들의 표현을 빌려 창조주와 인간의 관계를 설명한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:17:29",
+      "textSha256": "aa15f5738cf9936bff2d47986ca41279ac6f82a58458cd5b420dc72d520160b6",
+      "status": "hold",
+      "reason": "하나님을 금은돌의 조형물과 같게 여길 수 없다는 논증이다. 신의 소생이라는 앞말과 형상 비판을 현재의 점이나 의견 권위로 옮기는 마찰이 크다.",
+      "contextNote": "공통 근원을 근거로 인간 기술이 만든 우상을 신과 동일시하지 말라고 한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:17:30",
+      "textSha256": "411b01181bfc028336b99b11f87c43f1af3b0f7bc0e45e19f42b32109f8e7766",
+      "status": "candidate",
+      "reason": "어디든지 회개하라는 말은 실제 잘못을 알고도 사과를 미루는 마음을 비춘다.",
+      "contextNote": "바울이 알지 못하던 시대와 지금의 회개 요청을 대조한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G10",
+          "clue": "지금 회개하라는 말에서 먼저 심하게 한 말을 인정하고 사과를 시작할 실마리를 읽는다.",
+          "friction": "하나님께 대한 회개를 친구에게 하는 사과와 같게 만들지 않는다. 실제 잘못이 명시된 고민에만 대조하며 사과 수용을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:17:31",
+      "textSha256": "4b6f9d922941524c197007f4ed642a207ed7ae967a501ab5388f3ec16fa952b3",
+      "status": "hold",
+      "reason": "정한 사람과 심판 날 및 부활 증거를 한 번에 설명한다. 그 사람이 누구인지 모르면 공의라는 단어만으로 현재 선택을 비추기 어렵다.",
+      "contextNote": "바울이 예수의 부활을 장차 심판의 증거로 제시한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:17:32",
+      "textSha256": "793867f29ec6aceef6eb3aaac9f4bcaca1ebb4eef32028ea30646dccca968203",
+      "status": "candidate",
+      "reason": "같은 말을 듣고 조롱하는 이도 더 듣겠다는 이도 있는 모습은 믿음을 말하기 전 반응을 걱정하는 마음을 비춘다.",
+      "contextNote": "부활을 들은 아덴 회중의 반응이 갈린다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C019",
+          "clue": "듣는 사람마다 반응이 다를 수 있다는 모습에서 반응을 모두 통제하려 하기보다 질문받은 내 믿음을 솔직히 말할 마음을 읽는다.",
+          "friction": "친구가 조롱하거나 회심한다는 실제 반응은 모른다. 강요나 성공 보장 없이 다양한 반응을 감수하는 말하기의 연결을 예상한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:17:33",
+      "textSha256": "43ca7b2f3dfb4f25c53d54d369a7306621afd889316fed38f25e004161544743",
+      "status": "exclude",
+      "reason": "바울이 그들 가운데서 떠났다는 짧은 이동뿐이다. 떠난 이유와 지금의 갈림에 관한 관점은 단독으로 없다.",
+      "contextNote": "아레오바고 연설과 회중의 반응 뒤 바울이 자리를 떠난다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:17:34",
+      "textSha256": "b15b15ff22aab497a936c45d60504d19d387a0a91fc55444d4f65e84acc27501",
+      "status": "candidate",
+      "reason": "몇 사람이라도 가까이하며 믿음을 나누는 모습은 작은 인원으로 모임을 시작할지의 마음을 비춘다.",
+      "contextNote": "아덴에서 믿은 소수의 이름과 구성을 소개한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "R027",
+          "clue": "많은 사람이 아니어도 몇 사람이 함께한 모습에서 준비된 세 명끼리 지금 모임을 시작할 마음을 읽는다.",
+          "friction": "명단과 관원이라는 낯선 말이 있고 종교적 공동체의 장면이다. 더 큰 성장을 보장하지 않으며 실제 인력 부족을 작은 수면 언제나 충분하다고 덮지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:18:1",
+      "textSha256": "3438d39d553c0497c23bb2b341d0ae1eca00fb8fd3bc5bfb10e444937d28d6e7",
+      "status": "exclude",
+      "reason": "아덴에서 고린도로 옮겼다는 지역 이동의 기록이다. 현재 선택의 방향을 비출 이유는 나오지 않는다.",
+      "contextNote": "바울의 고린도 사역이 시작되는 지리적 전환이다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:18:2",
+      "textSha256": "43fed60824c5a47b766f3d5cae2dde6594dc22e74cc76e89f5f76529af5e1bfd",
+      "status": "exclude",
+      "reason": "새 인물의 출신과 로마 추방령 및 부부의 이동을 소개한 배경이다. 현재 갈림에 닿는 관점보다 긴 역사 설명이 중심이다.",
+      "contextNote": "바울이 고린도에서 아굴라와 브리스길라를 만난다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:18:3",
+      "textSha256": "fa5ce83793ad068740ac7d299bad7ed5241bf479034701e9e8022bb94dae713e",
+      "status": "candidate",
+      "reason": "같은 일을 하며 함께 거하는 구체 모습은 혼자의 편함과 함께 도울 관계 사이의 마음을 비춘다.",
+      "contextNote": "바울이 같은 장막 제작 일을 하는 부부와 함께 지내며 일한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "R001",
+          "clue": "함께 거하며 일하는 모습에서 혼자만의 편함을 지키기보다 마음 맞는 사람과 서로 도울 관계를 시작할 실마리를 읽는다.",
+          "friction": "기존 부부와 바울의 동업이지 새 연애나 결혼의 명령은 아니다. 상대의 동의와 앞으로의 행복을 보장하지 않는 공동생활의 개인적 비유다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:18:4",
+      "textSha256": "46ce1b89c47cdca1361c2895b8756d53f779af7a208409b52c107d920e20874c",
+      "status": "candidate",
+      "reason": "사람들에게 말하며 권면하는 모습은 믿음을 숨길지 솔직히 나눌지의 마음을 비춘다.",
+      "contextNote": "바울이 안식일마다 회당에서 유대인과 헬라인에게 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C019",
+          "clue": "믿음을 말로 나누는 모습에서 친구가 물은 이유를 얼버무리기보다 강요 없이 내 경험과 믿음을 전할 실마리를 읽는다.",
+          "friction": "회당의 정기적 강론과 개인 질문은 다르다. 친구의 수용이나 설득을 보장하는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:18:5",
+      "textSha256": "e5f078f5b34415d79095225ea89ff6b347714caa46dc9cfbc889f5b453cf6597",
+      "status": "candidate",
+      "reason": "예수가 그리스도임을 밝히 전하는 모습은 믿음 질문 앞에서 솔직히 말할 마음을 비춘다.",
+      "contextNote": "동료들이 합류한 뒤 바울이 유대인들에게 예수를 증언한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C019",
+          "clue": "밝히 증거하는 모습에서 친구가 물은 내 믿음을 피하지 않고 솔직히 이야기할 실마리를 읽는다.",
+          "friction": "사도의 공적 증언을 현재 내가 특별 계시를 받은 자라는 권위로 바꾸지 않는다. 실제 질문에 대답하는 말하기로 대조한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:18:6",
+      "textSha256": "2e9ecaa8d2e2ee846803a467c225cf47c59e116d1c835e512d9497cd84f4d2b9",
+      "status": "hold",
+      "reason": "피가 머리로 돌아간다는 말과 나는 깨끗하다는 선언은 피의 책임이라는 관용구와 복음 거절의 문맥을 알아야 한다.",
+      "contextNote": "훼방을 받은 바울이 이방인에게 향하겠다고 선언한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:18:7",
+      "textSha256": "03d07dda42a8b2ae8f8bd9075d218b1f6e124ea14623c799cdff3b9d0bc482cc",
+      "status": "exclude",
+      "reason": "새로 들어간 집 주인의 이름과 신앙 및 회당 옆 위치를 소개한다. 집에 들어갔다는 사실 외에 선택의 기준은 없다.",
+      "contextNote": "바울이 회당 옆 디도 유스도의 집으로 옮긴다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:18:8",
+      "textSha256": "05e44e8b99a45dba54aa0ef145cb57b72409352a123fe5ad14c83d9d0c343c67",
+      "status": "candidate",
+      "reason": "말씀을 듣고 믿으며 세례를 받는 모습은 자격을 갖출 때까지 신앙의 시작을 미룰지의 마음을 비춘다.",
+      "contextNote": "그리스보의 집과 많은 고린도 사람들이 믿고 세례를 받는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C018",
+          "clue": "듣고 믿고 세례받는 순서에서 먼저 더 나아질 때를 기다리기보다 믿음과 세례 준비를 시작할 마음을 읽는다.",
+          "friction": "가족의 믿음까지 자동으로 생긴다는 보장은 아니다. 실제 잘못의 인정과 고침을 생략시키지 않는 신앙 시작의 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:18:9",
+      "textSha256": "ba5ecbb709e74415a12ca622872868bdc572688557bd371e40f91e7ee58e6edf",
+      "status": "candidate",
+      "reason": "두려워하지 말고 잠잠하지 말고 말하라는 명료한 말은 말할까 참을까의 망설임을 비춘다.",
+      "contextNote": "바울이 환상에서 주의 격려를 받아 고린도에서 계속 전한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C019",
+          "clue": "잠잠하지 말고 말하라는 말에서 친구의 질문에 내 믿음을 솔직히 이야기할 마음을 읽는다.",
+          "friction": "바울에게 주어진 환상의 말을 현재 서비스가 직접 받은 지시라고 설명하지 않는다. 강요나 친구 반응의 보장 없이 읽는 개인적 연결이다.",
+          "expectedEnough": "yes"
+        },
+        {
+          "scenarioId": "H026",
+          "clue": "두려워 잠잠하기보다 말하라는 말에서 서운함을 숨기기보다 부드럽게 이야기할 마음을 읽는다.",
+          "friction": "전도의 두려움과 친구 갈등은 다르다. 말하면 싸움이 안 난다는 결과나 반드시 거친 말을 해도 된다는 허가는 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:18:10",
+      "textSha256": "0ea1b438a8ea7dde77244c9c6e8e7aa32b0699cc7de732d66a69aaf007bf672d",
+      "status": "candidate",
+      "reason": "함께 있으니 두려움을 덜라는 약속의 말은 혼자 행사에 가는 어색함을 비춘다.",
+      "contextNote": "고린도에서 바울에게 주어진 동행과 보호의 격려다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H017",
+          "clue": "함께 있다는 말에서 사람을 동반하지 못했다고 포기하기보다 가보고 싶은 행사에 나설 마음을 읽는다.",
+          "friction": "입력은 실제 위해가 아닌 어색함의 두려움이다. 현장의 안전이나 환대할 사람 수를 예측하지 않고 이 특정 약속을 의료와 물리적 위험에 보장으로 옮기지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:18:11",
+      "textSha256": "612a7132f0a3a2229608bfdb9c6f87918e6d3dca669db3067123cf5415c8e4cf",
+      "status": "candidate",
+      "reason": "오랜 기간 한곳에서 맡은 일을 계속하는 모습은 남의 빠른 성과 때문에 계획을 급히 바꿀지의 마음을 비춘다.",
+      "contextNote": "바울이 고린도에서 일 년 육 개월 동안 가르친다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H046",
+          "clue": "일 년 육 개월 동안 그 자리에서 가르치는 모습에서 당장의 속도 비교만으로 계획을 급히 바꾸지 않을 실마리를 읽는다.",
+          "friction": "현재 계획이 옳다고 검증됐거나 같은 기간 뒤 성과가 생긴다는 뜻은 아니다. 시간의 지속을 속도 압박에 비추는 개인적 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:18:12",
+      "textSha256": "5fc74c659719c1e1fd84c520564a6e7251b0be4a7df93d237609a280bc522a85",
+      "status": "exclude",
+      "reason": "총독의 취임 시점과 바울을 재판에 끌고 온 경과를 기록한다. 어떤 판단을 할지는 다음 고발과 답변에 남는다.",
+      "contextNote": "갈리오 총독 앞에서 고린도 유대인들이 바울을 고발한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:18:13",
+      "textSha256": "0c4b19010689b3772fc68789ceb31290290308d38f231e898d481da6e2b04c4b",
+      "status": "hold",
+      "reason": "율법을 어기며 하나님을 공경하도록 권했다는 고발의 내용이다. 어느 법과 어떤 위반인지의 문맥이 없으면 현재 행동의 기준이 되기 어렵다.",
+      "contextNote": "유대인들이 갈리오에게 제기한 종교적 고발이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:18:14",
+      "textSha256": "abfc13a98af33f35b304b84a8936b2491db4eea686407200de8794933cb03627",
+      "status": "hold",
+      "reason": "부정한 행동이라면 말을 들어주겠다는 조건의 앞부분이다. 지금의 논쟁을 어떻게 다룰지는 다음 절에 이어져 단독 연결이 약하다.",
+      "contextNote": "갈리오가 바울의 답변 전에 고발자들에게 관할의 기준을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:18:15",
+      "textSha256": "c85540bc6326d5bc63f33a123ace53d32de676d237309bac33c3d4d8838d2139",
+      "status": "candidate",
+      "reason": "스스로 처리하라며 모든 문제의 재판장이 되려 하지 않는 말은 남의 사소한 다툼에 끼어들지의 마음을 비춘다.",
+      "contextNote": "갈리오가 종교 내부의 명칭과 법 문제는 관여하지 않겠다고 말한다. 뒤의 폭행 방관까지 모범으로 승인하지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B023",
+          "clue": "나는 이런 일의 재판장이 되기를 원치 않는다는 말에서 부탁받지 않은 남의 사소한 말다툼에는 한발 물러날 실마리를 읽는다.",
+          "friction": "통치자의 관할 판단과 친구 사이의 다툼은 다르다. 다음의 폭행처럼 실제 위해를 방관할 허가로 확대하지 않고 명시된 사소한 문제에만 대조한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:18:16",
+      "textSha256": "1bef4bdc6aad261cc4f9659dec3542c2ebf12128d0c5ec52d2335ebbebc7180f",
+      "status": "exclude",
+      "reason": "재판 자리에서 쫓아냈다는 짧은 결과로 대상과 이유가 앞말에 의존한다. 현재 취할 선택의 독립된 관점은 없다.",
+      "contextNote": "갈리오가 유대인 고발자들을 법정에서 내보낸다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:18:17",
+      "textSha256": "2d4440b5301e35f043ae6f50de61a2c742bb356b927af4dc4b35c938ffd70cef",
+      "status": "hold",
+      "reason": "사람들이 회당장을 때리고 총독은 관여하지 않았다는 장면이다. 폭행 방관을 평범한 말다툼의 거리 두기와 같게 만들지 않는다.",
+      "contextNote": "소스데네가 법정 앞에서 구타당하지만 갈리오가 상관하지 않는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:18:18",
+      "textSha256": "7f6b9510bd72a8ccc6cfcbff7c82feef5a1600ec8b8a30071354b12c0aeddd9e",
+      "status": "hold",
+      "reason": "귀환 여정과 동행자 및 서원에 따른 삭발이 함께 묶인다. 떠난다는 부분만 떼지 않으면 서원 의식을 풀어야 현재 고민에 닿는다.",
+      "contextNote": "바울이 여러 날 뒤 떠나며 겐그레아에서 서원 때문에 머리를 깎는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:18:19",
+      "textSha256": "f72f95531c9f86e076670c921a72bf6daf20aadcbc49b8d3f741428f16b42fc5",
+      "status": "hold",
+      "reason": "동행자를 남겨 두고 회당에서 변론한 이동의 기록이다. 왜 남겼는지나 어떤 말을 할지가 없고 논쟁의 뉘앙스도 크다.",
+      "contextNote": "바울이 에베소에 도착해 회당에서 유대인들과 논의한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:18:20",
+      "textSha256": "f650fb41d216039bbdada7d499801ad30bc8c6e6ddf196c32d1c72524ddeeaec",
+      "status": "candidate",
+      "reason": "여러 사람이 더 머물기를 청해도 거절한 모습은 이미 과한 부담에 새 부탁을 받을지의 마음을 비춘다.",
+      "contextNote": "에베소 사람들이 더 머물러 달라고 하지만 바울은 수락하지 않는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H044",
+          "clue": "여러 사람이 청한다고 모두 허락하지는 않는 모습에서 이번 부탁은 내 한계를 말하며 거절할 실마리를 읽는다.",
+          "friction": "바울이 떠난 이유를 사용자의 피로와 동일시하지 않는다. 이미 지친 상태와 아직 수락하지 않은 새 부탁이라는 입력에 대조한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:18:21",
+      "textSha256": "730a5e2e24358bc5feec09b53edb6e15524ccee56b31704db2051ab7d6493d81",
+      "status": "candidate",
+      "reason": "만일 뜻이면 돌아오겠다는 조건부의 말은 모르는 일정을 무조건 약속할지의 마음을 비춘다.",
+      "contextNote": "바울이 하나님의 뜻이라는 조건을 말하고 에베소를 떠난다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C024",
+          "clue": "미래의 돌아옴을 조건 없이 확답하지 않는 모습에서 일정이 맞으면 가고 싶다고 솔직히 조건을 밝힐 실마리를 읽는다.",
+          "friction": "현재 수업 일정이 하나님의 금지나 허락이라고 판정하지 않는다. 이미 한 약속을 마음대로 취소하는 경우와도 구별하는 불확실한 미래의 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:18:22",
+      "textSha256": "547db44658f71d9f3a4d68d918e3c87de6aaba23a1e58b7c1d797e329ca03cf8",
+      "status": "candidate",
+      "reason": "교회의 안부를 묻고 가는 실제 행동은 적응이 어렵다는 새 사람을 챙길지의 마음을 비춘다.",
+      "contextNote": "바울이 상륙한 뒤 교회의 안부를 살피고 안디옥으로 내려간다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C005",
+          "clue": "다음 일로 가기 전 안부를 묻는 모습에서 행사 성과만 늘리기보다 새 부원의 형편을 살필 실마리를 읽는다.",
+          "friction": "여행 중 교회 방문을 동아리에 비추는 연결이다. 안부만 물으면 모든 적응 문제가 해결된다는 보장은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:18:23",
+      "textSha256": "ef585b1eb17f0345a47519e7fb014d78fd1617aad38a841b787959ece29ea955",
+      "status": "hold",
+      "reason": "여러 지역을 다니며 제자를 굳게 했다는 요약이다. 구체적으로 어떤 돌봄과 행동을 했는지는 앞뒤에서 채워야 한다.",
+      "contextNote": "바울이 갈라디아와 브루기아의 제자들을 다시 방문한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:18:24",
+      "textSha256": "f95f2f05045d2a9fd8fe2a70fb44a41d5db1ec8751cc854d18d33099b3808f57",
+      "status": "hold",
+      "reason": "아볼로의 출신과 학문 및 성경 능력을 소개한다. 현재 사용자의 역량도 그렇다는 사실 없이 지원의 확신으로 만들기 어렵다.",
+      "contextNote": "에베소에 온 아볼로의 인물 배경이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:18:25",
+      "textSha256": "8a805527be043d4b209d138bdbb8d983db257ff4d7410df322d6d63e6d80ac09",
+      "status": "hold",
+      "reason": "열심히 가르치지만 요한의 세례만 알았다는 지식의 한계가 핵심이다. 어떤 부분을 더 배워야 하는지는 다음 설명이 필요하다.",
+      "contextNote": "아볼로가 예수를 자세히 가르치나 세례 이해는 아직 부분적이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:18:26",
+      "textSha256": "23dde29d43eb3eb58a966afa26fc7d82d61feb8c7a4362b32787136dc8c678f2",
+      "status": "candidate",
+      "reason": "이미 담대히 말하는 사람에게도 더 자세히 뜻을 풀어 주는 모습은 모르는 부분과 교정을 부끄러워할지의 마음을 비춘다.",
+      "contextNote": "브리스길라와 아굴라가 아볼로를 데려가 하나님의 도를 더 정확히 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "잘하는 사람도 더 자세한 설명을 받는 모습에서 실제 놓친 실수를 인정하고 고칠 마음을 읽는다.",
+          "friction": "세례 이해의 보완과 팀 업무 실수는 다르다. 지적이 항상 옳다는 규칙이 아니라 실제 실수가 명시된 고민에 대조한다.",
+          "expectedEnough": "yes"
+        },
+        {
+          "scenarioId": "C021",
+          "clue": "하나님의 뜻을 더 자세히 풀어 배우는 모습에서 모르는 대목의 설명을 부탁할 실마리를 읽는다.",
+          "friction": "질문자가 먼저 요청한 장면은 아니지만 배움의 보완이 드러난다. 모든 뜻이 즉시 풀릴 것이라는 보장은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:18:27",
+      "textSha256": "05de864ee57f05947dec0858a6d430426c20342e0f19948132c5fcfaff1aabb9",
+      "status": "candidate",
+      "reason": "가고 싶어 나아가서 다른 이들에게 유익을 주는 모습은 부족할까 새 일에 지원을 미루는 마음을 비춘다.",
+      "contextNote": "형제들이 아볼로를 격려하고 추천해 아가야의 신자들에게 도움을 주게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "가고 싶은 길로 나아가 도움을 주는 모습에서 남보다 못할까만 생각하기보다 지원해 볼 마음을 읽는다.",
+          "friction": "현재 이미 추천받거나 능력이 검증됐다는 사실은 아니다. 선발과 성과를 보장하지 않는 도전의 개인적 비유로 충분할 연결을 예상한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:18:28",
+      "textSha256": "7d034072d552b144bb0cac69b014e6c623544e566e7855855062b659b117e68a",
+      "status": "hold",
+      "reason": "성경으로 예수를 증거하여 상대 말을 이겼다는 논증의 결과다. 친구에게 믿음을 나눌지의 고민을 이기고 지는 논쟁으로 바꾸는 마찰이 크다.",
+      "contextNote": "아볼로가 공적으로 예수를 그리스도로 논증해 유대인들의 주장을 반박한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:19:1",
+      "textSha256": "b3f3dd9fdcc76cb952456bf683abaca9b27318709ad4c137576758e19d5340da",
+      "status": "exclude",
+      "reason": "아볼로와 바울의 위치 및 제자들과의 만남을 소개한다. 어떤 질문과 응답이 오갈지는 뒤에 남는다.",
+      "contextNote": "바울이 에베소에서 제자들을 만난다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:19:2",
+      "textSha256": "7cafe44ac4fa3a6de5f0fbc77148e499c33dbf050736f402fe1ac70758317671",
+      "status": "candidate",
+      "reason": "듣지 못했다고 모르는 것을 솔직히 말하는 모습은 신앙이 부족해 보일까 아는 척할지의 마음을 비춘다.",
+      "contextNote": "바울이 성령을 받았는지 묻자 제자들이 성령이 있다는 것도 듣지 못했다고 답한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C021",
+          "clue": "듣지도 못했다고 솔직히 답하는 모습에서 모르는 대목을 감추기보다 설명을 부탁할 마음을 읽는다.",
+          "friction": "성령과 세례의 특수한 배경을 현재 믿음의 수준 진단으로 쓰지 않는다. 모름을 드러내고 배움을 시작하는 구조의 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:19:3",
+      "textSha256": "527f27b65ca9525529282351d67e166124007440bee2e1ac2ffda6e5adea55fd",
+      "status": "hold",
+      "reason": "어느 세례를 받았는지 묻고 요한의 세례라고 답한 문답이다. 그 세례의 의미와 다음 설명 없이는 선택의 관점이 드러나지 않는다.",
+      "contextNote": "에베소 제자들이 알고 있는 세례의 범위를 확인한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:19:4",
+      "textSha256": "4d3be8e65b6feb1ef0dafbaac72ff2be764a310cc902f5dc51f7f67e21134e06",
+      "status": "candidate",
+      "reason": "회개의 세례와 예수를 믿으라는 말은 과거 잘못 때문에 신앙의 시작을 미루는 마음을 비춘다.",
+      "contextNote": "바울이 요한의 세례가 뒤에 오시는 예수의 믿음으로 이어짐을 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C018",
+          "clue": "회개하며 예수를 믿으라는 말에서 잘못을 인정하고 지금 믿음과 세례 준비를 시작할 실마리를 읽는다.",
+          "friction": "요한의 역사적 역할과 오늘의 준비 절차는 다르다. 신앙 시작으로 실제 잘못의 수습이 불필요해진다는 허가는 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:19:5",
+      "textSha256": "150de299b8264c01393d2a35826be47518c51df0d05bd7e07cc18e341b0ee0ee",
+      "status": "candidate",
+      "reason": "말씀을 듣고 예수의 이름으로 세례를 받는 행동은 자격을 완성할 때까지 미룰지의 마음을 비춘다.",
+      "contextNote": "바울의 설명을 들은 에베소 제자들이 예수의 이름으로 세례를 받는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C018",
+          "clue": "듣고 세례받는 모습에서 먼저 더 완벽해질 때만 기다리기보다 신앙생활과 준비를 시작할 마음을 읽는다.",
+          "friction": "요한의 세례와 구별되는 사건이며 현재의 모든 준비 조건이 이미 끝났다고 판단하지 않는다. 실제 공동체의 준비 절차를 건너뛰라는 명령이 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:19:6",
+      "textSha256": "ddf5c72f8e35558ca890f22b5a9e2482d319a94e6d3ca39dcbc56570e9bf976e",
+      "status": "hold",
+      "reason": "안수 뒤 성령과 방언 및 예언이 나타난 사건이다. 현재 믿음의 자격을 같은 현상 유무로 진단하게 될 마찰이 크다.",
+      "contextNote": "바울의 안수 뒤 에베소 제자들에게 성령이 임한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:19:7",
+      "textSha256": "d7d0fb5914263fe8f190bc1f4b2892dbd18f3480ea2c92f5e61ce6d2044db1c0",
+      "status": "exclude",
+      "reason": "모인 사람이 열둘쯤이었다는 인원 기록뿐이다. 그 수가 현재 모임의 충분함을 정하는 기준은 아니다.",
+      "contextNote": "앞의 세례와 성령 사건에 참여한 사람 수를 말한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:19:8",
+      "textSha256": "bf0f41bef1f593396be934349d0f20a9ff87adc6f616e68fbaa351546b539254",
+      "status": "candidate",
+      "reason": "담대히 말하고 권면하는 모습은 믿음을 조심스럽게 감출지의 마음을 비춘다.",
+      "contextNote": "바울이 회당에서 석 달 동안 하나님 나라를 전하고 논의한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C019",
+          "clue": "담대히 믿음을 말하는 모습에서 친구가 물은 나의 믿음을 얼버무리지 않고 솔직히 전할 실마리를 읽는다.",
+          "friction": "석 달의 회당 강론을 현재의 반복 설득이나 강요 의무로 옮기지 않는다. 이미 질문받은 개인 대화에 한정한 말하기의 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:19:9",
+      "textSha256": "858bee7b7c31f2c92dac9a3d6fc0ed20a010ed55880f6a23ae6c787d5bea0440",
+      "status": "candidate",
+      "reason": "계속 비방하는 자리에서 떠나 다른 자리로 옮기는 행동은 부드러운 말 뒤에도 반복되는 관계에 거리를 둘지의 마음을 비춘다.",
+      "contextNote": "바울이 반대하는 이들을 떠나 제자들과 두란노 서원에서 강론한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G11",
+          "clue": "계속 같은 자리에 매이지 않고 떠나 다른 자리에서 이어가는 모습에서 또 넘어가기보다 관계의 거리를 바꿀 실마리를 읽는다.",
+          "friction": "신앙의 순종과 친구의 약속 이행은 다르다. 현재 친구가 실제로 비방했다거나 나에게 복종할 의무가 있다는 뜻을 더하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:19:10",
+      "textSha256": "7ad9873ef4b96a4efd6a839f384795d4df69279aa6251b67f8d8dbe1aa7273cc",
+      "status": "candidate",
+      "reason": "두 해 동안 이어 간 과정은 남의 빠른 성과와 비교해 계획을 급히 바꿀지의 마음을 비춘다.",
+      "contextNote": "두란노 서원의 가르침이 두 해 동안 이어져 넓은 지역에 말씀이 전해진다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H046",
+          "clue": "두 해 동안 이어 간 모습에서 지금 당장 남보다 느리다고 계획을 급히 버리기보다 지속할 마음을 읽는다.",
+          "friction": "현재 계획의 정답이나 두 해 뒤의 성과를 보장하지 않는다. 지속의 시간이라는 관점을 속도 비교에 비추는 예상이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:19:11",
+      "textSha256": "ae4a7c51595a2049d75e879dcf0f7c1b0f220e609746ae23d80594bb85b81026",
+      "status": "hold",
+      "reason": "희한한 능이라는 옛 표현으로 다음 기적을 소개한다. 구체적인 일의 내용이 없고 현재 내 능력을 확인하는 말로 옮길 수 없다.",
+      "contextNote": "하나님이 바울을 통해 행한 특별한 능력을 소개한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:19:12",
+      "textSha256": "8673da83e02a3ae09f5b6e33618bae127f3b88131a9ce31134943c04a4cc98a5",
+      "status": "hold",
+      "reason": "손수건과 앞치마를 얹자 병과 귀신이 떠났다는 특정 치유 방식이다. 작은 도움의 비유로만 쓰기에는 물건의 치유 능력이 절 전체를 지배한다.",
+      "contextNote": "바울의 소지품을 통한 치유를 기록한다. 현재 치료의 대안이나 효능 보증으로 삼지 않는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:19:13",
+      "textSha256": "a8a0c325439961568452283c830ca18c470779af2678ffbc3f4de0f9ae88875e",
+      "status": "candidate",
+      "reason": "예수의 이름을 빙자해 명하는 모습은 받은 지시가 없는 내 판단에 하나님의 권위를 붙일지의 마음을 비춘다.",
+      "contextNote": "일부 유대 마술사들이 바울이 전하는 예수의 이름을 이용해 축귀를 시도한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C001",
+          "clue": "다른 권위를 빙자해 명하는 모습에서 내 판단을 분명한 하나님의 뜻으로 꾸미지 않고 내 생각이라고 말할 실마리를 읽는다.",
+          "friction": "축귀의 실패 사례를 오늘의 모든 예수 이름의 기도에 대한 금지로 확대하지 않는다. 실제 받은 말씀이 없다는 입력에만 대조한 부정 예시다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:19:14",
+      "textSha256": "5d7de5728275c401b4f5a492b456cb37ccae46660350f391242d5b12d7220093",
+      "status": "exclude",
+      "reason": "스게와의 일곱 아들도 같은 일을 했다는 참여자 소개다. 이 일의 내용이 앞말에 의존하고 독립된 선택의 관점은 없다.",
+      "contextNote": "축귀를 시도한 제사장의 아들들을 소개한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:19:15",
+      "textSha256": "87cc67a8e9821efdc5b5260f91c9e07a7ebea0b9faabe748c78fdc04c8344254",
+      "status": "candidate",
+      "reason": "빌린 이름과 실제 발화자의 관계를 되묻는 너희는 누구냐는 말은 근거 없는 권위 주장 앞의 마음을 비춘다.",
+      "contextNote": "악귀가 예수와 바울은 알지만 시도한 이들은 누구냐고 되묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C001",
+          "clue": "그 이름은 알지만 너희는 누구냐는 되물음에서 내 판단을 하나님의 분명한 말처럼 빌려 말하지 않을 실마리를 읽는다.",
+          "friction": "악귀의 발화라는 이유만으로 버리지 않되 이를 서비스의 신적 판결로 쓰지도 않는다. 현재 실제 계시가 없다는 조건의 개인적 반문으로 읽는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:19:16",
+      "textSha256": "9a996818daf6da39b9141288fc38d83c1af2d2a88ac6e38762a5d3db42faba00",
+      "status": "exclude",
+      "reason": "축귀를 시도한 사람들이 공격받아 다치고 벗은 몸으로 도망한 결과다. 현재 선택의 벌이나 상대의 폭력 예측으로 옮길 수 없다.",
+      "contextNote": "스게와 아들들의 시도가 실패해 수치를 당한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:19:17",
+      "textSha256": "ae4455cdbfcfd57b84eeccbfd44d9ddc543b9a1530dcac9517c1353c12304e0c",
+      "status": "hold",
+      "reason": "이 일을 알고 두려워하며 주의 이름을 높였다는 반응이다. 무엇을 두려워했는지 앞 사건을 풀지 않으면 현재의 실마리가 약하다.",
+      "contextNote": "실패한 축귀 사건이 에베소에 알려져 예수의 이름이 높아진다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:19:18",
+      "textSha256": "04a2b457b4f9696c8598bac7eb03bdbc0c90e1be7af669c7e5c049092d172cc7",
+      "status": "candidate",
+      "reason": "자신이 행한 일을 숨기지 않고 고백하는 모습은 실제 잘못을 알고도 사과를 미루는 마음을 비춘다.",
+      "contextNote": "믿은 사람들이 와서 행한 일을 자복한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G10",
+          "clue": "행한 일을 스스로 고하는 모습에서 내가 먼저 심하게 한 말을 인정하고 사과할 마음을 읽는다.",
+          "friction": "공동체 앞의 자복과 친구에게의 사과는 다르다. 모든 사생활을 공개하라는 의무나 사과의 수용 보장은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:19:19",
+      "textSha256": "e98a1ef3d2dd09f99c7a2ed5d47c8fc24b0ec330bb70287241854dd5f81bf6c5",
+      "status": "hold",
+      "reason": "마술 책을 불사르고 그 값을 계산한 장면은 고대 마술과 의식의 배경이 중심이다. 점집 방문을 망설이는 고민과는 소유물 정리라는 행동과 비용이 다르다.",
+      "contextNote": "신자들이 이전 마술 책을 공적으로 버리는 회개의 행동이다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "A036",
+          "clue": "믿음 때문에 이전의 점과 관련된 것을 끊는 방향은 떠올릴 수 있다.",
+          "friction": "현재는 책을 소유하거나 이미 큰돈을 쓴 사례가 아니고 친구들과 방문할지의 망설임이다. 모든 마술이나 책을 태우라는 뜻을 빼고 충분히 연결될지는 불확실하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:19:20",
+      "textSha256": "b88ec86fc7edb9b6fb773c4c57a64dd9fd91267cfc7ffc75ee2ac0c3220183fc",
+      "status": "hold",
+      "reason": "말씀이 흥왕하고 세력을 얻었다는 결말의 상태다. 흥왕의 옛말을 풀어도 지금의 선택 방향보다는 지난 결과가 중심이다.",
+      "contextNote": "회개와 마술의 포기 뒤 에베소의 복음 확장을 정리한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:19:21",
+      "textSha256": "63d2a35e523ce961668af984b571909d5ab9bdc42b5fa679038c99ee686481ea",
+      "status": "candidate",
+      "reason": "이 일을 다 한 뒤 다음으로 가려 계획하는 순서는 마무리가 지루해 새 일을 벌일지의 마음을 비춘다.",
+      "contextNote": "에베소 사역 뒤 바울이 예루살렘과 로마 방문을 차례로 계획한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H053",
+          "clue": "이 일이 다 된 후 다음으로 가려는 모습에서 지금 맡은 일을 마치고 새 일을 시작할 실마리를 읽는다.",
+          "friction": "지명이 많고 현재 일이 이미 다 끝났다는 뜻은 아니다. 끝맺음 뒤 다음 순서라는 개인적 비유로 충분할 연결을 예상한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:19:22",
+      "textSha256": "90e6437714e67b99fb4fd409a74fe062f250a1425e6da5887d9244fea0fae399",
+      "status": "candidate",
+      "reason": "도와주는 사람들을 먼저 보내고 본인은 남는 구체 분담은 모든 일을 혼자 맡을지의 마음을 비춘다.",
+      "contextNote": "바울이 디모데와 에라스도를 마게도냐로 보내고 아시아에 더 머문다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A009",
+          "clue": "도와주는 사람에게 한쪽 일을 맡겨 보내는 모습에서 적합한 팀원에게 역할을 나눌 마음을 읽는다.",
+          "friction": "여정의 분담과 팀 업무는 다르다. 누가 어떤 일을 맡을지는 현재의 합의로 남겨 두며 맡기면 성공한다는 결과는 더하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:19:23",
+      "textSha256": "b58357dc1855b5229362716935fb5b95a75906a8400a4f1e99a35282b4a93e59",
+      "status": "exclude",
+      "reason": "이 도 때문에 소동이 있었다는 다음 사건의 도입이다. 도가 무엇이며 누가 왜 다투는지 없이는 현재 갈림을 비추지 못한다.",
+      "contextNote": "에베소 은장색들의 소동을 소개한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:19:24",
+      "textSha256": "9a646c50ebb19fb495cb534cb69753db59d31393760030fe5eed2ffd06baeeed",
+      "status": "hold",
+      "reason": "은장색이 아데미의 은감실을 만들어 벌이를 했다는 직업 배경이다. 감실과 신의 이름을 풀어야 활동의 의미가 읽힌다.",
+      "contextNote": "데메드리오의 종교 용품 제작과 고용의 이익 구조를 소개한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:19:25",
+      "textSha256": "41530624cb903bb28c13b4aa26e7859f4ee2d91b52b1f45f7915f766e423d5c9",
+      "status": "candidate",
+      "reason": "생활이 현재의 업에 달렸다는 말은 답답한 일과 새 일의 수입 불확실성 사이의 마음을 비춘다.",
+      "contextNote": "데메드리오가 직공들에게 현재 업이 주는 이익을 들어 소동을 부추기기 시작한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H047",
+          "clue": "우리 생활이 이 업에 있다는 말에서 답답함뿐 아니라 지금 일이 떠받치는 생활도 고려해 당장 떠나지 않을 마음을 읽는다.",
+          "friction": "우상 장사의 이익을 지키려는 선동 전체를 모범으로 삼지 않는다. 현재 새 일의 수입 감소 가능성은 입력에 있으며 현재 직업이 신성하거나 영구 안정이라는 주장은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:19:26",
+      "textSha256": "891ad313acf4d8fe8d84e01694011017a6767f3d72470ca07f4da03c9807c0e2",
+      "status": "hold",
+      "reason": "바울이 만든 신을 부정했다는 고발을 전한다. 우상의 재료와 신의 본성 논의를 현재의 점이나 의견 권위로 바로 옮기는 마찰이 크다.",
+      "contextNote": "데메드리오가 바울의 가르침이 우상 제조업에 준 영향을 말한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:19:27",
+      "textSha256": "e1a42d67af7c89057dcff9acc7bdb3e2d1a9d5b8f36804ea567973b5b5402bbb",
+      "status": "hold",
+      "reason": "직업 이익과 신전 및 여신의 위엄 상실을 함께 호소한다. 생활의 말만 떼지 않고는 현재 진로 고민에 길게 낯선 종교 설명이 남는다.",
+      "contextNote": "은장색의 이익과 아데미 신앙을 한 위협으로 묶는 선동이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:19:28",
+      "textSha256": "14d1f8e85928b94a7b0a063960a7e389b4b6502f6b79a0485679cc8d7f784612",
+      "status": "exclude",
+      "reason": "분노하여 아데미를 외친 집단 구호다. 구호와 감정 외에 현재 선택을 비출 관점은 없다.",
+      "contextNote": "선동을 들은 직공들이 여신의 위대함을 외친다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:19:29",
+      "textSha256": "1cc45a0c75d8b95488f750b002ee335e5329c27a90180f99444c5d6c2bf54314",
+      "status": "exclude",
+      "reason": "군중이 두 사람을 잡아 극장으로 달려간 소동의 경과다. 극장을 현재 공연 선택의 같은 단어로 연결할 수 없다.",
+      "contextNote": "에베소 군중이 바울의 동행자들을 연극장으로 끌고 간다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:19:30",
+      "textSha256": "4f91d3f690b5162fb2244f24d27dda80d6fd17d35583f8405610a55c8ccf4135",
+      "status": "candidate",
+      "reason": "군중 속으로 들어가려는 사람을 곁에서 말리는 모습은 화난 친구를 말릴지의 고민과 가깝다.",
+      "contextNote": "바울이 소동 중인 백성에게 들어가려 하지만 제자들이 말린다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "A007",
+          "clue": "들어가려는 사람을 제자들이 말리는 모습에서 분위기에 휩쓸려 가만히 있기보다 친구를 말릴 실마리를 읽는다.",
+          "friction": "사용자는 싸움에 가담할지의 당사자가 아니라 다칠까 걱정해 말릴지의 고민이다. 직접 몸으로 위험을 감수하라는 지시나 제지 성공의 보장은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:19:31",
+      "textSha256": "459081d10f2a3dd5b215e3d80a57b08c14bbee7cc59a02db4c3b1189e6c8d490",
+      "status": "candidate",
+      "reason": "친구에게 위험한 군중의 자리로 들어가지 말라고 권하는 행동은 친구를 말릴지의 마음을 비춘다.",
+      "contextNote": "아시아 관리 중 바울의 친구들도 극장에 들어가지 말라고 연락한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A007",
+          "clue": "친구들이 들어가지 말라고 연락하는 모습에서 싸움을 부추기는 말과 달리 다치지 않도록 친구를 말릴 마음을 읽는다.",
+          "friction": "친구에게 권하는 역할이 실제 사용자와 같다. 직접 폭력에 뛰어들 의무나 반드시 말을 듣는다는 결과는 더하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:19:32",
+      "textSha256": "f3036e658d0100ba84f34d1865764abcc8ab1ec4d9df2483a6feb2dff3ab9b4f",
+      "status": "candidate",
+      "reason": "모인 이유조차 모르는 사람들이 서로 다른 말을 외치는 모습은 소문만 따라 판단할지의 마음을 비춘다.",
+      "contextNote": "에베소 군중 상당수가 소동의 이유를 모른 채 뒤섞여 외친다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "무엇 때문에 모였는지도 모른 채 떠드는 모습에서 소문만 따라 멀어지기보다 친구의 말을 직접 들을 마음을 읽는다.",
+          "friction": "큰 소동과 친구에 관한 소문은 다르다. 소문이 반드시 거짓이거나 친구가 무고하다는 사실 없이 확인 전 동조를 돌아보는 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:19:33",
+      "textSha256": "abfa46695cfa7ef3dc5c592800c9b3573ab1e52eb6c5bd6c2175ea76d6a22180",
+      "status": "hold",
+      "reason": "손짓하며 발명하려 한다는 말은 해명이라는 옛뜻과 유대인 대표의 배경을 알아야 한다. 지금 무엇을 밝힐지는 다음에도 나오지 않는다.",
+      "contextNote": "군중 앞에 밀려 나온 알렉산더가 해명하려 한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:19:34",
+      "textSha256": "a70fc1ab40f7573aa9e57d7788694bf94e8509ffd74a6f4af7d0ba95ba2722c1",
+      "status": "hold",
+      "reason": "유대인임을 알고 오래 구호를 외친 장면은 무슨 말을 막았는지와 종교 갈등을 알아야 읽힌다. 국적 단어만으로 환대의 기준을 만들지 않는다.",
+      "contextNote": "군중이 알렉산더가 유대인임을 알아보고 아데미 구호를 계속 외친다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:19:35",
+      "textSha256": "9d09d5c3f4d8751bd36029391660b0a0620c3b62583f34e41074fee039e45818",
+      "status": "hold",
+      "reason": "무리를 진정시키지만 신전 수호와 하늘에서 온 우상이라는 도시 자부심의 근거가 길다. 안돈과 전각지기 등의 뜻을 풀어야 한다.",
+      "contextNote": "서기장이 에베소의 아데미 지위를 들어 군중을 가라앉힌다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:19:36",
+      "textSha256": "14c591495e5c127f1b3f70bbbcb8758a8aaa08d7e989154082c175a3dc4f55a0",
+      "status": "candidate",
+      "reason": "가만히 있어 경솔히 하지 말라는 말은 화난 메시지를 바로 보낼지의 마음을 비춘다.",
+      "contextNote": "서기장이 도시의 신전 지위를 전제로 군중의 경솔한 행동을 말린다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "가만히 있어서 무엇이든 경솔히 하지 말라는 말에서 지금 보내기보다 마음이 가라앉은 뒤 말할 실마리를 읽는다.",
+          "friction": "앞의 전제는 아데미 신전의 지위다. 그 종교적 주장을 현재 사실의 근거로 삼지 않아도 경솔한 행동을 멈추는 말 자체가 분명해 충분할 연결을 예상한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:19:37",
+      "textSha256": "d7e9bb31f3c96b1329f8b757d79f1d452109e5e21118f5bde4dbbaf47faa6b9a",
+      "status": "candidate",
+      "reason": "행하지 않은 잘못을 들며 잡아온 일을 반문하는 말은 확인된 자기 사실을 바로잡을지의 마음을 비춘다.",
+      "contextNote": "서기장이 사도들의 동행자들에게 신전 도둑질이나 여신 모독의 사실이 없음을 지적한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "R015",
+          "clue": "하지 않은 일을 분명히 밝히는 모습에서 실제 보낸 기록에 기대 사실과 다르다고 말할 실마리를 읽는다.",
+          "friction": "현재는 신전 범죄가 아닌 자료 전송의 사실이다. 자기 기록이 있는 입력에만 대조하며 다른 사람의 모든 의도나 무죄를 임의로 판정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:19:38",
+      "textSha256": "a8bacab4f968a70568c27d243bc83bd538770511a567d867530c99be62b83ddd",
+      "status": "candidate",
+      "reason": "송사할 일이 있으면 정한 절차로 다투라는 말은 화난 말로 몰아붙일지의 마음을 비춘다.",
+      "contextNote": "서기장이 거리 소동 대신 재판 절차가 있다고 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C025",
+          "clue": "불만을 다룰 정해진 절차가 있다는 말에서 대화방에서 몰아붙이기보다 공식 회의에 안건으로 낼 실마리를 읽는다.",
+          "friction": "로마의 소송과 동아리 회의는 다르다. 법적 고소를 권하거나 결과를 보장하는 말 없이 질서 있는 토론 절차에 비춘다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:19:39",
+      "textSha256": "4b24f890039900c0fc35f3d083804f2cab311923adf46f2fcf906f8c5b8a4ff3",
+      "status": "candidate",
+      "reason": "무엇을 원하면 정식 민회에서 결정하라는 말은 불만을 공식 안건으로 낼지의 고민과 가깝다.",
+      "contextNote": "서기장이 남은 요구도 합법적인 민회에서 다루라고 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C025",
+          "clue": "정식으로 모인 자리에서 결단하라는 말에서 화난 대화방 말 대신 공식 회의의 토론을 요청할 실마리를 읽는다.",
+          "friction": "고대 민회와 동아리의 권한은 다르다. 정식 논의 절차의 연결이지 원하는 결정이 난다는 보장은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:19:40",
+      "textSha256": "f3623aa8997188c9fd94d53b4dba97747e843f7c2340df091f0b50242fa2171d",
+      "status": "candidate",
+      "reason": "까닭과 보고할 근거가 없는 소동이라는 경고는 확인 전 소문을 따라갈지의 마음을 비춘다.",
+      "contextNote": "서기장이 근거 없는 불법 집회로 책망받을 위험을 지적한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "왜 하는지 보고할 근거가 없다는 말에서 소문만으로 동조하기보다 친구 말을 직접 들을 마음을 읽는다.",
+          "friction": "친구 사이의 소문을 불법 집회로 판정하지 않는다. 소문이 거짓이라는 결론 없이 확인 전 행동의 성급함을 돌아보는 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:19:41",
+      "textSha256": "139070ebea5118a13a74be57a4a6d4f327f4f044019d0e9d035a40ef442265e9",
+      "status": "exclude",
+      "reason": "모임을 흩어지게 했다는 사건의 마침이다. 무엇 때문에 누구의 판단으로 끝냈는지 앞말 없이는 현재 갈림에 닿지 않는다.",
+      "contextNote": "서기장의 말 뒤 군중이 해산한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:20:1",
+      "textSha256": "5ce3e064b6f20eaaba990815e48782b53516558683453d730458c31aae708508",
+      "status": "candidate",
+      "reason": "떠나기 전에 제자들을 불러 권하는 모습은 큰 일을 못 해도 작은 도움을 건넬지의 마음을 비춘다.",
+      "contextNote": "소동이 그친 뒤 바울이 제자들을 격려하고 마게도냐로 떠난다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "떠나기 전에도 만나 권하는 모습에서 완벽한 해결책이 없어도 작은 말과 도움을 건넬 마음을 읽는다.",
+          "friction": "사도의 교회 권면과 친구의 고민은 다르다. 작은 말이 반드시 문제를 해결한다는 결과 없이 돌봄의 시작에 비춘다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:20:2",
+      "textSha256": "7e1fd8bb55ecab689ae33af49a7b36931f3c2b15b06dc348a07caddf6e98a62a",
+      "status": "candidate",
+      "reason": "여러 말로 제자들을 권하는 행동은 작은 도움밖에 못 준다고 가만히 있을지의 마음을 비춘다.",
+      "contextNote": "바울이 여러 지역을 방문하며 제자들을 격려한 뒤 헬라에 이른다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "말을 건네 격려하는 모습에서 큰 것을 못 해도 내 작은 도움을 건넬 실마리를 읽는다.",
+          "friction": "여정 중의 권면이며 실제 문제를 전부 해결한 장면은 아니다. 현재도 말만 하면 충분하다는 일반 법칙으로 확대하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:20:3",
+      "textSha256": "fdcd44178b0fbda7d85e4c35ebc1860c489f33ee82689f01438a4d7ab279285f",
+      "status": "candidate",
+      "reason": "원래 가려던 길의 조건이 바뀌자 돌아갈 길을 조정하는 모습은 계획을 고집할지의 마음을 비춘다.",
+      "contextNote": "바울이 해치려는 공모를 알고 수리아 직행 대신 마게도냐 경유로 바꾼다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H062",
+          "clue": "달라진 조건을 알고 다른 길을 작정하는 모습에서 원래 방식만 붙들기보다 상황에 맞게 바꿀 실마리를 읽는다.",
+          "friction": "현재 계획을 누군가 해치려 공모했다는 사실을 더하지 않는다. 위험의 종류와 별개로 실제 바뀐 조건을 받아들이는 개인적 비유다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:20:4",
+      "textSha256": "85c6ae8ed63ee64a1a9f12b9f8cca9470bfa9d8a15406f930d6148ffeff4c9e4",
+      "status": "exclude",
+      "reason": "여러 도시 출신 동행자들의 이름을 나열한다. 동행이라는 단어 외에 현재 누구와 어떻게 함께할지의 실마리는 없다.",
+      "contextNote": "아시아까지 함께 갈 동행자들을 소개한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:20:5",
+      "textSha256": "27c5d3747398163222c28623b2148d721b31338483e462d050a70c84da4b2a04",
+      "status": "hold",
+      "reason": "일행 일부가 먼저 가서 기다렸다는 일정의 조정이다. 무엇 때문에 기다리는지 없이 인내나 배려의 이유를 덧붙여야 현재에 연결된다.",
+      "contextNote": "동행자 일부가 드로아에서 나머지를 기다린다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:20:6",
+      "textSha256": "43e0b001ef264f46f2987dd9e048e061ea655215286d3c8a44d55328241e5ba7",
+      "status": "exclude",
+      "reason": "무교절 뒤 배로 이동해 며칠 머문 날짜와 항로의 기록이다. 일상의 선택 기준을 비출 관점은 없다.",
+      "contextNote": "빌립보에서 드로아로 이동해 일행과 머문다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:20:7",
+      "textSha256": "7f3310093f1df3bbdbafba58a58b24975b806e4a6a340b8535e061ccf22c87f4",
+      "status": "hold",
+      "reason": "출발 전날 떡을 떼고 밤중까지 강론했다는 집회 배경이다. 이후의 피로와 사고까지 있는 문맥을 지우고 밤샘을 허용하는 기준으로 삼기 어렵다.",
+      "contextNote": "드로아에서 바울이 떠나기 전 밤늦도록 말하다 유두고 사건으로 이어진다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:20:8",
+      "textSha256": "31a283dbdbf140b3963b08289cc3292b6f2efbe3e43f14b14e70d4326d7fa744",
+      "status": "exclude",
+      "reason": "모인 방에 등불을 많이 켰다는 환경 묘사다. 빛이라는 단어를 따로 떼지 않으면 현재 갈림의 관점은 없다.",
+      "contextNote": "밤 집회가 열린 윗다락의 조명 상태다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:20:9",
+      "textSha256": "6845c3a8c5d3cdb89e7ee4a79bb10953dc0bad68bc9bc6211f168f62859ccc41",
+      "status": "candidate",
+      "reason": "졸음을 이기지 못하고 사고를 겪는 모습은 잠이 부족한데도 계속 공부할지의 마음을 비춘다.",
+      "contextNote": "긴 밤 강론 중 창에 앉은 유두고가 졸다 떨어진다. 뒤의 살아남까지 알아도 졸음의 한계는 지워지지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G13",
+          "clue": "졸음을 억지로 이기지 못하는 모습에서 더 밀어붙이기보다 오늘 일찍 쉬고 내일 다시 할 마음을 읽는다.",
+          "friction": "현재 사용자가 높은 창에 있거나 죽을 위험이라는 진단은 아니다. 극적인 사고를 현실 결과 예측으로 옮기지 않고 명시된 수면 부족의 한계에 비춘다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:20:10",
+      "textSha256": "05d1317d05613ecc6e33283765747d15721247fc73c529e8a89d8b4360299f6d",
+      "status": "hold",
+      "reason": "떠들지 말라와 생명이 있다는 말은 추락한 청년을 안고 한 치유의 발화다. 현재 치료 결과나 상태를 확인해 주는 말로 옮길 수 없다.",
+      "contextNote": "바울이 유두고를 안고 사람들을 진정시킨다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:20:11",
+      "textSha256": "0293236bee8885dd23ae4dd5d3abc811471cddd7d254c9e3d747d9f9930b2e9e",
+      "status": "hold",
+      "reason": "먹고 새벽까지 이야기한 뒤 떠난 장면이다. 지금 무엇을 위해 밤을 쓸지의 갈림에는 음식이나 대화 단어만으로 연결이 충분하지 않다.",
+      "contextNote": "유두고 사건 뒤 바울이 떡을 떼고 오래 말한 후 떠난다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:20:12",
+      "textSha256": "efa45f89d07a04d823df3affc40cb616b4cf1b07d2d607766500a96b750ecf60",
+      "status": "hold",
+      "reason": "살아난 아이를 보고 위로받은 결과다. 사별한 친구의 현실이나 현재의 불확실한 건강 상태가 같은 결말이라는 뜻으로 옮기지 않는다.",
+      "contextNote": "사람들이 살아 있는 유두고를 데려와 크게 위로받는다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:20:13",
+      "textSha256": "b2b869d76114da025e29cb8e6369084ffafe1a510799a4a0e3c7917c88a6637f",
+      "status": "candidate",
+      "reason": "일행의 배편과 달리 본인은 걸어가기로 한 선택은 남의 의견만 따를지 자기 기준을 택할지의 마음을 비춘다.",
+      "contextNote": "바울은 도보로 가고 일행은 앗소에서 그를 태우기로 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H064",
+          "clue": "같은 목적지라도 자기에게 맞는 길을 따로 정한 모습에서 남의 방식만 좇기보다 내가 중요하게 여긴 기준으로 고를 실마리를 읽는다.",
+          "friction": "교통수단의 선택과 큰 인생 결정은 다르다. 내가 정하면 다른 이들이 반드시 따라야 한다거나 내 기준이 무조건 정답이라는 선언은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:20:14",
+      "textSha256": "170a42437c5d31b4cd571899a88568e62e7c89df8745a9728b149137884c2310",
+      "status": "exclude",
+      "reason": "일행이 바울을 만나 배에 태우고 다음 지역으로 간 이동이다. 현재의 만남이나 도움을 정할 관점은 없다.",
+      "contextNote": "앗소에서 바울이 합류해 미둘레네로 간다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:20:15",
+      "textSha256": "dd4676b0e1d2380c3c48c7b3553aedecf16228e222813ab7b58bc480b45a4079",
+      "status": "exclude",
+      "reason": "여러 섬과 항구를 날짜 순서대로 나열한다. 어디를 어떻게 갈지의 이유 없이 이동 정보만 남는다.",
+      "contextNote": "기오와 사모를 거쳐 밀레도에 도착한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:20:16",
+      "textSha256": "edccf5b24ade585919f060314a595045cf177ee51782ed941f94eb534ede6267",
+      "status": "candidate",
+      "reason": "정한 때 안에 이르려고 중간 방문을 줄이는 모습은 마감과 모임 사이의 시간 사용을 비춘다.",
+      "contextNote": "바울이 오순절 안에 예루살렘에 가려 에베소에 지체하지 않기로 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H012",
+          "clue": "정한 때 안에 이르기 위해 지체할 일을 줄이는 모습에서 모임이 아쉬워도 오늘 마감 과제를 먼저 마칠 마음을 읽는다.",
+          "friction": "종교 절기의 여정과 과제 제출은 다르다. 마감이 있다는 이유만으로 모든 즐김의 후보를 배제하는 규칙은 아니며 이 구절에서 읽을 한 방향이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:20:17",
+      "textSha256": "88c075a082fd9ce982c9f8250a18de38b215b8626981a0c79d32a39879b08333",
+      "status": "hold",
+      "reason": "사람을 보내 장로들을 불렀다는 연락의 기록이다. 왜 불러 무엇을 의논하는지 없이 조언 요청의 역할로 바꾸기 어렵다.",
+      "contextNote": "밀레도에 있는 바울이 에베소 교회의 장로들을 청한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:20:18",
+      "textSha256": "484b53bb652e571b60d8178a7f1d1f243bb9e4c1616dfd0e223bcbc7e029b49d",
+      "status": "hold",
+      "reason": "너희도 내가 어떻게 했는지 안다는 회상의 도입이다. 어떤 행동의 사실을 밝히는지는 다음 구절들에 남는다.",
+      "contextNote": "바울이 장로들에게 함께 지낸 시간을 회상하기 시작한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:20:19",
+      "textSha256": "1eadf823d0b2308e79bfc9252d4ab4e4a6f032f6c8f336bdf4f9277044f17f45",
+      "status": "candidate",
+      "reason": "겸손과 눈물 및 어려움을 참고 섬긴다는 회상은 편한 역할과 배울 어려운 역할 사이의 마음을 비춘다.",
+      "contextNote": "바울이 간계와 시험 가운데 공동체를 섬긴 일을 회상한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H049",
+          "clue": "편하지 않아도 겸손히 섬긴 모습에서 쉬움만으로 고르기보다 배움이 있는 어려운 역할을 맡을 마음을 읽는다.",
+          "friction": "박해와 실무의 어려움은 다르다. 학대나 실제 건강 한계를 감수해야 한다는 뜻 없이 배우는 이점이 명시된 선택에 비춘다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:20:20",
+      "textSha256": "5c07eb82b4b70fe22eef7c153d5db857ae0e4abbe32f07f55c3d33eafff156f3",
+      "status": "candidate",
+      "reason": "꺼림 없이 유익한 말을 전하는 모습은 믿음 질문을 얼버무릴지의 마음을 비춘다.",
+      "contextNote": "바울이 공적 자리와 집들에서 유익한 가르침을 전한 일을 회상한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C019",
+          "clue": "꺼림 없이 전했다는 말에서 친구가 물은 나의 믿음과 경험을 솔직히 이야기할 마음을 읽는다.",
+          "friction": "유익하다고 내가 판단한 모든 말을 상대에게 강요할 권리는 아니다. 이미 질문받았다는 입력의 개인 대화에 대조한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:20:21",
+      "textSha256": "2290f7c18baf2c61539280de471d134ac95072f05a505021fd3ec51c66cdfca4",
+      "status": "candidate",
+      "reason": "회개와 예수를 향한 믿음의 말은 지난 잘못 때문에 신앙의 준비를 미룰지의 마음을 비춘다.",
+      "contextNote": "바울이 유대인과 헬라인 모두에게 전한 핵심을 회개와 믿음으로 요약한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C018",
+          "clue": "회개와 믿음을 함께 말하는 모습에서 잘못을 인정하며 신앙생활과 세례 준비를 시작할 실마리를 읽는다.",
+          "friction": "회개가 구체적인 수습이나 보상을 지워 주는 말은 아니다. 먼저 완벽해질 때까지 미루는 부담을 덜 신앙 시작의 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:20:22",
+      "textSha256": "a6ef425968271ffe77aef02f54b9335eb091425a44f1fd2f8ebc421f0ca15e9c",
+      "status": "candidate",
+      "reason": "앞으로 무엇을 만날지 다 알지 못하면서도 길을 가는 모습은 아직 생기지 않은 불편 때문에 여행을 취소할지의 마음을 비춘다.",
+      "contextNote": "바울이 예루살렘에 가며 앞날의 세부를 모르지만 환난은 예고받았다고 이어 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H013",
+          "clue": "무슨 일이 있을지 다 알지 못해도 가는 모습에서 모든 불편을 미리 해결하려 하기보다 기대한 여행을 가볼 실마리를 읽는다.",
+          "friction": "현재 여행이 신적 사명이거나 위험이 없다는 보장은 아니다. 입력은 아직 일어나지 않은 불편의 걱정이며 이미 확인된 위해를 무시하라는 뜻으로 확대하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:20:23",
+      "textSha256": "0ffa7211488511da180383c50f52cfd1db4e5e1588f3238239b4c24071ebeafa",
+      "status": "hold",
+      "reason": "결박과 환난의 예고에서 대조절로 끝난다. 현재 앞일도 실제로 그렇게 된다는 예고를 만들지 않고서는 선택의 방향은 뒤에 남는다.",
+      "contextNote": "바울이 각 성에서 성령이 증거한 환난을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:20:24",
+      "textSha256": "846430e744caae44854b98a0eb9abe904e21a7f88a7791887549752fa553c6bd",
+      "status": "hold",
+      "reason": "받은 사명을 위해 생명도 조금도 귀하게 여기지 않는 결의다. 끝까지라는 말만 떼지 않으면 일상 부담과 비교하기에 전체 강도가 매우 크다.",
+      "contextNote": "바울이 복음의 사명을 마치려는 자기 결의를 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:20:25",
+      "textSha256": "8a754cecf678e3d3c34f87800bc307eaa9cadac58f286a6dbc5c57b4d7da20fd",
+      "status": "hold",
+      "reason": "앞으로 자기 얼굴을 보지 못할 것이라는 구체 작별의 예고다. 현재 가족과 친구의 평범한 다음 만남에도 마지막이라는 조건을 더할 수 없다.",
+      "contextNote": "바울이 장로들에게 다시 만나지 못할 것이라며 고별한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:20:26",
+      "textSha256": "ce702aa9bd25cd646425c15aadf18855181cc06f7772a6f3076742bd52e70ac1",
+      "status": "hold",
+      "reason": "모든 사람의 피에 깨끗하다는 말은 전파 책임에 관한 관용구다. 실제 혈액이나 현재 잘못의 책임이 없다는 확인으로 읽으려면 문맥을 풀어야 한다.",
+      "contextNote": "바울이 전해야 할 일을 다 했기에 책임이 없다고 뒤에 설명한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:20:27",
+      "textSha256": "31a6016e8b05f3ab6c7d5b6b098ed43dfa3e580840357e313c97419827e426e8",
+      "status": "candidate",
+      "reason": "꺼리지 않고 믿음의 내용을 전했다는 말은 친구의 질문을 얼버무릴지의 마음을 비춘다.",
+      "contextNote": "바울이 하나님의 뜻을 다 전했음을 고별 연설에서 회상한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C019",
+          "clue": "꺼리지 않고 전했다는 말에서 친구가 물은 나의 믿음과 경험을 솔직히 말할 마음을 읽는다.",
+          "friction": "사도의 전파를 현재 내 모든 판단이 하나님의 뜻이라는 주장으로 바꾸지 않는다. 받은 질문에 믿음을 강요 없이 나누는 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:20:28",
+      "textSha256": "c15911893303169dfdcf693670aedd9a7107850e5d58672bf6bb5e8616fa905e",
+      "status": "candidate",
+      "reason": "감독자가 자신과 온 양떼를 살피라는 말은 성과 숫자보다 적응 중인 부원을 챙길지의 마음을 비춘다.",
+      "contextNote": "바울이 장로들에게 자신과 교회를 돌보라는 목양의 책임을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C005",
+          "clue": "온 양떼를 위해 삼가고 맡은 공동체를 돌보라는 말에서 눈에 보일 숫자뿐 아니라 어려워하는 새 부원을 챙길 실마리를 읽는다.",
+          "friction": "피로 사신 교회와 치게 하심이라는 신앙 표현이 길다. 신입을 소유물로 보거나 자기 건강을 무조건 희생하라는 뜻 없이 사람 돌봄의 비유로 읽는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:20:29",
+      "textSha256": "fead8c95c6bf741733c70b91ae6d88d030b4f23852cde013e2386887a6825bb8",
+      "status": "hold",
+      "reason": "자기가 떠난 뒤 양을 아끼지 않는 이리들이 온다는 예고다. 현재 관계에 실제로 그런 가해자와 의도가 있다는 사실을 보태지 않고 연결하기 어렵다.",
+      "contextNote": "바울이 자신이 떠난 뒤 교회에 들어올 위험을 경계한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:20:30",
+      "textSha256": "310f76d8d901b51da7e9697968f09770cacb99fc0dc0de57829f9f0d1198a651",
+      "status": "candidate",
+      "reason": "사람들을 자기 뒤에 세우려고 말을 어그러뜨린다는 경고는 설득을 위해 내 의견에 신적 권위를 붙일지의 마음을 비춘다.",
+      "contextNote": "바울이 공동체 내부에서도 제자를 자기에게 끌려는 왜곡된 말이 생긴다고 경고한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C001",
+          "clue": "자기를 따르게 하려고 말을 바꾸는 모습에서 더 설득하려 하나님의 뜻이라 꾸미기보다 내 생각이라고 말할 마음을 읽는다.",
+          "friction": "사용자가 이미 거짓 교사라는 고발은 아니다. 실제로 받은 말씀이 없다는 입력에서 권위를 꾸미려는 선택을 돌아보는 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:20:31",
+      "textSha256": "1b12d3cd72ff8f0e083dd3a54b5f24290ff9c33c72ea877442f3c31b2ea0a9b7",
+      "status": "candidate",
+      "reason": "각 사람을 기억하며 꾸준히 권한 모습은 눈에 보이는 성과보다 새 사람을 챙길지의 마음을 비춘다.",
+      "contextNote": "바울이 삼 년 동안 밤낮 각 사람을 눈물로 훈계한 일을 돌아보게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C005",
+          "clue": "각 사람에게 마음을 쏟는 모습에서 행사 숫자만 늘리기보다 적응이 어렵다는 부원을 한 사람씩 챙길 실마리를 읽는다.",
+          "friction": "밤낮 쉬지 않았다는 회상을 현재 운영자의 의무 시간표로 만들지 않는다. 모든 돌봄을 혼자 무리하라는 뜻 없는 사람 중심의 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:20:32",
+      "textSha256": "439535bdb3933d4574a3e091144e262e9cd8ff275df5fe618256eb07703f58aa",
+      "status": "hold",
+      "reason": "말씀이 세우고 거룩한 자들 가운데 기업을 준다는 축복이다. 기업과 거룩하게 됨의 뜻을 풀어야 하며 현재 사업이나 보상의 보증으로 옮길 수 없다.",
+      "contextNote": "바울이 떠나며 공동체를 주와 은혜의 말씀에 맡긴다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:20:33",
+      "textSha256": "91aa81609b0df200af89cccdbda9999b1c7777067ae03a5cabc05808675a13e8",
+      "status": "candidate",
+      "reason": "아무의 재물이나 의복을 탐하지 않았다는 말은 남에게 배정된 더 좋은 자리를 차지할지의 마음을 비춘다.",
+      "contextNote": "바울이 타인의 재물을 탐하지 않고 자립해 도운 일을 회상한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "R026",
+          "clue": "남의 것을 탐하지 않는다는 말에서 허락 없이 다른 회원의 더 넓은 자리로 옮기기보다 내 자리를 쓸 마음을 읽는다.",
+          "friction": "재물과 작업 공간은 다르지만 타인 몫이 명확한 입력이다. 사용자가 이미 훔쳤다는 고발이나 모든 자기 돈의 구매 금지는 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:20:34",
+      "textSha256": "dde6a2c586b76369151150d2575524ec48e5147349b11f8d7638ff724259931b",
+      "status": "hold",
+      "reason": "이 손으로 동행들의 쓰는 것을 당했다는 옛 표현은 소요를 충당했다는 뜻을 풀어야 한다. 자립의 서술만으로 누가 어떤 비용을 요청할지 단독 기준은 약하다.",
+      "contextNote": "바울이 노동으로 자기와 동행의 필요를 감당한 일을 말한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:20:35",
+      "textSha256": "7faf92427cec312f5879b1053e959784baae9f847b415179b79bd68e55a3a640",
+      "status": "candidate",
+      "reason": "약한 사람을 돕고 주는 것이 복이라는 말은 감당할 여유 속 도움을 나눌지의 마음과 가깝다.",
+      "contextNote": "바울이 자기 노동의 본과 예수의 주는 복을 기억하라고 권한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H059",
+          "clue": "주는 것이 받는 것보다 복이라는 말에서 돈을 아끼기만 하기보다 도움을 나눌 마음을 읽는다.",
+          "friction": "생활비가 부족하지 않다는 조건은 입력에 있다. 주면 더 큰 돈이 돌아오거나 타인의 모든 필요를 내가 감당해야 한다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:20:36",
+      "textSha256": "42984f283de8f3356934f9526f78b91b69d7815b77f3bc1de4b9299a2385689f",
+      "status": "candidate",
+      "reason": "말을 마친 뒤 무릎을 꿇고 기도하는 모습은 더 많은 의견 대신 기도로 마음을 돌아볼지의 고민을 비춘다.",
+      "contextNote": "바울이 고별 연설을 마치고 장로들과 함께 기도한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "A035",
+          "clue": "긴 말 뒤에 기도하는 모습에서 또 다른 답만 찾기보다 조용히 기도하며 마음을 돌아볼 실마리를 읽는다.",
+          "friction": "함께하는 고별 기도와 혼자 마음을 살피는 기도는 다르다. 기도가 즉시 특정 행동의 계시를 보장하는 방식은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:20:37",
+      "textSha256": "acbbb3e517cc85920de135baa6321795ea4b0ea06abf8aff233a1d04f9c80a58",
+      "status": "candidate",
+      "reason": "서운한 작별에 울고 안으며 마음을 표현하는 모습은 배웅에서 감정을 숨길지의 마음을 비춘다.",
+      "contextNote": "장로들이 바울의 떠남을 슬퍼하며 안고 입맞춘다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C026",
+          "clue": "소중한 사람을 보내며 울고 안는 모습에서 가볍게만 인사하기보다 고마움과 서운함을 솔직히 표현할 실마리를 읽는다.",
+          "friction": "고별의 강도와 접촉 관습이 다르다. 친구와 다시 못 만난다거나 원치 않는 접촉을 해도 된다는 뜻 없이 감정 표현에 비춘다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:20:38",
+      "textSha256": "e2a6c37e575b9282388b4bd425c9e962f0f1ccaa75929164d6d6129d85acd06f",
+      "status": "hold",
+      "reason": "다시 얼굴을 보지 못한다는 말 때문에 크게 근심한 작별이다. 잠시 떨어지는 만남에 영원한 이별의 조건을 더하면 연결을 과장한다.",
+      "contextNote": "장로들이 다시 만나지 못할 것이라는 예고를 슬퍼하며 배까지 전송한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C026",
+          "clue": "떠나는 사람을 아쉬워하며 배웅하는 감정은 연결될 수 있다.",
+          "friction": "교환학생의 한동안의 이별을 영원히 보지 못함으로 바꿀 수 없다. 전체 절의 결정적 이유가 달라 충분함은 불확실하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:21:1",
+      "textSha256": "32d416f5820ee42e35ae3e0c0609ab2bc582c015333b75c14260d7c40f6ab8e8",
+      "status": "exclude",
+      "reason": "고스와 로도 및 바다라의 날짜별 이동을 기록한다. 작별이라는 단어만으로 현재의 감정 표현 방향을 만들 수 없다.",
+      "contextNote": "밀레도의 작별 후 바울 일행이 배로 이동한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:21:2",
+      "textSha256": "3f3aada8e62009e94779c885f79e3fd28a3b3ae01c86f6aa7f949928d8705b0a",
+      "status": "exclude",
+      "reason": "베니게로 가는 배를 만나 타고 간 여행의 연결절이다. 그 선택을 한 이유나 현재의 갈림 기준은 없다.",
+      "contextNote": "일행이 바다라에서 다음 배로 갈아탄다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:21:3",
+      "textSha256": "805ead4c52adc7ca1d0a9c62d9a79bbd00274ebc4b4521cc65fb1e499d18c463",
+      "status": "exclude",
+      "reason": "구브로를 지나 두로에서 짐을 내리는 항해를 기록한다. 짐을 푼다는 운송 사실을 마음의 짐을 내려놓는 권유로 바꾸지 않는다.",
+      "contextNote": "일행이 수리아의 두로에 내려 짐을 내린다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:21:4",
+      "textSha256": "d3b8de31ef7f594df3fc76c94a6f194c54b058fc990fca8f5dec9c800220fdf4",
+      "status": "candidate",
+      "reason": "아끼는 사람에게 들어가지 말라고 말리는 모습은 화난 친구를 부추기는 분위기에서 말릴지의 마음을 비춘다.",
+      "contextNote": "두로의 제자들이 성령의 감동으로 바울의 예루살렘행을 말린다. 바울은 다른 부름의 이해 속 길을 계속 간다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A007",
+          "clue": "사람을 아껴 들어가지 말라고 말리는 모습에서 다칠까 걱정되는 친구에게 분위기와 다른 제지의 말을 건넬 마음을 읽는다.",
+          "friction": "서로 다른 신앙 판단이 있는 여정이다. 현재 내가 성령의 새 계시를 받았다는 권위나 친구가 반드시 듣는다는 보증 없이 말리는 역할에 비춘다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:21:5",
+      "textSha256": "3aa46296ac1a1854a72a6561021d50bc4d3be50df5fbd2654f6b0a5293f2c5e2",
+      "status": "candidate",
+      "reason": "바닷가에서 무릎을 꿇고 기도하는 모습은 예배당에 못 가 기도를 미룰지의 마음을 비춘다.",
+      "contextNote": "두로의 가족들이 일행을 전송하고 바닷가에서 함께 기도한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C020",
+          "clue": "바닷가에서도 기도하는 모습에서 예배당이 아닌 지금 방에서 기도할 실마리를 읽는다.",
+          "friction": "공동체의 작별 기도와 혼자 기도는 다르다. 예배당이 아닌 장소라는 연결을 읽되 교회 공동체가 무가치하다는 뜻으로 확대하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:21:6",
+      "textSha256": "014d7b1a3bcc2ae730d522e5ad00d94366c891b2d8d295e859a9ac2e7378c6fb",
+      "status": "exclude",
+      "reason": "작별 뒤 한쪽은 배에 오르고 다른 쪽은 집으로 돌아간 일정의 기록이다. 현재의 갈림을 비출 관점은 없다.",
+      "contextNote": "두로 사람들과 바울 일행이 헤어진다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:21:7",
+      "textSha256": "d634c6ecabc62262b075a26118b211adc6b0b422a1a9790bed93cd443f609264",
+      "status": "candidate",
+      "reason": "형제들의 안부를 묻고 함께 하루 지내는 모습은 사람의 형편을 챙길지의 마음을 비춘다.",
+      "contextNote": "바울 일행이 돌레마이에서 형제들과 머문다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C005",
+          "clue": "다음 일정만 향하기보다 안부를 묻고 함께 머무는 모습에서 적응이 어렵다는 새 부원을 챙길 실마리를 읽는다.",
+          "friction": "방문 여행과 동아리 운영은 다르다. 하루를 쓰면 문제를 해결한다거나 반드시 숙박하라는 뜻 없이 사람에게 시간을 쓰는 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:21:8",
+      "textSha256": "85f64de5ef2a57f33836356dd2a4fe2718b40d579e0fac4c725ac68d6087dd6f",
+      "status": "exclude",
+      "reason": "가이사랴에서 전도자 빌립의 집에 머문 숙박과 인물 소개다. 초대한 쪽의 감사 표현이나 선택의 이유는 이 절에 없다.",
+      "contextNote": "바울 일행이 일곱 집사 중 하나였던 빌립의 집을 방문한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:21:9",
+      "textSha256": "e451a63e0b5940f7c2a432b3fdb958815160095c29f3458e56efc98ed08a6003",
+      "status": "exclude",
+      "reason": "빌립의 네 딸이 예언했다는 인물의 구성과 활동 소개다. 현재의 선택 기준이나 역할을 비출 내용은 없다.",
+      "contextNote": "빌립의 집에 예언하는 딸들이 있었음을 소개한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:21:10",
+      "textSha256": "16d5496b79f4603991b406d43bc687d2b75887e2cf22f59c9d6686a7c024d1fa",
+      "status": "exclude",
+      "reason": "선지자 아가보가 유대에서 내려왔다는 도착의 기록이다. 그의 말과 행동은 다음에 남아 현재의 실마리가 없다.",
+      "contextNote": "가이사랴 체류 중 아가보가 찾아온다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:21:11",
+      "textSha256": "f8a9acdd40787f9c61b40a7f4e7cfe688c5a25b81b8f593d88730c688d04715e",
+      "status": "hold",
+      "reason": "띠로 손발을 묶으며 앞으로의 체포를 예고하는 상징 행동이다. 현재 사용자에게 같은 체포나 위해가 예고됐다는 사실을 보탤 수 없다.",
+      "contextNote": "아가보가 바울의 예루살렘 체포를 성령의 말씀으로 예언한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:21:12",
+      "textSha256": "72cf2e41279badf8b45d8e33d3bdb75e47211125f8546c77269b0cdf81407456",
+      "status": "candidate",
+      "reason": "걱정되는 길로 가려는 이를 함께 말리는 행동은 친구의 싸움을 말릴지의 마음을 비춘다.",
+      "contextNote": "일행과 그곳 사람들이 예언을 듣고 바울에게 예루살렘에 가지 말라고 권한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A007",
+          "clue": "주변 사람들이 들어가지 말라고 함께 권하는 모습에서 분위기를 깨더라도 다칠까 걱정되는 친구를 말릴 실마리를 읽는다.",
+          "friction": "사용자는 싸움에 가담할 당사자가 아니라 친구를 제지할지의 고민이다. 지금 신적 예고를 받았다거나 제지가 반드시 성공한다는 뜻 없이 역할을 대조한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:21:13",
+      "textSha256": "4a016cb3543dd6c480abca63c6becaf36e92d610535ea4cc562a190b2ec4d6e9",
+      "status": "hold",
+      "reason": "친구들의 울음과 예수를 위해 죽을 각오까지 한 결의가 함께 나온다. 감정 표현이나 일상 선택의 결단만 떼기에는 생명 희생이 핵심 부담이다.",
+      "contextNote": "바울이 염려하는 이들에게 예루살렘행의 결의를 밝힌다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:21:14",
+      "textSha256": "b783b030a4d442a467c80bbcd268d41c8c0532f3ba4062a6960093a08103daa3",
+      "status": "candidate",
+      "reason": "설득을 받지 않자 더 붙잡지 않고 그치는 모습은 이미 뜻을 정한 친구를 계속 설득할지의 마음을 비춘다.",
+      "contextNote": "일행이 바울의 결심을 바꾸지 못하고 주의 뜻에 맡긴다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C027",
+          "clue": "권함을 더 받지 않자 그쳤다는 모습에서 내 아쉬움으로 계속 붙잡기보다 친구의 선택을 존중할 실마리를 읽는다.",
+          "friction": "현재 친구의 이동이 하나님의 직접 뜻이라고 판정하지 않는다. 사소한 동아리 이동과 순교의 여정은 다르며 실제 위해를 방관하라는 일반 규칙도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:21:15",
+      "textSha256": "b8b1c16db02c2877a7c23ddb49f8314195640e4c6d9329ef4cf1bbbcb817aaee",
+      "status": "candidate",
+      "reason": "행장을 준비해 길을 나서는 모습은 필요한 준비가 끝났는데도 시작을 미루는 마음을 비춘다.",
+      "contextNote": "여러 날 체류한 뒤 일행이 짐을 갖추고 예루살렘으로 올라간다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B006",
+          "clue": "준비한 행장을 가지고 실제로 올라가는 모습에서 이미 시간과 재료가 마련된 일을 더 미루지 않고 시작할 실마리를 읽는다.",
+          "friction": "종교적 여정과 개인 프로젝트는 다르다. 준비가 부족한 경우까지 무조건 출발하라는 뜻 없이 실제 준비가 된 입력에 대조한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:21:16",
+      "textSha256": "c0fba0fd0d07326baa1fa5069acd9adf460838c4a1fde421bca0a8ad2ebbba39",
+      "status": "exclude",
+      "reason": "동행자와 숙박할 집 주인의 출신 및 신앙 경력을 소개한다. 누가 어떻게 초대하기로 한 이유는 없고 인물 배경이 중심이다.",
+      "contextNote": "가이사랴 제자들과 나손이 예루살렘행에 동행한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:21:17",
+      "textSha256": "1e830bc82aef1fa87bdae9f8f56a422fe6adaab1a448ffbbe2c0d3e53f5a46fa",
+      "status": "candidate",
+      "reason": "도착한 사람들을 기꺼이 맞는 모습은 낯선 문화의 새 사람을 환대할지의 마음을 비춘다.",
+      "contextNote": "예루살렘 형제들이 바울 일행을 기쁘게 영접한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C022",
+          "clue": "기꺼이 영접하는 모습에서 나와 다르다는 이유로 거리를 두기보다 새 사람에게 함께하자고 할 마음을 읽는다.",
+          "friction": "사도 일행의 환영을 지금 새 사람의 품성을 보증하는 근거로 삼지 않는다. 예의 없는 행동은 없었다는 실제 입력에서 환대의 방향에 비춘다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:21:18",
+      "textSha256": "36a2d675f3763eb29470308f3fb5ce4277bbceb4ee306e158f057c2ad26c3931",
+      "status": "exclude",
+      "reason": "다음날 야고보와 장로들이 있는 곳에 들어갔다는 모임 배경이다. 어떤 부탁이나 설명을 할지는 다음에 남는다.",
+      "contextNote": "바울 일행이 예루살렘 교회 지도자들을 만난다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:21:19",
+      "textSha256": "dd101dcd55e67029dac642af9bc6f6138f5483a5a96411f3671ce759d78b8e4b",
+      "status": "candidate",
+      "reason": "자기가 믿음으로 겪은 일을 구체적으로 말하는 모습은 친구의 질문에 신앙을 얼버무릴지의 마음을 비춘다.",
+      "contextNote": "바울이 이방인 가운데 하나님이 행한 일을 예루살렘 지도자들에게 보고한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C019",
+          "clue": "겪은 일을 솔직히 고하는 모습에서 친구에게 내 믿음과 경험을 말할 실마리를 읽는다.",
+          "friction": "공적 선교 보고를 상대가 원치 않는 긴 말의 의무로 옮기지 않는다. 실제로 질문받은 개인 대화에 한정한 연결이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:21:20",
+      "textSha256": "c91c676f50777bf24b9f408249790b52520f83d916a58a320b2a953a41d31ce1",
+      "status": "hold",
+      "reason": "선교 보고에 영광을 돌린 뒤 율법에 열심인 수만 명의 상황을 말한다. 칭찬만 떼지 않으면 다음의 소문 문제를 풀어야 방향이 잡힌다.",
+      "contextNote": "예루살렘 지도자들이 감사한 뒤 유대 신자들의 율법 열심을 설명한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:21:21",
+      "textSha256": "380a5555363bde8061211438aed9a85272fe11652d6081b195327bb5372c3161",
+      "status": "hold",
+      "reason": "모세와 할례 및 규모를 배반하도록 가르친다는 소문이다. 규모가 관습이라는 옛뜻과 소문의 진위를 모르면 현재 행동의 기준으로 오인된다.",
+      "contextNote": "바울이 유대 관습을 버리도록 가르친다는 소문을 지도자들이 전한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:21:22",
+      "textSha256": "dd19493faebeb387640a3e9fe61d8cf8ace19a5e9abc62933018ec377344e357",
+      "status": "hold",
+      "reason": "어찌할지 묻고 바울의 도착이 알려질 것이라는 문제 제기다. 어떤 행동을 택할지의 관점은 다음 제안에 남는다.",
+      "contextNote": "지도자들이 소문을 우려하며 대처를 논의한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:21:23",
+      "textSha256": "aa430d86963767bd2b812f1c531738afb14ff89969f8b548ef5f8744f865ee4d",
+      "status": "hold",
+      "reason": "말하는 대로 하라며 서원한 네 사람을 소개하는 제안의 도입이다. 무엇을 왜 할지는 다음 의식을 풀어야 한다.",
+      "contextNote": "지도자들이 서원한 사람들과 함께 행동하라고 제안하기 시작한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:21:24",
+      "textSha256": "29b09510494c80753914282ccdc909bd70fbfd3670b497911ef62d666a923de6",
+      "status": "hold",
+      "reason": "비용을 내고 결례와 삭발을 함께 해 소문을 반증하라는 특수 의식이다. 일상 해명의 방법으로 삼으려면 의식과 율법의 배경이 필요하다.",
+      "contextNote": "지도자들이 바울에게 서원자들의 비용을 대어 율법 준수를 보이라고 권한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:21:25",
+      "textSha256": "0bc8edf85401f9a24f09dc49ac8bcdc6aa19d007eed9e8df8a175ac906e2b9e0",
+      "status": "hold",
+      "reason": "우상 제물과 피와 목매어 죽인 것 및 음행의 규정을 다시 요약한다. 일부 금지어만 떼지 않으면 현재 고민에 그대로 적용하기 어렵다.",
+      "contextNote": "이방 신자들에 대해서는 앞선 회의 결정을 재확인한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:21:26",
+      "textSha256": "8ecddc91715abe62def36c9ca349f7ffe7d85276f33ee934e3608768270a2e23",
+      "status": "hold",
+      "reason": "각 사람의 제사 시점까지 결례의 만기를 고한 의식 절차다. 정결 예법과 서원을 풀어야 하고 오늘의 일반 준비와 같게 만들기 어렵다.",
+      "contextNote": "바울이 제안을 따라 서원자들과 성전의 결례를 시작한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:21:27",
+      "textSha256": "bd38b2eaa9b1076bbd912c4041f289d2372298db41ecfe2026360a258448f528",
+      "status": "exclude",
+      "reason": "의식 기간이 차갈 때 사람들이 군중을 충동해 바울을 잡은 사건이다. 어떤 판단을 해야 하는지보다 폭력의 발단이 중심이다.",
+      "contextNote": "아시아에서 온 유대인들이 성전에서 바울을 붙잡는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:21:28",
+      "textSha256": "696f2c9672a58882ca9302f16fd2a77090b77166e6351e09737f991842f16cfc",
+      "status": "hold",
+      "reason": "성전과 율법을 훼방하고 헬라인을 데려와 더럽혔다는 긴 고발이다. 고발을 사실이나 낯선 사람 배제의 명령으로 옮기지 않도록 문맥이 필요하다.",
+      "contextNote": "바울이 성전 경계를 어겼다고 사람들이 외치지만 다음 절이 그 추측을 밝힌다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:21:29",
+      "textSha256": "bec85843350f4f744fc8fe77b3cf5798f75662c2543f716fcf7c13dbab4fb678",
+      "status": "candidate",
+      "reason": "성 안에서 함께 본 일을 성전 안까지 갔다고 추정한 모습은 확인 전 사람의 마음을 판단할지의 고민을 비춘다.",
+      "contextNote": "드로비모와 함께 있던 모습을 근거로 성전 동행까지 추정해 고발한 경위를 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H037",
+          "clue": "한 장면을 보고 다른 일까지 그랬다고 생각하는 모습에서 동료가 나를 싫어한다고 단정하기보다 먼저 물어보거나 내 추측을 돌아볼 실마리를 읽는다.",
+          "friction": "성전 출입과 속마음의 추정은 다르다. 현재 동료가 나를 좋아한다는 반대 확답도 없이 직접 보지 못한 부분을 더하는 습관을 비춘다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:21:30",
+      "textSha256": "e626515c5ced507607df7df119798245a66d865ba2e072a1e1d4da39eb5b6dd1",
+      "status": "exclude",
+      "reason": "군중이 바울을 잡아 성전 밖으로 끌고 나가고 문이 닫힌 사건이다. 닫힌 문을 현재 기회 종료의 징표로 바꾸지 않는다.",
+      "contextNote": "성전 소동으로 바울이 밖으로 끌려 나간다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:21:31",
+      "textSha256": "95d33b08d28e0fb7ba3ea9277d5a1c02456c375d8f24a0da319183c9e91c2d9f",
+      "status": "exclude",
+      "reason": "살해 위기와 소문이 군대 지휘관에게 들린 경과다. 듣고 어떤 행동을 하는지는 다음에 남고 현재의 실마리는 약하다.",
+      "contextNote": "군중이 바울을 죽이려는 때 천부장이 소동 소식을 듣는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:ACT:21:32",
+      "textSha256": "26e3e01b9fe030b30121bf572200b72fed552c44d783cef5485c742831d20f81",
+      "status": "hold",
+      "reason": "군사가 달려오자 구타가 멈춘 사건은 제지에 필요한 실제 권한과 힘이 중심이다. 평범한 친구의 말로 같은 결과가 날 능력을 보탤 수 없다.",
+      "contextNote": "천부장이 병사들을 데리고 와 군중의 바울 구타를 멈춘다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A007",
+          "clue": "상황을 악화시키지 않고 구타를 멈추게 하는 방향은 연결될 수 있다.",
+          "friction": "사용자는 말릴지 고민하는 친구이지 병력을 가진 지휘관이 아니다. 직접 물리 개입이나 제지 성공을 전제하지 않고 충분할지는 불확실하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ACT:21:33",
+      "textSha256": "f60ef836b537e600423549903ee15f0d2079b88d3c826fce1ce70f4400add326",
+      "status": "hold",
+      "reason": "결박을 먼저 명령한 뒤 누구며 무슨 일인지 묻는 군사적 체포다. 질문만 떼어 일상 소문의 청취 모범으로 만들기에는 강제 조치의 마찰이 크다.",
+      "contextNote": "천부장이 바울을 두 쇠사슬로 묶고 신원과 사건을 묻는다.",
+      "readability": "thinkable",
+      "connections": []
     }
   ]
 }
