@@ -6908,6 +6908,1254 @@
         }
       ],
       "textSha256": "435e7c23f5343ce1a090533c74d6094ae94992470885e97a1d39d0c6c8f051f8"
+    },
+    {
+      "id": "KRV:2SA:21:18",
+      "status": "exclude",
+      "reason": "십브개가 삽을 죽인 전투의 인명 기록이다. 생활의 두 선택에 방향을 줄 갈등이나 관점은 없다.",
+      "contextNote": "다윗 구출 뒤 다른 용사들의 전과를 열거한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "235c073544611e73d20005317639dabb3892548ed69885987adc7673e5353364"
+    },
+    {
+      "id": "KRV:2SA:21:19",
+      "status": "exclude",
+      "reason": "무기의 크기와 승전자의 계보가 중심이다. 거대한 부담을 이기리라는 성공 예고로 바꾸어 적용하지 않는다.",
+      "contextNote": "곱 전투에서 엘하난이 라흐미를 죽인 일이다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "44d5f43af22de9b4a414c3e3941a8b90ff983de91c8e87fabbfaebd37d58e3f7"
+    },
+    {
+      "id": "KRV:2SA:21:20",
+      "status": "exclude",
+      "reason": "거인의 신체 특징과 출신을 소개한다. 외모 때문에 모임에 갈지의 고민에는 타인의 기형과 전쟁을 억지로 대응해야 한다.",
+      "contextNote": "가드의 장대한 전사의 손발가락 수를 기록한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "c2c808979335bfb5c288cfe9ae444e832d5a0946e80a2bd4854e4fb88676e451"
+    },
+    {
+      "id": "KRV:2SA:21:21",
+      "status": "exclude",
+      "reason": "모욕한 상대를 죽인 전과다. 화난 친구를 말릴지의 고민에 이 보복 장면을 평온한 대응으로 뒤집어 쓰기는 어렵다.",
+      "contextNote": "요나단이 이스라엘을 능욕한 거인을 죽인다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "229eaaf0023eac48170e75f9168d1fda6d55bc543e286a1fa9e08f631b200dc1"
+    },
+    {
+      "id": "KRV:2SA:21:22",
+      "status": "exclude",
+      "reason": "앞서 나온 네 전사의 죽음을 합산하는 결말이다. 사용자 선택의 실마리보다 집단 전투의 승리 기록이다.",
+      "contextNote": "가드의 거인 후손들이 다윗 일행에게 패했음을 정리한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "2b2b334d308ca168fdf8e684473736cae4fdbf6dd4d45dfcaef6541c503f7713"
+    },
+    {
+      "id": "KRV:2SA:22:1",
+      "status": "exclude",
+      "reason": "구원받은 날 노래했다는 소개가 뒤의 발화로 이어진다. 감사의 내용이나 선택 관점은 이 절만으로 갖춰지지 않는다.",
+      "contextNote": "다윗의 구원 감사시를 여는 서술이다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "cd283fe159c72f1bc54daeb2ac95d0250067dddb2c1ced3de644112294e6d396"
+    },
+    {
+      "id": "KRV:2SA:22:2",
+      "status": "candidate",
+      "reason": "흔들릴 때 붙들 반석과 피할 요새라는 고백이 여러 의견보다 믿는 대상 앞에 잠시 머물 마음을 줄 수 있다.",
+      "contextNote": "대적에게서 구원받은 다윗이 여호와를 피난처로 부른다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A035",
+          "clue": "반석과 요새라는 말에서 여러 답을 더 구하기보다 하나님 앞에서 마음을 가라앉힐 중심을 읽을 수 있다.",
+          "friction": "다윗의 전쟁 감사이며 사용자의 어느 선택이 안전하거나 신의 뜻이라고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "9a6aec5888917371033ae5987da4088bc44163372bad003796f2c9107084c887"
+    },
+    {
+      "id": "KRV:2SA:22:3",
+      "status": "candidate",
+      "reason": "나의 피란처와 구원자라는 반복이 마음을 의지할 곳을 찾는 고민에 충분한 개인적 실마리를 준다.",
+      "contextNote": "구원의 뿔과 망대 등의 이미지로 하나님을 찬양한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A035",
+          "clue": "많은 조언 사이에서 나의 피할 바위라는 한 중심을 붙들어 조용히 기도할 마음을 읽는다.",
+          "friction": "구원의 뿔은 낯설 수 있고 흉악에서 구원하셨다는 말은 다윗의 회고다. 지금의 선택 결과나 현재 위험의 존재를 보태지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "2a1c0749c65b3a178add7317acc2db51d67f5983b7889c6c2cc3270ca628f3df"
+    },
+    {
+      "id": "KRV:2SA:22:4",
+      "status": "hold",
+      "reason": "아뢰겠다는 방향은 읽히지만 원수들로부터 구원받으리라는 전망이 함께 있다. 조언이 엇갈리는 고민에 원수를 새로 만들지 않는다.",
+      "contextNote": "다윗이 찬양하며 대적에게서의 구원을 노래한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "974173e4412df9d7b824e3f1161eaf497ca9caf2f489c76aa9981c91b868b200"
+    },
+    {
+      "id": "KRV:2SA:22:5",
+      "status": "hold",
+      "reason": "사망의 물결이라는 두려움의 묘사만 있다. 힘든 마음의 공감과 기도하거나 쉬겠다는 선택의 실마리는 다르다.",
+      "contextNote": "감사시 안에서 과거의 죽을 위기를 회상한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "39d4e0179d6c09c4478003396a1a3270302d7bbce1c8e1bf3f19180b629924da"
+    },
+    {
+      "id": "KRV:2SA:22:6",
+      "status": "hold",
+      "reason": "음부의 줄과 사망의 올무를 설명해야 하고 위기 묘사로 끝난다. 지금의 불안이 죽음의 덫이라는 판단도 보태기 어렵다.",
+      "contextNote": "앞절과 함께 다윗이 경험한 생명의 위험을 노래한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "437f816d8f35cc0e24dcda3624714c52e7fa09699e7feac4d970b488c3b453f9"
+    },
+    {
+      "id": "KRV:2SA:22:7",
+      "status": "candidate",
+      "reason": "괴로움 속에서 하나님께 말했고 그 소리가 들렸다는 고백이 혼자 답을 더 모으기보다 기도해 볼 실마리가 된다.",
+      "contextNote": "다윗은 환난 중 부르짖은 일을 회고하며 이어 하나님의 구원 장면을 노래한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A035",
+          "clue": "서로 다른 말들에 혼란스러울 때 내가 하나님께 아뢴다는 행동으로 마음을 돌려볼 수 있다.",
+          "friction": "그 전은 하나님이 들으신 곳이지 사용자가 꼭 예배당에 가야 한다는 조건은 아니다. 특정 답이나 원하는 결과가 들릴 것이라 약속하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "c066acc06bcf59ae468c5e93cb813261a7091ce2fa4c0958d0ae9457571e6c2e"
+    },
+    {
+      "id": "KRV:2SA:22:8",
+      "status": "hold",
+      "reason": "땅과 하늘이 진노로 요동하는 시적 장면이다. 현재 어려움을 하나님의 분노 탓으로 판정할 수 없고 생활 선택과도 거리가 있다.",
+      "contextNote": "기도 뒤 하나님의 임재를 폭풍과 지진으로 묘사한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "7fa363a103775ac4aa5183859fc96767af87cf53b467c811ec975c75f4659e3c"
+    },
+    {
+      "id": "KRV:2SA:22:9",
+      "status": "hold",
+      "reason": "코의 연기와 입의 불이라는 신현 표현은 풀이가 필요하다. 화를 쏟을지 참을지에 곧장 대응시키기 어렵다.",
+      "contextNote": "하나님의 진노를 불과 연기로 표현한 감사시다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "68fe7c7eecae60db2a3cea6e792612487b989df5a65bf1239a825613a71ed961"
+    },
+    {
+      "id": "KRV:2SA:22:10",
+      "status": "hold",
+      "reason": "하늘을 드리우고 내려오는 장면은 구원의 시적 배경이다. 현재 계획을 바꿀 근거가 절 안에는 없다.",
+      "contextNote": "하나님이 어둠 가운데 강림하시는 모습을 노래한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "2e324dc3c78719cf19e36c0794a79493f2c3a029fd3fbfd0b15354db51d216ed"
+    },
+    {
+      "id": "KRV:2SA:22:11",
+      "status": "hold",
+      "reason": "그룹과 바람 날개는 낯선 임재의 이미지다. 혼자 행사에 갈 용기나 이동을 선택할 실마리로 삼기에는 해석이 많이 필요하다.",
+      "contextNote": "하나님의 나타나심을 하늘의 움직임으로 그린다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "547bc1ee7d7d67899f493b9d1ac0776d2ff44e56dfe2c808f01358dc74a27d77"
+    },
+    {
+      "id": "KRV:2SA:22:12",
+      "status": "hold",
+      "reason": "흑암과 물과 구름을 장막 삼으신다는 묘사다. 혼자 쉬는 시간을 정하는 고민으로 옮기면 주체와 상황을 새로 바꿔야 한다.",
+      "contextNote": "폭풍 구름 속에 감추어진 하나님의 모습을 노래한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "73fbee4d7e3bc7c0283ef5cc29c10b70a52162817c31447b47603c892ae1b8ab"
+    },
+    {
+      "id": "KRV:2SA:22:13",
+      "status": "hold",
+      "reason": "광채로 숯불이 피었다는 이미지로 끝난다. 작은 시작을 격려하는 말은 이 절에 없다.",
+      "contextNote": "하나님의 강림을 둘러싼 빛과 불의 표현이다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "8b620a37cd284c6273dd7775fc77b1c80bbf9af02b2c9446276fe28aa4b7a516"
+    },
+    {
+      "id": "KRV:2SA:22:14",
+      "status": "hold",
+      "reason": "천둥을 하나님의 음성으로 노래한다. 고민에 실제 음성이 주어질 것처럼 적용하지 않고 선택의 실마리도 따로 찾기 어렵다.",
+      "contextNote": "폭풍 가운데 나타나신 하나님을 묘사한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "68eee35368e374ef0ab6ea7d6a4800298b823a142e84770c7ad6cf02bbbc0ce1"
+    },
+    {
+      "id": "KRV:2SA:22:15",
+      "status": "hold",
+      "reason": "화살과 번개로 적을 흩는 장면이다. 관계의 갈등 해결을 상대를 무너뜨리는 신적 개입으로 바꾸지 않는다.",
+      "contextNote": "구원의 시 안에서 하나님이 대적을 공격하심을 노래한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "b500bb09c1f93fc30119eff6e43b531608fd2d42ba297602d462791e8b4306e0"
+    },
+    {
+      "id": "KRV:2SA:22:16",
+      "status": "hold",
+      "reason": "물 밑과 땅의 기초가 드러난 거대한 사건의 시적 묘사다. 사실을 확인하라는 생활의 실마리로 줄이기에는 문맥 부담이 크다.",
+      "contextNote": "여호와의 꾸지람에 자연이 뒤집힌 모습을 노래한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "e3aa201d68b92fbda36e30dbe920d24e7dbeee47df1b1c7ccdc8004fdf624b79"
+    },
+    {
+      "id": "KRV:2SA:22:17",
+      "status": "hold",
+      "reason": "많은 물에서 건짐받은 고백은 위로가 되지만 지금의 두 선택을 가를 관점은 옅다. 현재 곤경도 같은 방식으로 끝난다는 전망은 보태지 않는다.",
+      "contextNote": "임재 묘사 뒤 다윗을 구하신 일을 노래한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "12bc3cef53de5ed0b0bc395e25877e7ff945d001eaecf868684e71e82ac2329b"
+    },
+    {
+      "id": "KRV:2SA:22:18",
+      "status": "hold",
+      "reason": "더 강한 원수에게서의 구원이라는 회고다. 도움을 부탁할까 하는 고민에 상대를 원수로 만드는 대응이 먼저 필요하다.",
+      "contextNote": "자신보다 강한 대적에게서 구원받았음을 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "318f4bd637e30c5014c63ddc9dac676ad463b37548a605e791cf9c2566b7817f"
+    },
+    {
+      "id": "KRV:2SA:22:19",
+      "status": "hold",
+      "reason": "재앙 날의 의지가 되었다는 고백은 마음을 받치지만 공격하러 온 저희의 대상이 빠져 있다. 일반 선택의 충분한 첫 결과로는 배경이 크다.",
+      "contextNote": "대적들이 다가온 때 여호와가 지지하셨음을 회고한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "c8649ab736673d2d54aeca92e95b5f7edcbd1929fcebce650772ef85425bc3bf"
+    },
+    {
+      "id": "KRV:2SA:22:20",
+      "status": "candidate",
+      "reason": "넓은 곳으로 인도받았다는 회고가 이미 더 잘 맞는 생활을 얻고도 과거에 매인 고민에 지금의 여유를 돌아볼 실마리가 된다.",
+      "contextNote": "다윗이 자신의 구원을 기뻐하시는 하나님의 행위로 노래한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A011",
+          "clue": "이미 옮긴 팀이 잘 맞는 현실을 넓은 곳이라는 말에 비춰 과거의 다툼보다 현재의 삶을 받아들일 마음을 읽을 수 있다.",
+          "friction": "사용자의 이직이 실제 신적 보상이나 하나님의 특별한 호감 때문이라고 확정하지 않는다. 다윗의 구원 고백과 개인적 비유를 구별한다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "ec2f16c62870b0f6e6c7976752e5ecbe62f3195302b701ed92a56ff8e80abca2"
+    },
+    {
+      "id": "KRV:2SA:22:21",
+      "status": "hold",
+      "reason": "깨끗함에 따라 보상받았다는 회고다. 지금 정직한 선택의 가치는 읽히지만 현재 보상 여부를 알려 주는 절로 쓰기에는 인과 부담이 크다.",
+      "contextNote": "다윗은 구원을 자신의 의와 연결해 노래한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "손의 깨끗함을 생각하며 과장하지 않을 마음은 읽을 수 있다.",
+          "friction": "좋은 평가를 원하는 고민에 정직하면 이번 평가가 좋아진다는 전망을 붙이지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "b07383d7a91ae4bfe561b3a190715db4177dce06c35bebbe661399134b1cb911"
+    },
+    {
+      "id": "KRV:2SA:22:22",
+      "status": "hold",
+      "reason": "하나님을 떠나지 않았다는 이유가 뒤 절들과 이어진다. 신앙 기준을 지킬 마음은 있으나 악을 행하지 않았다는 자기 평가까지 함께 읽어야 한다.",
+      "contextNote": "구원받은 이유를 다윗 자신의 신앙적 충실함으로 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "6e6052627e536b21f347433d8afee356b5996e75c9f65b2912ab290d347eff6f"
+    },
+    {
+      "id": "KRV:2SA:22:23",
+      "status": "candidate",
+      "reason": "눈앞에 두는 규례와 버리지 않는 기준이 친구들의 권유 속에서도 내 신앙을 지킬 실마리를 준다.",
+      "contextNote": "다윗이 하나님의 도를 지켰다는 앞절의 구체 내용을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A036",
+          "clue": "함께 놀고 싶은 마음과 별개로 내 앞에 두었던 신앙의 기준을 버리지 않겠다는 방향을 읽을 수 있다.",
+          "friction": "이 절에 점집이 직접 나오지는 않는다. 사용자가 이미 밝힌 신앙과 불편함에 연결하며 친구들을 악인으로 규정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "779c2995e7f53232a5ddb70bd98aaa654fe18033e56201ad20cd7f0c04be1755"
+    },
+    {
+      "id": "KRV:2SA:22:24",
+      "status": "candidate",
+      "reason": "스스로 지켜 죄악을 피한다는 표현이 남의 평가를 위해 사실을 꾸밀지의 갈림길을 짚는다.",
+      "contextNote": "다윗이 하나님 앞에서 자신을 지켰다고 고백한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "유리하게 꾸미고 싶은 순간 스스로 지켜 피한다는 말이 솔직히 쓸 마음을 줄 수 있다.",
+          "friction": "완전하다는 자기 고백을 사용자가 이미 흠 없는 사람이라는 판정으로 옮기지 않는다. 정직의 평가 보장도 없다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "475d559cf1b3027a871418f2219eacca6f64bdefc489d0515a533983430dd921"
+    },
+    {
+      "id": "KRV:2SA:22:25",
+      "status": "hold",
+      "reason": "의와 깨끗함대로 갚으셨다는 결론이다. 현재의 곤란이 더러움 때문이라는 역방향 판정이나 정직의 현세 보상으로 확대하기 어렵다.",
+      "contextNote": "앞의 신앙적 충실함과 다윗의 구원을 다시 연결한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "ba33d1ad35b8ea23b56b8506e52b12c7140d2d9cc0d71e1556f5c56aab2b6fe5"
+    },
+    {
+      "id": "KRV:2SA:22:26",
+      "status": "candidate",
+      "reason": "자비에 자비로 응하신다는 표현이 작은 실수를 계속 따질지 마음을 풀지의 갈등에 타인을 대하는 기준을 비춘다.",
+      "contextNote": "하나님이 사람의 태도에 맞게 응하심을 노래하는 대구다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H028",
+          "clue": "자비라는 말에 주목해 작은 실수를 더 따지기보다 너그럽게 대할 여지를 읽는다.",
+          "friction": "완전한 자에게 완전하심이라는 뒷부분도 함께 읽는다. 용서하면 내 바람이 이루어진다거나 친구가 변한다는 보장은 붙이지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "afbfceee38e4b5c516b1052938a7bf5572ba21b406208981d6ddb608ff3b1f36"
+    },
+    {
+      "id": "KRV:2SA:22:27",
+      "status": "hold",
+      "reason": "사특한 자를 거스르신다는 말과 깨끗함의 대구다. 상대를 사특하다고 판단해야 관계 선택이 쉬워지는 적용은 근거가 부족하다.",
+      "contextNote": "하나님이 각 태도에 응하신다는 앞절의 대구를 잇는다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "89934027765505270e8fb5e792e09f832b326e722829fa8e339edb0afe7e9f32"
+    },
+    {
+      "id": "KRV:2SA:22:28",
+      "status": "hold",
+      "reason": "곤고한 이의 구원과 교만한 이의 낮아짐을 대비한다. 비교 때문에 힘든 마음의 위로는 있으나 축하하러 갈지의 선택까지는 덜 닿는다.",
+      "contextNote": "하나님의 보호와 교만에 대한 심판을 노래한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "e69841cc22f386575f9da069532c5a318b32a860ff0b697d6c2141bbb92bbcc0"
+    },
+    {
+      "id": "KRV:2SA:22:29",
+      "status": "candidate",
+      "reason": "나의 등불이라는 비유가 답이 흐려진 상황에서 더 많은 사람보다 하나님께 마음을 돌릴 중심을 준다.",
+      "contextNote": "다윗이 여호와를 어둠을 밝히는 등불로 부른다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A035",
+          "clue": "엇갈린 조언 때문에 내 마음이 더 흐려졌을 때 등불을 구하듯 잠시 기도하며 돌아볼 마음을 읽는다.",
+          "friction": "곧 특정 답이 계시된다거나 밝아진 느낌이 하나님의 확정된 명령이라고 말하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "607936a40641993a9bc8ba88f635ef40521920995f9dd272233039b634b4744f"
+    },
+    {
+      "id": "KRV:2SA:22:30",
+      "status": "candidate",
+      "reason": "의뢰하고 달리며 뛰어넘는 동적인 고백이 처음 맡는 일을 두려워만 하던 고민에 시도할 실마리가 될 수 있다.",
+      "contextNote": "다윗은 하나님을 의지해 전투의 장애를 넘은 일을 노래한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G15",
+          "clue": "성벽 앞에 멈춘 듯한 두려움에 의지하고 달린다는 말을 비춰 지원해 볼 쪽으로 마음을 기울일 수 있다.",
+          "friction": "전쟁의 장면을 개인적으로 비유한 예상이다. 실제 운영 능력·합격·성공이 주어졌다고 보장하거나 동료를 적군으로 만들지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "6fdd43bdbb182a851ed6dfb2a4eeac78aac7aa6ce45f936e032ec01a8f86829f"
+    },
+    {
+      "id": "KRV:2SA:22:31",
+      "status": "candidate",
+      "reason": "하나님께 피하는 이의 방패라는 말이 여러 의견에 흔들릴 때 믿는 기준으로 돌아갈 실마리를 준다.",
+      "contextNote": "다윗은 하나님의 도와 말씀의 온전함을 고백한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A035",
+          "clue": "정미한 말씀과 방패라는 말에서 사람의 답을 더 모으기보다 하나님 앞에 마음을 두고 기도할 여유를 읽는다.",
+          "friction": "정미하다는 옛말이 조금 낯설 수 있다. 내게 떠오른 특정 선택을 완전한 하나님의 답으로 확정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "55e6abfc7532122220be55fd67462ba893ac6e0bca83595d7c1b3d1800d9a8dc"
+    },
+    {
+      "id": "KRV:2SA:22:32",
+      "status": "candidate",
+      "reason": "누가 바위냐는 물음은 여러 말 사이에서 무엇을 중심에 둘지 돌아보게 한다.",
+      "contextNote": "구원의 노래에서 유일한 하나님을 바위로 고백한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A035",
+          "clue": "다른 사람의 의견을 계속 쌓기보다 내가 의지하는 바위를 떠올리고 조용히 기도할 마음을 읽을 수 있다.",
+          "friction": "다른 조언을 무시하라는 서비스 결론이 아니며 기도 뒤 선택의 정답을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "7528ec98d7633fe91836f15033064ca7561314252d640b26f73ab846d3532c9f"
+    },
+    {
+      "id": "KRV:2SA:22:33",
+      "status": "hold",
+      "reason": "견고한 요새와 온전한 곳으로 인도하심이 이어지는 문장이다. 위로는 있으나 구체 방향은 다음 절들에 더 기대고 있다.",
+      "contextNote": "하나님이 왕의 길과 능력을 도우셨음을 이어 노래한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "6ea7a91525b373b5544466243c2f1b83339917749b855ab6f93afd661f753616"
+    },
+    {
+      "id": "KRV:2SA:22:34",
+      "status": "hold",
+      "reason": "사슴 같은 발과 높은 자리를 받은 회고다. 새 일을 시도할 마음으로 읽을 여지는 있지만 현재 능력과 지위를 새로 보태기 쉽다.",
+      "contextNote": "다윗의 민첩함과 높은 자리를 하나님께 돌린다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "3e598c685dd63559bcf352b716f20520bd75a7444df4b2f5b58a86e03099dca4"
+    },
+    {
+      "id": "KRV:2SA:22:35",
+      "status": "hold",
+      "reason": "싸움 훈련과 놋활을 당기는 힘이다. 익숙한 발표 도구를 쓸지의 고민에 도구의 숙련 여부는 닮아도 싸움의 능력을 그대로 옮길 수 없다.",
+      "contextNote": "하나님이 다윗의 전투 능력을 가르치셨다고 노래한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "00db57c728cccfd018acac4c28bd873dd28dfb146386c56588223d209f16e4e3"
+    },
+    {
+      "id": "KRV:2SA:22:36",
+      "status": "candidate",
+      "reason": "도움과 온유함이 나를 크게 했다는 감사가 도움받은 일을 과장 없이 나누려는 마음을 뒷받침한다.",
+      "contextNote": "다윗은 구원의 방패와 하나님의 온유함을 찬양한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B031",
+          "clue": "혼자 이룬 일처럼 두기보다 도움과 온유함을 고백하는 말에서 받은 도움과 감사를 솔직히 나눌 용기를 읽는다.",
+          "friction": "다윗의 전쟁 감사와 친구에게 도움받은 경험은 다르다. 친구의 도움을 실제 신적 보상이라고 확정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "b5b8b11abfd2ed9fadb3143874bcac6473aad235eee947d28574bfb766208b74"
+    },
+    {
+      "id": "KRV:2SA:22:37",
+      "status": "hold",
+      "reason": "걸음이 넓어지고 넘어지지 않았다는 회고는 안정의 위로다. 새 시도에 앞으로도 실족하지 않는다는 전망을 보태야 방향이 또렷해진다.",
+      "contextNote": "전투에서 걸음을 지켜 주신 일을 노래한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "c0bf26d7ef1d2dbc5dab3ea4c9e226a5c48e3542cce026a6f4fd7bbb9bfcd210"
+    },
+    {
+      "id": "KRV:2SA:22:38",
+      "status": "hold",
+      "reason": "돌이키지 않은 끈기 뒤에 원수의 완전한 멸망이 목적이다. 그 뒷말을 지우고 과제를 끝내라는 격려로 쓰지 않는다.",
+      "contextNote": "다윗이 원수를 끝까지 추격해 멸한 전과를 말한다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "f2a46682f7b972cc14ff39770ea961e9b5b4348e9e4c1fdbed4e40cfce55ffc1"
+    },
+    {
+      "id": "KRV:2SA:22:39",
+      "status": "hold",
+      "reason": "상대가 일어나지 못하도록 무찌른 전쟁의 결말이다. 관계에서 거리를 둘지의 선택을 상대 제압으로 바꿀 수 없다.",
+      "contextNote": "승리해 적이 발 아래 엎드러졌다고 노래한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "aeea89ca83dc382b5e8187f517d2e2254cfefb67b5c5383f930a62f46045afc2"
+    },
+    {
+      "id": "KRV:2SA:22:40",
+      "status": "hold",
+      "reason": "능력의 목적이 전쟁과 상대의 굴복으로 명시된다. 처음 역할을 맡을 용기만 남기면 절 전체가 달라진다.",
+      "contextNote": "하나님이 왕에게 전투 능력을 주셨다는 고백이다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "3185245f16add6568709a73789936a676be17b7b49280e10fd99e1a0432017a4"
+    },
+    {
+      "id": "KRV:2SA:22:41",
+      "status": "hold",
+      "reason": "미워하는 이를 끊어 버렸다는 고백이다. 원망을 정리하는 개인적 선택과 실제 사람의 제거를 같은 결론으로 놓기 어렵다.",
+      "contextNote": "대적들이 등을 돌려 달아난 다윗의 전승을 노래한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "972956ec8a47437504e110e104c26fd1679eda0c0dd87e6365aa0a82bae93ebf"
+    },
+    {
+      "id": "KRV:2SA:22:42",
+      "status": "hold",
+      "reason": "적들이 도움을 얻지 못한 패배의 묘사다. 기도 응답이 걱정되는 사용자에게 불응답을 판정할 내용은 아니다.",
+      "contextNote": "다윗의 원수들이 구원을 구해도 얻지 못했다고 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "2f8c6c57df80878de4bdaa0674bea4a5686f8b363e1a589e937372281249b693"
+    },
+    {
+      "id": "KRV:2SA:22:43",
+      "status": "hold",
+      "reason": "티끌과 진흙처럼 적을 짓밟았다는 전투 비유다. 과거 갈등을 잊거나 팀을 떠날지의 생활 선택과는 거리가 크다.",
+      "contextNote": "원수들의 철저한 패망을 왕이 노래한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "600dce56c9b24c7ca24cbd18be658795c8e0d5b7fc5b86a5004c379538cee4ca"
+    },
+    {
+      "id": "KRV:2SA:22:44",
+      "status": "hold",
+      "reason": "내 백성의 다툼에서 구원된 뒤 열방의 으뜸과 낯선 백성의 섬김까지 말한다. 단순히 다툼에서 벗어날 실마리로 줄이지 않는다.",
+      "contextNote": "왕권의 보전과 여러 민족의 복종을 함께 감사한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "914ff334eb162e119f835a871a1c73e250dcc7586bf9a9bc332195fc8426f7a4"
+    },
+    {
+      "id": "KRV:2SA:22:45",
+      "status": "hold",
+      "reason": "이방인의 굴복과 복종을 기대하는 왕의 말이다. 나이가 어린 지원자의 책임감 고민에 타인의 복종을 보태는 연결은 충분하지 않다.",
+      "contextNote": "주변 민족들이 다윗의 명성을 듣고 순복한다고 노래한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "c588e609389b93a5ecb6ae921265b3f1e821b132a3fc07e97cf91c7e16947c36"
+    },
+    {
+      "id": "KRV:2SA:22:46",
+      "status": "hold",
+      "reason": "견고한 곳에서 떨며 나오는 민족의 패배다. 두려워도 새 일을 시도하라는 방향으로 바꾸면 원문의 굴복과 다르다.",
+      "contextNote": "이방 민족들이 왕에게 복종하는 앞절의 장면을 잇는다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "41b245852e76cb1fd4dede4066465f18758ae3f85ef598daf552b5f940556e4b"
+    },
+    {
+      "id": "KRV:2SA:22:47",
+      "status": "candidate",
+      "reason": "살아 계신 하나님과 바위를 찬양하는 말 자체가 도움받은 일의 감사를 숨길지 나눌지에 실마리를 준다.",
+      "contextNote": "승전을 노래한 다윗이 구원의 하나님을 높인다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B031",
+          "clue": "감사한 일을 유난스럽게 느껴 숨기기보다 내 의지가 된 하나님을 높인다는 말에 마음을 놓고 나눌 수 있다.",
+          "friction": "왕의 구원 노래다. 친구의 도움을 현재의 특별한 신적 보상으로 판정하지 않고 감사 표현에 연결한다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "e312e494feefc775cd14329f17cbc1d2aadaae3bff745be18c95c284bdb4adc0"
+    },
+    {
+      "id": "KRV:2SA:22:48",
+      "status": "hold",
+      "reason": "보복과 민족의 복종이 함께 제시된다. 억울한 일에 대한 마음의 위로로만 남기면 뒤의 지배 장면을 지우게 된다.",
+      "contextNote": "다윗이 원수에게 갚아 주신 하나님을 찬양한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "6d6d5e252d94a94851de86871ca104fb517a8ebf55483274a4a51f2261b69e4b"
+    },
+    {
+      "id": "KRV:2SA:22:49",
+      "status": "hold",
+      "reason": "구출뿐 아니라 대적 위에 높아짐까지 말한다. 지난 갈등을 정리할지의 고민에 상대보다 높아질 현실 조건을 넣기 어렵다.",
+      "contextNote": "강포한 자에게서 다윗을 구하고 높이신 일을 노래한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "8f32a7939d3aa78c301c7ba0a2c062c89ccc4c414d86978a3226ee508871dbb6"
+    },
+    {
+      "id": "KRV:2SA:22:50",
+      "status": "candidate",
+      "reason": "사람들 가운데 감사하고 찬양하겠다는 말이 받은 도움의 감사를 공개적으로 나눌지의 망설임에 닿는다.",
+      "contextNote": "다윗은 구원에 대한 응답으로 열방 중 감사를 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B031",
+          "clue": "다른 이들 가운데서도 주께 감사한다는 말에서 교회 모임에서 내 감사한 일을 솔직히 나눌 마음을 읽는다.",
+          "friction": "열방과 교회 모임은 같은 장소가 아니며 감사의 규모나 말투를 강요하지 않는다. 생성 사례에 대한 사전 예상이다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "3cdf5ca79ed7be454523d9fc4aa48e4f1d97353f8a777917111841b168e42571"
+    },
+    {
+      "id": "KRV:2SA:22:51",
+      "status": "hold",
+      "reason": "기름 부음 받은 왕과 다윗 후손에게 영원한 인자를 말하는 결말이다. 개인의 선택에 그대로 주어진 언약으로 옮길 수 없다.",
+      "contextNote": "감사시를 다윗 왕조에 대한 구원의 고백으로 마친다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "e180254281b28e44d3c63d354d7d10b173766ff77c7fae645bf4cc2a35bb9177"
+    },
+    {
+      "id": "KRV:2SA:23:1",
+      "status": "exclude",
+      "reason": "다윗의 신분과 마지막 말의 소개다. 높이 올리웠다는 말만으로 지원자의 현재 능력이나 자격을 인정할 수 없다.",
+      "contextNote": "기름 부음 받은 다윗의 마지막 발화를 연다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "2355b452154c07a9eb3fcb505e34a6935dfa5d88cc7e47978c08c656d1115056"
+    },
+    {
+      "id": "KRV:2SA:23:2",
+      "status": "hold",
+      "reason": "영이 내 혀로 말씀하신다는 다윗의 고백이다. 개인 판단을 하나님의 뜻이라고 포장할지의 고민에 이를 자신의 권한으로 읽게 할 우려가 남는다.",
+      "contextNote": "마지막 말의 신적 출처를 다윗이 밝힌다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C001",
+          "clue": "말의 출처를 의식하게 하는 대조는 가능하다.",
+          "friction": "실제로 받은 말씀이 없다는 고민이므로 사용자가 지금 신의 말씀을 전한다는 확증으로 쓰지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "ec6fef325d5f89893bd733dfef01d1ffbc39f157324d622fd417dcd9e91b89ba"
+    },
+    {
+      "id": "KRV:2SA:23:3",
+      "status": "candidate",
+      "reason": "다스리는 사람의 기준을 공의와 경외에 두어 자기 몫을 더 챙길지의 책임 있는 갈림길을 비춘다.",
+      "contextNote": "다윗이 하나님께 받은 통치자에 관한 말씀을 전한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A021",
+          "clue": "보상금을 맡은 역할에서 내 수고만 높이기보다 공의롭게 다스린다는 기준을 따라 함께한 몫을 돌아볼 수 있다.",
+          "friction": "다음 절의 통치자 비유로 이어지는 호칭이다. 이 절이 정산 방식을 수학적으로 정하거나 사용자에게 왕권을 주는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "7b322f5e4e5f5f456efb3fb4a8196f3a160b7077ff261b3ea959ac10e77f13ce"
+    },
+    {
+      "id": "KRV:2SA:23:4",
+      "status": "hold",
+      "reason": "아침빛과 새 풀의 아름다운 비유지만 저가 누구인지와 다스림의 조건은 앞절에 있다. 처음 지원할지의 고민에 막연한 성공 이미지로만 닿는다.",
+      "contextNote": "공의로 다스리는 통치자를 아침빛에 비유한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "d786939d8ced7bb2f3bd2964f9d9b6a6ce874eceb7e034f642d392f410efe59a"
+    },
+    {
+      "id": "KRV:2SA:23:5",
+      "status": "hold",
+      "reason": "영원한 언약과 집안의 구원·소원 성취를 한데 말한다. 단순한 새 시도의 기대에 왕조 언약을 개인 결과 보장으로 옮기기 어렵다.",
+      "contextNote": "다윗이 자기 집에 세워진 하나님의 언약을 노래한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "692b901737f9aee729e497458dc9205fa3aa5f5dd8c0fe2c7698245f6984b59d"
+    },
+    {
+      "id": "KRV:2SA:23:6",
+      "status": "hold",
+      "reason": "사악한 사람을 손댈 수 없는 가시에 비유한다. 선을 넘는 친구와 거리를 둘지에는 친구를 사악하다고 확정할 정보가 없다.",
+      "contextNote": "공의로운 다스림과 대비해 사악한 자의 끝을 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "6f358410ca87da6be42906330383d72e67b9316cdaa8c57485ceb76ffeede3bc"
+    },
+    {
+      "id": "KRV:2SA:23:7",
+      "status": "hold",
+      "reason": "가시를 다룰 무기와 불사름이 결말이다. 관계의 경계를 세울지 고민할 때 상대를 제거할 가시로 설정해야 연결된다.",
+      "contextNote": "사악한 자를 가시나무에 빗댄 앞절을 잇는다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "95e578b83619b4ed8072246486f75ed8bd788c3c20223c9d7177e64352dc8f62"
+    },
+    {
+      "id": "KRV:2SA:23:8",
+      "status": "exclude",
+      "reason": "장수의 여러 이름과 팔백 명을 죽인 전과가 중심이다. 이력에 자기 기여를 쓸지와 전투의 서열 기록은 충분히 닿지 않는다.",
+      "contextNote": "다윗의 용사 명단을 첫 전투 성과로 시작한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "7a352895d05b3890eee0a834d910d3a76d8468191349a55bb16b5d129352acb3"
+    },
+    {
+      "id": "KRV:2SA:23:9",
+      "status": "exclude",
+      "reason": "엘르아살 소개와 전투가 시작되는 배경이다. 물러간 사람과 싸움을 돋운 사람의 등장만으로 일상 선택의 방향은 완성되지 않는다.",
+      "contextNote": "블레셋 전투에서 세 용사가 남았음을 소개한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "fed3542e12be1dc8168b34364fe265fa32e75ac55b389cec19aab196182bdef9"
+    },
+    {
+      "id": "KRV:2SA:23:10",
+      "status": "hold",
+      "reason": "손이 칼에 붙도록 싸운 끝의 승리와 노략이다. 피곤해도 공부를 계속하면 이긴다는 격려로 쓰면 전투와 보상의 조건을 바꾸게 된다.",
+      "contextNote": "엘르아살이 싸우고 돌아온 백성은 전리품을 거둔다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "a06a51cdd25970cec37b6a46a4223e35714d015ee23e8c6d229c12f7101e53de"
+    },
+    {
+      "id": "KRV:2SA:23:11",
+      "status": "exclude",
+      "reason": "삼마 소개와 백성의 도주로 끝나는 전투 배경이다. 도망할지 맞설지의 선택에 아직 삼마의 행동이 나오지 않았다.",
+      "contextNote": "녹두밭에 블레셋 군대가 모여든 상황이다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "2ac75dea491e7a6a926060dae1cbc21965a1b2f040ea25b70223b2a25b6151c2"
+    },
+    {
+      "id": "KRV:2SA:23:12",
+      "status": "hold",
+      "reason": "밭을 지켜 적을 친 뒤 큰 구원을 얻은 기록이다. 공동 공간을 맡아 정리하는 고민에는 실제 적과 공격을 새로 대응해야 한다.",
+      "contextNote": "삼마가 도망한 백성과 달리 밭을 막아 싸운다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "ed84c2d757bc523f2aa0d588ec4a47e61b93e823b74a079b0e110ad8f233d184"
+    },
+    {
+      "id": "KRV:2SA:23:13",
+      "status": "exclude",
+      "reason": "세 용사가 찾아온 시기와 군대 위치의 소개다. 현재 작은 모임을 시작할지의 고민에 숫자 셋만 일치한다.",
+      "contextNote": "아둘람에 세 용사가 오고 블레셋은 골짜기에 진을 친다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "bf449fc0c102d7bd622c3c4e6e5e844671fe7954987b54d4bdf8f500f70ad48a"
+    },
+    {
+      "id": "KRV:2SA:23:14",
+      "status": "exclude",
+      "reason": "서로의 주둔지를 적은 배경이다. 피난과 이동을 선택하는 관점이 절 자체에는 없다.",
+      "contextNote": "다윗은 산성에, 블레셋 영채는 베들레헴에 있다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "fd1d779b5bda5de262eb0bd8f069badac1e8ddf4c1f1654988b96eb1975629bf"
+    },
+    {
+      "id": "KRV:2SA:23:15",
+      "status": "hold",
+      "reason": "고향 우물물을 그리워하는 소망의 표현이다. 가족과 축제 중 선택할지에 그리움은 닮아도 취할 행동의 실마리는 약하다.",
+      "contextNote": "다윗의 물에 대한 말이 용사들의 위험한 행동으로 이어진다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "293a839e3e7ba28203d9281b543720192be498218e394e29778adc4412878ddb"
+    },
+    {
+      "id": "KRV:2SA:23:16",
+      "status": "hold",
+      "reason": "수고해 가져온 물을 거절하는 행동은 있으나 생명 위험을 어떻게 받아들였는지 이유가 다음 절에 있다. 제의적 부음까지 풀이 없이 연결하기는 어렵다.",
+      "contextNote": "세 용사가 적진을 뚫고 구해 온 물을 다윗이 하나님께 붓는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B002",
+          "clue": "무리해서 건넨 도움을 그대로 받아 누리지 않는 모습은 닮았다.",
+          "friction": "물을 부어 드린 이유를 다음 절 없이 이해하기 어렵고 도움 자체의 낭비로도 읽힐 수 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "0d89e858861e7e244fe3e16f5cc61d5144bcb86e919c4a4c11967a5ef6d43e3c"
+    },
+    {
+      "id": "KRV:2SA:23:17",
+      "status": "candidate",
+      "reason": "선물보다 그것을 위해 무릅쓴 사람의 생명을 헤아려 마시지 않는 장면이 과한 희생의 도움을 받을지의 갈등에 충분히 닿는다.",
+      "contextNote": "다윗은 용사들이 목숨 걸고 가져온 물을 피에 빗대어 거절한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B002",
+          "clue": "내게 필요한 것이라도 도와주는 사람의 위험과 희생을 먼저 헤아려 부담을 덜어 달라고 할 마음을 읽을 수 있다.",
+          "friction": "현재 친구가 죽을 위험에 있다는 뜻은 아니다. 피는 용사들이 치른 희생을 표현한 비유이며 도움을 모두 거절하라는 일반 규칙으로 넓히지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "89dc427def892a69ebf9ae1270845d9879ad1f42e65d80890a994616e02cd536"
+    },
+    {
+      "id": "KRV:2SA:23:18",
+      "status": "exclude",
+      "reason": "아비새의 혈연과 삼백 명을 죽인 전과다. 팀에서 경험과 공헌을 인정할 관점보다 군사 서열의 소개가 크다.",
+      "contextNote": "용사 명단에서 아비새의 성과와 지위를 소개한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "636153d1f18d153ff734c101c997d7e3350b29c00a4e6235830695349f7a9961"
+    },
+    {
+      "id": "KRV:2SA:23:19",
+      "status": "hold",
+      "reason": "존귀하지만 첫 삼인에 못 미친다는 비교다. 남보다 느린 성과의 고민에 위로는 가능해도 삼인의 구분을 알아야 하고 계획 선택의 실마리는 옅다.",
+      "contextNote": "아비새의 높은 지위와 앞선 세 용사와의 차이를 정리한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "a8fbe25328cb18d897dc6b5467b50486f844809c06cc04a82a8848661bcfe97e"
+    },
+    {
+      "id": "KRV:2SA:23:20",
+      "status": "exclude",
+      "reason": "브나야의 계보와 사람·사자를 죽인 전과다. 두려운 새 일에 도전하라는 방향만 남기기에는 폭력과 인명 정보가 무겁다.",
+      "contextNote": "브나야가 모압 인물들과 눈 오는 날 사자를 죽인 일을 든다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "94e8cf960b53e4f3926fbbf41f6234769154cc6c9c97cf34fc1390799cd40fc1"
+    },
+    {
+      "id": "KRV:2SA:23:21",
+      "status": "hold",
+      "reason": "상대의 창을 빼앗아 죽인 무용담이다. 익숙한 도구를 쓸지의 고민에 전술적 살해를 성공 방법으로 바꾸기는 어렵다.",
+      "contextNote": "브나야가 막대로 접근해 애굽 전사의 창을 빼앗은 일이다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "1b1be7b59190b64d9fabc7f64769866d2d2f490262f2d17a03bb01ce218d5138"
+    },
+    {
+      "id": "KRV:2SA:23:22",
+      "status": "exclude",
+      "reason": "앞의 이런 일과 세 용사의 지위가 전제된 이름 획득의 연결문이다. 자기 기여를 밝힐지의 선택을 독립적으로 비추지 못한다.",
+      "contextNote": "브나야의 앞선 전과로 명성을 얻었다고 정리한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "cfd93c7d3274d89c30c9841be7dc61b07b7115992f40ba493b7d3fc268134a0f"
+    },
+    {
+      "id": "KRV:2SA:23:23",
+      "status": "candidate",
+      "reason": "최상위 세 사람에는 못 미쳐도 중요한 직무를 맡긴다는 장면이 남보다 빠르지 않은 성과의 가치를 돌아볼 실마리가 된다.",
+      "contextNote": "브나야가 다른 용사들과 구별되는 지위로 시위대 장관에 임명된다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H046",
+          "clue": "첫 삼인에 미치지 못해도 맡을 자리가 있다는 말에서 남의 속도에 맞춰 급히 바꾸기보다 내 역할과 계획의 가치를 볼 수 있다.",
+          "friction": "군사 서열은 낯설고 사용자가 실제 장관급 능력이나 지위를 갖췄다는 뜻은 아니다. 현재 계획의 성공을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "5edcd60f86fd6ee4fb18b219da9da9305407f9de37e4b4a4778b10e2ec016db7"
+    },
+    {
+      "id": "KRV:2SA:23:24",
+      "status": "exclude",
+      "reason": "아사헬과 엘하난의 이름을 나열한다. 명단에 있다는 사실만으로 생활 선택의 방향을 읽기 어렵다.",
+      "contextNote": "삼십 용사의 인명 열거가 시작된다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "ff109a8d919370dc3f390c645a6dfaaab29371b143f77c12d7a9f8dc752385a8"
+    },
+    {
+      "id": "KRV:2SA:23:25",
+      "status": "exclude",
+      "reason": "삼훗과 엘리가의 출신·이름만 제시한다. 공헌 인정의 원칙이나 갈림길은 없다.",
+      "contextNote": "용사 명단에서 하롯 출신 두 인물을 잇는다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "ae663d2282a21b0af3cef53a257ca27fdc4e744caa3a8ec740053037764fe32f"
+    },
+    {
+      "id": "KRV:2SA:23:26",
+      "status": "exclude",
+      "reason": "헬레스와 이라의 인명·가계 기록이다. 협업할 사람을 고를 실마리로 삼을 성품이나 선택은 제시되지 않는다.",
+      "contextNote": "발디와 드고아 출신 용사들을 기록한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "13aa6513896a706de1d080300f22c942cce251c3173552765ee77cfe46fa76a4"
+    },
+    {
+      "id": "KRV:2SA:23:27",
+      "status": "exclude",
+      "reason": "아비에셀과 므분내의 출신·이름이다. 관계나 역할을 바꿀 개인적 방향은 없다.",
+      "contextNote": "다윗의 용사 명단을 이어 적는다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "6f1639c3296a10e4fab9b16be8616890ed00e0448f61dc07bcea78350949cf6c"
+    },
+    {
+      "id": "KRV:2SA:23:28",
+      "status": "exclude",
+      "reason": "살몬과 마하래를 명단에 더한다. 나열된 이름 외에 갈등이나 행동 기준이 없다.",
+      "contextNote": "아호아와 느도바 출신 용사를 소개한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "8a9f5df6f7ac56c5093c74d12f47078657d40877d11c61cfd7f5d6e8d319b1f3"
+    },
+    {
+      "id": "KRV:2SA:23:29",
+      "status": "exclude",
+      "reason": "헬렙과 잇대의 가계·출신 정보를 열거한다. 현재 모임에 참여할지의 고민과 연결할 행동은 없다.",
+      "contextNote": "느도바와 기브아 용사를 나열한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "3f5feaab90151f66eb301329659fca1ec6d279f6485a3d26d1491d27320e1dc6"
+    },
+    {
+      "id": "KRV:2SA:23:30",
+      "status": "exclude",
+      "reason": "브나야와 힛대의 거주지와 이름뿐이다. 새로운 장소를 고르는 판단의 근거는 제시되지 않는다.",
+      "contextNote": "비라돈과 가아스 지역 인물의 명단이다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "8ee9379af29da3a7a4949530fa4e9ad21a29dbd1ec7b9a5ff5f44f2f303550b5"
+    },
+    {
+      "id": "KRV:2SA:23:31",
+      "status": "exclude",
+      "reason": "아비알본과 아스마웻의 출신·인명을 기록한다. 선택의 긴장을 비출 내용이 없다.",
+      "contextNote": "아르바와 바르훔 사람을 용사 명단에 잇는다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "07b8ad092f59176d905a6d289d132a5a87fb39e46146008426086baa8e10e595"
+    },
+    {
+      "id": "KRV:2SA:23:32",
+      "status": "exclude",
+      "reason": "엘리아바와 요나단의 출신·가계 이름으로 끝난다. 이름을 남겼다는 사실만으로 내 기여를 밝히라는 원칙을 만들지 않는다.",
+      "contextNote": "사알본과 야센 집안 관련 인물을 나열한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "2c0ece396f0bb5ccfb7a384f67c9348bebd9bcaeac41310fa68ef521e960906e"
+    },
+    {
+      "id": "KRV:2SA:23:33",
+      "status": "exclude",
+      "reason": "삼마와 아히암의 이름과 계보다. 현재의 책임을 맡을지에 필요한 관점은 없다.",
+      "contextNote": "하랄과 아랄 출신 용사를 기록한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "d22f48402082dfe2bd7c0662d6adfea941373cee00ebe73de3b2e2c829e6579b"
+    },
+    {
+      "id": "KRV:2SA:23:34",
+      "status": "exclude",
+      "reason": "엘리벨렛과 엘리암의 가계가 중심이다. 부모의 기대와 내 선택이라는 갈등이 본문에는 없다.",
+      "contextNote": "두 용사의 조상과 아버지 이름을 자세히 적는다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "8befc8e223be8c65be012c808fbad040276e70b14d4c7c453ce90d29625a103f"
+    },
+    {
+      "id": "KRV:2SA:23:35",
+      "status": "exclude",
+      "reason": "헤스래와 바아래의 출신·이름을 잇는다. 명단 자체 외의 선택 실마리는 없다.",
+      "contextNote": "갈멜과 아랍 사람을 용사 명단에 더한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "201a7e58406ccdd40dfaa9aea92191bc4e8af3b5506c659d525d4bf63f87e582"
+    },
+    {
+      "id": "KRV:2SA:23:36",
+      "status": "exclude",
+      "reason": "이갈과 바니의 인명·출신이다. 일을 맡기거나 새 역할에 지원할 기준은 제시하지 않는다.",
+      "contextNote": "소바와 갓 관련 용사들을 나열한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "ca549e5c7bcd2a0329a4ee8a8e47c1a225bd2c1355afa38572658465f2ed318e"
+    },
+    {
+      "id": "KRV:2SA:23:37",
+      "status": "exclude",
+      "reason": "셀렉과 나하래를 출신·직무로 기록한다. 보조 역할의 존재는 있어도 역할을 나눌지의 판단까지는 주지 않는다.",
+      "contextNote": "암몬 출신 용사와 요압의 병기 담당자를 기록한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "19a09e63d9227164c34791f047421a2c26717e72fb788a325769fc860df4de6e"
+    },
+    {
+      "id": "KRV:2SA:23:38",
+      "status": "exclude",
+      "reason": "이라와 가렙이라는 같은 지역 사람의 이름뿐이다. 가까운 사람과 일할지에 관한 갈등은 없다.",
+      "contextNote": "이델 출신 두 용사를 열거한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "59e5c87fc8f6dce62c1c37d4d95acf8d567dafb5a739a14cb4033f73b6187ffb"
+    },
+    {
+      "id": "KRV:2SA:23:39",
+      "status": "exclude",
+      "reason": "우리아의 이름과 총원으로 명단을 마친다. 수량 기록은 있지만 물품을 지금 확인할지의 선택까지 이 숫자로 비추기 어렵다.",
+      "contextNote": "헷 사람 우리아를 끝으로 용사 서른일곱 명을 정리한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "6a8f205cf797cd1a396b96f983d62f73e6b440a7a9501d9c8d4dd44ed7ef331e"
+    },
+    {
+      "id": "KRV:2SA:24:1",
+      "status": "hold",
+      "reason": "진노와 인구 조사 지시의 어려운 인과를 담는다. 현재의 계획이나 어려움이 신적 심판의 수단이라는 판단을 만들 수 없다.",
+      "contextNote": "이스라엘을 치려는 진노 가운데 다윗의 인구 조사가 시작된다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "48de2f11b9a0dcbb121daa7765e76133e6eaf6ec0ff64310864fb4808fa4cd8a"
+    },
+    {
+      "id": "KRV:2SA:24:2",
+      "status": "hold",
+      "reason": "왕이 광범위한 인구와 수를 보고하라고 명한다. 수량 확인의 표면은 닮지만 군사 조사와 심판의 문맥을 일반 물품 정리의 기준으로 삼기에는 부담이 있다.",
+      "contextNote": "다윗이 요압에게 전 국토의 인구 조사를 지시한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B001",
+          "clue": "수를 조사해 알리라는 행동은 기록할지의 고민에 닮았다.",
+          "friction": "이 사건의 목적과 뒤의 죄책을 일반적인 수량 확인의 잘못으로 확대하지 않으며 충분한 연결로도 확정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "ba01f491af3e6f15ac001997a070a63b67a3459c0168e246b7b97cc2e462f3ae"
+    },
+    {
+      "id": "KRV:2SA:24:3",
+      "status": "hold",
+      "reason": "축복을 빈 뒤 조사 의도를 묻는 충언이다. 계획의 의도를 돌아볼 관점은 있으나 인구 증가의 축복과 왕의 상황이 크게 남는다.",
+      "contextNote": "요압이 인구 조사에 반대하며 왕에게 이유를 묻는다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "51811b27434bf247761e326dfd713ba46c3daefbf244dbac99a9efffd6413863"
+    },
+    {
+      "id": "KRV:2SA:24:4",
+      "status": "exclude",
+      "reason": "명령이 충언을 누르고 조사단이 출발하는 과정이다. 옳은 지시를 따를지의 판단 기준은 제시되지 않는다.",
+      "contextNote": "요압의 반대에도 왕의 명령에 따라 조사하러 간다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "8745baab8d8ca11e27b010db003fbcd7fd904d44c24da3abced0bed215ed4810"
+    },
+    {
+      "id": "KRV:2SA:24:5",
+      "status": "exclude",
+      "reason": "조사단이 강을 건너 도착하고 장막 친 지역의 기록이다. 이동을 결심할 이유나 두 선택의 관점은 없다.",
+      "contextNote": "요단 동편에서 인구 조사를 시작한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "eb1f8ba01136d648663f229cb71b3ea9a7ebe7d5e4c7b75e7a2a6073c9a9acb7"
+    },
+    {
+      "id": "KRV:2SA:24:6",
+      "status": "exclude",
+      "reason": "길르앗에서 시돈까지의 조사 경로다. 여행 계획이나 새 거처의 적합성을 비출 내용은 없다.",
+      "contextNote": "조사단이 북쪽 지역을 돌아간다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "0598cff8304240578c3269604aefabad93b5b51e6cab7e11be607f10d03c49c3"
+    },
+    {
+      "id": "KRV:2SA:24:7",
+      "status": "exclude",
+      "reason": "두로와 여러 민족의 성읍을 돌아 브엘세바에 간 경로다. 낯선 곳을 방문할지의 선택 관점은 없다.",
+      "contextNote": "조사단이 서쪽과 남쪽 성읍들까지 순회한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "125d66f197694bce463ed123fd9e1a6c3532d1405ac71cff214596c415d714d6"
+    },
+    {
+      "id": "KRV:2SA:24:8",
+      "status": "exclude",
+      "reason": "아홉 달 이십 일 후 돌아왔다는 소요 기간 기록이다. 오래 걸리는 일의 지속 여부에 기준을 주지는 않는다.",
+      "contextNote": "인구 조사단의 전국 순회가 끝난다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "813991d4e7a5db4cb87b9436058d15d479bb05ca438a317a1b8dd32f61e3599c"
+    },
+    {
+      "id": "KRV:2SA:24:9",
+      "status": "exclude",
+      "reason": "이스라엘과 유다의 군사 수를 보고한다. 공동 물품을 확인할지의 고민에 역사적 병력 수치만 대응한다.",
+      "contextNote": "요압이 다윗에게 인구 조사 결과를 알린다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "a4c251fa62b1aafce252dddb2996c750a727acc211695eaa755eff149f5d36af"
+    },
+    {
+      "id": "KRV:2SA:24:10",
+      "status": "candidate",
+      "reason": "자책 속에서도 하나님께 잘못을 인정하고 용서를 구하는 말이 기도조차 피하는 마음에 다시 나아갈 실마리를 준다.",
+      "contextNote": "다윗이 인구 조사 뒤 죄를 자각하고 여호와께 아뢴다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "R021",
+          "clue": "잘못을 인정한 사람도 숨기보다 종의 죄를 사해 달라고 기도하는 모습에서 부끄러움을 안고 기도할 마음을 읽는다.",
+          "friction": "사용자의 심한 말과 다윗의 인구 조사는 다른 일이다. 새로 생긴 어려움의 죄벌 판정이나 기도하면 결과가 바로 바뀐다는 보장은 없다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "357acb147e3de8f30e2f64db7149af0cc68ae578e2d7966df16f70f0485f4e32"
+    },
+    {
+      "id": "KRV:2SA:24:11",
+      "status": "exclude",
+      "reason": "선지자에게 말씀이 임했다는 도입이다. 아직 전달 내용도 없고 사용자의 선택 방향은 없다.",
+      "contextNote": "다윗의 고백 뒤 선견자 갓에게 계시가 임한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "ee55a5b4771130d341db6ad46adff18b71a03f4bb689333e22ef2bfc3a11e645"
+    },
+    {
+      "id": "KRV:2SA:24:12",
+      "status": "hold",
+      "reason": "세 가지 중 하나를 고르라는 형식은 일반 갈림길과 닮지만 내용은 심판의 선택이다. 아무 고민에서나 하나님이 보낸 세 길이라고 읽게 할 수 없다.",
+      "contextNote": "하나님이 갓을 통해 다윗에게 재앙의 선택을 제시한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "96909c6e7bc9cd98819025c831018baf832fad8622dd1ec98a832a213c0d5a41"
+    },
+    {
+      "id": "KRV:2SA:24:13",
+      "status": "hold",
+      "reason": "기근·도주·전염병이라는 재앙의 선택지다. 양쪽 부담을 저울질하는 생활 고민과 선택이라는 단어만 닮았다.",
+      "contextNote": "갓이 세 가지 심판의 기간과 내용을 왕에게 묻는다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "13eba6efd37ea3f3c6dd4fd8a36003625722b85ab1b8142d027b562cba856e28"
+    },
+    {
+      "id": "KRV:2SA:24:14",
+      "status": "hold",
+      "reason": "긍휼에 의지하려는 마음은 읽히지만 사람의 손과 하나님의 심판 가운데 고르는 곤경이다. 조언을 정리할지의 고민에 인간을 위협으로 더하지 않는다.",
+      "contextNote": "다윗은 세 재앙 앞에서 여호와의 긍휼에 자신을 맡긴다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "76a4b4066de52b8521aa1b068fd583616a029ac178a20da368d370b2dbfdea4a"
+    },
+    {
+      "id": "KRV:2SA:24:15",
+      "status": "hold",
+      "reason": "온역으로 칠만 명이 죽은 심판 기록이다. 현재 치료 결과나 일상의 실패를 같은 재앙의 결과로 해석할 근거는 없다.",
+      "contextNote": "다윗의 선택 이후 이스라엘에 전염병이 내린다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "57d6b9eb5f944edfafc3ae8f8205bf02beb24af2f538ef3969658fa2d70bc3c2"
+    },
+    {
+      "id": "KRV:2SA:24:16",
+      "status": "hold",
+      "reason": "멸하는 천사를 멈추신 장면과 타작마당 위치를 함께 담는다. 현재의 어려움도 곧 끝난다는 말로 줄이면 배경과 인과를 바꾸게 된다.",
+      "contextNote": "예루살렘을 멸하려던 천사에게 하나님이 멈추라고 하신다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "b711838b68a8efdb23e52540e4176dec6db860fb10d8ccc15bf54200ab2dfb27"
+    },
+    {
+      "id": "KRV:2SA:24:17",
+      "status": "hold",
+      "reason": "자신의 잘못과 백성의 무관함을 구분하지만 자기 집을 쳐 달라는 간청까지 포함한다. 각자 책임을 구분할지의 고민에 가족 대신 벌을 청하는 뒷말을 지울 수 없다.",
+      "contextNote": "다윗이 백성을 치는 천사를 보고 자신과 집안으로 징벌을 돌려 달라고 빈다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A033",
+          "clue": "나는 범죄하였지만 이 양 무리는 무엇을 했느냐는 물음은 책임 구분에 닿는다.",
+          "friction": "자기 가족까지 쳐 달라는 간청과 천사의 재앙을 팀 과제의 책임으로 옮기기는 어렵다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "99e45cfb705036ef8b0a51f15ac15e26f82891f6a11f26e884e08afb9c46a3b9"
+    },
+    {
+      "id": "KRV:2SA:24:18",
+      "status": "hold",
+      "reason": "특정 타작마당에 제단을 쌓으라는 선지자의 지시다. 기도 장소를 고민하는 사람에게 동일 장소나 제의 의무를 줄 수 없다.",
+      "contextNote": "갓이 다윗에게 아라우나의 타작마당으로 올라가라고 한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "4af1e4e87a06cf070a28f6e163e2886913aeae2721d7389f479c3f7491796506"
+    },
+    {
+      "id": "KRV:2SA:24:19",
+      "status": "exclude",
+      "reason": "전달된 말씀대로 올라간 과정만 기록한다. 무엇에 순종했는지 앞절 없이 알 수 없어 새 선택의 실마리로 충분하지 않다.",
+      "contextNote": "다윗이 갓의 제단 지시를 실행하러 간다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "c7b3939b1b1b533ad65071dc44bc409177cc6234b8bf3141febdc55c6938e431"
+    },
+    {
+      "id": "KRV:2SA:24:20",
+      "status": "exclude",
+      "reason": "왕을 보고 나와 절하는 예우의 장면이다. 낯선 사람을 맞을지의 고민에 신분 차이의 의례만 닿는다.",
+      "contextNote": "아라우나가 다윗과 신하들을 맞는다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "87d176ca3a1d86da18b3d8a2653614056a3d40b8f3d310e7166c3389bf7f49a6"
+    },
+    {
+      "id": "KRV:2SA:24:21",
+      "status": "hold",
+      "reason": "재앙을 그치게 하려고 제단 터를 사겠다는 구체 목적이다. 공동 비용을 낼지의 고민에 돈과 재앙 중단의 제의를 연결하게 된다.",
+      "contextNote": "다윗이 타작마당을 사려는 이유를 아라우나에게 밝힌다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "f5525ac05169be2ca09255a7ceaafda11b4d5f7f28204648975654b037440e11"
+    },
+    {
+      "id": "KRV:2SA:24:22",
+      "status": "hold",
+      "reason": "소와 땔감·농기구를 제사에 쓰도록 내놓는다. 힘든 친구에게 작은 도움을 줄지에는 제사의 준비물을 설명해야 연결된다.",
+      "contextNote": "아라우나가 왕에게 제물과 연료를 제공하겠다고 한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "ad636fdd85c042bd9176ab97d8ce23f7c3ab326e0e968e92d861fe51e188e42c"
+    },
+    {
+      "id": "KRV:2SA:24:23",
+      "status": "hold",
+      "reason": "이것을 모두 드린다는 말은 구체 내용이 앞절에 있다. 작게라도 도울 마음으로는 읽혀도 왕에게 제사를 지원하는 배경을 먼저 알아야 한다.",
+      "contextNote": "아라우나가 무료 제공과 왕을 향한 축복을 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "738c90a353c72eca20ec8e735c3b5c5cf6f1e966aaed4ade1e08968e3978ee72"
+    },
+    {
+      "id": "KRV:2SA:24:24",
+      "status": "candidate",
+      "reason": "무료 제공을 그대로 받기보다 값을 치르겠다는 말이 자신의 일에 큰 노동을 내주는 친구에게 비용을 낼지의 갈등을 짚는다.",
+      "contextNote": "다윗은 아라우나의 선물을 사양하고 제단 터와 소를 값 주고 산다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B005",
+          "clue": "친구가 무료로 해준다 해도 내가 쓸 것을 값을 주고 사겠다는 말에 내 비용을 들여 정당하게 부탁할 마음을 읽는다.",
+          "friction": "번제의 신앙적 이유가 함께 있다. 모든 봉사나 무상 도움은 무가치하다거나 큰 헌금이 필요하다는 규칙으로 넓히지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "760c1484ff7a767e63a3e31fa3ba7f53c4e5f6e6180ad73ff19445c0d2c4fc36"
+    },
+    {
+      "id": "KRV:2SA:24:25",
+      "status": "hold",
+      "reason": "제사와 응답 뒤 재앙이 그친 사건의 결말이다. 오늘 기도나 지출을 같은 재앙 중단의 조건으로 적용할 수 없다.",
+      "contextNote": "제단에서 제사를 드리고 이스라엘의 전염병이 멎는다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "b02a6a6103dce3cd57db41dce183984d17f74bee89abf3be7633d0394efeb779"
     }
   ]
 }

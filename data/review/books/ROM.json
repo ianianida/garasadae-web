@@ -1,0 +1,851 @@
+{
+  "bookCode": "ROM",
+  "corpusSha256": "f8d5c8b377e243b05fb884b4a6965d2c06a95de74b64a716ee4b95989d61e971",
+  "criteriaVersion": "garasadae-corpus-2026-10-08-v1",
+  "reviewer": "Codex review_ezk_rev",
+  "method": "direct-codex-reading",
+  "entries": [
+    {
+      "id": "KRV:ROM:1:1",
+      "textSha256": "cc051e3ff40acf01040fc2b4b26c8fe12f6af0349200ed0b3379429a284161d7",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "사도 바울의 부르심과 편지의 발신자 소개다. 현재 지원자를 하나님이 직책에 택했다고 선언하지 않고 일상 선택에 연결하기는 약하다.",
+      "contextNote": "로마서의 발신자와 복음 사역의 근거를 소개한다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:1:2",
+      "textSha256": "978818f9c58537b48c154ecaa7d4cef7037064c83c5bae496c103261059a2272",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "복음이 오래전 약속된 것임을 밝힌다. 신뢰의 배경은 있으나 현재 어떤 선택을 할지의 독립 실마리는 부족하다.",
+      "contextNote": "복음이 선지자와 성경에 미리 약속되었다는 서두다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:1:3",
+      "textSha256": "a2eb6b2c48151b0cf205c4e92435f0eaf6f55bc9d2f11cf7a31f84a344cb9af4",
+      "status": "exclude",
+      "readability": "needs_explanation",
+      "reason": "다윗 혈통이라는 예수의 출생 설명이 뒤에 이어진다. 혈통을 현재 지원 자격이나 사람 평가의 신호로 쓰지 않는다.",
+      "contextNote": "예수의 육신에 관한 신분 설명의 일부다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:1:4",
+      "textSha256": "3f0b9e34f3f9d226f441a3e75eabbc2306545237130c0558020d6f5f724a559e",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "부활로 하나님의 아들이 드러났다는 기독론 진술이다. 현재 회복이나 능력의 결과를 보장하는 말로 옮기지 않고 구체 선택 연결은 미확보다.",
+      "contextNote": "바울이 예수의 부활과 정체를 설명한다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:1:5",
+      "textSha256": "64298fe4f9f0a1e4d7ed5fdcf53905ce1201e6fce250a99f32a0ae4109eaabde",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "은혜와 사도직으로 이방인의 믿음과 순종을 돕는다는 사역 소개다. 현재 사람에게 같은 직분과 타인의 순종을 확보할 권한을 보태지 않아야 한다.",
+      "contextNote": "바울이 받은 사도직의 목적을 말한다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:1:6",
+      "textSha256": "9fac23bba399f7ecf557c09823e670fb3674ecaecaaa90b4afb7cea2924b43de",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "이방 신자들도 그리스도께 속하도록 부름받았다고 한다. 소속의 위로는 있으나 처음 신앙을 준비하는 현재 사례의 상태까지 확정하지 않고 첫 선택 실마리는 불확실하다.",
+      "contextNote": "로마 신자들도 복음의 부르심에 포함됨을 밝힌다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:1:7",
+      "textSha256": "9a2b170f98576506623cfb81ff4bf19a295ee37694d1d9fef5b12b9473b5f701",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "사랑받는 사람들에게 은혜와 평강을 바라는 인사가 실제 마음 표현으로 제시된다. 직접 해결책이 없어도 기도하는 마음을 전할 실마리가 있다.",
+      "contextNote": "바울이 로마의 성도들에게 은혜와 평강을 빈다.",
+      "connections": [
+        {
+          "scenarioId": "R022",
+          "clue": "친구에게 내가 모든 문제를 해결하지는 못해도 하나님께 평강을 빈다는 마음을 전할 수 있음을 읽는다.",
+          "friction": "현재 친구가 같은 방식으로 위로받는다는 보장은 없고, 사랑과 부르심을 서비스가 새로 판정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ROM:1:8",
+      "textSha256": "b9b7e5e531a969483f0f11ac2e731f797f24e018e20759e7747741d58ea5551e",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "상대의 믿음을 듣고 하나님께 감사한다. 감사 표현의 방향은 있으나 개인 도움에 대한 식사 초대나 신앙 경험 공유를 이 긴 전파 이유와 바로 잇기는 약하다.",
+      "contextNote": "바울이 로마 신자들의 알려진 믿음으로 감사한다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:1:9",
+      "textSha256": "2dcfd192ba5a750215ee33835454297818cd3b410490c2e8a967acd510e32fac",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "기도할 때 끊임없이 상대를 생각한다고 직접 전한다. 해결책이 없어서 기도한다는 말도 못 하는 고민에 솔직히 마음을 말할 실마리가 있다.",
+      "contextNote": "바울이 하나님을 증인 삼아 로마 신자들을 늘 기도에서 언급한다고 말한다.",
+      "connections": [
+        {
+          "scenarioId": "R022",
+          "clue": "기도로 생각하고 있다는 마음을 상대에게 말해도 되는 실제 표현을 읽어 친구에게 그 마음을 전할 방향을 얻는다.",
+          "friction": "끊임없이 기도해야만 말할 자격이 있다는 뜻이 아니다. 실제로 기도하고 싶은 현재 마음에 한정하며 해결 결과도 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ROM:1:10",
+      "textSha256": "3cc84ed4fdaf5cb5e12f3a15632c14fd0f5e7452bf2dce384c27a4c98d9a9d56",
+      "status": "hold",
+      "readability": "clear",
+      "reason": "좋은 길을 얻어 찾아가기를 기도한다. 상대에게 가고 싶은 마음은 있으나 현재 일정 부담 속 방문과 전화 중 어느 선택을 비출지는 불확실하다.",
+      "contextNote": "바울이 로마 방문 길이 열리기를 구한다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:1:11",
+      "textSha256": "4d63454505bc656961489f73a3012d2bde73cf7690af245225400aefb1077417",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "상대를 만나 영적 은사를 나누어 굳게 하려 한다. 도움의 바람은 있으나 현재 사례에 그런 은사와 전달 능력이 있다고 보태지 않고 충분함은 약하다.",
+      "contextNote": "바울이 로마 신자들을 만나고 싶은 목적을 밝힌다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:1:12",
+      "textSha256": "5ebe4875fa7f62fadc8d93127be74990d4951066fd0d5d424fcc33494b8bc213",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "한쪽만 도와주는 일이 아니라 서로의 믿음으로 위로받는다는 말이 분명하다. 완전한 해결자가 아니어도 신앙의 마음을 전할 의미를 읽는다.",
+      "contextNote": "바울이 서로의 믿음으로 피차 위로받기 바란다고 정정해 설명한다.",
+      "connections": [
+        {
+          "scenarioId": "R022",
+          "clue": "도움을 완성해 줄 수 있어야만 말을 건넬 수 있는 것이 아니라 서로 믿음으로 위로받을 수 있음을 읽어 기도하는 마음을 전할 방향을 얻는다.",
+          "friction": "기도가 모든 현실 문제를 대신 해결한다는 뜻은 아니다. 친구가 꼭 같은 위로를 느낄지는 실제 반응으로 확인할 일이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ROM:1:13",
+      "textSha256": "0fa8d3b84db2ae6e17c657232223a367bb336b2a4f147759fa6d5d5f962d9054",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "여러 번 가려 했지만 길이 막힌 사정을 말한다. 계획이 뜻대로 안 된 마음과 닮지만 앞으로 길이 열릴지나 원래 계획을 바꿀지는 절 안에서 정해지지 않는다.",
+      "contextNote": "바울이 로마 방문 지연과 사역 의도를 설명한다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:1:14",
+      "textSha256": "7ff67ad66bdeb24192a0ce531ebe63da9a07c7e767580d3cdf5eab3b214bc441",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "문화나 지혜의 차이와 관계없이 모두에게 빚진 마음을 말한다. 낯선 문화를 이유로 새 사람에게 선을 그을지의 고민에 다가갈 실마리가 있다.",
+      "contextNote": "바울이 복음을 전할 책임의 대상을 넓게 열거한다.",
+      "connections": [
+        {
+          "scenarioId": "C022",
+          "clue": "익숙하고 잘 통하는 사람만 상대하지 않고 다른 문화의 사람에게도 마음을 열 방향을 읽는다.",
+          "friction": "본문의 야만과 어리석음이라는 당시 대비를 새 방문자의 속성으로 붙이지 않는다. 고대 문화 구분을 현대 국적의 서열로 쓰지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ROM:1:15",
+      "textSha256": "e15e497204fb1e13dab4eb7376888584ef33cefad193a4c65ec5b9eb970b668a",
+      "status": "candidate",
+      "readability": "clear",
+      "reason": "할 수 있는 대로 복음을 전하기 원한다는 말은 능력과 마음의 범위 안에서 신앙을 나눌 방향을 준다. 상대를 억지로 따르게 한다는 결론은 없다.",
+      "contextNote": "바울이 로마에서도 복음을 전하고 싶다고 말한다.",
+      "connections": [
+        {
+          "scenarioId": "C019",
+          "clue": "완벽한 답변을 준비해 상대를 설득해야 한다는 부담보다 할 수 있는 만큼 내가 믿는 것을 솔직히 말할 방향을 읽는다.",
+          "friction": "바울의 사도직을 사용자에게 부여하거나 친구의 수용을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ROM:1:16",
+      "textSha256": "b3640e6a271cbe537f68c893e028737446f6f380309d0c4ba36ee3349e0b4586",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "복음을 부끄러워하지 않는 이유와 모든 믿는 이에게 열린 능력을 함께 말한다. 눈치를 보며 믿음을 숨길지의 고민에서 솔직한 고백의 실마리가 충분하다.",
+      "contextNote": "바울이 유대인과 헬라인 모두에게 미치는 복음의 능력을 선언한다.",
+      "connections": [
+        {
+          "scenarioId": "C019",
+          "clue": "내가 교회에 다니는 이유를 부끄럽게 숨기기보다 의미 있게 믿는 내용으로 말할 수 있다는 용기를 읽는다.",
+          "friction": "구원의 능력을 현재 친구가 반드시 믿게 될 결과나 말하기의 성공으로 바꾸지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ROM:1:17",
+      "textSha256": "1a0e9246b55e62bc45f17b7a131b48efeb4d9bc9a298fa3f93e517c93cc149eb",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "의인이 믿음으로 산다는 중심 문장이 있어 도덕적 완성 뒤에만 신앙을 시작할 수 있다는 마음을 비춘다. 은혜의 신학은 더 배울 수 있어도 믿음으로 시작할 방향은 읽힌다.",
+      "contextNote": "바울이 복음 속 하나님의 의를 하박국 인용으로 요약한다.",
+      "connections": [
+        {
+          "scenarioId": "C018",
+          "clue": "흠없는 사람이 된 뒤 자격을 얻겠다고 미루기보다 믿음으로 하나님께 나아가며 준비를 시작할 실마리를 읽는다.",
+          "friction": "잘못을 인정하고 바로잡는 일을 없애지 않으며 서비스가 세례 자격과 일정을 판정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ROM:1:18",
+      "textSha256": "8a1e99ee9a0e89da30043ae142b87b91b8d7014f86a75e5c2240b4d10b144021",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "불의로 진리를 막는 데 대한 하나님의 진노를 말한다. 진실을 감추는 선택을 돌아볼 수 있으나 현재 불운이 신적 처벌이라는 판정과 섞이지 않는 충분한 조합은 미확보다.",
+      "contextNote": "바울이 복음 필요를 설명하며 인간의 불의와 심판을 제시한다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:1:19",
+      "textSha256": "2fc2254f49f8b511a5635561d812590f9eec541f49fdea293f1e3434e8d073b6",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "하나님을 알 만한 것이 사람들 속에 보인 이유를 설명한다. 지식의 논증 중간으로 현재의 어느 선택을 비출지는 별도의 풀이가 필요하다.",
+      "contextNote": "창조와 인간 인식에 관한 바울의 논증이다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:1:20",
+      "textSha256": "93ad81cf7ebb56486044674da8fd3bb272e2522ba1353c2343af4833e77f67b1",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "만물에 드러난 신성 때문에 핑계할 수 없다는 논증이다. 직접 살펴본다는 일반 태도로 바꾸기에는 창조와 책임이라는 전체 주제가 강하다.",
+      "contextNote": "바울이 창조 세계를 통한 하나님 인식과 책임을 말한다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:1:21",
+      "textSha256": "a26d0da177f65e6ba877f6e9e86f331f81ab61ed837f775b315a97f0cb0d80fe",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "알면서도 감사와 경배를 거절한 상태를 지적한다. 감사하려는 현재 사람을 미련한 자로 놓지 않고, 현재의 어려움에 신적 원인을 덧붙이지 않아야 한다.",
+      "contextNote": "하나님 인식과 인간의 불응을 대비한다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:1:22",
+      "textSha256": "f2f61ee417493501d72087c2e41e98aa229fc4f0c9cc498e7d1fd84da9ac616a",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "자기 지혜를 자랑하나 어리석어졌다는 짧은 문장이 뒤에 이어진다. 겸손의 울림은 있지만 무엇을 잘못 판단하는지 모르면 현재 선택을 가리키기 어렵다.",
+      "contextNote": "우상숭배로 이어지는 자기 지혜의 역설이다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:1:23",
+      "textSha256": "d925a607e663a58885e7d1bf7057e6772a3d055acdd5ec0d201de23b821c1e54",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "하나님의 영광을 피조물 형상의 우상과 바꾼 일을 말한다. 단순히 새 물건을 사거나 상대를 좋아하는 일을 우상숭배로 놓지 않고 충분한 연결은 보류한다.",
+      "contextNote": "창조주 대신 형상을 섬기는 교환을 지적한다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:1:24",
+      "textSha256": "807016d19b586606bffea6413dcae1bba97238d26855da5b4232c0f135c3338b",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "하나님이 욕망과 몸의 욕됨에 내버려 두었다는 심판을 말한다. 현재 사용자의 욕망이나 어려움을 같은 신적 처벌로 단정할 수 없어 구체 연결을 보류한다.",
+      "contextNote": "우상숭배 뒤의 내어 버려 둠을 설명한다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:1:25",
+      "textSha256": "68014a84ce0a9d2f0b835dbbdd4b0a393b413c31e3d4b178774de5fd2738bbec",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "창조주보다 피조물을 섬기는 전도를 거짓으로 규정하고 찬송으로 마친다. 신앙 기준의 방향은 있으나 현재 점이나 소비 고민에 같은 숭배 행위가 있다고 보태지 않고 충분한 연결은 미확보다.",
+      "contextNote": "바울이 우상숭배의 근본 교환을 요약한다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:1:26",
+      "textSha256": "6f28e0d8b1e68a6c2b6c5756550373981953e47a55d01835eadfbe02e0879761",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "우상숭배에 따른 내어 버려 둠과 성적 행위를 설명하다 이어진다. 현재의 욕망이나 관계를 같은 심판 원인으로 단정하지 않고 충분한 연결은 미확보다.",
+      "contextNote": "바울이 인간의 불의와 성적 욕망을 논한다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:1:27",
+      "textSha256": "efa19419dd73bfe22436cf83dfca8b8827b5ed20637e9f456745567d2f29e6b1",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "특정 성적 행위와 보응을 연결한 논증이다. 현재 사례의 관계에 같은 행위나 신적 형벌이 있다고 보태지 않고 생활 선택에 잇기 어렵다.",
+      "contextNote": "앞 절의 내어 버려 둠 논증이 이어진다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:1:28",
+      "textSha256": "fefdedb0f2f18fa1d6013260d7364d1edfa7f961ecdd2ceef7f8490f53d60b18",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "하나님을 마음에 두기 싫어한 이들의 상태를 말한다. 현재 판단의 어려움이 하나님께 버려졌기 때문이라는 설명을 만들지 않고 후보 연결은 보류한다.",
+      "contextNote": "인간의 거절과 하나님의 심판을 논하는 문장이다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:1:29",
+      "textSha256": "af3739dc06beaa75692dc0ec76fdd57619bc577623084c50f9778b8f33bf3e68",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "탐욕부터 살인과 수군거림까지 긴 악의 목록이다. 소문이나 조롱 하나만 떼어내면 사용자를 다른 모든 죄와 동일시할 마찰을 놓친다.",
+      "contextNote": "불의한 행위들의 목록 첫 부분이다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:1:30",
+      "textSha256": "72a462790310fef94ff018010f1ad45f25d4d806085a11621a9394484c95f846",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "비방과 교만부터 부모 거역까지 나열한다. 단순한 가족 의견 차이를 하나님이 미워하는 악으로 진단하지 않고 충분한 구체 연결을 확보하지 못했다.",
+      "contextNote": "앞 절에 이어 불의의 여러 모습을 열거한다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:1:31",
+      "textSha256": "022664891bba94b0f7290c954e19d6f303013849a5a81224b05a837e912e3bdd",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "약속을 저버림과 무정함을 비판한다. 짧지만 앞 목록에 의존하며 현재 약속 변경의 사정과 정당함을 무시하고 죄로 확정할 수 없다.",
+      "contextNote": "불의한 상태를 배약과 무자비 등의 말로 요약한다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:1:32",
+      "textSha256": "aaf59e0075fbdfafc18eb480b42092782d703e3d6ea3b52042940d9832b284a5",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "해로운 일을 직접 하지 않아도 옳다고 부추기는 책임을 드러낸다. 싸움 부추김과 닮지만 사형에 해당한다는 무거운 판단까지 읽을 때 충분함은 불확실하다.",
+      "contextNote": "불의를 행하고 동조하는 사람들의 책임을 함께 말한다.",
+      "connections": [
+        {
+          "scenarioId": "A007",
+          "clue": "직접 싸우지 않아도 옳다고 부추기는 행동에 책임이 있음을 읽을 수 있다.",
+          "friction": "사형과 하나님의 정하심까지 있는 절이다. 현재 친구들을 죽을 죄인으로 판정하지 않고 말릴 실마리만 얻기에 충분할지는 불확실하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ROM:2:1",
+      "textSha256": "d8ab006440f471ef61e8b1b1ff412b3908be4df03238a535ff25b83b462e0fe3",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "같은 일을 하며 남만 정죄하는 모순을 직접 짚는다. 자기 행동도 인정할지의 명시된 갈림길에 맞아 남 탓만 하기 전 돌아볼 실마리가 충분하다.",
+      "contextNote": "바울이 남을 판단하는 사람의 동일한 죄를 지적한다.",
+      "connections": [
+        {
+          "scenarioId": "C029",
+          "clue": "나도 같은 지각을 했다는 사실을 외면한 채 친구만 몰아붙이는 모습을 돌아보고 내 행동도 인정할 방향을 읽는다.",
+          "friction": "모든 비판을 금지하거나 피해자가 같은 잘못을 했다고 추정하지 않는다. 이 사례에는 같은 행동이 명시되어 있다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ROM:2:2",
+      "textSha256": "c011368d0ed24c545921dc942f184bd291fdf715f8ad6dfa64394b987d8486a9",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "이런 일을 하는 자에게 진리에 따른 판단이 있다는 말이다. 무엇을 했는지 앞 문맥 의존이 커 현재 상황에 형벌이나 무죄를 확정할 수 없다.",
+      "contextNote": "바울이 하나님의 공정한 심판을 확인한다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:2:3",
+      "textSha256": "3adc3132d7c5ffd41715c1e1d64090d19034579b50f76ffcd4def4e138abb874",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "남을 판단하면서 같은 일을 하는 자에게 예외가 없음을 묻는다. 스스로 면제받으려는 마음을 돌아보고 자기 책임도 말할 실마리가 있다.",
+      "contextNote": "동일한 잘못을 하는 판단자에게 하나님의 판단을 묻는다.",
+      "connections": [
+        {
+          "scenarioId": "C029",
+          "clue": "친구만 나무라고 내 지각은 넘어가려는 마음을 비추어 내 잘못도 인정하고 이야기할 방향을 읽는다.",
+          "friction": "현재 지각에 특정 신적 벌을 예고하는 것이 아니다. 자신의 같은 행동이 명시된 고민에만 연결한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ROM:2:4",
+      "textSha256": "c80898bd80b705a226e89753e04eef246f20036110e8413af348668a13c84310",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "인자함과 기다림이 회개로 이끈다는 말은 부끄러워 하나님을 피하는 마음을 비춘다. 용납을 잘못을 계속할 허가로 바꾸지 않고 돌아갈 방향이 있다.",
+      "contextNote": "바울이 하나님의 오래 참으심을 회개와 연결한다.",
+      "connections": [
+        {
+          "scenarioId": "R021",
+          "clue": "이미 사과하고 고치려는 중에도 기도를 피하는 마음에서, 하나님의 인자함이 돌아오게 한다는 말을 읽고 잘못을 인정한 채 기도할 용기를 얻는다.",
+          "friction": "현재의 잘못을 없던 일로 하거나 사용자의 회개가 완성됐다고 판정하지 않는다. 고치는 노력은 유지한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ROM:2:5",
+      "textSha256": "3c65a4d49d3bc7a330610f28ec497558d7c2f62febbf511ba862d2cdf0de3242",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "회개하지 않는 고집이 진노를 쌓는다고 경고한다. 이미 잘못을 인정한 사례에 아직 회개하지 않는다는 사실을 보태지 않고 충분한 조합은 미확보다.",
+      "contextNote": "바울이 회개를 거부하는 마음과 심판을 논한다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:2:6",
+      "textSha256": "58534b55a629d5bea37b6d5e93bc16ebbfee0fc1a4b16b3ffec4e6d8c695dfca",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "행한 대로 보응한다는 문장만 있어 보응의 구분이 다음 절에 남는다. 현재 모든 성과가 능력과 도덕성에 비례한다는 보장으로 옮기지 않는다.",
+      "contextNote": "하나님의 심판 기준을 소개하는 연결 문장이다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:2:7",
+      "textSha256": "eb16c80f6ed08808d851998a54b810357783ff40a08fb12d8dca1ae9a984e6ee",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "참고 선을 택하는 길과 영생을 말한다. 당장 불리할까 두려워 거짓에 맞출지의 고민에서 눈앞 평가 너머의 기준을 읽을 실마리가 있다.",
+      "contextNote": "바울이 꾸준히 선을 구하는 삶과 영생을 연결한다.",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "일시적 불리함이 두려워도 사실을 지키는 선한 쪽을 오래 붙들 기준을 읽는다.",
+          "friction": "영생을 성과나 경제적 보상으로 바꾸지 않는다. 특정 선택 하나로 구원이 확정된다는 판정이나 현실에서의 성공 보장도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ROM:2:8",
+      "textSha256": "81cedb98627994b40fee17dbe0e33a6bbb02a36192631f577622217bd8d3bf8e",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "무리를 지어 진리보다 불의를 따르는 모습에 대한 경고가 분명하다. 팀 분위기에 맞춰 수치를 부풀릴지의 긴장에 닿아 사실을 지킬 실마리가 있다.",
+      "contextNote": "바울이 진리를 거스르는 불의에 대한 하나님의 판단을 말한다.",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "여럿이 함께한다는 이유로 사실보다 유리한 거짓을 고르는 모습을 돌아보고 수치를 사실대로 쓰는 방향을 읽는다.",
+          "friction": "현재 팀에 특정 형벌이 닥친다는 예고나 팀원들의 모든 내면을 판단하는 말은 아니다. 경고를 자신의 선택에 연결한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ROM:2:9",
+      "textSha256": "fa8bd9d1eab5b763df79ef3d3bdea8b9bb1d6ecb48a6fb63b7aa96ea8a1704ff",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "악을 행한 이에게 환난과 곤고가 있다는 심판의 말이다. 현재 겪는 환난이 이미 악행의 증거라는 역추론을 하지 않고 충분한 구체 연결은 보류한다.",
+      "contextNote": "유대인과 헬라인 모두의 악행 책임을 말한다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:2:10",
+      "textSha256": "2cde8a1943a2a151dea13a38ee151c799caa7f526281226f1c61626b7ba506d0",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "선한 행위에 영광과 평강이 있다는 말이지만 현실의 착한 선택이 즉시 편안해진다는 보장은 아니다. 현재 사례에서 그 결과를 보태지 않는 충분함은 미확보다.",
+      "contextNote": "하나님의 판단 앞에서 민족과 무관하게 선행을 말한다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:2:11",
+      "textSha256": "cf8d14ed319f9004ad0eb2cbf8429cbd35826db22703ed3db2fb8eb70621f28c",
+      "status": "candidate",
+      "readability": "clear",
+      "reason": "하나님은 겉모습으로 사람을 가르지 않는다는 짧은 말이 외모 때문에 자신을 숨길지의 마음에 직접 닿는다. 다른 사람의 반응까지 보장하지 않는다.",
+      "contextNote": "유대인과 헬라인을 같은 기준으로 판단하는 이유를 밝힌다.",
+      "connections": [
+        {
+          "scenarioId": "A022",
+          "clue": "머리숱이 줄어든 모습이 나를 결정하는 전부가 아니라는 실마리를 읽어 모임에 참석할 쪽으로 마음이 기울 수 있다.",
+          "friction": "모임 사람들이 외모를 전혀 보지 않을 거라 예고하지 않는다. 하나님의 공정함을 개인적 위로로 읽는 예상이다.",
+          "expectedEnough": "yes"
+        },
+        {
+          "scenarioId": "C022",
+          "clue": "겉으로 다른 국적과 생활문화를 이유로 사람을 가르기보다 함께 맞을 방향을 읽는다.",
+          "friction": "신의 심판 문맥이며 현대 국적을 외모의 열등함으로 분류하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ROM:2:12",
+      "textSha256": "576626986ac2aadcabf954cea5fd9eace694df6c5e4c6803d918197d68a6e801",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "율법을 알든 모르든 죄와 심판에서 예외가 없음을 말한다. 현재 모든 실수와 결과를 이런 심판의 사례로 확정하지 않고 충분한 연결을 찾지 못했다.",
+      "contextNote": "율법 소유와 죄의 책임을 구분한다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:2:13",
+      "textSha256": "fc0cbf40ea0c7ee7177b80bc0fad1eec161458b100d80f782e07b6d13dedab03",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "듣고 아는 것과 실제 행하는 것을 분명히 나눈다. 정직이 옳다는 것을 아는 데서 멈출지 실제 기록에 지킬지의 고민을 비출 실마리가 있다.",
+      "contextNote": "바울이 율법을 들음과 행함을 대비한다.",
+      "connections": [
+        {
+          "scenarioId": "B014",
+          "clue": "정직의 원칙을 아는 것만으로 끝내지 않고 이력에도 실제 한 일만 적을 방향을 읽는다.",
+          "friction": "행위로 완벽해져야 신앙을 시작한다는 뜻으로 확장하지 않고 이번 정직한 실천의 갈림길에만 연결한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ROM:2:14",
+      "textSha256": "9564070b2a421eb7d76f5d2d9a677ef473ce73905eca5befb3a85393abaff833",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "율법 없는 이방인이 옳은 일을 행하는 경우를 든다. 외부인도 선할 수 있지만 괄호의 긴 논증과 자기에게 율법이라는 표현을 풀어야 충분하다.",
+      "contextNote": "율법과 양심의 관계를 설명하는 삽입 논증 첫 부분이다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:2:15",
+      "textSha256": "54673e7fd499c1b5a9b2823262c9811be33e96293766ac9711badd205c340448",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "양심이 증거가 되고 생각이 서로 고발하고 변명한다는 모습은 유리하게 꾸미려는 내 갈등을 비춘다. 복잡한 문장이어도 양심을 살필 방향이 남는다.",
+      "contextNote": "율법 없는 이들의 마음과 양심이 행위를 드러냄을 설명한다.",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "유리하게 쓰려는 변명과 마음에 걸리는 소리를 함께 돌아보며 양심에 남을 과장보다 솔직히 적을 방향을 읽는다.",
+          "friction": "모든 불편한 감정이 곧 하나님의 판결이라는 뜻은 아니다. 자신의 과장 여부가 명시된 사례에 한정한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ROM:2:16",
+      "textSha256": "eb0fd8da6b8bc87e900471521cb42759a0c4de3d3652973eba0f5df2c3f0017d",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "숨겨진 일을 그리스도로 심판하는 날을 말한다. 현재 비밀이 드러날 시점이나 상대의 속마음을 알려 주는 신호로 삼지 않고 충분한 연결은 보류한다.",
+      "contextNote": "양심 논증을 하나님의 마지막 판단에 잇는다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:2:17",
+      "textSha256": "2bde47c9566b15178776346da05666ab2049fecaf6018091425d6808ec9fc281",
+      "status": "exclude",
+      "readability": "needs_explanation",
+      "reason": "유대인이라는 이름과 율법을 의지한다는 문장이 이어진다. 신분 소개만으로 행동 선택의 방향이 완성되지 않는다.",
+      "contextNote": "바울이 율법을 자랑하는 유대인을 향해 말을 시작한다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:2:18",
+      "textSha256": "0014732c574ba8faf3e796bb45c75f751ed2971f0637173068d16f0cad1209cb",
+      "status": "exclude",
+      "readability": "needs_explanation",
+      "reason": "뜻을 알고 선을 분별한다는 자기 인식의 열거다. 뒤의 위선 지적 없이 현재 자신의 판단이 맞다는 확인으로 사용할 수 없다.",
+      "contextNote": "바울의 긴 조건문이 율법 지식과 분별을 열거한다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:2:19",
+      "textSha256": "919e39d7a569732600617e1841e3f60c9a4dac151f32a0dd7c8f410d99dccf44",
+      "status": "exclude",
+      "readability": "needs_explanation",
+      "reason": "남을 인도하는 빛이라 여기는 자기상만 나열한다. 뒤의 자기모순 지적이 없으면 현재 능력이나 지도력의 확인으로 오해할 수 있다.",
+      "contextNote": "율법을 아는 이의 자기확신을 열거하는 중간 문장이다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:2:20",
+      "textSha256": "87f5eb80114c0a785dcdd76574511ac28583b0d00504e13251911d84430728f8",
+      "status": "exclude",
+      "readability": "needs_explanation",
+      "reason": "스스로 선생이라고 믿는다는 조건문의 일부다. 실제 자기 행동의 판단은 다음에 있어 독립 선택 실마리가 부족하다.",
+      "contextNote": "바울이 자기 지식에 대한 자부심을 나열한다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:2:21",
+      "textSha256": "d276f4fd82a71439f2233ce5fab50fec22d6ebab8bc05e6048b2ef0cabcac59e",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "남을 가르치면서 자신은 배우지 않는가라는 질문이 완결된다. 도둑질의 예까지 읽어도 같은 기준을 나에게 돌릴 실마리는 충분하다.",
+      "contextNote": "율법을 가르치면서 범하는 모순을 바울이 묻는다.",
+      "connections": [
+        {
+          "scenarioId": "C029",
+          "clue": "친구에게만 시간 약속을 가르치려 하기 전에 나도 같은 기준을 지켰는지 돌아보고 내 지각도 인정할 방향을 읽는다.",
+          "friction": "사용자가 도둑질했다는 사실은 넣지 않는다. 본문의 절도 예는 자기와 타인에게 다른 기준을 쓰는 모습으로 개인적으로 연결한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ROM:2:22",
+      "textSha256": "915e9f82ac411fd3517cea6b78e97d2bdff7255444d0571094e99c968ec152d0",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "간음과 우상 신전의 절도를 함께 물으며 위선을 비판한다. 현재 관계 사례에 남을 가르친다는 조건과 신사 물건 문제를 보태지 않고 절 전체를 잇기 어렵다.",
+      "contextNote": "바울이 율법을 가르치는 자의 모순을 추가로 든다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:2:23",
+      "textSha256": "7a11eb0c1a163b468d6eae5a3f27dcc909c9e106e95e59db2f0c776317a80bc2",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "율법 자랑과 위반이 하나님의 명예를 해친다고 묻는다. 정직한 행동의 방향은 있으나 현재 사례가 율법을 자랑하는 상황이라는 조건 없이 충분함은 약하다.",
+      "contextNote": "바울이 종교적 자부심과 실제 행위를 대조한다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:2:24",
+      "textSha256": "9124827eb25f5d4484206c444edd3dd84055c82eb113bd35d7cca18520e587ee",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "신자들의 행위 때문에 하나님의 이름이 비방받음을 말한다. 내 행동의 영향을 볼 여지는 있으나 현재 실수 하나가 신앙 전체를 욕되게 했다고 단정하지 않아야 한다.",
+      "contextNote": "바울이 구약을 인용해 종교적 위선을 지적한다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:2:25",
+      "textSha256": "26599b27935bbc89620b50f21da7b9a6bf2d95128287c8340378283f45141469",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "할례의 유익을 율법 실천과 묶는다. 겉표지보다 행위라는 뜻은 있지만 할례와 무할례의 뒤집힘을 풀지 않으면 일상의 실마리가 약하다.",
+      "contextNote": "율법 위반 앞에서 외적 종교 표지가 면책하지 못함을 말한다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:2:26",
+      "textSha256": "8f3698413e2ec90e5165f8b0f620dd746b50f24df4da634d1e67f2a9bc64701b",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "율법을 지키는 무할례자를 어떻게 볼지 묻는다. 낯선 사람의 존중과 이어질 여지는 있으나 현재 방문자의 행위를 새로 확정하고 의식 개념을 설명해야 한다.",
+      "contextNote": "바울이 할례 유무와 실제 행위를 비교한다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:2:27",
+      "textSha256": "3617fa6ad1ac497f4f66d568ecbe522a0c9544dba682419ffd750eb4013733e1",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "율법을 지킨 외부인이 표지를 가진 위반자를 판단할 수 있다고 한다. 현재 사람들의 실제 행위를 모르는 상황에서 새 우열을 만들어서는 안 된다.",
+      "contextNote": "외적 표지보다 율법 실천의 중요성을 논증한다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:2:28",
+      "textSha256": "9d5024cef1a8a7001a295468baad6af469f0bf7edd1b2c4350fbc84c89a17f6e",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "겉모습의 유대인과 육신의 할례를 부정하는 문장이 뒤의 정의와 이어진다. 표면만 보지 말라는 정서는 있으나 다음 절 없이 뜻이 충분히 완성되지 않는다.",
+      "contextNote": "유대인과 할례의 참된 의미를 재정의하기 시작한다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:2:29",
+      "textSha256": "2432bb703c149fa27a97ec74f6940447e589253daa487f7936a61e7aeeb58d07",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "마음의 실제와 사람 아닌 하나님께 받는 칭찬을 대조한다. 할례와 신령의 말이 낯설어도 남에게 보이기 위한 과장보다 속의 진실을 지킬 실마리가 남는다.",
+      "contextNote": "바울이 마음의 할례와 하나님에게서 오는 칭찬을 말한다.",
+      "connections": [
+        {
+          "scenarioId": "H052",
+          "clue": "겉으로 좋은 평가를 얻는 것보다 내 안에서 진실한 내용을 택할 수 있다는 방향을 읽는다.",
+          "friction": "할례를 현대 이력서와 같다고 설명하지 않고 내면과 외적 칭찬의 대비를 개인적으로 연결한다. 평가에서 이긴다는 약속도 없다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ROM:3:1",
+      "textSha256": "ea8f632b2156dd29dc1c8cd8d9c30d96ba9bdf31717cddf64a22775d0bf24f13",
+      "status": "exclude",
+      "readability": "thinkable",
+      "reason": "유대인의 장점과 할례의 이익을 묻는 논증상의 질문이다. 답이 다음 절에 있어 질문만으로 현재 선택에 충분한 방향을 주지 않는다.",
+      "contextNote": "바울이 앞 논증에 대한 예상 반문을 제시한다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:3:2",
+      "textSha256": "6056addef08c16f48062d7990f1d6715384b886bfede47f9ac4f2c77972c63ee",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "말씀을 맡은 유대인의 특권을 말한다. 맡은 일의 책임이라는 일반 태도로 읽기에는 민족과 계시의 맥락이 강해 구체 연결을 보류한다.",
+      "contextNote": "유대인의 이점에 대한 첫 답으로 말씀의 위탁을 든다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:3:3",
+      "textSha256": "68a3c7ed261789b763e69b13ba90aa5a80155d8450aec332bdfd36bc103c4a5a",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "다른 사람의 불신이 하나님의 신실함을 없애지는 않는다고 묻는다. 모두를 설득해야만 내 믿음을 말할 수 있다는 부담을 덜 실마리가 있다.",
+      "contextNote": "바울이 일부의 불신과 하나님의 신실함을 구분한다.",
+      "connections": [
+        {
+          "scenarioId": "C019",
+          "clue": "친구가 바로 믿게 되어야만 말할 의미가 있는 것은 아니라는 방향을 읽어 강요 없이 내 믿음을 이야기할 수 있다.",
+          "friction": "친구가 실제 거부한다고 새로 정하지 않는다. 하나님의 신실함을 사용자의 모든 생각이 옳다는 보장으로 바꾸지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ROM:3:4",
+      "textSha256": "cddf352180338a3a34fe005be2ac8f77476b3dfe5b838366b815b5884ad2e2b4",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "하나님의 참됨을 사람의 거짓과 대비하고 시편의 재판 인용을 붙인다. 사람을 모두 불신하라는 방향과 구분하려면 긴 논증의 풀이가 필요해 충분함을 보류한다.",
+      "contextNote": "바울이 하나님이 옳으심을 강조하며 시편을 인용한다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:3:5",
+      "textSha256": "1987eeef3a1a7977542bcecb136f3824a2d9fc57a69a6267384cff9c275a6154",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "인간 불의가 하나님의 의를 드러내면 심판이 불의한가라는 가상 반문이다. 발화 입장을 구분하지 않으면 불의를 합리화하는 질문으로 남는다.",
+      "contextNote": "바울이 사람의 방식으로 예상 반론을 제시한다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:3:6",
+      "textSha256": "d9430c5e7a8b6868262daf067cdc421689b45703da03c7a16a27a594300d1100",
+      "status": "exclude",
+      "readability": "needs_explanation",
+      "reason": "그럴 수 없다며 세상 심판을 되묻는 반론 답이다. 무엇을 부정하는지 앞절 없이는 알기 어려워 독립 선택 실마리는 적다.",
+      "contextNote": "하나님의 심판 정당성에 대한 반문을 반박한다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:3:7",
+      "textSha256": "a4de7b2c6f841e0b8e6ad4c1bae7b61d95e05d48f9712c15c8a7f73769c0834b",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "내 거짓말로 하나님 영광이 커졌다면 왜 판단받는가라는 가상 반론이다. 거짓말의 허가가 아니라는 점을 다음 답 없이 읽기 어려워 보류한다.",
+      "contextNote": "거짓말을 결과로 합리화하는 주장을 가정한다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:3:8",
+      "textSha256": "0de01820845b02e821c9ee4e8b26619b044aa664e49af6f7b8ceaf14bdfee0e4",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "선을 이루기 위해 악을 하자는 결론을 분명히 거부한다. 괄호의 비방 설명까지 읽어도 좋은 성과를 위한 수치 조작을 돌아볼 실마리가 충분하다.",
+      "contextNote": "바울이 선한 결과를 위한 악행이라는 비방과 논리를 부정한다.",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "팀 성과를 좋게 보이게 한다는 목적만으로 사실을 부풀려도 되는지 돌아보고 정직하게 쓰는 방향을 읽는다.",
+          "friction": "팀원들의 최종 정죄를 서비스가 대신 선포하지 않는다. 좋은 결과가 나면 수단도 정당하다는 자기 합리화의 갈림길에 연결한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ROM:3:9",
+      "textSha256": "455fcae700324c915f90370dd2d8cebb19f53afe8f4cc6f9c400f62ed2b9b3e2",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "우리 집단이 더 낫지 않으며 모두 같은 죄 아래 있다는 말이 우월감의 기준을 흔든다. 낯선 사람을 경계 밖에 둘지의 고민에서 자신을 낮출 실마리가 있다.",
+      "contextNote": "바울이 유대인과 헬라인 모두의 죄 아래 있음을 밝힌다.",
+      "connections": [
+        {
+          "scenarioId": "C022",
+          "clue": "원래 있던 우리만 더 나은 사람들이라는 기준을 내려놓고 다른 문화의 새 사람도 함께 맞을 방향을 읽는다.",
+          "friction": "새 사람의 특정 잘못을 만들어 넣지 않는다. 기독교의 보편적 인간 이해를 현재 국적의 우열을 없애는 실마리로 읽는 예상이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ROM:3:10",
+      "textSha256": "aa46d1c79dcfba95ddddd53dd9326770e421d20857787b0b833a9be773ef97d6",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "의인이 하나도 없다는 보편적 진술이 인용을 시작한다. 완벽함을 내려놓는 울림은 있지만 이 절만으로 자책에서 다시 시작할 방향은 아직 부족하다.",
+      "contextNote": "바울이 시편의 인간 죄에 관한 연속 인용을 시작한다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:3:11",
+      "textSha256": "21e6e2e2a3eed7fa9e14b1b53a0a089d60d733e6aefdcb4de04c23c450374198",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "깨닫고 하나님을 찾는 자가 없다는 인용의 일부다. 현재 모르는 성경을 배우려는 사람의 노력을 부정하는 말로 옮기지 않고 충분한 연결은 미확보다.",
+      "contextNote": "앞 절에 이어 인간의 죄를 묘사한다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:3:12",
+      "textSha256": "a3b7c98e53cc53283099d73c692ded7bfde0cb5f325996183553022b4fe5b571",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "모두 치우쳐 선을 행하지 않는다는 포괄적 비판이다. 남을 낮추거나 자기 노력을 무가치하다고 결론내리지 않으면서 선택할 방향을 얻기에는 내용이 부족하다.",
+      "contextNote": "시편을 통해 보편적 죄를 인용한다.",
+      "connections": []
+    },
+    {
+      "id": "KRV:ROM:3:13",
+      "textSha256": "3aa3d97a981f55c0d3c9f2a0ecb93530f26f477e226cab86c8dbdc416063b9f5",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "말을 열린 무덤과 독에 비유하여 해치는 언어를 돌아보게 한다. 속임까지 포함된 절 전체를 읽되 현재 메시지가 거짓이라고 단정하지 않고 멈춰 볼 실마리가 있다.",
+      "contextNote": "바울이 인간 언어의 해로움을 시편 인용으로 묘사한다.",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "화난 말이 상대를 찌르는 독처럼 되지는 않을지 돌아보며 바로 보내기보다 마음을 가라앉힐 방향을 읽는다.",
+          "friction": "사용자가 거짓말을 썼다는 사실은 없다. 무덤과 독은 성경의 비유이며 현재 감정 자체를 죄인 전체의 판정으로 바꾸지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:ROM:3:14",
+      "textSha256": "dc9637ccec6e05e50b850f789535bbd0ec18fcef01d3ea84d618aefc12225563",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "입에 저주와 악독이 가득한 모습을 짧게 드러낸다. 남의 실패를 함께 조롱할지의 마음에 내가 더할 말의 성격을 돌아볼 실마리가 있다.",
+      "contextNote": "인간 언어의 악함을 계속 인용하는 문장이다.",
+      "connections": [
+        {
+          "scenarioId": "C009",
+          "clue": "상처받은 과거 때문에 보태려는 한마디가 악의의 말이 되는지 돌아보며 실패 조롱에 끼지 않을 방향을 읽는다.",
+          "friction": "현재 친구들이 저주를 했다고 추가하지 않는다. 악의로 속을 풀고 싶다는 입력에 자기 말을 비춰 보는 예상이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    }
+  ]
+}

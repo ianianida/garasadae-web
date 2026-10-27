@@ -1,0 +1,2236 @@
+{
+  "bookCode": "1KI",
+  "corpusSha256": "f8d5c8b377e243b05fb884b4a6965d2c06a95de74b64a716ee4b95989d61e971",
+  "criteriaVersion": "garasadae-corpus-2026-10-08-v1",
+  "reviewer": "Codex review_gen_oct27",
+  "method": "direct-codex-reading",
+  "entries": [
+    {
+      "id": "KRV:1KI:1:1",
+      "status": "hold",
+      "reason": "노년의 몸 상태를 소개한다. 나이 들어 도움이 필요하다는 공감은 있으나 도움을 청할지의 실마리는 아직 없다.",
+      "contextNote": "말년의 다윗이 이불로도 온기를 얻지 못한다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "f2fdacb08253d057dae92ab92ed1302b1ef4666ff815bf45c80957db31151447"
+    },
+    {
+      "id": "KRV:1KI:1:2",
+      "status": "hold",
+      "reason": "젊은 여성을 구해 왕의 품에서 봉양하게 하자는 처방이다. 자녀에게 도움을 부탁할지의 고민과 돌봄의 방식이 크게 다르다.",
+      "contextNote": "신하들이 늙은 왕의 체온을 위한 봉양자를 제안한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "f795b99e9ad377c51ce553cb292520feea3367c9bf1c681c23cf4a7734a3b6c7"
+    },
+    {
+      "id": "KRV:1KI:1:3",
+      "status": "exclude",
+      "reason": "수넴 여자 아비삭을 찾아 데려온 소개다. 돌봄을 나눌지에 관한 기준이나 갈등은 드러나지 않는다.",
+      "contextNote": "전국에서 찾은 아비삭이 왕에게 온다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "b0b64e9f1e05d0bc1f412f9843265666c97d941cc7c3037a0fa65a1680d009aa"
+    },
+    {
+      "id": "KRV:1KI:1:4",
+      "status": "exclude",
+      "reason": "봉양과 동침 여부를 확인하는 왕실 배경이다. 친밀한 관계의 속도를 스스로 말할지에는 당사자의 선택이 나오지 않는다.",
+      "contextNote": "아비삭이 다윗을 돌보되 성관계는 없었음을 밝힌다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "7449adc10df664dfb411f082e95bc4eaa7a38d2e2492824b7864c10f9db3b3ae"
+    },
+    {
+      "id": "KRV:1KI:1:5",
+      "status": "hold",
+      "reason": "스스로 왕이 되겠다고 높이며 병거와 수행자를 준비한다. 처음 지원할 용기로 읽기에는 왕위 찬탈을 준비하는 자기 높임이 함께 있다.",
+      "contextNote": "아도니야가 다윗의 뒤를 차지하려 세력을 갖춘다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "8281d4c3c42659caf4da09067c0a45b4536865fec2033a0296318f95b477fe4f"
+    },
+    {
+      "id": "KRV:1KI:1:6",
+      "status": "hold",
+      "reason": "준수한 외모와 아버지가 한 번도 나무라지 않았다는 배경이다. 어른의 선택을 존중할지와 무관심한 훈육의 서술을 같게 놓기 어렵다.",
+      "contextNote": "아도니야의 출생 순서와 부친의 태도를 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "4fff924f5fcef1fefbe0cefbd32f6bb1c813838ffba5da83ecd33e7eefd2f13b"
+    },
+    {
+      "id": "KRV:1KI:1:7",
+      "status": "exclude",
+      "reason": "아도니야와 요압·아비아달의 공모가 다음 반대편과 이어진다. 조언을 구할지의 일반 선택을 위한 협력 원칙은 아니다.",
+      "contextNote": "왕위 도모에 가담한 주요 인물을 소개한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "698027b857ad2e5efcd130566cc3503b4261f4f811ca5ff69424feede0b67baf"
+    },
+    {
+      "id": "KRV:1KI:1:8",
+      "status": "exclude",
+      "reason": "공모에 함께하지 않은 인명들을 나열한다. 누구 편에 설지의 근거가 이 절 안에 갖춰지지 않는다.",
+      "contextNote": "사독과 나단 등 다윗 측 인물은 아도니야에게 합류하지 않는다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "e0e721b15c938bf9b4de2933270277f23b9370bc2652bc503d4e86ccffef1a26"
+    },
+    {
+      "id": "KRV:1KI:1:9",
+      "status": "exclude",
+      "reason": "제물과 손님을 준비한 잔치의 시작이다. 모임을 열지의 고민에는 왕위 도모의 배경과 인명 정보가 무겁다.",
+      "contextNote": "아도니야가 왕자들과 유다 신하들을 초청한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "5b3d4b7aa92dbb5f37ccd9d22f95ccd4343b1eb64955a1fa6294053a47f49619"
+    },
+    {
+      "id": "KRV:1KI:1:10",
+      "status": "hold",
+      "reason": "특정 인물들이 초대에서 빠졌다는 서술이다. 소외감을 느낀 고민과 닮아도 사용자가 의도적으로 배제됐다는 사실은 보태지 않는다.",
+      "contextNote": "아도니야가 솔로몬과 일부 다윗 측 인물을 제외한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "c998f4b5b1041cc9985ec622287483c7f311c59c043ee15f5dce5784a7a6afda"
+    },
+    {
+      "id": "KRV:1KI:1:11",
+      "status": "hold",
+      "reason": "왕이 모르는 사이 왕위 도모가 진행됐다는 정보다. 소문을 들은 고민에 반역과 확인된 사실을 새로 보태야 한다.",
+      "contextNote": "나단이 밧세바에게 아도니야의 즉위를 알린다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "20820c404addb677c3ba18a27231c4917c4e3696300b3da19288f1b0c4dcc327"
+    },
+    {
+      "id": "KRV:1KI:1:12",
+      "status": "hold",
+      "reason": "생명을 지킬 계획을 제안받는 장면이다. 혼자 버티기보다 도움받을 마음은 읽혀도 현재 죽을 위기라는 조건은 없다.",
+      "contextNote": "나단이 밧세바와 솔로몬을 보호할 계책을 제안한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "ca298021cd05e1e79a15fe6059d2c0432ae18758697afa283d97c47c758ae5a7"
+    },
+    {
+      "id": "KRV:1KI:1:13",
+      "status": "hold",
+      "reason": "이전 왕위 약속을 상기시키라는 긴 왕실 발화다. 약속을 지킬지의 갈등에 방향은 있으나 사용자의 역할과 여러 인명을 먼저 풀이해야 한다.",
+      "contextNote": "나단이 밧세바에게 다윗의 맹세를 확인하도록 말한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "1a7a001fa518b083c7583ae0fa59c0fb813044d1ec24e3d287cadf08f1e0f19b"
+    },
+    {
+      "id": "KRV:1KI:1:14",
+      "status": "hold",
+      "reason": "이어 들어가 증언하겠다는 협력의 말이다. 사실과 다른 부탁을 거절할지에는 증언의 진위가 절 자체에 없어 충분한 기준이 되지 않는다.",
+      "contextNote": "나단이 밧세바의 발언을 뒷받침하겠다고 한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "2895284274390de2f1419297fac748f90320d6969c6dc53dac9d694cd2ca9c1e"
+    },
+    {
+      "id": "KRV:1KI:1:15",
+      "status": "exclude",
+      "reason": "밧세바의 입실과 아비삭의 시종을 기록한다. 안부 방문의 선택을 위한 돌봄의 이유는 없다.",
+      "contextNote": "밧세바가 늙은 다윗의 침실에 들어간다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "8d85983829acb2fd51ba6e461825eb9a9aa127774257522ba391809e98440bb7"
+    },
+    {
+      "id": "KRV:1KI:1:16",
+      "status": "exclude",
+      "reason": "절을 하고 방문 이유를 묻는 대화의 도입이다. 무엇을 말할지 아직 없어 관계 선택의 실마리는 부족하다.",
+      "contextNote": "다윗이 밧세바에게 온 이유를 묻는다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "224ad7b75594c5d08e1e71ec07e5098da99767c073f0c3c9aa0a2f45e8690b8c"
+    },
+    {
+      "id": "KRV:1KI:1:17",
+      "status": "hold",
+      "reason": "왕위 계승에 관한 이전 맹세를 상기시킨다. 생활 속 약속의 가치에 닿아도 특정 수혜자와 왕권 배경을 알아야 한다.",
+      "contextNote": "밧세바가 솔로몬에게 왕위를 주겠다는 맹세를 말한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "25aae36cb5487f0ef8ba0e9d7334a37e373f1ae1f0b8eabdc7e52b2a5db50601"
+    },
+    {
+      "id": "KRV:1KI:1:18",
+      "status": "hold",
+      "reason": "왕도 모르는 즉위 사실을 고하는 말이다. 확인되지 않은 상대 마음을 묻는 고민과는 정보의 확실성과 긴급성이 다르다.",
+      "contextNote": "밧세바가 아도니야의 왕위 도모를 다윗에게 알린다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "734c644db34fb6f40bdc771059d745349ab7321abfe427d9aba997ba489a260d"
+    },
+    {
+      "id": "KRV:1KI:1:19",
+      "status": "exclude",
+      "reason": "초대된 인물들과 솔로몬의 배제를 열거한다. 혼자 소외됐다고 느끼는 고민에 이 정치적 배제를 사실로 덧씌우지 않는다.",
+      "contextNote": "밧세바가 잔치의 규모와 참석·불참 인물을 알린다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "28813b5eef99a37c5ab16852188f54f1aec106a44a3040adc8fcac37324f31e1"
+    },
+    {
+      "id": "KRV:1KI:1:20",
+      "status": "candidate",
+      "reason": "떠날 책임자에게 후임 발표를 기다린다는 말이 임기 말의 조용한 퇴장과 인수인계 사이의 갈등을 짚는다.",
+      "contextNote": "밧세바가 이스라엘이 다윗의 계승자 결정을 기다린다고 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "R025",
+          "clue": "남은 사람들이 누가 이어 맡을지 기다린다는 말에서 내 임기 종료 뒤의 혼란도 돌아보고 후임 찾기와 인계를 도울 마음을 읽는다.",
+          "friction": "왕과 동아리 운영자는 권한과 규모가 다르다. 후임이 이미 정해졌다거나 사용자가 혼자 결정할 권한이 있다는 조건은 넣지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "62f799e3f59129e504f3c49efaab284f5b026c462ef494791e6f2e9ff5aabe85"
+    },
+    {
+      "id": "KRV:1KI:1:21",
+      "status": "hold",
+      "reason": "왕 사후 자신과 아들이 죄인 취급될 위험을 말한다. 일반 인수인계의 혼란을 같은 처벌과 생명 위협으로 확대하기 어렵다.",
+      "contextNote": "밧세바가 아도니야 집권 뒤의 위험을 다윗에게 호소한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "f36c39a878459b79f4330b360d7d3d59309a39e0abdf1f1f2e979af17a9e1ad5"
+    },
+    {
+      "id": "KRV:1KI:1:22",
+      "status": "exclude",
+      "reason": "밧세바의 말 도중 나단이 들어온 장면이다. 함께 말할지의 이유나 진술 내용이 빠져 있다.",
+      "contextNote": "나단이 약속한 순서대로 입실한다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "c3e80f448c63ecc19f8c16d0f3784da12c209e7ece56b29e2b0d84f418163e37"
+    },
+    {
+      "id": "KRV:1KI:1:23",
+      "status": "exclude",
+      "reason": "나단의 도착 보고와 절하는 예우다. 선배에게 조언을 청할지에 관점이 되는 내용은 없다.",
+      "contextNote": "선지자 나단이 다윗 앞에 나온다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "0a8f1ab4bbe9d4cf33a6827085ed7752e23c139b65b52342958c34e1bbf49e83"
+    },
+    {
+      "id": "KRV:1KI:1:24",
+      "status": "hold",
+      "reason": "왕이 아도니야에게 왕위를 주었는지 묻는 확인이다. 소문을 먼저 확인할 방향은 닮지만 왕실의 권한과 계승을 알아야 뜻이 선다.",
+      "contextNote": "나단이 다윗에게 즉위가 왕의 뜻인지 묻는다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "f445a6561d53cf6a55fbbd10b0a42be86bdd05b70d1685046e4e03d4b29a0387"
+    },
+    {
+      "id": "KRV:1KI:1:25",
+      "status": "exclude",
+      "reason": "잔치 손님과 만세 소리를 보고하는 긴 사건 서술이다. 모임 참여나 축하의 결정과 왕권 선언은 다르다.",
+      "contextNote": "나단이 아도니야를 왕으로 부른 잔치를 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "711902e615030ea03d274af430edd51aedee9227262b11aab8aae31a097ec85a"
+    },
+    {
+      "id": "KRV:1KI:1:26",
+      "status": "exclude",
+      "reason": "초대받지 못한 여러 인물의 목록이다. 소외감을 느끼는 모임이 실제 배제했다는 증거로 옮길 수 없다.",
+      "contextNote": "나단이 아도니야 잔치에서 빠진 인물들을 말한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "a257b3be9dbbbbdbc20574282c738d3abc274d3fdb8518e75d899dd63865b7ec"
+    },
+    {
+      "id": "KRV:1KI:1:27",
+      "status": "hold",
+      "reason": "일의 출처와 후임을 알리지 않은 이유를 묻는다. 직접 확인할 관점은 있지만 왕위 결정과 종의 지위가 이 절의 조건이다.",
+      "contextNote": "나단이 아도니야의 즉위가 다윗의 결정인지 재차 묻는다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "c73c0116a13cb743d21accc3bd77b2c3ef61135a1a9841d65cae394c4cc4fb97"
+    },
+    {
+      "id": "KRV:1KI:1:28",
+      "status": "exclude",
+      "reason": "밧세바를 부르고 앞에 선 과정이다. 무엇을 결정하거나 말할지의 실마리는 다음 발화에 있다.",
+      "contextNote": "다윗이 나단의 보고 뒤 밧세바를 다시 부른다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "7ec8dce45b56c741f72f4a00c23aeea50c20d93635bdd1fd30089e9772695dcf"
+    },
+    {
+      "id": "KRV:1KI:1:29",
+      "status": "hold",
+      "reason": "구원의 하나님께 맹세한다는 도입이다. 무엇을 약속하는지 다음 절에 있어 현재 약속의 이행을 비추기에는 덜 완성됐다.",
+      "contextNote": "다윗이 생명을 구원하신 하나님을 두고 맹세를 시작한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "2577bfca8d28b0416b0e1281d9a5f0503272d8abec15a683d3a258fdd6b96cf6"
+    },
+    {
+      "id": "KRV:1KI:1:30",
+      "status": "candidate",
+      "reason": "이전에 맹세한 일을 오늘 그대로 하겠다는 확언이 더 유리한 제안 앞에서 먼저 한 약속을 지킬지의 갈등을 비춘다.",
+      "contextNote": "다윗이 솔로몬의 계승에 관한 밧세바와의 약속을 실행하겠다고 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G09",
+          "clue": "이전에 맹세한 대로 오늘 행하겠다는 말에서 뒤에 더 좋은 조건이 생겨도 먼저 약속한 거래를 지킬 마음을 읽는다.",
+          "friction": "왕위 계승과 판매는 다른 사안이다. 특정 가격의 적정성이나 거래 결과, 하나님이 사용자의 가격을 정했다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "9a0ffe905b17441e778eaafde142ba073356b14becf1e934f74c0a09fdf7fe17"
+    },
+    {
+      "id": "KRV:1KI:1:31",
+      "status": "exclude",
+      "reason": "왕 앞에 절하며 장수를 비는 왕실 예우다. 감사 표현은 있으나 식사에 초대할지의 구체 긴장에는 멀다.",
+      "contextNote": "밧세바가 다윗의 확약에 예를 표한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "57dea18189b305629ebfd09a1e07dcf274e6b5ed4fa69821fce96e5c9998149d"
+    },
+    {
+      "id": "KRV:1KI:1:32",
+      "status": "exclude",
+      "reason": "세 인물을 부르는 명령과 도착이다. 역할을 나눌지의 기준은 아직 없고 다음 임무의 준비다.",
+      "contextNote": "다윗이 사독과 나단과 브나야를 부른다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "6b291bae778103f5adb38fa22acef4f2bf3d5e307eed9eeb28a3b3ea93a16353"
+    },
+    {
+      "id": "KRV:1KI:1:33",
+      "status": "exclude",
+      "reason": "왕의 노새에 솔로몬을 태워 특정 장소로 인도하라는 절차다. 이동이나 새 역할 지원의 선택 이유는 없다.",
+      "contextNote": "다윗이 즉위식을 위한 행렬을 지시한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "0967e3e4ede9d915eaa3e591030b51eb8f225b2bcbcfd1c0573840fcfedd98c0"
+    },
+    {
+      "id": "KRV:1KI:1:34",
+      "status": "hold",
+      "reason": "기름부음·양각·만세라는 왕위 의례를 명한다. 처음 역할에 지원할지의 고민에 이미 왕으로 선정됐다는 지위를 보태게 된다.",
+      "contextNote": "다윗이 솔로몬을 왕으로 공표할 절차를 지시한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "0b26169870f237917100b9fafe5e56047c8e299cda291e4a429c0cd675be3ab7"
+    },
+    {
+      "id": "KRV:1KI:1:35",
+      "status": "candidate",
+      "reason": "나를 대신할 이를 세워 자리를 잇게 하겠다는 말이 임기 뒤에도 남을 사람들을 생각하는 실마리가 된다.",
+      "contextNote": "다윗이 솔로몬의 왕권 계승을 확정해 지시한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "R025",
+          "clue": "내 자리를 대신할 사람이 와서 맡도록 준비하는 모습에서 끝나기 전 후임과 인계를 도울 가치를 읽는다.",
+          "friction": "솔로몬이 이미 정해진 왕실 상황과 아직 후임 없는 동아리는 다르다. 지금 후임이 존재한다거나 운영자가 단독 지명할 권한은 넣지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "0132b15b88b87511ba0abb2d9ccf9ba2d7ff91fb5574b60a3b5ae2a7a9c9843b"
+    },
+    {
+      "id": "KRV:1KI:1:36",
+      "status": "candidate",
+      "reason": "하나님도 이렇게 말씀하시기를 원한다는 표현이 인간의 바람과 실제 신의 발화를 구분할 언어를 준다.",
+      "contextNote": "브나야는 다윗의 결정에 동의하며 하나님의 동의를 기원한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C001",
+          "clue": "원하오며라는 소망의 말에서 내 생각을 하나님의 확정된 뜻처럼 말하기보다 바라는 판단이라고 밝힐 실마리를 읽는다.",
+          "friction": "왕의 결정을 지지한 기원이며 하나님이 이미 말씀하셨다는 증언은 아니다. 내 판단을 이렇게 말하면 신의 승인이 생기는 뜻도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "67a713c4d3e15f373bd0555b8bc086cdbe8f4563045da1d53759a4ca225ced32"
+    },
+    {
+      "id": "KRV:1KI:1:37",
+      "status": "hold",
+      "reason": "후계자에게 함께하시며 더 큰 왕권을 주시기를 빈다. 힘든 친구를 위해 기도할 마음과는 닿아도 왕권 성장의 뒷말이 남는다.",
+      "contextNote": "브나야가 솔로몬을 향한 축복을 덧붙인다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "de34a2b65591e7e01c9e69dfc814a866c0180b0ea74fe7725c1821df3ee5012f"
+    },
+    {
+      "id": "KRV:1KI:1:38",
+      "status": "exclude",
+      "reason": "많은 인물과 솔로몬의 즉위식 이동을 나열한다. 단체 활동 참여의 이유를 비출 내용은 없다.",
+      "contextNote": "명령받은 이들이 솔로몬을 기혼으로 데려간다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "23dc9352f0443ca3c41f009682ff895d680df239d1ec39ad02880e3617844f9a"
+    },
+    {
+      "id": "KRV:1KI:1:39",
+      "status": "hold",
+      "reason": "기름부음과 왕 만세의 공적 의식이다. 지원자가 이미 승인받았다는 현재 사실로 삼을 수 없고 의례 해설이 필요하다.",
+      "contextNote": "사독이 솔로몬에게 기름을 붓고 백성에게 공포한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "4c7a2f092da0b86747a9551bc2ed2323c4b2c74ca0f54e7050c7a7c7ef791735"
+    },
+    {
+      "id": "KRV:1KI:1:40",
+      "status": "candidate",
+      "reason": "기쁨을 악기와 큰 소리로 표현하는 장면이 즐거워도 몸을 움직일까 눈치 보는 마음에 뜻밖의 여유를 준다.",
+      "contextNote": "백성이 솔로몬의 즉위를 피리와 함성으로 축하한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A041",
+          "clue": "땅이 갈라질 듯 기뻐하는 사람들을 보며 기쁜 마음을 가만히 숨겨야만 하는 것은 아니라는 개인적 실마리를 읽는다.",
+          "friction": "왕의 즉위 축하와 찬양 시간은 다르다. 예배의 올바른 자세를 정하거나 큰 표현을 의무로 만들지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "2779d897d3aa487fb2e6213bb6125b541f9bfe1f4fad253e7c7c6636e43e307b"
+    },
+    {
+      "id": "KRV:1KI:1:41",
+      "status": "exclude",
+      "reason": "잔치 중 들린 양각과 소란의 이유를 묻는 사건 전환이다. 아직 확인 행동이나 판단 기준은 없다.",
+      "contextNote": "아도니야의 손님들이 솔로몬 즉위의 소리를 듣는다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "8e36b5c8d94d55c93a69e14a22fda4789a523a7d846585830c1aca0a429f7298"
+    },
+    {
+      "id": "KRV:1KI:1:42",
+      "status": "hold",
+      "reason": "좋은 소식일 것이라 단정하며 방문자를 맞는다. 실제로는 반대 소식이므로 낙관하면 된다는 격려로 따오기 어렵다.",
+      "contextNote": "아도니야가 도착한 요나단을 반기며 좋은 소식으로 예상한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "6d41504749c641cf4aec992c58605a2cb4b333f1536e264a64a74fdc884be22d"
+    },
+    {
+      "id": "KRV:1KI:1:43",
+      "status": "exclude",
+      "reason": "다윗이 솔로몬을 왕으로 삼았다는 보고다. 사용자에게 어떤 역할이 주어졌다는 사실로 바꾸어 적용할 수 없다.",
+      "contextNote": "요나단이 아도니야에게 솔로몬의 즉위를 알린다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "a3a0e702d44341858b962b5bf8c466aa2a9349ea7d87d7377d1dfbdb16e4fa7d"
+    },
+    {
+      "id": "KRV:1KI:1:44",
+      "status": "exclude",
+      "reason": "보내진 인명들과 왕의 노새를 타는 과정을 다시 전한다. 생활 갈림길을 비출 판단 내용은 없다.",
+      "contextNote": "요나단이 솔로몬 즉위식의 참석자와 이동을 보고한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "c96266848cf86cb2c00732e8c776c4436c47253c1823cebe7bb5992aff3f16ac"
+    },
+    {
+      "id": "KRV:1KI:1:45",
+      "status": "exclude",
+      "reason": "기름부음과 성중의 축하 소리 원인을 설명한다. 앞 사건의 보고로 선택의 기준은 아니다.",
+      "contextNote": "들린 소란이 솔로몬 즉위의 축하였음을 알린다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "02ad9319dee2f640dc461cabab4bbb58e8ee185391e5501cf4877243b73ee250"
+    },
+    {
+      "id": "KRV:1KI:1:46",
+      "status": "exclude",
+      "reason": "솔로몬의 즉위 사실만 짧게 진술한다. 책임 맡을지의 고민에 능력이나 선택의 실마리는 없다.",
+      "contextNote": "요나단이 왕위에 앉았음을 보고한다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "bb0d671657b9fc0524a92d196a1015d9c6667abbb9b17f5bdb1e338d99b51004"
+    },
+    {
+      "id": "KRV:1KI:1:47",
+      "status": "hold",
+      "reason": "신하들의 후계자 축복과 왕의 절이 겹친다. 경쟁자의 성공을 축하할지와는 왕실 승계·상하 관계가 크게 남는다.",
+      "contextNote": "솔로몬의 더 큰 명성과 왕권을 빈 신하들의 말을 전한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "31999c0c8795b20ad0c2a1b53d16ae8ac08426892526211094b92eebb5a578c5"
+    },
+    {
+      "id": "KRV:1KI:1:48",
+      "status": "candidate",
+      "reason": "내 뒤를 맡을 사람을 살아서 보게 된 감사를 말한다. 임기가 끝나기 전 후임을 준비하는 가치를 개인적으로 읽을 수 있다.",
+      "contextNote": "다윗이 후계자의 즉위를 목도한 일로 하나님을 찬송한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "R025",
+          "clue": "내 자리에 앉을 이를 보고 감사한다는 말에서 조용히 떠나는 것보다 다음 사람이 설 수 있게 돕는 마무리의 의미를 읽는다.",
+          "friction": "왕위 계승과 운영진 인계는 다르며 사용자의 후임이 이미 하나님께 정해졌다고 확정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "0cc2d712162217d74e70e85f43e6cbc505a25b32095387834a64e585d5918c87"
+    },
+    {
+      "id": "KRV:1KI:1:49",
+      "status": "hold",
+      "reason": "계획이 무너진 잔치의 손님들이 놀라 흩어진 사건이다. 계획 변경을 받아들일 마음으로 읽기에는 왜 떠나는지 배경이 필요하다.",
+      "contextNote": "솔로몬의 즉위를 듣고 아도니야의 무리가 흩어진다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "ec8f16feea76ddbdfdaff1595aba44eda795a7a2627d7df64e0b1d402e3db074"
+    },
+    {
+      "id": "KRV:1KI:1:50",
+      "status": "hold",
+      "reason": "제단 뿔을 붙잡아 피신한 관습적 행동이다. 도움을 청할지의 고민에 죽음의 위기와 성소 피난을 먼저 설명해야 한다.",
+      "contextNote": "아도니야가 솔로몬을 두려워해 제단으로 피한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "5a481a2211405f5fc62a11734c68d90d5139c31201195a7ddb19a969db623f3e"
+    },
+    {
+      "id": "KRV:1KI:1:51",
+      "status": "hold",
+      "reason": "제단 뿔과 죽이지 않겠다는 맹세를 청하는 왕위 분쟁이다. 도움 부탁을 망설이는 일상에 생명 위협을 새로 보태게 된다.",
+      "contextNote": "아도니야의 피신과 보호 요청이 솔로몬에게 전해진다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "00b3b8fb017a80a5650cea71d585cd24a12bc1daed889633e98a8d99259cb633"
+    },
+    {
+      "id": "KRV:1KI:1:52",
+      "status": "hold",
+      "reason": "선함을 조건으로 생명을 지키되 악이 보이면 죽인다는 왕의 판정이다. 반복해서 선을 넘은 친구의 관계 거리를 사형의 조건으로 대응시키기는 어렵다.",
+      "contextNote": "솔로몬이 아도니야의 생존 조건을 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "fdf13c547ab97d090e374d57606aca16a6bf787a7b384f8d62ecf7992225eddd"
+    },
+    {
+      "id": "KRV:1KI:1:53",
+      "status": "hold",
+      "reason": "피신자를 끌어내 집으로 돌려보내지만 앞선 생존 조건이 배경이다. 변화한 친구를 받아들일지에 관한 충분한 이유는 절 안에 적다.",
+      "contextNote": "아도니야가 솔로몬 앞에 절하고 귀가한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "20eebfe2be79cdf4456cdb61f8f259f0ca03f88b5fc6b7df59c42f35e139fde1"
+    },
+    {
+      "id": "KRV:1KI:2:1",
+      "status": "exclude",
+      "reason": "죽음을 앞두고 아들에게 명하는 도입이다. 명령의 내용이 없어 마무리나 계승의 선택을 독립적으로 비추지 못한다.",
+      "contextNote": "다윗이 솔로몬에게 마지막 당부를 시작한다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "df8d251cc5198b8226068610e36cca8344ed1989caf687b271e3910b8f1aaa57"
+    },
+    {
+      "id": "KRV:1KI:2:2",
+      "status": "candidate",
+      "reason": "떠나는 이와 이제 힘써 설 사람을 대비한 당부가 처음 책임을 맡을 두려움에 스스로 설 마음을 줄 수 있다.",
+      "contextNote": "다윗이 죽음을 앞두고 솔로몬에게 굳세게 서라고 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G15",
+          "clue": "힘써 대장부가 되라는 말에서 처음이라 두려워도 책임을 향해 한 걸음 내딛을 마음을 읽는다.",
+          "friction": "죽음을 앞둔 아버지의 계승 당부다. 대장부를 성별 자격으로 삼거나 사용자 능력·선발을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "56822a3774cc40e743763d48abec46ee68f05d5a388631697a9f94a3c5688559"
+    },
+    {
+      "id": "KRV:1KI:2:3",
+      "status": "candidate",
+      "reason": "하나님의 명을 지키고 그 길로 행하라는 중심이 남의 방식에 따라갈지 내 신앙을 지킬지의 갈등을 또렷하게 한다.",
+      "contextNote": "다윗이 솔로몬에게 모세의 율법을 따르며 다스리라고 당부한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A036",
+          "clue": "함께 가면 재미있어도 내가 따르던 하나님과 기준의 길을 떠올려 점을 보러 가지 않을 마음을 읽는다.",
+          "friction": "형통의 약속까지 있는 전체 절이다. 이를 사용자의 특정 선택이 돈·관계·운에서 성공한다는 서비스 보장으로 옮기지 않고 신앙의 기준에 관한 개인적 독해로 남긴다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "29cfbcb368f9088895af6fac67d14b317e76479c3977b0260766e8b74e43fecc"
+    },
+    {
+      "id": "KRV:1KI:2:4",
+      "status": "hold",
+      "reason": "자손의 충실함과 끊이지 않는 왕위라는 언약이다. 처음 지원하는 사람에게 혈통이나 자리 보존의 약속으로 적용할 수 없다.",
+      "contextNote": "다윗 왕조에 대한 조건부 언약을 상기시킨다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "1d20b387cad870bf6b7fce08d782e6cda2b6803025d4adc75bbc81825a2c3661"
+    },
+    {
+      "id": "KRV:1KI:2:5",
+      "status": "hold",
+      "reason": "요압의 두 살인과 평화 때 흘린 전쟁의 피를 길게 상기시킨다. 옛 갈등을 따질지에는 같은 범죄와 증거를 보태야 한다.",
+      "contextNote": "다윗이 요압의 아브넬·아마사 살해를 아들에게 말한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "dc88603d29041bf6a7a1115199e65f98981232bc6ce547098b0dd3410b062b7d"
+    },
+    {
+      "id": "KRV:1KI:2:6",
+      "status": "hold",
+      "reason": "지혜대로 하라는 말의 목적이 평안히 죽지 못하게 하는 것이다. 조언을 구하거나 현명하게 경계하라는 생활 지침으로 줄이지 않는다.",
+      "contextNote": "요압을 응징하라는 다윗의 유언이다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "f6fdee78adc22add24b0720c2d1d05da67ab113dcdfdb599b0e46482a017fab1"
+    },
+    {
+      "id": "KRV:1KI:2:7",
+      "status": "candidate",
+      "reason": "어려울 때 찾아온 사람의 가족을 자기 상에 초대하라는 구체적인 보답이 도움받은 뒤 식사를 대접할지의 망설임을 짚는다.",
+      "contextNote": "다윗이 피신 중 도움받은 바실래의 아들들을 솔로몬에게 부탁한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A012",
+          "clue": "내가 어려울 때 나아와 준 사람을 식탁에 함께하게 한다는 말에서 감사의 식사 초대를 유난으로만 여기지 않을 마음을 읽는다.",
+          "friction": "원문은 바실래의 아들들까지 돌보라는 왕실 부탁이다. 현재 도움 준 사람이 동일 역할이라는 뜻이나 보답의 의무·규모를 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "4bd844728d46a7f6da4949cc6a3a3213cd76c7be916078a2a6a62af07a7aa699"
+    },
+    {
+      "id": "KRV:1KI:2:8",
+      "status": "hold",
+      "reason": "저주했던 사람을 죽이지 않겠다고 맹세한 과거를 말한다. 다음 절의 응징 지시까지 있어 단순한 약속 준수 표본으로 삼기 어렵다.",
+      "contextNote": "다윗이 시므이의 저주와 자신이 한 맹세를 솔로몬에게 전한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "99355d7cbea4069f1a838f998b8ad2ec566ea5bcd1c7898a2e594523abf41677"
+    },
+    {
+      "id": "KRV:1KI:2:9",
+      "status": "hold",
+      "reason": "지혜의 목적을 피 흘려 죽게 하는 응징으로 말한다. 친구와 거리를 두거나 책임을 확인하는 선택에 살해 결론을 대응시키지 않는다.",
+      "contextNote": "다윗이 시므이를 무죄로 여기지 말고 처단하라고 당부한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "ee47c737d85c7144d2cf77c04ec5e4af83b03bda06d11afc8d0e70170b3774a3"
+    },
+    {
+      "id": "KRV:1KI:2:10",
+      "status": "exclude",
+      "reason": "다윗의 죽음과 장사로 끝난다. 곁에서 돌볼지의 고민에 새로운 돌봄 행동이나 방향은 없다.",
+      "contextNote": "다윗이 죽어 다윗성에 장사된다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "797c07c25499e6cb06666aa8c1a6975a1c03338c1aec7e5fe1691123d7dc6db9"
+    },
+    {
+      "id": "KRV:1KI:2:11",
+      "status": "exclude",
+      "reason": "다윗의 통치 기간과 지역별 연수다. 임기를 마치는 사용자의 인계 여부에 숫자 이상의 실마리를 주지 않는다.",
+      "contextNote": "다윗의 사십 년 통치를 정리한다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "92a12a48df71e259d4e04fad50bf66f02a47f22eda14a309a60eb721878a77f7"
+    },
+    {
+      "id": "KRV:1KI:2:12",
+      "status": "hold",
+      "reason": "계승 뒤 왕국이 견고했다는 결과다. 역할에 지원하면 안정적으로 다스릴 능력이 있다는 현재 사실로 옮길 수 없다.",
+      "contextNote": "솔로몬의 왕권이 확립됐음을 알린다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "fa10516fba889a927c09be165defb3e8d038df487dd9deb9e5543f0af9b84f32"
+    },
+    {
+      "id": "KRV:1KI:2:13",
+      "status": "candidate",
+      "reason": "상대가 무슨 목적으로 왔는지 먼저 물어 대답을 듣는 장면이 추측만으로 마음을 정할지의 갈등에 확인의 실마리를 준다.",
+      "contextNote": "밧세바가 아도니야의 방문 의도를 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H037",
+          "clue": "혼자 상대 마음을 단정하기보다 화평한 목적이냐고 직접 확인하는 모습에서 조심스럽게 먼저 물어볼 마음을 읽는다.",
+          "friction": "왕위 다툼 뒤의 방문과 동료의 모호한 태도는 다르다. 동료가 적대적이거나 반드시 화평하다고 단정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "0a153577b57d69da62b133d59cbed5fa2740e094b57205b3a408110adb1fd095"
+    },
+    {
+      "id": "KRV:1KI:2:14",
+      "status": "hold",
+      "reason": "말할 일이 있다는 말과 말하라는 허락뿐이다. 부탁의 내용과 양쪽 부담이 없어 일반 대화 이상의 충분함은 약하다.",
+      "contextNote": "아도니야가 밧세바에게 요청할 말을 꺼낸다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "c686948188cb15f823d3fcea8ea6c5928ad0c1891d78efd6e57917d8ea56a1ce"
+    },
+    {
+      "id": "KRV:1KI:2:15",
+      "status": "hold",
+      "reason": "바뀐 왕위를 하나님의 일이라고 말하지만 자신에게 돌아올 자리였다는 주장과 뒤의 청탁이 얽혀 있다. 현재 계획 실패의 신적 원인을 확인한 말로 쓸 수 없다.",
+      "contextNote": "아도니야가 왕위를 놓친 사정을 말하며 청을 준비한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "626a4c684615e00ae8f0a8d7213a7bb6fdb51a76b4de6f775632ad4a12f8fcb4"
+    },
+    {
+      "id": "KRV:1KI:2:16",
+      "status": "hold",
+      "reason": "한 가지 소원을 들어 달라는 부탁의 도입이다. 거절 두려움은 닮아도 구체 내용과 응답의 실마리가 아직 없다.",
+      "contextNote": "아도니야가 밧세바에게 청을 들어 달라고 한다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "789d9a95b7b2116da2e55802b0ec365a07ad20478578b001720d523cfba2efcd"
+    },
+    {
+      "id": "KRV:1KI:2:17",
+      "status": "hold",
+      "reason": "왕의 어머니를 통해 특정 여성을 아내로 달라고 청한다. 상대 마음이 알려지지 않은 고백 고민에 혼인 중재와 왕의 승인 조건을 보태게 된다.",
+      "contextNote": "아도니야가 아비삭과의 혼인을 왕에게 청해 달라고 한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "487fd1c786a450b3ca7a0a3b98fc0faf2cc25dc70d6bea39e00d7b25e9952e46"
+    },
+    {
+      "id": "KRV:1KI:2:18",
+      "status": "hold",
+      "reason": "대신 말하겠다는 수락이지만 무슨 청인지 앞절에 달렸다. 도움 부탁이 받아들여지리라는 타인의 마음을 보장할 근거로 삼지 않는다.",
+      "contextNote": "밧세바가 아도니야의 청을 솔로몬에게 전하겠다고 한다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "29268ea4fa6bfd7c8c69edcff0117b63658acffeee82fc53f884290c3503f00b"
+    },
+    {
+      "id": "KRV:1KI:2:19",
+      "status": "hold",
+      "reason": "왕이 어머니를 공손히 맞아 옆에 앉힌 예우다. 부모의 안부를 언제 보러 갈지에는 그 일정 갈등을 비출 실마리가 약하다.",
+      "contextNote": "솔로몬이 찾아온 밧세바를 존중해 자리를 마련한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "0a24fd4522006815b3b32607cab984472b767638891cfce97f165ed06ec8b49d"
+    },
+    {
+      "id": "KRV:1KI:2:20",
+      "status": "hold",
+      "reason": "말을 괄시하지 않겠다는 허락이지만 이어지는 부탁은 받아들여지지 않는다. 도움을 요청하면 거절당하지 않으리라는 위로로 따올 수 없다.",
+      "contextNote": "밧세바가 작은 부탁이라며 말문을 열고 솔로몬이 듣겠다고 한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "30751896d87fa4fdaf1b5a8739f6d05cebab3df84344827b006b4f43406feb99"
+    },
+    {
+      "id": "KRV:1KI:2:21",
+      "status": "hold",
+      "reason": "아비삭을 아도니야의 아내로 달라는 중재 요청이다. 서로의 마음이 미확인인 고백 고민에 제삼자의 혼인 결정을 보탤 수 없다.",
+      "contextNote": "밧세바가 아도니야의 혼인 청을 솔로몬에게 전한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "581e0da90ac093e77f38478672d58bb8d371068ec7caa19dd165a34dabe30ae9"
+    },
+    {
+      "id": "KRV:1KI:2:22",
+      "status": "hold",
+      "reason": "혼인 요청을 왕위 청구와 연결해 분노하는 정치적 응답이다. 친구의 부탁을 거절할지에 숨은 권력 의도를 사실로 덧씌우지 않는다.",
+      "contextNote": "솔로몬이 아도니야의 청을 왕권 위협으로 해석한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "66213d8d438f94091bfc0faf21864770964605dcf3d94f61e296abfb5656e593"
+    },
+    {
+      "id": "KRV:1KI:2:23",
+      "status": "hold",
+      "reason": "신의 이름으로 상대의 죽음을 확정하며 자신에게 벌을 거는 말이다. 화난 메시지를 보낼지에 이 생사 맹세를 그대로 대응시키기 어렵다.",
+      "contextNote": "솔로몬이 아도니야의 혼인 청에 사형을 맹세한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "ae52f809e6c822530c611fb26dcecfd7be9775e009a82a0e477270216f6e1cfb"
+    },
+    {
+      "id": "KRV:1KI:2:24",
+      "status": "hold",
+      "reason": "자신의 왕권을 하나님께 돌리며 아도니야의 당일 처형을 선언한다. 새 일을 시작할 용기만 떼면 죽음의 결론을 삭제하게 된다.",
+      "contextNote": "솔로몬이 왕조 언약을 근거로 아도니야 처형을 확정한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "5896c8b4109d7812411253ee4890fedd5b16a765aadeab39928911c0c0ca2a5f"
+    },
+    {
+      "id": "KRV:1KI:2:25",
+      "status": "exclude",
+      "reason": "명령에 따라 아도니야를 죽인 사건이다. 관계를 정리할지의 선택을 사람 제거와 대응할 수 없다.",
+      "contextNote": "브나야가 아도니야를 처형한다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "9e511c51eb35abaf04c444e534ca8495f1aa3eba218926a51858e883f10b8116"
+    },
+    {
+      "id": "KRV:1KI:2:26",
+      "status": "hold",
+      "reason": "과거 함께한 수고를 기억해 사형 대신 추방한다. 친구가 늦어도 과거 성실함을 돌아볼 여지는 있으나 마땅히 죽을 자라는 전제가 과도하다.",
+      "contextNote": "솔로몬이 아비아달의 과거 헌신을 고려해 생명을 살린다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "R023",
+          "clue": "지금의 불편만 보지 않고 함께한 과거를 헤아리는 관점은 닮았다.",
+          "friction": "이 절은 유죄가 전제된 처분이며 약속에 늦은 친구의 이유는 아직 모른다. 친구의 잘못을 확정한 용서로 옮기지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "18c1cd6059438f0349ca91f916dab0fccccd708cd378baa0ec41a902532136ef"
+    },
+    {
+      "id": "KRV:1KI:2:27",
+      "status": "hold",
+      "reason": "제사장 파면이 엘리 집에 대한 예언의 성취로 기록된다. 현재 역할을 그만둘지에 신적 징계 원인을 보태는 적용은 어렵다.",
+      "contextNote": "아비아달의 파면과 오래전 엘리 집안 예고를 연결한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "781447f35c351c86c1b0f6e7d9887437c764d56bfd71c97939c5a585ba3529dd"
+    },
+    {
+      "id": "KRV:1KI:2:28",
+      "status": "hold",
+      "reason": "누구 편에 섰는지와 제단 피난의 배경이 얽힌다. 새 모임을 고를지에 반역과 피난의 위험을 새로 넣어야 한다.",
+      "contextNote": "요압이 아도니야 처형 소식을 듣고 성막으로 피한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "58b760d10bd31d9bbbbbf72c1dcc403438e64d4f547d0a02169b0948b66fabcf"
+    },
+    {
+      "id": "KRV:1KI:2:29",
+      "status": "hold",
+      "reason": "피신 장소를 듣고 죽이라고 명하는 장면이다. 문제가 생긴 동료에게 말할지의 선택과 처형 명령은 거리가 크다.",
+      "contextNote": "솔로몬이 브나야에게 요압을 치라고 명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "9bdaacdfdc4dd7ed1b1ff3184d0b057275b3284abaf595477fc91c9bb301c6b5"
+    },
+    {
+      "id": "KRV:1KI:2:30",
+      "status": "hold",
+      "reason": "성막에서 죽겠다는 거절과 이를 왕에게 전하는 보고다. 자기 속도를 말하는 관계 고민에는 죽음과 왕명이라는 조건이 다르다.",
+      "contextNote": "요압이 나오기를 거부하자 브나야가 대답을 보고한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "6cbb31fa77aa92d298297fe261fab70cc23821c4750195c485532757fbcc804c"
+    },
+    {
+      "id": "KRV:1KI:2:31",
+      "status": "hold",
+      "reason": "죽여 묻어야 집안의 피가 제거된다는 명령이다. 남의 책임을 대신 떠안을지의 고민에 폭력으로 책임을 씻는 관점을 가져오지 않는다.",
+      "contextNote": "솔로몬이 성막에서 요압을 처형하도록 허락한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "91002f8af60d6bc883ac72651513bed366e3d6c90caa65b9dfc4871e724d49c5"
+    },
+    {
+      "id": "KRV:1KI:2:32",
+      "status": "hold",
+      "reason": "두 장관 살해와 다윗의 무지를 근거로 피의 책임을 판정한다. 일부 팀원의 잘못과 전체 책임을 나눌 고민에 살인과 신적 보응이 크다.",
+      "contextNote": "솔로몬이 요압 처형의 이유를 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "2b697380ade2ba8a0521454e61552ca0bf4ff9d7cf94df02c9ec9ee3cc57c60e"
+    },
+    {
+      "id": "KRV:1KI:2:33",
+      "status": "hold",
+      "reason": "요압 자손의 피와 다윗 집의 영원한 평화를 대비한다. 각자 책임을 구별한다면서 후손에게까지 옮기는 뒷말을 생략할 수 없다.",
+      "contextNote": "요압 가문과 다윗 왕조의 운명을 대비해 말한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "e27bcf7cc940d861eee8e13d2a547bd22de2245541e635e05696e6a889d8111d"
+    },
+    {
+      "id": "KRV:1KI:2:34",
+      "status": "exclude",
+      "reason": "요압의 처형과 집에 매장한 결과다. 거리 두기나 지난 다툼을 정리할 생활 방향으로 바꾸기 어렵다.",
+      "contextNote": "브나야가 요압을 죽이고 장사한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "bed19f7ed40f7bea65da73a07c598ea125e83b84bdbe8717ee817d80e21b71bc"
+    },
+    {
+      "id": "KRV:1KI:2:35",
+      "status": "exclude",
+      "reason": "군대장관과 제사장 후임의 임명 사실이다. 적합성의 판단 근거가 없어 팀원의 역할을 나눌지의 고민에 충분하지 않다.",
+      "contextNote": "브나야와 사독이 요압과 아비아달의 자리를 잇는다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "71e82cb29ad9c2d80d8fd65b6cb8730a8ef623e5595b95a7a8e1965e483f47b4"
+    },
+    {
+      "id": "KRV:1KI:2:36",
+      "status": "hold",
+      "reason": "집을 짓고 성 밖으로 나가지 말라는 정치적 제한이다. 지금 집에 계속 살지의 고민에 이동 금지 명령을 더할 수 없다.",
+      "contextNote": "솔로몬이 시므이의 거주·이동 범위를 정한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "4fe9642b6a4e60a97ddc573eafa75e669cc18663ff795fc6f507bcf185b337f4"
+    },
+    {
+      "id": "KRV:1KI:2:37",
+      "status": "hold",
+      "reason": "시내를 건너면 죽는다는 경고다. 낯선 장소로 갈지의 두려움에 실제 처벌 위험이 있다고 보태지 않는다.",
+      "contextNote": "시므이에게 예루살렘 이탈의 형벌을 알린다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "dc2e89e2a31220c657efb548d65c15b04b14a56e1090e27d4413fbade8f09a5f"
+    },
+    {
+      "id": "KRV:1KI:2:38",
+      "status": "hold",
+      "reason": "제한을 받아들여 오래 머문 서술이다. 이미 주어진 사형 조건을 모르면 자발적 휴식이나 정착의 선택으로 오독하기 쉽다.",
+      "contextNote": "시므이가 왕의 거주 제한을 수락한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "416103fef0e1cc9ec756eabfe0cc8cb00de506ef38533e3c40289b184e412ba2"
+    },
+    {
+      "id": "KRV:1KI:2:39",
+      "status": "exclude",
+      "reason": "삼 년 뒤 종들이 도망한 장소를 전한다. 상대가 왜 답하지 않는지의 고민에 확인된 도주를 새로 덧씌울 수 없다.",
+      "contextNote": "시므이의 두 종이 가드로 달아난다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "9fda325d6ad85108e799acac3b620dc89785d718eb436df6da6319aae8acd326"
+    },
+    {
+      "id": "KRV:1KI:2:40",
+      "status": "hold",
+      "reason": "도망한 종을 찾아 데려오며 거주 제한을 어긴 사건이다. 잃어버린 물건을 찾을지의 고민에는 이동 금지라는 다른 조건이 크다.",
+      "contextNote": "시므이가 종들을 찾으러 가드에 다녀온다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "7196b76dea061e1550d469de5e7df13290c7602ae4776a0d61a26920be4a508a"
+    },
+    {
+      "id": "KRV:1KI:2:41",
+      "status": "exclude",
+      "reason": "외출과 귀환이 왕에게 보고된다. 사실을 말할지의 갈등이나 보고 내용의 판단 기준은 없다.",
+      "contextNote": "누군가 시므이의 가드 방문을 솔로몬에게 알린다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "8cd78f528445eb124c60e558025c71592f4738c44202481aa0aa53b56c965497"
+    },
+    {
+      "id": "KRV:1KI:2:42",
+      "status": "hold",
+      "reason": "이미 동의한 이동 금지와 사형 경고를 되묻는다. 약속을 지킬 가치와 별개로 생명 위협의 구체 조건이 너무 크다.",
+      "contextNote": "솔로몬이 시므이에게 처음 합의한 제한을 상기시킨다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "c7f8491bc46d8ebce51037e15e92fa0ca2e77862872da6711fdd1aa7850b43c5"
+    },
+    {
+      "id": "KRV:1KI:2:43",
+      "status": "candidate",
+      "reason": "한 맹세를 왜 지키지 않았냐는 질문이 유리한 상황 때문에 먼저 한 거래 약속을 바꿀지의 마음을 되돌아보게 한다.",
+      "contextNote": "솔로몬이 거주 제한을 어긴 시므이에게 맹세와 왕명 위반을 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G09",
+          "clue": "뒤에 더 높은 가격이 왔을 때 이미 한 약속을 내가 지키고 있는가라는 물음을 읽고 첫 거래를 지킬 마음을 얻을 수 있다.",
+          "friction": "정치적 이동 제한과 왕명이라는 문맥이다. 거래 약속을 신께 한 맹세로 바꾸거나 어기면 사형·신벌이라는 처벌을 옮기지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "51074759f384d9d0c2c4bf3dee6b860f19e2c77b49cea6751f0918375698dd47"
+    },
+    {
+      "id": "KRV:1KI:2:44",
+      "status": "hold",
+      "reason": "자신이 아는 악과 되돌아올 보응을 단정한다. 이미 사과한 뒤 생긴 일도 벌이라 여기는 고민에 현재 원인을 확증하는 말로 주기 어렵다.",
+      "contextNote": "솔로몬이 시므이가 다윗에게 한 악을 들어 심판을 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "170996aeac6648cd362afd24f2eee9681fec63c8f92273d88eb27c5fd75971ab"
+    },
+    {
+      "id": "KRV:1KI:2:45",
+      "status": "hold",
+      "reason": "자신의 복과 왕조의 영속을 상대의 벌과 대비한다. 경쟁자의 실패를 보며 축하할지의 고민에 내 우위를 신이 정했다는 사실은 없다.",
+      "contextNote": "솔로몬이 자신의 왕위는 영원히 견고하리라 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "96db1f4d9c1169f9bd88ef01f40430a281f0292411f641dbbc572ee4b9f1080f"
+    },
+    {
+      "id": "KRV:1KI:2:46",
+      "status": "hold",
+      "reason": "시므이 처형 뒤 왕권이 견고해진 결말이다. 관계를 끊으면 내 생활이 좋아진다는 결과로 일반화할 수 없다.",
+      "contextNote": "브나야가 시므이를 죽이고 솔로몬의 통치가 확립된다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "c6ccb7d7509f023402de4c88402a9c089e78a499409d0cd6fcc25ed90f3c8457"
+    },
+    {
+      "id": "KRV:1KI:3:1",
+      "status": "exclude",
+      "reason": "정략혼과 궁·성전·성벽 건축을 기다리는 배경이다. 연애 고백이나 함께 일할 목표를 정할 실마리는 없다.",
+      "contextNote": "솔로몬이 바로의 딸을 데려와 다윗성에 거주하게 한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "1e151028a4216690a128d5f8d3961e510a3d0bdbd2384883af241f6eb6228f13"
+    },
+    {
+      "id": "KRV:1KI:3:2",
+      "status": "hold",
+      "reason": "성전이 없던 때 산당 제사를 설명한다. 방에서 기도할지의 고민에 성전 부재와 산당 의례를 같은 허용으로 옮기기 어렵다.",
+      "contextNote": "예루살렘 성전 이전의 예배 배경이다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "5009c8c3e6b5b95cbd732abec333f577098f616955de62d30e893cbf958a9e48"
+    },
+    {
+      "id": "KRV:1KI:3:3",
+      "status": "hold",
+      "reason": "신앙적 충실함과 산당 제사가 함께 평가된다. 사랑한다는 앞부분만으로 내 신앙 행동을 모두 정당화할 수 없다.",
+      "contextNote": "솔로몬의 신앙과 아직 남은 산당 예배를 서술한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "8adb3a816f8133b74649bc0b4bece413fa8e86af0ed9c42161653d69342f2782"
+    },
+    {
+      "id": "KRV:1KI:3:4",
+      "status": "hold",
+      "reason": "큰 산당에서 일천 번제를 드린 기록이다. 큰 금액이 부담되는 헌금 고민에 제사의 규모를 성공 조건으로 보탤 수 없다.",
+      "contextNote": "솔로몬이 기브온 산당에서 제사한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "59da1bc69a2f8dfe454674ccabf165b83c4a696d56d494a01a543c8e61f02df5"
+    },
+    {
+      "id": "KRV:1KI:3:5",
+      "status": "candidate",
+      "reason": "무엇을 구할지 묻는 장면이 여러 답 사이에 흐려진 내 바람을 하나님 앞에서 돌아볼 실마리가 될 수 있다.",
+      "contextNote": "하나님이 꿈에 솔로몬에게 나타나 무엇을 줄지 물으신다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A035",
+          "clue": "남에게 또 답을 묻기 전에 내가 정말 구하는 것이 무엇인지 기도 속에서 돌아볼 마음을 읽는다.",
+          "friction": "솔로몬에게 있었던 꿈의 발화다. 현재 사용자에게 같은 꿈이나 무조건적 소원 성취가 약속됐다고 서비스가 선언하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "c12390aa363e0310e52f94cc45b093792cfb0c92c524560cd01aff52a0e673e4"
+    },
+    {
+      "id": "KRV:1KI:3:6",
+      "status": "hold",
+      "reason": "아버지의 정직과 왕위에 앉을 아들을 은혜로 연결한 긴 감사다. 도움받은 일을 나눌지의 고민에는 왕조 계승의 인과가 무겁다.",
+      "contextNote": "솔로몬이 다윗에게 베푼 은혜와 자신의 계승을 고백한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "57b23c1643310714df66c7e6f910fdafb74c8ebf637fa6a5b71a900f45a9f07b"
+    },
+    {
+      "id": "KRV:1KI:3:7",
+      "status": "candidate",
+      "reason": "큰 역할을 맡고도 출입을 모르는 작은 아이라고 스스로 인정한다. 모르는 티를 감추려는 초보 책임자의 마음에 충분히 닿는다.",
+      "contextNote": "이미 왕이 된 솔로몬이 하나님께 자신의 미숙함을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A042",
+          "clue": "맡았으니 다 아는 척해야 한다는 부담 대신 작은 아이라 알지 못한다고 먼저 인정할 마음을 읽는다.",
+          "friction": "이미 역할을 맡은 상황끼리 대조한다. R013 같은 지원자에게 선발 권한이 있다고 바꾸거나 사용자가 왕이라는 신적 확인으로 쓰지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "b29863daa5e8972c3ed6bf149c3ff5d35dc1d25302e76060f04166d18cf026fc"
+    },
+    {
+      "id": "KRV:1KI:3:8",
+      "status": "hold",
+      "reason": "많은 백성 가운데 있다는 책임의 규모를 말한다. 공동 공간을 나눠 맡을지의 고민에는 숫자의 압도감 외 선택의 실마리가 덜하다.",
+      "contextNote": "솔로몬이 자신이 맡은 백성의 큰 수를 기도에 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "1e29ddb527870e62438263343a4186a47fa9b82ddf10f166c2b4d76cf3946c11"
+    },
+    {
+      "id": "KRV:1KI:3:9",
+      "status": "candidate",
+      "reason": "잘 판단할 지혜로운 마음을 달라는 기도가 초보라는 사실을 숨기기보다 듣고 분별하며 배울 방향을 준다.",
+      "contextNote": "솔로몬이 백성을 바르게 재판할 지혜를 구한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A042",
+          "clue": "혼자 능숙한 척하기보다 사람들의 일을 듣고 분별할 마음을 구하는 모습에서 배우고 도움을 청할 실마리를 읽는다.",
+          "friction": "국왕의 재판과 동아리 운영은 다르며 기도만으로 능력이 완성되거나 조언이 필요 없어지는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "2f3282a772baca8eb7e77b1c3f4e6ed17abc48d86235d80cdcbf043087d146b1"
+    },
+    {
+      "id": "KRV:1KI:3:10",
+      "status": "hold",
+      "reason": "이것을 구한 말이 마음에 맞았다는 평가라서 구한 내용이 앞절에 달려 있다. 나의 바람도 신께 승인됐다는 확인으로 주지 않는다.",
+      "contextNote": "하나님이 솔로몬의 지혜 요청을 기쁘게 여기신다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "c2426218336117dafb7a6c03bdf6127d9a65e50e7d2db90c1b0786545be7220d"
+    },
+    {
+      "id": "KRV:1KI:3:11",
+      "status": "candidate",
+      "reason": "장수·부·원수 제거보다 송사를 듣고 분별할 지혜를 택한 대비가 잘 보일 욕심보다 맡은 일을 배울 방향을 비춘다.",
+      "contextNote": "하나님이 솔로몬이 무엇을 구하지 않고 무엇을 구했는지 짚으신다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A042",
+          "clue": "내가 능숙해 보이는 것보다 실제로 사람들의 말을 듣고 판단할 지혜가 필요하다는 쪽에 마음을 둘 수 있다.",
+          "friction": "사용자에게 장수·부·원수 소원이 있다는 뜻은 아니다. 솔로몬의 기도 평가를 빌린 개인적 우선순위의 실마리다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "6baec2ab55e4cd68050f4e5a195e173555fe45f8a6180fc341811eba2bde16d3"
+    },
+    {
+      "id": "KRV:1KI:3:12",
+      "status": "hold",
+      "reason": "전무후무한 총명을 준다는 솔로몬 고유의 응답이다. 초보자의 미숙함에 똑같은 비범한 능력이 이미 주어졌다고 보태지 않는다.",
+      "contextNote": "하나님이 솔로몬에게 특별한 지혜를 약속하신다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "5e6cb5cf1b6b31e598c7d9c6d534cbdf283b1c5df1aa7ea09e1f8c062c83b7cd"
+    },
+    {
+      "id": "KRV:1KI:3:13",
+      "status": "hold",
+      "reason": "구하지 않은 부와 영광도 왕들 중 비길 이 없이 준다는 약속이다. 구매를 망설이는 사람에게 앞으로 생길 돈을 보태야 연결된다.",
+      "contextNote": "솔로몬에게 추가로 부와 명예를 주시겠다고 한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "52beb062af893ca1da4f3f9030d6d7c52a59e7a1958d9121483d3aa2ac9f844d"
+    },
+    {
+      "id": "KRV:1KI:3:14",
+      "status": "hold",
+      "reason": "계명을 따라 행할 때 수명을 늘린다는 조건부 응답이다. 회복이나 치료 선택을 개인 수명 보장에 연결할 정보는 없다.",
+      "contextNote": "솔로몬에게 삶의 길과 장수를 연관해 당부하신다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "17a28be084544acbc863325891b342639add11ba0c12e099517ece7ad0d37a10"
+    },
+    {
+      "id": "KRV:1KI:3:15",
+      "status": "hold",
+      "reason": "꿈에서 깬 뒤 제사와 신하 잔치로 응답한다. 감사 표현의 실마리는 있지만 언약궤와 제사의 긴 의례 배경이 먼저 필요하다.",
+      "contextNote": "솔로몬이 예루살렘으로 돌아와 감사 제사와 잔치를 연다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "78c17a52febc8ad80b3265cfc3daeef8f4ee29818438e9cbcab71c20a4eef0a3"
+    },
+    {
+      "id": "KRV:1KI:3:16",
+      "status": "exclude",
+      "reason": "두 여성이 왕 앞에 온 재판 도입이다. 다툼의 내용과 해결 관점은 다음 절들에 있다.",
+      "contextNote": "두 창기가 솔로몬에게 송사를 하러 온다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "774f6b2bd1a7893f708920cdbcc3ea22b9150976a8e4182827b7d635d0776254"
+    },
+    {
+      "id": "KRV:1KI:3:17",
+      "status": "exclude",
+      "reason": "함께 살며 출산했다는 진술이다. 함께 살지 독립할지의 갈등과는 거주 사실만 닮았다.",
+      "contextNote": "첫 여성이 공동 거주와 자신의 출산을 말한다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "ccc89c1190ba369b57b223f9677d19e679ecf0ccb8608252d6024c0e728a3c8c"
+    },
+    {
+      "id": "KRV:1KI:3:18",
+      "status": "exclude",
+      "reason": "둘 외에 목격자가 없었던 출산 시기의 설명이다. 소문을 확인할지의 고민에 증인 부재만으로 방향을 정할 수 없다.",
+      "contextNote": "첫 여성의 진술이 서로의 출산 시점과 집 안 인원을 밝힌다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "1459abfef069039ee704140864c46ea139530a17647e16e9a8ad6acf7a071845"
+    },
+    {
+      "id": "KRV:1KI:3:19",
+      "status": "hold",
+      "reason": "어머니가 누워 아들이 죽었다는 한쪽 주장의 비극이다. 돌봄을 분담할지의 일상에 죽음의 위험을 새로 넣지 않는다.",
+      "contextNote": "첫 여성이 다른 여성 아기의 사망을 주장한다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "5f0bca04e8f0f7404106783abe398af83c89a4ead3ec78c5d9156d2c087319fc"
+    },
+    {
+      "id": "KRV:1KI:3:20",
+      "status": "hold",
+      "reason": "잠든 사이 두 아이를 바꿨다는 범죄 주장이다. 친구가 나를 싫어하는 것 같다는 미확인 느낌에 같은 기만이 있었다고 보태지 않는다.",
+      "contextNote": "첫 여성이 상대가 살아 있는 아기를 바꿨다고 주장한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "5f2a98f401a8e2d3dd51b6ccdd0d1949ab4fca3427bde837b8a8b144fd67011c"
+    },
+    {
+      "id": "KRV:1KI:3:21",
+      "status": "hold",
+      "reason": "자세히 살펴 아이가 다름을 알았다는 진술이다. 직접 확인의 중요성은 있으나 아기의 죽음과 친자 다툼을 떠나 생활 선택에 바로 닿기는 어렵다.",
+      "contextNote": "첫 여성이 아침에 아기를 확인한 일을 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "b353e705e19ae67095c8ac7fc8818b97db324047e1e240e3a7c9c8b871f41d08"
+    },
+    {
+      "id": "KRV:1KI:3:22",
+      "status": "hold",
+      "reason": "서로 내 아이라며 충돌하는 주장을 나란히 보여 준다. 양쪽 말을 들을 필요는 읽히지만 해결 실마리는 뒤 재판에 남아 있다.",
+      "contextNote": "두 여성이 살아 있는 아기의 모친이라고 다툰다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "21acf330056576659f9d886dabc2d02e0bacc0008dc6dcd5fa03520013f10cf6"
+    },
+    {
+      "id": "KRV:1KI:3:23",
+      "status": "hold",
+      "reason": "왕이 대립 주장을 반복해 정리하지만 판단이나 다음 행동의 관점은 아직 없다. 소문을 들은 고민의 충분한 첫 결과로는 불완전하다.",
+      "contextNote": "솔로몬이 두 여성의 주장을 다시 확인한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "5a4dc3b279ce7d58ddeacc76d6b357f9ade42c1caecdc977f1f8fbcd4de51e4b"
+    },
+    {
+      "id": "KRV:1KI:3:24",
+      "status": "hold",
+      "reason": "칼을 가져오라는 재판의 전환이다. 지혜나 분별의 뜻은 뒤 장면 없이는 알 수 없다.",
+      "contextNote": "솔로몬이 판결을 위해 칼을 요청한다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "529c706421a2963ed9df51adb99e3c4ccf82da27843a32d3d4013193431ed559"
+    },
+    {
+      "id": "KRV:1KI:3:25",
+      "status": "hold",
+      "reason": "살아 있는 아기를 반으로 나누라는 극단적 명령이다. 공평하게 나눌지의 고민에 실제 적용할 분배 원칙으로 옮길 수 없다.",
+      "contextNote": "솔로몬이 두 여성의 반응을 보기 위한 명령을 내린다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "59ce26386777dfdcf5a5fcf1c6821822cd6a7136e0bd5c8912648cb9a3ce0320"
+    },
+    {
+      "id": "KRV:1KI:3:26",
+      "status": "candidate",
+      "reason": "내 몫을 잃더라도 아이는 죽이지 말라는 간청과 양쪽 몫을 없애자는 말을 대비해 아이를 먼저 볼 실마리가 분명하다.",
+      "contextNote": "친어머니가 아기의 생명을 위해 자기 주장을 양보하고 다른 여성은 분할을 원한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A043",
+          "clue": "내가 차지하는 몫보다 아이가 편안히 살아가는 것을 먼저 보는 마음에서 내 뜻을 조금 양보할 방향을 읽는다.",
+          "friction": "생명이 걸린 재판과 생일 다툼은 다른 상황이다. 양육권·친자·법적 권한을 판정하거나 현재 아이가 죽을 위험이라는 조건은 더하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "f699cad90aeaaba53f94784ac34768e26c80206ffa454969bc8e347e44563651"
+    },
+    {
+      "id": "KRV:1KI:3:27",
+      "status": "hold",
+      "reason": "아이를 죽이지 말고 친어머니에게 주라는 판결이다. 생일을 양보할지의 부모 고민에 누가 참부모인지 판정할 정보는 없다.",
+      "contextNote": "솔로몬이 생명을 살리려던 여성을 친어머니로 판정한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "e098bd1b3d2a1cb0ed4bae1d0195002da5d4d321c25faa6fdc4091f44d4d880a"
+    },
+    {
+      "id": "KRV:1KI:3:28",
+      "status": "hold",
+      "reason": "백성이 왕의 지혜로운 판결을 보고 두려워한 결과다. 초보 역할을 맡으면 같은 지혜나 신뢰가 생긴다는 보장은 보태지 않는다.",
+      "contextNote": "아기 재판 뒤 솔로몬의 지혜가 알려진다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "ea3ab99770536a7383d651be10e9dda21859066e23dbfb80aac3bac6930d9b3f"
+    },
+    {
+      "id": "KRV:1KI:4:1",
+      "status": "exclude",
+      "reason": "솔로몬이 온 나라의 왕이라는 신분 진술이다. 새 역할에 지원할지에 관한 선택의 관점은 없다.",
+      "contextNote": "솔로몬의 통치 조직 소개를 연다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "3a544f843940be78a10c766c831315e635501717a42665b1bc99bae506500c55"
+    },
+    {
+      "id": "KRV:1KI:4:2",
+      "status": "exclude",
+      "reason": "아사리아의 이름과 제사장 직무를 기록한다. 어떤 능력을 보고 일을 나누는지는 없다.",
+      "contextNote": "왕의 신하 명단에서 제사장을 소개한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "31ed6ef918db369221805bf42bab10766fb336c87f1005b0928653656fcaeb31"
+    },
+    {
+      "id": "KRV:1KI:4:3",
+      "status": "exclude",
+      "reason": "서기관과 사관의 인명을 나열한다. 자기 기여와 이름을 넣을지의 갈등을 비출 내용은 없다.",
+      "contextNote": "문서와 기록을 맡은 신하들이다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "a43670039e99460edfaa4438b41e8b23a2bafb910af76669b9c14db9f0af6db3"
+    },
+    {
+      "id": "KRV:1KI:4:4",
+      "status": "exclude",
+      "reason": "군대장관과 제사장의 인명·직위다. 일을 넘길 적합성을 판단할 기준은 제시되지 않는다.",
+      "contextNote": "왕의 군사·종교 담당자를 적는다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "88698d357091b7ea8a6a77ac913d8f1843dde97338c2fbc1bbb88c3f8cedc34b"
+    },
+    {
+      "id": "KRV:1KI:4:5",
+      "status": "exclude",
+      "reason": "관리장과 대신의 이름 및 왕의 벗이라는 지위다. 친구와 협업할 목표를 맞출지의 갈등은 없다.",
+      "contextNote": "나단의 두 아들의 직무를 소개한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "ff1861375d6f243065ad701337d6faa5acba7397b9d90ddc283748a7fbee7cdf"
+    },
+    {
+      "id": "KRV:1KI:4:6",
+      "status": "exclude",
+      "reason": "궁내대신과 감역관의 이름이다. 지친 리더가 역할을 나눌지에 명단 이상의 구조는 아직 없다.",
+      "contextNote": "왕궁과 부역 담당자를 열거한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "c88c9d04b7238d6d71958968c9327699a035445aeec2e117e9f35c94748458e2"
+    },
+    {
+      "id": "KRV:1KI:4:7",
+      "status": "candidate",
+      "reason": "열두 담당이 한 달씩 식량 준비를 나누는 구조가 한 사람이 다 떠안아 지친 고민에 실제 분담의 실마리를 준다.",
+      "contextNote": "솔로몬이 왕실 식량을 마련할 지역 관장들을 둔다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A009",
+          "clue": "매달 맡을 사람을 나누어 같은 일을 계속 굴러가게 하는 모습에서 적합한 팀원에게 역할을 맡길 마음을 읽는다.",
+          "friction": "왕실을 위한 지역 조달이며 팀원 강제 동원이나 특정 분담 수를 지시하는 뜻은 아니다. 각자의 적합성을 별도로 살필 여지를 둔다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "36c01b52c4476ef90ef94fac544ac0b556597776eac9bac038392e6438caa6fb"
+    },
+    {
+      "id": "KRV:1KI:4:8",
+      "status": "exclude",
+      "reason": "에브라임 산지의 담당자 벤훌을 소개한다. 분담의 원리는 앞절에 있고 이 절에는 지역과 이름만 있다.",
+      "contextNote": "열두 관장의 지역별 명단을 시작한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "4b92870052ff718ff616b9429bdcde1a5707d5d7ca3356fd8aadbe407ac40101"
+    },
+    {
+      "id": "KRV:1KI:4:9",
+      "status": "exclude",
+      "reason": "벤데겔의 관할 지역 이름을 나열한다. 담당 구역을 정할 생활의 기준은 없다.",
+      "contextNote": "다섯 지역을 맡은 관장을 기록한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "d5f6442dd0987a98bfbafe03b61ebe1ec53ead81d3f5c170314067e897d3c703"
+    },
+    {
+      "id": "KRV:1KI:4:10",
+      "status": "exclude",
+      "reason": "벤헤셋의 관할지를 소개한다. 다른 사람의 자리를 사용할지의 고민과 지역 배정의 사실만 닮았다.",
+      "contextNote": "아룹봇을 중심으로 한 관장 구역이다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "012e1719490af87dab14754c8cab5670a2ce0adb991cddaade3d666372db777f"
+    },
+    {
+      "id": "KRV:1KI:4:11",
+      "status": "exclude",
+      "reason": "벤아비나답의 담당지와 혼인 관계를 기록한다. 친분과 업무를 구분할 판단의 내용은 없다.",
+      "contextNote": "돌 지역 관장과 왕실의 인척 관계다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "9d7d12537859af91bf58833d68100a6f4aa01cf85fca71c50e28e2c988a2fed3"
+    },
+    {
+      "id": "KRV:1KI:4:12",
+      "status": "exclude",
+      "reason": "바아나의 넓은 관할 구역을 지명으로 설명한다. 필요한 몫이 다를 때 배분할 기준은 드러나지 않는다.",
+      "contextNote": "이스르엘 일대 관장의 관할 범위를 적는다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "07496fbcfafdd372fba5c53131dfd1b2ce528f8452f885ea6a7c71ee0671eef5"
+    },
+    {
+      "id": "KRV:1KI:4:13",
+      "status": "exclude",
+      "reason": "벤게벨이 맡은 촌락과 성읍 수를 상세히 적는다. 크고 작은 역할을 나눌지에 규모의 열거 외 실마리는 없다.",
+      "contextNote": "길르앗·바산의 관장 구역을 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "88ebc0c75e04f07e1b40062209e371cc39de015d223fbd5ef992b3a2b4ec6135"
+    },
+    {
+      "id": "KRV:1KI:4:14",
+      "status": "exclude",
+      "reason": "마하나임의 아히나답이라는 인명뿐이다. 새 지역에 갈지의 이유나 개인적 판단은 없다.",
+      "contextNote": "마하나임 관장을 기록한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "f9c9f40e0b70408919b30a17407187a4330818dbfb121df8d797c6d141ea4ad4"
+    },
+    {
+      "id": "KRV:1KI:4:15",
+      "status": "exclude",
+      "reason": "아히마아스의 관할과 왕실 혼인을 소개한다. 연애 관계를 시작할지의 갈등은 없다.",
+      "contextNote": "납달리 관장과 솔로몬 딸의 혼인 관계다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "f940d8101ecc8fbce4bb570bdd3585f93d5d02c8e7687da32a86f12f75de1c93"
+    },
+    {
+      "id": "KRV:1KI:4:16",
+      "status": "exclude",
+      "reason": "아셀과 아롯의 관장 이름이다. 역할을 나눌지에 이 담당자를 고른 이유는 제시하지 않는다.",
+      "contextNote": "후새의 아들 바아나가 맡은 구역이다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "dd647904ec303bef3850c9743db7d197d7f2ae6a8abed2c3e10e53909825837a"
+    },
+    {
+      "id": "KRV:1KI:4:17",
+      "status": "exclude",
+      "reason": "잇사갈 담당자의 이름과 가계를 적는다. 선택을 비출 대화나 태도가 없다.",
+      "contextNote": "바루아의 아들 여호사밧을 관장으로 기록한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "0b1465fc56ed2c3c260544368a3d6334f078f5c00c31059a81a1d2ca631cafad"
+    },
+    {
+      "id": "KRV:1KI:4:18",
+      "status": "exclude",
+      "reason": "베냐민 담당 시므이의 이름이다. 지원자의 나이·경험 고민에 명단만으로 자격을 인정할 수 없다.",
+      "contextNote": "엘라의 아들 시므이를 기록한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "b2de7ee7fbafc5a7e70caead5c7635295773ffd2ebfb2a76a52ad0ae0d699beb"
+    },
+    {
+      "id": "KRV:1KI:4:19",
+      "status": "exclude",
+      "reason": "옛 왕들의 영토와 한 관장의 구역을 설명한다. 혼자 모두 맡을지에 실제 노동이나 한계의 조건은 없다.",
+      "contextNote": "길르앗 관장 게벨의 관할을 적는다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "e0e50c1b20880a162fa062bdbf962d69791ceda5694d61a1914aece67c549f0f"
+    },
+    {
+      "id": "KRV:1KI:4:20",
+      "status": "candidate",
+      "reason": "먹고 마시며 즐거워한 평범한 삶의 모습이 살 여유가 생겨도 즐기면 사치 같다는 마음에 누릴 여지를 줄 수 있다.",
+      "contextNote": "솔로몬 치세의 많은 인구와 생활의 풍요를 서술한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H009",
+          "clue": "기쁨을 계속 참아야만 할 것처럼 느낄 때 사람들이 먹고 마시며 즐거워하는 모습에서 마련된 여유를 기분 좋게 누릴 마음을 읽는다.",
+          "friction": "왕국의 풍요와 개인 구매는 다르다. 앞으로 새 돈이 생기거나 어떤 구매도 정당하다고 보장하지 않고 이미 살 수 있다는 고민 조건에 한정한다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "154ee02c35b813a1142b39ad2fd638af88f4706c97543681329fc99162fc9cf9"
+    },
+    {
+      "id": "KRV:1KI:4:21",
+      "status": "exclude",
+      "reason": "주변 나라의 영토와 조공·복속을 기록한다. 성과를 높일지 사람을 챙길지의 고민을 왕권 확대로 옮기기는 어렵다.",
+      "contextNote": "솔로몬이 주변 나라들을 다스리며 조공을 받는다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "833ff5c612366356281cb7509607951d989135f5ab4cd2690768e77c23a18ad7"
+    },
+    {
+      "id": "KRV:1KI:4:22",
+      "status": "exclude",
+      "reason": "왕실의 하루 밀가루 수량이다. 모임 음식량을 조정할지에는 인원·필요량의 판단 없이 큰 수치만 제시된다.",
+      "contextNote": "왕실의 일일 식량 소비를 열거한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "a78cd4ecd7296f679136e20227e28964dd791173aa9fa7ca0ef9c486a8280adf"
+    },
+    {
+      "id": "KRV:1KI:4:23",
+      "status": "exclude",
+      "reason": "소·양·야생동물의 수와 종류를 나열한다. 고기를 먹어도 될지의 고민에 이 왕실 소비량이 도덕적 허용 근거가 되지는 않는다.",
+      "contextNote": "왕실 식단의 육류와 사냥감을 기록한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "35fb516a4c90d999ee124e0c3d515574078eba66cd6afaf241f93f8ac950a9cd"
+    },
+    {
+      "id": "KRV:1KI:4:24",
+      "status": "hold",
+      "reason": "여러 왕을 관할하면서 평화가 있었다는 통치 결과다. 일상 갈등이 더 큰 통제권을 가지면 풀린다는 방향으로 옮길 수 없다.",
+      "contextNote": "솔로몬의 영역과 주변 평화를 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "ea7b8793b88e3e7d32fe55d0753b082f453f95868d33a2c02e291a0c6be22d92"
+    },
+    {
+      "id": "KRV:1KI:4:25",
+      "status": "candidate",
+      "reason": "각기 자기 나무 아래 평안히 살았다는 이미지가 남의 새집과 비교하느라 익숙한 내 방을 초라하게 보는 마음에 닿는다.",
+      "contextNote": "솔로몬 치세의 각 가정이 누린 안정을 서술한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "R024",
+          "clue": "더 화려한 곳을 얻는 일보다 내 자리에서 안연히 사는 모습을 떠올려 불편하지 않은 지금 방을 받아들일 마음을 읽는다.",
+          "friction": "포도나무·무화과나무가 실제 방에 있다는 뜻은 아니다. 임대료나 이사 결과를 정하는 자료가 아닌 이미 안정된 생활에 대한 개인적 비유다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "8a1d0a7ae0e84d21b5b8fe414d8ce64e4459a500461240e30cc51d5abc7ee9c3"
+    },
+    {
+      "id": "KRV:1KI:4:26",
+      "status": "exclude",
+      "reason": "외양간과 마병의 숫자를 기록한다. 소유한 물건이 많다는 사실만으로 구매 보류의 실마리를 만들지 않는다.",
+      "contextNote": "왕실의 군마 자원을 열거한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "454f2ddced02d89b24235562894f4ea22ffea5668ff657a79d11776edbada10b"
+    },
+    {
+      "id": "KRV:1KI:4:27",
+      "status": "candidate",
+      "reason": "각자 맡은 달에 준비해 공동 필요를 채우는 모습이 책임자가 혼자 자잘한 일까지 맡는 부담을 비춘다.",
+      "contextNote": "열두 관장이 왕실 식량을 차례로 조달한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A009",
+          "clue": "나눠 맡아도 필요한 일이 이어진다는 구조에서 혼자 끝내려 하기보다 담당을 정해 나눌 마음을 읽는다.",
+          "friction": "왕실 조달의 결과를 현재 팀이 반드시 부족함 없이 해낸다는 보장으로 옮기지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "a3390fbf4a906b5458bf065af804ed9c914d368e9d2f66dd1a7108073813aede"
+    },
+    {
+      "id": "KRV:1KI:4:28",
+      "status": "candidate",
+      "reason": "각 직무에 따라 필요한 곳으로 먹이를 보내는 분담이 구체적으로 드러나 혼자 모든 일을 처리할지의 갈림길에 닿는다.",
+      "contextNote": "관장들이 군마의 먹이도 담당해 해당 장소로 운반한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A009",
+          "clue": "각기 직무를 따라 필요한 일을 하는 모습에서 맞는 팀원에게 구체 역할을 맡길 실마리를 읽는다.",
+          "friction": "군마의 사료 공급과 팀 과제는 다르다. 현재 팀원 능력이나 일할 여유를 확인한 사실로 넣지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "3fc846e2d361297371541565e87a2f3f07a3af49850e2b4eb650bfe5bba13546"
+    },
+    {
+      "id": "KRV:1KI:4:29",
+      "status": "hold",
+      "reason": "솔로몬에게 주신 비범한 지혜와 넓은 마음이다. 새 역할을 맡은 사람의 능력이 이미 충분하다는 확인은 이 사건으로 만들 수 없다.",
+      "contextNote": "왕에게 베푼 총명을 풍성한 모래에 비유한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "45f80ce6c25cf15a14f7969cfafcf731fc65e6eee0535019eb1b5185df161078"
+    },
+    {
+      "id": "KRV:1KI:4:30",
+      "status": "hold",
+      "reason": "솔로몬의 지혜가 다른 지역보다 뛰어났다는 비교다. 처음 하는 일의 지원자에게 남보다 낫다는 사실을 새로 보태지 않는다.",
+      "contextNote": "왕의 지혜가 동양과 애굽을 능가했다고 말한다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "ee6a841f02d36e15fb752e8861bca91c5abda221580c48ce1aee574c252d0500"
+    },
+    {
+      "id": "KRV:1KI:4:31",
+      "status": "exclude",
+      "reason": "여러 현자의 이름과 솔로몬의 명성 비교다. 남의 성과와 내 계획을 고를 관점은 이름·서열 외에 없다.",
+      "contextNote": "당대 현자들보다 뛰어난 솔로몬을 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "0088abf78f7bdc3e03a139b74d6c279e823bb71ee925d3c21225b94f6ced16e5"
+    },
+    {
+      "id": "KRV:1KI:4:32",
+      "status": "exclude",
+      "reason": "잠언과 노래의 편수를 센 업적 기록이다. 완성한 작품을 공개할지의 고민에 수량이 공개의 근거가 되지는 않는다.",
+      "contextNote": "솔로몬의 저술·노래 규모다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "cbd0827a8bfd57afd9ef42e801c1229a1ad70b37e24504ba68eabbb389d9eff1"
+    },
+    {
+      "id": "KRV:1KI:4:33",
+      "status": "hold",
+      "reason": "여러 식물과 동물을 논한 지식의 범위다. 배우려는 마음은 줄 수 있지만 새 기술을 시작할지의 구체 실마리로는 약하다.",
+      "contextNote": "솔로몬의 박학함을 자연물의 폭으로 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "126d845aeb1e4fe321d4384301719dd9c7d79f834d3f8e1f9536c40377bf467a"
+    },
+    {
+      "id": "KRV:1KI:4:34",
+      "status": "candidate",
+      "reason": "각 나라의 왕들도 지혜를 들으러 왔다는 장면이 조언을 구하면 부족해 보일까 하는 마음을 덜 수 있다.",
+      "contextNote": "솔로몬의 소문을 듣고 여러 민족의 이들이 찾아온다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "높은 자리에 있는 사람도 다른 이의 지혜를 들으러 간 모습에서 혼자 계획하기보다 선배와 의논할 마음을 읽는다.",
+          "friction": "선배가 솔로몬 같은 총명이나 정답을 가졌다고 보장하지 않는다. 조언을 구하는 행동의 가치에 연결한 예상이다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "d9206fa05746e64f61ee40b9b216f2e2f47218cc8a6bc4baa7be572299fe4376"
+    },
+    {
+      "id": "KRV:1KI:5:1",
+      "status": "hold",
+      "reason": "아버지와의 호의 때문에 후계자에게 신하를 보낸 외교의 시작이다. 가족의 선행에 보답할 관점은 있으나 직접 도움받은 사용자의 초대와 역할이 다르다.",
+      "contextNote": "히람이 솔로몬의 즉위를 듣고 우호 사절을 보낸다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "7863f1f33ca60b527dd2696b81799a132ebc37ec7a6362e110d0c2afedf83f96"
+    },
+    {
+      "id": "KRV:1KI:5:2",
+      "status": "exclude",
+      "reason": "히람에게 기별했다는 발화 도입이다. 연락 내용과 선택 이유가 아직 없다.",
+      "contextNote": "솔로몬의 외교 답신을 시작한다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "8293676bb2783261d86ba0487a30c5a714ee099d88d74eeb551d9f68d82c0901"
+    },
+    {
+      "id": "KRV:1KI:5:3",
+      "status": "hold",
+      "reason": "전쟁 때문에 이루지 못한 성전 건축의 회고다. 아직 좋은 기회가 끝났는지 모르는 고민에 종료와 신적 대기 조건을 새로 넣을 수 없다.",
+      "contextNote": "다윗이 성전을 짓지 못한 이유를 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "167d86a1a200a1f83a5e4584fa69494581abb0d7ad2d64b4ddd4ae86be8930da"
+    },
+    {
+      "id": "KRV:1KI:5:4",
+      "status": "hold",
+      "reason": "대적과 재앙 없는 현재 평화를 하나님께 돌린다. 준비는 됐지만 미루는 고민에 모든 위험이 사라졌다는 사실을 보태야 연결된다.",
+      "contextNote": "솔로몬이 자신에게 주어진 태평을 말한다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "555ea21929dea513cff537c14e557453503fae3232b6bbd27987d72d340e1d9d"
+    },
+    {
+      "id": "KRV:1KI:5:5",
+      "status": "hold",
+      "reason": "다윗에게 주신 계승과 성전 건축의 말씀을 실행하려는 발화다. 개인의 새 계획이 하나님께 미리 지정됐다고 옮길 수 없다.",
+      "contextNote": "솔로몬이 히람에게 성전 건축 의도를 알린다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "58b5f28cd53e73a1e4786cc734eadebb951214fc8fb30b78deaa932e35c832d8"
+    },
+    {
+      "id": "KRV:1KI:5:6",
+      "status": "candidate",
+      "reason": "자신에게 부족한 전문성을 인정하고 협업과 삯을 함께 제안한다. 혼자 떠안기와 정당한 비용 사이의 고민에 실마리가 구체적이다.",
+      "contextNote": "솔로몬이 숙련된 시돈 벌목꾼과 목재를 히람에게 요청한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A009",
+          "clue": "우리 중 그처럼 잘하는 사람이 없다는 인정과 함께 일하자는 말에서 적합한 사람에게 맡겨 역할을 나눌 마음을 읽는다.",
+          "friction": "외교적 노동 조달을 팀원에 대한 강제 명령으로 옮기지 않고 실제 적합성과 여유는 열린 조건으로 둔다.",
+          "expectedEnough": "yes"
+        },
+        {
+          "scenarioId": "B005",
+          "clue": "숙련된 사람의 일을 부탁하며 삯도 보내겠다는 말에서 친구의 큰 작업을 무료로만 받기보다 비용을 내겠다고 할 마음을 읽는다.",
+          "friction": "왕실 벌목과 친구의 작업은 다르며 적정 보수나 계약 조건을 이 절이 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "c4ef7bb489168a46bc5621dbeafb15e8330cc57cb5fa3dfd9220bc8269ed9e18"
+    },
+    {
+      "id": "KRV:1KI:5:7",
+      "status": "hold",
+      "reason": "지혜로운 왕자를 주신 일에 기뻐하며 하나님을 찬양한다. 도움받은 경험의 감사를 나눌지에는 왕조 계승과 통치 평가가 크게 남는다.",
+      "contextNote": "히람이 솔로몬의 요청을 듣고 찬양한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "072fd71ea1f89e67a58ea28d7cf0d09ff6e359ec948aa845fc75855c5bc5d651"
+    },
+    {
+      "id": "KRV:1KI:5:8",
+      "status": "hold",
+      "reason": "목재 요청에 원하는 대로 해 주겠다는 승낙이다. 도움을 구할까 하는 사람에게 상대의 수락을 미리 보장할 수 없다.",
+      "contextNote": "히람이 솔로몬에게 목재 공급을 약속한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "6fac99ceceb2029bb5467a86fa33ba56a1627e0b8a2d2756dbe6608e2fa121b8"
+    },
+    {
+      "id": "KRV:1KI:5:9",
+      "status": "candidate",
+      "reason": "내가 제공할 과정과 상대에게 바라는 대가를 함께 밝힌다. 협업 전에 서로 바라는 것을 맞출지의 선택을 비춘다.",
+      "contextNote": "히람이 운송 방식과 왕실 식량의 대가를 제안한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C010",
+          "clue": "함께 시작하면 알아서 맞춰지겠지 하기보다 나는 어떻게 제공하고 무엇을 원하는지 말해 볼 실마리를 읽는다.",
+          "friction": "목재·식량 교환과 수익·재미 우선순위는 다르다. 서로 목표가 맞는다는 결론이나 협업 성공은 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "3395ee9e177b00b82549f04e14ea48e0b258d6b1a3b91ee92ea7e122d51f6a59"
+    },
+    {
+      "id": "KRV:1KI:5:10",
+      "status": "exclude",
+      "reason": "바라는 목재를 공급했다는 이행의 연결문이다. 부탁하면 모두 얻는다는 현재 전망을 더할 수 없다.",
+      "contextNote": "히람이 약속한 목재를 솔로몬에게 준다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "d155b4746efe16bd332848e6e3b0e5e5f34f6ebcc37d2cfea780451d9eb6c669"
+    },
+    {
+      "id": "KRV:1KI:5:11",
+      "status": "exclude",
+      "reason": "매년 보낸 밀과 기름의 수량이다. 약속한 보수를 오늘 보낼지에 기한의 갈등이나 판단 근거는 없다.",
+      "contextNote": "솔로몬이 히람에게 식량을 대가로 보낸다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "fc88cf895810e0baf0bafb11cac21c3ec6e988d9b1309ad3c30a12e8fcf74f9c"
+    },
+    {
+      "id": "KRV:1KI:5:12",
+      "status": "hold",
+      "reason": "지혜와 친목 및 약조의 결과를 말한다. 협업 전 무엇을 맞출지의 기준보다 우호가 이미 성립했다는 결말에 가깝다.",
+      "contextNote": "히람과 솔로몬의 협력이 조약으로 맺어진다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "4f40a6574f5a33ca8867600f963099969a3e01cbd0e4ec6aa9e604d7a3a31cb6"
+    },
+    {
+      "id": "KRV:1KI:5:13",
+      "status": "exclude",
+      "reason": "동원한 역군 삼만 명이라는 규모다. 사람을 나눠 맡길 이유나 노동 부담의 기준은 없다.",
+      "contextNote": "성전 공사를 위한 인력 동원을 시작한다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "feacd1c6fbde1bda2a41a77accce25caa2a8e016145785171984226a39690cdb"
+    },
+    {
+      "id": "KRV:1KI:5:14",
+      "status": "candidate",
+      "reason": "일하는 달과 집에 머무는 달을 번갈아 배정한 구조가 한 책임자의 계속된 부담을 나눌 관점을 준다.",
+      "contextNote": "역군이 일만 명씩 교대로 레바논에서 한 달씩 일한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A009",
+          "clue": "모두 한꺼번에 계속 일하기보다 차례와 감독을 정해 나누는 모습에서 혼자 끝내려 하지 않을 실마리를 읽는다.",
+          "friction": "왕의 부역 제도이므로 강제 동원이나 동일한 한 달·두 달 주기를 현대 팀에 적용하는 지시는 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "2329cc1abde4439c97cd8a95cc2b678c47690768c233e17181fe5c765c11b312"
+    },
+    {
+      "id": "KRV:1KI:5:15",
+      "status": "exclude",
+      "reason": "짐 나르는 사람과 돌 뜨는 사람의 수다. 각자에 맞는 역할이나 부담을 정할 기준은 없다.",
+      "contextNote": "성전 공사 인원의 분야별 규모다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "08becd533b8a0dc248f36615aaec1250461a4454d55bc51ebba8feb41806e9b8"
+    },
+    {
+      "id": "KRV:1KI:5:16",
+      "status": "exclude",
+      "reason": "감독관 수와 지휘 사실이다. 맡길 사람의 적합성이나 혼자 맡는 부담을 비교하지 않는다.",
+      "contextNote": "역사를 감독하는 삼천삼백 명을 기록한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "39061d5450de9cf074273f280767195a9d70722bec9c19571c27288f193d03e6"
+    },
+    {
+      "id": "KRV:1KI:5:17",
+      "status": "hold",
+      "reason": "귀한 큰 돌을 다듬어 기초에 놓는 순서다. 일을 시작할지 더 준비할지에는 현재 기초가 부족하다는 조건을 보태야 한다.",
+      "contextNote": "왕이 성전 기초석을 준비하게 한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "18c50e63cf32e3a4f05d8066c4ebb669a379f56c130e5064623f60c123e38ab1"
+    },
+    {
+      "id": "KRV:1KI:5:18",
+      "status": "exclude",
+      "reason": "여러 건축자가 자재를 갖춘 공정 기록이다. 협업의 목표를 맞출지에 관한 발언이나 갈등은 없다.",
+      "contextNote": "솔로몬·히람 측과 그발인들이 자재를 준비한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "edbe62a13c07d1284075c11763b59dd1861c6ecdc3e0b29b1d52c950fea4dffe"
+    },
+    {
+      "id": "KRV:1KI:6:1",
+      "status": "exclude",
+      "reason": "출애굽과 즉위 연수를 기준으로 착공 시점을 기록한다. 지금 준비가 충분한지의 판단 기준은 없다.",
+      "contextNote": "솔로몬 통치 사년 성전 공사가 시작된다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "c919c53d3bcb29fb3b13284ac52e5ce098b33d9fb9054020481b135c4ca08ce3"
+    },
+    {
+      "id": "KRV:1KI:6:2",
+      "status": "exclude",
+      "reason": "성전의 길이·너비·높이 치수다. 집을 옮길지의 고민에 실제 생활 조건으로 대응할 수 없다.",
+      "contextNote": "성전 본체의 규모를 적는다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "cde4457f8b0d4b74e4548ada3a292056385a947a82f759bf027a2828c96888ea"
+    },
+    {
+      "id": "KRV:1KI:6:3",
+      "status": "exclude",
+      "reason": "낭실의 길이와 너비를 설명한다. 공간을 함께 쓸지에 대한 기준은 제시되지 않는다.",
+      "contextNote": "성전 앞 낭실의 치수다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "8a93b05bbac6d06571641b755362f79c97488fe2ba4400bf99dfb15987b51691"
+    },
+    {
+      "id": "KRV:1KI:6:4",
+      "status": "exclude",
+      "reason": "붙박이 교창을 냈다는 구조 기록이다. 어려운 건축 용어 외에 선택의 실마리가 없다.",
+      "contextNote": "성전에 창을 설치한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "16ceee4ffdbdd88b27d7e52c847e69f5cafe97f86d877a6cc3f4c901cce2b474"
+    },
+    {
+      "id": "KRV:1KI:6:5",
+      "status": "exclude",
+      "reason": "벽에 붙인 다락과 골방의 구조다. 같은 공간에서 서로 불편하다는 생활 갈등은 없다.",
+      "contextNote": "성전 주변 부속 방들의 배치다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "09b14c4da720e9c77fd72d895825202ef9ca2719167c4dd45bfa12e4c1fa694c"
+    },
+    {
+      "id": "KRV:1KI:6:6",
+      "status": "exclude",
+      "reason": "층별 너비와 들보 지지 턱의 상세 구조다. 다른 사람의 필요에 따라 분배할 원칙을 치수에서 만들어낼 수 없다.",
+      "contextNote": "삼층 부속 건물의 지지 방식을 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "3ae985f31fde005f95ce0798148226019894c88e90f48d6d2bf1907a9cb519b2"
+    },
+    {
+      "id": "KRV:1KI:6:7",
+      "status": "candidate",
+      "reason": "현장에 오기 전 돌을 가공해 공사 중 철 연장 소리가 나지 않았다는 구체적 준비 방식이 소음 부담의 선택을 짚는다.",
+      "contextNote": "성전 돌을 채석장에서 다듬어 가져와 현장에서 조립한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A044",
+          "clue": "미리 다른 곳에서 가공해 가져오면 행사 장소의 소음을 줄일 수 있다는 실마리를 이 준비 방식에서 읽는다.",
+          "friction": "성전의 건축 관례와 행사 부스는 다르다. 현장 안전이나 모든 소음 제거를 보장하지 않고 사전 가공이라는 방법에 연결한다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "389bea6e0fd6a9250843a78d6945ed864857aa6b9914ad07b36550fb125f0e1a"
+    },
+    {
+      "id": "KRV:1KI:6:8",
+      "status": "exclude",
+      "reason": "골방 출입구와 나선 계단의 위치다. 단계적으로 배우라는 뜻을 구조에 새로 넣어야 연결된다.",
+      "contextNote": "부속 방의 층별 이동 통로를 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "7fb332069e6127c036e6fa074f193c09cb25f4bd0a5dfef0137d924d7e37749a"
+    },
+    {
+      "id": "KRV:1KI:6:9",
+      "status": "exclude",
+      "reason": "건축 완료와 지붕 자재를 적는다. 완벽하지 않은 작품 공개의 고민에 완성도 판단의 관점은 없다.",
+      "contextNote": "성전의 서까래와 덮개를 기록한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "04c928a5afb30da7efaa3eb8f7634dd87e225f8acdf38184b129eb015cfb7c67"
+    },
+    {
+      "id": "KRV:1KI:6:10",
+      "status": "exclude",
+      "reason": "다락방 높이와 연결 들보의 구조다. 팀 역할을 연결할지의 비유로 삼기에는 치수 정보가 중심이다.",
+      "contextNote": "성전 둘레 부속 방의 결합 방식이다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "3f4ea0fd51b0d6ddfedb08eb7a411f25d5453d10e42cf39e59d92a9a1cc06012"
+    },
+    {
+      "id": "KRV:1KI:6:11",
+      "status": "exclude",
+      "reason": "솔로몬에게 말씀이 임했다는 도입이다. 내용 없는 신적 발화 소개를 선택의 답으로 삼지 않는다.",
+      "contextNote": "건축 기록 중 하나님의 말씀을 삽입한다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "2c8038708d0a62b6b14feb4fae097c781a3f69dcb583b7a6525beced83f9fa21"
+    },
+    {
+      "id": "KRV:1KI:6:12",
+      "status": "hold",
+      "reason": "계명을 지켜 다윗에게 한 언약을 이루겠다는 말씀이다. 신앙의 기준을 지킬지에는 닿아도 전과 왕조 약속의 구체 내용이 남는다.",
+      "contextNote": "하나님이 성전을 짓는 솔로몬에게 순종을 당부하신다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "0bda65b5c01da62c5ad9bb0aa35c9603d05ba67549f39fe5414660492b03b539"
+    },
+    {
+      "id": "KRV:1KI:6:13",
+      "status": "hold",
+      "reason": "이스라엘 가운데 거하며 버리지 않겠다는 언약이다. 방에서 기도할지에 위로는 가능하지만 장소와 기도에 대한 직접 관점은 덜하다.",
+      "contextNote": "성전 건축 중 백성을 떠나지 않겠다고 말씀하신다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C020",
+          "clue": "백성 가운데 거하겠다는 말은 함께하심을 떠올리게 한다.",
+          "friction": "이 절만으로 성전과 개인 방의 기도 장소를 비교한 뜻을 읽기는 어렵다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "68ca282b6d3d19b9dbdb97b5122ea733c9785d5b3e0ecf2abdc1a341fda17af2"
+    },
+    {
+      "id": "KRV:1KI:6:14",
+      "status": "exclude",
+      "reason": "성전 건축을 마쳤다는 연결문이다. 시작한 일을 끝낼지의 고민에 완료 사실 외 판단의 실마리는 없다.",
+      "contextNote": "말씀 삽입 뒤 건축 공정을 다시 잇는다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "89ac64c1008006c72353076e4957e584a3684f11f375b7c4be9ed46ac088ce82"
+    },
+    {
+      "id": "KRV:1KI:6:15",
+      "status": "exclude",
+      "reason": "안벽과 마루에 입힌 목재 종류다. 장비나 집을 고를 가치 기준은 없다.",
+      "contextNote": "성전 내부의 백향목과 잣나무 마감이다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "e2af4fe74c7ef63f91c1a41fe96610605b650edeb9f469327a5b0a4539ef365b"
+    },
+    {
+      "id": "KRV:1KI:6:16",
+      "status": "exclude",
+      "reason": "뒤편을 가로막아 지성소로 만든 치수와 배치다. 개인적 경계를 말할지에 성소의 구획을 옮기는 설명이 먼저 필요하다.",
+      "contextNote": "지성소를 위한 안쪽 공간을 만든다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "618ea7f8f0e6b71c87270d31924ae42167012a5dc25c44994aacd810cb1b1efa"
+    },
+    {
+      "id": "KRV:1KI:6:17",
+      "status": "exclude",
+      "reason": "외소의 길이만 설명한다. 기다릴지 움직일지에 관한 방향은 없다.",
+      "contextNote": "성소의 사십 규빗 길이를 적는다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "d1414db7e4292afe0614f9176a19c9d097a9eb69269622e252e966c84133c0e1"
+    },
+    {
+      "id": "KRV:1KI:6:18",
+      "status": "exclude",
+      "reason": "나무에 박과 꽃을 새기고 돌을 가린 장식이다. 흠집을 가릴지의 고민에 흠이나 기만의 상황은 없다.",
+      "contextNote": "성전 내부 목재의 문양을 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "5547c7beac2a13a44ae8f685b28cef6d71ab675f9175003c8dc8791d65024339"
+    },
+    {
+      "id": "KRV:1KI:6:19",
+      "status": "exclude",
+      "reason": "언약궤를 두려고 내소를 준비한 구조다. 지금 모인 소수로 시작할지에 목적과 인원의 긴장이 없다.",
+      "contextNote": "지성소의 용도를 밝힌다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "9787a7e82133997bf7b716324e8703e938fa90649f8d7af3df35a8398222220d"
+    },
+    {
+      "id": "KRV:1KI:6:20",
+      "status": "exclude",
+      "reason": "내소의 정방형 치수와 금 장식이다. 더 비싼 것을 살지에 금의 양 자체를 가치 기준으로 만들지 않는다.",
+      "contextNote": "지성소와 단을 정금으로 입힌다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "cb802a38fa0d64d371a717d8799d4de67702d8ae4f679c275bc5eed9b360b10d"
+    },
+    {
+      "id": "KRV:1KI:6:21",
+      "status": "exclude",
+      "reason": "금사슬과 내외소 금 마감의 공정이다. 큰 선물을 할지의 고민에 구체 수혜자나 부담의 판단은 없다.",
+      "contextNote": "솔로몬이 성전 안과 내소를 금으로 꾸민다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "a1747affb1a16b37164c08b41e6ad2fcb6adee0449e506feecb32c344cde975a"
+    },
+    {
+      "id": "KRV:1KI:6:22",
+      "status": "exclude",
+      "reason": "건물과 단에 금을 입혔다는 마감 기록이다. 구매나 헌금의 부담을 정할 기준은 없다.",
+      "contextNote": "내소와 제단의 금 마감을 마친다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "a2b7068f03e2d4a0c23adc95075953387c97b82c8e0fae7b23748ed9d29fe1fb"
+    },
+    {
+      "id": "KRV:1KI:6:23",
+      "status": "exclude",
+      "reason": "감람목 그룹 두 개의 제작과 높이다. 낯선 형상과 치수에 선택의 갈등은 없다.",
+      "contextNote": "지성소의 두 그룹상을 만든다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "88c89b895df3f04d25a442a4948d2aac7d75a409f774059dbe73e6078e4d3938"
+    },
+    {
+      "id": "KRV:1KI:6:24",
+      "status": "exclude",
+      "reason": "그룹 날개 각각의 길이를 적는다. 도움을 건넬지의 비유를 날개 치수에 새로 보태야 한다.",
+      "contextNote": "첫 그룹상의 좌우 날개 치수다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "46bb211081c8683cd46f46b7e4e41aedb2004197aae2a1eda1029d7acfb9edca"
+    },
+    {
+      "id": "KRV:1KI:6:25",
+      "status": "exclude",
+      "reason": "두 그룹의 치수와 모양이 같다는 제작 규격이다. 동일 노동 보상을 정할 인간의 공헌 조건은 없다.",
+      "contextNote": "두 그룹상이 같은 형태임을 밝힌다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "3d5310275866e1ab7b189d3a083a2251fb7a3bba4569ac9955f2777bde42bb4a"
+    },
+    {
+      "id": "KRV:1KI:6:26",
+      "status": "exclude",
+      "reason": "두 그룹의 같은 높이를 되풀이한다. 크기 일치를 공평한 분배의 원칙으로 옮길 근거는 없다.",
+      "contextNote": "두 형상의 높이가 십 규빗이다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "70565dd6b1bfe9ae43f7a9e89b764b1e057700a4d4a92f31beac55459044fefc"
+    },
+    {
+      "id": "KRV:1KI:6:27",
+      "status": "exclude",
+      "reason": "벽과 중앙에 닿는 날개의 배치를 설명한다. 관계에서 다가가거나 경계를 세울지의 긴장은 없다.",
+      "contextNote": "지성소 안 두 그룹상의 공간 배치다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "1457bd7b64998f7e9d6a8c5b5722cd3a1992722129086bf0c88b0e4a4f74d68a"
+    },
+    {
+      "id": "KRV:1KI:6:28",
+      "status": "exclude",
+      "reason": "그룹에 금을 입혔다는 공정뿐이다. 비싼 선물을 할지에 가치나 상대 요구의 관점은 없다.",
+      "contextNote": "두 그룹상을 금으로 마감한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "49e5da8fac0ccaff2f61b2969499c9952bce6ede0b6e1e867f83803f212caecd"
+    },
+    {
+      "id": "KRV:1KI:6:29",
+      "status": "exclude",
+      "reason": "벽에 새긴 그룹·나무·꽃 문양의 목록이다. 외모를 받아들일지나 표현할지의 선택과 거리가 있다.",
+      "contextNote": "성전 벽 장식을 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "fa9bfc9d65bf1517943e20918da79f16353083e142c6ce854d8961ed1605ed73"
+    },
+    {
+      "id": "KRV:1KI:6:30",
+      "status": "exclude",
+      "reason": "안팎 마루를 금으로 입힌 기록이다. 사치의 죄책감을 해소할 생활 기준이 제시되지는 않는다.",
+      "contextNote": "성전 마루의 금 마감이다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "74785595a76d02fcd148807edcb2cf646c7be09cac2d52c6447cabe425705fad"
+    },
+    {
+      "id": "KRV:1KI:6:31",
+      "status": "exclude",
+      "reason": "지성소 문과 인방·문설주의 재질과 비율이다. 개인 관계의 경계를 문에 비유하려면 해설이 필요하다.",
+      "contextNote": "내소 출입문의 구조를 기록한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "bcc0db35d496715d77675a1270092572c32a3cda2e96bef1013dd83eb79ed928"
+    },
+    {
+      "id": "KRV:1KI:6:32",
+      "status": "exclude",
+      "reason": "문짝의 문양과 금 장식을 적는다. 더 보기 좋은 물건을 고를지에 기능·부담의 판단은 없다.",
+      "contextNote": "감람목 내소 문의 조각과 마감이다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "01a91d7fa2f442094b38cc181cd4389b5753bdd79be08d8f975604d96fd366cc"
+    },
+    {
+      "id": "KRV:1KI:6:33",
+      "status": "exclude",
+      "reason": "외소 문설주의 목재와 벽 대비 비율이다. 공간을 나눌지의 실마리로 삼을 생활 조건은 없다.",
+      "contextNote": "성소 문설주 구조를 기록한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "f0e8d67b45cffb0d734046ad726e411adf7d2340cb2f1ce5509b1090d6c2a9ac"
+    },
+    {
+      "id": "KRV:1KI:6:34",
+      "status": "exclude",
+      "reason": "두 잣나무 문의 접히는 구조다. 양쪽 선택을 함께 할 수 있다는 비유를 새로 만들어야 한다.",
+      "contextNote": "접이식 성소 문짝을 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "fadf96f363486f0672e717c26edbd7f45f538e2797173dca1ab1b9b8ac59b943"
+    },
+    {
+      "id": "KRV:1KI:6:35",
+      "status": "exclude",
+      "reason": "문양에 맞게 금을 입혔다는 공정이다. 작은 흠집이 신경 쓰일지의 고민에 흠의 평가 기준은 없다.",
+      "contextNote": "성소 문의 문양과 금 마감이다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "e4016a60953a28da628b14d5f6eda5d52c420d7580f192116f3bbb54cc56d348"
+    },
+    {
+      "id": "KRV:1KI:6:36",
+      "status": "exclude",
+      "reason": "돌과 판자를 쌓아 안뜰을 만든 재료 구성이다. 함께 공간을 쓸지의 갈등은 없다.",
+      "contextNote": "성전 안뜰의 벽 구조다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "522512650ad5b5706170d248119ab0bbaff15f047171fbaf7fc0005d7c92b9d9"
+    },
+    {
+      "id": "KRV:1KI:6:37",
+      "status": "exclude",
+      "reason": "기초를 쌓은 연월만 기록한다. 지금 시작할지 더 준비할지의 기준은 제시되지 않는다.",
+      "contextNote": "성전 착공 시점을 다시 밝힌다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "eadd79801891b024e67482a9b158be0e8652a6204e5ca4fb5762d49bc7a2810b"
+    },
+    {
+      "id": "KRV:1KI:6:38",
+      "status": "exclude",
+      "reason": "설계대로 칠 년 만에 끝났다는 건축 연혁이다. 오래 걸려도 계속할 가치를 따로 말하지 않아 지루한 과제 마무리와 단지 완료라는 말만 닮는다.",
+      "contextNote": "성전 공사의 완료 시점과 기간이다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "91d4917d2e9a113a1963245d253ab3c8be82c1e6432b173f1d702ac58c15dabd"
+    },
+    {
+      "id": "KRV:1KI:7:1",
+      "status": "exclude",
+      "reason": "자기 궁을 십삼 년에 완공한 결과다. 처음 공개할지 더 다듬을지의 갈등에 공개 기준은 없다.",
+      "contextNote": "솔로몬 왕궁 공사를 소개한다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "ca40399f3a2f034eb33ef7d6e17d4721bb4d03584488781b8012417038381609"
+    },
+    {
+      "id": "KRV:1KI:7:2",
+      "status": "exclude",
+      "reason": "궁의 규모와 기둥·들보 재료를 기록한다. 더 큰 집을 얻을지에 개인의 필요나 부담은 제시되지 않는다.",
+      "contextNote": "레바논 나무 궁의 규격이다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "5efb67bcc53d85911c2f54d906b7de77ffa40f964700f50c3b1004e33dbd6dab"
+    },
+    {
+      "id": "KRV:1KI:7:3",
+      "status": "exclude",
+      "reason": "들보의 개수와 열별 배치다. 팀의 역할 수를 정할 원칙을 이 규격에서 만들 수 없다.",
+      "contextNote": "기둥 위 들보의 수와 덮개를 적는다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "a673602da223b9977b87082a7b92ddfbf5e99af7dc2638a2bb9889d8585e8229"
+    },
+    {
+      "id": "KRV:1KI:7:4",
+      "status": "exclude",
+      "reason": "창틀이 서로 마주하는 삼층 구조다. 마주 앉아 이야기할지의 관계 관점을 새로 넣어야 연결된다.",
+      "contextNote": "궁의 창 배치를 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "f05598aaafa8611824a4cb0cffe38ab7fa15206b7766a3cc69a37312d1f790fb"
+    },
+    {
+      "id": "KRV:1KI:7:5",
+      "status": "exclude",
+      "reason": "문·문설주 목재와 창의 대응 구조다. 생활 선택의 이유보다 건축 규격이다.",
+      "contextNote": "문과 창의 형태를 잇는다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "c1338e81466d9cd7d59ed91dd5e6ec6a298fca97aba001457f0dc00aba82f7a8"
+    },
+    {
+      "id": "KRV:1KI:7:6",
+      "status": "exclude",
+      "reason": "기둥 낭실의 치수와 앞 구조물을 열거한다. 무슨 역할을 맡을지의 판단에 실제 능력 조건은 없다.",
+      "contextNote": "왕궁 낭실의 여러 부분을 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "5f6436e6e216cb29c54826b32befb63811c214b8f1a98f0fdecd43fd4c77b810"
+    },
+    {
+      "id": "KRV:1KI:7:7",
+      "status": "exclude",
+      "reason": "재판 공간의 용도와 마루 재료다. 대립하는 말을 어떻게 들을지에 관한 태도는 제시되지 않는다.",
+      "contextNote": "왕의 재판 낭실을 기록한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "8b13d90d0e7aebdcdcf06cee931ff30e8ca009b550d35c3355b1b51bc878627f"
+    },
+    {
+      "id": "KRV:1KI:7:8",
+      "status": "exclude",
+      "reason": "왕과 왕비의 궁 구조가 같다는 건축 배경이다. 결혼 뒤 독립할지에는 부모와의 갈등이나 생활 단위의 이유가 없다.",
+      "contextNote": "솔로몬 거처와 바로 딸의 집을 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "f1692866a2e3cd3e8f3f3184ec61cd1dfbce37129b0cc5db53a3dc33b389e609"
+    }
+  ]
+}
