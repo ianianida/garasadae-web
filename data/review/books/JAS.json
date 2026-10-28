@@ -1,0 +1,440 @@
+{
+  "bookCode": "JAS",
+  "corpusSha256": "f8d5c8b377e243b05fb884b4a6965d2c06a95de74b64a716ee4b95989d61e971",
+  "criteriaVersion": "garasadae-corpus-2026-10-08-v1",
+  "reviewer": "Codex terra_tail_resume",
+  "method": "direct-codex-reading",
+  "entries": [
+    {
+      "id": "KRV:JAS:1:1",
+      "status": "exclude",
+      "reason": "야고보가 흩어진 지파에게 문안하는 편지의 인사다. 구체 고민의 선택 방향은 나타나지 않는다.",
+      "contextNote": "편지의 발신자와 수신자를 밝히고 인사한다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "d2876c595034cd0fe1c2c52bf3abc989d04b0d90bd003444b58250d3ed2426b6"
+    },
+    {
+      "id": "KRV:JAS:1:2",
+      "status": "hold",
+      "reason": "여러 시험을 만났을 때 기쁘게 여기라고 한다. 어려움이 이어지는 고민과 닿지만 어려움의 원인이나 구체적인 다음 행동을 이 절만으로 정하기 어렵다.",
+      "contextNote": "믿음의 시련을 맞을 때의 태도를 권한다. 여기의 시험을 학교 시험으로 단정하지 않는다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "7923e7a3f4f238448444b1a1973f032a1214f7df66431f8145f05cf528922f1d"
+    },
+    {
+      "id": "KRV:JAS:1:3",
+      "status": "candidate",
+      "reason": "믿음의 시련이 인내를 만들어 낸다고 말한다. 같은 방식으로 여러 번 실패해 더 견딜지 방식을 바꿀지 고민하는 사람이 한 번 더 인내해 볼 방향을 떠올릴 수 있다.",
+      "contextNote": "앞 절의 시련과 인내 사이의 관계를 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H043",
+          "clue": "시련에서 인내가 생긴다는 표현이 더 견딜지의 선택과 닿는다.",
+          "friction": "현재 실패를 하나님이 주신 시험으로 확정하지 않으며 계속하면 성공한다는 보장도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "de98baebc9d12a6c1c33f053841966ee2d805ab8edc59f307621dabee4e1f420"
+    },
+    {
+      "id": "KRV:JAS:1:4",
+      "status": "candidate",
+      "reason": "인내를 온전히 이루라고 한다. 시작한 일의 지루한 마무리를 끝낼지 새 일을 할지 고민하는 사람이 조금 더 견디어 지금 일을 마치는 방향을 읽을 수 있다.",
+      "contextNote": "인내를 온전히 이루어 온전하게 되기를 권한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H053",
+          "clue": "인내를 온전히 이루라는 말이 지루한 마무리를 이어갈 선택에 닿는다.",
+          "friction": "본문은 인내에 관한 신앙 권면이며 현재 일이 반드시 완벽해지거나 부족함이 없어질 것이라고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "1b2569963f146f16ca6e52cf2a5aca81fe93ebe72c9d9bc9928a4bd743095818"
+    },
+    {
+      "id": "KRV:JAS:1:5",
+      "status": "candidate",
+      "reason": "지혜가 부족하면 꾸짖지 않고 후히 주시는 하나님께 구하라고 한다. 서로 다른 조언으로 혼란스러운 신앙인이 다른 사람의 답을 더 구할지 잠시 하나님께 기도하며 마음을 돌아볼지 고민하는 상황과 닿는다.",
+      "contextNote": "부족한 지혜를 하나님께 구하라는 편지의 권면이다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "A035",
+          "clue": "지혜를 하나님께 구하라는 말에서 기도하며 돌아보는 방향을 읽는다.",
+          "friction": "기도하면 즉시 특정 선택의 답을 듣거나 원하는 결과가 실현된다고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "2a3e23f4f30c0aa7216d273e06f3eee40ae99089f6c8cc2afc3233bafa464118"
+    },
+    {
+      "id": "KRV:JAS:1:6",
+      "status": "candidate",
+      "reason": "의심하는 마음을 바람에 밀려 흔들리는 물결에 비유하며 믿음으로 구하라고 한다. 두 길 중 완벽한 답을 찾느라 결정을 미루는 사람이 흔들리는 마음을 알아보고 하나를 택하는 방향을 떠올릴 수 있다.",
+      "contextNote": "하나님께 지혜를 구할 때의 믿음과 의심을 물결에 비유한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H061",
+          "clue": "바람에 밀려 요동하는 물결이 두 선택 사이에서 흔들리는 마음과 닿는다.",
+          "friction": "본문은 신앙으로 구하는 태도이며 어느 선택이 옳거나 결과가 좋다고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "72567b7955907cb2f95edf7c684ebacace2ea580c5df9e75a286965fd2efdce7"
+    },
+    {
+      "id": "KRV:JAS:1:7",
+      "status": "hold",
+      "reason": "이런 사람은 주께 무엇이든 얻을 생각을 하지 말라고 한다. 지칭하는 사람이 누구인지 앞 절에 의존하며 현재의 불안이나 기도를 거절당했다는 말로 옮기기 어렵다.",
+      "contextNote": "앞 절에서 묘사한 의심하는 사람에 대한 이어진 문장이다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "c22d87430aa37cb706492722ea41a89d643bc0ed20cb5bc271361e01124c08e3"
+    },
+    {
+      "id": "KRV:JAS:1:8",
+      "status": "hold",
+      "reason": "두 마음을 품어 모든 일에 정함이 없는 사람이라는 묘사다. 두 길 사이에서 망설이는 마음은 닿지만 그 다음 어떤 선택을 할지 직접 말하지 않는다.",
+      "contextNote": "앞 절의 의심하는 사람을 두 마음과 결정되지 않은 행동으로 묘사한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H061",
+          "clue": "두 마음과 정함이 없다는 말이 선택을 미루는 마음과 닿는다.",
+          "friction": "망설임을 비추지만 지금 선택할지 더 기다릴지의 실마리는 이 절만으로 불분명하다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "64f61b5ca2a2de7764d820ab7eec094f00c885aa0cbd35c4d3546373abecc96d"
+    },
+    {
+      "id": "KRV:JAS:1:9",
+      "status": "hold",
+      "reason": "낮은 형제는 자신의 높음을 자랑하라는 말로 문장이 이어진다. 경험이 적어 역할에 지원할지 고민하는 사람에게 격려가 될 수 있지만 실제로 지위가 높아졌다는 뜻으로는 쓸 수 없다.",
+      "contextNote": "공동체의 낮은 형제가 자신의 높음을 자랑하라고 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "R013",
+          "clue": "낮다고 여겨지는 사람이 높음을 자랑한다는 말이다.",
+          "friction": "사용자가 이미 선발되거나 높은 지위에 있다는 사실은 없으며 지원 행동도 직접 나오지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "608d680f5e048718b06fa44db7d52644be65add8d25999082feedee82651b4f7"
+    },
+    {
+      "id": "KRV:JAS:1:10",
+      "status": "hold",
+      "reason": "부한 형제의 낮아짐과 풀꽃처럼 지나가는 것을 말한다. 물질적 가치의 덧없음은 생각할 수 있지만 현재 물건을 구매할지의 구체 선택과 바로 연결되지는 않는다.",
+      "contextNote": "부유한 사람도 풀꽃처럼 지나감을 언급한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "463a263417de64c01d2f1a9ed3c40bff90ba2edb0990563751cff9d192b3d443"
+    },
+    {
+      "id": "KRV:JAS:1:11",
+      "status": "hold",
+      "reason": "햇빛과 바람에 꽃이 마르듯 부한 사람의 일도 쇠한다고 말한다. 아름다운 것이 사라지는 비유지만 현재 어떤 구매나 일을 선택할지의 단서는 보이지 않는다.",
+      "contextNote": "풀꽃의 시듦으로 부유한 사람의 삶이 지나감을 비유한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "24e89caf407990cdbb126f3335b7483c92f545c1a0762a70505daec9306030b4"
+    },
+    {
+      "id": "KRV:JAS:1:12",
+      "status": "candidate",
+      "reason": "시험을 참는 사람이 복이 있다고 말한다. 같은 방법의 반복된 실패를 두고 더 견딜지 다른 방법을 찾을지 고민하는 사람이 조금 더 인내할 방향으로 읽을 수 있다.",
+      "contextNote": "시련을 견딘 사람을 향한 생명의 면류관이라는 신앙적 약속이다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H043",
+          "clue": "시험을 참는 사람은 복이 있다는 말에서 더 견디는 선택을 떠올린다.",
+          "friction": "현재 실패를 신이 준 시험으로 확정하거나 같은 방법이 성공할 것이라고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "c8d29a6b2328b7005a843697dec62c6ca1929460c5bab54490a8be83bd631af9"
+    },
+    {
+      "id": "KRV:JAS:1:13",
+      "status": "hold",
+      "reason": "하나님은 악에게 시험받지 않고 친히 아무도 시험하지 않으신다고 한다. 이미 사과한 잘못 때문에 새 어려움이 벌인지 걱정하는 사람에게 위로가 될 수 있으나 본문의 유혹과 현재 어려움의 원인을 그대로 동일시하기 어렵다.",
+      "contextNote": "하나님과 악의 유혹에 관해 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C017",
+          "clue": "하나님이 직접 사람을 시험하지 않으신다는 말이 나온다.",
+          "friction": "본문의 시험은 악의 유혹에 관한 말이며 현재의 모든 어려움이 무엇 때문인지 단독 절로 알 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "da110ba69edc8d0f7d1f344ab2da57f9294ed794e056f3e628560660e73a9b91"
+    },
+    {
+      "id": "KRV:JAS:1:14",
+      "status": "candidate",
+      "reason": "사람이 자신의 욕심에 끌려 시험받는다고 말한다. 이미 쓰는 헤드폰이 있는데 할인 때문에 새 제품을 사고 싶고 실제로 자주 쓸지 모르는 사람이 당장의 충동을 한 번 살펴볼 실마리로 읽을 수 있다.",
+      "contextNote": "사람이 욕망에 끌려 유혹을 받는 과정을 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G03",
+          "clue": "자기 욕심에 끌린다는 표현이 필요보다 할인에 끌리는 마음에 닿는다.",
+          "friction": "본문은 도덕적 유혹에 관한 것이며 물건을 사고 싶어 하는 마음 자체가 죄라고 단정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "dd61fafe39c86f8b7a58ec651db3c01c6039c92b9b91b27bbd14876108b52a9d"
+    },
+    {
+      "id": "KRV:JAS:1:15",
+      "status": "hold",
+      "reason": "욕심이 죄를 낳고 죄가 사망을 낳는다고 말한다. 할인 구매를 망설이는 경우에 욕심이라는 단어는 닿지만 일상적인 소비 욕구와 죽음을 곧장 연결하기 어렵다.",
+      "contextNote": "욕망과 죄의 결과를 생명의 비유로 표현한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G03",
+          "clue": "구매를 끌어당기는 욕심을 떠올릴 수 있다.",
+          "friction": "현재 구매가 죄나 사망으로 이어진다고 가정하지 않으며 그런 결론을 서비스가 내리지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "4eacad72f8f9a11feb90c21cc88fe7c52a0225fdb421afa38be8011ad1ecd2ec"
+    },
+    {
+      "id": "KRV:JAS:1:16",
+      "status": "hold",
+      "reason": "사랑하는 형제들에게 속지 말라고 한다. 상품 정보를 더 확인할지 고민과 닿을 수 있으나 누가 어떤 사실로 속이는지 이 절에서 드러나지 않는다.",
+      "contextNote": "앞뒤의 유혹과 좋은 선물에 관한 권면 사이의 전환이다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H003",
+          "clue": "속지 말라는 표현이 구매 전 확인을 떠올리게 한다.",
+          "friction": "현재 친구의 추천이나 후기가 거짓이라는 사실은 주어지지 않았다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "fa16930cf6e7f83fabd865effcd195ec1a6033c0ce14bd83fc86416fe583319c"
+    },
+    {
+      "id": "KRV:JAS:1:17",
+      "status": "candidate",
+      "reason": "좋은 은사와 온전한 선물이 빛들의 아버지께로부터 온다고 말한다. 살 돈을 따로 모았고 자주 입을 것 같은 자켓을 원하지만 최근 구매가 마음에 걸리는 사람이 좋은 것을 기쁘게 누리는 방향으로 개인적으로 읽을 수 있다.",
+      "contextNote": "좋은 선물의 근원과 변함없는 하나님을 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G01",
+          "clue": "좋은 선물이라는 말이 갖고 싶은 자켓을 누려도 될지의 마음에 닿는다.",
+          "friction": "하나님이 실제 자켓 구매를 직접 승인했다거나 결과를 보장한다고 서비스가 말하지 않는다. 사용자는 이미 살 돈을 따로 모아두었다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "dd116f90cc7bf798c546f4d6024b74f091ea15042efee5a2bc6f2bcd3ded8c1b"
+    },
+    {
+      "id": "KRV:JAS:1:18",
+      "status": "hold",
+      "reason": "하나님이 진리의 말씀으로 우리를 낳아 첫 열매가 되게 하셨다고 한다. 신앙적 출생의 이미지로 현재 일상 선택의 직접적인 방향을 찾기는 어렵다.",
+      "contextNote": "하나님의 뜻과 진리의 말씀에 따른 영적 출생을 말한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "eb502e963b9e828b7cb2bc34fa5312eb4d0a6c62835de4f2bfa5fce8c36634b4"
+    },
+    {
+      "id": "KRV:JAS:1:19",
+      "status": "candidate",
+      "reason": "듣기는 빠르게 하고 말과 분노는 더디 하라고 권한다. 서운해서 화난 메시지를 썼지만 지금 보낼지 마음이 가라앉은 뒤 말할지 고민하는 상황에 잠시 멈추는 방향이 선명하다.",
+      "contextNote": "공동체 안에서 듣기와 말하기와 분노의 태도를 권한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "말하기와 성내기를 더디 하라는 말이 작성한 메시지를 곧장 보내지 않는 선택에 닿는다.",
+          "friction": "상대가 바로 사과하거나 대화가 반드시 좋아진다고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "23d355bc0853ae7b1ca28ece4dae277a4ae987bae39d8650aa499b9ad2fb0964"
+    },
+    {
+      "id": "KRV:JAS:1:20",
+      "status": "candidate",
+      "reason": "사람이 성내는 것이 하나님의 의를 이루지 못한다고 한다. 화난 메시지를 지금 보낼지 가라앉힌 뒤 말할지 고민하는 사람이 분노에 맡긴 표현을 늦추는 쪽으로 읽을 수 있다.",
+      "contextNote": "앞 절의 분노를 더디 하라는 권면의 이유를 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "성내는 일의 한계를 말해 지금 쓴 화난 말을 잠시 놓아두는 방향을 떠올린다.",
+          "friction": "화가 난 감정 자체를 죄로 단정하지 않고 친구가 실제 무엇을 잘못했는지도 추가하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "f4da19bfd7381be9a196cb1374074acd0995fa284653cdabcb1c2f1bfdc6b119"
+    },
+    {
+      "id": "KRV:JAS:1:21",
+      "status": "hold",
+      "reason": "악을 버리고 마음에 심긴 도를 온유하게 받으라고 한다. 실수를 알려준 팀원의 말을 받아들일지에 온유함은 닿지만 본문에서 받는 것은 종교적 말씀이지 현재의 업무 피드백이 아니다.",
+      "contextNote": "사악함을 버리고 마음에 심긴 말씀을 온유히 받으라고 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "온유하게 받아들인다는 표현을 떠올릴 수 있다.",
+          "friction": "사용자의 실제 실수와 별개로 팀원의 말을 그대로 하나님의 말씀이라고 정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "24d729df4d09cc956c4888dfea07b223bccfe7a0e67880da12fa728d8bc5c635"
+    },
+    {
+      "id": "KRV:JAS:1:22",
+      "status": "candidate",
+      "reason": "말씀을 듣기만 하지 말고 행하는 사람이 되라고 한다. 재료와 시간을 이미 준비했지만 작은 프로젝트가 처음이라 계속 미루는 사람이 준비에서 한 걸음 나아가 시작할 방향을 읽을 수 있다.",
+      "contextNote": "말씀을 듣는 것과 실제로 행하는 것을 대비한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B006",
+          "clue": "듣기만 하지 않고 행하라는 말이 준비한 일을 지금 시작하는 선택에 닿는다.",
+          "friction": "본문의 도는 종교적 말씀이고 현재 프로젝트가 반드시 성공하거나 사용자가 스스로를 속였다고 단정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "e1ccf0ae36cce7d7941a15d01f0141d499e3c6b8ea06267bb584747758b321e3"
+    },
+    {
+      "id": "KRV:JAS:1:23",
+      "status": "hold",
+      "reason": "말씀을 듣고 행하지 않는 사람을 거울로 얼굴을 보는 사람에 비유한다. 듣기와 행동의 차이는 있지만 이 절만으로 거울 비유의 요점이 다음 절에 이어져 현재 프로젝트에 자연스럽게 닿을지 불확실하다.",
+      "contextNote": "말씀을 듣고 행하지 않는 사람에 관한 비유를 시작한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B006",
+          "clue": "듣고 행하지 않는다는 말이 일을 미루는 모습을 떠올리게 한다.",
+          "friction": "거울과 얼굴의 비유는 다음 절을 읽어야 마무리된다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "2e776058dec11dc85abbd987129b383da67bf105a4d3bf384b17c527a32d7c55"
+    },
+    {
+      "id": "KRV:JAS:1:24",
+      "status": "hold",
+      "reason": "자신을 본 뒤 그 모습이 어떤지 곧 잊는다는 비유의 한 부분이다. 외모가 걱정되는 사람에게 기억이 사라진다는 점은 닿지만 타인이 사용자를 곧 잊는다는 뜻은 아니다.",
+      "contextNote": "앞 절에서 시작한 거울 비유를 이어간다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "A022",
+          "clue": "자신의 모습을 본 뒤 곧 잊는다고 말한다.",
+          "friction": "본문은 자기 모습을 스스로 잊는 것이며 모임 사람들이 사용자를 어떻게 볼지는 모른다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "69da41a964932f1d0d725b371190e66e1ad67a181e636ff2ace44d383422f0b9"
+    },
+    {
+      "id": "KRV:JAS:1:25",
+      "status": "candidate",
+      "reason": "율법을 듣고 잊는 사람이 아니라 실행하는 사람이 복을 받는다고 한다. 시작할 준비를 마쳤지만 계속 미루는 개인 프로젝트에서 이제 실행해 보는 방향을 떠올릴 수 있다.",
+      "contextNote": "온전한 율법을 듣고 기억하여 행하는 사람을 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B006",
+          "clue": "듣고 잊어버리지 않고 실행한다는 대비가 준비 뒤 시작하는 선택에 닿는다.",
+          "friction": "본문은 종교적 율법의 실행에 관한 것이며 프로젝트의 성과나 금전적 복을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "5a1abad40a3cd98470d12d7ce6aaae2b5ad810e82219d12b5d194d3af311833f"
+    },
+    {
+      "id": "KRV:JAS:1:26",
+      "status": "candidate",
+      "reason": "스스로 경건하다고 생각하면서 혀를 재갈 먹이지 못하면 그 경건이 헛되다고 말한다. 동료의 실수를 단체 대화방에서 같이 놀릴지 고민하는 사람이 말에 재갈을 채우고 한마디를 보태지 않을 실마리를 읽을 수 있다.",
+      "contextNote": "경건함을 말하면서 말을 절제하지 않는 모순을 지적한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C009",
+          "clue": "자기 혀를 재갈 먹인다는 표현이 조롱의 말을 멈추는 행동에 닿는다.",
+          "friction": "사용자가 경건하다고 자부하거나 종교인이라는 사실을 가정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "b9c54aa4504a69861fc1a911ebdf9a93811d3a42314dcb59357128bcf88ab097"
+    },
+    {
+      "id": "KRV:JAS:1:27",
+      "status": "candidate",
+      "reason": "어려움에 있는 고아와 과부를 돌아보는 것을 경건의 한 모습으로 말한다. 부모님을 여읜 친구를 위해 말 대신 식사나 정리 같은 작은 일을 도울지 고민하는 사람이 힘든 이를 실제로 돌아보는 방향을 읽을 수 있다.",
+      "contextNote": "하나님 앞의 경건을 어려운 사람 돌봄과 자신을 지키는 일로 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C016",
+          "clue": "환난 중인 사람을 돌아본다는 표현이 사별한 친구의 작은 필요를 돕는 행동에 닿는다.",
+          "friction": "친구가 미성년 고아나 과부라고 단정하지 않으며 도움으로 슬픔이 사라질 것이라고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "6d7ceb378e6578b6e2fa474a406a528a2d62926dd3b0a3e88809da867b3c1766"
+    },
+    {
+      "id": "KRV:JAS:2:1",
+      "status": "candidate",
+      "reason": "사람을 외모로 취하지 말라고 한다. 앞머리 숱이 줄어 오랜만의 모임에서 사진 찍힐 때 남의 시선이 걱정되는 사람이 겉모습만으로 사람을 정하지 않는 방향을 떠올릴 수 있다.",
+      "contextNote": "믿는 사람들이 외적인 조건으로 사람을 차별하지 말라고 권하며 다음 절에서 실제 사례를 제시한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A022",
+          "clue": "사람을 외모로 판단하지 말라는 표현이 모임에서 자신의 모습에 대한 걱정과 직접 닿는다.",
+          "friction": "현재 다른 사람들이 실제로 사용자의 머리를 평가할지는 알 수 없고 본문의 외모는 사람을 차별하는 겉 조건을 뜻한다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "d7219b1adab6d85f478edafc44c2332f84e11803807f9df050154f3f52086f71"
+    },
+    {
+      "id": "KRV:JAS:2:2",
+      "status": "hold",
+      "reason": "회당에 화려한 옷과 반지를 낀 사람과 더러운 옷을 입은 가난한 사람이 들어온다는 가정이다. 이 절에는 두 사람에게 어떻게 대할지나 현재의 선택 방향이 아직 드러나지 않는다.",
+      "contextNote": "사람을 겉 조건으로 차별하는 예시의 시작이다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "2232abe3e6fe59b6cf58a56bb4a1745e695c923c338de339e06bf257c341b1b1"
+    },
+    {
+      "id": "KRV:JAS:2:3",
+      "status": "hold",
+      "reason": "화려한 옷을 입은 사람에게 좋은 자리를 주고 가난한 사람에게는 서거나 발 아래 앉으라고 하는 조건문이다. 문화가 다른 새 사람을 모임에 맞이할지의 고민과 차별의 이미지는 닿지만 이 절만으로 평가가 마무리되지 않는다.",
+      "contextNote": "앞 절의 두 사람에게 다르게 대우하는 예를 이어 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C022",
+          "clue": "서로 다른 사람에게 자리를 다르게 주는 장면이다.",
+          "friction": "현재 새 사람이 가난하거나 모임에서 이미 배제되었다고 가정하지 않으며 문장이 다음 절로 이어진다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "0d3347d2d6679170a747e74dcfede71d24f6916110508620439ee5b60d67ed73"
+    }
+  ]
+}

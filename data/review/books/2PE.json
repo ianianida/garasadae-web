@@ -1,0 +1,642 @@
+{
+  "bookCode": "2PE",
+  "corpusSha256": "f8d5c8b377e243b05fb884b4a6965d2c06a95de74b64a716ee4b95989d61e971",
+  "criteriaVersion": "garasadae-corpus-2026-10-08-v1",
+  "reviewer": "Codex terra_resume_gen",
+  "method": "direct-codex-reading",
+  "entries": [
+    {
+      "id": "KRV:2PE:1:1",
+      "status": "exclude",
+      "reason": "시몬 베드로가 동일하게 보배로운 믿음을 받은 이들에게 편지를 쓴다는 서문이다. 사용자에게 지금 고를 행동이나 갈등을 직접 제시하지 않는다.",
+      "contextNote": "베드로후서의 발신자와 수신자를 밝힌다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "017d5dec640c914e00b57028bc03e51adc1c93887a523b25fb986a8760a5de2f"
+    },
+    {
+      "id": "KRV:2PE:1:2",
+      "status": "candidate",
+      "reason": "은혜와 평강이 더욱 많기를 비는 인사는 힘든 교회 친구에게 기도해 주겠다고 말할지 고민하는 경우에 마음을 전할 실마리가 된다.",
+      "contextNote": "하나님과 예수를 앎으로 은혜와 평강이 많기를 빈다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "R022",
+          "clue": "어려움을 당장 해결해 주지 못해도 친구에게 평안을 비는 기도의 마음을 전할 수 있다.",
+          "friction": "친구의 상황이 곧 해결되거나 그가 특정한 반응을 보이리라는 보장은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "1d8be90d837ffe0ef8d35790e0446e18578d0ea8cf5693670d649279a553a7f8"
+    },
+    {
+      "id": "KRV:2PE:1:3",
+      "status": "hold",
+      "reason": "하나님의 능력이 생명과 경건에 속한 것을 주셨다는 신앙적 서술이다. 현재 사용자가 필요한 돈과 시간 등 생활 자원을 이미 모두 갖췄다고 단정할 수 없다.",
+      "contextNote": "하나님의 능력과 부르신 이를 앎을 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "101e86ad36eaf8428933a760be728a434f2e71b3b16f35432a6da8a77e35d80d"
+    },
+    {
+      "id": "KRV:2PE:1:4",
+      "status": "hold",
+      "reason": "약속과 신의 성품에 참여함을 설명하는 신앙적 진술이다. 구매하고 싶은 마음 자체를 악한 정욕으로 단정하거나 결과를 예언할 수 없다.",
+      "contextNote": "하나님의 약속과 성품에 참여함을 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "d6c72a586e4a8cc0187288ffb365f0dcbd2be296b1b604e8864ea992c7591853"
+    },
+    {
+      "id": "KRV:2PE:1:5",
+      "status": "hold",
+      "reason": "믿음에 덕과 지식을 더하라는 열거가 다음 절에 이어진다. 새 일에 필요한 지식을 얻을 여지를 떠올릴 수 있으나 이번에 지원할지의 직접적인 선택 단서는 약하다.",
+      "contextNote": "믿음에 덕과 지식을 더하라고 목록을 시작한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "3ecb8388f3f129ba2175b5bf6011fa7b736ee5bd8011e664a2724072d2600784"
+    },
+    {
+      "id": "KRV:2PE:1:6",
+      "status": "candidate",
+      "reason": "지식과 절제, 인내가 함께 언급돼 당장 할인 중인 물건을 사고 싶지만 실제로 자주 쓸지 모르는 고민에 잠시 참으며 필요를 살피는 실마리를 준다.",
+      "contextNote": "믿음의 덕목 목록에서 지식과 절제와 인내를 이어 열거한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G03",
+          "clue": "할인에 바로 움직이기보다 정말 자주 쓸지 생각하고 이번 구매를 참을 수 있다.",
+          "friction": "독립 절에서는 문장의 동사가 다음 절에 이어지고 경건이라는 종교적 덕목도 포함된다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "8c8347de6b205682f6257a198b8afd043db90753ee9e242a54aa6d577acef63a"
+    },
+    {
+      "id": "KRV:2PE:1:7",
+      "status": "hold",
+      "reason": "형제 우애와 사랑을 더하라는 덕목 목록의 마무리다. 감사의 마음을 생각할 수 있으나 도움받은 사람에게 구체적으로 식사를 제안할지의 직접성은 약하다.",
+      "contextNote": "경건과 형제 우애에 사랑을 더하라고 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "8e0818b547da5b17d1f2e273cd443fd0740f1e1e7439589f4b95f3747186c7df"
+    },
+    {
+      "id": "KRV:2PE:1:8",
+      "status": "hold",
+      "reason": "앞서 열거한 덕목이 있으면 그리스도를 아는 데 열매 없는 자가 되지 않는다는 신앙적 문장이다. 현재 준비 중인 실제 프로젝트의 성과가 보장된다고 할 수 없다.",
+      "contextNote": "앞의 덕목들과 그리스도를 아는 것의 관계를 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "b2ad27163a238f652bc3c613c2036d00322dc51753d89ede4a1e0c79e2abc686"
+    },
+    {
+      "id": "KRV:2PE:1:9",
+      "status": "hold",
+      "reason": "앞선 덕목이 없는 이가 옛 죄가 깨끗해진 것을 잊었다는 말이다. 자신을 책망하는 사람에게 과거를 떠올릴 여지는 있으나 소경이라는 표현과 앞선 덕목의 부족을 사용자 사실로 단정할 수 없다.",
+      "contextNote": "덕목이 없는 이가 과거의 정결을 잊었다고 말한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "ed1511704175f991bd6e7ca4d77855134567f24e27f8c3d171d3f3a5388289cd"
+    },
+    {
+      "id": "KRV:2PE:1:10",
+      "status": "hold",
+      "reason": "부르심과 택하심을 굳게 하라는 권면과 실족하지 않으리라는 약속이다. 어떤 직무 지원이나 인간관계에 실패가 절대 없다는 사실을 보장하지 않는다.",
+      "contextNote": "형제들에게 부르심과 택하심을 굳게 하라고 한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "e36ef4da96ff6d7b4ef98d0c4c51ee5b717a856ee4754c19bb68e1a2bb2aa912"
+    },
+    {
+      "id": "KRV:2PE:1:11",
+      "status": "hold",
+      "reason": "앞에서 말한 대로 행할 때 영원한 나라에 들어감을 얻는다는 신앙적 약속이다. 실제 입학이나 채용의 결과로 바꿀 수 없다.",
+      "contextNote": "앞의 덕목을 행하는 것의 종교적 결과를 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "3f00089c05d5329c917dcd2f69c1864ce53c202aee2ac59b4eb8496f48c09e6f"
+    },
+    {
+      "id": "KRV:2PE:1:12",
+      "status": "hold",
+      "reason": "이미 아는 진리를 계속 생각나게 하려 한다는 편지의 말이다. 사용자가 어떤 사실을 이미 완전히 알고 있는지 이 절로 확인할 수 없다.",
+      "contextNote": "저자가 독자들에게 이미 아는 진리를 상기시키려 한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "7670e14048d39f2edc41635877d5024b4386c0e14cdf7e314fbb6e3210dbedac"
+    },
+    {
+      "id": "KRV:2PE:1:13",
+      "status": "hold",
+      "reason": "장막에 있는 동안 독자들을 일깨워 기억하게 하는 것이 옳다고 말한다. 장막이 무엇인지 문맥이 필요하고 당장 어떤 활동을 선택할지는 분명하지 않다.",
+      "contextNote": "저자가 살아 있는 동안 독자들을 일깨우려 한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "97d491c332a96a240ff897f7e2e81ad7033ffa4ea932a724ab44f6f34fa5ba96"
+    },
+    {
+      "id": "KRV:2PE:1:14",
+      "status": "exclude",
+      "reason": "저자가 장막을 벗어날 때가 가깝다고 아는 자신의 죽음에 관한 표현이다. 사용자의 실제 생사나 이동 시기를 예언하지 않는다.",
+      "contextNote": "저자가 자신이 장막을 벗어날 때가 임박했다고 말한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "0b950b3572a22b2c90510ea63bd4c402ad5842ec2fe67f6e227961638fe13176"
+    },
+    {
+      "id": "KRV:2PE:1:15",
+      "status": "candidate",
+      "reason": "떠난 뒤에도 필요한 때 기억할 수 있도록 힘쓰겠다는 말은 임기가 끝나고 후임이 아직 정해지지 않은 모임에서 인수인계를 도울지 고민하는 상황에 닿는다.",
+      "contextNote": "저자가 떠난 뒤 독자들이 말씀을 기억하도록 노력하겠다고 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "R025",
+          "clue": "내 임기 뒤에도 남는 사람들이 필요한 내용을 알 수 있도록 후임 찾기와 인수인계를 도울 수 있다.",
+          "friction": "저자의 떠남은 실제 죽음에 관한 문맥이며 후임이 이미 정해졌거나 인수인계가 완료되었다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "c78843b14a6ab8d2b31527e4e4ffaa5da0422898e5c4bea518d95121d2c7b8c4"
+    },
+    {
+      "id": "KRV:2PE:1:16",
+      "status": "candidate",
+      "reason": "교묘히 만든 이야기가 아니라 직접 본 것을 알렸다는 대비는 다른 이들이 경력을 부풀릴 때 자신도 과장할지 실제 이력만 쓸지의 고민에 닿는다.",
+      "contextNote": "저자들이 예수의 위엄을 직접 본 증인이라고 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B014",
+          "clue": "유리하게 이야기를 꾸미기보다 직접 한 일을 바탕으로 이력을 쓸 수 있다.",
+          "friction": "원문의 직접 목격 대상은 예수의 위엄이며 사용자가 그 장면을 본 것은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "907ae8321b087774d24665da8ede711084de64d1403c9eb821dcd72543a055a4"
+    },
+    {
+      "id": "KRV:2PE:1:17",
+      "status": "hold",
+      "reason": "하나님이 사랑하는 아들에 대해 말씀하시고 그에게 영광을 주신 장면이다. 현재 지인의 말이나 가족의 마음이 이미 확인됐다고 주장할 근거가 없다.",
+      "contextNote": "변화산에서 들린 소리와 예수의 영광을 회상한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "9bb5d5878489a696ca45ce854c8641ec97170d526fec05214ed32082d06f3eb4"
+    },
+    {
+      "id": "KRV:2PE:1:18",
+      "status": "exclude",
+      "reason": "저자들이 거룩한 산에서 하늘의 소리를 들었다는 역사적 증언이다. 실제 사용자나 주변 사람이 같은 소리를 들었다는 사실을 추정할 수 없다.",
+      "contextNote": "앞 절의 소리를 들었던 장소를 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "b169aa5e6b0faa132d88602e5354d246ac5cd581dd45275e25f01ee06bfc86a8"
+    },
+    {
+      "id": "KRV:2PE:1:19",
+      "status": "hold",
+      "reason": "예언을 어둠에 비치는 등불에 비유하며 주의하라고 한다. 위로와 방향의 이미지는 있으나 구체적인 현재 선택 중 어느 길을 가리키는지 이 절로는 알 수 없다.",
+      "contextNote": "확실한 예언을 어두운 곳의 등불에 비유한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "4b189d4d020b89b1bfeb409ec6edfcb588f2f8f3604a22c60456517448728470"
+    },
+    {
+      "id": "KRV:2PE:1:20",
+      "status": "hold",
+      "reason": "성경의 예언을 사사로이 풀 것이 아니라는 말은 어려운 뜻을 물어볼지 고민을 연상시킨다. 그러나 핵심인 사사로이의 뜻이 낯설고 혼자 읽는 행위 자체를 금지한다고 단정할 수 없다.",
+      "contextNote": "예언을 사적인 해석으로만 풀지 말라는 표현이다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "C021",
+          "clue": "모르는 성경의 뜻을 혼자 단정하지 않고 도움을 구할 여지를 생각할 수 있다.",
+          "friction": "핵심 어휘가 설명을 요구하며 본문은 모든 혼자 읽기를 금지하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "9a1a00e73b4ae0f679a8fb7b97b547ba7a43176a09086ddf85b61e6df914a584"
+    },
+    {
+      "id": "KRV:2PE:1:21",
+      "status": "candidate",
+      "reason": "예언이 사람 자신의 뜻에서 난 것이 아니라는 표현은 실제로 분명한 말씀을 받은 적 없이 자신의 생각을 하나님의 뜻이라고 단정해 설득할지 고민하는 경우에 직접 닿는다.",
+      "contextNote": "예언이 사람의 뜻이 아니라 성령의 감동을 받은 말임을 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C001",
+          "clue": "내 판단을 하나님의 직접적인 뜻이라고 단정하기보다 내 생각이라고 솔직하게 말할 수 있다.",
+          "friction": "원문의 예언에 관한 기준이며 사용자가 실제로 계시를 받았다는 사실은 없다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "5bf6f682723236d83a2a44d3bbe66250bbdee7bd4ec3c92dac8c7f0e7ce28e90"
+    },
+    {
+      "id": "KRV:2PE:2:1",
+      "status": "hold",
+      "reason": "거짓 선생과 이단에 대한 종교적 경고다. 현재 사용자의 지인이 다른 의견을 냈다는 사실만으로 거짓 선생이나 악의적인 사람으로 판정할 수 없다.",
+      "contextNote": "민간의 거짓 선지자와 공동체의 거짓 선생을 경고한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "24039715176e1f683d2beefae171422501e117eefec4a36704bc6d4c843adb1b"
+    },
+    {
+      "id": "KRV:2PE:2:2",
+      "status": "exclude",
+      "reason": "앞 절 사람들의 행동을 따르는 이들과 비방에 관한 문장이다. 주체와 구체적 행동이 앞의 이야기 없이 분명하지 않다.",
+      "contextNote": "거짓 선생을 따르는 사람들이 있다고 말한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "40f6c6cfd1f0b1a7bbdea616e5a7bf1beb78df51ffee5e21ac25bbc653745a06"
+    },
+    {
+      "id": "KRV:2PE:2:3",
+      "status": "hold",
+      "reason": "탐심을 가진 사람들이 지어낸 말로 이익을 얻고 심판을 받는다는 경고다. 판매자나 친구가 이익을 위해 실제 거짓말했다는 사실이 없으면 동기를 추가할 수 없다.",
+      "contextNote": "앞서 말한 거짓 선생의 탐심과 심판을 언급한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "d4481cb2aa78857a576451f5ceb4d42659a4bc2ab72af18963b3b6abaaf0ed8b"
+    },
+    {
+      "id": "KRV:2PE:2:4",
+      "status": "exclude",
+      "reason": "범죄한 천사들이 지옥의 어두운 구덩이에 놓인다는 심판의 예다. 현재의 지인과 천사를 동일시하거나 실제 사람의 미래를 예언할 수 없다.",
+      "contextNote": "하나님이 범죄한 천사들을 심판하신 사례를 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "056eefffe0501aea118c1c43b187bf8007d6edac6a808ba3f9f5448dd34b71b7"
+    },
+    {
+      "id": "KRV:2PE:2:5",
+      "status": "exclude",
+      "reason": "노아와 식구들을 보존하고 세상에 홍수를 내린 예를 든다. 현재 특정 가족이 반드시 보호되거나 실제 홍수가 난다고 예측할 수 없다.",
+      "contextNote": "노아 시대의 홍수와 보존을 언급한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "409f2a067dec0b0d3d1c43444d89ee170a1673582661a27ef2b95ea6642acfb2"
+    },
+    {
+      "id": "KRV:2PE:2:6",
+      "status": "exclude",
+      "reason": "소돔과 고모라의 멸망을 후대의 본으로 언급한다. 현실의 도시나 여행에 같은 재난이 발생한다고 판단할 근거는 없다.",
+      "contextNote": "소돔과 고모라의 심판을 예로 든다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "9e2e79e2dbcadf42b50a7f79f770c05cbe251dbd52939781db977963016803c6"
+    },
+    {
+      "id": "KRV:2PE:2:7",
+      "status": "hold",
+      "reason": "다른 사람들의 행실 때문에 고통받던 롯을 건졌다는 이야기다. 지친 사용자가 이미 어떤 상황에서 벗어났거나 특정 사람이 악하다고 확정할 수 없다.",
+      "contextNote": "앞의 도시 심판에서 의로운 롯을 구한 일을 언급한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "18009c5929ea856d3027025b33afe03ccc3efd31ceda8eabc3a55f9b96865ca7"
+    },
+    {
+      "id": "KRV:2PE:2:8",
+      "status": "hold",
+      "reason": "의로운 롯이 남들의 불법한 행동을 보고 마음 아파했다는 괄호 설명이다. 주변 동료의 의도나 실제 불법이 사용자 고민에 주어지지 않았다면 덧붙일 수 없다.",
+      "contextNote": "롯이 다른 사람들의 행실로 마음 아파한 이유를 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "c835ea262389b6a7c67afd3a1acc4c67ad1251e12ff03f6fb448c547b40e388e"
+    },
+    {
+      "id": "KRV:2PE:2:9",
+      "status": "hold",
+      "reason": "경건한 이의 구원과 불의한 이의 심판에 관한 신앙적 서술이다. 현재 사용자의 시험 결과나 주변 사람에게 형벌이 이른다는 확인으로 쓸 수 없다.",
+      "contextNote": "앞선 예들에 근거해 구원과 심판을 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "6e0097439bef4571fbeae45a900dea40c89a6e2c9f0a86f538850c236d5e446c"
+    },
+    {
+      "id": "KRV:2PE:2:10",
+      "status": "hold",
+      "reason": "특정 사람들의 욕망과 권위 멸시에 관한 심판을 이어 말한다. 지금의 지인이나 사용자가 그 범주에 해당한다고 사실 없이 단정할 수 없다.",
+      "contextNote": "앞 절에서 심판받는 이들의 태도를 묘사한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "3d3ab44be3cdeba0303a5d6a142a90148f2050467ab6f3eabb4d370683f2c9b1"
+    },
+    {
+      "id": "KRV:2PE:2:11",
+      "status": "hold",
+      "reason": "힘이 더 큰 천사도 주 앞에서 상대를 훼방하는 송사를 하지 않는다는 말이다. 차분하게 말할 여지는 있으나 천사의 송사라는 맥락이 현재 친구에게 서운함을 전할지와 직접 맞지 않는다.",
+      "contextNote": "천사들이 주 앞에서 훼방하는 고발을 하지 않는다고 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "5426c6cc062bfab64143953aeb8ab1ae0bb9a4f89140defe7646442114b81c74"
+    },
+    {
+      "id": "KRV:2PE:2:12",
+      "status": "exclude",
+      "reason": "특정 사람들을 이성 없는 짐승에 비유해 멸망을 말하는 강한 종교적 비판이다. 실제로 동의하지 않는 사람의 인격이나 미래를 그렇게 판별할 근거가 없다.",
+      "contextNote": "거짓 가르침을 따르는 이들에 대한 비판이 이어진다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "b49af941a27b632c405e65b8d127ef50d2270ebb521a22ab19c03d72b9ed2b6b"
+    },
+    {
+      "id": "KRV:2PE:2:13",
+      "status": "hold",
+      "reason": "연회에서 불의를 행하는 특정 사람들을 비판하는 서술이다. 실제 친구 모임의 음식이나 사람에게 같은 악의가 있다는 증거는 없다.",
+      "contextNote": "앞서 말한 사람들의 불의와 연회를 묘사한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "b7f07178840084c8fa0010acd5c092ce9a988586ae7dd3779c964173332fb7d1"
+    },
+    {
+      "id": "KRV:2PE:2:14",
+      "status": "exclude",
+      "reason": "특정 사람들을 음심과 탐욕을 가진 자로 규정하는 경고다. 현재 사용자의 지인이나 구매 욕구에 같은 성적 의도를 추가할 수 없다.",
+      "contextNote": "거짓 가르침을 따르는 이들의 탐욕을 비판한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "5246e189dbe8b944cddb7c6b3ecdd3d7bfffb411a6fab00b8dc5f6db9adbc6bc"
+    },
+    {
+      "id": "KRV:2PE:2:15",
+      "status": "hold",
+      "reason": "불의한 삯을 사랑한 발람의 길을 따랐다는 성경 이야기의 비유다. 정당한 보수를 요청할지의 고민에 불법이나 탐욕을 이미 했다고 판정할 수 없다.",
+      "contextNote": "발람의 이야기를 통해 거짓 가르침을 비판한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "042c02b7d0c0aee5d3254667413a85c739fdc52dc99ddef4cf7196204fd05801"
+    },
+    {
+      "id": "KRV:2PE:2:16",
+      "status": "candidate",
+      "reason": "말 못하는 나귀가 사람의 말로 선지자의 잘못된 행동을 막았다는 장면은 다른 사람들이 화난 친구를 부추기는 상황에서 옆에 있던 사람이 말릴지의 고민에 닿는다.",
+      "contextNote": "발람이 나귀에게서 책망받은 구약 장면을 인용한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A007",
+          "clue": "분위기를 깨더라도 제삼자인 내가 말을 꺼내 싸움을 부추기는 행동을 말릴 수 있다.",
+          "friction": "나귀와 선지자는 비유적 장면이며 화난 친구를 당장 싸우려는 가해자나 정신이상자로 단정하는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "48ca70cc2d5e67ae505992d3b1b456d5c101425b2a932fa3a1b5b1b3b740155e"
+    },
+    {
+      "id": "KRV:2PE:2:17",
+      "status": "hold",
+      "reason": "거짓 가르침을 말하는 이들을 물 없는 샘과 안개로 비유한다. 실제 지인이나 판매자가 속빈 사람인지 사용자 정보로 판단할 수 없다.",
+      "contextNote": "앞서 경고한 사람들을 자연물에 비유한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "795630deea5f957b881fe7850240f0de1fbfe75157777b6f906d6701f648b9cb"
+    },
+    {
+      "id": "KRV:2PE:2:18",
+      "status": "hold",
+      "reason": "허황된 자랑과 음란으로 사람을 유혹한다는 특정 집단에 대한 비판이며 다음 절에 이어진다. 다른 사람의 추천이나 의견에 같은 의도가 있다고 가정할 수 없다.",
+      "contextNote": "거짓 선생이 다른 사람을 유혹하는 모습을 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "c8cc61d5da0971d02d1823c98abcf25e832199bc366494226ce0dc88cf5638d3"
+    },
+    {
+      "id": "KRV:2PE:2:19",
+      "status": "hold",
+      "reason": "자유를 약속하지만 자신은 멸망의 종이라는 앞 절 사람들의 위선에 관한 설명이다. 현재 제안이나 계약이 실제로 속임수라고 단정할 수 없다.",
+      "contextNote": "앞서 말한 사람들이 자유를 주겠다고 하나 자신은 종이라고 한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "40ca0e639fa644f4a22ee492c2798aa5071a3213fb75bb914fb677f0c508c645"
+    },
+    {
+      "id": "KRV:2PE:2:20",
+      "status": "hold",
+      "reason": "한때 피한 더러움에 다시 얽매이면 나중 형편이 심하다는 종교적 경고다. 사용자의 취미나 반복 실수가 반드시 점점 나빠진다는 예측으로 쓸 수 없다.",
+      "contextNote": "세상의 더러움과 다시 얽매임에 대해 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "e897e42a4fb245cb2376a917cdafaf41076e4245586f5717a281650a39463639"
+    },
+    {
+      "id": "KRV:2PE:2:21",
+      "status": "hold",
+      "reason": "의를 안 후 명령을 저버리는 일에 대한 종교적 경고다. 아직 선택하지 않은 사용자가 이미 약속을 어겼거나 신앙을 버렸다고 단정할 수 없다.",
+      "contextNote": "거룩한 명령을 알고 저버리는 경우를 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "81b701c80ee593d4225e7092ad0081fea85f5fcb6c57fc2f6bbbc23798d2ae23"
+    },
+    {
+      "id": "KRV:2PE:2:22",
+      "status": "hold",
+      "reason": "개와 돼지가 이전 상태로 돌아가는 속담을 인용한다. 이미 사과하고 변화하려 노력하는 친구가 반드시 같은 잘못을 반복한다고 예언할 근거가 없다.",
+      "contextNote": "다시 얽매이는 일을 동물의 속담으로 비유한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "a45cc1e0607cbda5bc70f85fc9ace82d19ad7cb780005a2cd738021ac45e5084"
+    },
+    {
+      "id": "KRV:2PE:3:1",
+      "status": "candidate",
+      "reason": "편지를 써서 마음을 일깨우고 생각하게 하려는 말은 힘든 일을 글로 남겨 나중에 돌아볼지 시간이 지나 잊히게 둘지의 고민에 기록할 실마리를 준다.",
+      "contextNote": "저자가 둘째 편지를 써 독자들의 마음을 일깨우려 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B012",
+          "clue": "겪은 일과 생각을 글로 남겨 나중에 다시 돌아볼 수 있다.",
+          "friction": "원문은 다른 사람들에게 보내는 편지이며 사용자의 실제 공개나 전달을 전제하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "f764a83adfaab90defe7bd2f3a0ac2cbead2857e3765f9035818f3a5a7e1fe89"
+    },
+    {
+      "id": "KRV:2PE:3:2",
+      "status": "hold",
+      "reason": "선지자의 예언과 사도들을 통한 명령을 기억하게 하려는 편지의 목적이다. 현재 구체적인 선택지에서 무엇을 할지 구절 자체가 알려주지는 않는다.",
+      "contextNote": "편지가 기억하게 하려는 말씀과 명령을 밝힌다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "de27c4236dda3f545cfc00429b6243ed884989887aca8daa4b3349147f2dbbc9"
+    },
+    {
+      "id": "KRV:2PE:3:3",
+      "status": "hold",
+      "reason": "마지막 때에 자기 욕망대로 행동하며 비웃는 이들이 올 것이라는 종교적 예고다. 현재 몇몇 지인의 조롱을 종말이나 상대의 숨은 욕망으로 확정할 수 없다.",
+      "contextNote": "마지막 때 비웃는 이들에 관해 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "aa6953a8499cc8308c30abb6cbcaf5eb06237d300c5b19f9a8c96dd13c31f225"
+    },
+    {
+      "id": "KRV:2PE:3:4",
+      "status": "hold",
+      "reason": "강림의 약속을 의심하며 만물이 그대로라고 말하는 사람의 발언이다. 지연된 현실의 주문이나 소식이 실제로 영원히 바뀌지 않는다는 뜻이 아니다.",
+      "contextNote": "앞 절에서 비웃는 이들의 말을 인용한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "2cd8a34bdbcf092c2312432f067f82f9b5ae2f57b390210ec5679d203be4d18d"
+    },
+    {
+      "id": "KRV:2PE:3:5",
+      "status": "exclude",
+      "reason": "하늘과 땅이 하나님의 말씀으로 성립한 것을 일부 사람들이 잊으려 한다는 종교적 설명이다. 실제 사람이 사용자에게 의도적으로 정보를 숨겼다고 판단할 수 없다.",
+      "contextNote": "저자가 창조에 관한 기억과 말씀을 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "a5636f32cdf9ec9f280e556ab58fb3993ca235c9628d67fc0a2f7651c940e6f3"
+    },
+    {
+      "id": "KRV:2PE:3:6",
+      "status": "exclude",
+      "reason": "옛 세상이 물의 넘침으로 멸망했다는 성경 역사 진술이다. 현재 위치나 여행에 실제 홍수가 생긴다는 예측으로 쓸 수 없다.",
+      "contextNote": "옛 세상이 물로 멸망한 일을 언급한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "711475d788497a59dcc88d7476dd81cb047069b08ffd908450fc85417ff01415"
+    },
+    {
+      "id": "KRV:2PE:3:7",
+      "status": "exclude",
+      "reason": "불로 심판할 날까지 하늘과 땅이 보존되었다는 종교적 진술이다. 실제 사람의 신앙과 미래 재난을 판정할 근거가 없다.",
+      "contextNote": "현재 하늘과 땅, 심판의 날에 관해 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "a3352c0c352475a0057821126d86df6f6252928e12ccf010eb25c08d60a9eb9c"
+    },
+    {
+      "id": "KRV:2PE:3:8",
+      "status": "hold",
+      "reason": "하루가 천 년 같고 천 년이 하루 같다는 시간의 비유다. 판매를 기다리는 시간이 길게 느껴질 수는 있지만 가격을 낮출지 계속 기다릴지의 분명한 실마리는 부족하다.",
+      "contextNote": "주께 하루와 천 년의 관계를 비유한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G07",
+          "clue": "기다리는 시간의 느낌을 돌아볼 수 있다.",
+          "friction": "하루와 천 년이 양방향으로 비유되어 구체적인 행동 방향은 모호하다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "272924c3dd6ccf7f1c7a966b0a5eed9b86ff7e4da54000673e55b535dae5c775"
+    },
+    {
+      "id": "KRV:2PE:3:9",
+      "status": "candidate",
+      "reason": "오래 참고 모두가 회개하기를 바란다는 말은 잘못을 인정하고 실제 변화를 위해 노력하는 친구를 받아들일지 더 혼낼지의 고민에서 기다려 주는 방향을 떠올리게 한다.",
+      "contextNote": "주의 오래 참으심과 회개하기를 바라는 뜻을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C002",
+          "clue": "친구가 사과하고 고치려 노력하는 모습을 받아들이며 계속 벌주려는 마음을 내려놓을 수 있다.",
+          "friction": "원문의 멸망과 회개는 종교적 표현이며 친구의 변화가 반드시 성공하거나 당장 관계가 회복된다는 보장은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "ec055a3f0e2790fa8a77bf6cf920201070c4e5bf24255f8dc2686c61b58628f2"
+    },
+    {
+      "id": "KRV:2PE:3:10",
+      "status": "exclude",
+      "reason": "주의 날이 도적처럼 오고 하늘과 땅이 불로 드러난다는 종말의 예고다. 현재 일정이나 실제 재난이 갑자기 생긴다는 예측 근거가 아니다.",
+      "contextNote": "주의 날에 대한 종말적 이미지를 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "84ed938ac6daab8564a13c0b4ceff78bb6c0659c6981af24daf4d1e5361cfce3"
+    },
+    {
+      "id": "KRV:2PE:3:11",
+      "status": "hold",
+      "reason": "모든 것이 풀어질 때 어떤 사람이 되어야 하는지 묻고 행실과 경건을 언급한다. 현재 사용자의 구체적인 생활 선택은 제시되지 않으며 다음 절에 이어진다.",
+      "contextNote": "종말의 날에 비추어 행실과 경건을 묻는다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "50096efe9b88dff7e62d2011aa7e509d02c139fd65f2977437ee291d53f73689"
+    },
+    {
+      "id": "KRV:2PE:3:12",
+      "status": "exclude",
+      "reason": "하나님의 날을 사모하며 하늘이 불에 타 풀어지는 환상을 말한다. 사용자의 실제 날씨나 특정 미래 날짜를 예언할 수 없다.",
+      "contextNote": "하나님의 날과 하늘의 변화를 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "8f627a01da09e907ba94ac1437662a82030bdd09513d0fb034a449e017b35e1f"
+    },
+    {
+      "id": "KRV:2PE:3:13",
+      "status": "hold",
+      "reason": "의가 거하는 새 하늘과 새 땅을 바란다는 신앙 고백이다. 새 직장이나 기회가 이미 마련되었다거나 반드시 나아진다는 실제 확인으로 볼 수 없다.",
+      "contextNote": "하나님의 약속에 따른 새 하늘과 새 땅을 바란다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "69454b525e6cc09f390a2d75cfd05e7902a6f0f6495545d3253068b3ab529a16"
+    },
+    {
+      "id": "KRV:2PE:3:14",
+      "status": "hold",
+      "reason": "주 앞에서 흠 없이 평강 가운데 나타나기를 힘쓰라는 종교적 권면이다. 현실의 작품이나 사람에게 결함이 전혀 없다고 단정하거나 완벽을 강제하지 않는다.",
+      "contextNote": "독자들에게 평강과 흠 없는 모습을 힘쓰라고 한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "28b4416160bd8a50ca148d4013d4a41b6ff5cf8ed0c886cbcc68afa9567fd381"
+    },
+    {
+      "id": "KRV:2PE:3:15",
+      "status": "candidate",
+      "reason": "오래 참음이 구원이 된다는 말은 잘못을 인정하고 고치려는 친구를 받아들일지 더 벌주고 밀어낼지의 고민에 인내하는 쪽의 실마리를 준다.",
+      "contextNote": "주의 오래 참으심과 바울이 쓴 말을 언급한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C002",
+          "clue": "친구가 바꾸려고 노력하는 시간을 받아들이며 더 혼내는 것을 멈출 수 있다.",
+          "friction": "원문의 구원과 바울의 편지는 종교적 문맥이며 친구가 반드시 변하거나 모든 관계가 회복된다는 보장은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "7136ee728a03c66e6926d8c4ddf584d694e16480cbba9a76a293db29ce61eef8"
+    },
+    {
+      "id": "KRV:2PE:3:16",
+      "status": "candidate",
+      "reason": "성경 편지 가운데 알기 어려운 것이 더러 있다고 직접 말하고 억지로 푸는 태도를 경계해 모르는 말씀을 아는 척할지 설명을 부탁할지의 고민에 닿는다.",
+      "contextNote": "바울의 편지 중 어려운 내용과 이를 억지로 푸는 일을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C021",
+          "clue": "모르는 대목을 억지로 아는 척 넘기지 않고 잘 아는 사람에게 설명을 부탁할 수 있다.",
+          "friction": "강한 멸망의 표현을 현재 사용자의 지식이나 미래 결과에 대한 판정으로 옮기지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "0006551f36d5b88180c0b3542e738e6d90769ad168650789df8b72e62b189d81"
+    },
+    {
+      "id": "KRV:2PE:3:17",
+      "status": "hold",
+      "reason": "앞서 경계한 무법한 이들의 미혹에 이끌려 굳센 데서 떨어지지 않도록 주의하라는 말이다. 현실 지인이 실제로 속이고 있다고 추가할 수 없다.",
+      "contextNote": "독자들에게 미혹에 이끌리지 않도록 주의하라고 한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "86420353816f9e6b8f398f2b11667e039668249e2c9ca5f510456da20666f022"
+    },
+    {
+      "id": "KRV:2PE:3:18",
+      "status": "hold",
+      "reason": "예수의 은혜와 아는 지식에서 자라가라는 신앙적 권면이다. 성장 자체는 떠올릴 수 있지만 지금 어떤 특정 작업이나 지원을 선택할지 직접 단서는 약하다.",
+      "contextNote": "예수 그리스도의 은혜와 지식에서 자라라고 하며 편지를 마친다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "b43f2965ecbec3f11b5be82404644cae165b7b529b6566ae4d7353038c321f60"
+    }
+  ]
+}

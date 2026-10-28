@@ -954,6 +954,155 @@
       "readability": "thinkable",
       "connections": [],
       "textSha256": "4a7f82aa776561124e589003abbfaa0b6731d0e1e1965d638ef8c481196d97e3"
+    },
+    {
+      "id": "KRV:1JN:5:7",
+      "status": "exclude",
+      "reason": "성령이 증언자이자 진리라는 짧은 신앙적 설명이다. 현재 생활의 두 선택이나 특정한 행동은 드러나지 않는다.",
+      "contextNote": "앞 절에서 이어지는 증언자를 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "4184339c2ea47ce9b5385545aca23c0461e20baed8ea38c3ddf098da47c45587"
+    },
+    {
+      "id": "KRV:1JN:5:8",
+      "status": "exclude",
+      "reason": "성령과 물과 피 세 증언자가 하나라는 신앙적 진술이다. 숫자와 사물만으로 현재 고민의 행동을 판단할 근거가 없다.",
+      "contextNote": "세 증언자가 합해 하나라고 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "bc78658881999c8b1b123222e0be5593aea5c0ee05015272bf1c2d4b2ef5d78d"
+    },
+    {
+      "id": "KRV:1JN:5:9",
+      "status": "hold",
+      "reason": "사람들의 증언과 아들에 관한 하나님의 증언을 비교하는 신앙적 말이다. 현재 동료의 말이나 실제 증거가 거짓인지 대신 판정할 수 없다.",
+      "contextNote": "하나님이 아들에 관해 하신 증언을 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "c7a5d5eb5c64d4b86f2a37bc143af7f67c2a1a59b953eeacba974e80f32fc527"
+    },
+    {
+      "id": "KRV:1JN:5:10",
+      "status": "hold",
+      "reason": "하나님의 아들에 관한 증언을 믿는지에 대한 종교적 진술이다. 다른 생각을 가진 지인의 의도나 믿음을 사실처럼 추가할 근거가 없다.",
+      "contextNote": "아들에 대한 하나님의 증언과 믿음을 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "5b17433b96291093174debd1e495334427523463c7a3ab6c49d9aee189e1323c"
+    },
+    {
+      "id": "KRV:1JN:5:11",
+      "status": "hold",
+      "reason": "하나님이 영생을 주셨다는 신앙 고백이다. 현재 사용자의 의료적 결과나 생사가 어떻게 될지에 관한 예측으로 바꿀 수 없다.",
+      "contextNote": "하나님의 증언이 영생에 관한 것이라고 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "a96a147cf572b5f8609a394cbbffd833795f5d358fb27c5052639af411f97813"
+    },
+    {
+      "id": "KRV:1JN:5:12",
+      "status": "hold",
+      "reason": "하나님의 아들을 가진 자와 생명을 연결하는 종교적 진술이다. 실제 사용자의 건강 상태나 생존 여부를 판정할 수 없다.",
+      "contextNote": "아들과 생명의 관계를 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "9ef21960b6a0b080092245e4913971fe901838d8a110fb5e267f0f59a6562bda"
+    },
+    {
+      "id": "KRV:1JN:5:13",
+      "status": "hold",
+      "reason": "믿는 독자들에게 영생을 알게 하려는 편지의 목적을 말한다. 당장의 두 생활 선택 가운데 무엇을 고를지 구체적 실마리는 주지 않는다.",
+      "contextNote": "편지를 쓰는 목적을 밝힌다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "863b4a2c140b15bb9cb4e70a666b74eedcb37de5e255d0f8c2e1b9dd5252fe16"
+    },
+    {
+      "id": "KRV:1JN:5:14",
+      "status": "candidate",
+      "reason": "하나님께 담대히 구할 때 들으신다는 말은 무슨 말로 기도해야 할지 몰라 미룰지 고민하는 사람에게 서툰 마음으로라도 기도를 시작할 실마리를 준다.",
+      "contextNote": "그의 뜻대로 구하면 들으신다는 신앙의 담대함을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C032",
+          "clue": "완벽한 문장을 기다리지 않고 지금 느끼는 마음으로 기도해 볼 수 있다.",
+          "friction": "그의 뜻대로라는 조건이 있으며 구체적인 기도 응답이나 원하는 결과를 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "9b98c5637cf261a2400e4e8b267ee6403d8c1b7e0bd7b57da23896401ea16e1a"
+    },
+    {
+      "id": "KRV:1JN:5:15",
+      "status": "hold",
+      "reason": "구한 것을 들으시고 얻은 줄 안다는 신앙적 진술이다. 현재 친구가 처한 어려움이 기도만으로 곧 해결되거나 특정 결과가 보장된다고 말할 수 없다.",
+      "contextNote": "앞 절에 이어 구하는 것과 응답에 관해 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "bff4b1aa43e0ff2eebcd9c692ecb31c6919197610c64fd1fcc2e626bc0b5237d"
+    },
+    {
+      "id": "KRV:1JN:5:16",
+      "status": "hold",
+      "reason": "형제의 죄를 보고 구하라는 권면과 사망에 이르는 죄를 구분하는 신앙적 내용이다. 현재 친구의 실수를 어느 범주로 판정하거나 생사 결과를 예측할 수 없다.",
+      "contextNote": "형제의 죄와 그를 위해 구하는 일에 관해 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "fed05d228ae966c8612b87b23952fb4bb64beb555f0b3f3df79bf504e64ee79e"
+    },
+    {
+      "id": "KRV:1JN:5:17",
+      "status": "hold",
+      "reason": "불의와 죄, 사망에 이르지 않는 죄를 구분하는 종교적 설명이다. 생활 속 작은 실수의 법적 책임이나 실제 생사에 대한 판단 근거가 아니다.",
+      "contextNote": "불의와 죄에 관한 구분을 이어 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "0b1e9561315584e5dc2571741ce47194132128c193ef721b807d1f5b71daf4c4"
+    },
+    {
+      "id": "KRV:1JN:5:18",
+      "status": "hold",
+      "reason": "하나님께 난 자를 악한 자가 만지지 못한다는 신앙적 진술이다. 사용자가 신앙이 있으면 현실에서 아무 피해도 입지 않는다는 보장으로 쓸 수 없다.",
+      "contextNote": "하나님께 난 자를 지키는 것에 관해 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "3373bbda16eaf5974668956536bb77c13673a73f7e42dedd6818bf3da645a9bd"
+    },
+    {
+      "id": "KRV:1JN:5:19",
+      "status": "hold",
+      "reason": "공동체는 하나님께 속하고 세상은 악한 자 안에 있다는 신앙적 대비다. 현실의 친구나 불신자를 악한 존재로 분류하는 근거가 아니다.",
+      "contextNote": "하나님께 속한 공동체와 세상을 대조한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "2cb6c40cae947126c41d3ef4b5dd2d0fc344deb5958f5abe42d05e8fcc9ff191"
+    },
+    {
+      "id": "KRV:1JN:5:20",
+      "status": "hold",
+      "reason": "하나님의 아들이 참된 이를 알게 하셨다는 신앙 고백이다. 사용자의 실제 판단이나 다른 사람의 진실을 자동으로 확인해 주는 도구가 아니다.",
+      "contextNote": "하나님의 아들과 참된 하나님에 대한 믿음을 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "a5d79a88a9b93a10af16bdfcecdfafdf10ed04d5912ce60622d1bb59604c15b9"
+    },
+    {
+      "id": "KRV:1JN:5:21",
+      "status": "candidate",
+      "reason": "우상에서 멀리하라는 짧고 직접적인 권면은 사용자가 자신의 신앙에서 우상 숭배로 여기는 의식에 참여할지 양해를 구하고 빠질지의 고민과 맞는다.",
+      "contextNote": "편지의 마지막에서 우상을 멀리하라고 권한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C053",
+          "clue": "모임 분위기를 존중하면서도 자신의 신앙에 걸리는 의식은 정중히 거절할 수 있다.",
+          "friction": "다른 사람의 종교나 인격을 비난하거나 관계를 끊어야 한다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "de943326e86810d964ff795ef39ba15d942645ef71a9e016c058720176b64d73"
     }
   ]
 }
