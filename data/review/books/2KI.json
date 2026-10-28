@@ -1416,6 +1416,4267 @@
           "expectedEnough": "yes"
         }
       ]
+    },
+    {
+      "id": "KRV:2KI:5:12",
+      "textSha256": "02c38ef0300a08200fcd61658d35b4106f5ba44a7e73f84a8021f59150ceb0ef",
+      "status": "candidate",
+      "reason": "자기가 더 낫다고 여기는 방식과 다르다는 이유로 화를 내고 떠난다. 불편한 지적을 받아 고칠지 자신의 방식을 고집할지의 갈등을 비춘다.",
+      "contextNote": "나아만이 요단보다 고향 강이 낫다며 분하여 돌아선다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "화가 나는 마음과 별개로 확인된 실수를 고칠지 돌아볼 실마리를 읽는다.",
+          "friction": "고향 강의 우열이나 팀원의 의도를 사실로 판정하지 않는다. 씻으면 낫는다는 약속을 업무 결과에 옮기지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:5:13",
+      "textSha256": "9afd6801fe9d5b3a71df3c0956f06b927a4b44b5de8333d6cfe7552cc521b2a5",
+      "status": "candidate",
+      "reason": "큰 일도 하려 했으면서 쉽고 작은 제안은 하찮게 여기는 마음을 되묻는다. 확인된 작은 오류를 고칠지의 갈림길에 닿는다.",
+      "contextNote": "종들이 화난 나아만에게 선지자의 말을 다시 생각하게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A047",
+          "clue": "대단한 수정에만 마음을 두지 말고 실제로 확인된 작은 오류부터 손볼 방향을 읽는다.",
+          "friction": "씻으면 깨끗해지리라는 본래의 치유 약속을 발표 결과 보장으로 옮기지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:5:14",
+      "textSha256": "0f17cc9900b6dffd9b7cdfaeef9e3dad67b82f959d9b4ecb52eb2903a9e5617e",
+      "status": "hold",
+      "reason": "지시대로 일곱 번 물에 들어가 치유되는 구체적인 이적이다. 같은 행동이나 횟수가 현재 치료나 다른 일의 성공을 보장하는 것처럼 읽힐 수 있다.",
+      "contextNote": "나아만이 요단에서 씻고 살이 깨끗해진다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:5:15",
+      "textSha256": "e86e9e25c6731ee74c28f992df7d212801543e1879c3545a1a413ff447a6858f",
+      "status": "candidate",
+      "reason": "은혜를 받은 사람이 돌아와 감사의 예물을 권한다. 도움받은 뒤 작게라도 식사를 대접하고 싶은 마음에 행동의 실마리가 있다.",
+      "contextNote": "나아만이 하나님을 고백하고 엘리사에게 예물을 권한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A012",
+          "clue": "고마운 마음을 말로만 남길지 작은 초대로 표현할지 돌아볼 실마리를 읽는다.",
+          "friction": "나아만의 신앙 고백과 치유의 규모를 식사와 동일시하지 않는다. 상대가 초대를 받아들일지 단정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:5:16",
+      "textSha256": "98bd8a90113b76f8db019a87e6e44f143d261bfa0cbaed50249bf1d30e0a5d03",
+      "status": "candidate",
+      "reason": "강권을 받아도 거절하겠다는 뜻을 분명하게 지킨다. 부담스러운 큰 선물을 받을지 정중히 사양할지의 선택에 닿는다.",
+      "contextNote": "엘리사가 나아만의 예물을 거듭 사양한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A003",
+          "clue": "상대가 주겠다고 해도 자신의 부담을 살펴 받지 않을 수 있다는 방향을 읽는다.",
+          "friction": "엘리사가 사례의 사정과 같은 이유로 거절했다고 보태지 않고 상대의 미래 부탁도 확정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:5:17",
+      "textSha256": "62140ff7f9a9c360df2a6e16675c13bb223ee8a307405548ca97f2efe9483b2a",
+      "status": "hold",
+      "reason": "흙을 부탁하며 다른 신에게 제사하지 않겠다는 개인의 신앙 고백이다. 신앙을 지킬 실마리는 있으나 흙과 제사의 전체 문장만으로 일상의 선택에 충분히 닿는 사례는 불명확하다.",
+      "contextNote": "나아만이 흙을 요청하고 여호와만 섬기겠다고 말한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:5:18",
+      "textSha256": "cd8ab0722aea2cce13d1578280e71ef998d5d684f0b5816e4d20d8c287d2e71d",
+      "status": "hold",
+      "reason": "주인을 부축하는 공적 임무와 신앙 사이에서 용서를 구한다. 직무와 신앙의 갈등을 비추지만 림몬 신전에서 실제 절하는 사정과 선택의 결과를 단순하게 옮기기 어렵다.",
+      "contextNote": "나아만이 주인을 부축할 때 신전에서 굽히는 일의 용서를 구한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:5:19",
+      "textSha256": "8d80c66f92ac2feaaa4c11552a6f947dfcc7f7951c161d4389d4e4709b0fb8c8",
+      "status": "hold",
+      "reason": "평안히 가라는 짧은 인사는 떠나는 사람을 놓아주는 표현으로도 읽힌다. 독립된 절에서 앞선 신앙과 직무의 갈등이나 사용자의 선택 기준은 분명하지 않다.",
+      "contextNote": "엘리사가 나아만을 평안히 보내고 그가 떠난다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:5:20",
+      "textSha256": "37fd26727797e9834c1da6c2522e26dcc527a45b88369e66da4b1808ba7e5a6f",
+      "status": "hold",
+      "reason": "주인이 받지 않은 것을 뒤쫓아 취하려는 사적인 탐욕과 맹세가 드러난다. 남의 것을 취하는 반면으로 읽힐 여지는 있으나 공동 보상 배분 고민과는 거절된 예물과 주종 관계가 다르다.",
+      "contextNote": "게하시가 나아만의 예물을 받아내려 마음먹는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:5:21",
+      "textSha256": "3ad65405f424db2a71a2b6fad8f9c5c3b99476f5fc39d4cc14c46c738b7a9842",
+      "status": "exclude",
+      "reason": "뒤쫓아온 사람을 보고 수레에서 내려 안부를 묻는 장면이다. 이 절만으로 나아만은 상대의 목적을 모르며 현재 선택을 비출 근거가 부족하다.",
+      "contextNote": "나아만이 달려온 게하시를 맞는다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:5:22",
+      "textSha256": "227e4b3aedc077c9a3ec0c1af16b41bd53f8588006173ef6140ff63ac9e50b3b",
+      "status": "hold",
+      "reason": "게하시의 거짓 전언은 문맥에서 드러나지만 이 절만 보면 주인이 보낸 정당한 요청처럼 읽힌다. 해설 없이 권위를 거짓으로 빌린 반면이라고 알기 어려워 보류한다.",
+      "contextNote": "게하시가 엘리사의 명령인 것처럼 은과 옷을 요청한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C001",
+          "clue": "내 생각에 실제로 없는 권위를 덧붙이는 선택을 돌아보게 할 가능성은 있다.",
+          "friction": "본문 단독으로 명령이 거짓인지 확인되지 않는다. 청자가 실제로 자기 판단만 가진 C001과 다르며 그대로 권위 있는 요청을 따르라는 뜻으로도 읽힐 수 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:5:23",
+      "textSha256": "e0c2a4b5b2960bcdea839fb712632f710b2f1173b3d95e726208b4685ad89fc5",
+      "status": "hold",
+      "reason": "요청보다 더 많은 예물을 선뜻 내어 주는 모습이지만 사정은 거짓 요청에 속은 것이다. 관대한 제안의 여지는 있어도 사용자가 식사를 대접할지의 판단과는 주는 이유와 규모가 다르다.",
+      "contextNote": "나아만이 게하시에게 은과 옷을 보내 준다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:5:24",
+      "textSha256": "1ff1d1b4535190eb7a436a6e340cf1003035e2483138c2f16ec1bd32840a937d",
+      "status": "hold",
+      "reason": "받은 물건을 몰래 감추고 운반한 사람들을 돌려보낸다. 숨김의 반면은 있으나 물건을 어디에 두는 장면만으로 사실을 밝힐 선택은 충분히 드러나지 않는다.",
+      "contextNote": "게하시가 받은 예물을 집에 감춘다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:5:25",
+      "textSha256": "3a8248982249f3cd6e1e33645aaa60e3ed4caa16aba7ad6213c47c278ac6a2b0",
+      "status": "hold",
+      "reason": "아무 데도 가지 않았다는 대답이 거짓임은 앞선 행적을 알아야 한다. 절만 읽으면 사실대로 답한 장면일 수 있어 거짓말의 반면으로 충분한지 불확실하다.",
+      "contextNote": "게하시가 예물을 감춘 뒤 엘리사의 물음에 아무 데도 가지 않았다고 답한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A049",
+          "clue": "숨기거나 사실대로 말하는 선택을 스스로 대입할 여지는 있다.",
+          "friction": "한 절에는 이전 행적이나 대답의 진실 여부가 드러나지 않는다. 사용자가 부인을 감추라는 실마리로 읽을 가능성도 있어 어느 방향이 충분할지 확인되지 않았다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:5:26",
+      "textSha256": "5bbe78f030f932224c41fffc130dc708a158f7d0aada1d774fb71b23b90f5b8d",
+      "status": "hold",
+      "reason": "상대가 행한 일을 이미 알았다고 밝히며 지금이 재물을 받을 때냐고 묻는다. 시기와 탐욕을 돌아보게 하지만 초자연적 인지와 긴 재산 목록을 생활 선택에 그대로 옮기기 어렵다.",
+      "contextNote": "엘리사가 게하시의 행동을 알고 예물 취득을 꾸짖는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:5:27",
+      "textSha256": "b57bec19ad415434d5aa00d4eb48000a74279bdd49cf17570c51133e3e4caa8e",
+      "status": "exclude",
+      "reason": "병이 게하시와 자손에게 영원히 미친다는 특정한 징벌과 그 발생이다. 현재 질병이나 후손의 운명을 확인해 주는 말씀으로 쓸 수 없다.",
+      "contextNote": "게하시에게 나아만의 병이 생긴다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:6:1",
+      "textSha256": "9cd1021275ed81f58b9d5ea1e730c83e2ad85fca3b2226a206ea2db0fd47b3c4",
+      "status": "hold",
+      "reason": "함께 사는 곳이 좁다는 불편을 직접 말한다. 공간 부족을 인정하는 데 닿지만 독립된 절에는 옮기거나 넓히는 선택이 드러나지 않는다.",
+      "contextNote": "선지자의 생도들이 거처가 좁다고 알린다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:6:2",
+      "textSha256": "0dce4da512bec37efab3f3d84e21f53f1a4efdc3f452843f4194925cb868daf0",
+      "status": "candidate",
+      "reason": "좁은 거처를 그대로 견디기보다 함께 재목을 마련해 새 공간을 만들자고 제안한다. 인원보다 작은 장소를 바꿀지의 고민에 방향이 있다.",
+      "contextNote": "생도들이 각자 재목을 가져와 거처를 세우자고 하고 엘리사가 허락한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A045",
+          "clue": "기존 작은 공간의 불편을 인정하고 사람 수에 맞는 다른 공간을 준비할 실마리를 읽는다.",
+          "friction": "방을 새로 짓거나 반드시 요단으로 가야 한다는 뜻이 아니다. 넓은 방이 확보됐다고 단정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:6:3",
+      "textSha256": "7fd9a651c6f9f5e8f8c4b531372c7a3cb5ef5552367798ccee9753622421442a",
+      "status": "candidate",
+      "reason": "혼자 감당하지 않고 함께 와 달라고 부탁한다. 도움을 청하면 민폐일까 걱정하는 마음에 직접 말을 건넬 실마리를 준다.",
+      "contextNote": "생도 한 사람이 엘리사의 동행을 요청하고 그가 응한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "혼자 버티기보다 필요한 사람에게 동행이나 도움을 부탁할 방향을 읽는다.",
+          "friction": "엘리사의 수락을 그 사람도 반드시 돕는다는 약속으로 옮기지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:6:4",
+      "textSha256": "91cbbae5bb0e6e7c5172511137def8b2b85ccb32ed7d0fed1215f65f7969a827",
+      "status": "exclude",
+      "reason": "무리가 함께 가 요단에서 나무를 베는 진행 장면이다. 함께 준비했다는 사실 외에 사용자의 양쪽 선택을 가를 기준이 드러나지 않는다.",
+      "contextNote": "엘리사와 생도들이 요단에 가서 나무를 벤다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:6:5",
+      "textSha256": "77928fedfba725e4732456ffc60cce59dd5b9902572f1ea457f880162adb321a",
+      "status": "candidate",
+      "reason": "작업하다 빌린 도끼를 물에 빠뜨리고 빌려온 것이라고 즉시 알린다. 남의 물건을 잃었을 때 혼자 숨길지 알릴지의 갈림길에 닿는다.",
+      "contextNote": "한 생도의 빌린 도끼가 물에 빠져 도움을 청한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A048",
+          "clue": "잃어버린 사실과 빌린 물건이라는 책임을 곧바로 알리고 함께 찾을 실마리를 읽는다.",
+          "friction": "본문은 빌려준 당사자에게 직접 알렸다고 말하지 않는다. 분실물이 반드시 돌아오거나 용서받는다고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:6:6",
+      "textSha256": "462313e45facc58a7e88fcd34bdd3efc9e26cbcb34669496cfe5ceea38faa960",
+      "status": "hold",
+      "reason": "잃어버린 곳을 확인하는 대목은 유용하지만 나뭇가지로 쇠도끼를 떠오르게 하는 이적이 절의 상당 부분이다. 분실물을 같은 방식으로 찾을 수 있다고 읽게 할 우려가 있다.",
+      "contextNote": "엘리사가 떨어진 곳을 물은 뒤 도끼를 떠오르게 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:6:7",
+      "textSha256": "b47f6d743e3b9cc15ce6ed6b90fb3536301b36b9b6a965fc17131e23261da9bb",
+      "status": "hold",
+      "reason": "떠오른 것을 손을 내밀어 취하는 짧은 장면이다. 행동의 주도성을 읽을 여지는 있지만 앞선 이적을 모르면 무엇을 취하는지와 선택의 맥락이 부족하다.",
+      "contextNote": "도끼가 떠오르자 생도가 그것을 잡는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:6:8",
+      "textSha256": "8924fb0a0daf4299bedbdca37151c2be7d6999ff096c50cdb28f9b630bbcdc7d",
+      "status": "exclude",
+      "reason": "아람 왕이 전쟁 중 진을 칠 장소를 신하들과 의논하는 설명이다. 장소의 이름도 구체적으로 제시되지 않아 일상 선택의 판단 근거가 없다.",
+      "contextNote": "아람 왕이 이스라엘 공격의 진지를 정한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:6:9",
+      "textSha256": "388fc661f172d106f32006431fc8b06efe061fad0569d93e4266bd9cb1d873a0",
+      "status": "candidate",
+      "reason": "다가올 위험을 아는 사람이 지나가지 않도록 미리 알린다. 느슨한 장치를 보고 말할지 망설이는 사람에게 알림의 방향을 준다.",
+      "contextNote": "엘리사가 이스라엘 왕에게 아람군이 나오는 곳을 피하라고 경계한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C028",
+          "clue": "문제를 보았을 때 담당자에게 알려 사용 전에 점검하도록 할 실마리를 읽는다.",
+          "friction": "장치의 헐거움이 전쟁이나 공격과 같다는 뜻이 아니다. 사고 발생을 확정하지 않고 확인을 요청한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:6:10",
+      "textSha256": "d652df98865b068ca02fa0287d7a2f8932b02d77958dbaf918ac21412913b3e2",
+      "status": "candidate",
+      "reason": "경고를 듣고 위험한 곳을 반복해서 살피고 대비한다. 예보를 알고도 번거로워 장비를 그대로 둘지 고민하는 경우에 미리 움직일 방향이 있다.",
+      "contextNote": "이스라엘 왕이 엘리사의 경고 장소에 사람을 보내 방비한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A014",
+          "clue": "예보를 흘려보내지 않고 장비를 지금 안으로 옮길 실마리를 읽는다.",
+          "friction": "예보가 피해의 확정은 아니다. 군사 경계와 행사 장비의 위험 크기를 같게 보지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:6:11",
+      "textSha256": "36ea0d1531175e65e600b21b43eed4410bdecb7df3ad7ecaa74cad14d3d9f6e6",
+      "status": "hold",
+      "reason": "왕은 내부의 배신자를 전제로 묻지만 그 의심이 틀렸는지는 뒷문맥을 봐야 알 수 있다. 절만으로는 확인되지 않은 상대의 의도를 단정하지 말라는 반면이 분명하지 않다.",
+      "contextNote": "아람 왕이 신하 중 이스라엘에 내응하는 자가 있다고 의심한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H035",
+          "clue": "불편한 정황에서 상대의 마음을 먼저 짐작하는 모습은 소외감을 겪는 고민과 닿는다.",
+          "friction": "소외가 실제인지 모르는 H035에서 구절이 오히려 배척 의도를 사실로 단정하도록 읽힐 수 있고, 따로 이야기할 방향은 본문에 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:6:12",
+      "textSha256": "dfc331e62c762981ec53de17729d42daa7f8fe288713d635722f101bd569c335",
+      "status": "hold",
+      "reason": "눈에 보이지 않는 사실을 선지자가 알린다는 특별한 설명이다. 다른 사람의 숨은 의도나 대화를 서비스가 안다고 읽게 할 수 있다.",
+      "contextNote": "신하가 왕에게 엘리사가 왕의 말까지 알린다고 설명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:6:13",
+      "textSha256": "1f51966149a0b752690824d3ddf8afe81ad958905a45c0cd5dc5675d117a4fa2",
+      "status": "exclude",
+      "reason": "왕이 선지자의 소재를 알아내 잡으려 명령하고 도단이라는 대답을 듣는다. 소재 정보와 체포 지시만으로 일상 선택의 충분한 실마리가 없다.",
+      "contextNote": "아람 왕이 엘리사가 있는 곳을 찾는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:6:14",
+      "textSha256": "da1b468f079f06719270ea9cc5f018c03b8203514e39a53484a7a8def45772e3",
+      "status": "exclude",
+      "reason": "군사와 병거가 밤에 성을 포위한 전투 배치다. 사용자의 선택이나 그에 대한 방향이 제시되지 않는다.",
+      "contextNote": "아람 군대가 도단을 에워싼다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:6:15",
+      "textSha256": "569b3d2fb71b5556c562ed54138a5c1560165239d2cb3dcd9ce3aa179850efb5",
+      "status": "hold",
+      "reason": "포위된 것을 보고 어찌할지 묻는 두려움은 절실하다. 그러나 구체 선택지나 스스로 읽을 행동 방향이 이 절에는 드러나지 않는다.",
+      "contextNote": "엘리사의 사환이 군대에 둘러싸인 성을 보고 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:6:16",
+      "textSha256": "f8f9e4d21fccc9647b4515d18841bb0765f5976ae135bef7f2850fbd70f0da14",
+      "status": "hold",
+      "reason": "두려워하지 말고 함께한 자가 더 많다는 위로다. 보이지 않는 지원과 수적 우위를 특정 상황의 실제 사실로 보장하면 안 된다.",
+      "contextNote": "엘리사가 사환에게 두려워하지 말라고 한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:6:17",
+      "textSha256": "09b6385d014a9c86c4cf85b81d4f33481ce0fd8bcc3afbe059f316e8e2632fa3",
+      "status": "hold",
+      "reason": "보지 못하던 것을 보게 해 달라는 기도와 불말과 병거의 환상이다. 새로운 시야를 구하는 마음은 있으나 보이지 않는 지원이 현재 반드시 존재한다는 증거는 아니다.",
+      "contextNote": "엘리사의 기도 후 사환이 산의 불말과 병거를 본다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:6:18",
+      "textSha256": "908d0a4854dbbc69d8a6c79abfb14c51951f4a8ce6ed522394559410fbaf8da5",
+      "status": "exclude",
+      "reason": "적의 눈을 어둡게 해 달라는 기도와 그 성취다. 타인의 능력을 무력화하는 특정 이적을 일상 관계의 선택 근거로 옮길 수 없다.",
+      "contextNote": "엘리사의 기도로 아람 군대의 눈이 어두워진다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:6:19",
+      "textSha256": "68fddd2ee6d2d9826c545662435442efe701eb169f49871aff73d43fab7d0c9f",
+      "status": "hold",
+      "reason": "길과 성을 부정하고 자신을 따르게 해 상대를 사마리아로 인도한다. 위협을 피하는 상황이지만 속이는 말과 적대적 맥락을 일상적인 정직한 판단으로 바로 옮기기 어렵다.",
+      "contextNote": "엘리사가 눈이 어두워진 아람 군대를 사마리아로 이끈다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:6:20",
+      "textSha256": "f2d1adb822a67776078edb2fa10bbf0daeddfe98b9d38902e65b3d85e8c50ce1",
+      "status": "exclude",
+      "reason": "기도로 적들의 눈이 열려 사마리아에 와 있음을 알아차린다. 이적의 결과를 확인하는 장면이고 현재의 선택 방향은 없다.",
+      "contextNote": "엘리사의 기도로 아람 군대가 자신들의 위치를 본다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:6:21",
+      "textSha256": "92ac59e47d200e7ac652c7bbd89056d73724b880388b55b72127312361c07656",
+      "status": "hold",
+      "reason": "왕이 포로를 칠지 두 번 묻는 긴박한 순간이다. 직접적 공격의 선택은 나타나지만 이 절만으로 화해나 자제의 이유는 제시되지 않는다.",
+      "contextNote": "이스라엘 왕이 아람 군대를 죽여도 되는지 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:6:22",
+      "textSha256": "533572a0b105c84829bfa50391869a32cc5ecbb632ea57e0d7ec1282005ca803",
+      "status": "candidate",
+      "reason": "잡힌 상대를 치지 말고 먹을 것을 주어 돌려보내라고 한다. 다툰 동료에게도 불편을 덜어 줄 행동을 할지의 갈림길을 비춘다.",
+      "contextNote": "엘리사가 포로들을 치지 말고 먹여 돌려보내라고 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A019",
+          "clue": "서운한 상대라도 잃어버릴 물건을 알려 돌려줄 방향을 읽는다.",
+          "friction": "사로잡힌 적군과 직장 동료는 다르다. 동료의 화해나 감사가 보장된다는 뜻이 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:6:23",
+      "textSha256": "d40d6e00eefd3809266ff80e851466eca997bc9a11d78dc6b913078fcf421d9e",
+      "status": "hold",
+      "reason": "적에게 음식을 대접하고 돌려보내는 호의가 나오지만 그 결과 다시 침입하지 못했다는 결론이 함께 붙는다. 좋은 대우가 현재 상대의 미래 행동을 바꾼다고 약속할 수 없다.",
+      "contextNote": "이스라엘 왕이 아람 군대를 대접해 돌려보낸다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:6:24",
+      "textSha256": "638f9aacd8c53f12077c21ebb840adc6d03d08c2cc963c6c6919e18d6514d6f1",
+      "status": "exclude",
+      "reason": "이후 아람 왕이 군대를 모아 사마리아를 포위한 사건 서술이다. 특정 행동을 정할 선택 기준이 없다.",
+      "contextNote": "벤하닷이 사마리아를 포위한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:6:25",
+      "textSha256": "5b0ef4718eed98646deea5623cb7fb1bbb80946cef6cfbad4b5152033075f1b6",
+      "status": "hold",
+      "reason": "포위와 극심한 굶주림으로 식량 가격이 치솟은 구체 상황이다. 경제적 압박을 비추지만 무엇을 선택할지의 실마리는 제시되지 않는다.",
+      "contextNote": "성 안의 기근과 비싼 식량값을 묘사한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:6:26",
+      "textSha256": "7e423e065393f26eef993996fff8bd2063720f4ef44b8930fbe2bcab31111b32",
+      "status": "candidate",
+      "reason": "도움을 청하기 어려운 상황에서도 사람에게 직접 도와 달라고 부른다. 민폐가 걱정돼 혼자 버틸지 부탁할지에 닿는다.",
+      "contextNote": "포위된 성의 여인이 왕에게 도움을 외친다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "혼자 감당하려 애쓰는 대신 도움을 구하는 말을 꺼낼 방향을 읽는다.",
+          "friction": "여인의 극심한 굶주림과 일반적인 부탁은 다르다. 상대가 도울 수 있다고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:6:27",
+      "textSha256": "d4e8679724f98e674da03e9739be2a886b2c56f81741e349bc02ad4d91368ce8",
+      "status": "hold",
+      "reason": "왕은 하나님이 돕지 않으시면 자신이 무엇으로 도울 수 있느냐며 식량 공급의 한계를 말한다. 능력의 한계는 드러나지만 도울 작은 방법이 있는 고민에 아무것도 할 수 없다고 확대하기 어렵다.",
+      "contextNote": "왕이 여인의 도움 요청에 식량 부족을 말한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:6:28",
+      "textSha256": "518f9663a8a3cd5d81d00cf80dbf95cd9fba13286748d2099fa37b0c4a1e0f9c",
+      "status": "exclude",
+      "reason": "극심한 기근 속 한 여인이 다른 여인과 맺은 자식에 대한 참혹한 약속을 말한다. 다른 상황의 약속을 단순 비교해 선택의 실마리로 삼기 어렵다.",
+      "contextNote": "왕의 질문에 여인이 아들을 먹자는 약속을 설명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:6:29",
+      "textSha256": "0022e51209a341c1670f5d3deec37fc86c59e2991d7d930c4e973f19e19c28f0",
+      "status": "exclude",
+      "reason": "자신의 아들을 삶아 먹은 뒤 상대가 아들을 숨겼다고 호소하는 참혹한 사건이다. 약속 이행과 책임의 생활 사례에 그대로 대응시키기 어렵다.",
+      "contextNote": "여인이 기근 중 일어난 일과 상대의 숨김을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:6:30",
+      "textSha256": "689c698e498dd5bc0baac0176f937b179fa2a10d1b0eee0b4db7b1bad739a44a",
+      "status": "exclude",
+      "reason": "왕이 이야기를 듣고 옷을 찢었으며 속에 굵은 베를 입은 모습이 드러난다. 슬픔의 표현이지 생활 선택의 충분한 방향은 아니다.",
+      "contextNote": "왕이 여인의 말을 듣고 옷을 찢는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:6:31",
+      "textSha256": "36329de44764d22f33dae028bd7e23cd00600219048ff6c76daec9f0df09bb14",
+      "status": "hold",
+      "reason": "재앙에 분노한 왕이 선지자의 죽음을 맹세한다. 원인을 확인하지 않은 채 화를 쏟는 반면으로 생각할 수 있으나 극단적인 살해 맹세 전체가 가벼운 대화 선택을 압도한다.",
+      "contextNote": "왕이 엘리사를 죽이겠다고 맹세한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:6:32",
+      "textSha256": "088fb2ea6ca30f455ba48ff05119447586df238f5d0b0dad17915f4776357edb",
+      "status": "hold",
+      "reason": "위협에 대비하여 문을 닫는 행동은 보이지만 살해자가 보낸 사자라는 주장이 절 전반을 차지한다. 반복된 원치 않는 접촉을 겪은 사례에서 상대의 살해 의도까지 확인된 듯 읽힐 우려가 있어 보류한다.",
+      "contextNote": "엘리사가 왕의 사자가 자기를 죽이러 오니 문을 닫으라고 한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "A008",
+          "clue": "거절을 반복해 무시당한 사람이 공간과 만남에 경계를 둘 실마리는 있다.",
+          "friction": "A008의 지인을 살인자로 볼 근거는 없다. 본문의 위험을 단순히 잘라내지 않고 읽을 때 의미 연결이 충분하고 안전할지 불확실하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:6:33",
+      "textSha256": "45d7a7b248c08190a3d04ebb94be4149071b875a4ac1b0575950c0e1373a29c5",
+      "status": "hold",
+      "reason": "재앙 앞에서 더 기다려야 하느냐는 지친 항의다. 기다림의 무게는 있으나 치료 결과를 기다리며 일상을 할지의 선택으로 곧바로 이어질 구체 행동은 없다.",
+      "contextNote": "왕이 재앙을 말하며 여호와를 더 기다릴 수 없다고 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:7:1",
+      "textSha256": "218a66cd5ce92f7766b391d2bb7c1a3ecb8403a88fda3a7b97d487926a6030e9",
+      "status": "hold",
+      "reason": "다음 날 특정 시간의 곡물 가격을 예고하는 말씀이다. 현재 물가나 자금 사정이 내일 바뀐다고 확인해 주는 예측으로 제시할 수 없다.",
+      "contextNote": "엘리사가 사마리아의 식량값에 대한 여호와의 말씀을 전한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:7:2",
+      "textSha256": "9b68fb99760fcf8a1c742e9501dd95629bd1888c59af8befbc8c72d3be4a05c5",
+      "status": "hold",
+      "reason": "불가능해 보이는 예고를 의심한 장관에게 보되 먹지는 못하리라고 한다. 의심과 신뢰를 생각할 수 있으나 구체적인 결핍의 해소와 처벌을 현재에 예고할 수 없다.",
+      "contextNote": "장관이 식량값 예언을 의심하자 엘리사가 그 미래를 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:7:3",
+      "textSha256": "bfea33916d2b296864b7b0c2c9f41f28e7b81bd6796cd2ce5013582c5f5cfb97",
+      "status": "hold",
+      "reason": "여기 앉아서 죽기를 기다릴 수만은 없다는 물음은 정체에서 움직이는 마음을 비춘다. 그러나 죽음이 임박한 기근을 작은 모임을 언제 시작할지와 같게 보지 않으며 이 절에는 가능한 대안도 보이지 않는다.",
+      "contextNote": "성문 밖 병자들이 가만히 있을 수 없다고 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:7:4",
+      "textSha256": "4fa9c4619f7b12e2fa5ee6edc2ea15973f7873fc0276560d8184d27e5a7d47c4",
+      "status": "hold",
+      "reason": "성 안과 밖의 위험을 따져 적진에 항복하자고 하되 살 수도 죽을 수도 있음을 인정한다. 불확실성을 대면하는 실마리는 있으나 실제 목숨이 걸린 상황과 그 선택을 일반적인 도전에 그대로 옮기기 어렵다.",
+      "contextNote": "네 사람이 기근과 항복의 위험을 비교한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:7:5",
+      "textSha256": "b5eaca57d12230c3baaa7a23682d75bf1386311004faacdb886d03224bbba490",
+      "status": "hold",
+      "reason": "움직여 본 결과 적진이 비어 있음을 발견한다. 행동의 예상 밖 결과를 볼 수 있으나 현재 다른 선택의 결과가 좋게 나타날 것이라는 근거는 아니다.",
+      "contextNote": "네 사람이 아람 진에 도착해 아무도 없음을 본다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:7:6",
+      "textSha256": "1ecc9c0b7a51332daf115d396569e2d915d15df18d1b4f5afde5e0580c21dbac",
+      "status": "hold",
+      "reason": "아람 군대가 소리를 듣고 외국 군대의 공격이라고 해석한다. 불확실한 정황에 상대의 의도를 단정하는 반면이지만 이적과 왕들의 구체 이름이 독립적인 일상 선택 연결을 어렵게 한다.",
+      "contextNote": "하나님이 들려주신 소리에 아람 군대가 공격을 짐작한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:7:7",
+      "textSha256": "c24631ea9a90c1152729bdc2cd5fc07c83cd21b640a35d20b063a4882597b07f",
+      "status": "exclude",
+      "reason": "군대가 장막과 짐승을 두고 목숨을 위해 도망한 사건 설명이다. 한 사람의 현재 선택을 가를 충분한 방향은 없다.",
+      "contextNote": "아람 군대가 황혼에 진을 버리고 도망한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:7:8",
+      "textSha256": "8fae18bf4440eb523d797f56800babd070393a90322c6c20bed795ffc6ff7dbc",
+      "status": "hold",
+      "reason": "발견한 음식과 재물을 자기들끼리 누리고 감춘다. 기회를 독점하는 반면이지만 절 자체에는 굶주린 이들과 소식을 나눌 선택이 제시되지 않는다.",
+      "contextNote": "네 사람이 비어 있는 아람 진의 물건을 먹고 감춘다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:7:9",
+      "textSha256": "e4d56532e4dbc95675794e798cd58144a6bc5f87a6e42aeeb84c532d206f7c55",
+      "status": "candidate",
+      "reason": "좋은 소식을 혼자 알고 침묵하는 것이 옳지 않음을 깨닫고 다른 사람에게 알리자고 한다. 여럿이 필요로 하는 지원 소식을 혼자만 가질지 나눌지의 고민에 닿는다.",
+      "contextNote": "네 사람이 굶주린 성에 진영이 비었다는 소식을 알리기로 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A050",
+          "clue": "팀 전체에 도움이 될 소식을 독점하기보다 필요한 사람들에게 알릴 방향을 읽는다.",
+          "friction": "기근 속 생명과 인쇄 지원의 중요성을 같게 보지 않는다. 본문의 벌을 현재 사용자에게 닥칠 일로 예고하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:7:10",
+      "textSha256": "91ed33962a39fe071ca70409b90be2a790f88adca433b7c02374929885d62c08",
+      "status": "candidate",
+      "reason": "자신들이 실제 본 사실을 구체적으로 알린다. 확인한 위험 징후를 담당자에게 말할지 주저하는 경우 사실을 전하는 실마리가 된다.",
+      "contextNote": "네 사람이 문지기에게 진의 빈 상태와 남은 동물을 알린다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C028",
+          "clue": "보지 못한 사고를 덧붙이지 말고 직접 확인한 고정 상태를 알려 점검을 요청할 방향을 읽는다.",
+          "friction": "적진의 물건과 무대 장치는 다른 상황이다. 사고 발생이나 상대의 반응을 확정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:7:11",
+      "textSha256": "be5641d68c0193f3c8b8c3138f0fbd0e83bfaf21f452e3d004ccfbdad0d70bb9",
+      "status": "exclude",
+      "reason": "문지기가 다른 문지기들과 왕궁에 소식을 전하는 짧은 전달 장면이다. 무엇을 어떻게 판단할지는 앞 절에 의존한다.",
+      "contextNote": "문지기들이 왕궁에 보고한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:7:12",
+      "textSha256": "28cc566481cd9b2163d77739faabfc57c609c341e2ff586c4e8bf4965f06faf5",
+      "status": "hold",
+      "reason": "왕은 적의 매복을 사실처럼 말하지만 실제로 틀린 추정이라는 정보는 이 절에 없다. 확인 없이 단정하지 말자는 반면이나 대화를 시도할 방향을 단독으로 읽기 어렵다.",
+      "contextNote": "왕이 아람 군대가 들에 숨어 있을 것이라고 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H035",
+          "clue": "상대의 숨은 의도를 추측하는 태도가 소외된 것 같은 마음을 떠올리게는 한다.",
+          "friction": "H035에서는 상대의 의도가 미확인인데, 이 절은 오히려 숨은 적대 의도가 있다고 단정하는 말로만 읽힐 수 있다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:7:13",
+      "textSha256": "8a31aaa286910586b96cd5883c713aa1128c6f2b9026ab996da93a41bddda637",
+      "status": "candidate",
+      "reason": "막연한 추측만으로 결정하기보다 남은 자원을 써서 사람을 보내 확인하자고 제안한다. 후기에만 기대어 살지 더 알아볼지의 고민에 닿는다.",
+      "contextNote": "왕의 신하가 남은 말과 사람을 보내 정탐하자고 한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H003",
+          "clue": "이미 들은 말만으로 정하지 않고 내게 필요한지 더 확인할 방향을 읽는다.",
+          "friction": "전쟁과 생존의 위험을 구매 고민과 같게 보지 않는다. 확인 뒤 원하는 답이 나온다는 보장은 없다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:7:14",
+      "textSha256": "a7b2f011828bbd54a1ee77e1ef0e95927d0036fd38b1411d91dcc0358ff6481f",
+      "status": "hold",
+      "reason": "왕이 병거와 말을 보내어 실제로 정탐하게 한다. 확인 행동은 드러나지만 무엇이 불확실했는지는 이전 절에 의존하므로 이 절만의 충분한 연결은 약하다.",
+      "contextNote": "왕이 아람 군대를 뒤쫓아 정탐할 사자를 보낸다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:7:15",
+      "textSha256": "1012d105f57956989deb94449570d3f9a38493d38f0234e35aefe88bd5420d32",
+      "status": "hold",
+      "reason": "급히 버려진 물건을 발견하고 돌아와 보고한다. 본 것을 전하는 장면이지만 후퇴 사실과 길의 묘사가 길어 독립적 선택의 방향은 약하다.",
+      "contextNote": "사자들이 요단까지 가서 확인한 뒤 왕에게 보고한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:7:16",
+      "textSha256": "647a19b0463284c6214ef5e4c0c706c6e12d18e01905f8abb6203771552fd323",
+      "status": "hold",
+      "reason": "적진에서 물건을 취한 뒤 예고된 식량 가격이 실현된다. 현재의 가격이나 재정 문제가 같은 방식으로 해결된다는 확인으로 쓰일 수 없다.",
+      "contextNote": "백성이 진을 노략하고 예고된 곡물 가격이 이루어진다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:7:17",
+      "textSha256": "99344174120fdec966b31a58ba6cc1993fe49fea3446515a9d2b4dec6b7408f7",
+      "status": "exclude",
+      "reason": "성문에서 밟혀 죽은 장관에게 한 말이 이루어졌다는 사건 보고다. 오늘의 죽음이나 벌을 예측하는 선택 근거로 삼을 수 없다.",
+      "contextNote": "왕의 장관이 성문에서 군중에게 밟혀 죽는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:7:18",
+      "textSha256": "a0465eaccc3d08ce11810cc239f4535f3a87ba12fcacc3ed81ac0a184ad79e2f",
+      "status": "hold",
+      "reason": "특정 시간과 식량 가격에 관한 예언을 다시 기록한다. 사용자의 기한이나 돈이 앞으로 어떻게 될지 확인하는 말씀으로 옮길 수 없다.",
+      "contextNote": "앞서 엘리사가 예고한 사마리아의 곡물 가격을 반복한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:7:19",
+      "textSha256": "66838657e9249ac866291f65c1542845eefa53a09dbef4c9f2621fd392fd152a",
+      "status": "hold",
+      "reason": "장관의 의심과 보되 먹지는 못하리라는 답을 다시 전한다. 물가 변화와 처벌을 현재 사람의 미래에 적용할 수 없다.",
+      "contextNote": "장관이 예언에 반문하고 엘리사가 응답했던 일을 반복한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:7:20",
+      "textSha256": "56354e64e0d1e4466712f27fa51f1840e2addadb69eb1d5f97f818843839f551",
+      "status": "exclude",
+      "reason": "장관이 군중에게 밟혀 죽어 앞선 말이 이루어진 결과다. 사건의 경과이지 일상 선택의 독립적 실마리가 아니다.",
+      "contextNote": "장관의 죽음으로 앞선 말이 이루어진다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:8:1",
+      "textSha256": "563c09502866dbcbcbb3d6f2412ab3821c112fda1b9b5cfebcfda5d7ffbf4f0a",
+      "status": "hold",
+      "reason": "기근을 피하여 가족과 거할 곳으로 가라는 구체 지시와 칠 년의 예언이다. 대비의 여지는 있으나 현재 재난의 기간과 신적 지시를 확인해 주는 것으로 옮길 수 없다.",
+      "contextNote": "엘리사가 수넴 여인에게 앞으로의 기근과 거처 이동을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:8:2",
+      "textSha256": "053766c44eeef6a4c0787d741e523998fde731feda00558e845826b5bcf5ea44",
+      "status": "hold",
+      "reason": "여인이 가족과 일곱 해 다른 땅에 머무른다. 낯선 곳으로 옮기는 장면이지만 그 이유와 떠날지의 갈등은 앞 절에 의존한다.",
+      "contextNote": "여인이 가족과 블레셋 땅으로 가서 거주한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:8:3",
+      "textSha256": "b50f5d9c71ffdaea5f63effcef11a354395a4f3524ce0863d4593b93410da612",
+      "status": "candidate",
+      "reason": "돌아온 뒤 자기 집과 땅의 문제를 권한 있는 이에게 직접 호소한다. 실제 기여가 이름에서 빠졌을 때 말할지 고민하는 상황을 비춘다.",
+      "contextNote": "수넴 여인이 자기 집과 땅을 위해 왕에게 나아간다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A034",
+          "clue": "이미 자신이 한 기여와 빠진 이름을 적절한 사람에게 말할 방향을 읽는다.",
+          "friction": "토지의 권리와 발표 이름 표기는 다르다. 요청이 수용된다는 보장은 없다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:8:4",
+      "textSha256": "cd13d8b99dd55ea76b84129983aba3ef20fcff9755c0af4c1073395fb6f733b1",
+      "status": "hold",
+      "reason": "왕이 엘리사의 큰 일들을 들려 달라고 요청한다. 감사를 나누는 대화의 가능성은 있지만 실제 화자의 경험이나 선택은 이 절에 없다.",
+      "contextNote": "왕이 게하시에게 엘리사가 한 일을 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:8:5",
+      "textSha256": "f999b862fde6f01cadb0806e5fd42e666d988933bb63e6b68debea2d10dba65e",
+      "status": "hold",
+      "reason": "게하시가 소생 이야기를 하는 순간 당사자 여인이 자신의 집과 땅을 위해 호소한다. 마침의 우연과 증언은 보이나 이 절만으로 사용자의 선택 조건과 연결이 충분하지 않다.",
+      "contextNote": "게하시가 왕에게 수넴 여인과 아들을 가리킨다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:8:6",
+      "textSha256": "842a57f346867f9866370dd4d01712a776d9a90b8b6bd26c6be7f9c8a93a859c",
+      "status": "candidate",
+      "reason": "여인의 말을 듣고 그에게 속한 재산과 소출을 돌려주도록 한다. 상대가 더 보낸 돈을 그대로 둘지 확인하고 돌려줄지의 고민에 반환의 방향을 준다.",
+      "contextNote": "왕이 여인의 호소를 듣고 집과 땅 및 소출을 돌려주게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A010",
+          "clue": "내 것이 아닌 금액을 먼저 확인하고 정당한 사람에게 돌려줄 실마리를 읽는다.",
+          "friction": "과송금의 이유를 확정하지 않는다. 토지 소출 반환과 중고 거래의 실제 금액 및 합의는 구별한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:8:7",
+      "textSha256": "c57df7d1878dc663bf3cd560b8941bee81387ac73bbea5b4f3bf8cedccc6acea",
+      "status": "exclude",
+      "reason": "병든 왕에게 선지자가 왔다고 알리는 도입이다. 병의 진행이나 선택의 근거는 나타나지 않는다.",
+      "contextNote": "벤하닷이 병든 때 엘리사가 다메섹에 온다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:8:8",
+      "textSha256": "de97721a4e88abb1a16fb51fcd092ec996ceb8b2c3d38d319381ca3354502a09",
+      "status": "hold",
+      "reason": "왕이 병이 나을지 선지자에게 묻게 한다. 답을 알고 싶은 마음은 드러나지만 현재 치료 결과를 예측받을 수 있다고 제시할 수 없다.",
+      "contextNote": "벤하닷이 하사엘에게 선지자에게 물어보라고 보낸다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:8:9",
+      "textSha256": "fd5b1f2b929c96dd5f9b9e79809d3d6aca31281551232798bdfdcdb988ea8133",
+      "status": "hold",
+      "reason": "예물을 가지고 가서 왕의 회복 여부를 묻는다. 불확실한 병의 결과를 미리 안다는 뜻으로 일상에 옮기기 어렵다.",
+      "contextNote": "하사엘이 선물과 왕의 질문을 엘리사에게 전한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:8:10",
+      "textSha256": "8dd6f95e046c77e7d3825adcb1348499847e0fd4c7531315db1c9bee176b86d3",
+      "status": "hold",
+      "reason": "왕이 나으리라 전하라는 말과 그가 죽으리라는 계시가 함께 있다. 치유와 죽음의 모순된 긴장을 개인의 질병 결과에 대한 예언으로 제시할 수 없다.",
+      "contextNote": "엘리사가 하사엘에게 왕의 병과 죽음을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:8:11",
+      "textSha256": "f0373b7bbd77699fdc4df79f2426dcb5951c739270de0a094800cf699b52be21",
+      "status": "hold",
+      "reason": "상대를 오래 바라보고 우는 감정은 드러나지만 누가 왜 우는지는 이후에 풀린다. 독립된 절로는 슬픈 사람을 도울 선택을 정할 근거가 부족하다.",
+      "contextNote": "엘리사가 하사엘을 바라보다가 운다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:8:12",
+      "textSha256": "814dbf1c06fc0d8465bb90a848766e37c3f34085ef1e80250363d738a6fbbe25",
+      "status": "exclude",
+      "reason": "하사엘이 미래에 행할 잔혹한 살상과 파괴를 구체적으로 말한다. 상대의 미래 행동을 안다는 주장이나 극단적 폭력을 일상 선택에 적용하기 어렵다.",
+      "contextNote": "엘리사가 하사엘의 장래 폭력을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:8:13",
+      "textSha256": "f2206b5b7995abacf9ff3aa5a9d60ee89525c16f6a4adcac10d40b37c801117d",
+      "status": "hold",
+      "reason": "하사엘이 자신이 그 일을 할 수 있겠느냐 묻고 왕이 되리라는 답을 듣는다. 겸손의 물음처럼 보여도 미래 왕권을 확인해 주는 약속으로 사용하기 어렵다.",
+      "contextNote": "엘리사가 하사엘이 아람 왕이 될 것이라고 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:8:14",
+      "textSha256": "7ee19fa778a5f9c4e4284cf7683669ad7371ae24b265fc6e34f5953f9a859064",
+      "status": "hold",
+      "reason": "하사엘이 회복의 말만 전해 죽음에 관한 중요한 뒷말을 누락한 것은 앞선 대화에서 확인된다. 이 절만으로는 정직한 전달과 누락을 구분할 수 없다.",
+      "contextNote": "하사엘이 벤하닷에게 나으리라는 말만 전한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H022",
+          "clue": "불리한 사실을 함께 전할지 고민하는 사람에게 부분만 말하는 반면이 될 가능성이 있다.",
+          "friction": "H022의 물건 하자는 사용자에게 이미 알려져 있지만 본 절에는 누락된 정보가 보이지 않는다. 독자가 누락을 알아차리지 못하면 충분한 연결이 성립하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:8:15",
+      "textSha256": "3c9fc7ea57106c16e4b7378aab4261350a7d443174baba30673058fa7e040fc0",
+      "status": "exclude",
+      "reason": "하사엘이 왕을 살해하고 그 뒤 왕이 되는 사건이다. 살해와 권력 찬탈을 일상 선택의 방향으로 제시할 근거가 없다.",
+      "contextNote": "하사엘이 벤하닷을 죽이고 왕이 된다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:8:16",
+      "textSha256": "881d04792a3144901629218ccc1896eb5433286c960be8a8fa36c3768f6c3958",
+      "status": "exclude",
+      "reason": "두 왕의 재위 시기와 왕위 계승을 밝히는 역사 연대다. 사용자의 선택과 연결되는 가치나 행동이 없다.",
+      "contextNote": "여호람의 유다 왕위 계승을 연대와 함께 적는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:8:17",
+      "textSha256": "caee88de220b068f5e4e9ec4075c91855a10cb165d81d43790be285c03797e1f",
+      "status": "exclude",
+      "reason": "여호람의 즉위 나이와 통치 기간을 기록한다. 숫자 자체가 현재 지원자의 역량이나 선택 결과를 보여 주지는 않는다.",
+      "contextNote": "여호람이 서른두 살에 왕이 되어 팔 년 다스린다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:8:18",
+      "textSha256": "6016cf576273268c937025c5dc315ec2dc6c1dd089eca559dd426866c07faf04",
+      "status": "hold",
+      "reason": "여호람의 행위를 아합 집의 길과 비교하고 혼인 관계를 덧붙인다. 가까운 집단의 행동을 따르는 반면은 있지만 배우자와 혈연만으로 악을 판정해서는 안 된다.",
+      "contextNote": "여호람이 아합 집의 길을 따라 악을 행한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:8:19",
+      "textSha256": "95fcface27cc826c858b0d138810862fd2a56de7688d911a8306581bfc90d6a6",
+      "status": "hold",
+      "reason": "다윗에게 한 등불의 약속 때문에 유다를 멸하지 않으신다는 역사적 설명이다. 특정 가문에 대한 보존을 현재 개인의 미래 보장으로 옮길 수 없다.",
+      "contextNote": "하나님이 다윗의 약속을 기억하신다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:8:20",
+      "textSha256": "592dbb472d862af4fb1762d5e7dbbc8803443b09b52378c36621a7301a2ba04b",
+      "status": "exclude",
+      "reason": "에돔이 유다의 지배에서 벗어나 스스로 왕을 세운 역사적 사건이다. 개인적 독립이나 관계에서의 의무를 판단할 구체 기준은 없다.",
+      "contextNote": "여호람 때 에돔이 유다의 지배를 벗어난다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:8:21",
+      "textSha256": "f67cad733f1f00bd7b84a78ac5a4cdc87f213cca70e21958f8cc154b5074f9b2",
+      "status": "exclude",
+      "reason": "여호람의 병거와 에돔 군대의 야간 전투 및 백성의 도망을 묘사한다. 전투 배치를 현재의 선택 방향으로 단순 치환하기 어렵다.",
+      "contextNote": "여호람이 포위한 에돔 군대를 치고 백성이 달아난다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:8:22",
+      "textSha256": "2dcd1b13268e8f960c1f61739f08a4ec74570257ce57dae64bed08069a2c3905",
+      "status": "exclude",
+      "reason": "에돔과 립나가 유다를 떠난 상태에 대한 역사적 결과다. 독립을 고려하는 개인의 실제 이유나 선택 기준을 제공하지 않는다.",
+      "contextNote": "에돔과 립나의 배반을 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:8:23",
+      "textSha256": "bb1e6326342f503258830184515c44633784323429b009f02ff7a8815820f96c",
+      "status": "exclude",
+      "reason": "왕의 나머지 사적이 역대지략에 실렸는지 묻는 기록 안내다. 현재 생활의 선택을 읽을 내용은 없다.",
+      "contextNote": "여호람의 사적을 기록한 자료를 가리킨다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:8:24",
+      "textSha256": "5db5fbcf288574452ba5e469a9fdce08b9280532b9b818981404f3d2f38e3ebe",
+      "status": "exclude",
+      "reason": "여호람의 죽음과 장사 및 아들의 왕위 계승을 전한다. 상황의 경과 외에 개인적 선택의 방향은 나타나지 않는다.",
+      "contextNote": "여호람이 죽고 아하시야가 왕이 된다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:8:25",
+      "textSha256": "55eb808223f1f67fccd6f2f0da47f6772b7105ec0015803866ec1bbe0e8d44ac",
+      "status": "exclude",
+      "reason": "아하시야의 즉위 연대와 부친을 적는다. 책임 있는 역할에 지원할지 판단할 행동이나 이유는 없다.",
+      "contextNote": "유다 왕 아하시야의 즉위를 연대와 함께 소개한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:8:26",
+      "textSha256": "b9e171fffb32c922779caa06845e735da118771fc548e98fcbfbd02b6e338899",
+      "status": "hold",
+      "reason": "스물두 살에 즉위했다는 사실은 어린 지원자가 역할을 생각할 실마리일 수 있다. 다만 단명한 재위와 모친의 계보 외에 지원의 선택이나 역량은 드러나지 않는다.",
+      "contextNote": "아하시야의 나이와 재위 기간 및 모친을 소개한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:8:27",
+      "textSha256": "0120e8506122cde7a3315703b76cc7af0312d0fbc08e06b9801bbbae7c1cfff6",
+      "status": "hold",
+      "reason": "아하시야가 아합의 집과 같은 악을 행했다고 평가한다. 주변의 행동을 따라갈지를 생각할 수 있지만 혼인 관계만으로 사람의 행동을 단정하지 않아야 한다.",
+      "contextNote": "아하시야의 행위와 아합 집과의 관계를 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:8:28",
+      "textSha256": "5d369a80bccac396c5409b2806866dafae6582b2b5fe0fe74872a01f13ce073f",
+      "status": "exclude",
+      "reason": "두 왕이 함께 전쟁에 나갔고 요람이 상처 입은 사실이다. 협력의 구체적인 갈등이나 현재 선택의 판단 근거는 없다.",
+      "contextNote": "아하시야가 요람과 아람을 상대로 싸운다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:8:29",
+      "textSha256": "af7a3090b4da9c58266f78d6881bcf5b20b3c7ecd4b229b54f54d6d9e9d1aed4",
+      "status": "candidate",
+      "reason": "다친 왕을 찾아가 문안한다. 큰 문제를 해결하지 못하더라도 힘든 사람 곁에 작게 다가갈지 고민할 때 접촉의 실마리가 있다.",
+      "contextNote": "요람이 상처를 치료할 때 아하시야가 방문한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "친구의 모든 문제를 해결하지 못해도 가능한 작은 도움이나 안부를 건넬 방향을 읽는다.",
+          "friction": "친구가 다쳤다고 가정하지 않는다. 방문이 상대에게 도움이 될지는 당사자의 필요에 달려 있다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:9:1",
+      "textSha256": "a7d70a258ccd35c29ce405e4d0f2178710d2a126806b4102fd784e311f618304",
+      "status": "hold",
+      "reason": "허리를 동이고 기름병을 들고 특정 장소로 가라는 선지자의 지시다. 준비해 나서는 모습이 있으나 이 절의 임무는 왕에게 기름 붓는 특별한 역사적 의식이다.",
+      "contextNote": "엘리사가 젊은 선지자를 길르앗 라못으로 보낸다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:9:2",
+      "textSha256": "df787a6ff71249ef5cbec1a4745a1b58dec9f1d821055573781701b55518f11f",
+      "status": "candidate",
+      "reason": "특정 사람을 사람들 사이에서 불러내 골방으로 데리고 가라고 한다. 실수한 친구를 단체방에서 망신 줄지 따로 이야기할지에 조용한 대화의 실마리가 있다.",
+      "contextNote": "선지자가 예후를 찾아 별실로 데려가도록 지시한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C040",
+          "clue": "여럿 앞에서 창피를 주기보다 따로 이야기하며 다음 약속을 의논할 방향을 읽는다.",
+          "friction": "예후에게 잘못이 있었다는 뜻이 아니다. 상대의 사정과 앞으로의 약속 이행을 미리 단정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:9:3",
+      "textSha256": "8592290213c6fd543b252afa0079d2ee2f1ec961d035018065f6b1d2147915a3",
+      "status": "hold",
+      "reason": "특정 왕에게 기름을 붓고 지체 없이 떠나라는 역사적 지시다. 급히 물러날 실마리는 있으나 현재 사용자의 역할을 하나님이 정해 주셨다는 뜻으로 읽어서는 안 된다.",
+      "contextNote": "엘리사가 생도에게 예후의 왕위 선언과 퇴장을 지시한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:9:4",
+      "textSha256": "46184ec8976f18bf3ad883ac67b014a2e2cdc2175c1050fb9fa47880438009f4",
+      "status": "hold",
+      "reason": "어린 선지자가 지시받은 곳으로 실제 간다. 나이가 어린 사람의 참여가 보이지만 역할에 지원할지의 갈등이나 능력에 대한 판단은 없다.",
+      "contextNote": "소년 선지자가 길르앗 라못에 간다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:9:5",
+      "textSha256": "a08790141cd9395fcd5f7f0d464a36b66a3a2b05dd7e6a98fb1acd183ced03bb",
+      "status": "hold",
+      "reason": "여럿 가운데 특정 사람에게 할 말이 있음을 밝힌다. 대상을 분명히 하는 모습은 있으나 무엇을 왜 말해야 할지 선택의 맥락이 이 절에는 약하다.",
+      "contextNote": "소년이 장관들 사이에서 예후에게 말할 것을 알린다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:9:6",
+      "textSha256": "630a1986c10728957ab598702968e48043ca84113d49555df0bd952f325277e5",
+      "status": "hold",
+      "reason": "특정인에게 기름을 부어 이스라엘 왕으로 세우는 선언이다. 현재 사용자의 진로나 자리를 하나님의 확정된 명령으로 제시할 수 없다.",
+      "contextNote": "소년이 예후에게 기름을 붓고 왕위의 말씀을 전한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:9:7",
+      "textSha256": "7f8b8520713330adeca9b587119c05f63a85ffb4630e1d49989c61f7f348cdc4",
+      "status": "exclude",
+      "reason": "아합 집을 치고 종들의 피를 이세벨에게 갚으라는 특정한 심판 선언이다. 사용자가 상대에게 보복하라는 명령으로 옮길 수 없다.",
+      "contextNote": "예후에게 아합 집에 대한 심판을 전한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:9:8",
+      "textSha256": "975e3160b79de209a3d2df59ac089cadd98ca18fe88ffff49a741822ba81133a",
+      "status": "exclude",
+      "reason": "특정 가문의 남자들을 멸절하겠다는 심판이다. 개인이나 관계를 향한 폭력의 정당화로 사용할 수 없다.",
+      "contextNote": "아합 집의 멸망을 선언한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:9:9",
+      "textSha256": "3db1c032e977515408aa8cf0526fbd46b4b348e7c355971341a628f1bf86bd56",
+      "status": "exclude",
+      "reason": "아합 가문을 두 다른 왕가의 몰락과 같게 하겠다는 역사적 심판이다. 해당 인물들의 배경을 알아야 하며 구체 생활 선택의 방향은 없다.",
+      "contextNote": "아합 집의 운명을 여로보암과 바아사의 집에 비교한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:9:10",
+      "textSha256": "3278444e2daa778765bcbf9e39030a4fdc0c3499454ae89eda17bec67cd4981d",
+      "status": "exclude",
+      "reason": "이세벨의 시신에 관한 처참한 예고와 전령의 도망이다. 특정 인물의 죽음과 모욕을 현재 사람에게 예언하거나 적용할 수 없다.",
+      "contextNote": "이세벨의 최후를 예고하고 전령이 떠난다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:9:11",
+      "textSha256": "366841e5ee9085f8dc31766d2217d2aabd5c402fa9751edd9662f89806ecdae0",
+      "status": "hold",
+      "reason": "동료들이 방문자를 미친 사람이라 낮춰 부르며 이유를 묻고 예후가 얼버무린다. 타인을 성급히 낙인찍는 반면이 있으나 선택을 풀 행동은 절 자체에 드러나지 않는다.",
+      "contextNote": "예후가 나오자 다른 신복들이 전령을 두고 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:9:12",
+      "textSha256": "2bb69b0722e9d6e0cbb84accdae678f630d63d0ffc97102a11bc3d7e40c8f3ad",
+      "status": "hold",
+      "reason": "다른 이들의 요구에 예후가 전령에게 들은 왕위 선언을 전한다. 사실을 밝히는 모습이 있으나 실제 왕위가 주어졌다는 신적 선언을 현재 권위의 증거로 옮길 수 없다.",
+      "contextNote": "예후가 동료들에게 기름 부음의 내용을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:9:13",
+      "textSha256": "89235d358c4173e035b22f55a9fd0044222805d96e7032b2d0cb8c9ad2ee0eb9",
+      "status": "exclude",
+      "reason": "사람들이 옷을 깔고 나팔을 불며 예후를 왕으로 선포한다. 왕위 의례와 군사적 지지가 일상 역할 지원의 성공을 보장하지 않는다.",
+      "contextNote": "장관들이 예후를 왕으로 선언한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:9:14",
+      "textSha256": "454de13f31bf536474b49e76915b008dc978afaff13a53a09ed18b713b09f1e4",
+      "status": "exclude",
+      "reason": "예후의 반역과 당시 요람이 전선을 지키던 배경을 서술한다. 배신이나 전쟁의 사실만으로 현재 관계의 선택 방향을 정할 수 없다.",
+      "contextNote": "예후가 요람을 배반한 시기를 설명한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:9:15",
+      "textSha256": "ea4c6ab6284da4c43cdb5bde9f8a0d42a8ee64c78ea2094ad5b2bfe6f818673f",
+      "status": "hold",
+      "reason": "소식이 밖으로 전해지지 못하게 하라는 군사적 은폐 지시다. 정보의 독점을 반면으로 볼 수 있지만 살해를 준비하는 음모를 일상의 정보 공유에 그대로 옮기기 어렵다.",
+      "contextNote": "예후가 자신의 계획이 이스르엘에 알려지지 않도록 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:9:16",
+      "textSha256": "8a9cde2a7ed186695c18c74b9b3bac25e34bbe87ee0a913d6fc8182bbca2298c",
+      "status": "exclude",
+      "reason": "예후가 병거를 타고 가고 다른 왕이 병든 요람을 방문한 상황 설명이다. 등장인물의 위치 외에 독립적 판단 근거는 없다.",
+      "contextNote": "예후가 이스르엘로 향한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:9:17",
+      "textSha256": "99324884a732687cd14b3299bf43c563fb00c789579a728f3a3aa27dc5d24b5e",
+      "status": "candidate",
+      "reason": "망꾼이 본 무리를 알리자 왕은 사람을 보내 평안한지 묻게 한다. 상대의 의도를 모를 때 추측으로 끝내지 않고 물어볼 방향을 준다.",
+      "contextNote": "요람이 예후의 무리를 발견하고 사자를 보내 안부를 묻게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H035",
+          "clue": "소외된 것 같은 느낌을 사실로 확정하기 전에 상대와 대화해 볼 실마리를 읽는다.",
+          "friction": "군대의 접근과 모임의 관계는 다르다. 상대가 호의적이거나 배척하지 않는다고 미리 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:9:18",
+      "textSha256": "863d760569825c8827edb9aa8e69f49c58be78fda5b52b37bb76de3a548cff0c",
+      "status": "hold",
+      "reason": "사자가 안부를 묻지만 예후는 자신의 뒤로 오라고 하고 망꾼은 돌아오지 않았다고 알린다. 관찰을 전하는 부분은 있으나 여러 화자와 군사 상황이 독립적 선택 연결을 어렵게 한다.",
+      "contextNote": "첫 사자가 예후에게 가고 망꾼이 경과를 왕에게 알린다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:9:19",
+      "textSha256": "76585755ada7e35012ac07afc2efc35faf6fe618aad32ee2f37f76477e53bebe",
+      "status": "hold",
+      "reason": "두 번째 사자가 다시 안부를 묻고 예후는 뒤로 돌이키라고 답한다. 반복 질문은 보이나 특정 사자의 복종을 사용자의 관계 대화 방식으로 단정하기 어렵다.",
+      "contextNote": "두 번째 사자도 예후를 만나 같은 말을 듣는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:9:20",
+      "textSha256": "814a67a4130e1f51a98189ee9c5ab665e66f9e93454b59f54ed8c2075ed109c8",
+      "status": "hold",
+      "reason": "돌아오지 않은 사자와 급하게 모는 병거를 보고 예후 같다고 추정한다. 관찰과 추측이 나뉘지만 병거의 특수한 정황만으로 사용자 선택의 충분한 방향은 약하다.",
+      "contextNote": "망꾼이 두 번째 사자와 예후의 병거에 대해 보고한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:9:21",
+      "textSha256": "8b6594542dfaadbecbb5be1b1562446dd4013a4b85f1466c858b92234036b512",
+      "status": "exclude",
+      "reason": "두 왕이 병거를 타고 나가 나봇의 땅에서 예후와 만나는 사건이다. 만남의 장소와 수단 외에 일상 선택의 기준은 없다.",
+      "contextNote": "요람과 아하시야가 예후를 맞으러 나간다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:9:22",
+      "textSha256": "970153cac42188a3546cb91c8d1f370998883dba07238673cd50e325030fa622",
+      "status": "hold",
+      "reason": "평안하냐는 질문에 예후가 이세벨의 행위 때문에 평안할 수 없다고 답한다. 갈등을 직시하는 말은 있지만 거친 비난과 특정 역사적 평가를 타인의 성격 단정으로 옮기기 어렵다.",
+      "contextNote": "예후가 요람의 안부 물음에 이세벨을 비난한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:9:23",
+      "textSha256": "92b69e78426b3f72bfa28db0a1adde4ea4b1d2abe3feeb76bccc5eaa96f1be60",
+      "status": "hold",
+      "reason": "요람이 반역을 알아차리고 동행한 왕에게 알리며 도망한다. 위협을 알리는 장면이지만 군사적 반역을 모임의 다툼이나 일상 갈등과 동일시할 수 없다.",
+      "contextNote": "요람이 아하시야에게 반역을 알리고 돌아선다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:9:24",
+      "textSha256": "5d7afa5db5c931acdfb33847f937bf36d21e5f0ec6ade495cfbcca439865119e",
+      "status": "exclude",
+      "reason": "예후가 활로 요람을 쏘아 죽이는 구체적인 폭력 사건이다. 상대에게 해를 가하라는 일상 행동 결론으로 사용할 수 없다.",
+      "contextNote": "예후가 요람을 활로 죽인다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:9:25",
+      "textSha256": "11beb673d36a23579bc33e3074cb5c43366a63627d70952fd4fa50cf5914165e",
+      "status": "exclude",
+      "reason": "시체를 나봇의 밭에 던지도록 하고 과거 예언을 기억하라고 명한다. 시신에 대한 폭력적 처분과 특정 예언을 현재 관계의 보복에 적용할 수 없다.",
+      "contextNote": "예후가 빗갈에게 요람의 시신을 나봇의 땅에 두게 한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:9:26",
+      "textSha256": "f38fcccd6147f7b0648c2b22c34276b2ab862c2f3485a5e0b091102b72e84687",
+      "status": "exclude",
+      "reason": "나봇과 아들들의 피를 갚겠다는 역사적 심판과 시신을 밭에 던지라는 명령이다. 개인이 보복하도록 승인하거나 미래의 대가를 확정해서는 안 된다.",
+      "contextNote": "예후가 나봇에 관한 예언을 인용한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:9:27",
+      "textSha256": "94c6f9964cf5668a799e3f11eed3c6641dfe1b00a0dec9f8f0ea055b7199ce7b",
+      "status": "exclude",
+      "reason": "달아나는 아하시야를 추격해 죽이는 사건과 경로다. 살해나 죽음을 현재 상황의 선택·예언으로 삼을 수 없다.",
+      "contextNote": "예후가 유다 왕 아하시야를 쫓아 죽인다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:9:28",
+      "textSha256": "f41ccce7d7e457b49a5654e9077de45a77671a255555f1a55be392a47aaec56b",
+      "status": "exclude",
+      "reason": "신복들이 죽은 왕의 시신을 운반해 조상들과 함께 장사한 경과다. 선택의 갈등이나 일반화할 방향은 나타나지 않는다.",
+      "contextNote": "아하시야를 예루살렘에 장사한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:9:29",
+      "textSha256": "5167d552c708dcf112816afca0f4a8a50a78056c9a76da4112ba5dc39d1ec982",
+      "status": "exclude",
+      "reason": "아하시야가 왕이 된 연대를 다른 왕의 재위와 비교해 기록한다. 현재 선택에 필요한 이유나 행동이 없다.",
+      "contextNote": "아하시야의 유다 즉위 연도를 적는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:9:30",
+      "textSha256": "d4c23065d835731b8a70621ac6a7c164e71072e3a4a21d5718ffe22f48dfe416",
+      "status": "hold",
+      "reason": "이세벨이 소식을 듣고 눈과 머리를 꾸민 뒤 창밖을 본다. 외모를 정돈하는 행위는 있으나 남의 시선에 대한 불안이나 모임에 갈 선택을 본문에 추가할 수 없다.",
+      "contextNote": "예후가 오자 이세벨이 몸을 꾸미고 창에서 본다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:9:31",
+      "textSha256": "6503a46d7d23e2b3bc46394a631d53fd3184d0341fc36b88c34d0c4364b53c60",
+      "status": "hold",
+      "reason": "주인을 죽인 상대를 시므리에 빗대어 평안하냐고 묻는 대립의 말이다. 자신의 행동에 책임을 물을 수 있으나 인물과 과거 사건을 모르면 반어가 명확하지 않다.",
+      "contextNote": "이세벨이 예후를 시므리에 비유해 맞선다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:9:32",
+      "textSha256": "67d656786b234bb98b06c7c0f9e4bdc834641ac507960cc734cb8c86b415047f",
+      "status": "hold",
+      "reason": "예후가 누가 자기편인지 묻자 내시들이 내려다본다. 지지를 확인하는 질문이지만 다음 절의 살해를 위한 동조 요청이라는 문맥을 빼고 협력의 모범으로 쓰기 어렵다.",
+      "contextNote": "예후가 창가의 내시들에게 자기편을 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:9:33",
+      "textSha256": "bbf31b275425ec48f5d3209e8ba85e0060b43c072fe7d9b2c32a664ec778dcc2",
+      "status": "exclude",
+      "reason": "사람을 창밖으로 던지고 시체를 밟는 폭력적 사건이다. 타인에게 물리적 위해를 가할 결론으로 제시할 수 없다.",
+      "contextNote": "내시들이 이세벨을 던지고 예후가 시체를 밟는다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:9:34",
+      "textSha256": "257831ae2b276a79c794a1df9c29b53085f06d01a9055385ff53de76c5209bed",
+      "status": "hold",
+      "reason": "예후가 먹고 마신 후 왕의 딸이라는 이유로 시신을 장사하라고 한다. 장례의 존엄을 생각할 수 있지만 모욕적 지칭과 신분에 따른 이유를 지우고 일반적 자비로 단순화하기 어렵다.",
+      "contextNote": "예후가 이세벨을 찾아 장사하도록 명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:9:35",
+      "textSha256": "ddaa8c1e8c62016ca211aa1be52e27e951165432957f96a72f0b11ffab8f8f80",
+      "status": "exclude",
+      "reason": "장사하려 갔지만 시신의 일부만 발견하는 사후 경과다. 일상 선택의 판단 근거보다 특정 죽음의 결과에 관한 서술이다.",
+      "contextNote": "장사하러 간 사람들이 이세벨의 시신 일부만 찾는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:9:36",
+      "textSha256": "2e2c219fe1e35bd1aec129ceb65546020aa09ff9c6b20ce5ddd9027b26c12f60",
+      "status": "exclude",
+      "reason": "예후가 시신의 훼손을 과거 심판 예언의 성취로 설명한다. 현재 사람에게 폭력이나 사후 운명을 예언하는 방식으로 쓰기 어렵다.",
+      "contextNote": "예후가 엘리야의 이세벨에 대한 말을 인용한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:9:37",
+      "textSha256": "6173e9edbf06f0ec7b768e1975a57fbc40efb9c8867e039e0b635c94dca967e8",
+      "status": "exclude",
+      "reason": "식별할 수 없게 될 시신을 밭의 거름에 비유하는 특정 심판의 말이다. 타인의 죽음이나 모욕을 정당화하는 선택 근거로 쓸 수 없다.",
+      "contextNote": "이세벨 시신의 최후에 대한 예언을 이어 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:10:1",
+      "textSha256": "37295dbe2d1a1b62e2c258d6d8d25da8a62a54e5fc6ea748505eec7a90434dea",
+      "status": "exclude",
+      "reason": "아합의 아들들이 있는 곳과 예후의 편지 수신자를 소개하는 문장이다. 선택지나 행동의 이유는 이어지는 절에 있다.",
+      "contextNote": "예후가 아합 왕자들의 보호자들에게 편지를 보낸다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:10:2",
+      "textSha256": "b6012a079a3a81f98664c7091a2e7b578d2510dbd4af82c7f2e62c2f370ba474",
+      "status": "hold",
+      "reason": "왕자와 병거와 성과 무기가 있다는 조건을 열거하며 편지의 명령을 시작한다. 가진 자원을 점검하는 표현이지만 독립된 절에는 결론이 없어 선택 실마리가 약하다.",
+      "contextNote": "예후가 상대 측이 가진 군사 자원을 언급한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:10:3",
+      "textSha256": "aeaf4b48e84ea1005e9028e0db97e1b1ed09b6c16a0e97beb0dbb263d483529f",
+      "status": "hold",
+      "reason": "가장 어질고 정직한 사람을 골라 세우라는 표면의 기준이 있지만 왕가를 위한 전쟁을 촉구하는 정치적 도전이다. 선출자가 아닌 어린 지원자의 고민이나 평화로운 채용으로 그대로 옮기기 어렵다.",
+      "contextNote": "예후가 아합의 아들 가운데 왕을 세워 싸우라고 도전한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:10:4",
+      "textSha256": "b26f23c0c757cffc388c9036cc49755542c8c2833ab0827ce8151e5233ae5c75",
+      "status": "hold",
+      "reason": "두 왕도 맞서지 못했는데 자신들이 어떻게 하겠느냐며 두려워한다. 남과 비교한 위축을 비추지만 실제 전투의 위협을 지원 성공 여부처럼 예측할 수 없다.",
+      "contextNote": "왕자들을 지키는 사람들이 예후를 두려워한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:10:5",
+      "textSha256": "c1a86ce2cdf78fa40be395f219b60a6f6e559a1e1f6c6575382720eeb9e16152",
+      "status": "hold",
+      "reason": "두려운 상황에서 모든 명령에 복종하고 마음대로 하라고 권한을 넘긴다. 무비판적 동조의 반면이지만 군사적 강압과 정치적 항복의 맥락이 일상의 협조와 다르다.",
+      "contextNote": "관리와 장로들이 예후에게 복종을 약속한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:10:6",
+      "textSha256": "d535a1a5c236570edbadb9a3f1bc620b7314d4702e715409e7b384e2578fc9a4",
+      "status": "exclude",
+      "reason": "편에 서려면 왕자들의 머리를 가져오라는 강압적 살해 명령이다. 특정 사람에게 위해를 가하는 행위나 신적 지시로 옮길 수 없다.",
+      "contextNote": "예후가 보호자들에게 왕자들의 머리를 요구한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:10:7",
+      "textSha256": "ae5606d134d9c4ac0f2a592c2c0c48a3e562f598c65663b4771b982fe2e171cc",
+      "status": "exclude",
+      "reason": "왕자 칠십 명을 죽이고 머리를 보내는 대량 살해다. 폭력을 현재 선택에 일반화할 수 없다.",
+      "contextNote": "보호자들이 예후의 편지를 받고 왕자들을 죽인다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:10:8",
+      "textSha256": "801463ca69318ad526716647a1fad2215317b5bd9487ac62724a1f6e6ca10136",
+      "status": "exclude",
+      "reason": "살해된 왕자들의 머리를 문 앞에 쌓아 두라는 지시다. 잔혹한 전시와 권력 과시를 생활 선택의 실마리로 제시할 수 없다.",
+      "contextNote": "예후가 왕자들의 머리를 성문에 쌓게 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:10:9",
+      "textSha256": "b01c27d950c8de386e3b9c57a41eb20f8abbef0e49d23a37c1ef0c41e51d6fc9",
+      "status": "hold",
+      "reason": "자신이 왕을 죽였다고 인정하면서 다른 살인의 책임을 묻는다. 책임을 나누어 보는 여지는 있지만 스스로 왕자들의 죽음을 지시한 직전 맥락에서 책임 전가의 수사이기도 하다.",
+      "contextNote": "예후가 백성 앞에서 왕과 왕자들의 죽음을 언급한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:10:10",
+      "textSha256": "19c85fd27b81f6a3cd16a5ca980e77ebbe593da9032c38bcc796c45b49c5de00",
+      "status": "hold",
+      "reason": "아합 집에 대한 예언이 빠짐없이 이루어졌다는 해석이다. 다른 약속이나 사용자의 기대가 반드시 성취된다는 일반 보장으로 쓰기 어렵다.",
+      "contextNote": "예후가 엘리야를 통한 심판의 성취를 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:10:11",
+      "textSha256": "877d9ca2baea482f24789488b49027c937f4da0c346c47365a0dc320c0f96d75",
+      "status": "exclude",
+      "reason": "아합 집과 가까운 이들까지 남김없이 죽이는 사건이다. 관계나 소속을 이유로 사람을 해치는 결론을 정당화할 수 없다.",
+      "contextNote": "예후가 아합에게 속한 이들을 죽인다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:10:12",
+      "textSha256": "54f8e49c3209ede26646e980a4b1300fafcf81f8e36ca32ed284762b2d88be05",
+      "status": "exclude",
+      "reason": "예후가 사마리아로 가다가 목자의 양털 깎는 집에 이르는 이동 장면이다. 사용자의 선택에 대한 구체 기준은 없다.",
+      "contextNote": "예후가 사마리아로 가는 길에 한 장소에 이른다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:10:13",
+      "textSha256": "2de76694d5a983195e40c125b7a39d41dd4bc51c7cdbc4e980918f25ae496b85",
+      "status": "hold",
+      "reason": "예후가 만난 사람들에게 누구냐 묻자 그들이 신분과 방문 목적을 말한다. 처음 만난 상대를 확인하는 모습은 있으나 뒤에 살해되는 문맥과 한 절의 정보만으로 충분한 생활 선택은 약하다.",
+      "contextNote": "예후가 아하시야의 형제들을 만나 신분을 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:10:14",
+      "textSha256": "fc9c3b23a2b1eb3b1b2642a797b2f3884bf157375c626e626073f9480a8cfda2",
+      "status": "exclude",
+      "reason": "만난 이들을 사로잡아 사십이 명을 모두 죽이는 사건이다. 일상 갈등의 해결이나 특정인에 대한 행동 명령으로 쓸 수 없다.",
+      "contextNote": "예후가 아하시야의 형제들을 사로잡아 죽인다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:10:15",
+      "textSha256": "ca081a07f525cf81c9c7c545df48a7070f29344ddd67d3f493f8604025e63c2f",
+      "status": "candidate",
+      "reason": "함께할 사람에게 자기 마음에 대한 상대의 마음을 먼저 묻고 손을 잡는다. 공동 프로젝트를 시작하기 전 서로의 생각이 맞는지 확인할 실마리가 된다.",
+      "contextNote": "예후가 여호나답에게 마음이 서로 진실한지 묻고 병거에 태운다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C010",
+          "clue": "일단 시작하면 맞아지리라 넘기지 않고 서로 중요하게 여기는 목표와 뜻을 먼저 확인할 방향을 읽는다.",
+          "friction": "왕권과 폭력의 역사적 맥락을 작은 프로젝트와 동일시하지 않는다. 상대가 반드시 뜻을 맞출 것이라고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:10:16",
+      "textSha256": "3ee49fde740eea6c379825bece497a280593a3032ad852ee45de9cf6bda3e4ce",
+      "status": "hold",
+      "reason": "예후가 자기의 여호와를 위한 열심을 보라며 동행을 권한다. 신앙의 열심을 보이는 말이지만 바로 뒤 가문의 살해가 이어져 이를 일상의 신앙 모범으로 단순화하기 어렵다.",
+      "contextNote": "예후가 여호나답에게 자신의 열심을 보라고 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:10:17",
+      "textSha256": "9192ef3826e19a04a546c15d97ae58d204d7cae760dc09ca7a089a6114977d1d",
+      "status": "exclude",
+      "reason": "예언의 성취로 아합에게 속한 사람들을 남김없이 죽였다고 서술한다. 특정 가문의 심판과 폭력을 현재 사용자에 대한 명령으로 옮길 수 없다.",
+      "contextNote": "예후가 사마리아에서 아합에게 속한 이들을 죽인다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:10:18",
+      "textSha256": "05a4a7a67ac971586b10c4292abf7e0e2f3b6fca2e22f2da6269936de9520705",
+      "status": "hold",
+      "reason": "예후가 바알을 더욱 많이 섬기겠다고 사람들에게 선언한다. 뒤에서는 속임수로 드러나지만 이 절만 제시하면 발화의 의도와 선택 방향이 불분명하다.",
+      "contextNote": "예후가 백성 앞에서 바알을 섬기겠다고 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:10:19",
+      "textSha256": "4e072a5dce5495e0160e25f11b46c4053540164a6c7e24be3839a8df193b2c0e",
+      "status": "hold",
+      "reason": "큰 제사를 핑계로 섬기는 이들을 모으고 불참자를 위협하며 실제 목적이 살해였다고 밝힌다. 거짓 명분을 경계할 수 있지만 집단 살해의 극단적 맥락이 일상의 말 선택을 압도한다.",
+      "contextNote": "예후가 바알 숭배자를 모으려 거짓 계략을 쓴다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:10:20",
+      "textSha256": "04b997fb0be941bc92f99651967530bbf570609255853a37125bdd7275fa35b7",
+      "status": "exclude",
+      "reason": "바알을 위한 대회를 거룩히 열라는 지시와 공포다. 앞의 속임수를 빼면 생활 선택의 기준이 보이지 않고 실제 목적은 살해다.",
+      "contextNote": "예후가 바알 대회를 공포한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:10:21",
+      "textSha256": "2a8fa104ef1724040f7e3015545a61e3df558d552b86f64c39ee5c3b9e6d8276",
+      "status": "exclude",
+      "reason": "바알을 섬기는 사람들이 모여 신전을 가득 채운 경과다. 참석자 수나 공간 묘사만으로 개인 선택의 실마리는 없다.",
+      "contextNote": "예후의 소집에 바알 숭배자들이 모인다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:10:22",
+      "textSha256": "aa3b46a27749232919e4dec9779698dd5aa50bb1314cd35c8efbb2cfade6a1b2",
+      "status": "exclude",
+      "reason": "예복 담당자에게 옷을 내주라고 하는 행정 장면이다. 복장의 배분만으로 일상 구매나 나눔 선택의 근거가 되지 않는다.",
+      "contextNote": "예후가 모인 바알 숭배자들에게 예복을 준다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:10:23",
+      "textSha256": "440ed4ed3c7c469e57f737d95c2f971881e6f669679df7e050ebee40759f36c0",
+      "status": "exclude",
+      "reason": "신전에서 여호와의 종을 가려 내라는 지시가 이후의 살해를 준비한다. 종교를 기준으로 사람을 구분하고 해치는 근거로 쓰면 안 된다.",
+      "contextNote": "예후가 바알 숭배자만 신전에 남도록 확인한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:10:24",
+      "textSha256": "9da9c826d488742c977e1e7c162c081bbc0320bad4d58eece7957dff0bad6af2",
+      "status": "exclude",
+      "reason": "제사하는 이들이 도망하면 지키는 병사에게 목숨의 책임을 묻겠다는 협박이다. 폭력과 처벌의 약속을 생활 선택에 적용할 수 없다.",
+      "contextNote": "예후가 밖의 군사에게 포위와 감시를 명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:10:25",
+      "textSha256": "190d56f1355989427a71c7c41d97a51848ada054343e3b7596959e9196843e65",
+      "status": "exclude",
+      "reason": "예후의 명령으로 신전의 사람들을 칼로 죽이고 시신을 버리는 사건이다. 종교적 차이에 대한 폭력이나 일상의 보복을 정당화할 수 없다.",
+      "contextNote": "예후의 군사들이 바알 숭배자들을 죽인다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:10:26",
+      "textSha256": "8934aa87c312756b26c94274161814bb7a57a2a84c144f81c157cf5a18b27d5d",
+      "status": "exclude",
+      "reason": "바알의 신전에서 목상들을 가져다 불사르는 역사적 정화 장면이다. 타인의 물건이나 신앙을 파괴하는 지시로 사용할 수 없다.",
+      "contextNote": "예후의 군사들이 바알 목상들을 불사른다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:10:27",
+      "textSha256": "c9eac45ecb1f7d7cf2d5515769aa4faff9fdc9f61ce44717d82b809791dbe73e",
+      "status": "exclude",
+      "reason": "목상과 신전을 파괴하여 변소로 만들었다는 설명이다. 특정 종교 시설을 훼손하는 행동을 현재 사용자에게 옮길 수 없다.",
+      "contextNote": "예후가 바알의 신전과 목상을 헌다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:10:28",
+      "textSha256": "87493a6e79b79f9245dbda43afc8e13d3f680b897b09cb1e38ac2c4a697e0de6",
+      "status": "hold",
+      "reason": "예후가 바알을 없앴으나라는 미완성 문장이다. 뒤에 이어질 남은 문제를 포함하지 않으면 일상의 선택 기준을 알기 어렵다.",
+      "contextNote": "예후의 바알 제거를 서술하고 다음 절의 대조로 이어진다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:10:29",
+      "textSha256": "ca1c88c7b4928243fd80f6982baff08cd9641b62258f7df617b2602185e800c2",
+      "status": "hold",
+      "reason": "바알은 없앴으나 금송아지 숭배는 버리지 않았다는 대조다. 일부를 고쳐도 남은 행동을 돌아볼 수 있으나 역사적 우상과 지명의 설명 없이 반복되는 말버릇에 바로 연결하기 어렵다.",
+      "contextNote": "예후가 여로보암의 금송아지 숭배는 버리지 않는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:10:30",
+      "textSha256": "d706dc02455a914c5708f86bd5640862f50f6176131241339132e622be34fbdc",
+      "status": "hold",
+      "reason": "예후의 특정 행동을 평가하고 자손 사 대의 왕위를 약속하는 말씀이다. 현재 사용자나 그 자손의 성공이 하나님께 보장됐다는 식으로 옮길 수 없다.",
+      "contextNote": "하나님이 예후에게 아합 집에 대한 행위와 왕위 계승을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:10:31",
+      "textSha256": "26b23da82123681d3f2552fd89d91dbedd6ff8d13cadc2ff78f4288f298bdded",
+      "status": "candidate",
+      "reason": "하나님을 따른다는 위치에 있으면서도 온 마음으로 행하지 않고 이전의 죄를 계속한다. 용서의 말만으로 넘길지 반복되는 습관을 바꿀지의 자기 점검에 닿는다.",
+      "contextNote": "예후가 율법을 온전히 따르지 않고 여로보암의 죄를 계속한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "C030",
+          "clue": "용서를 바라는 마음과 실제 말버릇의 변화를 함께 돌아볼 실마리를 읽는다.",
+          "friction": "여로보암의 우상 숭배와 사용자의 거친 말은 다른 일이다. 누가 하나님 앞에 용서받았는지 서비스가 판정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:10:32",
+      "textSha256": "0845dd3dd00f364d1ada7625d8a20d46c83bd16eca80378e55df01b4e6bbf6da",
+      "status": "exclude",
+      "reason": "이스라엘의 영토가 줄고 하사엘이 여러 곳을 친 역사적 사건이다. 현재의 손실이나 공격을 예언하는 근거로 쓸 수 없다.",
+      "contextNote": "하사엘이 이스라엘의 여러 지역을 공격한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:10:33",
+      "textSha256": "5aa1693f0b327a15f3361deb3816c421408d9ee909f559d0b0f739b712b7db72",
+      "status": "exclude",
+      "reason": "요단 동쪽에서 침략당한 땅과 지파의 지리적 범위를 열거한다. 생활 선택의 행동이나 기준은 나타나지 않는다.",
+      "contextNote": "하사엘이 친 길르앗과 바산 지역의 범위를 밝힌다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:10:34",
+      "textSha256": "6369a210929d7d84e9c0417dbb3a6c34a99b67d97ebd8d11bb111e8f7d1522eb",
+      "status": "exclude",
+      "reason": "예후의 나머지 행적과 권세가 다른 기록에 쓰였는지 묻는다. 현재 결정을 비출 구체 내용은 없다.",
+      "contextNote": "예후의 사적이 실린 역대지략을 가리킨다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:10:35",
+      "textSha256": "3fa6f7f8f299d9771d75d103139d6d3d9b32e177a27be94f221c483cdc37447e",
+      "status": "exclude",
+      "reason": "예후의 사망과 장사 및 아들의 왕위 계승을 기록한다. 개인의 선택을 위한 기준은 나타나지 않는다.",
+      "contextNote": "예후가 죽고 여호아하스가 왕이 된다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:10:36",
+      "textSha256": "9fae64335fd72c9f6fa24bd19ec366008cdb354e2279fdc000afcb3e59ee88cb",
+      "status": "exclude",
+      "reason": "예후가 사마리아에서 다스린 기간을 숫자로 기록한다. 그 기간만으로 일상의 선택 방향을 정할 수 없다.",
+      "contextNote": "예후의 이십팔 년 통치 기간을 적는다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:11:1",
+      "textSha256": "6c5181bac15e85efa828615ef6a92669c0c45cc1f2da1e15b20114ed850e2521",
+      "status": "exclude",
+      "reason": "아달랴가 아들의 죽음 뒤 왕의 자손들을 죽이는 사건이다. 상실에 대한 반응이나 폭력을 현재 사용자에게 일반화할 수 없다.",
+      "contextNote": "아달랴가 왕가의 자손들을 죽인다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:11:2",
+      "textSha256": "f6f9673a821bd32d48827b30647b3d1a03f17ad503e67323f3d7ca1b86600bfd",
+      "status": "candidate",
+      "reason": "위험에 놓인 아이를 다른 사람이 몰래 빼내 숨겨 생명을 지킨다. 사람이 다칠까 염려될 때 방관하지 않고 말릴지의 선택에 보호의 실마리가 있다.",
+      "contextNote": "여호세바가 요아스와 유모를 숨겨 아달랴의 살해를 피하게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A007",
+          "clue": "모임의 폭력적인 분위기에 동조하기보다 누군가 다치지 않도록 개입할 방향을 읽는다.",
+          "friction": "친구들 사이의 싸움과 왕자 살해 위협의 크기를 같게 보지 않는다. 숨기거나 위법한 행동을 재현하라는 뜻도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:11:3",
+      "textSha256": "4c07f0d1d3e50594b938acd5b440ceb1b78961945ee6047a1baa814dcacc4813",
+      "status": "hold",
+      "reason": "어린 왕자가 여섯 해 숨어 있는 동안 아달랴가 다스렸다는 경과다. 보호가 이어진 상황은 보이나 이 절만으로 지금 어떤 선택을 할지는 분명하지 않다.",
+      "contextNote": "요아스가 성전에 숨어 지내는 동안 아달랴가 통치한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:11:4",
+      "textSha256": "8a5bedd4e7463869b3932e25b08c35a2554153dca921590d58bf354bfdaea28d",
+      "status": "hold",
+      "reason": "여호야다가 지휘관들과 언약을 맺고 맹세하게 한 후 왕자를 보여 준다. 함께할 사람과 뜻을 확인하는 여지는 있으나 왕위 계승과 종교적 맹세의 구체 맥락이 일상 동업과 다르다.",
+      "contextNote": "여호야다가 지휘관들과 성전에서 언약을 세우고 왕자를 보인다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:11:5",
+      "textSha256": "1eff5f7d20e1af357472b16959f9190bf83f43a0bacb418da647c40080a3396e",
+      "status": "hold",
+      "reason": "근무자 일부에게 왕궁을 지킬 몫을 지정한다. 일을 나누는 모습은 있으나 이 한 절에 다른 몫과 업무의 전체 배분은 제시되지 않는다.",
+      "contextNote": "여호야다가 안식일 근무자 삼분의 일의 경비 임무를 정한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:11:6",
+      "textSha256": "1a1296f4360febe4b29f8aeaf0ee308d8741423f1a1a115256c9d29ae62c20b8",
+      "status": "candidate",
+      "reason": "서로 다른 문과 위치에 인원을 나누어 맡겨 한곳을 보호한다. 혼자 자잘한 일까지 붙든 팀 책임자가 역할을 나눌 실마리를 읽을 수 있다.",
+      "contextNote": "여호야다가 경비 인원을 각 위치에 분담한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A009",
+          "clue": "모든 일을 혼자 떠안기보다 필요한 위치별 역할을 팀원에게 나눌 방향을 읽는다.",
+          "friction": "왕궁 군사 경비와 팀 작업을 동일시하지 않는다. 나눈 일의 결과와 팀원의 수락은 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:11:7",
+      "textSha256": "4d9db12a397049ffe0b916790e535835fa56372f649cc2b81c4bcb1b54c1c7b9",
+      "status": "hold",
+      "reason": "퇴번하는 사람 중 두 대가 성전을 지키고 왕을 호위한다. 역할 분담은 보이나 특정 군사 교대의 수와 임무만으로 현재 협업의 충분한 판단 근거는 약하다.",
+      "contextNote": "여호야다가 퇴번자의 경비 역할을 정한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:11:8",
+      "textSha256": "5f5c936d3d2e9a384f3c54df999f3de03ab84df9e65f53f800c78a0ee58f3e3e",
+      "status": "exclude",
+      "reason": "무장해 왕을 지키고 대열을 침범하는 사람을 죽이라는 경비 명령이다. 타인을 해치는 행동 지시로 옮길 수 없다.",
+      "contextNote": "여호야다가 호위병의 무장과 처벌을 명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:11:9",
+      "textSha256": "7c2d90bb0a67ea3d84157d6edc4a97e220f39f201d9e36366f0b2436acd5708e",
+      "status": "exclude",
+      "reason": "백부장들이 지시에 따라 교대할 사람들을 이끌고 오는 진행 장면이다. 단순 복종만으로 사용자 자신의 선택 조건을 알 수 없다.",
+      "contextNote": "백부장들이 여호야다의 지시대로 인원을 모은다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:11:10",
+      "textSha256": "4a1b64e38012e77a1af022dca2a656879836b6445faa38a7f57be561be40379f",
+      "status": "exclude",
+      "reason": "제사장이 성전에 보관된 왕의 창과 방패를 백부장들에게 준다. 무기 지급 사실만으로 자원 배분의 공정성이나 일상 선택을 판단할 수 없다.",
+      "contextNote": "여호야다가 백부장들에게 다윗의 무기를 준다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:11:11",
+      "textSha256": "109c14d1e0bed5ecdc1d4e412d0dcbc87a89992330359916c6d0956b76049c33",
+      "status": "exclude",
+      "reason": "무장한 호위병들이 성전의 좌우에 서서 왕을 지키는 군사 배치다. 생활 선택의 구체 방향은 나타나지 않는다.",
+      "contextNote": "호위병들이 성전에서 왕을 둘러 지킨다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:11:12",
+      "textSha256": "66cf55190d5bfa753feb505a68fd10a4176c91c17337d7767b488a02a3f83326",
+      "status": "hold",
+      "reason": "왕자에게 왕관과 율법 책을 주고 기름을 부으며 무리가 축하한다. 어린 사람을 지지하는 모습이 있으나 맡은 역할에 스스로 지원할지의 선택은 등장하지 않는다.",
+      "contextNote": "여호야다가 요아스를 왕으로 세우고 사람들이 기뻐한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:11:13",
+      "textSha256": "3389044cf28580c5fb5839b5cd291944849b3cad0c9820da4a16627e9b472fc1",
+      "status": "exclude",
+      "reason": "아달랴가 사람들의 소리를 듣고 성전에 들어가는 연결 문장이다. 무엇을 보고 어떻게 반응했는지는 다음 절에 나온다.",
+      "contextNote": "아달랴가 호위병과 백성의 소리를 듣고 간다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:11:14",
+      "textSha256": "67e7483311dbdfdf51d4f1a2d4a50adcab5de0928b4ce914075420e06176bebb",
+      "status": "hold",
+      "reason": "사람들의 기쁨과 아달랴의 반역이라는 외침이 대조된다. 같은 상황을 다르게 받아들이는 모습은 있으나 역사적 왕위 쟁탈의 반응을 일상 관계의 오해로 단정할 수 없다.",
+      "contextNote": "아달랴가 왕의 즉위와 백성의 기쁨을 보고 외친다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:11:15",
+      "textSha256": "d8493642fd769687eb766ac67a96c6eb0699c44a3575beeec059f6ddb9119960",
+      "status": "exclude",
+      "reason": "행렬 밖으로 몰고 추종자는 칼로 죽이라는 지시와 성전 안 살해 금지다. 상대에 대한 위협이나 폭력의 처방으로 사용할 수 없다.",
+      "contextNote": "여호야다가 아달랴와 그 추종자를 처리하도록 명한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:11:16",
+      "textSha256": "f4c098a7485b5cb53cba5943d7405b5e3626d7bf450aed8ef19225ad5c8ad8e4",
+      "status": "exclude",
+      "reason": "아달랴가 왕궁의 길에서 죽임을 당하는 사건이다. 특정 인물의 죽음을 현재 관계의 행동이나 미래로 제시할 수 없다.",
+      "contextNote": "아달랴가 왕궁 부근에서 죽는다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:11:17",
+      "textSha256": "3e73ceb1f991cac1cbc698998d3efedc71b8d5aaca3bd7f8675e7907d71dd5b8",
+      "status": "candidate",
+      "reason": "왕과 백성이 하나님 앞에서 약속하고 서로 사이에도 언약을 세운다. 다른 목표를 가진 두 사람이 함께 시작하기 전에 뜻을 맞출 방향을 준다.",
+      "contextNote": "여호야다가 왕과 백성 및 하나님 사이의 언약을 세운다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C010",
+          "clue": "같이하기만 하면 맞춰질 것이라 가정하기보다 서로 원하는 목표와 방식을 먼저 의논할 실마리를 읽는다.",
+          "friction": "성전의 신앙 언약과 작은 프로젝트 계약은 다르다. 상대의 동의나 성공을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:11:18",
+      "textSha256": "a787abda62611c4cf5c3e4c6a5dc0b848526c97cd8976eb178ce3bad0ed20724",
+      "status": "exclude",
+      "reason": "신전을 부수고 제사장을 죽이는 사건과 성전 관리인 임명이다. 종교 시설의 훼손과 살해를 타인에 대한 행동으로 정당화할 수 없다.",
+      "contextNote": "백성이 바알 신전을 파괴하고 여호와의 전을 지키게 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:11:19",
+      "textSha256": "0de77f64cce16e9100d2f6a3be2689bfaaa1a14b48e93fcf3c3518d468b48c77",
+      "status": "exclude",
+      "reason": "사람들이 왕을 성전에서 궁으로 인도해 왕좌에 앉히는 즉위 경과다. 역할 지원자의 선택이나 능력은 묘사하지 않는다.",
+      "contextNote": "요아스가 호위 속에 왕궁의 보좌에 앉는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:11:20",
+      "textSha256": "5100ba332bcf46f7c7ddb9cc822892084e56acf4beb3dcfa5e282b684d30011d",
+      "status": "hold",
+      "reason": "사람들이 기뻐하고 성이 평온했으며 아달랴가 칼에 죽었다는 진술이 함께 있다. 평온의 앞부분만 떼어 현재 갈등의 결과를 보장할 수 없다.",
+      "contextNote": "아달랴의 죽음 뒤 백성과 성의 상태를 전한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:11:21",
+      "textSha256": "1213f80d45552e7d48524064a7ace02f5d839d2a47d92a98575399c9f30cbbed",
+      "status": "candidate",
+      "reason": "일곱 살에 왕위에 오른 사실이 나이가 적다는 이유만으로 책임 있는 역할을 생각하지 못하는 마음을 흔든다.",
+      "contextNote": "요아스가 일곱 살에 왕위에 오른다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "R013",
+          "clue": "다른 지원자보다 어리다는 사실만으로 지원을 미리 포기할지 돌아볼 실마리를 읽는다.",
+          "friction": "어린 왕의 세습 즉위와 사용자가 직접 운영진에 지원하는 일은 다르다. 역량이나 선발을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:12:1",
+      "textSha256": "b5eb0afb57bb39f0eb909b24a3c0bcab769ce0c0585a385424347dfb7a784001",
+      "status": "exclude",
+      "reason": "요아스의 즉위 시기와 통치 기간, 모친의 이름과 출신을 기록한다. 개인의 선택 방향을 가를 내용은 없다.",
+      "contextNote": "요아스의 재위와 모친을 소개한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:12:2",
+      "textSha256": "9c47984b9eb3fe0e02866545dca5cb7471b036d24fd7096888436981b395ef74",
+      "status": "candidate",
+      "reason": "교훈을 받는 동안 바르게 행했다는 서술이 배움을 받아들이는 태도를 보여 준다. 경험이 부족한 운영자가 아는 척할지 사람들의 말을 듣고 배울지의 고민에 닿는다.",
+      "contextNote": "요아스가 여호야다의 교훈을 받으며 바르게 행한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A042",
+          "clue": "부족함을 숨기고 혼자 정하기보다 경험 있는 사람에게 배우며 도움을 구할 실마리를 읽는다.",
+          "friction": "조언자가 언제나 옳거나 운영 결과가 반드시 좋다는 뜻은 아니다. 왕과 제사장의 관계를 동아리에 그대로 적용하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:12:3",
+      "textSha256": "0786beeec0876d9ccd74727d7186bbce4d0135afe3cafe1c167adbe400eef15a",
+      "status": "hold",
+      "reason": "산당을 없애지 않아 백성이 거기에서 계속 제사했다는 기록이다. 고치지 않은 부분을 돌아볼 여지는 있으나 실제 사용자의 신앙 행위나 우상 숭배를 임의로 가정할 수 없다.",
+      "contextNote": "요아스 시대에 산당 제사가 계속된다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:12:4",
+      "textSha256": "12ad2dc04783733e4213165aae7babc19ce9c7a5838fa14f8d225ecb19770958",
+      "status": "hold",
+      "reason": "성전에 드리는 여러 종류의 은을 열거하는 미완성 문장이다. 그 돈을 어디에 쓰라는지는 다음 절에 이어져 한 절만으로 선택 방향이 없다.",
+      "contextNote": "요아스가 성전에 드리는 은의 종류를 말한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:12:5",
+      "textSha256": "8238757bd2f5a1b34a0864d62fe3051ddbad8cef9dd3b682db31dba2d89cc7d0",
+      "status": "candidate",
+      "reason": "모인 돈으로 건물의 낡은 곳을 발견하면 수리하라고 한다. 이미 확인한 무대 장치의 헐거움을 그냥 넘길지 담당자에게 알릴지에 실제 조치의 방향이 있다.",
+      "contextNote": "요아스가 제사장들에게 성전의 낡은 곳을 수리하게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C028",
+          "clue": "불편한 말을 피하기보다 알려서 사용 전에 확인하고 필요한 수리를 받게 할 실마리를 읽는다.",
+          "friction": "장치의 상태를 넘어서 사고가 이미 났다고 가정하지 않는다. 직접 수리할 능력이나 권한도 추정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:12:6",
+      "textSha256": "46e7ba275e61b0934e8c8f359cd365c74b7bcee768ffc24de9a09adaba636b37",
+      "status": "hold",
+      "reason": "오랜 기간 제사장들이 낡은 곳을 수리하지 않았다는 사실이다. 미뤄진 문제에 주목할 수 있지만 왜 미뤘는지나 무엇을 바꿀지는 이 절만으로 알 수 없다.",
+      "contextNote": "요아스 이십삼 년에도 성전 수리가 이루어지지 않았다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:12:7",
+      "textSha256": "417be033f719abff748a1f8f13633c501550ccd250dd531af6e8181b70e57d75",
+      "status": "candidate",
+      "reason": "수리가 되지 않는 이유를 묻고 모인 은이 실제 수리에 쓰이도록 처리 방식을 바꾼다. 돈을 모아 놓고 수리를 미루는 공동 장비 고민을 구체적으로 비춘다.",
+      "contextNote": "요아스가 제사장들에게 수리 지연을 묻고 헌금 처리 방식을 바꾼다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A051",
+          "clue": "그대로 기다리기보다 미뤄진 수리를 다시 꺼내고 담당과 지출 방식을 정할 방향을 읽는다.",
+          "friction": "제사장의 횡령이나 특정 동아리원의 고의적 잘못을 가정하지 않는다. 수리 가능 시점과 비용을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:12:8",
+      "textSha256": "959012fb0be42b7af35ea06efdf0c8cce921a100304a87c9d34ad1ae29e9a06c",
+      "status": "hold",
+      "reason": "제사장들이 다시 돈을 받거나 낡은 곳을 수리하지 않기로 동의한다. 역할을 변경하는 합의이지만 다음 담당자가 이 절에는 드러나지 않아 선택의 맥락이 부족하다.",
+      "contextNote": "제사장들이 새로운 성전 수리 방식에 응한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:12:9",
+      "textSha256": "113de01b7d158de86de63d3481db2253d34096ef4121b9d1b291dd5c873ca88f",
+      "status": "hold",
+      "reason": "성전 입구에 구멍 낸 궤를 두고 가져온 은을 모은다. 정해진 모금 방법은 보이지만 돈을 낼지 아낄지의 개인적 갈등은 드러나지 않는다.",
+      "contextNote": "여호야다가 성전에 헌금 궤를 설치한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:12:10",
+      "textSha256": "6fb5057d79f3f966368de143f1de7a9868ad12a418e6e05d210058e48b67d39c",
+      "status": "hold",
+      "reason": "궤에 모인 돈을 서기와 제사장이 함께 세어 봉한다. 투명한 공동 관리의 여지는 있지만 무엇을 위해 쓰거나 각자에게 나눌지는 이 절에 없다.",
+      "contextNote": "모인 성전의 은을 계수해 봉한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:12:11",
+      "textSha256": "ebd3b674157ba527eac4f709f6504f034b8747de0ed501fade39044180012f64",
+      "status": "candidate",
+      "reason": "모은 은을 건물을 수리하는 목수와 건축 노동자에게 준다. 상당한 작업을 무료로 받는 대신 비용을 내겠다고 할지의 고민에 보수의 방향이 있다.",
+      "contextNote": "성전 수리 담당자들이 일하는 목수와 건축자에게 은을 준다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B005",
+          "clue": "친구의 상당한 작업을 당연한 무료 도움으로만 받지 않고 정당한 비용을 제안할 실마리를 읽는다.",
+          "friction": "제사장의 공사 고용과 무료 도움을 먼저 제안한 친구의 관계는 다르다. 친구가 금액을 수락한다고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:12:12",
+      "textSha256": "c401d27f29e6f7c61b5fedc7aedc108900f1bc4621059edb35d68848ed1dc87e",
+      "status": "candidate",
+      "reason": "일하는 사람에게 돈을 주고 낡은 곳을 고칠 재료를 사서 수리에 쓴다. 수리비는 모였으나 실제 진행을 미루는 고민에 목적에 맞게 사용해 일을 진행할 방향을 준다.",
+      "contextNote": "성전 수리의 임금과 재료비 지출을 기록한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A051",
+          "clue": "모아 둔 돈을 그대로 두기보다 필요한 사람과 재료에 써서 수리를 진행할 실마리를 읽는다.",
+          "friction": "동아리 장비의 필요한 수리비나 담당자의 수락을 미리 확정하지 않는다. 성전 공사와 장비 수리의 규모는 다르다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:12:13",
+      "textSha256": "81e98f0af6451ae792ca38741faa89d207db07d86217a735e19291be4f9779dc",
+      "status": "candidate",
+      "reason": "성전에 드린 돈으로 새 금·은 기구들을 만들지 않는다. 수리하기로 모은 돈을 눈에 띄는 다른 물건에 쓸지 고민할 때 우선순위를 돌아보게 한다.",
+      "contextNote": "성전 수리용 헌금으로 다른 기구를 만들지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A052",
+          "clue": "의자 수리용으로 모은 돈을 당장 갖고 싶은 새 장식에 쓰지 않을 방향을 읽는다.",
+          "friction": "본문의 금·은 기구가 단순한 장식이었다고 단정하지 않는다. 모금 목적과 부족하다는 사례의 조건만 사용한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:12:14",
+      "textSha256": "eff849a3b7af5c759da31a2d77a165980ba00fde0d56a45c8001cc62ca95ad9d",
+      "status": "candidate",
+      "reason": "모은 은을 일하는 사람에게 주어 실제 건물을 수리하게 한다. 모금 뒤 실행되지 않은 공동 장비 수리에 돈과 역할을 연결할 실마리다.",
+      "contextNote": "성전 헌금이 일꾼을 통해 건물 수리에 쓰인다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A051",
+          "clue": "수리비를 쌓아두는 데 그치지 않고 담당자를 정해 고치는 데 쓸 방향을 읽는다.",
+          "friction": "수리가 바로 끝나거나 필요한 비용이 충분하다고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:12:15",
+      "textSha256": "1884049fdd0ec595b108c77f969592a5eec0d344271123d016f32efd2dc6908c",
+      "status": "hold",
+      "reason": "맡은 사람들이 성실히 일했기에 별도로 회계하지 않았다고 설명한다. 실제로 확인된 신뢰가 있는 장면이지 누구에게나 돈을 맡긴 뒤 검증하지 말라는 일반 규칙이 아니다.",
+      "contextNote": "수리비를 전달하는 이들이 성실하여 회계를 요구하지 않는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:12:16",
+      "textSha256": "e81482f861ba335c4f22fa3aec6dd313df9c550721be211e13ff7a8ed46cc58f",
+      "status": "exclude",
+      "reason": "속건제와 속죄제의 돈을 성전 수리비가 아닌 제사장에게 돌린다는 규정 기록이다. 해당 제의의 배경 없이 일반 생활의 지출 선택에 직접 대응하기 어렵다.",
+      "contextNote": "두 제사의 은이 제사장 몫으로 돌아간다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:12:17",
+      "textSha256": "a4420678a145da1d67efb25192b144049199ece06e730f9cf04f0b0607983ff1",
+      "status": "exclude",
+      "reason": "아람 왕이 가드를 취하고 예루살렘 공격을 계획한 전쟁 경과다. 현재 관계나 돈에 닥칠 위험을 예측하는 근거가 없다.",
+      "contextNote": "하사엘이 가드를 점령하고 예루살렘으로 향하려 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:12:18",
+      "textSha256": "32dac78770afde608d943bedbb195e5454062e643f08fbc1cd880362ee1d34a3",
+      "status": "hold",
+      "reason": "왕이 성물과 금을 보내자 침공자가 물러난다. 위기에서 가진 것을 사용한다는 생각은 가능하지만 많은 귀중품을 바쳐 군사 위협을 피한 결과를 현재 금전 선택의 성공으로 보장할 수 없다.",
+      "contextNote": "요아스가 하사엘에게 성물과 금을 보내자 그가 떠난다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:12:19",
+      "textSha256": "26c5bc49d797325e6cd912c7a08e1e5c9d1405c6ddcc95145ca1a9ceb86d594e",
+      "status": "exclude",
+      "reason": "요아스의 나머지 사적이 다른 기록에 적혔는지 묻는 문장이다. 생활 선택에 필요한 갈등이나 방향은 없다.",
+      "contextNote": "요아스의 사적이 유다 왕의 기록에 실렸음을 가리킨다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:12:20",
+      "textSha256": "c63483b9b980122eb6db76dc2a1bdc93419035352694b1d695c4c67b0f42d0e6",
+      "status": "exclude",
+      "reason": "신하들이 모반해 왕을 죽인 사건과 장소의 기록이다. 현재 누군가의 배신이나 죽음을 예측할 수 없다.",
+      "contextNote": "신복들이 모반하여 요아스를 죽인다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:12:21",
+      "textSha256": "8dc389fad2fbdd8fec6dd111dbac6f2deb53099221f9852af43de46ad767427e",
+      "status": "exclude",
+      "reason": "왕을 죽인 신복들의 이름과 장사 및 왕위 계승을 기록한다. 명단과 사망 경과가 생활 선택의 실마리를 제공하지 않는다.",
+      "contextNote": "요아스를 죽인 사람들과 뒤를 이은 왕을 밝힌다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:13:1",
+      "textSha256": "a9333dc2cfc95153bdb10016df24d668997f8aa3b55473872033ad4ac70b3e2e",
+      "status": "exclude",
+      "reason": "여호아하스의 즉위 시기와 통치 기간을 다른 왕의 연대와 함께 적는다. 현재 선택에 대한 판단 근거는 없다.",
+      "contextNote": "여호아하스의 이스라엘 재위를 소개한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:13:2",
+      "textSha256": "97fcb5a16bbb409b5a8e894c7b686db2e1e05eab4e14481ae4ae9d7fbd2aaa3a",
+      "status": "hold",
+      "reason": "악을 행하고 앞선 죄에서 떠나지 않았다는 기록이다. 반복되는 잘못을 돌아볼 여지는 있으나 무슨 행동을 할지는 특정 인물과 앞선 역사에 의존한다.",
+      "contextNote": "여호아하스가 여로보암의 죄를 따른다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:13:3",
+      "textSha256": "5c3f67dea866e1fc54dcf311dafa5c267df998bd1765063de57746303268bb24",
+      "status": "exclude",
+      "reason": "하나님이 이스라엘을 아람 왕들에게 넘기신 특정 역사적 심판이다. 현재 피해가 하나님의 분노 때문이라고 판단할 수 없다.",
+      "contextNote": "이스라엘이 아람 왕들의 지배를 받게 된다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:13:4",
+      "textSha256": "398afaac415cfece4a4297af4423fbed7da1406cb02f264c202288b849b8f88e",
+      "status": "candidate",
+      "reason": "학대받는 어려움 속에서 여호아하스가 하나님께 간구하고 하나님이 그 고통을 보셨다고 한다. 억울한 일을 겪고 기도할지 고민할 때 마음을 털어놓는 실마리가 있다.",
+      "contextNote": "아람의 학대 속에서 여호아하스가 간구하고 하나님이 들으신다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A053",
+          "clue": "상황이 어떻게 바뀔지 모르더라도 지금의 억울함을 하나님께 기도로 말할 방향을 읽는다.",
+          "friction": "전쟁과 국가의 학대를 직장 내 공로 문제와 같게 보지 않는다. 상사의 행동이나 기도의 구체 결과를 미리 확인해 주지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:13:5",
+      "textSha256": "a83f6dbdbb1b7b1f703760a03cef7f9ffa790357b3a177b774e7d095dd406c9a",
+      "status": "hold",
+      "reason": "하나님이 구원자를 주셔서 백성이 지배에서 벗어나 평소처럼 살게 되었다는 구체적 결과다. 현재 문제의 해결 시기나 방식이 보장된다는 예언으로 쓰기 어렵다.",
+      "contextNote": "이스라엘이 아람의 손에서 벗어나 장막으로 돌아간다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:13:6",
+      "textSha256": "5e7f6810efe790efede44a1f1d878ea49afa49d6a64861aef6223ad3917e0411",
+      "status": "hold",
+      "reason": "이전의 죄를 계속 따르고 목상도 남겨 둔 역사적 설명이다. 변하지 않은 행동에 주목할 수 있으나 구체 죄와 배경을 모르면 현재 선택의 방향은 약하다.",
+      "contextNote": "이스라엘이 여로보암의 죄를 떠나지 않고 목상을 남긴다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:13:7",
+      "textSha256": "3077dd51c2b43f70e14566d5d535440dd1ef7a385102a6064e73b9131bd5d8f1",
+      "status": "exclude",
+      "reason": "아람 왕이 이스라엘 병력을 심하게 줄였다는 군사적 피해와 남은 수의 기록이다. 개인의 미래 상실이나 규모를 예언할 수 없다.",
+      "contextNote": "여호아하스에게 남은 군사의 수를 적는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:13:8",
+      "textSha256": "33a522317ebb851802bbb0b3417440bf108e77870b56f7b4218b01b11d7dfe6a",
+      "status": "exclude",
+      "reason": "여호아하스의 행적과 권세가 다른 기록에 적혔는지 묻는다. 현재 선택을 위한 구체적 행동과 갈등은 없다.",
+      "contextNote": "여호아하스의 사적을 이스라엘 왕 역대지략에 연결한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:13:9",
+      "textSha256": "1d30effbc8cb147fd90d5fbd4659e5b3b2834027e3195c9e3ce97c45cf9d72f0",
+      "status": "exclude",
+      "reason": "여호아하스의 죽음과 장사 및 아들의 왕위 계승을 전한다. 일상 결정에 필요한 기준은 제시되지 않는다.",
+      "contextNote": "여호아하스가 죽고 요아스가 왕이 된다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:13:10",
+      "textSha256": "41582be0e1834e9036d1121c06071dc8c0bded4d6b5d9875911e73298b8b7b56",
+      "status": "exclude",
+      "reason": "요아스가 왕이 된 연대와 십육 년의 통치 기간을 기록한다. 시간의 숫자가 현재 선택이나 그 결과를 말해 주지 않는다.",
+      "contextNote": "이스라엘 왕 요아스의 재위를 소개한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:13:11",
+      "textSha256": "52c76d0981aa904b87540709ce50d5cc5e5732ded31a81bc885f5e69686ee419",
+      "status": "hold",
+      "reason": "선행 왕의 죄를 계속 좇았다는 평가다. 반복된 행동을 반성할 여지는 있지만 죄의 내용이 이 절에 없어 일상 사례에 바로 적용하기 어렵다.",
+      "contextNote": "요아스가 여로보암의 죄를 떠나지 않았다고 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:13:12",
+      "textSha256": "59918fad8f921f53019a02aede6da73b089cf9645f56fc7bbf2e3152deb8eacf",
+      "status": "exclude",
+      "reason": "왕의 나머지 사적과 전쟁의 권력이 역사 기록에 적혔는지 묻는다. 전쟁의 존재만으로 개인의 선택을 가를 근거는 없다.",
+      "contextNote": "요아스의 사적과 아마샤와의 전쟁 기록을 가리킨다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:13:13",
+      "textSha256": "5119694579fcbc7eee934eb38312ce4aec9cba0461943abbdfcca4b6a2bfd36b",
+      "status": "exclude",
+      "reason": "왕의 죽음과 장사, 후계자의 왕위 계승이라는 사실을 전한다. 일상의 선택 방향이 드러나지 않는다.",
+      "contextNote": "요아스가 죽고 여로보암이 왕위에 오른다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:13:14",
+      "textSha256": "2362571f453d06d51b822c2eb744c2eb20ce0272e62808585990016aac1eb206",
+      "status": "candidate",
+      "reason": "죽을 병에 든 소중한 사람 앞에서 왕이 눈물과 애정을 숨기지 않는다. 떠나는 친구에게 서운함과 고마움을 표현할지의 고민에 감정을 드러낼 실마리가 있다.",
+      "contextNote": "요아스가 병든 엘리사를 찾아가 울며 부른다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C026",
+          "clue": "이별의 슬픔을 가벼운 인사 뒤에만 숨기지 않고 소중한 마음을 표현할 방향을 읽는다.",
+          "friction": "교환학생으로 떠나는 친구가 아프거나 영영 돌아오지 않는다고 가정하지 않는다. 상대의 반응도 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:13:15",
+      "textSha256": "dfbfb5ea5d33da33b966fb4c6529425e1289ffe6bbe80675535be427df0fad57",
+      "status": "hold",
+      "reason": "활과 화살을 가져오라는 말에 가져오는 짧은 장면이다. 무엇을 위한 행동인지와 당사자의 선택 갈등은 이 절만으로 보이지 않는다.",
+      "contextNote": "엘리사가 요아스에게 활과 화살을 준비하게 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:13:16",
+      "textSha256": "47c3678e28810706d3e27db05417687f06aeee8dcc4c530ac5c5a0eda42da391",
+      "status": "hold",
+      "reason": "왕이 활을 잡자 선지자가 손을 얹어 돕는다. 곁에서 함께하는 모습은 있으나 이후의 특정 군사 예언을 위한 의식이어서 독립적인 협업의 판단은 약하다.",
+      "contextNote": "엘리사가 활을 잡은 왕의 손에 자기 손을 얹는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:13:17",
+      "textSha256": "90e8622426a2c2eafb1473c270f751ff1ac9e433f4ac3dac25dfdabef1b29364",
+      "status": "hold",
+      "reason": "화살을 쏜 뒤 특정 적군을 진멸하리라는 구원 예언을 말한다. 현재 갈등이나 시도가 반드시 성공한다는 확언으로 옮길 수 없다.",
+      "contextNote": "엘리사가 화살을 쏘게 하고 아람에 대한 승리를 예언한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:13:18",
+      "textSha256": "46b0940c5bdafeabe4d84dae7b59e7cc8a0a7735697e4682ac88f56079469745",
+      "status": "hold",
+      "reason": "화살로 땅을 세 번 치고 멈춘다. 여러 번 시도한 뒤 멈출 수 있다는 장면은 보이나 이 절에는 충분했는지 부족했는지 판단이 없다.",
+      "contextNote": "엘리사의 지시에 왕이 땅을 세 번 친다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:13:19",
+      "textSha256": "fb1b6cd544695220a71d82f4cf7c73bed5ffa87a8a6d9b948f9e4d04bd4b669f",
+      "status": "hold",
+      "reason": "더 많이 쳤더라면 적을 진멸했을 것이나 세 번만 이기리라는 특정 예고다. 반복 횟수와 성공을 현재 사용자의 미래 결과로 계산할 수 없다.",
+      "contextNote": "엘리사가 왕의 세 번 친 행동을 꾸짖고 전쟁 결과를 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:13:20",
+      "textSha256": "812dbbf3948d8c7d7c28b47474cb4bea5df2f0710a62e39750ff3131b1ac1a9b",
+      "status": "exclude",
+      "reason": "엘리사의 죽음과 장사, 이듬해 모압의 침입을 이어 기록한다. 개인의 선택에 대한 방향이나 현재 위험의 예측은 없다.",
+      "contextNote": "엘리사가 죽은 뒤 모압 적들이 침입한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:13:21",
+      "textSha256": "85b3ec002ab7070a31fe32c61517d1310de81908b9da478a138628813e737ddc",
+      "status": "hold",
+      "reason": "장사하려던 시신이 엘리사의 뼈에 닿아 살아나는 이적이다. 치료나 생사의 결과를 같은 방식으로 기대하거나 보장하는 근거가 될 수 없다.",
+      "contextNote": "엘리사의 묘실에 던져진 시신이 살아난다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:13:22",
+      "textSha256": "018d640ecdae19c780f0a6b96b2e260a2dc28175c27b9a17d1e7040b76bf1a98",
+      "status": "exclude",
+      "reason": "아람 왕이 여호아하스 시대에 이스라엘을 계속 학대했다는 배경의 미완 문장이다. 이 절만으로 현재 선택할 방향은 없다.",
+      "contextNote": "하사엘의 이스라엘 학대를 회고한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:13:23",
+      "textSha256": "32f94cca2ac75da8607ff6bb49c95c2be20ba3a4ede101e17058c19935b1e738",
+      "status": "candidate",
+      "reason": "하나님이 언약을 기억하여 이스라엘을 불쌍히 여기고 쫓아내지 않으셨다고 한다. 잘못을 고치려 하면서도 하나님 앞에 나아가기 부끄러운 마음을 비춘다.",
+      "contextNote": "하나님이 조상들과의 언약 때문에 이스라엘에 긍휼을 베푸신다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "R021",
+          "clue": "자기 잘못만으로 하나님 앞의 기도를 완전히 포기할지 돌아보고 다시 기도할 실마리를 읽는다.",
+          "friction": "이스라엘의 역사적 언약과 사용자의 관계는 구별한다. 서비스가 개인의 용서 여부나 미래 결과를 판정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:13:24",
+      "textSha256": "1e8bdf01ce9d9dd6964137ca1e33974d43eadede0bc2fb4613c179c728223911",
+      "status": "exclude",
+      "reason": "하사엘의 죽음과 그의 아들의 왕위 계승을 알린다. 사용자의 선택이나 현재 관계의 방향에 관한 내용은 없다.",
+      "contextNote": "하사엘이 죽고 벤하닷이 왕이 된다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:13:25",
+      "textSha256": "87b026656ed7b0798eaedd949d01a0d2ef4810e13f77bf470aadb2989d2ca4f4",
+      "status": "candidate",
+      "reason": "전쟁 중 빼앗겼던 성읍들을 다시 회복한 장면이다. 기회를 놓친 것 같다는 생각에 사로잡힌 사람이 다시 시도할 가능성을 떠올릴 수 있다.",
+      "contextNote": "요아스가 벤하닷을 세 번 이기고 성읍들을 회복한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H060",
+          "clue": "지나간 일만 되새기기보다 다시 붙잡아 볼 가능성을 생각할 실마리를 읽는다.",
+          "friction": "기회가 이미 끝났다고 확정하지 않으며 다시 얻을 수 있다고 보장하지 않는다. 군사적 승리와 개인의 기회는 다르다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:14:1",
+      "textSha256": "3da50a768ed13b341d197282950736062bc85d3982dd7ae57418c3895ca4d07a",
+      "status": "exclude",
+      "reason": "다른 왕의 재위 연도를 기준으로 아마샤의 즉위를 밝힌다. 역사 연대만으로 생활 선택의 기준을 정할 수 없다.",
+      "contextNote": "아마샤의 유다 왕위 즉위를 소개한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:14:2",
+      "textSha256": "e6e05f1ff34928095a02bf2fcb6db2ca019cbcc60e86fa3fd6603b3cc325eeb5",
+      "status": "exclude",
+      "reason": "왕의 즉위 나이와 재위 기간, 모친의 이름과 출신을 기록한다. 사용자가 직접 지원할지 정할 선택이나 역량은 드러나지 않는다.",
+      "contextNote": "아마샤의 재위와 모친을 소개한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:14:3",
+      "textSha256": "1596895b763fd7465556b54e1c06c0049488433f115419f84cc47f6891086561",
+      "status": "candidate",
+      "reason": "다윗과 같지는 않았지만 정직하게 행하였다는 평가가 함께 있다. 다른 사람보다 못할까 두려워 시작을 주저할 때 비교만이 기준이 아님을 떠올리게 한다.",
+      "contextNote": "아마샤가 정직히 행했으나 다윗과 같지는 않았다고 서술한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "다른 사람처럼 완벽해야만 해볼 수 있다고 여길지 돌아볼 실마리를 읽는다.",
+          "friction": "아마샤의 이미 행한 일과 사용자의 아직 시작하지 않은 일은 다르다. 성공이나 타인의 평가를 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:14:4",
+      "textSha256": "02a9477e79abbc5cc49c1a54491492875577617a9297ed106534e49d56491cea",
+      "status": "hold",
+      "reason": "산당을 없애지 않아 백성의 제사가 계속됐다는 서술이다. 남은 문제를 직시할 여지는 있으나 이 절만으로 사용자의 구체 선택과 연결할 근거가 약하다.",
+      "contextNote": "아마샤 시대에도 산당 제사가 이어진다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:14:5",
+      "textSha256": "905ede5705ab6356cd332ebc42f901f7b90c6b3f2b94beaf03d41118dc811ea0",
+      "status": "exclude",
+      "reason": "왕이 자신의 아버지를 죽인 신하들을 죽였다는 보복 사건이다. 현재 분쟁에서 사람에게 위해를 가할 행동 지시가 될 수 없다.",
+      "contextNote": "아마샤가 아버지를 죽인 신복들을 죽인다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:14:6",
+      "textSha256": "f42e9338a3b0cc0627bc0fece46f7db20bda78cde1c1cf5bae20f9f74517931b",
+      "status": "candidate",
+      "reason": "아버지와 자녀의 잘못을 서로에게 돌리지 않고 각자의 책임을 구분한다. 한 사람의 미완료를 팀 전체의 책임으로 말할지 고민하는 상황에 직접 닿는다.",
+      "contextNote": "아마샤가 율법에 따라 살해자의 자녀들을 죽이지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A033",
+          "clue": "분위기에 맞춰 모두를 똑같이 비난하기보다 확인된 각자의 책임을 나누어 말할 실마리를 읽는다.",
+          "friction": "왕실의 살해와 법적 처벌을 과제 분담과 같은 무게로 보지 않는다. 잘못한 팀원에게 보복하라는 뜻도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:14:7",
+      "textSha256": "805d5140ca916f835307220fab5124fbd5ad2a26b0a1560e3a9c9c2a6a2a22a1",
+      "status": "exclude",
+      "reason": "아마샤가 만 명을 죽이고 한 성을 점령해 이름을 바꾼 전쟁 기록이다. 폭력이나 승리를 일상 행동의 근거로 옮길 수 없다.",
+      "contextNote": "아마샤가 에돔을 공격하고 셀라를 점령한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:14:8",
+      "textSha256": "f93185befdfb27c634c19cdb814a871419ba103b48b67568f01c9e6c4d243c8b",
+      "status": "hold",
+      "reason": "한 왕이 다른 왕에게 서로 대면하자고 사자를 보낸다. 직접 만나자는 선택은 보이나 이 말의 적대적 전쟁 맥락과 만남의 목적은 이 절만으로 명확하지 않다.",
+      "contextNote": "아마샤가 이스라엘 왕에게 대면하자고 전한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:14:9",
+      "textSha256": "caaf1fcd53e9b35d45f3e2719d88904ad11d9a42aa99b32d8700613a5b794995",
+      "status": "hold",
+      "reason": "가시나무와 백향목의 혼인 요청과 짐승에게 짓밟히는 비유다. 과도한 도전을 경계하는 말이지만 왕들에 대한 비유와 혼인 표현의 맥락을 알아야 연결이 가능하다.",
+      "contextNote": "요아스가 아마샤에게 비유로 답한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:14:10",
+      "textSha256": "16c9930c5ea00d3cba34c14587f7871985ed40a82208b1073a21dc9cebb1bf83",
+      "status": "hold",
+      "reason": "이긴 뒤 교만해져 전쟁을 벌이면 함께 망할 수 있다고 경고한다. 과신을 돌아볼 여지는 있으나 실제 왕국의 전쟁 위협과 사용자의 일상적 계획을 동일시하기 어렵다.",
+      "contextNote": "요아스가 아마샤에게 이전 승리에 취해 싸움을 벌이지 말라고 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:14:11",
+      "textSha256": "66aa413697c90f1f74effbd6f093e43b1df77ea44c2fe9a49fd3720ef896e70a",
+      "status": "hold",
+      "reason": "아마샤가 듣지 않아 두 왕이 대면한다. 앞선 경고가 무엇인지 없으면 듣지 않은 말의 타당성이나 현재 어떤 조언을 수용해야 할지 판단할 수 없다.",
+      "contextNote": "아마샤가 요아스의 말을 듣지 않고 전쟁에서 대면한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:14:12",
+      "textSha256": "5f1b510a64b5106f4fcf7d0443096c20c4b1bb99e1614dfc4800e639de22f09f",
+      "status": "exclude",
+      "reason": "유다가 이스라엘에게 패하고 군사들이 도망한 전쟁의 결과다. 현재의 도전이 실패할 것이라는 예측이나 선택 기준으로 쓸 수 없다.",
+      "contextNote": "유다군이 패배해 장막으로 달아난다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:14:13",
+      "textSha256": "a15a6aa52585a6c727afa06560f2e9119e7b2fcc41c20ae1d9de82774603c57f",
+      "status": "exclude",
+      "reason": "왕의 포로와 예루살렘 성벽의 파괴 및 길이를 기록한다. 현재 관계나 선택의 결과가 파괴될 것이라는 예언이 아니다.",
+      "contextNote": "요아스가 아마샤를 사로잡고 성벽을 헌다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:14:14",
+      "textSha256": "c7225331a96694c5896b9ebf481ba4edfed880c6fb508303ba403fb7a874891c",
+      "status": "exclude",
+      "reason": "성전과 왕궁의 귀중품을 빼앗고 사람들을 볼모로 잡는 전쟁 경과다. 타인의 물건이나 자유를 빼앗는 행동을 현재 선택으로 옮길 수 없다.",
+      "contextNote": "요아스가 예루살렘의 물건과 볼모를 데려간다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:14:15",
+      "textSha256": "a643f079410069d0105c7e3a4cf538c89d63703179e40fca21648b6b3a489bfa",
+      "status": "exclude",
+      "reason": "왕의 행적과 전쟁이 다른 기록에 적혔는지 묻는 문장이다. 일상에서 선택할 행동이나 이유는 제시되지 않는다.",
+      "contextNote": "요아스의 사적을 이스라엘 왕 역대지략에 연결한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:14:16",
+      "textSha256": "a51c7bc592499ea55490b32b06011e6e2e67605206f8b1dd5696bf86eb75f1aa",
+      "status": "exclude",
+      "reason": "왕의 죽음과 장사 및 아들의 계승을 기록한다. 개인의 현재 선택을 가르는 내용이 없다.",
+      "contextNote": "요아스가 죽고 여로보암이 왕이 된다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:14:17",
+      "textSha256": "e4378421c952af27d64535e97454116bac335e0c591de6487665549876d41daa",
+      "status": "exclude",
+      "reason": "한 왕의 사후 다른 왕이 십오 년 더 살았다는 연대 기록이다. 그 숫자를 현재 개인의 수명이나 시기로 예측할 수 없다.",
+      "contextNote": "아마샤가 요아스의 사후에도 살았던 기간을 적는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:14:18",
+      "textSha256": "1ae775d372f257df69c8d3b0ac7dcb19c813b262a76a4d482f98b6f3e4737f67",
+      "status": "exclude",
+      "reason": "아마샤의 남은 행적이 다른 기록에 실렸는지 묻는다. 사용자 상황의 선택 방향을 제공하지 않는다.",
+      "contextNote": "아마샤의 사적을 유다 왕 역대지략으로 안내한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:14:19",
+      "textSha256": "de3b76f7854ea4dc90a3b83798001b09808d40f560e4766eccbac8ba5f4f82f2",
+      "status": "exclude",
+      "reason": "모반을 피해 달아난 왕을 추격해 죽인 사건이다. 현재 사람의 생사나 타인의 배신을 예언하는 근거가 없다.",
+      "contextNote": "모반자들이 아마샤를 라기스까지 쫓아 죽인다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:14:20",
+      "textSha256": "867772c4ec355efa5a13e5f0e6ef8ecd5d69d85aef5131b3831f012508cd9b8a",
+      "status": "exclude",
+      "reason": "죽은 왕을 운반해 조상들과 장사한 사실이다. 개인적 선택의 조건이나 실마리는 나타나지 않는다.",
+      "contextNote": "아마샤가 예루살렘에 장사된다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:14:21",
+      "textSha256": "d1ff028fc8b5f0fc47e26740bd5809701b94ee02fa107b83c22449868c5bb598",
+      "status": "candidate",
+      "reason": "열여섯 살 아사랴가 사람들에 의해 왕으로 세워진다. 다른 지원자보다 어리다는 이유로 역할을 시도해도 되는지 망설이는 마음에 눈에 띄는 실마리가 있다.",
+      "contextNote": "유다 백성이 아마샤를 이어 어린 아사랴를 왕으로 세운다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "R013",
+          "clue": "나이가 적다는 이유만으로 지원 자체를 미룰지 다시 생각할 방향을 읽는다.",
+          "friction": "세습 왕위에 세워진 일과 사용자가 스스로 운영진에 지원하는 일은 다르다. 선발이나 실제 수행 능력을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:14:22",
+      "textSha256": "51f69240a47ca1dbbf19d768eb19d4aa1f8e55dc192cd81575dffe8d152c7a79",
+      "status": "hold",
+      "reason": "아버지 사후 아사랴가 엘랏을 건축해 유다에 돌린 사실이다. 무엇인가를 다시 세운다는 여지는 있으나 사용자가 놓친 기회가 무엇인지나 다시 얻을 수 있는지는 이 절이 말하지 않는다.",
+      "contextNote": "아사랴가 엘랏을 건축하고 유다에 돌린다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:14:23",
+      "textSha256": "e66cf3da2efa74005269b77697b2e8c52c22a49d2869347a108bdf1517fadeb5",
+      "status": "exclude",
+      "reason": "여로보암의 즉위 연대와 사십일 년의 재위를 적은 역사 기록이다. 현재 선택이나 그 결과를 판단할 내용은 없다.",
+      "contextNote": "여로보암의 사마리아 재위를 소개한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:14:24",
+      "textSha256": "7ca87aa32cba95c505fb1cc415d6654c68fe4fd2f2329f78a2052bdb893661b6",
+      "status": "hold",
+      "reason": "이전 왕의 죄를 떠나지 않고 악을 행했다는 평가다. 반복되는 행동을 돌아볼 가능성은 있지만 죄의 구체 내용과 개인의 선택 상황이 독립적으로 보이지 않는다.",
+      "contextNote": "여로보암이 선행 왕의 죄를 따라 행한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:14:25",
+      "textSha256": "7a66269e8f6a7cfe5175675b6451c33e2f3409ccdbf8891048ee1afe9d6a07c0",
+      "status": "hold",
+      "reason": "예언대로 이스라엘의 특정 국경을 회복했다는 역사 서술이다. 사용자의 기회나 잃은 것이 실제로 되돌아온다고 확정할 수 없다.",
+      "contextNote": "여로보암이 요나를 통해 전해진 국경을 회복한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:14:26",
+      "textSha256": "0060f1987acfe49e7e1a695a84a71c80ff3a26d2ff9f33d40151e5949e4aad50",
+      "status": "hold",
+      "reason": "하나님이 이스라엘의 심한 고난과 도울 사람이 없음을 보셨다는 미완 문장이다. 사용자의 현재 상황에 정말 도움받을 사람이 없다고 확정할 수 없다.",
+      "contextNote": "하나님이 이스라엘의 고난과 도움의 부재를 보신다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:14:27",
+      "textSha256": "fc481cad3e238d9fc92d5ff7700eb226d52b5a214ebc4d822cae644d42fe34ab",
+      "status": "hold",
+      "reason": "이스라엘의 이름을 없애지 않고 특정 왕을 통해 구원하셨다는 역사적 결과다. 지금의 문제가 특정 사람을 통해 반드시 해결된다는 약속으로 쓸 수 없다.",
+      "contextNote": "하나님이 여로보암을 통해 이스라엘을 구원하셨다고 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:14:28",
+      "textSha256": "d9f8d81581841c5c8e39d2bf399bb863ffb21ae2cdca43a392a7d2912e6a9957",
+      "status": "exclude",
+      "reason": "왕의 행적과 정복 및 성읍 회복에 관한 다른 기록을 가리킨다. 지명과 군사력의 열거가 현재 개인의 선택 기준은 아니다.",
+      "contextNote": "여로보암의 전쟁과 회복에 관한 기록을 언급한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:14:29",
+      "textSha256": "84566b3f8597a66a17fcd8320398210888e61dcac7a8deb47468fac09a87ded3",
+      "status": "exclude",
+      "reason": "여로보암의 죽음과 아들의 왕위 계승을 기록한다. 삶의 선택을 위한 구체 행동이나 이유는 없다.",
+      "contextNote": "여로보암이 죽고 스가랴가 왕이 된다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:15:1",
+      "textSha256": "d53799c7948b6770798be50120a5c1d09c89625e28fc02b64ead1461e196ec58",
+      "status": "exclude",
+      "reason": "아사랴의 즉위를 다른 왕의 재위 시기로 표시한 연대 기록이다. 개인의 현재 선택 방향은 나타나지 않는다.",
+      "contextNote": "아사랴의 유다 왕위 즉위를 소개한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:15:2",
+      "textSha256": "c9f9af640b57e14c6c6bd32dabb9675c81cc7bd64aada909aad24b882b017a8f",
+      "status": "hold",
+      "reason": "열여섯 살에 왕이 되고 오래 통치했다는 사실이 나온다. 젊은 역할자의 사례는 될 수 있으나 스스로 지원할지의 고민과 세습 왕위는 다르며 긴 재위를 성공의 보장으로 읽어서는 안 된다.",
+      "contextNote": "아사랴의 나이와 통치 기간 및 모친을 소개한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:15:3",
+      "textSha256": "296ecc9e6a4196679e464191d1c969fc53b36896a79046cf48d6bfb0d3626537",
+      "status": "hold",
+      "reason": "부친의 모든 행위를 따라 바르게 행했다는 기록이다. 배울 만한 전례를 생각할 수 있지만 아버지의 구체 행위와 현재 어떤 선택이 옳은지는 이 절에 없다.",
+      "contextNote": "아사랴가 아마샤의 행위를 따른다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:15:4",
+      "textSha256": "f9416693f978f4af11a02e07b74aebddf217ba5d5e40c9ce0b6388c5c97f246b",
+      "status": "hold",
+      "reason": "산당은 없애지 않아 백성이 계속 제사했다는 역사적 평가다. 고쳐지지 않은 점을 떠올릴 수 있으나 사례에 없는 특정 신앙 관습을 현재 사실로 넣을 수 없다.",
+      "contextNote": "아사랴 시대에도 산당 제사가 이어진다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:15:5",
+      "textSha256": "d9b173873e928517431be66ed89fc85b860e45162d29f613668ba9a2f98c98a6",
+      "status": "exclude",
+      "reason": "왕의 질병을 특정 역사적 심판과 연결하고 별궁 거주 및 대리 통치를 적는다. 현재 질병을 신적 처벌이나 평생 지속의 예언으로 제시할 수 없다.",
+      "contextNote": "아사랴가 병들어 별궁에 살고 요담이 대신 다스린다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:15:6",
+      "textSha256": "cfb0a9276ad504acfcfbbe0c8cf923d5d85159cf2305e376baead9f367c10bac",
+      "status": "exclude",
+      "reason": "아사랴의 남은 사적이 유다 왕의 기록에 적혔는지 묻는다. 개인의 선택에 대한 독립적인 판단 근거는 없다.",
+      "contextNote": "아사랴의 사적을 다른 기록에 연결한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:15:7",
+      "textSha256": "9627a09c585cff9661a19fb1a924de3b594fbf464a663b102e8ab712efe46cff",
+      "status": "exclude",
+      "reason": "아사랴의 죽음과 장사 및 아들의 즉위를 기록한다. 현재 고민을 풀 선택의 이유는 없다.",
+      "contextNote": "아사랴가 죽고 요담이 왕이 된다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:15:8",
+      "textSha256": "7872d61c982a493ac5ef2f3eb1739cfe2119e4ba27f15d3454a88133aacfb29f",
+      "status": "exclude",
+      "reason": "스가랴의 즉위 연대와 여섯 달 통치를 적는다. 재위 기간을 개인적인 기회나 기한의 예측으로 쓸 수 없다.",
+      "contextNote": "스가랴의 이스라엘 재위를 소개한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:15:9",
+      "textSha256": "4678e44d185dcfa12a358546b236895b9790b5f88837503c28991781e8b71b66",
+      "status": "hold",
+      "reason": "조상의 행위와 이전 왕의 죄를 계속 따랐다는 평가다. 반복된 잘못을 돌아볼 여지가 있지만 구체적인 행위 내용이 이 절에는 제시되지 않는다.",
+      "contextNote": "스가랴가 여로보암의 죄를 떠나지 않았다고 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:15:10",
+      "textSha256": "bd46a82094568ebc56016828d736342b647c06472f6932ab4ba15ad02214f7a4",
+      "status": "exclude",
+      "reason": "왕을 반역해 죽이고 왕위를 차지한 사건이다. 현재 사람의 배신이나 보복 행동을 정당화할 수 없다.",
+      "contextNote": "살룸이 스가랴를 죽이고 왕이 된다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:15:11",
+      "textSha256": "0274fd971f7c6509c57aecd3733851293d5778628adab2f152b3cb1d8d04d96f",
+      "status": "exclude",
+      "reason": "스가랴의 남은 사적이 다른 기록에 있다는 안내다. 생활 선택의 갈등이나 기준은 없다.",
+      "contextNote": "스가랴의 사적을 이스라엘 왕의 기록에 연결한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:15:12",
+      "textSha256": "9bd19e70c305a40a0d464c2f3dd02dc8e1cf85eb38f4d54f59114a7624b8d9a1",
+      "status": "hold",
+      "reason": "예후의 자손이 사대까지 왕위를 잇겠다는 특정 약속의 성취다. 지금 사용자의 가족이나 사업이 일정 기간 성공할 것을 보장하지 않는다.",
+      "contextNote": "스가랴까지 예후에게 한 왕위 계승의 말이 이루어진다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:15:13",
+      "textSha256": "a7522fc0fe50b26340391976eec9def4f6dc84698c287b7ba0db86278db4ccdf",
+      "status": "exclude",
+      "reason": "살룸의 즉위 연도와 한 달간의 통치 기록이다. 숫자만으로 사용자의 기회나 마감이 언제 끝날지 예측할 수 없다.",
+      "contextNote": "살룸의 사마리아 재위를 소개한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:15:14",
+      "textSha256": "6f2420b22986608b512bf68a68a7ae055368547275161c99e64b2f9e46f3a027",
+      "status": "exclude",
+      "reason": "므나헴이 살룸을 죽이고 왕위를 차지한 사건이다. 현재 타인에게 위해를 가하거나 지위를 빼앗을 근거가 없다.",
+      "contextNote": "므나헴이 살룸을 죽이고 왕이 된다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:15:15",
+      "textSha256": "5d889214f07adf926cc1d1a6ecfa58786c731b69617172bc1656c9b981fbc947",
+      "status": "exclude",
+      "reason": "살룸의 행적과 모반이 다른 역사 기록에 실렸다는 안내다. 현재 선택의 방향은 나타나지 않는다.",
+      "contextNote": "살룸의 사적을 역대지략에 연결한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:15:16",
+      "textSha256": "b1f5b1b5894e2309ec8c402256d2d535eeec1e1c8f5a8db52c91a5847bb57311",
+      "status": "exclude",
+      "reason": "성을 열지 않았다는 이유로 주민을 공격하고 임신한 사람까지 해치는 잔혹한 사건이다. 거절에 대한 폭력적 보복으로 사용할 수 없다.",
+      "contextNote": "므나헴이 딥사를 공격하고 임신한 부녀를 죽인다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:15:17",
+      "textSha256": "2c2749a3a87bc2828cfc4ecd851d72e10c9d0d3c8112df9984dd87d276dd476d",
+      "status": "exclude",
+      "reason": "므나헴의 즉위 연대와 십 년의 통치를 적는다. 사용자의 결정에 관한 행동이나 가치는 드러나지 않는다.",
+      "contextNote": "므나헴의 이스라엘 재위를 소개한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:15:18",
+      "textSha256": "d1e397f78a10992616ded265434cb6027e5bd987a2f5329ac1666a66a7ed4f01",
+      "status": "hold",
+      "reason": "평생 이전의 죄에서 떠나지 않고 악을 행했다는 평가다. 지속되는 행동을 돌아볼 여지는 있으나 그 행동의 구체 내용은 이 절에 없다.",
+      "contextNote": "므나헴이 여로보암의 죄를 떠나지 않았다고 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:15:19",
+      "textSha256": "b2437ca42955b1b036d85a29235959330b44a34df62fcd5fe48f7567b346b326",
+      "status": "hold",
+      "reason": "왕이 공격하려는 외국 왕에게 돈을 주어 자기 권력을 굳히려 한다. 도움에 대가를 치르는 모습은 있으나 군사적 위협과 권력 유지를 일상의 공정한 보수와 같게 보기는 어렵다.",
+      "contextNote": "므나헴이 앗수르 왕에게 은을 주어 지원을 얻으려 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:15:20",
+      "textSha256": "93702b43eeef077407c9758e0352ea3051410be431ea73f46d57d60735ed976a",
+      "status": "hold",
+      "reason": "왕이 부자들에게 정해진 은을 강제로 거두어 침공자에게 주고 그가 물러난다. 공동 비용 배분의 형태는 있지만 강제 징수와 전쟁 결과를 일상적으로 정당한 나눔의 기준으로 삼기 어렵다.",
+      "contextNote": "므나헴이 부자들에게 은을 거두어 앗수르 왕에게 준다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:15:21",
+      "textSha256": "30690e8793205c58b2e43254e62cdadde2a856197e24709fb7b251c2d4458a1b",
+      "status": "exclude",
+      "reason": "므나헴의 남은 사적이 다른 기록에 실렸는지 묻는다. 독립된 생활 선택의 기준이 없다.",
+      "contextNote": "므나헴의 사적을 이스라엘 왕 역대지략에 연결한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:15:22",
+      "textSha256": "c80fdd914cfdb783d9ca7ba2dc6b8c2cea9cf88ec0dedf33f06dc11023e721a1",
+      "status": "exclude",
+      "reason": "므나헴의 죽음과 아들의 왕위 계승을 기록한다. 현재 사용자의 결정을 가를 행동은 나타나지 않는다.",
+      "contextNote": "므나헴이 죽고 브가히야가 왕이 된다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:15:23",
+      "textSha256": "cc922ea06246b4482eabac699fa01455de462ebb740cdd811a60f1cbc69569bb",
+      "status": "exclude",
+      "reason": "브가히야가 왕이 된 시점과 이 년의 통치를 기록한다. 연대와 기간은 일상 선택의 근거가 되지 않는다.",
+      "contextNote": "브가히야의 사마리아 재위를 소개한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:15:24",
+      "textSha256": "da3a5bdf7e8b03a706f6723ec3a95a99e8966247c50ac1b49cc5426778602f66",
+      "status": "hold",
+      "reason": "이전 왕의 죄를 버리지 않고 악을 행했다는 평가다. 반복을 생각할 수 있으나 실제 죄의 내용과 지금의 선택지는 이 절에 없다.",
+      "contextNote": "브가히야가 여로보암의 죄를 따른다고 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:15:25",
+      "textSha256": "9f0fb556be8082df825eb99270c2900308820c51cca077c3ae9812c4b161c1b3",
+      "status": "exclude",
+      "reason": "장관이 무리와 함께 왕과 다른 사람들을 죽인 뒤 왕위에 오른 사건이다. 폭력으로 자리를 얻는 행동을 현재 선택으로 옮길 수 없다.",
+      "contextNote": "베가가 브가히야 등을 죽이고 왕이 된다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:15:26",
+      "textSha256": "a97a1d7f4c3f56d824a9c722d48f47c13cd47cfb269f8db39b0b0a1970da2401",
+      "status": "exclude",
+      "reason": "브가히야의 남은 사적이 다른 기록에 있다는 안내다. 독립된 선택의 갈등이나 실마리는 없다.",
+      "contextNote": "브가히야의 사적을 이스라엘 왕 역대지략에 연결한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:15:27",
+      "textSha256": "7d2dfd067294582ea1a5e20b4587d0d2638b565ce2dc3d7ee19ae56d5320f861",
+      "status": "exclude",
+      "reason": "베가의 즉위 연도와 이십 년 통치를 기록한다. 기간이나 왕의 이름은 사용자 고민의 판단 근거가 아니다.",
+      "contextNote": "베가의 이스라엘 재위를 소개한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:15:28",
+      "textSha256": "332caf9a688639ccf7e5aec89137423f7e8473c955ab2f32333f1adc37d13fa4",
+      "status": "hold",
+      "reason": "선행 왕의 죄를 떠나지 않고 악을 행했다는 역사적 평가다. 반복에 대한 자기 성찰 여지는 있지만 실제 행위가 절에 구체화되지 않는다.",
+      "contextNote": "베가가 여로보암의 죄를 따른다고 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:15:29",
+      "textSha256": "33cceabe677434e9034b7b3d59e91a2a3ed6fe54a919f005e379f88b25859272",
+      "status": "exclude",
+      "reason": "앗수르 왕이 여러 지역을 점령하고 사람들을 포로로 옮긴 기록이다. 특정 이주나 현재의 상실이 예정됐다고 예언할 수 없다.",
+      "contextNote": "앗수르가 북이스라엘 지역과 백성을 사로잡는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:15:30",
+      "textSha256": "6ca8d71bf814facd48648e8d649c14157603a28e92d7595cdd2e6a671678a4f7",
+      "status": "exclude",
+      "reason": "호세아가 베가를 반역해 죽이고 왕위를 차지한 경과다. 타인의 죽음이나 권력 찬탈을 일상의 지침으로 쓸 수 없다.",
+      "contextNote": "호세아가 베가를 죽이고 왕이 된다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:15:31",
+      "textSha256": "6a4862129398e926dda65050e7466d4ea755743c96520492f4a56e8d9118d1c9",
+      "status": "exclude",
+      "reason": "베가의 나머지 사적이 역사 기록에 적혔다고 전한다. 생활 선택을 풀 이유나 행동은 없다.",
+      "contextNote": "베가의 사적을 이스라엘 왕 역대지략에 연결한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:15:32",
+      "textSha256": "2a02a7a8ac0cad0cdc0627e689f016162a8f3c0a7da543e12d6c8ff9a9c8ebc0",
+      "status": "exclude",
+      "reason": "다른 왕의 재위 시기를 기준으로 요담이 유다 왕이 되었다는 연대다. 현재 선택과 직접 연결할 내용은 없다.",
+      "contextNote": "요담의 즉위를 소개한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:15:33",
+      "textSha256": "577eb78272c962a1551d9151eb15cf3cedab146e8d9eee5eb2fb08c70e97e1c5",
+      "status": "exclude",
+      "reason": "요담의 즉위 나이와 통치 기간, 모친의 계보를 열거한다. 수치와 이름만으로 사용자 지원이나 능력의 결과를 알 수 없다.",
+      "contextNote": "요담의 재위와 모친을 소개한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:15:34",
+      "textSha256": "69f95c6421849a6a124f56e3b9d3df540b746b583348e4718fbaf69188e987b5",
+      "status": "hold",
+      "reason": "부친의 행위를 따라 정직하게 행했다는 평가다. 선례를 배우는 모습으로 읽을 여지는 있으나 어떤 행위였는지와 사용자 선택의 대안은 드러나지 않는다.",
+      "contextNote": "요담이 부친 웃시야의 행위를 따른다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:15:35",
+      "textSha256": "0a9b4d48ee8b527f83839c209206c7ff8dc76ba7e5748889e456695f55c3b644",
+      "status": "hold",
+      "reason": "산당 제사는 계속되는 가운데 요담이 성전 윗문을 지었다는 대조가 나온다. 고친 부분과 남은 부분을 볼 수 있으나 어느 제사의 의미와 현재 행동을 직접 연결하기 어렵다.",
+      "contextNote": "요담 시대의 산당과 성전 윗문 건축을 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:15:36",
+      "textSha256": "65972dae636e990ba97a2d4c49572760b212388a03e886e4cd2082c6bc6712ff",
+      "status": "exclude",
+      "reason": "요담의 남은 사적이 다른 기록에 있다는 안내다. 개인 선택의 조건이나 방향은 없다.",
+      "contextNote": "요담의 사적을 유다 왕 역대지략에 연결한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:15:37",
+      "textSha256": "d7530732a554406a3b21582d0c9422e858961a4849a1086251548a38ccfdf9d2",
+      "status": "exclude",
+      "reason": "하나님이 특정 왕들을 보내 유다를 공격하게 하셨다는 역사적 서술이다. 현재의 위협이나 타인과의 갈등을 신적 처벌로 해석할 근거가 아니다.",
+      "contextNote": "아람과 이스라엘이 유다를 공격하기 시작한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:15:38",
+      "textSha256": "c6e424b1ec8d910b0b537847cfdcc835b12ad40bdea4b7a1508ff7f773ed0216",
+      "status": "exclude",
+      "reason": "요담의 사망과 장사 및 아들의 왕위 계승을 기록한다. 지금 사용자가 택할 행동의 기준은 나타나지 않는다.",
+      "contextNote": "요담이 죽고 아하스가 왕이 된다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:16:1",
+      "textSha256": "673c544ce9d2a56ee85eaa78809ff2d09fbcbf811f0ec133205091b73b31d7d9",
+      "status": "exclude",
+      "reason": "아하스의 즉위 시기를 다른 왕의 재위와 함께 기록한다. 개인의 선택이나 이유는 없다.",
+      "contextNote": "아하스의 유다 왕위 즉위를 소개한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:16:2",
+      "textSha256": "0a548a05d568aa6b9ed5a7cdc1ec9d0ecbe8d34e3afaed50324b0dcd0a453ea3",
+      "status": "hold",
+      "reason": "아하스의 젊은 즉위와 다윗과 다른 행위에 대한 부정적 평가다. 젊은 나이나 비교만으로 현재 지원자의 성실함이나 결과를 판단할 수 없다.",
+      "contextNote": "아하스의 나이와 재위 및 행위에 대한 평가를 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:16:3",
+      "textSha256": "e6a998fffb2d62a12709e1f6c8304263bf7c985d5cd26b07508d4de568848196",
+      "status": "exclude",
+      "reason": "왕이 다른 나라 관습을 따라 아들을 불 가운데 지나게 한 사건이다. 종교적 아동 위해를 일상의 모방 선택이나 명령으로 옮길 수 없다.",
+      "contextNote": "아하스가 이방 관습을 본받아 아들을 불 가운데 지나가게 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:16:4",
+      "textSha256": "8e2442dd6d5c4838f1c3e4261a5c04c152c06a3e6b48daa647531a9b8d450157",
+      "status": "exclude",
+      "reason": "산과 푸른 나무 아래 여러 제사를 드린 종교적 행위의 기록이다. 현재 사용자가 고민하는 선택의 양쪽 부담은 제시되지 않는다.",
+      "contextNote": "아하스가 산당과 여러 곳에서 제사하며 분향한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:16:5",
+      "textSha256": "586dd03f0a049ccdfd91b6573ac934700ae0d4132b42cb84cc3e3fac60f5e354",
+      "status": "hold",
+      "reason": "두 왕이 예루살렘을 포위했으나 이기지 못했다는 전쟁 결과다. 압박 속에서도 버틴 장면이지만 현재 위협이 실패할 것이라고 보장할 수 없다.",
+      "contextNote": "아람과 이스라엘이 아하스를 포위하나 이기지 못한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:16:6",
+      "textSha256": "f81922bd0ccaf06bfdefe02dbfe5045920d2b4c73b8915b7330011c8acffb459",
+      "status": "exclude",
+      "reason": "아람 왕이 엘랏을 점령하고 유다 사람들을 쫓아낸 전쟁 경과다. 현재의 이주나 상실이 일어날 것이라는 예언으로 쓸 수 없다.",
+      "contextNote": "르신이 엘랏을 회복하고 주민들을 내쫓는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:16:7",
+      "textSha256": "cdd953635dd77ea4f56bb0ff95a0a81159f1d85291649cd88551b0f4b11c7ee3",
+      "status": "hold",
+      "reason": "아하스가 스스로 신복이라 하며 다른 왕에게 공격에서 구해 달라고 부탁한다. 도움을 청하는 행동이 보이지만 복속과 군사 개입이라는 대가를 일상 도움 요청에 그대로 옮기기 어렵다.",
+      "contextNote": "아하스가 앗수르 왕에게 사자를 보내 구원을 요청한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:16:8",
+      "textSha256": "d93c6744f0227f698a9a2c993314c4a14cbc453fc79d6271fcdfefb5a4b826e5",
+      "status": "exclude",
+      "reason": "성전과 왕궁의 금은을 가져다 외국 왕에게 예물로 보낸 장면이다. 재정의 다른 선택지나 돈의 출처에 대한 개인적 갈등은 이 절에 없다.",
+      "contextNote": "아하스가 앗수르 왕에게 귀중품을 보낸다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:16:9",
+      "textSha256": "cd3e5685647e82ea080c83cda3dce7b8e7c7da40e900fec12776fe37617965b7",
+      "status": "exclude",
+      "reason": "앗수르 왕이 요청을 듣고 도시를 점령하고 주민을 사로잡으며 왕을 죽인 전쟁 결과다. 도움 요청이 반드시 성공한다는 약속으로 제시할 수 없다.",
+      "contextNote": "앗수르가 다메섹을 점령하고 르신을 죽인다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:16:10",
+      "textSha256": "e03e1e4717a634982a3be91c24ba9b803ea938c7b3605c968b1676144fdb1407",
+      "status": "hold",
+      "reason": "다른 곳의 제단을 보고 그 모양을 그려 제사장에게 보낸다. 새로운 것을 본떠 쓰는 행동이지만 대상의 장단점이나 기존 도구와의 선택 근거는 이 절에 없다.",
+      "contextNote": "아하스가 다메섹의 제단 모양을 우리야에게 보낸다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:16:11",
+      "textSha256": "9bae5927842e4b2f62e0bf4ce30691dd3587318d51ed633ec9d5f6c3809774ad",
+      "status": "hold",
+      "reason": "제사장이 왕이 보낸 모양대로 제단을 만든다. 역할을 맡아 실행한 장면이나 당사자가 협업을 택할지의 갈등과 필요는 제시되지 않는다.",
+      "contextNote": "우리야가 왕의 도면대로 제단을 만든다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:16:12",
+      "textSha256": "fd20a4155355789039d79011631e93ee66a9f76f6e061b8718146ca8cbeefe9c",
+      "status": "exclude",
+      "reason": "왕이 돌아와 만들어진 제단에서 제사를 드리는 장면이다. 현재의 신앙 선택을 판정할 구체 조건은 없다.",
+      "contextNote": "아하스가 새 제단 앞에서 제사를 드린다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:16:13",
+      "textSha256": "673275a14c9b911d5c1b5d51dcc3629823aebb4ab7b59ecefd7682f9e4b02ce8",
+      "status": "exclude",
+      "reason": "번제와 소제 및 전제와 짐승의 피를 제단에 바르는 의식의 세부 내용이다. 제의 배경 없이 일상의 선택에 바로 연결하기 어렵다.",
+      "contextNote": "아하스가 제사의 제물을 바친다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:16:14",
+      "textSha256": "d1f593ba2640ec57514e6a13ad05e48b33af32070daa621236e1d5721321694c",
+      "status": "hold",
+      "reason": "기존 놋단을 새 제단 곁의 다른 위치로 옮긴다. 새것과 기존 것을 다루는 모습은 있지만 어느 쪽의 장단점이나 현재 선택의 이유가 드러나지 않는다.",
+      "contextNote": "아하스가 성전 앞 놋단을 북편으로 옮긴다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:16:15",
+      "textSha256": "06c72d5b3c32d42b67cf3187597336dc1f01ce194d427a6b97ed338b9eaa41be",
+      "status": "exclude",
+      "reason": "여러 제사의 시간과 제물·제단 사용법을 제사장에게 지시하는 역사적 제의 절차다. 일반적인 신앙 선택이나 행동 명령으로 쓸 수 없다.",
+      "contextNote": "아하스가 큰 단과 놋단의 용도를 지시한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:16:16",
+      "textSha256": "1eb6fbf843dfb0baa406d04296163eac40999fd6b20a1f393a7000ad630e9c72",
+      "status": "hold",
+      "reason": "제사장이 왕의 모든 명령대로 했다고만 전한다. 지시를 따른 사실만으로 자신의 판단을 사용할지의 구체적 기준은 드러나지 않는다.",
+      "contextNote": "우리야가 아하스 왕의 명령을 따른다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:16:17",
+      "textSha256": "ab94d51f59639c7012c721908c9fa6bfadf1776b8e3f0d4713dfd601162da48d",
+      "status": "exclude",
+      "reason": "성전의 물두멍과 놋바다를 받침에서 옮긴 구체적인 시설 변경이다. 선택의 이유나 생활의 대응 사례는 제시되지 않는다.",
+      "contextNote": "아하스가 성전 기구들의 배치를 바꾼다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:16:18",
+      "textSha256": "94443c095e060847e79b51c791de4cf8c93b8078628a7c42c2a38b6e38063775",
+      "status": "exclude",
+      "reason": "앗수르 왕 때문에 성전의 낭실을 옮겨 세운 건축 변경이다. 장소와 권력 관계의 기록이며 현재 사용자의 선택 방향은 불분명하다.",
+      "contextNote": "아하스가 안식일과 왕을 위한 낭실을 옮긴다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:16:19",
+      "textSha256": "e7dd1fc92a9a691187991b8030ceca131c1f5bb2d5cfe71c72d07462d7ed079b",
+      "status": "exclude",
+      "reason": "아하스의 나머지 사적이 다른 왕의 기록에 적혔는지 묻는다. 현재의 구체 선택과 연결할 행동은 없다.",
+      "contextNote": "아하스의 사적을 유다 왕 역대지략에 연결한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:16:20",
+      "textSha256": "84548189551bd85e943ad3e3e15376ae6521443f647830df3f8198a93182fc94",
+      "status": "exclude",
+      "reason": "아하스의 죽음과 장사 및 아들의 왕위 계승을 기록한다. 일상 고민에 대한 선택 기준은 나타나지 않는다.",
+      "contextNote": "아하스가 죽고 히스기야가 왕이 된다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:17:1",
+      "textSha256": "7110328e06d424b1dd792d690ad9bf18baba4ae60e88de0520310eead5caaf92",
+      "status": "exclude",
+      "reason": "호세아의 즉위 시기와 구 년의 재위 기간을 밝히는 연대 기록이다. 사용자의 결정을 뒷받침할 행동이나 이유는 없다.",
+      "contextNote": "호세아의 사마리아 재위를 소개한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:17:2",
+      "textSha256": "c8efd0417936f5d5c7397173ddd7aa1eef118931ad81f8802d5599658046ec91",
+      "status": "hold",
+      "reason": "악을 행했으나 이전 왕들과 같지는 않았다는 비교다. 차이를 구분하는 여지는 있으나 어떤 행동이 어떻게 달랐는지는 이 절에 없다.",
+      "contextNote": "호세아의 행위를 앞선 이스라엘 왕들과 비교한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:17:3",
+      "textSha256": "c2ece5ce89f62ff61928a9024d4dde7045b6674c18a638dcd3dc7dbfcb7812d0",
+      "status": "exclude",
+      "reason": "앗수르가 공격하자 호세아가 복속해 조공한 역사적 경과다. 군사적 강압을 현재 관계의 협력 방식으로 일반화하기 어렵다.",
+      "contextNote": "호세아가 살만에셀에게 복속하고 조공을 바친다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:17:4",
+      "textSha256": "313607eb6ae8ffceb8843286db73825d0e15e5ca83fc680864e185b87e24f1fa",
+      "status": "exclude",
+      "reason": "외교적 배반과 조공 중단 뒤 왕이 감금된 구체적 사건이다. 지금 누군가의 배신이나 처벌을 확인해 주지 않는다.",
+      "contextNote": "앗수르 왕이 호세아의 배반을 알고 그를 가둔다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:17:5",
+      "textSha256": "252d979a853adebe4a1a9593fe9ba6bc53dde69cd5bb9a6e8482033a374795fe",
+      "status": "exclude",
+      "reason": "앗수르가 이스라엘 땅을 다니며 사마리아를 삼 년 포위한 전쟁 기록이다. 특정 대기 기간이나 결과를 현재에 예언하지 않는다.",
+      "contextNote": "앗수르가 사마리아를 삼 년간 포위한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:17:6",
+      "textSha256": "da505830ef870d7a74c1163bd8d728d518d05718e05984f3507d403b08aaacb9",
+      "status": "exclude",
+      "reason": "앗수르 왕이 성을 점령하고 사람들을 여러 지역으로 사로잡아 옮긴 사건이다. 현재 사람의 미래 이주나 상실을 판단할 근거가 없다.",
+      "contextNote": "이스라엘 사람들이 포로로 앗수르에 옮겨진다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:17:7",
+      "textSha256": "636d5a615284c6e31e503f5a0d660d55cbfa390f4d11972be7ce01125374f9fe",
+      "status": "hold",
+      "reason": "애굽에서 구원하신 하나님께 죄를 범하고 다른 신들을 경외했다는 이유 설명이다. 원래 구원과 신앙을 돌아볼 수 있지만 현재 특정 신앙 선택의 상황을 이 절만으로 알 수 없다.",
+      "contextNote": "이스라엘이 하나님을 떠나 다른 신들을 경외한 일을 적는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:17:8",
+      "textSha256": "a4540bc9d9cb0873c8134544d102f5540dfc1215866f956579db4c551e14cbf6",
+      "status": "hold",
+      "reason": "다른 민족과 왕들이 세운 규례를 따른 역사적 평가다. 주변을 무조건 따라갈지의 고민에 닿을 가능성은 있지만 어떤 규례인지와 사용자 상황은 드러나지 않는다.",
+      "contextNote": "이스라엘이 이방 사람과 왕들의 규례를 따른다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:17:9",
+      "textSha256": "75376a9f06a9c798cd850f6f83c81ab0986d910e0b8c5fc999b140182c782ace",
+      "status": "hold",
+      "reason": "이스라엘이 가만히 불의를 행하고 여러 곳에 산당을 세웠다는 서술이다. 숨겨진 행동을 생각할 수 있지만 일상의 거짓말이나 금전적 문제의 구체 행위와는 다르다.",
+      "contextNote": "이스라엘의 비밀스러운 불의와 산당 건축을 기록한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:17:10",
+      "textSha256": "dd225b07c29aaaeeb2ab1733a1dd9debc03db205d3e3ca0dbab9cdcdd01cec2a",
+      "status": "exclude",
+      "reason": "산과 나무 아래 목상과 아세라상을 세웠다는 구체적 제의 시설 기록이다. 현재 개인의 생활 선택 방향은 제시되지 않는다.",
+      "contextNote": "이스라엘 사람들이 여러 곳에 목상과 아세라상을 세운다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:17:11",
+      "textSha256": "9fd9e22d213ec9b9836a0996e09d2c50e18dc6a362c8de82d446d8db6395d2cb",
+      "status": "hold",
+      "reason": "다른 민족을 따라 산당에서 분향하고 악을 행해 하나님을 격노하게 했다는 평가다. 지금 사용자의 어려움이나 결정 때문에 하나님이 분노하신다고 말할 수 없다.",
+      "contextNote": "이스라엘이 산당에서 분향하며 악을 행한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:17:12",
+      "textSha256": "5e9fa386ad603ce705d7cefa42bc63b9e198de78f6e2942c92b2d558dee91709",
+      "status": "hold",
+      "reason": "명령에 어긋나 우상을 섬겼다는 종교적 평가다. 믿음과 점집 사이에서 망설이는 사례를 생각해 볼 수 있지만 점을 보는 행위와 본문의 우상 숭배를 같은 것으로 단정할 수 없다.",
+      "contextNote": "이스라엘이 금지된 우상을 섬겼다고 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:17:13",
+      "textSha256": "8838b675ba1b9331cf5b98ea39cc4a370be4c063c1cbaf1f95614a9337fb441f",
+      "status": "candidate",
+      "reason": "악한 길에서 돌이켜 계명을 지켜 행하라는 말은 잘못을 인정하면서도 반복하는 행동을 바꿀지의 고민에 행동 변화의 실마리를 준다.",
+      "contextNote": "하나님이 선지자들을 통해 이스라엘과 유다에 돌이키라고 경계하신다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C030",
+          "clue": "미안하다는 말로 넘기지 않고 거친 말버릇을 실제로 고쳐 볼 방향을 읽는다.",
+          "friction": "이스라엘에 전한 율법 전체와 개인의 말버릇을 동일시하지 않는다. 서비스가 하나님이 사용자에게 직접 명령하셨다고 선언하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:17:14",
+      "textSha256": "2300adc1737396990e6e5ddc8ee7a02a4c9da7616ddad4b960cac17b706fd97a",
+      "status": "candidate",
+      "reason": "듣지 않고 목을 굳게 하는 모습이 확인된 지적을 받아들일지 자신의 방식을 고집할지의 갈등을 비춘다.",
+      "contextNote": "이스라엘이 선지자의 경고를 듣지 않고 완고하게 군다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "기분이 상해도 실제로 확인된 실수를 외면하지 않고 고칠 실마리를 읽는다.",
+          "friction": "팀원의 말을 하나님의 말씀으로 높이지 않는다. 본문의 조상에 대한 믿음 평가를 사용자나 동료에게 옮기지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:17:15",
+      "textSha256": "ff3193b83e5e3c234de5da62f93cb019714b3ce8e9b3eb172aaad91a546a6b31",
+      "status": "hold",
+      "reason": "언약과 경고를 버리고 허무한 것을 좇으며 주변 사람을 본받았다고 한다. 주변을 따르는 선택을 생각할 수 있지만 유료 모임의 가치를 확인 없이 허무하다고 단정할 수 없다.",
+      "contextNote": "이스라엘이 언약을 버리고 주변 민족의 행위를 따른다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:17:16",
+      "textSha256": "44bb4386cf226531dd8323bfd8e59b5de3bd5d271ed0fac7564e9569803cb4d8",
+      "status": "exclude",
+      "reason": "송아지와 아세라 목상을 만들고 천체와 바알을 숭배한 구체적 종교 행위 목록이다. 이를 모르는 현재 사람의 행위나 신앙 상태로 단정할 수 없다.",
+      "contextNote": "이스라엘이 우상과 천체 및 바알을 숭배한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:17:17",
+      "textSha256": "ee1617983b33b3e5ec987f76ad5df33471d0f5d9584d7718dc4cc6c40397a4b0",
+      "status": "hold",
+      "reason": "자녀를 불에 지나게 하고 점술과 사술을 행한 내용이 함께 나온다. 점집에 대한 신앙 고민을 떠올릴 수 있으나 아동 위해와 신적 분노의 문장을 삭제하지 않고 동등한 상황으로 만들 수 없다.",
+      "contextNote": "이스라엘의 아동 제의와 점술 등의 행위를 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:17:18",
+      "textSha256": "a833b364eb367bf486b3728c0800aacf6231cef16e23ff3df1ab800171f39ac3",
+      "status": "exclude",
+      "reason": "하나님의 분노와 이스라엘 제거라는 특정 역사적 심판이다. 현재 사용자가 거절당하거나 벌받는다는 신적 확정으로 제시할 수 없다.",
+      "contextNote": "이스라엘이 하나님 앞에서 제거되었다고 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:17:19",
+      "textSha256": "93591dd4f57236f01ac871cf657734e30cad318afefffe4d380f3a7ba133261e",
+      "status": "hold",
+      "reason": "유다도 하나님의 명령을 지키지 않고 이스라엘의 규례를 따랐다는 평가다. 남을 따라가는 모습을 비출 여지는 있지만 무엇이 어떤 상황에서 문제였는지는 이 절만으로 구체적이지 않다.",
+      "contextNote": "유다 역시 이스라엘의 규례를 따른다고 서술한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:17:20",
+      "textSha256": "98b506f7dc5ad899610732c236b197129fb8a167d34ff705b7cc8592f570d50e",
+      "status": "exclude",
+      "reason": "이스라엘을 괴롭게 하고 노략군에 넘겨 쫓아내셨다는 특정 심판의 역사적 설명이다. 현재 고통의 원인을 하나님의 징벌로 확정할 수 없다.",
+      "contextNote": "하나님이 이스라엘을 징계하신 역사적 서술이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:17:21",
+      "textSha256": "bccda8e1407eee16591dc3ccfdecfef18d95e36c72e09afe73221e56d653ee7a",
+      "status": "hold",
+      "reason": "나라가 나뉘고 여로보암이 사람들을 하나님에게서 떠나게 했다는 경과다. 지도자의 영향력을 볼 수 있으나 개인적 조언을 듣거나 거절할 현재 선택은 구체화되지 않는다.",
+      "contextNote": "여로보암이 이스라엘의 왕이 되어 백성을 잘못 이끈다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:17:22",
+      "textSha256": "f083b2a0f9afbb435b0fc9e3824f82aa95dd91371ba0c880d590713616f982de",
+      "status": "hold",
+      "reason": "사람들이 여로보암의 죄를 계속 따라 행하고 떠나지 않았다는 미완 문장이다. 반복을 돌아볼 가능성은 있으나 구체 행동과 그만두는 선택이 이 절에 없다.",
+      "contextNote": "이스라엘이 여로보암의 죄를 계속 따른다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:17:23",
+      "textSha256": "e76350e447ea72bbe24bebe449a13b3fccb20c993ea37c91de016cec0863fc1b",
+      "status": "exclude",
+      "reason": "예언대로 이스라엘이 고향에서 앗수르로 끌려갔다는 특정 민족의 역사다. 현재 사용자의 미래 이주나 배척을 확정할 수 없다.",
+      "contextNote": "이스라엘이 앗수르에 사로잡혀 간 경과를 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:17:24",
+      "textSha256": "846d3a8b726de6a9c381241bab98e5212bf4efb702020b332cc76948bdb58eb3",
+      "status": "exclude",
+      "reason": "앗수르 왕이 여러 지역 사람들을 사마리아에 정착시킨 역사적 배치다. 개인 이사나 관계의 선택을 가를 이유는 없다.",
+      "contextNote": "앗수르가 다른 지역 사람들을 사마리아 성읍에 옮긴다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:17:25",
+      "textSha256": "de106811186b5f20b40ecb8f42381b4bab205f2bcccc57ad1ff3f126641e960b",
+      "status": "exclude",
+      "reason": "새 거주민의 신앙과 사자의 공격을 특정한 신적 처벌로 연결한 역사적 설명이다. 현재의 질병·사고를 신앙 부족의 벌로 판정할 수 없다.",
+      "contextNote": "사마리아 정착민 중 일부가 사자의 공격으로 죽는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:17:26",
+      "textSha256": "9a19df613746f1fc100ddff53a6e5d060bddfe19a65f08d1f7b2287bb429b987",
+      "status": "exclude",
+      "reason": "보고자가 땅의 신의 법을 모르기 때문에 사자들이 사람을 죽였다고 설명한다. 현재 사고를 종교 지식 부족의 결과로 확정하거나 사용자에게 공포를 주는 예언으로 쓸 수 없다.",
+      "contextNote": "사마리아 정착민과 사자에 대한 보고를 앗수르 왕이 듣는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:17:27",
+      "textSha256": "6e7b31849aaf0ce26330e7510ee1456a29d5321e710c0e9117117a0eb0638eb1",
+      "status": "hold",
+      "reason": "왕이 그 땅의 신의 법을 가르치도록 제사장을 보내라고 한다. 모르는 것을 아는 사람에게 배울 가능성은 있지만 명령을 내린 사람과 배울 사람의 자발적 선택이 나타나지 않는다.",
+      "contextNote": "앗수르 왕이 사마리아로 제사장을 보내 교육하게 한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:17:28",
+      "textSha256": "5fae0d0a057b2d4c0eae7fe9185be630f51e917d4bcbcf5fc5456dedad703661",
+      "status": "candidate",
+      "reason": "한 제사장이 돌아와 백성에게 하나님을 경외하는 법을 가르친다. 혼자 성경 뜻을 몰라 아는 사람에게 설명을 부탁할지의 고민에 배움의 통로를 보여 준다.",
+      "contextNote": "포로로 끌려갔던 제사장이 벧엘에서 백성을 가르친다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C021",
+          "clue": "모른다는 사실을 감추기보다 신앙에 대해 아는 사람에게 배우는 방향을 읽는다.",
+          "friction": "본문 백성이 먼저 설명을 요청했다고 보태지 않는다. 설명하는 사람이 반드시 모든 답을 안다고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:17:29",
+      "textSha256": "428b6ce4fd63cb28793a69d9cfdeffefc1e75ecfab5221486e1f23436d610e9d",
+      "status": "exclude",
+      "reason": "각 민족이 자기 신상을 만들어 거처의 산당에 두었다는 역사적 서술이다. 생활 선택에서 무엇을 할지의 충분한 방향은 없다.",
+      "contextNote": "사마리아에 이주한 민족들이 각자의 신상을 만든다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:17:30",
+      "textSha256": "6a56ff9ea16d3575ff7c71a43a7428b19c4cf43e97e0eb82381a7095b7d7ef47",
+      "status": "exclude",
+      "reason": "세 민족이 만든 신상의 이름을 열거한다. 이름과 제작 사실만으로 현재 개인의 결정 조건을 읽을 수 없다.",
+      "contextNote": "바벨론·굿·하맛 사람들이 만든 신상들을 기록한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:17:31",
+      "textSha256": "7be715335e19a5d96232456bbe3bca349a76c435b1edee7ca52593fc0f9a5bce",
+      "status": "exclude",
+      "reason": "신상 이름과 자녀를 불살라 신에게 드리는 제의를 기록한다. 아동 위해를 신앙 선택의 행위로 제시할 수 없다.",
+      "contextNote": "아와와 스발와임 사람의 종교 행위를 기록한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:17:32",
+      "textSha256": "61bcf21d7bb3a42f98210ca7f989ff03e8f618b63b8b55a1c0e69f9f18a24d88",
+      "status": "hold",
+      "reason": "하나님을 경외하며 사람을 제사장으로 세워 제사하게 했다는 기록이다. 공동체의 역할 분담은 보이나 이 절만으로 현재 개인의 선택과 제사장 역할을 직접 대응하기 어렵다.",
+      "contextNote": "이주한 사람들이 산당 제사장을 세운다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:17:33",
+      "textSha256": "be7cf49b173a3ed34627eaf83328e6ca39c83417c9cf3e26a668fb0bdc6384eb",
+      "status": "hold",
+      "reason": "하나님을 경외하면서 각 민족의 신들도 섬긴다는 신앙의 중첩을 서술한다. 다른 종교 예배 참여를 생각해 볼 수 있지만 사실 묘사만으로 사용자의 신앙 판단이나 상대 종교에 대한 평가를 확정하지 않는다.",
+      "contextNote": "이주민들이 하나님과 자기 민족의 신들을 함께 섬긴다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:17:34",
+      "textSha256": "42c56c3a28ecbc606b1836f68b8285aefd8247e78cff4abb16bb2832bd355842",
+      "status": "hold",
+      "reason": "옛 풍속을 따르며 야곱의 자손에게 준 계명을 지키지 않았다는 평가다. 앞선 민족의 신앙과 언약의 배경 없이는 현재 개인의 상황과 구체 선택을 읽기 어렵다.",
+      "contextNote": "이주민들의 풍속과 이스라엘의 율법을 대비한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:17:35",
+      "textSha256": "3414e9722f9b4d955974446ac0625dd9d28cafdde4e7af7e3603c2ef20bad49f",
+      "status": "candidate",
+      "reason": "하나님과의 언약 속에 다른 신을 경외하거나 숭배하지 말라는 말이 분명하다. 하나님을 믿는 사람이 다른 신의 예배를 함께할지 고민하는 상황에 직접 닿는다.",
+      "contextNote": "하나님이 야곱의 자손에게 다른 신을 섬기지 말라는 언약을 주신다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A054",
+          "clue": "친구와 가까이 지내고 싶은 마음을 인정하면서 자기 신앙에 맞지 않는 예배 참여를 정중히 거절할 실마리를 읽는다.",
+          "friction": "타인의 종교나 친구를 비난할 근거가 아니다. 서비스가 하나님이 사용자에게 직접 명령하신다고 선언하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:17:36",
+      "textSha256": "373e6bd47549de04496e3aa7cd1e1102d5c6b8baf4f77c43d1f582846dcee756",
+      "status": "candidate",
+      "reason": "구원하신 하나님만 경외하고 예배하라는 언약의 말이다. 다른 신을 예배하라는 초대 앞에서 자신의 신앙에 따라 선택할 실마리가 있다.",
+      "contextNote": "애굽에서 이끈 하나님을 경외하고 예배하라고 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A054",
+          "clue": "친구를 존중하되 내가 예배하는 대상을 기준으로 이번 초대에 응할지 돌아보는 방향을 읽는다.",
+          "friction": "애굽에서의 구원은 이스라엘의 역사이며 사용자에게 같은 사건을 덧붙이지 않는다. 친구의 반응은 모른다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:17:37",
+      "textSha256": "62e7ef0e01d92105d1d3ceeddfe2d5a59779a6b9c9be027320c319d83da981c1",
+      "status": "candidate",
+      "reason": "계명과 언약을 지키고 다른 신들을 경외하지 말라고 한다. 자신의 신앙과 타 종교 예배 참여 사이에서 망설이는 사람에게 선택의 기준을 준다.",
+      "contextNote": "이스라엘에게 기록된 법을 지키고 다른 신을 경외하지 말라고 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A054",
+          "clue": "친구를 따라 예배할지 고민할 때 자신이 믿는 신앙을 돌아볼 실마리를 읽는다.",
+          "friction": "신앙적 해석은 사용자가 한다. 상대 종교를 공격하거나 관계가 끊길 것이라고 단정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:17:38",
+      "textSha256": "119307fc5909c390c4742fc85a6f1a9b3f131063465cfed5dc9abdc11d07f01d",
+      "status": "candidate",
+      "reason": "세운 언약을 잊지 말고 다른 신들을 경외하지 말라는 말이다. 타 종교 예배에 참여할지 고민하는 신앙인의 자기 기준과 닿는다.",
+      "contextNote": "하나님이 이스라엘에게 언약을 기억하라고 말씀하신다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A054",
+          "clue": "친구와의 친밀함뿐 아니라 자신이 믿어 온 신앙을 기준으로 참여 여부를 생각할 실마리를 읽는다.",
+          "friction": "이스라엘과의 언약을 개인의 다른 상황에 대한 예언으로 사용하지 않는다. 친구의 반응도 알 수 없다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:17:39",
+      "textSha256": "f45027f4b17fec9a86a6ac9495b2373450e01bbc1f3ff1a828cc9d0c5cd99e61",
+      "status": "hold",
+      "reason": "하나님만 경외하라는 말과 모든 원수의 손에서 건져내리라는 약속이 함께 있다. 다른 신의 예배를 고민하는 사례에 방향은 있으나 친구를 원수로 보거나 관계 결과를 보장할 수 없다.",
+      "contextNote": "하나님만 경외하고 구원을 기대하라는 이스라엘의 언약 말씀이다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:17:40",
+      "textSha256": "8f5aafc2ed05f6046cf61211152d54f51ec49c532fb216db27451c622fc25d65",
+      "status": "candidate",
+      "reason": "듣지 않고 이전 풍속대로 계속 행했다는 문장은 실제로 들은 지적을 외면하고 익숙한 방식만 고수할지의 고민을 비춘다.",
+      "contextNote": "사람들이 경고를 듣지 않고 이전 풍속을 따른다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "기분이 상하더라도 확인된 실수를 듣고 이전 방식에서 고칠 부분을 살필 실마리를 읽는다.",
+          "friction": "팀원의 지적을 하나님의 명령과 동일시하지 않는다. 지적받은 실수는 사례에서 이미 확인된 사실로만 둔다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:17:41",
+      "textSha256": "867d068158647470ef17fea84c393e1c8110cf91fe30955689f93c9c5cec9ca1",
+      "status": "hold",
+      "reason": "하나님과 우상을 함께 섬기는 행태가 자손에게 이어졌다는 서술이다. 두 신앙의 관계를 생각할 수 있지만 한 절의 사실 묘사만으로 현재 예배 참여의 의미를 확정하기 어렵다.",
+      "contextNote": "여러 민족이 하나님과 우상을 섬기며 관습을 이어 간다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:18:1",
+      "textSha256": "0d483f01b8f8f422e70885dff4b8a0fd0ca962f737f0b38d49835941ab4bea3f",
+      "status": "exclude",
+      "reason": "히스기야의 즉위 시기를 이스라엘 왕의 재위에 맞춰 적는다. 사용자의 선택에 관한 갈등이나 방향은 없다.",
+      "contextNote": "히스기야가 유다 왕이 된 연대를 기록한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:18:2",
+      "textSha256": "5fe6eaa240948d6f2fdf84465c8743bd559b0bf302cc6f58f3ff4bab6efc32ea",
+      "status": "exclude",
+      "reason": "즉위 나이와 통치 기간, 모친의 이름과 계보를 기록한다. 그것만으로 개인의 지원이나 현재 역할 수행을 예측할 수 없다.",
+      "contextNote": "히스기야의 나이·재위와 모친을 소개한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:18:3",
+      "textSha256": "220ee1aab10ec691096cf83860650d1011e1affc618438dce17243d7e6b4b72a",
+      "status": "hold",
+      "reason": "히스기야가 조상 다윗처럼 정직히 행했다는 평가다. 좋은 선례에서 배울 가능성은 있지만 다윗의 실제 행위나 현재 사용자가 배워야 할 선택은 이 절에 나타나지 않는다.",
+      "contextNote": "히스기야의 행위를 다윗과 비교한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:18:4",
+      "textSha256": "63f76ccf8a59fcfedbdbaf7d319cbf857c4d733f92e71948c166d2e5208e54c7",
+      "status": "hold",
+      "reason": "히스기야가 산당과 목상을 제거하고 사람들이 숭배하던 놋뱀까지 부순다. 신앙의 대상을 돌아볼 수 있지만 물건을 실제로 파괴하는 역사적 행위를 사람이나 타 종교에 대한 행동으로 옮길 수 없다.",
+      "contextNote": "히스기야가 산당과 목상과 놋뱀을 제거한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:18:5",
+      "textSha256": "77ab9c13863d29e5836f99940faad36ac89217d06c4dc1f0b9fffc3a709e859d",
+      "status": "hold",
+      "reason": "히스기야가 다른 유다 왕들보다 하나님을 의지했다는 평가다. 신뢰를 떠올리게 하지만 지금 어느 사람에게 조언받거나 기도할지의 대안은 구체적으로 없다.",
+      "contextNote": "히스기야의 하나님 의지를 유다 왕들과 비교한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:18:6",
+      "textSha256": "d2950650de822c7d68c75cd828b6ef1755ba08911c99200b912f92c3cc7dbd4d",
+      "status": "hold",
+      "reason": "하나님을 떠나지 않고 모세에게 준 계명을 지켰다는 진술이다. 신앙의 지속을 생각할 수 있지만 사용자가 예배 초대에 한 번 응하는 것을 신앙 전체의 이탈로 단정해서는 안 된다.",
+      "contextNote": "히스기야가 하나님을 따르고 계명을 지켰다고 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:18:7",
+      "textSha256": "d58155302d17cbbca4732f0036e746a4b0853f32f0848487402e1b370f8a0f7b",
+      "status": "hold",
+      "reason": "하나님이 함께하셔서 어디로 가든지 형통했다는 왕의 이야기와 정치적 독립이다. 지금 사용자의 선택 결과나 성공을 보장하는 예언으로 옮길 수 없다.",
+      "contextNote": "히스기야의 형통과 앗수르에서의 독립을 기록한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:18:8",
+      "textSha256": "8635f9b9dbd73e80ecf37d0d06a05939f78a2c88fdbe053e08527f1c9f960b2f",
+      "status": "exclude",
+      "reason": "히스기야가 블레셋의 특정 지역을 공격했다는 군사적 영역 기록이다. 타인과의 현재 분쟁에서 공격을 선택할 근거가 없다.",
+      "contextNote": "히스기야가 블레셋과 주변 지역을 친다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:18:9",
+      "textSha256": "f40040c97e39a369dfb40dd388529ae4e7a9ac760ddbd9e1a48cf577356cd5a4",
+      "status": "exclude",
+      "reason": "앗수르 왕의 사마리아 포위 시기를 두 왕의 재위 연도로 기록한다. 현재 사용자의 기한이나 위험을 예측할 수 없다.",
+      "contextNote": "살만에셀이 사마리아를 포위한 연도를 적는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:18:10",
+      "textSha256": "f1fff0b4d1c8b647c91a771581558289dfac3fe0656520e7f56de9e0a9e20961",
+      "status": "exclude",
+      "reason": "삼 년 뒤 성이 함락된 시점을 두 왕의 재위와 함께 기록한다. 오늘의 기다림이나 과제 기한을 그 숫자로 판정할 수 없다.",
+      "contextNote": "사마리아 함락의 연대를 기록한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:18:11",
+      "textSha256": "ddb80abaa5476c50f5a4c9286b5de7db04fb0a8a1bbc44186e75baf968b85c61",
+      "status": "exclude",
+      "reason": "앗수르가 이스라엘 사람들을 여러 지역으로 포로 이주시킨 역사 기록이다. 현재 사용자의 미래 이동이나 상실을 확정할 수 없다.",
+      "contextNote": "이스라엘 사람들이 앗수르로 사로잡혀 간다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:18:12",
+      "textSha256": "ff038379b5d074cf618890ed11732ddeea5dc2e05d5456ce92a36c4c8a037d2d",
+      "status": "candidate",
+      "reason": "말씀을 듣지도 행하지도 않았다는 비판은 알고 있는 바와 실제 행동 사이를 돌아보게 한다. 용서를 바라면서도 말버릇을 고칠지 고민하는 사례에 닿는다.",
+      "contextNote": "이스라엘이 언약과 모세의 명령을 지키지 않았다고 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C030",
+          "clue": "미안하다는 말만 하고 넘기지 않고 반복되는 거친 말의 변화를 실제로 시도할 실마리를 읽는다.",
+          "friction": "이스라엘의 언약 전체를 개인의 말버릇과 동일시하지 않는다. 사용자의 용서 여부를 서비스가 판정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:18:13",
+      "textSha256": "f87fa6fe8931c90714f0d9d0051fd78adedfaecfd7b209be4c8fec1ef2d3b715",
+      "status": "exclude",
+      "reason": "앗수르 왕이 유다의 견고한 성들을 점령한 전쟁 연대다. 지금의 압박이 어떤 결과로 끝날지 알려 주지 않는다.",
+      "contextNote": "산헤립이 유다 성읍들을 공격한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:18:14",
+      "textSha256": "16881524c18b77f228f79c5ced35707937bac054d0d2c90806708c4473536e56",
+      "status": "hold",
+      "reason": "잘못을 인정하고 상대가 부과할 것을 감당하겠다고 하자 막대한 금액이 정해진다. 피해에 책임지는 선택과 닿을 여지는 있으나 강자의 일방적 요구와 그 액수 전체를 일상의 합리적 배상으로 동일시하기 어렵다.",
+      "contextNote": "히스기야가 앗수르 왕에게 잘못을 인정하고 조공을 요구받는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:18:15",
+      "textSha256": "be202aa974342c1d2ab9aec8d836fab9a7dc504345ea6aa50c97a86a0cc4caee",
+      "status": "exclude",
+      "reason": "히스기야가 성전과 왕궁 곳간의 은을 모두 주었다는 조공의 이행이다. 기부나 공정한 배분의 선택 여부는 나타나지 않는다.",
+      "contextNote": "히스기야가 앗수르 왕에게 은을 준다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:18:16",
+      "textSha256": "8652faac05ecb2364bcae3ab168ae136bba0aa0d44f42cd01c35e5e241c614ec",
+      "status": "exclude",
+      "reason": "성전 문과 기둥에 입힌 금을 벗겨 외국 왕에게 준 사건이다. 역사적 조공을 일반적인 재정 결정의 결과로 옮기기 어렵다.",
+      "contextNote": "히스기야가 성전의 금을 벗겨 앗수르에 준다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:18:17",
+      "textSha256": "290df27341d39ef72e16f5f04806d02c2f8654cbdbd7dd68620da6cbb48804f8",
+      "status": "exclude",
+      "reason": "앗수르 군사들과 지휘관의 진군 경로와 도착 지점에 대한 역사 기록이다. 현재 선택의 이유나 방향은 없다.",
+      "contextNote": "앗수르 왕이 대군을 예루살렘으로 보낸다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:18:18",
+      "textSha256": "4bb01761bc421fd349d91377343c638f145b008b19fc11050d914ccafed753da",
+      "status": "exclude",
+      "reason": "왕을 부르자 여러 관리가 나아가는 대면의 도입부다. 무엇을 묻거나 선택했는지는 다음 대화에 있다.",
+      "contextNote": "유다 관리들이 앗수르 대표를 만나러 나간다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:18:19",
+      "textSha256": "cb46c1d3533afea238d5030cf7aa1d37f4c99353492572644abfb24dda3a9c52",
+      "status": "hold",
+      "reason": "상대가 무엇을 의지하느냐고 묻는 도전이다. 자신의 근거를 생각할 수 있지만 이 절만으로 누구를 믿거나 어떤 일을 선택할 방향은 뚜렷하지 않다.",
+      "contextNote": "앗수르 대표가 히스기야의 의지할 대상을 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:18:20",
+      "textSha256": "f45f5a10af028ae4b4aac571ff48723f11bc730f3f626533f190e9f2e777cf03",
+      "status": "hold",
+      "reason": "전략과 힘이 있다는 말이 입에 붙은 말뿐이라고 상대가 단정한다. 말과 행동을 비교할 여지는 있지만 실제 능력에 대한 적대자의 주장을 현재 사용자의 사실로 옮길 수 없다.",
+      "contextNote": "앗수르 대표가 유다의 전쟁 준비를 비난한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:18:21",
+      "textSha256": "f9f0c5803af644d760dabab0cc8af7c62aa3d64d5bd909bf10aa6a44beb9e8cd",
+      "status": "hold",
+      "reason": "애굽을 부러진 갈대 지팡이에 비유하며 의지하면 손을 다친다고 경고한다. 잘못된 의존을 생각할 수 있지만 현재 친구나 조언이 반드시 해를 줄 것이라는 증거는 아니다.",
+      "contextNote": "앗수르 대표가 애굽을 믿을 수 없는 지팡이에 비유한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:18:22",
+      "textSha256": "a6703f88c177f5d546890db8ba0ed6624fef4cc090e4186de16a26a6c92b081c",
+      "status": "hold",
+      "reason": "유다가 하나님을 의지한다면 왜 산당을 없앴느냐는 앗수르 대표의 주장이다. 화자의 해석과 히스기야의 개혁 맥락을 구분해야 하며 개인의 신앙 상태에 대한 판정으로 쓸 수 없다.",
+      "contextNote": "앗수르 대표가 히스기야의 제단 철거를 문제 삼는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:18:23",
+      "textSha256": "87a60f28ac2a7cce626daf7f2486a24a4dc80822f5c37a162b193240b551ddfa",
+      "status": "hold",
+      "reason": "상대가 기병을 낼 수 있다면 말을 주겠다는 군사적 내기다. 조건과 자원의 관계는 보이지만 조롱하는 화자의 의도와 군사 상황을 일반적 지원 약속으로 쓰기 어렵다.",
+      "contextNote": "앗수르 대표가 말 이천 필을 제안하며 유다를 조롱한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:18:24",
+      "textSha256": "f5be93f3df436748b7cd639dc4e40587b251a15c7c561fed6fd437d8a8e8f5e6",
+      "status": "hold",
+      "reason": "가장 작은 장관도 이기지 못할 것이라며 상대의 힘을 깎아내린다. 자신감 부족에 대한 반면으로 생각할 수 있으나 이 절은 능력이 없다는 단정만 전한다.",
+      "contextNote": "앗수르 대표가 유다와 애굽의 군사력을 조롱한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:18:25",
+      "textSha256": "c10b4f60fc156514b93959a8cc6a319360670c2bb85b558c0f37aee0b0997675",
+      "status": "hold",
+      "reason": "침공자가 자신이 여호와의 뜻을 따라 왔다고 주장한다. 다른 사람의 권위 있는 주장에 주의할 수 있지만 단독 절만으로 화자의 주장이 참인지 거짓인지 확인할 수 없다.",
+      "contextNote": "앗수르 대표가 멸망시키라는 하나님의 말을 들었다고 주장한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:18:26",
+      "textSha256": "244e2e3fa541efb7adcad6760c90370946b3a6ee6fc5367f87eaa36a20d56288",
+      "status": "candidate",
+      "reason": "모인 백성 앞에서 모두 알아듣는 말로 이야기하지 말고 관계자들끼리 알아듣는 말로 말해 달라고 부탁한다. 친구를 여러 사람 앞에서 나무랄지 따로 대화할지 고민할 때 공개 범위를 생각할 실마리가 있다.",
+      "contextNote": "유다 관리들이 랍사게에게 백성이 듣지 않도록 아람어로 말해 달라고 요청한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C040",
+          "clue": "단체방에서 창피를 주기보다 당사자와 따로 말하는 방향을 읽는다.",
+          "friction": "군사 협상과 친구의 지각은 다르다. 중요한 정보를 관련자에게 숨기라는 일반 규칙은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:18:27",
+      "textSha256": "b127ff3caac849fad5c87206d59cfd85ea1cd61efdf8a3df2bda5748e796636b",
+      "status": "exclude",
+      "reason": "포위된 사람들이 겪을 극심한 굶주림을 노골적으로 말하며 위협한다. 현재의 불안이나 생활 곤란을 특정한 파국의 예언으로 제시할 수 없다.",
+      "contextNote": "랍사게가 성 안 사람들의 기근을 거론하며 관리들을 위협한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:18:28",
+      "textSha256": "e43bb00735b82a31c036b536a0fcc5fb84bf647490b285376fef54b8447575fe",
+      "status": "exclude",
+      "reason": "랍사게가 유다 말로 크게 외쳐 왕의 말을 들으라고 하는 대화 도입부다. 어떤 내용인지와 자신의 선택은 다음 절에 있다.",
+      "contextNote": "랍사게가 백성에게 앗수르 왕의 말을 들으라고 외친다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:18:29",
+      "textSha256": "048377546df6c4df0bc8fbb310a327e4c90cf68a60a03088552a38b881ce9873",
+      "status": "hold",
+      "reason": "히스기야가 너희를 구하지 못하니 속지 말라는 침공자의 주장이다. 누군가의 약속을 의심할 수는 있으나 실제 상대가 속이고 있거나 돕지 못한다고 단정할 수 없다.",
+      "contextNote": "랍사게가 백성에게 히스기야를 믿지 말라고 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:18:30",
+      "textSha256": "434d082359f824aa893320b95e775e1198e291c85462044cab2bc9e5ed3e036f",
+      "status": "hold",
+      "reason": "히스기야의 하나님에 대한 신뢰와 성의 구원 확언을 듣지 말라는 침공자의 주장이다. 구원과 함락 여부를 현재 사용자 상황에 대한 확정으로 옮길 수 없다.",
+      "contextNote": "랍사게가 여호와를 의지하라는 히스기야의 말을 듣지 말라고 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:18:31",
+      "textSha256": "39342521ba04de7e572a17bb92231d3628b9a06d2661d19c92d8a5400a272b3b",
+      "status": "hold",
+      "reason": "항복하면 각자 열매와 물을 누리라는 점령자의 제안이다. 불확실한 제안의 조건을 생각할 수 있지만 그 약속이 현재 개인에게 실제로 주어졌거나 지켜질지 알 수 없다.",
+      "contextNote": "앗수르 왕이 항복하면 각자의 먹을 것을 누리라고 제안한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:18:32",
+      "textSha256": "4443bb451403cad1939b70753bf284b97708fb656446db50b860c4dac91bdbe6",
+      "status": "hold",
+      "reason": "다른 땅으로 옮기겠다는 계획을 풍요와 생존의 약속으로 제시하며 히스기야의 말을 듣지 말라고 한다. 현재 이주 선택의 생활 조건이나 장래 안전을 확인해 주는 예언이 아니다.",
+      "contextNote": "랍사게가 포로 이주를 풍요로운 땅에 대한 약속으로 설명한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:18:33",
+      "textSha256": "18f7e136aeed52d9d0be2b334a774ecdd6dbf3f24f8e0bea59dc308350b27c23",
+      "status": "hold",
+      "reason": "열국의 신들이 앗수르에게서 땅을 구하지 못했는지 묻는 도전이다. 신앙적 의심은 보이지만 현재 기도가 응답되지 않을 것이라고 확정할 수 없다.",
+      "contextNote": "랍사게가 다른 나라 신들의 구원 능력을 질문한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:18:34",
+      "textSha256": "c2749eb0cfa447f77ee8d87a697fff79adc4b73a00b1ee4fd50aada1c061cca7",
+      "status": "exclude",
+      "reason": "여러 도시 신들의 이름과 사마리아 구원 여부를 열거하는 전쟁 수사다. 그 지명의 배경 없이 생활 선택의 충분한 방향은 없다.",
+      "contextNote": "랍사게가 여러 지역 신들과 사마리아를 언급한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:18:35",
+      "textSha256": "490f4fdc63c1a22d9e037519c1b9a014bbdb1a270758798bb762c526d20767d5",
+      "status": "hold",
+      "reason": "침공자가 하나님도 자기 손에서 예루살렘을 구하지 못하리라고 주장한다. 적대자의 신앙 도전이지 사용자의 기도 결과나 상대의 힘을 예언하는 말이 아니다.",
+      "contextNote": "랍사게가 여호와의 구원 능력에 의문을 제기한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:18:36",
+      "textSha256": "c826da24b35dcee950a3d373d4187dd3f28f4a800b5ce25ae830fa7a251908a0",
+      "status": "candidate",
+      "reason": "사람들이 자극적인 말에 곧장 대답하지 않고 잠잠히 있는 모습이다. 화난 메시지를 바로 보낼지 마음을 가라앉힌 뒤 말할지에 잠시 멈출 실마리를 준다.",
+      "contextNote": "백성이 왕의 명령에 따라 랍사게에게 대답하지 않는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "화가 난 순간에 바로 답을 보내지 않고 시간을 두어 말할 방향을 읽는다.",
+          "friction": "왕의 명령에 따른 군중과 사용자의 개인적 대화는 다르다. 영원히 침묵하거나 감정을 억누르라는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:18:37",
+      "textSha256": "254919103d16115a4f065f832a291f6a15650a44bc660742b8102acadea2dfa5",
+      "status": "hold",
+      "reason": "관리들이 괴로운 마음을 드러내며 실제 들은 말을 왕에게 보고한다. 사실 전달의 장면이지만 보고 내용이 이 절에 나오지 않아 어떤 정보를 전할지의 구체 선택은 약하다.",
+      "contextNote": "유다 관리들이 랍사게의 말을 히스기야에게 고한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:19:1",
+      "textSha256": "bc871cc16c414d991e110fc2457c6b564b66f40418f2b299a03f0e33fbd7eed3",
+      "status": "hold",
+      "reason": "왕이 힘든 소식을 듣고 슬픔을 표시하며 성전에 들어간다. 신앙 안에서 고통을 마주하는 모습은 있으나 이 절 자체에는 기도나 기도의 내용이 나타나지 않는다.",
+      "contextNote": "히스기야가 옷을 찢고 굵은 베를 입고 성전에 들어간다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:19:2",
+      "textSha256": "72c19734d89a38d88840cf4d05a7f58d094bdd22ab4e0ba8987c0a44c3c50f69",
+      "status": "hold",
+      "reason": "왕이 관리들과 제사장들을 선지자 이사야에게 보낸다. 다른 사람에게 도움을 구하려는 문맥이 있지만 이 절에는 부탁 내용이 드러나지 않는다.",
+      "contextNote": "히스기야가 관리들을 이사야에게 보낸다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:19:3",
+      "textSha256": "435463ceb3b8197f1479f2f1c52005e9adb0fd124b00655743cf788f96e3e8e4",
+      "status": "hold",
+      "reason": "고난과 모욕을 해산할 힘이 없는 상황에 비유하여 알린다. 힘이 부족함을 인정하는 말이지만 구체적으로 어떤 도움을 구할지는 이 절에 없다.",
+      "contextNote": "왕의 전령들이 이사야에게 위기의 심각함을 전한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:19:4",
+      "textSha256": "9cc0a57f5909e4a34be40a54ebffcd7ef56254f57ac3b52fb4cacbeb85748b4a",
+      "status": "candidate",
+      "reason": "위협을 당한 상황을 설명한 뒤 남아 있는 이들을 위해 기도해 달라고 요청한다. 혼자만 기도할지 믿는 사람에게 기도를 부탁할지의 고민에 직접 닿는다.",
+      "contextNote": "히스기야가 이사야에게 남은 사람들을 위한 기도를 부탁한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A055",
+          "clue": "부담을 걱정하더라도 믿는 친구에게 함께 기도해 달라고 말할 실마리를 읽는다.",
+          "friction": "침공 위협과 집안의 어려움은 다르다. 친구의 수락이나 기도의 구체적 결과는 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:19:5",
+      "textSha256": "3bbecf623fc21e11aa63996506dc0fef0a9c46e9de09e410f5a60e4177da03de",
+      "status": "exclude",
+      "reason": "왕의 신복들이 이사야에게 나아갔다는 짧은 진행 문장이다. 요청의 내용이나 선택 이유가 이 절에는 없다.",
+      "contextNote": "히스기야의 신하들이 이사야에게 간다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:19:6",
+      "textSha256": "1b029a3910ee24304aa898176fd2a0192c36f7ea16fe5276e2889fbbe5ca4e6d",
+      "status": "candidate",
+      "reason": "하나님을 모욕하는 말을 들었다는 이유로 두려워하지 말라고 한다. 신앙 때문에 비웃음을 들어 모임을 그만둘지 고민하는 마음에 닿는다.",
+      "contextNote": "이사야가 앗수르 신복들의 모욕을 두려워하지 말라는 말을 전한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C031",
+          "clue": "비웃는 말만을 기준으로 믿음과 예배 모임을 포기할지 돌아볼 실마리를 읽는다.",
+          "friction": "전쟁 위협과 지인의 비웃음은 다르다. 그들이 곧 바뀌거나 사용자가 더 이상 상처받지 않는다고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:19:7",
+      "textSha256": "3bb30f9c1d629d5d1a27dae664c3015196ec933772e9428c1f356e45e8fab0d3",
+      "status": "exclude",
+      "reason": "특정 왕이 풍문을 듣고 본국으로 돌아가 칼에 죽을 것이라는 예언이다. 현재 타인의 행동이나 죽음을 예언할 수 없다.",
+      "contextNote": "앗수르 왕의 귀환과 죽음에 대한 말을 전한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:19:8",
+      "textSha256": "79804fb977576aed28fb5b0f57d629da3126b0789aaa982617c5b79bd398715a",
+      "status": "exclude",
+      "reason": "랍사게가 왕의 이동을 듣고 전쟁 중인 왕을 다시 만나는 경로 기록이다. 사용자 선택의 방향은 없다.",
+      "contextNote": "랍사게가 립나에서 앗수르 왕을 만난다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:19:9",
+      "textSha256": "1fa31a53852d94850b5f925f58a6d84a340212861953e191b29c2f1b3f1d2843",
+      "status": "exclude",
+      "reason": "앗수르 왕이 다른 왕의 공격 소식을 듣고 다시 사자를 보내는 도입부다. 전달 내용이나 생활 선택의 기준은 다음에 나온다.",
+      "contextNote": "산헤립이 전쟁 소식을 듣고 히스기야에게 사자를 보낸다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:19:10",
+      "textSha256": "168e99cdf8f343b3bd4672057ef1138e7c20d27ce8e817c4653af09b46b9b1c4",
+      "status": "hold",
+      "reason": "적대자가 하나님의 구원 약속에 속지 말라고 말한다. 신앙적 회의의 발화이지 현재 하나님이나 타인이 사용자를 속인다는 사실을 확인하는 말은 아니다.",
+      "contextNote": "앗수르 왕이 히스기야의 신뢰를 흔들려 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:19:11",
+      "textSha256": "3074b655e5f4209b00cd3f413dd78e424ab3fe546c11a6aca1c3723411281d5f",
+      "status": "hold",
+      "reason": "여러 나라를 멸한 전례를 들며 상대의 구원 가능성을 부정한다. 힘의 비교를 생각할 수 있지만 현재 시도나 관계의 실패가 결정되었다는 증거는 아니다.",
+      "contextNote": "앗수르 왕이 과거의 정복을 들어 위협한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:19:12",
+      "textSha256": "07302796fac9516cf4d570102a1fde2368dd0e6f447b8cc6df423a11d9e208ea",
+      "status": "exclude",
+      "reason": "여러 지역을 멸한 일과 그 나라 신들의 구원 여부를 나열한 전쟁 선전이다. 지역과 역사적 배경 없이는 일상의 선택 방향이 없다.",
+      "contextNote": "앗수르 왕이 과거 정복한 여러 민족을 열거한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:19:13",
+      "textSha256": "18b2be77d1615665dbac11a66840791412255946fd59d2c8537f65e9c988b383",
+      "status": "exclude",
+      "reason": "여러 도시와 왕들의 이름을 열거하며 어디 있느냐고 묻는 전쟁 수사다. 현재의 구체 고민을 가를 정보는 없다.",
+      "contextNote": "앗수르 왕이 정복당한 도시의 왕들을 거론한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:19:14",
+      "textSha256": "fbfba409160a08016bda258aaa60b828bbdbc16f3e7e29caec9352cdcbfc91bf",
+      "status": "candidate",
+      "reason": "위협의 편지를 받고 하나님 앞에 펼쳐 둔다. 여러 조언 사이에서 답을 더 구할지 잠시 하나님 앞에서 마음을 돌아볼지의 고민에 상황을 가지고 나아가는 실마리가 있다.",
+      "contextNote": "히스기야가 받은 편지를 성전에 가져가 하나님 앞에 편다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A035",
+          "clue": "얽힌 생각을 잠시 하나님 앞에 내려놓고 조용히 돌아볼 방향을 읽는다.",
+          "friction": "사례에 협박 편지가 있다고 가정하지 않는다. 편지의 내용을 통해 미래 결과를 확인해 주지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:19:15",
+      "textSha256": "1bd72035d0d22a6feb97769b4730dd31b7d346bc896294e4b38761781b033937",
+      "status": "candidate",
+      "reason": "왕이 하나님 앞에서 기도하며 하나님이 누구신지 고백한다. 중요한 선택에서 사람들의 답을 더 들을지 잠시 기도할지의 마음에 행동의 실마리가 있다.",
+      "contextNote": "히스기야가 창조주 하나님께 기도한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A035",
+          "clue": "서로 다른 조언을 잠시 멈추고 자기 자리에서 기도하며 마음을 돌아볼 방향을 읽는다.",
+          "friction": "이 기도의 고백이 사용자의 구체 선택에 대한 답이나 성공을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:19:16",
+      "textSha256": "9e873caf2d6d4b10fa3fe8a2ea8dffbb0e63a9ce937f1afa2f5643f9da0d8d51",
+      "status": "hold",
+      "reason": "하나님께 눈과 귀를 열어 산헤립의 모욕을 보아 달라고 간구한다. 고통을 기도로 말하는 여지는 있으나 하나님에 대한 공개적 모욕을 직장 내 개인적 억울함과 동일시하기 어렵다.",
+      "contextNote": "히스기야가 산헤립의 모욕을 하나님께 들으시길 청한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:19:17",
+      "textSha256": "a8873a9cfb5eb91814b3305994b05fc8ace425e21f639fe69284faf6b5e1f3cd",
+      "status": "hold",
+      "reason": "왕이 적군이 여러 나라를 황폐하게 했다는 사실을 기도 중에 언급하는 미완 문장이다. 구체적 어려움을 인정하는 모습은 보이나 요청이나 선택은 다음 절에 이어진다.",
+      "contextNote": "히스기야가 앗수르 왕들의 파괴를 하나님께 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:19:18",
+      "textSha256": "f0cc88ebc8ee02e8b24ad068f6782ced7ad2431d08dde7030c0935395a9e60ee",
+      "status": "hold",
+      "reason": "다른 나라의 신상들이 나무와 돌로 만든 것이어서 불에 던져졌다고 말한다. 특정한 신학적 진술과 전쟁 피해를 타 종교 사람이나 물건에 대한 행동으로 옮길 수 없다.",
+      "contextNote": "히스기야가 적이 다른 나라의 신상을 파괴했음을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:19:19",
+      "textSha256": "cebe0f31899142078d4149a903668096f279ad1c2fe7e887cdd4f33852c0bf85",
+      "status": "candidate",
+      "reason": "압박하는 상대의 손에서 구원해 달라고 하나님께 직접 기도한다. 억울한 상황에서 결과를 알 수 없더라도 기도할지의 고민에 간구의 실마리가 있다.",
+      "contextNote": "히스기야가 하나님의 구원을 간구한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A053",
+          "clue": "문제의 결과를 알지 못해도 지금 하나님께 마음을 털어놓고 도움을 구할 방향을 읽는다.",
+          "friction": "포위 전쟁과 직장의 공로 문제는 다르다. 상사가 바뀌거나 문제 해결이 보장된다고 말하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:19:20",
+      "textSha256": "41420d88eec13076eeed2c98133491a95af78e0bdd2531d8362e93272fa00a48",
+      "status": "hold",
+      "reason": "하나님이 히스기야의 기도를 들었다는 특정한 전언이다. 아직 기도할지 고민하는 사용자에게 이미 기도를 들었다는 현재의 신적 확인으로 제시할 수 없다.",
+      "contextNote": "이사야가 왕의 기도를 들으셨다는 말씀을 전한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:19:21",
+      "textSha256": "f0f8e7de34134259723fe774bbf66536883aa02d3902813aae42c401a7cf7469",
+      "status": "exclude",
+      "reason": "예루살렘이 앗수르 왕을 멸시하고 머리를 흔든다는 특정 전쟁 상대에 대한 신탁이다. 타인을 조롱하는 행동이나 미래 승리를 현재에 적용하기 어렵다.",
+      "contextNote": "시온이 앗수르 왕에게 보이는 태도를 시적으로 말한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:19:22",
+      "textSha256": "1ee8472dbc6533b3ec5fa8c8874a984326fb72245e7421804b723ba2d1a8f473",
+      "status": "hold",
+      "reason": "누구를 꾸짖고 훼방했느냐며 이스라엘의 거룩한 자를 향한 모욕을 지적한다. 말의 대상을 돌아볼 여지는 있으나 하나님을 향한 전쟁 도발과 일상 대화는 다르다.",
+      "contextNote": "앗수르 왕의 하나님에 대한 훼방을 꾸짖는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:19:23",
+      "textSha256": "289fa1287de0e38ed28bd3f1f9b66563b10888601545f805e5552e63d1ad63c7",
+      "status": "exclude",
+      "reason": "앗수르 왕이 군사력과 산림 파괴를 과시하는 말을 인용한다. 나무를 베는 행동이나 정복을 현재 개인의 선택 모델로 쓸 수 없다.",
+      "contextNote": "앗수르 왕의 군사적 자랑과 레바논 침입을 전한다.",
+      "readability": "needs_explanation",
+      "connections": []
     }
   ]
 }
