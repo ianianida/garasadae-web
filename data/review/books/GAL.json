@@ -1,0 +1,689 @@
+{
+  "bookCode": "GAL",
+  "corpusSha256": "f8d5c8b377e243b05fb884b4a6965d2c06a95de74b64a716ee4b95989d61e971",
+  "criteriaVersion": "garasadae-corpus-2026-10-08-v1",
+  "reviewer": "Codex review_ezk_rev",
+  "method": "direct-codex-reading",
+  "entries": [
+    {
+      "id": "KRV:GAL:1:1",
+      "status": "exclude",
+      "readability": "thinkable",
+      "reason": "사람이 아닌 하나님과 그리스도로 말미암아 사도 된 바울이라는 발신자 소개이며 문장이 다음 절로 이어진다.",
+      "contextNote": "갈라디아 교회에 보내는 편지의 첫 인사다.",
+      "connections": [],
+      "textSha256": "1b187009e8157130a1fa631cf72f67380f13b31b8463f5242dd7cbe9d0650981"
+    },
+    {
+      "id": "KRV:GAL:1:2",
+      "status": "exclude",
+      "readability": "thinkable",
+      "reason": "함께 있는 형제들과 갈라디아 교회라는 발신자와 수신자를 나열하는 단편으로 선택 방향이 없다.",
+      "contextNote": "앞 절의 편지 발신자와 수신자를 이어 소개한다.",
+      "connections": [],
+      "textSha256": "d20f2759629649088e467d447677afe34374faa67565fcdc21f16789016babaf"
+    },
+    {
+      "id": "KRV:GAL:1:3",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "힘든 교회 친구에게 기도하겠다고 말할지 망설일 때 은혜와 평강을 비는 짧은 인사에서 마음을 전할 실마리를 얻을 수 있다.",
+      "contextNote": "편지의 수신자에게 하나님의 은혜와 평강을 빈다.",
+      "connections": [
+        {
+          "scenarioId": "R022",
+          "clue": "해결을 약속하기보다 친구의 평안을 빌며 기도하겠다는 마음을 전한다.",
+          "friction": "상대가 이 말을 어떻게 받아들이거나 이후 상황이 나아질지는 알 수 없다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "b26247db9790f9f2e26db5fe0edabbb62c60d3b0d511663690b33f16741ff3c1"
+    },
+    {
+      "id": "KRV:GAL:1:4",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "그리스도가 악한 세대에서 구하려 몸을 드리셨다는 신앙 고백은 현재 일상에서 어느 행동을 고를지 구체적으로 드러내지 않는다.",
+      "contextNote": "편지 첫머리에 예수의 자기희생을 설명한다.",
+      "connections": [],
+      "textSha256": "e6f51e53f99c026fd2d1e7e3c0d69c4aecad11131ad317e4a59d0e1b800b8b39"
+    },
+    {
+      "id": "KRV:GAL:1:5",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "합창대회 우승에 감사하면서 자랑처럼 보일까 고백을 망설일 때 하나님께 영광을 돌리는 말에서 기쁨과 감사를 나눌 실마리를 얻을 수 있다.",
+      "contextNote": "그리스도를 통한 구원에 하나님께 영광을 돌리는 송영이다.",
+      "connections": [
+        {
+          "scenarioId": "C071",
+          "clue": "자기 공만 내세우기보다 함께한 사람들과 하나님께 감사한 마음을 표현한다.",
+          "friction": "앞 절의 구원에 대한 송영이며 특정 대회 우승이 신적 보상이라는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "149a2c15267234185a6a1a9a43b4a6b07fcfac5c478deb861544e81f5d1ec29a"
+    },
+    {
+      "id": "KRV:GAL:1:6",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "다른 복음을 좇아 떠났다는 지적은 다른 신의 의식 참여 여부를 망설이는 사람의 신앙 이탈이 이미 일어났다고 단정해야 그대로 적용된다.",
+      "contextNote": "갈라디아 사람들이 전해 받은 복음에서 벗어남을 지적한다.",
+      "connections": [],
+      "textSha256": "88067b5dc868a94e08c7ce7ea543b6d9b6d55c5f67f16a4b5d18fa6168ecb04e"
+    },
+    {
+      "id": "KRV:GAL:1:7",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "사람들이 복음을 변하게 하고 혼란스럽게 한다는 구체적 고발을 현재 의견이 다른 친구의 의도나 행동으로 사실처럼 옮길 수 없다.",
+      "contextNote": "다른 복음에 현혹되는 공동체를 경계한다.",
+      "connections": [],
+      "textSha256": "3be61565c6c3db53024740d605f10ec4bd11c8be470e03b957626e477da9c2ff"
+    },
+    {
+      "id": "KRV:GAL:1:8",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "기존 복음과 다른 것을 전하는 자에 대한 저주는 자신의 의견을 과장할지 고민하는 상황에 실제로 복음을 바꿨다는 사실을 추가할 수 있다.",
+      "contextNote": "받은 복음에 어긋난 복음을 전하는 자에 대한 강한 경고다.",
+      "connections": [],
+      "textSha256": "0f5b73d66f33b0a2450b3257867e0e9396cccc45d67f228b2e684070fab9837a"
+    },
+    {
+      "id": "KRV:GAL:1:9",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "다른 복음을 전하는 사람에게 저주를 선언하는 반복으로 사용자의 실제 신앙이나 타인의 말을 확인하지 않은 채 특정하기 어렵다.",
+      "contextNote": "앞 절의 다른 복음에 대한 경고를 다시 강조한다.",
+      "connections": [],
+      "textSha256": "9bd3c56662881c56f4bd2ae960cd2c63e7a64f72b2e58ceb1cac0b4f5ffc70cd"
+    },
+    {
+      "id": "KRV:GAL:1:10",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "기독교 신앙 때문에 다른 신을 섬기는 의식이 마음에 걸리지만 친구들 분위기가 불편할까 고민할 때 사람의 기쁨과 하나님께 기쁘게 하려는 선택이 바로 맞닿는다.",
+      "contextNote": "바울이 사람의 호의를 구하는 것과 그리스도를 섬기는 것을 대비한다.",
+      "connections": [
+        {
+          "scenarioId": "C053",
+          "clue": "분위기에 무조건 맞추기보다 자신의 신앙에 따라 의식에 참여하지 않겠다고 양해를 구한다.",
+          "friction": "본문은 복음 선포에 관한 바울의 고백이며 친구들이 악의로 권했다는 뜻이 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "6c829c6bea7b0e9e3e785c6d6a4da833ac51d0389730be871a7f764b5cd0e87f"
+    },
+    {
+      "id": "KRV:GAL:1:11",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "전한 복음이 사람의 뜻에서 난 것이 아니라는 화자의 주장을 개인적인 생각을 하나님 뜻으로 제시할지의 문제와 동일하게 취급할 수 없다.",
+      "contextNote": "바울이 자신이 받은 복음의 기원을 설명한다.",
+      "connections": [],
+      "textSha256": "dbbd1f11e8e2c9c3286d4ad1a06f3e2bb6a777e9cfa96155a8b42b5503cb0a49"
+    },
+    {
+      "id": "KRV:GAL:1:12",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "예수 그리스도의 계시로 받았다는 구체 경험을 실제 계시를 받지 않은 사용자에게 있던 일로 적용할 수 없다.",
+      "contextNote": "바울이 복음을 사람에게서 배운 것이 아니라 계시로 받았다고 말한다.",
+      "connections": [],
+      "textSha256": "acfde727c5895ae36ffe7e1f34d051bb720992ab9e7459d5e46e73ac19fd2743"
+    },
+    {
+      "id": "KRV:GAL:1:13",
+      "status": "exclude",
+      "readability": "thinkable",
+      "reason": "이전에 유대교 안에서 교회를 심하게 핍박한 자신의 행적을 회고할 뿐 이 절만으로 현재 선택할 행동은 나타나지 않는다.",
+      "contextNote": "바울이 회심 전 활동을 회고한다.",
+      "connections": [],
+      "textSha256": "b75581da6dc3ce5e408b704cb6e4888f4ef98c77c1ec57f8952437ae846e7beb"
+    },
+    {
+      "id": "KRV:GAL:1:14",
+      "status": "exclude",
+      "readability": "needs_explanation",
+      "reason": "동족 연갑자보다 조상의 유전에 열심이었다는 특정 경력의 비교로 선택 방향이 드러나지 않고 어휘도 낯설다.",
+      "contextNote": "바울이 회심 전의 유대교 생활을 이어 말한다.",
+      "connections": [],
+      "textSha256": "25ae0b85c44247204f680618974f08767771d4e60467d46801c4428fb629c4fc"
+    },
+    {
+      "id": "KRV:GAL:1:15",
+      "status": "exclude",
+      "readability": "needs_explanation",
+      "reason": "모태에서 자신을 택하고 부르신 이를 언급한 주어만 있고 무엇을 하셨는지는 다음 절에 이어지는 단편이다.",
+      "contextNote": "바울이 자신의 부르심을 설명하며 다음 절로 연결한다.",
+      "connections": [],
+      "textSha256": "538b7224767c2714bb2e7ea43d08346972502bc24695f29359b595b37358b207"
+    },
+    {
+      "id": "KRV:GAL:1:16",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "아들을 이방에 전하도록 드러내셨을 때 혈육과 의논하지 않았다는 특정 소명을 가족에게 계속 신앙을 권할지의 갈등에 그대로 옮길 수 없다.",
+      "contextNote": "바울이 부르심을 받은 직후의 행동을 말한다.",
+      "connections": [],
+      "textSha256": "513747822ca81b8cc2eb539865210a75703a13bb909e0aec9bf19808e751391b"
+    },
+    {
+      "id": "KRV:GAL:1:17",
+      "status": "exclude",
+      "readability": "thinkable",
+      "reason": "사도들을 만나지 않고 아라비아에 갔다가 다메섹으로 돌아간 경로와 순서의 회고이며 이 절 자체에 현재 선택의 기준은 나타나지 않는다.",
+      "contextNote": "바울이 부르심 직후의 여행 경로를 말한다.",
+      "connections": [],
+      "textSha256": "9e1b48acde485318702d33471e8d59df16216d382511573923ef72d38f4a0dc7"
+    },
+    {
+      "id": "KRV:GAL:1:18",
+      "status": "exclude",
+      "readability": "thinkable",
+      "reason": "삼 년 뒤 예루살렘에서 게바와 십오 일을 지냈다는 날짜와 방문 기록으로 일상 고민을 푸는 선택 방향이 없다.",
+      "contextNote": "바울이 게바를 방문한 때와 기간을 회고한다.",
+      "connections": [],
+      "textSha256": "2c971b3066d5a903978e4c3618aebc9457d0af0a6c3e5e1674d055d4bd0039c6"
+    },
+    {
+      "id": "KRV:GAL:1:19",
+      "status": "exclude",
+      "readability": "thinkable",
+      "reason": "야고보를 제외한 다른 사도는 만나지 않았다는 구체 방문 기록만으로 현재 행동의 실마리가 주어지지 않는다.",
+      "contextNote": "앞 절의 예루살렘 방문에서 만난 사람을 제한해 설명한다.",
+      "connections": [],
+      "textSha256": "7dab00615a0b8e1cfe84fe2da95a8317cfff7c0c706e92e9483c713022e410bb"
+    },
+    {
+      "id": "KRV:GAL:1:20",
+      "status": "candidate",
+      "readability": "clear",
+      "reason": "팀에서 성과를 부풀리자고 해도 사실대로 쓸지 고민할 때 하나님 앞에 쓰는 것이 거짓이 아니라는 말이 정직한 기록의 실마리가 된다.",
+      "contextNote": "바울이 자신의 회심 후 행적에 관한 편지 내용이 참이라고 확인한다.",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "더 좋아 보이게 꾸미기보다 실제 수치를 보고하겠다고 말한다.",
+          "friction": "화자의 과거 진술과 팀의 미래 보고는 다르며 사실대로 써도 어떤 평가를 받을지는 알 수 없다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "5deb99f667d1d1b06161d2250572125675cf7a2635cd9df88037e7253ff85f5a"
+    },
+    {
+      "id": "KRV:GAL:1:21",
+      "status": "exclude",
+      "readability": "thinkable",
+      "reason": "수리아와 길리기아 지방에 이르렀다는 여행 경로 단편만으로 개인 고민을 해결할 실마리가 없다.",
+      "contextNote": "바울이 회심 후 방문한 지역을 말한다.",
+      "connections": [],
+      "textSha256": "4ab9cfc56ac2372d30552d94a8a522319cc23d598f0b63a339f92ef16af9db11"
+    },
+    {
+      "id": "KRV:GAL:1:22",
+      "status": "exclude",
+      "readability": "thinkable",
+      "reason": "유대 교회들이 화자의 얼굴을 몰랐다는 관계 설명이며 행동의 의미는 다음 절들에 이어진다.",
+      "contextNote": "바울과 유대 지역 교회들의 당시 관계를 소개한다.",
+      "connections": [],
+      "textSha256": "29406a00f6ffc3f2bc7c1d9ce28ba51bd1833b2d72152d2dc22fab0c7f993c80"
+    },
+    {
+      "id": "KRV:GAL:1:23",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "친구가 잘못을 인정하고 실제로 같은 행동을 고치려 노력하지만 계속 벌을 줄지 고민할 때 전에 해치던 사람이 지금은 그 믿음을 전한다는 변화가 연결된다.",
+      "contextNote": "과거 교회를 핍박하던 바울이 그 믿음을 전한다는 소식을 교회들이 들었다.",
+      "connections": [
+        {
+          "scenarioId": "C002",
+          "clue": "과거의 잘못만 보지 않고 현재 달라지려는 친구의 행동도 보며 받아들일 수 있다.",
+          "friction": "사도의 큰 변화와 친구의 노력이 같다는 뜻은 아니고 앞으로도 반드시 반복하지 않을지는 모른다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "4e4b36ff21391f938db7a90628c54cd19b3774d4fb032002f5678ebd4f55af34"
+    },
+    {
+      "id": "KRV:GAL:1:24",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "교회 합창팀이 우승한 일과 하나님께 감사한 마음을 말할지 고민할 때 화자로 인해 하나님께 영광을 돌렸다는 말에서 감사를 나눌 실마리를 얻을 수 있다.",
+      "contextNote": "바울의 달라진 행적을 들은 교회들이 하나님께 영광을 돌렸다.",
+      "connections": [
+        {
+          "scenarioId": "C071",
+          "clue": "우승을 혼자 자랑하는 대신 함께한 사람들에 대한 고마움과 하나님께 드리는 감사를 표현한다.",
+          "friction": "본문의 이유는 앞 절 바울의 변화이며 대회 결과가 하나님의 보상이라고 단정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "6ae28217a69bfa1413cffe7b024af938f53daf7eb748588b8be1fd8ec90e6e64"
+    },
+    {
+      "id": "KRV:GAL:2:1",
+      "status": "exclude",
+      "readability": "thinkable",
+      "reason": "십사 년 후 두 사람과 예루살렘에 다시 올라갔다는 역사적 이동의 기록으로 그 자체에 현재 선택 방향은 드러나지 않는다.",
+      "contextNote": "바울이 뒤에 예루살렘을 재방문한 일을 회고한다.",
+      "connections": [],
+      "textSha256": "02872f75bc9022f3803fe2d90da8d947b26309a12559fb1c1ea675b50c069ed9"
+    },
+    {
+      "id": "KRV:GAL:2:2",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "계시로 방문해 유명한 사람들에게 복음을 사사로이 제출한 긴 사정을 어려운 성경 설명을 부탁할지 고민하는 일에 연결하려면 행위와 목적을 풀어야 한다.",
+      "contextNote": "바울이 예루살렘의 지도자들에게 자신의 이방 선교를 설명한 이유다.",
+      "connections": [],
+      "textSha256": "fe085acf77eac163d014e0288172858809dda794dc8e6bba74f40a4d0b191887"
+    },
+    {
+      "id": "KRV:GAL:2:3",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "디도가 억지로 할례를 받지 않았다는 특정 종교 관례의 보고를 연인의 친밀감이나 일반적인 압박에 비유할 수는 있으나 실제 강제 여부를 부여하기 쉽다.",
+      "contextNote": "이방인인 디도가 할례를 강요받지 않았음을 말한다.",
+      "connections": [],
+      "textSha256": "46f660812f2c58f10744dcab74dff37936a282fd14a887acc6851f3d75f6ccaf"
+    },
+    {
+      "id": "KRV:GAL:2:4",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "거짓 형제가 자유를 엿보고 종으로 만들려고 몰래 들어왔다는 구체적 의도와 행위를 현재 관계의 상대에게 확인 없이 덧씌울 수 없다.",
+      "contextNote": "공동체에 들어온 거짓 형제들의 의도를 설명한다.",
+      "connections": [],
+      "textSha256": "60214df092014ddd6a8fa0e2f9bc3fa2c0a944658824e74b23b2d03b2d95f5c8"
+    },
+    {
+      "id": "KRV:GAL:2:5",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "복음의 진리를 위해 일시라도 복종하지 않았다는 발언은 압력을 거절하는 모습이지만 어떤 실제 선택의 대상을 이 절만으로 짚기 어렵다.",
+      "contextNote": "거짓 형제들의 압력에 굴복하지 않았다고 말한다.",
+      "connections": [],
+      "textSha256": "1c99e9d08028449284e027d807c3474c608a7c26df041ac0e973d8d3f5cd00d5"
+    },
+    {
+      "id": "KRV:GAL:2:6",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "서로 다른 나라 출신의 세례받은 신자들이 함께하는 모임에서 새 사람을 낯설어할 때 하나님은 사람의 외모를 취하지 않는다는 말이 같은 공동체로 받아들이는 실마리를 준다.",
+      "contextNote": "바울이 유명한 지도자들의 지위와 자신의 복음에 대해 설명한다.",
+      "connections": [
+        {
+          "scenarioId": "C065",
+          "clue": "국적이나 문화가 다르다는 이유로 멀어지기보다 새로 온 사람과 함께 이야기한다.",
+          "friction": "유명인들의 지위와 덧붙임에 관한 주변 문장이 길어 읽는 데 잠시 생각이 필요하다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "305287a102d07f27bf833eeda1260920ae4570d8e274b798254bb9f7ac22f3eb"
+    },
+    {
+      "id": "KRV:GAL:2:7",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "이미 잘 운영되는 분야의 모임을 하나 더 만들지 아직 모일 곳 없는 사람들의 분야를 찾을지 고민할 때 바울과 베드로가 서로 다른 사람들에게 맡은 일을 생각할 수 있다.",
+      "contextNote": "바울이 무할례자에게 복음을 전하는 일을 맡고 베드로는 할례자를 맡았음을 지도자들이 보았다.",
+      "connections": [
+        {
+          "scenarioId": "C038",
+          "clue": "기존 모임이 맡은 분야를 반복하기보다 아직 모임이 없는 관심 분야의 필요를 찾는다.",
+          "friction": "할례라는 신앙적 구분을 취향 모임에 비유해야 하며 기존 모임과 경쟁하거나 협력하기로 했다는 사실은 없다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "786317749ffab0910521d30dc603e3bcd5a15c22ba6cbea3a2a3a10ac23d660d"
+    },
+    {
+      "id": "KRV:GAL:2:8",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "같은 하나님이 베드로와 바울을 다른 대상의 사도로 삼으셨다는 역사적 사명 설명이며 성별이 다른 사람들의 의견을 어떻게 모을지 직접 제시하지 않는다.",
+      "contextNote": "베드로와 바울의 각 사도직을 일으킨 분이 하나님이라고 말한다.",
+      "connections": [],
+      "textSha256": "d5d7aafb19797cd9a703450538d8f80a0c746a670272269fda07949da8db1ec0"
+    },
+    {
+      "id": "KRV:GAL:2:9",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "남녀가 함께 교회 행사를 준비할 때 자기 성별의 의견만 따를지 고민하는 사람은 서로 다른 역할을 맡은 사람들이 교제의 악수를 한 장면에서 함께할 실마리를 얻을 수 있다.",
+      "contextNote": "예루살렘 지도자들이 바울과 바나바의 사명을 인정하고 교제의 악수를 나눈다.",
+      "connections": [
+        {
+          "scenarioId": "C058",
+          "clue": "한쪽 성별만으로 충분하다고 선을 긋기보다 서로의 역할과 의견을 존중하며 함께 준비한다.",
+          "friction": "실제 구분은 할례 여부와 선교 대상이고 이방인에게 간다는 지리적 역할이 성별 배치와 같은 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "7fd113e22eeb55c3731182769e2fc6a1c5a33e4ce4bb4c8658ee57b18273f6e6"
+    },
+    {
+      "id": "KRV:GAL:2:10",
+      "status": "candidate",
+      "readability": "clear",
+      "reason": "생활이 어려운 성도를 위한 교회 모금에 보탤지 돈을 아낄지 고민할 때 가난한 사람을 기억하고 힘써 돕는다는 말이 구체적 선택과 닿는다.",
+      "contextNote": "지도자들이 바울 일행에게 가난한 사람들을 기억하라고 부탁했고 바울도 이를 힘써 했다.",
+      "connections": [
+        {
+          "scenarioId": "C072",
+          "clue": "마음에 여유가 있다면 어려운 성도를 위한 모금에 조금을 보탠다.",
+          "friction": "다른 이의 요구를 무조건 받아들이라는 뜻이 아니며 기부 효과나 이후 형편은 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "6a5286c786a1825a4a9b7ff053c3245edb759b796ee3d9ca98df96ed750af954"
+    },
+    {
+      "id": "KRV:GAL:2:11",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "책망할 일이 있어 면책했다는 말의 면책은 오늘날 책임을 면해 준다는 뜻으로 읽히기 쉬워 맞서 꾸짖었다는 원래 장면을 풀어야 한다.",
+      "contextNote": "바울이 안디옥에서 게바를 공개적으로 반대한 사건을 시작한다.",
+      "connections": [],
+      "textSha256": "c0bcbccb1b4a0ecf699c68ad619fc4da4598ac5b192aab9d02f892af7b888eba"
+    },
+    {
+      "id": "KRV:GAL:2:12",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "이방인과 함께 먹다가 특정 사람들이 오자 두려워 물러난 장면은 낯선 사람과 어울릴지 고민에 닿지만 할례자와 이방인의 관계를 이해해야 방향이 선명하다.",
+      "contextNote": "게바가 할례자들의 눈치를 보며 이방인과의 식사를 피한 일을 말한다.",
+      "connections": [],
+      "textSha256": "78c6e4247151457ecc914df32dc6e36c4efc70238a5b337619a7e3be19c207b0"
+    },
+    {
+      "id": "KRV:GAL:2:13",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "외식은 오늘날 바깥에서 밥을 먹는 뜻으로 오해하기 쉽고 같은 외식에 유혹됐다는 행위가 무엇인지 앞 절이 필요하다.",
+      "contextNote": "게바의 위선적 태도를 다른 유대인과 바나바도 따라간 일을 말한다.",
+      "connections": [],
+      "textSha256": "fa01d4d8880b2e6314d7ccf278eb51f413f27fc77db0d438961ef23b136740c3"
+    },
+    {
+      "id": "KRV:GAL:2:14",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "유대인과 이방인의 생활방식을 긴 반문으로 비교하는 본문 전체를 동아리 의견 배제나 다른 문화의 사람과 어울리는 선택에 바로 잇기는 어렵다.",
+      "contextNote": "바울이 이방인에게 유대식 생활을 강요하는 게바를 공개적으로 책망한다.",
+      "connections": [],
+      "textSha256": "1e55696f3cf4fb32573708ee35ab5681b183591d030fbf652fbc96a88156cf9f"
+    },
+    {
+      "id": "KRV:GAL:2:15",
+      "status": "exclude",
+      "readability": "thinkable",
+      "reason": "우리는 본래 유대인이며 이방 죄인이 아니라는 앞문장만으로 뒤의 믿음과 의에 관한 논리가 완성되지 않는다.",
+      "contextNote": "다음 절의 율법과 믿음 논증을 시작한다.",
+      "connections": [],
+      "textSha256": "55efe7d776e410a827b1d2a5a25d6515bc86107e8a21de4a20b5493357e9bc7d"
+    },
+    {
+      "id": "KRV:GAL:2:16",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "예전 잘못 때문에 충분히 나아진 후에야 세례 준비를 할 수 있을 것 같다는 사람은 율법 행위가 아닌 그리스도에 대한 믿음으로 의롭다 함을 얻는다는 말에서 시작할 실마리를 얻을 수 있다.",
+      "contextNote": "바울이 율법 행위가 아닌 그리스도에 대한 믿음으로 의롭다 함을 얻는다고 설명한다.",
+      "connections": [
+        {
+          "scenarioId": "C018",
+          "clue": "완벽한 사람이 될 때까지 미루기보다 잘못을 인정하며 신앙생활과 세례 준비를 시작한다.",
+          "friction": "긴 신학적 반복을 이해해야 하며 본문이 특정 교회의 세례 자격이나 절차를 대신 판단하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "bd528bae91cf7406c68d245f8f132a88bfd1fb04885bbef6f6749b78f703ee9f"
+    },
+    {
+      "id": "KRV:GAL:2:17",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "그리스도 안에서 의롭게 되려 하다 죄인으로 나타나는 것이 그리스도의 죄 짓게 함인지 묻는 논증은 이미 바로잡은 잘못 때문에 새 일이 벌이라고 여기는 개인 고민과 같지 않다.",
+      "contextNote": "믿음으로 의롭다 함을 구하는 과정과 죄의 관계를 논증한다.",
+      "connections": [],
+      "textSha256": "c45332d38f5490eae4ca7677931ef51cc48fe10a5245fdd40c524c9a797aca04"
+    },
+    {
+      "id": "KRV:GAL:2:18",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "헐었던 것을 다시 세운다면 범법자가 된다는 비유는 실제로 중단한 것을 다시 시작했다는 조건이 필요해 아직 고칠 방법을 정하지 않은 습관 고민에 바로 적용하기 어렵다.",
+      "contextNote": "바울이 자신이 헐었던 율법의 체계를 다시 세우는 모순을 말한다.",
+      "connections": [],
+      "textSha256": "2f641db7132cf49463af92465dc614fa90469fe8959ddeb433ffa406e48217d8"
+    },
+    {
+      "id": "KRV:GAL:2:19",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "율법을 향해 죽어 하나님께 산다는 신학적 대비는 봉사 일을 더 맡거나 기도 시간을 지킬지의 구체적 선택으로 연결하려면 풀이가 필요하다.",
+      "contextNote": "율법과 하나님을 향한 삶의 관계를 말한다.",
+      "connections": [],
+      "textSha256": "ef8cfc188897c51e79bbb4cbb7838b11c5b0d720d635e78f083ca79ec7a9ecb3"
+    },
+    {
+      "id": "KRV:GAL:2:20",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "교회에 다닌다는 이유로 주변에게 비웃음을 받아 신앙을 숨길지 고민할 때 그리스도를 믿는 믿음 안에서 살아간다는 고백이 신앙을 이어갈 용기를 줄 수 있다.",
+      "contextNote": "바울이 그리스도와 함께 죽고 믿음 안에서 산다는 신앙 고백을 한다.",
+      "connections": [
+        {
+          "scenarioId": "C031",
+          "clue": "타인의 비웃음 때문에 믿음을 숨기기보다 힘든 마음을 나누며 신앙생활을 이어간다.",
+          "friction": "십자가와 자신 안에 그리스도가 산다는 표현이 신학적으로 깊고 주변 반응이 멈춘다고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "a10ce8c989796e711b3ff771ad862b11c9446d04351befc905eae3fe57efee98"
+    },
+    {
+      "id": "KRV:GAL:2:21",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "지난 잘못 때문에 완전히 나은 사람이 된 뒤에야 세례를 준비할지 고민하는 사람은 하나님의 은혜를 폐하지 않는다는 표현에서 완벽을 기다리지 않고 신앙을 시작할 실마리를 얻을 수 있다.",
+      "contextNote": "율법으로 의로워진다면 그리스도의 죽음이 헛되다는 논리로 은혜를 강조한다.",
+      "connections": [
+        {
+          "scenarioId": "C018",
+          "clue": "잘못을 인정하면서도 계속 미루기보다 교회에서 신앙생활과 세례 준비를 시작한다.",
+          "friction": "율법과 은혜의 대조를 과거 잘못에 대한 불안에 비유해 읽으며 실제 세례 절차의 자격을 대신 판정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "197c3e08da0d8d7c22d89cf69dca211536b47020f6a6c0022d407c322f6bdb96"
+    },
+    {
+      "id": "KRV:GAL:3:1",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "갈라디아 사람들이 꾐을 당했다는 강한 책망을 실제로 누군가 사용자를 속였다는 확인 없이 일상 대인관계에 덧붙일 수 없다.",
+      "contextNote": "바울이 다른 복음에 기운 공동체를 책망한다.",
+      "connections": [],
+      "textSha256": "24e114badfe4b58119768cf725092dcae611036449f5b70b433ded0f7040d5e0"
+    },
+    {
+      "id": "KRV:GAL:3:2",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "성령을 이미 받은 이들에게 행위와 믿음 중 어느 쪽으로 받았는지 묻는 구절은 신앙을 막 시작하려는 사람에게 같은 영적 경험을 사실로 부여하기 쉽다.",
+      "contextNote": "율법의 행위와 믿음으로 성령을 받음의 관계를 묻는다.",
+      "connections": [],
+      "textSha256": "d0c600687afd974d3a834e42b93b9ded67fd4d44c7dab9f23b1b1239a347ff37"
+    },
+    {
+      "id": "KRV:GAL:3:3",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "성령으로 시작하고 육체로 마치려느냐는 책망은 본래 신앙 논쟁을 설명해야 하고 반복되는 일상 습관의 구체 행동을 바로 특정하지 않는다.",
+      "contextNote": "율법 행위로 의로워지려는 태도를 반문한다.",
+      "connections": [],
+      "textSha256": "59e66b24894362309d180f173fd9f8b712edca28dcc9c65066a6636441145f8a"
+    },
+    {
+      "id": "KRV:GAL:3:4",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "많은 괴로움이 헛된 것이냐는 물음은 과거의 어려움을 떠올리게 하지만 계속 따질지 현재에 집중할지 두 선택 중 어느 실마리인지 모호하다.",
+      "contextNote": "갈라디아 사람들이 겪은 일을 언급하며 복음에서 벗어남을 묻는다.",
+      "connections": [],
+      "textSha256": "92b64410e788d96d365e180e7f2298b160bc17138868bcf1f8c06e21a52176ae"
+    },
+    {
+      "id": "KRV:GAL:3:5",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "성령을 주고 능력을 행하는 일의 근거가 율법 행위인지 믿음인지 묻는 신학적 논증으로 구체 생활 선택은 드러나지 않는다.",
+      "contextNote": "앞의 행위와 믿음에 대한 질문을 반복한다.",
+      "connections": [],
+      "textSha256": "2b7bd40c953dc283afb301cca493841be9d72d88fd035deaf6725464ac136d3e"
+    },
+    {
+      "id": "KRV:GAL:3:6",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "과거 잘못 때문에 충분히 좋은 사람이 되어야 세례를 준비할 수 있다고 느끼는 사람은 아브라함의 믿음을 의로 보셨다는 말에서 신앙을 시작할 용기를 얻을 수 있다.",
+      "contextNote": "아브라함의 믿음을 의로 여기셨다는 성경을 인용한다.",
+      "connections": [
+        {
+          "scenarioId": "C018",
+          "clue": "완벽해질 때까지 미루기보다 잘못을 인정하면서 믿음을 배우고 세례 준비를 시작한다.",
+          "friction": "아브라함의 믿음에 대한 설명이므로 사용자가 이미 특정 영적 상태에 도달했거나 세례 자격을 얻었다고 단정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "1caf7e774491469e3d1205119257146c6e9f7457b20520eed06f336094317bf9"
+    },
+    {
+      "id": "KRV:GAL:3:7",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "같이 세례받은 새 교인이 다른 나라 출신이라 낯설게 느껴질 때 믿음으로 아브라함의 자녀가 된다는 말에서 같은 공동체라는 실마리를 얻을 수 있다.",
+      "contextNote": "믿음에 속한 이들이 아브라함의 자손임을 설명한다.",
+      "connections": [
+        {
+          "scenarioId": "C065",
+          "clue": "문화가 낯설다는 이유로 선을 긋기보다 믿음을 나누는 사람으로 새 교인에게 다가간다.",
+          "friction": "아브라함의 아들이라는 표현의 신앙적 비유를 이해해야 하며 상대가 반드시 친해지고 싶어 한다고 가정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "699ded582d2df92fcbcd20b511f52ef65b615ece91d3e98d0b42e56a9938163c"
+    },
+    {
+      "id": "KRV:GAL:3:8",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "같은 신앙의 새 교인이 다른 국적이라 거리 둘지 고민할 때 모든 이방이 복을 받는다는 구절에서 문화가 달라도 함께할 수 있다는 생각을 얻을 수 있다.",
+      "contextNote": "이방인이 믿음으로 의롭다 여김을 받는다는 약속을 아브라함에게 전한 말씀으로 설명한다.",
+      "connections": [
+        {
+          "scenarioId": "C065",
+          "clue": "낯선 나라 출신이라고 기존 사람들끼리만 어울리지 않고 먼저 이야기를 나눈다.",
+          "friction": "긴 신학적 설명이 있고 이방이라는 성경적 구분을 현재 국적과 동일시하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "b5cead6a9cf78dcc3533123e77ec3b465a5e9d3caa5a5b374944243cb4889e0d"
+    },
+    {
+      "id": "KRV:GAL:3:9",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "이전 잘못 때문에 신앙을 시작할 자격을 걱정하는 사람은 믿음으로 아브라함과 함께 복을 받는다는 말에서 완벽해질 때까지 미루지 않을 마음을 얻을 수 있다.",
+      "contextNote": "믿음으로 말미암은 사람과 아브라함의 복을 연결한다.",
+      "connections": [
+        {
+          "scenarioId": "C018",
+          "clue": "과거 잘못을 인정하며 지금부터 신앙생활과 세례 준비를 시작한다.",
+          "friction": "복의 실제 모습이나 특정 교회의 세례 허용을 확정하는 말로 바꾸지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "3d5b29a7be1b9c70b63b1523add128b66fc1feb6b1644120bb944cedac149848"
+    },
+    {
+      "id": "KRV:GAL:3:10",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "율법의 모든 일을 항상 행하지 않는 자의 저주를 말하는 강한 논증을 지난 잘못이 마음에 걸리는 사람의 영적 상태에 대한 확정 판정으로 옮길 수 없다.",
+      "contextNote": "율법 행위에 의존하는 이들에 관한 성경 구절을 인용한다.",
+      "connections": [],
+      "textSha256": "43ed5fc861f2bcf2a0207a3cb031914e107e7526ec16c0eaf5a7963c0a83749f"
+    },
+    {
+      "id": "KRV:GAL:3:11",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "완전히 좋은 사람이 된 뒤에야 세례를 준비해야 하는지 고민하는 사람에게 율법이 아닌 믿음으로 산다는 표현이 신앙을 지금 배울 실마리가 된다.",
+      "contextNote": "하나님 앞에서 율법에 의존해 의롭게 되지 못함을 믿음으로 사는 의인의 인용으로 설명한다.",
+      "connections": [
+        {
+          "scenarioId": "C018",
+          "clue": "지나간 잘못을 인정하되 완벽해질 때까지 미루지 않고 신앙생활을 시작한다.",
+          "friction": "율법과 믿음의 신학적 대비가 필요하며 이 절이 교회의 세례 절차를 대체하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "d441e30e5aa4f5c761551b6bb0215ea1674dcdac637049f3e6402758e5ceeab3"
+    },
+    {
+      "id": "KRV:GAL:3:12",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "율법과 믿음이 다르며 행하는 자가 그 안에서 산다는 인용만으로 현재 어느 행동을 해야 할지 연결하기 어렵다.",
+      "contextNote": "율법과 믿음의 성격을 대비하는 논증의 일부다.",
+      "connections": [],
+      "textSha256": "afd9e5e8ff0ad2d1df3638f53be6b12b711d20a2c243904f7890d7dbf9d2e986"
+    },
+    {
+      "id": "KRV:GAL:3:13",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "율법의 저주에서 속량하셨다는 말은 은혜의 위로가 될 수 있으나 속량과 나무에 달린 자의 저주를 풀어야 현재 선택에 이어진다.",
+      "contextNote": "그리스도의 죽음을 율법의 저주에서의 구속으로 설명한다.",
+      "connections": [],
+      "textSha256": "2c1cafd33123dba8c8551f91b4c758a5e10886f9ce19bcb5fc7e267733637d6a"
+    },
+    {
+      "id": "KRV:GAL:3:14",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "다른 나라 출신의 세례받은 신자도 함께 있는 교회 모임에서 그 사람을 멀리할지 고민할 때 이방인에게 미치는 복과 믿음의 약속을 공동체에 비유할 수 있다.",
+      "contextNote": "그리스도 안에서 이방인에게 복과 성령의 약속이 미친다는 설명이다.",
+      "connections": [
+        {
+          "scenarioId": "C065",
+          "clue": "문화가 낯설더라도 함께 신앙을 나누는 사람으로 인정하고 이야기를 건넨다.",
+          "friction": "성경의 이방인이라는 신학적 구분은 오늘의 국적과 동일하지 않고 상대의 마음을 추측하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "07244a1ffaa7673b0e6f3cb48adf0af44af5d1702708e850d8820eb53a8e8788"
+    },
+    {
+      "id": "KRV:GAL:3:15",
+      "status": "candidate",
+      "readability": "clear",
+      "reason": "이미 카메라 거래 가격을 약속했는데 더 높은 가격의 제안을 받아 고민할 때 정한 언약을 임의로 폐하거나 더하지 못한다는 말이 직접 닿는다.",
+      "contextNote": "사람의 언약을 예로 들어 하나님의 약속과 율법의 관계를 설명한다.",
+      "connections": [
+        {
+          "scenarioId": "G09",
+          "clue": "더 높은 금액이 아쉽더라도 이미 합의한 가격으로 첫 거래를 지킨다.",
+          "friction": "사람의 언약에 대한 일반 비유이며 상대방의 실제 의사나 거래가 반드시 끝날지는 알 수 없다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "e23fc5a26c7dba675764d05548f034bc18b864b245546766832bb0522ddf1323"
+    }
+  ]
+}

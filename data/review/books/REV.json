@@ -1,0 +1,2754 @@
+{
+  "bookCode": "REV",
+  "corpusSha256": "f8d5c8b377e243b05fb884b4a6965d2c06a95de74b64a716ee4b95989d61e971",
+  "criteriaVersion": "garasadae-corpus-2026-10-08-v1",
+  "reviewer": "Codex terra_resume_gen",
+  "method": "direct-codex-reading",
+  "entries": [
+    {
+      "id": "KRV:REV:1:1",
+      "status": "hold",
+      "reason": "요한에게 장차 될 일을 보이도록 계시를 전달하는 서문이다. 현재 고민의 결과를 미리 알 수 있다는 주장이나 선택의 실마리로 곧장 바꾸기 어렵다.",
+      "contextNote": "예수 그리스도의 계시가 천사를 통해 요한에게 전해진다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "1c37491b2cae883b0e88202b4c2bfa3b54fa0e1bf0f6fff68b6213ea41c5d105"
+    },
+    {
+      "id": "KRV:REV:1:2",
+      "status": "candidate",
+      "reason": "자기가 본 것을 증거했다는 대목을 믿게 된 자신의 경험을 꾸미지 않고 나눌지 망설이는 고민에 대조하면 직접 겪은 일을 말할 실마리가 된다.",
+      "contextNote": "요한이 말씀과 예수의 증거, 자신이 본 것을 증언한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C039",
+          "clue": "멋진 말보다 자신이 실제로 보고 경험한 믿음의 일을 나눠 볼 수 있다.",
+          "friction": "본문은 요한의 증언이며 사용자의 경험과 당시 목격을 같다고 전제하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "415a15c0a2deff6bfd3648cdf18e457215305ab6d91090ccc55d89b8456225d9"
+    },
+    {
+      "id": "KRV:REV:1:3",
+      "status": "candidate",
+      "reason": "말씀을 읽고 듣고 지키는 사람의 복을 말해 계속 성경을 읽을지 고민하는 사람에게 지금 이어 읽을 실마리를 준다.",
+      "contextNote": "예언의 말씀을 읽고 듣고 기록한 것을 지키는 사람에게 복이 있다고 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B034",
+          "clue": "바쁜 일상에서도 마음에 남은 말씀을 계속 읽고 살펴볼 수 있다.",
+          "friction": "특히 이 예언의 말씀과 가까운 때를 말하므로 독서만 하면 현실의 일이 잘된다는 보장은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "0839680cd91b51d563fdbd1aec6f265f3756aa1bf74225b473b14ddaac5b805c"
+    },
+    {
+      "id": "KRV:REV:1:4",
+      "status": "exclude",
+      "reason": "일곱 교회에 보낸 편지의 수신인과 인사말 앞부분으로 다음 절에 문장이 이어진다. 이 절만으로 선택을 떠올릴 독립된 내용이 부족하다.",
+      "contextNote": "요한이 아시아의 일곱 교회에 편지 인사를 시작한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "95d03a4acc5581d11d767eb9297a73f39fe3ccf580f94820c72870e61714e5fc"
+    },
+    {
+      "id": "KRV:REV:1:5",
+      "status": "candidate",
+      "reason": "사랑과 죄에서의 해방을 말해 이전 잘못 때문에 신앙생활과 세례 준비를 망설이는 고민에서 받아들여질 가능성을 생각하고 시작할 실마리가 된다.",
+      "contextNote": "예수 그리스도의 은혜와 평강을 기원하고 그 사랑과 해방을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C018",
+          "clue": "과거 잘못만으로 계속 물러서기보다 말씀 속 사랑을 생각하며 세례 준비를 시작할 수 있다.",
+          "friction": "고백의 후반이 다음 절에 이어지며 지금의 세례 절차나 특정 결과를 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "bb7dd959dd18fc9b4a5c69f17f75738923deb6d83f1e569ccf350bd5cfd36fb5"
+    },
+    {
+      "id": "KRV:REV:1:6",
+      "status": "hold",
+      "reason": "하나님을 위한 나라와 제사장에 관한 찬양이다. 앞 절의 주체를 알아야 자연스럽고 개인의 구체적인 선택으로 이어질 단서가 약하다.",
+      "contextNote": "앞 절에 이어 영광과 능력을 돌리는 찬양을 한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "b6a5bed113b5bf5b542ee1df9574aac3f90401c817a00bbbcd06f2c2ac4379bb"
+    },
+    {
+      "id": "KRV:REV:1:7",
+      "status": "hold",
+      "reason": "구름을 타고 오실 이와 여러 족속의 애곡에 대한 환상적 선포다. 곧 다가올 생활 사건이나 당장의 선택 결과로 바꿀 근거가 없다.",
+      "contextNote": "그리스도의 오심을 모두가 볼 것이라 선언한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "984ca487cb623e8b7ee46af4ddb59184d7d432085d657ae9e3b5c97458014a8e"
+    },
+    {
+      "id": "KRV:REV:1:8",
+      "status": "hold",
+      "reason": "하나님의 처음과 마지막, 영원성을 선포한다. 위로로 읽을 수는 있지만 이 문장만으로 구체적인 양쪽 선택 중 무엇을 생각해 볼지 찾기 어렵다.",
+      "contextNote": "주 하나님이 자신의 영원하심과 전능을 말씀한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "82b530ec05fde0a516d5aeb09bffca0c55e2f2716ed4d496f571d038ea42d24a"
+    },
+    {
+      "id": "KRV:REV:1:9",
+      "status": "hold",
+      "reason": "요한이 믿음으로 인한 환난과 참음에 동참하며 섬에 있었음을 소개한다. 신앙으로 불편을 겪는 마음은 비슷하지만 앞으로 무엇을 할지 구절 자체에 뚜렷한 실마리는 부족하다.",
+      "contextNote": "요한이 예수의 환난과 참음에 동참하는 형제로서 자신을 소개한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "56df302133b91eae4e235c8cf2bba6c11e99f0bded217533395678f66c807b47"
+    },
+    {
+      "id": "KRV:REV:1:10",
+      "status": "exclude",
+      "reason": "성령에 감동한 요한이 나팔 같은 음성을 듣는 환상 도입이다. 음성을 들었다는 사실만으로 일상 고민의 선택을 정할 단서가 없다.",
+      "contextNote": "요한이 주의 날에 큰 음성을 듣는다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "9d3092b69893dcccb47aa85727a65f20e5b19c3799d370557568bb529c92a9af"
+    },
+    {
+      "id": "KRV:REV:1:11",
+      "status": "hold",
+      "reason": "본 것을 써서 구체적인 일곱 교회로 보내라는 환상 속 명령이다. 기록을 떠올릴 수 있으나 사적인 경험을 혼자 적을지 고민하는 상황에 수신 교회 목록까지 자연스럽게 이어지기 어렵다.",
+      "contextNote": "요한이 보고 있는 것을 책에 써 일곱 교회에 보내라는 말씀을 듣는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B012",
+          "clue": "겪은 일을 기록하는 행동을 생각할 여지는 있다.",
+          "friction": "구체 교회에 보내라는 명령까지 현재의 개인 기록에 대응하기 어렵다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "5cc2d5ba93b0ed7322d73e0413bea5b629e77d2836fa1854bd6dee0fa7bec026"
+    },
+    {
+      "id": "KRV:REV:1:12",
+      "status": "hold",
+      "reason": "말한 음성을 알아보려 몸을 돌린 장면이지만 일곱 금 촛대를 보는 환상으로 끝난다. 현재 고민에 무엇을 살펴볼지 구체적인 결정 단서가 부족하다.",
+      "contextNote": "요한이 말하는 음성을 향해 돌아서 일곱 금 촛대를 본다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "eee7ea9240c97444b2d7779168bb1f5495421d994eb8093f4c78790a8266478c"
+    },
+    {
+      "id": "KRV:REV:1:13",
+      "status": "exclude",
+      "reason": "촛대 사이 인자의 긴 옷과 금띠를 묘사한 환상이다. 옷이라는 낱말만으로 현재 옷 구매나 다른 선택의 이유를 만들 수 없다.",
+      "contextNote": "요한이 촛대 사이의 인자 같은 이를 본다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "46375f176e80e881b941adb50b4dc7819ead0e525bb8d9b0771cf2b9d8eaea62"
+    },
+    {
+      "id": "KRV:REV:1:14",
+      "status": "exclude",
+      "reason": "환상 속 인물의 흰 머리와 불꽃 같은 눈을 묘사한다. 어느 행동을 할지 판단할 실마리가 없는 신체 묘사다.",
+      "contextNote": "인자 같은 이의 머리와 눈을 묘사한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "d4687c9910ff5484a9c7b9a41fdc4e1664703b2d8f9831c833abd7a9fe333a4b"
+    },
+    {
+      "id": "KRV:REV:1:15",
+      "status": "exclude",
+      "reason": "빛나는 발과 물소리 같은 음성을 묘사한 환상이다. 현재 생활 선택에 대응하는 요청이나 갈등이 드러나지 않는다.",
+      "contextNote": "인자 같은 이의 발과 음성을 묘사한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "0199f70438610f633dc88650f9a9f404eedcfc8341a6ad95b2523e381d18de24"
+    },
+    {
+      "id": "KRV:REV:1:16",
+      "status": "exclude",
+      "reason": "일곱 별과 날 선 검, 해처럼 빛나는 얼굴을 묘사한 환상이다. 그 이미지 자체만으로는 고민하는 행동의 방향을 자연스럽게 도출하기 어렵다.",
+      "contextNote": "인자 같은 이의 손과 입과 얼굴을 묘사한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "72d3ecdb0bc5533343b1562dbfb179fef09474a77d740f604d89e20c67ed2bc1"
+    },
+    {
+      "id": "KRV:REV:1:17",
+      "status": "hold",
+      "reason": "두려워 말라는 말은 눈에 띄지만 쓰러진 환상과 처음과 나중이라는 정체성 선포가 함께 있다. 도전이 두려운 일상 고민에 적용할 때 무엇을 할지의 구체적 연결은 약하다.",
+      "contextNote": "요한이 두려움에 엎드리자 그가 손을 얹고 두려워 말라고 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "처음 하는 일이 두려운 마음에 두려워하지 말라는 말을 떠올릴 수 있다.",
+          "friction": "대상은 환상에 쓰러진 요한이며 지원할지의 갈등과는 멀다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "8bfb0a395afb6aced505c9f5e1bfd912bd6d41ba63caa09921acb04efe95fa99"
+    },
+    {
+      "id": "KRV:REV:1:18",
+      "status": "hold",
+      "reason": "죽었다가 살아 계신 이와 사망과 음부의 열쇠를 설명하는 신앙 고백이다. 실제 사람의 현재 생사나 앞으로의 결과를 예측하는 안내로 연결할 수 없다.",
+      "contextNote": "앞 절의 말씀이 이어져 살아 계신 이의 정체성을 밝힌다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "066b9aa9ed88525074c7fedd6430a1045f1931063de9f57677102d1b1120c1a2"
+    },
+    {
+      "id": "KRV:REV:1:19",
+      "status": "candidate",
+      "reason": "본 것과 현재, 앞으로의 일을 기록하라는 말이 어려운 일을 겪고 생각을 적어 둘지 잊히게 둘지 고민하는 경우에 바로 기록을 시작할 실마리를 준다.",
+      "contextNote": "요한에게 본 것과 현재와 장차 될 일을 기록하라고 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B012",
+          "clue": "겪은 일과 지금 드는 생각을 먼저 기록으로 남길 수 있다.",
+          "friction": "장차 될 일을 적으라는 표현은 사용자가 미래를 이미 알고 있다는 뜻이 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "471e5697594688319031b81438097a960d60917c94b9c468e88dd3f66cecdbf8"
+    },
+    {
+      "id": "KRV:REV:1:20",
+      "status": "exclude",
+      "reason": "일곱 별과 금 촛대가 교회의 사자와 교회를 뜻한다는 환상 해설이다. 이 상징 설명만으로 사용자의 생활 속 두 선택을 가를 구체 단서가 부족하다.",
+      "contextNote": "별과 촛대의 상징적 의미를 풀이한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "de77e82335922d4ddd7e87206f3e7459a6d02493607f060871af6046c1330a2e"
+    },
+    {
+      "id": "KRV:REV:2:1",
+      "status": "exclude",
+      "reason": "에베소 교회에 보내는 편지에서 말씀하시는 이를 소개하고 끝나는 문장 도입이다. 이어지는 내용 없이 지금 고민할 행동을 찾기 어렵다.",
+      "contextNote": "에베소 교회의 사자에게 보낼 말을 시작한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "3ea2b38041c9763725d5c6d2730317bb29b4e8d1e8f46147649d18a9c6c97b3f"
+    },
+    {
+      "id": "KRV:REV:2:2",
+      "status": "hold",
+      "reason": "거짓 사도임을 밝혀낸 인내를 아신다는 말이다. 성과 수치를 과장하자는 제안을 거절할지 고민할 때 진실을 떠올릴 수는 있지만 본문은 스스로 숫자를 쓸지의 선택과 다른 검증 상황이며 다음 절에 이어진다.",
+      "contextNote": "에베소 교회의 수고와 인내 및 거짓 사도 분별을 안다고 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "거짓을 드러낸다는 말에서 사실을 중시하는 태도를 생각할 수 있다.",
+          "friction": "팀의 제안은 확인된 거짓 사도 사건이 아니고 이 절은 자기 기록의 선택을 직접 말하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "d1abebf121f3f7ae40414933db7c0b807d7416fe09bf1d07f7f7a707f5261874"
+    },
+    {
+      "id": "KRV:REV:2:3",
+      "status": "candidate",
+      "reason": "이름을 위해 참고 견딘 것을 안다는 말은 신앙 때문에 놀림받아 위축되지만 신앙생활을 이어갈지 고민하는 경우를 바로 건드린다.",
+      "contextNote": "에베소 교회의 인내와 수고를 안다고 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C031",
+          "clue": "비웃음을 겪어도 자신의 신앙생활을 이어갈 마음을 얻을 수 있다.",
+          "friction": "개인에 대한 조롱이 반드시 끝나거나 이미 어려움을 혼자 이겨냈다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "59cd15dff420825c4a56c2a897ca21703b514f5ee105536443c94e6d61d776b4"
+    },
+    {
+      "id": "KRV:REV:2:4",
+      "status": "hold",
+      "reason": "처음 사랑을 버렸다는 책망은 관계를 돌아보게 하지만 만남을 미룬 현재의 사실만으로 사랑이 이미 사라졌다고 단정할 수 없다. 무엇을 어떻게 바꿀지도 단독으로는 열려 있다.",
+      "contextNote": "에베소 교회가 처음 사랑을 버린 점을 책망한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B026",
+          "clue": "소중하게 여겼던 관계와 함께하는 시간을 다시 떠올릴 여지는 있다.",
+          "friction": "서로 좋아하지만 바빠 만남을 미뤘다는 사실을 사랑을 버린 것으로 확정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "0f9f299bee61ed87e0dae7d78b43b41de332a555183564290a6241ef392c5f39"
+    },
+    {
+      "id": "KRV:REV:2:5",
+      "status": "hold",
+      "reason": "떨어진 곳을 돌아보고 회개해 처음 행위를 가지라는 말과 촛대를 옮기겠다는 경고다. 반복되는 실수에 변화를 생각할 수 있어도 현재 사용자가 과거에 더 좋은 행동을 했는지는 주어지지 않는다.",
+      "contextNote": "에베소 교회에 처음의 행위를 회복하라고 경고한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C030",
+          "clue": "반복되는 말버릇을 그냥 넘기지 않고 돌아볼 수 있다.",
+          "friction": "과거의 행동이나 촛대가 옮겨질 결과를 사용자 사실로 추가해야 연결이 매끄러워진다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "f0076db659ca2930fc342c05126ff33ae098fa7aca6e4268492cd93c29b2f8d7"
+    },
+    {
+      "id": "KRV:REV:2:6",
+      "status": "exclude",
+      "reason": "니골라당의 행위를 미워한다는 특정 집단에 대한 언급이다. 어떤 행위인지 이 절에 나타나지 않아 현재 인물이나 선택에 대입할 근거가 없다.",
+      "contextNote": "에베소 교회의 특정한 행위에 대한 태도를 언급한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "571b9e078b79a9d9c6509882f1ffe449d6db1c5d100259c0521faa578f6cd2f9"
+    },
+    {
+      "id": "KRV:REV:2:7",
+      "status": "hold",
+      "reason": "성령의 말씀을 들으라는 권면과 생명나무에 대한 상징적 약속이다. 신앙의 어려움을 견딜 격려로 읽힐 수 있지만 어떤 생활 선택을 할지 구체적 단서가 적다.",
+      "contextNote": "교회들에게 하시는 말씀을 듣고 이기는 이에게 생명나무 과실을 주겠다고 한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "5ad31702816dacce44afdde435a7b7465bf558bd9d989bced50fa44d577bb316"
+    },
+    {
+      "id": "KRV:REV:2:8",
+      "status": "exclude",
+      "reason": "서머나 교회에 보내는 말씀을 시작하며 말하는 이를 소개하는 도입이다. 이 한 절에는 개별적인 행동이나 갈등이 드러나지 않는다.",
+      "contextNote": "서머나 교회의 사자에게 보내는 편지를 시작한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "77560b024ca7771911690362f0cd56f8664afdce2af2767b131081551d275b57"
+    },
+    {
+      "id": "KRV:REV:2:9",
+      "status": "hold",
+      "reason": "궁핍 속의 부요를 말하나 이어서 특정 집단의 훼방과 종교적 표현이 등장한다. 실제 궁핍이 없는 구매 고민에 물질적 풍요를 사실처럼 보태거나 낯선 사람을 악한 집단으로 규정해 읽도록 해서는 안 된다.",
+      "contextNote": "서머나 교회의 환난과 궁핍, 그들을 비방하는 이들을 언급한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "1f96eaab8819a502c315ecd7cffa589d6dcfcb0040cd27a4fdccd86184ca2668"
+    },
+    {
+      "id": "KRV:REV:2:10",
+      "status": "hold",
+      "reason": "다가올 투옥과 열흘의 환난, 죽도록 충성하라는 말이 특정 신앙 공동체의 상황에 주어진다. 현재의 고난 기간이나 구체 사건을 예언하거나 그대로 견뎌야 한다고 읽을 수 없다.",
+      "contextNote": "서머나 교회에 다가올 시험을 두려워하지 말고 신실하라고 한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "41edf0a4cc1ba90bca95a08c832be403d70d08630a3cb883b48eb784063cfa00"
+    },
+    {
+      "id": "KRV:REV:2:11",
+      "status": "hold",
+      "reason": "성령의 말씀을 듣고 이기는 이가 둘째 사망의 해를 받지 않는다는 종교적 약속이다. 어떤 생활 선택이 이기는 것인지 이 한 절에서 찾기 어렵다.",
+      "contextNote": "서머나 교회에 보내는 말씀을 듣고 이기라고 권한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "4c2510a9fcea3b8c8e7c4403b694c5cb5b09e30a2baa202dea4a4330bdbee69c"
+    },
+    {
+      "id": "KRV:REV:2:12",
+      "status": "exclude",
+      "reason": "버가모 교회에 보내는 말씀에서 화자를 묘사하는 도입이다. 이어지는 내용 없이 구체적인 선택의 실마리가 없다.",
+      "contextNote": "버가모 교회의 사자에게 보낼 편지를 시작한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "56f1eae96f6799b0e0d90c1a5acc51c68afab11b2a789f7a9226bcdd8efdf840"
+    },
+    {
+      "id": "KRV:REV:2:13",
+      "status": "hold",
+      "reason": "믿음을 저버리지 않은 일을 언급해 조롱 속 신앙을 이어가는 고민을 연상할 수 있다. 그러나 장소가 사단의 자리이며 사람이 죽임을 당한 사건이 본문 대부분을 차지해 현재 경험과 자연스럽게 맞추기 어렵다.",
+      "contextNote": "버가모에서 안디바가 죽임을 당할 때도 믿음을 지킨 것을 안다고 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C031",
+          "clue": "힘든 주변 반응에도 믿음을 저버리지 않는 말을 볼 수 있다.",
+          "friction": "지인의 비웃음 외에 살해나 특정 장소의 위험을 현재 사실로 넣을 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "72f146efad37d82682c8f2f9a7e8410c2b6fa1b3f3bad5380f4d13c4d004c086"
+    },
+    {
+      "id": "KRV:REV:2:14",
+      "status": "hold",
+      "reason": "발람과 발락, 우상의 제물과 행음에 관한 구체적인 종교적 책망이다. 이야기의 맥락을 더 알아야 하며 사용자가 고민하는 관계나 음식의 사실을 함부로 그 사건에 맞출 수 없다.",
+      "contextNote": "버가모 교회의 발람의 교훈을 따르는 행위를 책망한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "a1a16bc697ba8cd9b71b2b4a7b13944e5bb91a40296d2fee3ec1fe38f4b044ca"
+    },
+    {
+      "id": "KRV:REV:2:15",
+      "status": "exclude",
+      "reason": "니골라당의 교훈을 지키는 자들이 있다는 말뿐이다. 앞의 비교 대상과 교훈의 내용이 단독 절에 없어 선택할 행동을 알기 어렵다.",
+      "contextNote": "앞 절에 이어 교회 안의 다른 가르침을 언급한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "6747bf5a0c66686d5295873584fb94e7008460f0a1a2d07650f4cd580b7b0c85"
+    },
+    {
+      "id": "KRV:REV:2:16",
+      "status": "hold",
+      "reason": "회개하지 않으면 입의 검으로 싸운다는 경고다. 앞서 무엇을 잘못했는지 본문 하나만으로 알 수 없고 사용자의 불확실한 잘못이나 재앙을 사실처럼 넣을 수 없다.",
+      "contextNote": "앞의 교훈과 관련해 회개를 촉구한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "d29779f100aeba63b1c12b38085494ac8014355cca7c4c448245b58d421c8242"
+    },
+    {
+      "id": "KRV:REV:2:17",
+      "status": "hold",
+      "reason": "이기는 이에게 감추어진 만나와 새 이름이 적힌 흰 돌을 준다는 상징이다. 의미를 곰곰이 생각할 수는 있지만 구체적인 현재 고민에서 어떤 행동을 고를지 명료한 연결이 부족하다.",
+      "contextNote": "버가모 교회에 말씀을 듣고 이기는 이에 대한 상징적 약속을 전한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "b9ed0937960a8cf8f1107966fc93b16fe29cd63c208027d94347d598f9f870e1"
+    },
+    {
+      "id": "KRV:REV:2:18",
+      "status": "exclude",
+      "reason": "두아디라 교회에 보내는 말씀에서 눈과 발을 묘사하는 발화 도입이다. 이 절만으로 어떤 고민에 대한 행동을 제안하기 어렵다.",
+      "contextNote": "두아디라 교회의 사자에게 편지를 시작한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "11cd7f6e0e1f315cb045d569f34932fa0eb252745db6e8e2fbfd2505ca65b9c4"
+    },
+    {
+      "id": "KRV:REV:2:19",
+      "status": "candidate",
+      "reason": "사랑과 섬김과 인내를 알고 나중의 행위가 더 많아졌다는 말은 눈에 띄지 않는 모임의 일을 하찮게 여길지 고민하는 사람에게 계속 돌볼 힘을 줄 수 있다.",
+      "contextNote": "두아디라 교회의 사업과 사랑, 섬김, 인내를 안다고 칭찬한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C034",
+          "clue": "남의 눈에 잘 보이지 않는 정리와 섬김도 가치 있게 여기고 이어갈 수 있다.",
+          "friction": "나중 행위가 처음보다 많다는 말이 사용자의 실제 과거 성과를 확인해 주는 것은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "7deda893763be1921625b51f00a3be5e05968303d52ca1d3c781280fccc69d07"
+    },
+    {
+      "id": "KRV:REV:2:20",
+      "status": "hold",
+      "reason": "이세벨의 가르침과 우상의 제물, 행음을 용납한 구체적인 종교적 책망이다. 실제 상황에 그런 사람이 있다고 만들지 않고서 생활 선택에 옮기기는 어렵다.",
+      "contextNote": "두아디라 교회가 이세벨의 가르침을 용납했다고 책망한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "1db0ee3ec2baa7084bcf6bd151367db5876d83ef7910db72fff1da13b769ae79"
+    },
+    {
+      "id": "KRV:REV:2:21",
+      "status": "hold",
+      "reason": "어떤 사람에게 회개의 기회를 주었으나 음행을 뉘우치지 않았다는 진술이다. 상대의 실제 잘못과 변화 의지를 확인하지 못한 사용자의 관계에 단정적으로 옮길 수 없다.",
+      "contextNote": "앞 절의 이세벨에게 기회를 주었으나 회개하지 않았다고 한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "ba7aa504176cc246dc3af1749465035d730714013428c0dd63f9cd957172b07e"
+    },
+    {
+      "id": "KRV:REV:2:22",
+      "status": "hold",
+      "reason": "앞 절의 행위에 대한 구체적인 심판이 이어지며 문장도 다음 절에 걸쳐 있다. 치료나 관계의 현실적 결과를 이 경고로 예언하거나 대신 결정할 수 없다.",
+      "contextNote": "이세벨과 그와 행한 이들에 대한 심판을 말한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "dc01f974386400fe00765c10b00ddd7f86860ea890e06a05c5fff34f7e922a69"
+    },
+    {
+      "id": "KRV:REV:2:23",
+      "status": "hold",
+      "reason": "행위대로 갚는다는 진술 앞에 자녀를 죽이는 심판이 명시되어 있다. 사용자의 가벼운 선택이나 실제 가족에게 재난이 벌어질 것이라는 단정으로 읽지 않도록 이 조합은 보류한다.",
+      "contextNote": "앞 절의 심판에 이어 각 사람의 마음과 행위를 언급한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "97ffad77254e2575b8303fd5f9a3d63c99a864712a2903175a1999a5ca821c12"
+    },
+    {
+      "id": "KRV:REV:2:24",
+      "status": "hold",
+      "reason": "다른 짐을 지우지 않겠다는 부분은 새로운 부탁을 거절할지의 고민과 닿는다. 다만 앞부분의 특정 종교 집단과 가르침이 길고 현재 과로의 이유와 맞지 않아 말씀 전체가 자연스럽게 연결되는지는 불확실하다.",
+      "contextNote": "두아디라에서 다른 가르침을 따르지 않은 남은 사람들에게 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H044",
+          "clue": "이미 지친 상태에 더 많은 짐을 지지 않는 방향을 생각할 수 있다.",
+          "friction": "사단의 깊은 것과 교훈을 알지 못했다는 서술은 사용자의 상황이 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "dca05d376e0be2e07c7061f95c2291ccf5249f52c4073805a53fe4769de134c4"
+    },
+    {
+      "id": "KRV:REV:2:25",
+      "status": "candidate",
+      "reason": "가지고 있는 것을 굳게 잡으라는 직접적인 표현은 잘 작동하는 물건이 있어도 더 좋은 것으로 바꿀지 고민하는 상황과 짧게 연결된다.",
+      "contextNote": "두아디라의 남은 사람들에게 주어진 것을 붙잡으라고 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H006",
+          "clue": "이미 가진 잘 작동하는 제품을 계속 쓰는 쪽으로 마음을 정할 수 있다.",
+          "friction": "원래는 교회의 신앙을 붙잡으라는 말씀이고 올 때까지라는 기간을 실제 제품의 미래 수명으로 단정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "bbb3b62967f3326ec85de76d1974b5119f1b395967c4f2db0a286bc2fd259466"
+    },
+    {
+      "id": "KRV:REV:2:26",
+      "status": "hold",
+      "reason": "끝까지 일을 지키라는 말은 하던 일을 마무리할지에 닿는다. 그러나 만국을 다스리는 권세라는 다음 약속이 특정 종교적 상징이어서 사용자가 지금 맡은 일을 끝내는 보상으로 자연스럽게 연결하기 어렵다.",
+      "contextNote": "이기고 끝까지 일을 지키는 이에게 주어질 권세를 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H053",
+          "clue": "시작한 일을 끝까지 지키는 방향을 볼 수 있다.",
+          "friction": "신앙의 일과 만국의 권세를 현재 작업의 실제 보상처럼 이해할 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "3276583a69b3c329337b458ad00f982e585354016d4b4fedca600c22edfe15e9"
+    },
+    {
+      "id": "KRV:REV:2:27",
+      "status": "exclude",
+      "reason": "철장으로 사람들을 다스리고 질그릇처럼 깨뜨린다는 앞 절의 상징적 권세 묘사다. 주변 사람에게 힘을 행사할지의 생활 문제에 명령으로 옮길 단서가 없다.",
+      "contextNote": "앞 절에 이어 만국을 다스리는 권세를 묘사한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "0539fa3c21ecbef6869d761fb8fd92008d150a18f2e74e7c87b8093424a7406f"
+    },
+    {
+      "id": "KRV:REV:2:28",
+      "status": "hold",
+      "reason": "새벽 별을 준다는 짧은 약속으로 누구에게 무엇을 말하는지 앞의 문맥과 상징 해설이 필요하다. 사용자의 현재 선택에 바로 대응할 근거는 약하다.",
+      "contextNote": "앞의 이기는 자에게 주어질 것을 이어 말한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "9c421f9dbfbb6b3aad36b9615afe3d7f56a6cccd852b53ce59e1f39358ae9dfe"
+    },
+    {
+      "id": "KRV:REV:2:29",
+      "status": "hold",
+      "reason": "교회들에게 하시는 말씀을 들으라는 반복 권면이다. 경청 자체는 가능하지만 선택지나 사용자가 들어야 할 실제 말이 주어지지 않아 구체적인 실마리가 부족하다.",
+      "contextNote": "두아디라 교회에 보낸 말씀을 듣도록 권한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "5fe2cef06aab47bca7ac7e99cf1ac8d0af5607c0b869a621793ef8936ea855b2"
+    },
+    {
+      "id": "KRV:REV:3:1",
+      "status": "hold",
+      "reason": "살았다는 이름은 있으나 죽은 자라는 사데 교회에 대한 책망이다. 겉모습과 실제의 차이를 떠올리게 하지만 사용자가 거짓으로 살고 있거나 실제로 잘못했다고 단정할 수 없다.",
+      "contextNote": "사데 교회의 행위를 알고 그 실상을 책망한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "ca872399227438374106065e3049111ffbca31dcb90f63b84d220ab2d3e326b9"
+    },
+    {
+      "id": "KRV:REV:3:2",
+      "status": "hold",
+      "reason": "남은 것을 굳게 하고 온전하지 않은 행위를 말한다. 관계나 일을 돌아볼 여지는 있으나 무엇이 죽게 되었는지 앞뒤 맥락이 필요하고 현재 사정을 이미 위태롭다고 만들 수 없다.",
+      "contextNote": "사데 교회에 깨어 남은 것을 굳게 하라고 한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "6cdda89cdae0b4399a8c8d6938c3f3a9d10c7c2329ef9147171df953e1a1094b"
+    },
+    {
+      "id": "KRV:REV:3:3",
+      "status": "hold",
+      "reason": "받고 들은 것을 생각해 지키라는 권면 뒤에 알 수 없는 때 도적 같이 임한다는 경고가 있다. 기존 절차를 계속할지의 고민을 떠올리더라도 앞 절의 신앙 맥락과 예고 없는 방문이 생활 사례에 잘 맞지 않는다.",
+      "contextNote": "사데 교회에 이전에 받고 들은 것을 생각하며 깨어 있으라고 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B033",
+          "clue": "익숙한 기준을 돌아보고 지킬지 생각할 수 있다.",
+          "friction": "도적처럼 임하는 때와 회개의 대상이 작업 절차에 직접 대응하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "8d7ed70af8e5ed7348d021c358b7964cca4e705dec7071c555c38bc4c6bde311"
+    },
+    {
+      "id": "KRV:REV:3:4",
+      "status": "hold",
+      "reason": "옷을 더럽히지 않은 사람과 흰 옷이라는 신앙적 상징이다. 옷 구매 고민에 옷이라는 단어만으로 연결하거나 관계의 유혹을 사용자의 실제 잘못이나 자격 판단으로 단정하기 어렵다.",
+      "contextNote": "사데에 옷을 더럽히지 않았다고 표현되는 몇 사람을 언급한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "8a9673f2a7471a06f24b29ae1e886e68c552c6e42a9359a712e82b98bf44b1f3"
+    },
+    {
+      "id": "KRV:REV:3:5",
+      "status": "hold",
+      "reason": "흰 옷과 생명책에 대한 종교적 약속이다. 위로가 될 수 있으나 현재 고민의 어떤 행동이 이기는 것인지, 누군가의 세례가 반드시 받아들여지는지 단독으로 판단할 수 없다.",
+      "contextNote": "이기는 자의 이름을 생명책에서 지우지 않겠다고 한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "02e28158df78bb15f4485ada8816bacd9a763db8ec86186bda1e53bfda411c4d"
+    },
+    {
+      "id": "KRV:REV:3:6",
+      "status": "hold",
+      "reason": "교회들에 하는 말씀을 들으라는 반복 권면이다. 그 자체로 어떤 생활 선택을 해야 할지 알려 줄 구체 내용은 없다.",
+      "contextNote": "사데 교회에 보낸 말씀의 끝에서 듣기를 권한다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "5fe2cef06aab47bca7ac7e99cf1ac8d0af5607c0b869a621793ef8936ea855b2"
+    },
+    {
+      "id": "KRV:REV:3:7",
+      "status": "hold",
+      "reason": "열면 닫을 이 없고 닫으면 열 이 없다는 열쇠의 상징은 기회를 연상시킨다. 이 절은 말하는 이를 소개하는 도입이며 지금 기회가 실제로 열렸는지 닫혔는지 확인해 주지는 않는다.",
+      "contextNote": "빌라델비아 교회에 보내는 말씀에서 다윗의 열쇠를 가진 이를 소개한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "c74952482b33885280bb695aee309f3123dee89f5054ba8bd65ae78d55e2df71"
+    },
+    {
+      "id": "KRV:REV:3:8",
+      "status": "candidate",
+      "reason": "열린 문과 적은 능력이라는 표현이 경험이 부족해 새로운 일에 지원할지 망설이는 상황에 붙어, 부족함만 보고 물러서지 않을 실마리를 줄 수 있다.",
+      "contextNote": "빌라델비아 교회의 적은 능력에도 말씀을 지키고 이름을 저버리지 않은 행위를 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "잘할지 두렵고 경험이 적어도 눈앞의 지원 기회를 선택할 수 있다.",
+          "friction": "교회의 신앙에 대한 말씀이지 사용자가 반드시 선발되거나 어떤 기회가 영구히 열려 있다는 사실을 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "8885a376af8cc8a3799342fedab6bd8cd4c96b13e8d42ef46be52643c8257f7b"
+    },
+    {
+      "id": "KRV:REV:3:9",
+      "status": "hold",
+      "reason": "특정 집단이 와서 발앞에 절하고 사랑을 알게 하겠다는 상징적 약속이다. 실제 지인들이 굴복하거나 생각을 바꿀 것이라는 예측으로 현재 관계에 넣을 수 없다.",
+      "contextNote": "빌라델비아 교회에 반대자들과 관련된 약속을 전한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "2f08cd85ecc8e36bb70a34516e29c1fcfd29e7f8f974852258c0accf607406d5"
+    },
+    {
+      "id": "KRV:REV:3:10",
+      "status": "hold",
+      "reason": "인내의 말씀을 지켜 시험의 때를 면하게 하겠다는 약속이다. 현재 사용자의 병이나 시험 결과를 예언하거나 어떤 어려움도 겪지 않는다는 보장으로 대입해서는 안 된다.",
+      "contextNote": "다가올 시험의 때로부터 지키겠다고 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "6898e276d7e4f9cb01cfccc1c3cee61a469b549ee1734ed152107361eb69ec69"
+    },
+    {
+      "id": "KRV:REV:3:11",
+      "status": "hold",
+      "reason": "가진 것을 굳게 잡으라는 부분은 지금 물건에 만족하는 선택을 떠올리게 한다. 그러나 면류관을 빼앗는 다른 사람의 표현까지 구매 고민에 맞추려면 주어지지 않은 상대와 위협이 필요하다.",
+      "contextNote": "가진 것을 붙잡아 면류관을 빼앗기지 않도록 권한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H006",
+          "clue": "지금 가진 것을 계속 사용할 마음을 떠올릴 수 있다.",
+          "friction": "실제 물건을 빼앗으려는 사람이 있다는 정보가 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "cfbb968fae0a07fa27f3efc8194f75ba4f97ee36bc43b3d57c0166cd19eb9725"
+    },
+    {
+      "id": "KRV:REV:3:12",
+      "status": "hold",
+      "reason": "이기는 이를 성전의 기둥으로 삼고 새 이름을 기록하겠다는 종교적 상징과 약속이다. 실제 거주지나 직장에 영구히 남는다는 뜻으로 바꾸기 어렵고 현재 선택의 방향도 명시되지 않는다.",
+      "contextNote": "빌라델비아 교회에서 이기는 이에게 주어질 약속을 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "5af844a37235d358175a9d7ae08db544f5dfaff8f86d2ad47760f5b7c84c89d4"
+    },
+    {
+      "id": "KRV:REV:3:13",
+      "status": "hold",
+      "reason": "성령이 교회들에 하시는 말씀을 들으라는 반복 권면이다. 이 절 자체에 구체적인 갈등이나 행동 선택은 드러나지 않는다.",
+      "contextNote": "빌라델비아 교회에 보낸 말씀을 마무리한다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "5fe2cef06aab47bca7ac7e99cf1ac8d0af5607c0b869a621793ef8936ea855b2"
+    },
+    {
+      "id": "KRV:REV:3:14",
+      "status": "exclude",
+      "reason": "라오디게아 교회에 보내는 말씀의 화자를 소개한다. 발화가 다음 절로 이어져 단독으로 생활 속 선택을 떠올리기 어렵다.",
+      "contextNote": "라오디게아 교회의 사자에게 편지를 시작한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "ae65bd5d5846a1bd95df1e4c713a1c787c1b5c7c0b1eebe1e170a3e096a084f6"
+    },
+    {
+      "id": "KRV:REV:3:15",
+      "status": "candidate",
+      "reason": "차지도 뜨겁지도 않은 상태에서 어느 쪽이든 분명하기를 바라는 말은 두 길의 완벽한 답을 찾느라 선택 자체를 미루는 고민과 연결된다.",
+      "contextNote": "라오디게아 교회의 미지근한 행위를 책망하기 시작한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H061",
+          "clue": "완벽한 답을 기다리기보다 어느 한쪽을 스스로 선택해 볼 수 있다.",
+          "friction": "원래는 교회에 대한 비유이며 어느 구체적 선택이 옳은지나 결과를 알려주지는 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "55a3f2d0a4367c68935c5872312b69f4feed8b6867227b7bd8cff733791635a2"
+    },
+    {
+      "id": "KRV:REV:3:16",
+      "status": "hold",
+      "reason": "미지근한 것을 토하여 내치겠다는 강한 책망이다. 우유부단함을 떠올릴 수 있지만 특정한 두 선택 가운데 어느 쪽을 고를지 단서가 없고 거부의 표현이 고민의 맥락에 비해 지나치게 낯설 수 있다.",
+      "contextNote": "앞 절에 이어 미지근한 교회의 상태를 책망한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "eea159722ed8ae131d3c551616b5acf4b90e21f7fa6329586cae944d5968d077"
+    },
+    {
+      "id": "KRV:REV:3:17",
+      "status": "hold",
+      "reason": "스스로 부자라고 여기는 이가 실상 가난하다는 종교적 책망이다. 지출 고민의 사용자가 자신의 상황을 모른다고 단정하거나 빈곤과 신체 상태를 사실처럼 추가해 연결할 수 없다.",
+      "contextNote": "라오디게아 교회가 자신의 상태를 모르고 있다고 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "abbdc51df7ce96c105315178510f986c9408e026b999cd071f439c612d15f21b"
+    },
+    {
+      "id": "KRV:REV:3:18",
+      "status": "hold",
+      "reason": "금과 흰 옷과 안약을 사라는 비유다. 필요한 외투 구매와 옷이라는 단어는 닿지만 벌거벗은 수치와 시각 문제, 금까지 포함한 전체 내용을 실제 의복 필요와 맞추기 어렵다.",
+      "contextNote": "라오디게아 교회에 참된 부요와 옷, 볼 수 있음을 비유해 권한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H002",
+          "clue": "없는 옷을 사 입으라는 구절을 떠올릴 수 있다.",
+          "friction": "사용자가 벌거벗었거나 금과 안약도 필요한 것은 아니며 상징적 구매를 실제 지출의 승인으로 단정할 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "aa1547ee4e259f0c8933adfda60df69749c0325223a4053fb238bc1c87648b6c"
+    },
+    {
+      "id": "KRV:REV:3:19",
+      "status": "candidate",
+      "reason": "사랑하는 사람에게도 잘못을 돌아보고 열심을 내라고 하는 말은 먼저 심하게 말한 것을 알고 사과를 망설이는 고민에 자신의 행동을 인정하고 다가갈 실마리를 준다.",
+      "contextNote": "사랑하는 자를 책망하고 징계하므로 열심을 내어 회개하라고 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G10",
+          "clue": "친구에게 한 심한 말을 돌아보고 먼저 사과하는 쪽을 생각할 수 있다.",
+          "friction": "사과라는 행동이 직접 언급되지는 않으며 상대가 받아줄지는 알 수 없다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "0b1a9f03173eb2787e76de6f17d63f6cb085ebefdd25787468c5b310e399d8d3"
+    },
+    {
+      "id": "KRV:REV:3:20",
+      "status": "candidate",
+      "reason": "문을 두드리는 목소리를 듣고 열어 함께 먹는다는 장면은 이미 친구가 음식을 건넨 상황에서 부담만 느끼기보다 제안을 받아들일 실마리를 줄 수 있다.",
+      "contextNote": "문 밖에서 두드리며 문을 연 사람과 함께 먹겠다고 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "R029",
+          "clue": "친구가 먹으라고 한 남은 샌드위치를 고맙게 받을 수 있다.",
+          "friction": "친구가 실제로 문을 두드렸거나 함께 식사한다고 정해진 것은 아니며 원문의 비유를 개인 경험과 구별한다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "1a1c03571f657440c5ac04cfa6063f10ff2199afc3cd93a222ec24d04d1b4898"
+    },
+    {
+      "id": "KRV:REV:3:21",
+      "status": "hold",
+      "reason": "이기는 사람을 보좌에 함께 앉게 하겠다는 종교적 약속이다. 어떤 일상적 선택을 해야 이기는 것인지 이 절만으로 자연스럽게 알기 어렵다.",
+      "contextNote": "이기는 자에게 보좌에 함께 앉을 것을 약속한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "92e037e1dda1991b5062d76a60dd68cdac35fbbde43cab147641874844c4078f"
+    },
+    {
+      "id": "KRV:REV:3:22",
+      "status": "hold",
+      "reason": "성령이 교회들에게 하시는 말씀을 들으라는 반복 권면이다. 구체적인 두 선택이나 실마리는 단독 구절에 나타나지 않는다.",
+      "contextNote": "라오디게아 교회에 보낸 말씀의 끝에서 듣기를 권한다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "5fe2cef06aab47bca7ac7e99cf1ac8d0af5607c0b869a621793ef8936ea855b2"
+    },
+    {
+      "id": "KRV:REV:4:1",
+      "status": "hold",
+      "reason": "하늘의 열린 문과 이후 될 일을 보이겠다는 환상이다. 열린 문은 기회를 연상시키나 어떤 현실 기회가 이미 열렸는지 또는 미래가 정해졌는지 확인해 주지 않는다.",
+      "contextNote": "요한이 하늘의 열린 문과 부르는 음성을 본다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "afa7276dcff8bdbcfe48e87f2dd18f62b3ce5c61138513d3770746532a8d4f75"
+    },
+    {
+      "id": "KRV:REV:4:2",
+      "status": "exclude",
+      "reason": "요한이 성령에 감동해 하늘 보좌와 앉은 이를 보는 환상 묘사다. 개별적인 생활 고민에서 선택할 행동은 제시되지 않는다.",
+      "contextNote": "요한이 하늘에 놓인 보좌를 본다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "e05f146cbc467508278537a5add82b00c1ec1621472440c6c3da80a664efd6c4"
+    },
+    {
+      "id": "KRV:REV:4:3",
+      "status": "exclude",
+      "reason": "보좌에 앉은 이와 주변 무지개의 모습을 보석에 비유하는 묘사다. 보석이나 색의 단어만으로 구매 선택에 대한 결론을 끌어내기 어렵다.",
+      "contextNote": "보좌 주위와 앉은 이의 모습을 묘사한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "aa0f93b6e6868c9ccc787818a38050fd3ad6a27db5d59e15614b2b85670d0367"
+    },
+    {
+      "id": "KRV:REV:4:4",
+      "status": "exclude",
+      "reason": "스물네 보좌와 장로들의 흰 옷과 금 면류관을 묘사한다. 옷의 언급만으로 현재 사용자가 옷을 사거나 입어야 한다는 선택을 만들 수 없다.",
+      "contextNote": "보좌 주변에 앉은 스물네 장로의 모습을 본다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "82a55a528fa27f14851c0a98946c73c3609078d43e6f7555ba1abd03ddde966a"
+    },
+    {
+      "id": "KRV:REV:4:5",
+      "status": "exclude",
+      "reason": "보좌에서 나는 소리와 일곱 등불의 상징을 묘사한다. 현재 사용자의 생활 갈등에 대응할 구체적인 행동 단서는 없다.",
+      "contextNote": "보좌 주변의 번개와 음성, 일곱 등불을 본다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "37c8ff416fb3b615c3ed69f3e9472bea3ba600f2e621ee69ec88373a8b8bfee3"
+    },
+    {
+      "id": "KRV:REV:4:6",
+      "status": "exclude",
+      "reason": "수정 같은 바다와 눈이 가득한 네 생물의 환상 장면이다. 위치와 모습을 설명할 뿐 현실의 선택지와 연결되는 판단이 나타나지 않는다.",
+      "contextNote": "보좌 앞 바다와 보좌 주변의 네 생물을 묘사한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "1e0801c8e7deab25dc00af7f2d4436c79f5eb7601d7c01c3e644571d0c11707f"
+    },
+    {
+      "id": "KRV:REV:4:7",
+      "status": "exclude",
+      "reason": "네 생물 각각의 모습을 사자, 송아지, 사람과 독수리에 비유한 묘사다. 동물 이름만으로 현재 고민의 방향을 정할 근거가 없다.",
+      "contextNote": "네 생물의 외형을 각각 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "a432870b2140a07ac938ed369784c5697be36a8c38567c2601e7bc0aa4ff2983"
+    },
+    {
+      "id": "KRV:REV:4:8",
+      "status": "hold",
+      "reason": "생물의 눈과 날개 묘사 뒤에 밤낮 쉬지 않는 찬양이 이어진다. 기도를 계속할지의 고민을 연상할 수 있지만 찬양 장소나 말을 어떻게 시작할지에 대한 직접 단서는 없다.",
+      "contextNote": "네 생물이 거룩하신 하나님을 밤낮 찬양한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "ebf63e1710c3e71437d36d3ff0849d78d96f362cb5ce427e1710a722c5157c8a"
+    },
+    {
+      "id": "KRV:REV:4:9",
+      "status": "exclude",
+      "reason": "생물들이 영광과 감사를 돌릴 때라는 시간절로 뒤의 행동이 다음 절에 이어진다. 문장 자체가 끝나지 않아 독립적인 생활 선택으로 읽기 어렵다.",
+      "contextNote": "네 생물의 찬양에 뒤따르는 행동의 배경을 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "43f03e903fd74fb43121f3f3024862e539768e84de2839ce5192265b2fda2505"
+    },
+    {
+      "id": "KRV:REV:4:10",
+      "status": "hold",
+      "reason": "장로들이 경배하며 자신의 면류관을 내려놓는 모습은 자랑을 내려놓는 비유로도 생각할 수 있다. 다만 원문은 하나님께 경배하는 환상이며 다른 사람을 무시할지의 직접 갈등은 드러나지 않고 발화도 이어진다.",
+      "contextNote": "스물네 장로가 보좌 앞에서 경배하며 면류관을 내려놓는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C035",
+          "clue": "내가 더 낫다는 마음을 내려놓는 모습을 떠올릴 수 있다.",
+          "friction": "면류관을 자만의 상징으로 해석해야 친구를 대하는 선택과 이어진다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "c9a69b97977c9e1a8b926eddc65cbb1aca005b4005bfdb8b3ef5d5fa18dc2310"
+    },
+    {
+      "id": "KRV:REV:4:11",
+      "status": "hold",
+      "reason": "만물을 지으신 하나님께 영광을 돌리는 찬양이다. 신앙적 고백으로 읽히지만 지금 어떤 생활 선택을 할지에 대한 구체적인 단서가 부족하다.",
+      "contextNote": "장로들이 창조주께 영광과 존귀를 돌리는 찬양을 한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "85f0678d9619b67ddcf1974db36fa4eba803434e235514c99ede070c2e809850"
+    },
+    {
+      "id": "KRV:REV:5:1",
+      "status": "exclude",
+      "reason": "보좌에 앉은 이의 손에 일곱 인으로 봉해진 책이 있다는 환상 서술이다. 단독으로는 어떤 행동을 선택해야 할지 알기 어렵다.",
+      "contextNote": "요한이 일곱 인으로 봉인된 책을 본다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "e84c3ca62aaab1f81192c4b55d6e3eeb819c53133a6957819788a049bdb11a9b"
+    },
+    {
+      "id": "KRV:REV:5:2",
+      "status": "hold",
+      "reason": "누가 봉인된 책을 펼 자격이 있는지 묻는 장면이다. 성경의 뜻을 아는 사람에게 묻는 고민과 책을 연다는 말은 닿지만 본문은 설명을 부탁하는 장면이 아니라 봉인을 뗄 존재를 찾는다.",
+      "contextNote": "천사가 책을 펴고 인을 뗄 합당한 이를 찾는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C021",
+          "clue": "책을 펼 수 있는 이를 찾는 질문에서 도움을 구할 생각을 할 수 있다.",
+          "friction": "성경 해설을 부탁하는 사람과 종말의 봉인을 떼는 합당한 존재는 다르다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "e0833a8a06e72e0f2b3f44707cf7cec223ed1153591734d5538b1df86ed1272d"
+    },
+    {
+      "id": "KRV:REV:5:3",
+      "status": "hold",
+      "reason": "아무도 봉인된 책을 펴거나 볼 수 없다는 환상 속 상황이다. 아직 결과를 모르는 현재 기회나 사람의 능력도 불가능하다고 확정할 근거는 되지 않는다.",
+      "contextNote": "하늘과 땅에서 봉인된 책을 펼 이가 없다고 한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "cda41b81abea5067cad86f27e5e61a447208c6bb9d6f31802886a68b0b67faf2"
+    },
+    {
+      "id": "KRV:REV:5:4",
+      "status": "hold",
+      "reason": "책을 열 합당한 사람이 보이지 않아 울었다는 장면이다. 답답한 감정을 연상할 수 있지만 이후 어떤 선택을 할지 이 절에 나타나지 않는다.",
+      "contextNote": "요한이 봉인된 책을 열 이를 보지 못해 운다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "e7e9bde76da34657b352fb4b95a6861da8ea5ca82882af0930ae28713fac394a"
+    },
+    {
+      "id": "KRV:REV:5:5",
+      "status": "hold",
+      "reason": "울지 말라는 위로와 유대 지파 사자에 대한 상징, 책의 일곱 인을 떼리라는 말이 함께 있다. 일상 고민에서 무엇을 할지 직접적인 단서를 얻기 어렵다.",
+      "contextNote": "한 장로가 요한에게 울지 말라며 책을 펼 이를 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "5e031629b669627c9316ba1bdbf67afd4d2a09abef3bb5206ff331d81c593771"
+    },
+    {
+      "id": "KRV:REV:5:6",
+      "status": "exclude",
+      "reason": "죽임을 당한 어린 양과 일곱 뿔, 일곱 눈을 묘사하는 환상이다. 상징을 해설해야 하며 이 절 자체에 개인의 생활 선택이 제시되지 않는다.",
+      "contextNote": "보좌와 생물들 사이에 선 어린 양을 본다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "a66246734533e42a1ecd4491c30e37a8ed6d59da9a346338b68a90a41c257d28"
+    },
+    {
+      "id": "KRV:REV:5:7",
+      "status": "exclude",
+      "reason": "어린 양이 보좌에 앉은 이의 손에서 책을 받는 환상 장면이다. 현재 사용자가 책이나 물건을 실제로 받았다는 단서를 만들 수 없다.",
+      "contextNote": "어린 양이 보좌에 앉은 이에게서 책을 취한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "0f7120772bcf11721ec92dee3f729eede8cddff634eb2c627700b5a0600b2545"
+    },
+    {
+      "id": "KRV:REV:5:8",
+      "status": "hold",
+      "reason": "금 대접에 가득한 향을 성도들의 기도라 설명하는 환상이다. 기도라는 소재는 있지만 말이 정리되지 않은 지금 기도를 시작할지에 대한 행동 단서는 충분하지 않다.",
+      "contextNote": "네 생물과 장로들이 기도를 상징하는 향을 들고 어린 양 앞에 엎드린다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C032",
+          "clue": "기도를 귀한 것으로 보는 상징을 떠올릴 수 있다.",
+          "friction": "무슨 말로 언제 기도할지의 망설임을 직접 다루지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "359af18ac8ae4b12b24260376621c255338fa15768791086f58d7adc36fd18ff"
+    },
+    {
+      "id": "KRV:REV:5:9",
+      "status": "hold",
+      "reason": "각 족속과 언어의 사람들이 언급되어 서로 다른 국적의 사람을 받아들이는 마음을 떠올릴 수 있다. 그러나 피로 사서 하나님께 드린다는 노래의 전체 맥락은 모임에서 처음 온 사람에게 어떻게 다가갈지 직접 말하지 않는다.",
+      "contextNote": "네 생물과 장로들이 어린 양의 구속을 새 노래로 찬양한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C022",
+          "clue": "국적과 언어의 차이가 있는 사람들도 함께 있음을 생각할 수 있다.",
+          "friction": "개인적인 환대의 행동을 성립시키려면 구속의 상징에서 한 걸음 더 해석해야 한다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "a23012fbcbeedaefc9d73636b5d50ce0d06c49d07b62948402d2380506072fee"
+    },
+    {
+      "id": "KRV:REV:5:10",
+      "status": "hold",
+      "reason": "특정 사람들을 나라와 제사장으로 삼고 땅에서 왕 노릇한다는 앞의 찬양이 이어진다. 단독으로 대상이 누구인지와 현재 생활의 선택을 연결하기 어렵다.",
+      "contextNote": "앞 절의 사람들에 대한 찬양의 내용을 이어 말한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "b573b940e62ac194be27fc65b99d25c9c79e35bde4f1fd8e4716cf38086e4f6c"
+    },
+    {
+      "id": "KRV:REV:5:11",
+      "status": "exclude",
+      "reason": "수많은 천사가 보좌와 생물을 둘러싼 모습을 보고 들은 기록이다. 장면의 인원 묘사만으로 사용자의 선택 방향을 정할 단서가 없다.",
+      "contextNote": "요한이 보좌 주위의 수많은 천사 소리를 듣는다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "7fd94f0c00ea646da2e39a3830000c578da7e87bdae07543122543080d42d542"
+    },
+    {
+      "id": "KRV:REV:5:12",
+      "status": "hold",
+      "reason": "어린 양이 능력과 존귀와 찬송을 받기에 합당하다는 천사들의 찬양이다. 신앙 고백이지만 지금 무엇을 선택할지에 대한 구체적 상황이나 행동이 나타나지 않는다.",
+      "contextNote": "많은 천사가 어린 양을 찬송한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "1af6e274652c4cb51c82f4cdbaaf770f8cf027c4a951907c8b644ccc71dc6d2a"
+    },
+    {
+      "id": "KRV:REV:5:13",
+      "status": "hold",
+      "reason": "모든 만물이 보좌의 이와 어린 양에게 영광을 돌린다는 찬양이다. 자신의 소소한 선택에 대해 어느 방향이 맞는지 직접 읽어낼 실마리는 부족하다.",
+      "contextNote": "온 만물이 보좌의 이와 어린 양을 찬양한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "32a40687d33f4326d0f2766816881f405c01f0de9b71e89da682dacd0277c56b"
+    },
+    {
+      "id": "KRV:REV:5:14",
+      "status": "exclude",
+      "reason": "네 생물의 아멘과 장로들의 경배라는 예배 장면을 마친다. 선택을 망설이는 구체적인 상황이나 실행할 행동이 단독으로 드러나지 않는다.",
+      "contextNote": "찬양 뒤에 생물들과 장로들이 응답한다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "64a41d0e349436fb41f56a0119038fbe24293d9c44d8e9f3283551024693c228"
+    },
+    {
+      "id": "KRV:REV:6:1",
+      "status": "exclude",
+      "reason": "어린 양이 일곱 인 가운데 하나를 떼고 한 생물이 오라고 말하는 환상 도입이다. 이어지는 장면을 보지 않으면 현재 고민과 연결할 사건이 제시되지 않는다.",
+      "contextNote": "어린 양이 첫째 인을 뗀다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "38b03bc0870b938887cbcfe4928be85e1938c84484539a6a28008d55f166a397"
+    },
+    {
+      "id": "KRV:REV:6:2",
+      "status": "hold",
+      "reason": "흰 말 탄 이가 활과 면류관을 받고 이기려 나가는 환상이다. 도전을 떠올릴 수 있지만 승리나 타인과의 대결이 실제 지원이나 시도의 결과로 보장된다고 할 수 없다.",
+      "contextNote": "첫째 인 뒤 흰 말과 그 탄 자를 본다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "3e7e120c5040b5a15d9633d173f5faed98f37ec3cbc93493fdbddb75ffc810d9"
+    },
+    {
+      "id": "KRV:REV:6:3",
+      "status": "exclude",
+      "reason": "둘째 인을 떼자 생물이 오라고 말하는 환상 전환이다. 말하는 대상과 이어지는 일을 알아야 하며 독립적인 생활 선택이 보이지 않는다.",
+      "contextNote": "어린 양이 둘째 인을 뗀다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "8754222de9ff0335d648f24e8af846a0de813d076fdd4ece77887177e850a607"
+    },
+    {
+      "id": "KRV:REV:6:4",
+      "status": "exclude",
+      "reason": "붉은 말 탄 이가 화평을 제거하고 서로 죽이게 하는 환상이다. 실제 주변 갈등에서 폭력을 예상하거나 실행할 이유로 옮길 수 없다.",
+      "contextNote": "둘째 인 뒤 붉은 말과 그 탄 자가 나온다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "7d5a37431913ce7f1b2af94488087241bcdaa80e9157d2b81feb69d6c75b647f"
+    },
+    {
+      "id": "KRV:REV:6:5",
+      "status": "exclude",
+      "reason": "셋째 인을 떼고 저울을 든 검은 말 탄 자를 보는 장면이다. 저울이라는 사물만으로 현재 지출이나 거래의 공정성을 판단할 수 없다.",
+      "contextNote": "셋째 인 뒤 검은 말과 저울을 본다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "073d2bb928d976cf29f642cd68f14d1184d9c02d78062920b58f5189679bed76"
+    },
+    {
+      "id": "KRV:REV:6:6",
+      "status": "hold",
+      "reason": "한 데나리온에 밀 한 되와 보리 석 되라는 가격 비교가 나온다. 같은 비용의 대안을 생각할 수는 있으나 낯선 화폐와 단위, 기름과 포도주를 해하지 말라는 뒷부분까지 외투의 두 가격대에 바로 연결하기 어렵다.",
+      "contextNote": "검은 말의 장면에서 곡식의 가격을 말하는 음성이 들린다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H002",
+          "clue": "같은 돈에 어떤 물건을 고를지 비교하는 생각은 할 수 있다.",
+          "friction": "데나리온과 곡식의 의미가 설명을 요구하며 어떤 코트가 나은지 알려주지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "3863d808ffc2d0839922009d309dfe92050e9712265bc9e3cc7155aec33e6f84"
+    },
+    {
+      "id": "KRV:REV:6:7",
+      "status": "exclude",
+      "reason": "넷째 인을 떼자 생물이 오라고 하는 짧은 환상 전환이다. 현재 행동을 고르는 기준은 이 절에 없다.",
+      "contextNote": "어린 양이 넷째 인을 뗀다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "574987eaa5ba8d9774a6e91a599ba086679ddcf1be8d85a77fe40929a02b1aed"
+    },
+    {
+      "id": "KRV:REV:6:8",
+      "status": "exclude",
+      "reason": "사망이 탄 말과 검, 흉년과 죽음의 환상이다. 사용자의 실제 병이나 주변 위험을 예언하거나 특정한 생활 행동을 정하라는 근거로 바꿀 수 없다.",
+      "contextNote": "넷째 인 뒤 사망과 음부의 상징이 등장한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "e0dc14e49527d0f739848e84389d9489a69d8ed2e569f2c8ddf8da0b36692c6a"
+    },
+    {
+      "id": "KRV:REV:6:9",
+      "status": "exclude",
+      "reason": "믿음의 증거로 죽임을 당한 영혼들이 제단 아래 있는 환상을 소개한다. 문장이 이어지고 지금 겪는 불편을 같은 피해로 확정할 수도 없다.",
+      "contextNote": "다섯째 인 뒤 제단 아래의 영혼들을 본다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "3d714c70e952730ab76a80c98db4f4d38f920fb3fa8e24462a512cb78ab93eaf"
+    },
+    {
+      "id": "KRV:REV:6:10",
+      "status": "hold",
+      "reason": "희생된 영혼들이 언제까지 자신들의 피를 신원하지 않으실지 묻는다. 억울함을 떠올리게 하나 실제로 자료를 제때 보낸 일을 바로잡을지의 고민에는 피와 심판이라는 맥락이 크게 다르다.",
+      "contextNote": "죽임당한 영혼들이 하나님의 판단과 억울함의 해소를 호소한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "R015",
+          "clue": "억울한 사정을 살펴 달라고 바라는 마음은 떠올릴 수 있다.",
+          "friction": "현재 사용자는 죽임당한 피해자가 아니며 이 절에서 사실을 말할지 말지의 결정은 드러나지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "664fef328ba9ec70a0c6e464aa0e73b7c50bb99da9ac72b684e10aeac1d293b5"
+    },
+    {
+      "id": "KRV:REV:6:11",
+      "status": "hold",
+      "reason": "잠시 쉬라는 말 다음에 동무들이 죽임을 당해 정해진 수가 차기까지 기다리라는 이야기가 이어진다. 회복을 위한 휴식만 따로 떼어 생활 고민에 적용하면 전체 의미가 바뀐다.",
+      "contextNote": "제단 아래 영혼들에게 흰 두루마기를 주고 잠시 쉬라고 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H055",
+          "clue": "지친 때 잠시 쉬라는 표현은 눈에 들어온다.",
+          "friction": "죽임과 정해진 수에 관한 뒷부분이 사용자의 회복 상황과 맞지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "c8c6b316b830d1c0c8a80053464f325eeb2505e8ff099bc4797192207ba6105a"
+    },
+    {
+      "id": "KRV:REV:6:12",
+      "status": "exclude",
+      "reason": "큰 지진과 검어진 해, 피 같은 달이 나타나는 환상 묘사다. 실제 재난이나 사용자에게 벌어질 사건을 예측하는 근거로 쓸 수 없다.",
+      "contextNote": "여섯째 인 뒤 지진과 해와 달의 변화를 본다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "59d668c1933ea0c606b4e3515c5c8399b4173594c59c35443b248c70303ac629"
+    },
+    {
+      "id": "KRV:REV:6:13",
+      "status": "exclude",
+      "reason": "하늘의 별이 떨어지는 모습을 무화과나무의 열매에 비유한 환상이다. 열매나 떨어짐이라는 낱말만으로 현재 선택의 의미를 만들기 어렵다.",
+      "contextNote": "여섯째 인 뒤 별들이 떨어지는 광경이 이어진다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "f755ab648b3f94095438c2017452964e1972a5b6948b912700fbdc3f02236e80"
+    },
+    {
+      "id": "KRV:REV:6:14",
+      "status": "exclude",
+      "reason": "하늘이 말리고 산과 섬이 이동하는 종말의 환상이다. 이사하거나 계획을 바꿀 현실의 필요를 단정할 수 없다.",
+      "contextNote": "하늘과 산과 섬의 변화를 묘사한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "fda0a7d4abbd31eba185784a95fddc0bd02e22612214cc7c679519e15473a62e"
+    },
+    {
+      "id": "KRV:REV:6:15",
+      "status": "exclude",
+      "reason": "여러 지위의 사람들이 굴과 바위틈에 숨는 환상 묘사이며 문장이 다음 절에 이어진다. 특정인을 피할지의 고민에 실제 위협을 지어내어 연결할 수 없다.",
+      "contextNote": "큰 변화 앞에서 여러 사람들이 숨는 장면이다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "30ee406166efb9b9e4f996ea4746b20ea5018badb986a988d12588a5c4bab4c3"
+    },
+    {
+      "id": "KRV:REV:6:16",
+      "status": "exclude",
+      "reason": "산과 바위가 자신들 위에 떨어져 진노에서 가려 달라고 부르는 환상이다. 현실의 안전이나 자해 행동에 대한 지침으로 옮길 수 없고 구체적 생활 선택의 실마리도 없다.",
+      "contextNote": "숨은 사람들이 산과 바위에게 호소한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "8b1021fa1db0dbc1fd5538498d06ee7207925df295137544814cdf0d50991bc5"
+    },
+    {
+      "id": "KRV:REV:6:17",
+      "status": "hold",
+      "reason": "진노의 큰 날에 누가 설 수 있느냐고 묻는 말이다. 앞 장면을 알아야 하는 질문이며 사용자의 현재 일이 벌이나 재난으로 이어진다는 근거가 없다.",
+      "contextNote": "앞서 숨은 사람들이 진노의 날을 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "388cfc9f1b7e32727b473f6094138caf817940a1a8b9dafb922a99a6cb2ecec6"
+    },
+    {
+      "id": "KRV:REV:7:1",
+      "status": "exclude",
+      "reason": "네 천사가 네 방향의 바람을 붙잡는 환상이다. 날씨나 여행의 실제 조건이 어떻게 될지 이 이미지로 알 수 없다.",
+      "contextNote": "요한이 땅 네 모퉁이의 천사들을 본다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "613fb105c9c2499b3ccbb368b60e2831638bf722e3ecb83ccec91bc9b5baee82"
+    },
+    {
+      "id": "KRV:REV:7:2",
+      "status": "exclude",
+      "reason": "하나님의 인을 가진 천사가 다른 천사들에게 외치는 상황의 도입이다. 발화가 다음 절에 이어져 독립된 결정 단서는 없다.",
+      "contextNote": "해 뜨는 쪽에서 올라온 천사가 다른 천사들을 부른다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "16f54a815dd8662a137c3e500367557b55a7cb6e8e0838e8a60c655702da2322"
+    },
+    {
+      "id": "KRV:REV:7:3",
+      "status": "hold",
+      "reason": "하나님의 종들의 이마에 인을 치기까지 땅과 바다와 나무를 해하지 말라는 환상 속 지시다. 해를 끼치지 말라는 표현은 보이지만 특정 보호 절차와 대상이 현재 고민에 직접 맞지 않는다.",
+      "contextNote": "천사가 인 치기 전에는 땅과 바다를 해하지 말라고 한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "4c2e411c0aa7f83bff1c4c1dc3d9cadeda63ef2d02aec6bf3bf3355bceb2838e"
+    },
+    {
+      "id": "KRV:REV:7:4",
+      "status": "exclude",
+      "reason": "이스라엘 각 지파에서 인을 맞은 사람의 총수를 서술한다. 숫자와 지파 이름만으로 현재 사용자의 선택 방향이 주어지지 않는다.",
+      "contextNote": "인을 맞은 사람들의 총수를 듣는다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "856e56306a8758be4b0f2d9882d5c351bfa35d1f7b728793120b6d3446530490"
+    },
+    {
+      "id": "KRV:REV:7:5",
+      "status": "exclude",
+      "reason": "유다와 르우벤, 갓 지파에서 각각 인을 맞은 인원수의 목록이다. 이름과 수량 자체를 생활 고민의 결정 이유로 바꾸기 어렵다.",
+      "contextNote": "인을 맞은 이스라엘 지파별 인원 목록이 시작된다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "5fd4b7532a05e02b557959f621cda2c575743f58bba4ee960edb1a004fbc07a2"
+    },
+    {
+      "id": "KRV:REV:7:6",
+      "status": "exclude",
+      "reason": "아셀과 납달리, 므낫세 지파의 인원수를 열거하는 목록이다. 구체적인 행위나 선택의 갈등이 표현되지 않는다.",
+      "contextNote": "인을 맞은 사람들의 지파별 수를 이어 나열한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "6b95bb97f6576e5f51a5d90299ab72e5e14ca6265a5c7db92f341161a57bceaa"
+    },
+    {
+      "id": "KRV:REV:7:7",
+      "status": "exclude",
+      "reason": "시므온과 레위, 잇사갈 지파의 인원수 목록이다. 현재 사용자의 고민과 결정을 연결할 독립적인 내용이 없다.",
+      "contextNote": "인을 맞은 사람들의 지파별 인원 목록이 계속된다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "c6e8ca49a258a836f889e41f662d99bc69bd26ad6f2ecb89e2ff9acf3abf8714"
+    },
+    {
+      "id": "KRV:REV:7:8",
+      "status": "exclude",
+      "reason": "스불론과 요셉, 베냐민 지파에서 인 맞은 인원의 목록이다. 인원과 이름을 생활 선택의 이유로 바꿀 독립적인 단서가 없다.",
+      "contextNote": "인을 맞은 이스라엘 지파별 인원 목록이 마무리된다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "92b33998f0af3193daf95c9900e5c92c82636f761b819e3fb9159c2865eb4254"
+    },
+    {
+      "id": "KRV:REV:7:9",
+      "status": "candidate",
+      "reason": "각 나라와 언어에서 나온 큰 무리가 함께 서 있는 장면은 낯선 국적의 새 사람을 기존 모임에 맞이할지의 고민에 다양한 사람이 한자리에 함께할 수 있다는 이미지를 준다.",
+      "contextNote": "각 나라와 족속에서 온 큰 무리가 보좌와 어린 양 앞에 선다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C022",
+          "clue": "국적과 생활문화가 달라도 모임의 사람으로 함께하자고 말을 걸어 볼 수 있다.",
+          "friction": "흰 옷과 종려 가지는 환상의 상징이며 원문에 사용자의 모임이나 새 사람이 이미 환영받았다는 사실은 없다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "0718c61f06a6702170163350ed67670ad4a9b2444dc6d4109aa860e19ad16ab3"
+    },
+    {
+      "id": "KRV:REV:7:10",
+      "status": "hold",
+      "reason": "보좌에 앉으신 하나님과 어린 양의 구원에 관한 공동의 외침이다. 신앙적 위로는 가능하지만 구체적인 생활 속 두 선택의 차이를 이 절만으로 찾기 어렵다.",
+      "contextNote": "큰 무리가 하나님과 어린 양의 구원을 외친다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "feae84366fba7e1645f88cbd7ff7dc847ca994e6339379b415cf2a6d95ec9c5a"
+    },
+    {
+      "id": "KRV:REV:7:11",
+      "status": "exclude",
+      "reason": "천사들이 보좌 앞에 엎드려 경배하는 장면으로 다음 절에 이어진다. 단독으로 지금 할 행동의 갈등이나 생활 조건을 드러내지 않는다.",
+      "contextNote": "천사들이 보좌 앞에서 경배한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "66cce16c14ee54664b24314808bf5248205bc2b1181a188c95f8c62bf49b1095"
+    },
+    {
+      "id": "KRV:REV:7:12",
+      "status": "hold",
+      "reason": "찬송과 지혜와 감사와 힘을 하나님께 돌리는 찬양이다. 감사라는 말은 있지만 누구에게 무엇을 할지 정해야 하는 구체적 갈등은 보이지 않는다.",
+      "contextNote": "천사들이 하나님께 찬송과 영광을 돌린다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "61a1b23f44cc47816c7fe76c66c495f0460de501a740d8ac94f2ae32c36db8bd"
+    },
+    {
+      "id": "KRV:REV:7:13",
+      "status": "exclude",
+      "reason": "흰옷 입은 사람들이 누구이고 어디서 왔느냐는 환상 속 장로의 질문이다. 실제 새 동료의 출신을 캐묻거나 현재 관계를 정할 이유로 바꿀 수 없다.",
+      "contextNote": "장로가 요한에게 흰옷 입은 무리를 묻는다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "fa3e21be2b9544eb46cd7f30fcd5bd7fc7f95fc3555a6b00008470a906719b08"
+    },
+    {
+      "id": "KRV:REV:7:14",
+      "status": "hold",
+      "reason": "큰 환난에서 나온 사람들이 어린 양의 피에 옷을 씻었다는 환상 해설이다. 옷을 깨끗하게 한다는 소재만으로 실제 세탁이나 옷 구매 선택에 대응하기 어렵다.",
+      "contextNote": "장로가 흰옷 입은 사람들이 누구인지 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "a16915e6728cbca4a34f38ab52332185d8376767b44e4edbf5ec12a61d45cba2"
+    },
+    {
+      "id": "KRV:REV:7:15",
+      "status": "hold",
+      "reason": "성전에서 하나님을 섬기는 이들과 그들 위에 장막을 친다는 상징이다. 지금의 특정 거주나 업무가 보호될 것이라는 보장 없이 생활 갈등과 연결할 단서는 약하다.",
+      "contextNote": "큰 환난에서 나온 이들이 하나님을 섬기는 모습을 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "76cf31506c92dbb70f44edf8550d40b6e50a795bcb8cb30887d9c106a75ea21a"
+    },
+    {
+      "id": "KRV:REV:7:16",
+      "status": "hold",
+      "reason": "더 이상 주리거나 목마르지 않고 해에 상하지 않는다는 약속은 위로를 줄 수 있다. 그러나 누군가 제안한 음식을 받을지 등의 실제 행동이 드러나지 않아 미래의 부족이 끝났다는 뜻으로 단정할 수 없다.",
+      "contextNote": "앞 절의 사람들에게 주어질 더 이상의 굶주림과 피해가 없음을 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "38ce91fdb847e274feb68f7d5a5660a472fbe4c79b756ff45937645a8a2be1d0"
+    },
+    {
+      "id": "KRV:REV:7:17",
+      "status": "hold",
+      "reason": "어린 양의 인도와 모든 눈물을 씻는 위로를 말한다. 슬픈 이를 향한 마음은 떠올릴 수 있으나 사용자가 직접 조문하거나 모임에 갈지 어느 행동을 고를지는 이 절에 드러나지 않는다.",
+      "contextNote": "하나님이 앞서 묘사된 사람들의 눈물을 씻으실 것을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B024",
+          "clue": "슬퍼하는 친구의 눈물을 생각해 볼 수 있다.",
+          "friction": "하나님의 위로를 약속하는 문장만으로 사용자가 조문을 갈지의 구체 선택이 명확하지 않다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "79688518c48f96b27a1758db433c6a1b2b50ab608740e3601a4966894f26be37"
+    },
+    {
+      "id": "KRV:REV:8:1",
+      "status": "hold",
+      "reason": "일곱째 인을 뗀 뒤 하늘이 잠시 고요했다는 환상 서술이다. 잠깐 멈춤을 연상할 수 있으나 사용자가 지금 쉴지 무슨 일을 할지 직접 연결되는 이유는 부족하다.",
+      "contextNote": "일곱째 인을 뗄 때 하늘이 잠시 고요해진다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "f62c2ed83acfa9c0c6b8d2edb0f6d4a70abfc68208dc3afe36e762d156152e86"
+    },
+    {
+      "id": "KRV:REV:8:2",
+      "status": "exclude",
+      "reason": "하나님 앞에 선 일곱 천사가 일곱 나팔을 받는 환상 소개다. 숫자와 악기를 생활 선택에 적용할 행동 단서가 없다.",
+      "contextNote": "일곱 천사가 나팔을 받는다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "a8166852c48e3adc721a18cf25a501f84eba5e4ca908caf116880b747a965774"
+    },
+    {
+      "id": "KRV:REV:8:3",
+      "status": "hold",
+      "reason": "천사가 금 향로와 향을 받아 성도들의 기도와 함께 드리는 환상이다. 기도를 떠올리게 하지만 향로와 제단의 묘사가 길고 말문이 막힌 현재 사용자가 어떤 행동을 할지 곧장 드러나지 않는다.",
+      "contextNote": "다른 천사가 성도들의 기도와 함께 드릴 향을 받는다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "f3f55529ced52244b6233afe28b0cb66baefb41d622eab63162f775f3b539832"
+    },
+    {
+      "id": "KRV:REV:8:4",
+      "status": "candidate",
+      "reason": "기도가 하나님 앞으로 올라간다는 간결한 장면이 말을 어떻게 해야 할지 몰라 기도를 미룰지 고민할 때 완벽한 문장을 기다리기보다 기도해 볼 실마리가 될 수 있다.",
+      "contextNote": "향연이 성도들의 기도와 함께 하나님 앞으로 올라간다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C032",
+          "clue": "말이 서툴러도 지금의 마음을 가지고 기도해 볼 수 있다.",
+          "friction": "원문은 향연과 천사의 상징을 포함하며 기도의 응답이나 원하는 결과를 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "4088a5c08494ac10159d09dacd97986862e9ca11ef02180ec3ec655694bf7268"
+    },
+    {
+      "id": "KRV:REV:8:5",
+      "status": "exclude",
+      "reason": "향로의 불을 땅에 쏟고 뇌성과 지진이 나는 환상이다. 특정 행동을 하면 현실의 재난이 생긴다는 예측으로 사용할 근거가 없다.",
+      "contextNote": "천사가 제단의 불을 땅에 쏟는다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "e11c5470c5ad8a35b8cf68a542cd5c60f434f84e6fbd6bfa315508e11adaeef6"
+    },
+    {
+      "id": "KRV:REV:8:6",
+      "status": "exclude",
+      "reason": "일곱 천사가 나팔 불 준비를 하는 짧은 환상 장면이다. 준비라는 단어만으로 현재 사용자의 과제나 계획에 대해 선택할 근거가 생기지 않는다.",
+      "contextNote": "나팔을 받은 천사들이 불 준비를 한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "3eaf796c0c5bf2f206b8d8f43aeb3398ff809556166c093cf3cf23191518015e"
+    },
+    {
+      "id": "KRV:REV:8:7",
+      "status": "exclude",
+      "reason": "피 섞인 우박과 불이 땅과 나무를 태우는 환상이다. 현재 여행이나 날씨에 실제 피해가 생길 것이라고 예언할 수 없다.",
+      "contextNote": "첫째 천사가 나팔을 불자 땅과 나무가 탄다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "f8916ca93bf343894d987f2fb6ee02830c6b961af766be0d0687b640df035cdd"
+    },
+    {
+      "id": "KRV:REV:8:8",
+      "status": "exclude",
+      "reason": "불붙은 산 같은 것이 바다에 떨어져 일부가 피가 되는 환상이다. 일상 속 바다나 여행의 선택을 결정할 직접적인 내용은 없다.",
+      "contextNote": "둘째 나팔 뒤 바다에 불붙은 산 같은 것이 떨어진다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "420566ca00f9ef64c81dcb35d2e1920652b1071650f5ce49a8ebbc8adc689ffc"
+    },
+    {
+      "id": "KRV:REV:8:9",
+      "status": "exclude",
+      "reason": "바다의 생물과 배 일부가 파괴되는 장면이다. 전 절의 환상에 이어지며 현재의 거래, 이동이나 배송 결과로 옮길 근거가 없다.",
+      "contextNote": "둘째 나팔 뒤 바다 생물과 배의 피해를 묘사한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "83e5de9cef5624ac77045a4fced8cf2817f186dae1fb2c9f2068787c10929657"
+    },
+    {
+      "id": "KRV:REV:8:10",
+      "status": "exclude",
+      "reason": "타는 큰 별이 강과 물샘에 떨어지는 환상 묘사다. 물이 나오는 장소나 별이라는 단어만으로 생활 고민의 선택을 판단할 수 없다.",
+      "contextNote": "셋째 나팔 뒤 하늘의 별이 강과 샘에 떨어진다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "eb577e26b3d6cde2212473a4da16dcf1f2577de449257b5d20f744d708cf4537"
+    },
+    {
+      "id": "KRV:REV:8:11",
+      "status": "exclude",
+      "reason": "별의 이름과 물이 쓰게 되어 사람들이 죽는 환상 서술이다. 사용자가 먹을 것의 실제 안전이나 병을 예언하는 도구로 바꿀 수 없다.",
+      "contextNote": "셋째 나팔 뒤 물이 쓰게 되는 장면이 이어진다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "cfcbc960ac47158b5ae7de9a95f0963263db2bfb412c9369216203385a518a8b"
+    },
+    {
+      "id": "KRV:REV:8:12",
+      "status": "exclude",
+      "reason": "해와 달과 별의 일부가 어두워지는 환상이다. 실제 낮과 밤의 시간이나 일정이 변경된다고 판단할 근거가 없다.",
+      "contextNote": "넷째 나팔 뒤 해와 달과 별이 침을 받는다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "6724fb80bc57cc78aed607e7546ca61b9065aa4c55c6a26a13e0f5bbe2168974"
+    },
+    {
+      "id": "KRV:REV:8:13",
+      "status": "hold",
+      "reason": "독수리가 앞으로 세 나팔로 인한 화를 경고하는 종말의 환상이다. 사용자 개인에게 특정 불행이 예정됐다고 예언하거나 선택을 대신할 근거가 없다.",
+      "contextNote": "공중의 독수리가 남은 세 나팔을 경고한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "56687646c32046caae2550868e2c8d6295fb289abd8b3e1edeaddc02dc4894a5"
+    },
+    {
+      "id": "KRV:REV:9:1",
+      "status": "exclude",
+      "reason": "떨어진 별이 무저갱 열쇠를 받는 환상이다. 열쇠나 문을 실제 기회가 열린다는 뜻으로 바로 바꿀 만한 단서가 없다.",
+      "contextNote": "다섯째 나팔 뒤 땅에 떨어진 별이 열쇠를 받는다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "26c9997140a12fcd3d2d98da6b0226ffd31d6c160177f10688e611acf8a86d94"
+    },
+    {
+      "id": "KRV:REV:9:2",
+      "status": "exclude",
+      "reason": "무저갱이 열리고 연기로 해와 공기가 어두워지는 환상이다. 실제 공기나 여행 환경에 위험이 있다는 판단으로 옮길 수 없다.",
+      "contextNote": "별이 무저갱을 열자 연기가 올라온다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "f1689f308aaad3338fdca289577a5348ac82cdc1213e1e8a1c0e01e7caaecf32"
+    },
+    {
+      "id": "KRV:REV:9:3",
+      "status": "exclude",
+      "reason": "연기에서 나온 황충이 전갈과 같은 권세를 받는 환상이다. 누군가를 현실에서 해하라는 지시나 개인 선택의 실마리가 아니다.",
+      "contextNote": "무저갱의 연기 가운데 황충이 나온다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "b0cf24d0c20e4918a35ce4e6f6fe354db3ed15b3580d76b87a6f46130ea56172"
+    },
+    {
+      "id": "KRV:REV:9:4",
+      "status": "exclude",
+      "reason": "황충에게 풀과 나무는 해하지 말고 특정 사람만 해하라는 환상 속 제한이다. 현재 사람을 분류해 해할 대상으로 삼거나 인간관계에 판단을 내릴 수 없다.",
+      "contextNote": "황충의 피해 대상에 관해 제한이 주어진다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "c651d99fc23d16c1dff289839173c4fe8022d10e22bbe7053c4b33c9aea21148"
+    },
+    {
+      "id": "KRV:REV:9:5",
+      "status": "exclude",
+      "reason": "특정 사람들이 다섯 달 동안 전갈에 쏘인 것처럼 괴로움을 겪는다는 환상이다. 사용자의 실제 고통 기간이나 치료 결과를 예측할 수 없다.",
+      "contextNote": "황충에 의한 괴로움의 기간과 모습을 묘사한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "35e0a5256a2d30d18b141726255c7b67c4a693d3fada129f90e147e87c434725"
+    },
+    {
+      "id": "KRV:REV:9:6",
+      "status": "exclude",
+      "reason": "심한 괴로움 속 사람들의 죽음에 대한 표현이 나오는 환상이다. 사용자 개인의 생각이나 행동에 적용할 선택의 실마리가 없고 실제 상황을 예언하지 않는다.",
+      "contextNote": "앞 절의 괴로움을 겪는 사람들의 상황을 묘사한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "f3e54e00a2882251f1724714810352061f93b0f2c7f142a96d0189c719a10144"
+    },
+    {
+      "id": "KRV:REV:9:7",
+      "status": "exclude",
+      "reason": "황충의 모양을 전쟁 말과 사람 얼굴에 비유한 묘사다. 모양에 관한 상징만으로 생활 선택을 도출하기 어렵다.",
+      "contextNote": "황충들의 머리와 얼굴 모습을 묘사하기 시작한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "e56e2054af2360025ffab65020f2d4256c03d684da18888e465777b81864dd49"
+    },
+    {
+      "id": "KRV:REV:9:8",
+      "status": "exclude",
+      "reason": "황충의 머리털과 이를 묘사하며 앞 절의 외형 설명이 이어진다. 사용자의 머리나 옷에 관한 선택으로 바꿀 단서가 없다.",
+      "contextNote": "황충의 모습을 비유로 묘사한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "53874c25637ecbd4e03d1a2e749c674585cd5d4accd8f641b4f9c254f0c995db"
+    },
+    {
+      "id": "KRV:REV:9:9",
+      "status": "exclude",
+      "reason": "황충의 흉갑과 날개 소리를 전장에 비유한다. 물건의 외형이나 시끄러운 생활 환경에 대한 행동 선택은 나타나지 않는다.",
+      "contextNote": "황충의 몸과 날개 소리 묘사가 이어진다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "5b31f41847b91de672cef2ccde2dc607ab78f60d340c33f250c8ddd277a0b2e1"
+    },
+    {
+      "id": "KRV:REV:9:10",
+      "status": "exclude",
+      "reason": "황충이 다섯 달 동안 꼬리로 사람을 해하는 환상 묘사다. 현재 사용자의 건강 문제나 불편이 그 기간 이어진다고 예측할 수 없다.",
+      "contextNote": "황충의 꼬리와 해치는 권세를 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "03c943d3b1edd1e56865d17105f0c96ccbf96c43f1bbb08b4071a64a33e1e1e8"
+    },
+    {
+      "id": "KRV:REV:9:11",
+      "status": "exclude",
+      "reason": "황충의 임금으로 표현된 무저갱 사자의 이름을 히브리어와 헬라어로 밝힌다. 이름 설명만으로 실제 인물이나 선택에 대입하기 어렵다.",
+      "contextNote": "황충의 임금인 무저갱 사자의 이름을 소개한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "5fedbf5497322863819e2b8cedab43b16d2ce320890c527ee97e9b95d9939ae5"
+    },
+    {
+      "id": "KRV:REV:9:12",
+      "status": "hold",
+      "reason": "첫째 화가 지나고 두 가지 화가 더 온다는 종말 장면의 전환이다. 현재 어려움 뒤에 반드시 두 번의 불행이 온다고 읽거나 개인 선택의 기준으로 삼을 수 없다.",
+      "contextNote": "첫째 화가 끝나고 나머지 화를 예고한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "a9ebb501b8f27969d14fbe0336da5cd79d3ee16eefbb0ba9f2824a0582a85a86"
+    },
+    {
+      "id": "KRV:REV:9:13",
+      "status": "exclude",
+      "reason": "여섯째 나팔을 불 때 금 제단의 뿔에서 음성이 난다는 환상 도입이다. 다음 절에 이어지며 생활 고민에 대한 행동은 나타나지 않는다.",
+      "contextNote": "여섯째 천사가 나팔을 불고 음성이 들린다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "f2707c26eecd3b41efb58b6d7682d6333512973bfb66acec058283170a106b73"
+    },
+    {
+      "id": "KRV:REV:9:14",
+      "status": "exclude",
+      "reason": "유브라데에 결박된 네 천사를 놓아 주라는 환상 속 지시다. 다른 사람을 돕거나 관계의 속박을 푸는 실제 생활 상황이라고 단정할 근거가 없다.",
+      "contextNote": "음성이 여섯째 천사에게 네 천사를 풀어 주라고 말한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "07fc42031fe33735a833cf1fa15096e2f2149b33ee4fb338923a1f5601507435"
+    },
+    {
+      "id": "KRV:REV:9:15",
+      "status": "exclude",
+      "reason": "네 천사가 놓여 정해진 때에 사람들을 죽이게 되어 있다는 환상 서술이다. 실제 사람의 운명이나 위험을 예측하거나 선택하게 하는 단서가 아니다.",
+      "contextNote": "놓인 네 천사가 준비된 때에 할 일을 묘사한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "1521c26b9a0375a24813efa0e88148af2a612fbfce8795dfa6d01184018de282"
+    },
+    {
+      "id": "KRV:REV:9:16",
+      "status": "exclude",
+      "reason": "마병대의 수를 들었다는 숫자 서술이다. 숫자만으로 사용자에게 필요한 생활 선택이나 행동이 나타나지 않는다.",
+      "contextNote": "요한이 마병대의 수를 듣는다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "d70a8e29f763730fe6085722aef90df9c0dfec20dcc781424bd241c5fac122fe"
+    },
+    {
+      "id": "KRV:REV:9:17",
+      "status": "exclude",
+      "reason": "말과 탄 자의 흉갑, 사자 같은 머리와 불과 연기를 묘사한 환상이다. 어떤 행동을 고를지의 갈등이나 판단은 주어지지 않는다.",
+      "contextNote": "마병대와 말의 환상적 모습을 묘사한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "47006b2b220dd2ad1ece1ae153d4518e481dc3075b274249d3b89d664e626c16"
+    },
+    {
+      "id": "KRV:REV:9:18",
+      "status": "exclude",
+      "reason": "세 재앙으로 사람들이 죽임을 당한 환상 서술이다. 현실의 병이나 재난이 일어날 확률과 결과를 알려주는 말씀으로 쓸 수 없다.",
+      "contextNote": "말의 입에서 나온 불과 연기와 유황의 피해를 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "36a3cbaac934e9d294528f8c48cbc07914f1520e8448eb57e7fcb9fe1baed22f"
+    },
+    {
+      "id": "KRV:REV:9:19",
+      "status": "exclude",
+      "reason": "환상 속 말의 입과 뱀 같은 꼬리가 사람을 해치는 힘을 묘사한다. 현실의 주변 사람이 숨은 악의를 가졌다는 사실을 만들 수 없다.",
+      "contextNote": "말의 입과 꼬리가 가진 힘을 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "bd0e0a88395cdf462a6e47551e6fb041cd1ef7d70378e650ab10a36f133b2cab"
+    },
+    {
+      "id": "KRV:REV:9:20",
+      "status": "hold",
+      "reason": "재앙 뒤에도 우상에게 절하며 회개하지 않았다는 종교적 책망이다. 실제 사용자가 귀신이나 우상에게 절했다고 전제할 수 없고 문장도 다음 절에 이어진다.",
+      "contextNote": "재앙에서 남은 사람들이 자신들의 행위를 회개하지 않았다고 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "7e5e62bd80a148c03ccdf6421e5759c149dc37111e39d8440350cc87ad3c08cd"
+    },
+    {
+      "id": "KRV:REV:9:21",
+      "status": "hold",
+      "reason": "살인과 복술과 음행과 도적질을 회개하지 않았다는 앞 절의 목록이다. 그런 행동이 실제로 확인되지 않은 생활 고민에 구체적 잘못을 추가해 연결할 수 없다.",
+      "contextNote": "남은 사람들이 회개하지 않은 행위를 이어 열거한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "fc9525107b7f7ac8f4594f3bd06d0b40ab71668e5737c639fdf28fa1086a03cc"
+    },
+    {
+      "id": "KRV:REV:10:1",
+      "status": "exclude",
+      "reason": "구름과 무지개, 해 같은 얼굴과 불기둥 같은 발로 천사의 모습을 묘사한다. 시각적 비유 자체에는 행동을 선택할 갈등이 드러나지 않는다.",
+      "contextNote": "힘센 천사가 하늘에서 내려오는 환상을 본다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "483a29e50545a60989db3754735a8c4625677e70b5ec9b55f3b3db16abc52512"
+    },
+    {
+      "id": "KRV:REV:10:2",
+      "status": "exclude",
+      "reason": "천사가 작은 책을 들고 바다와 땅에 발을 딛는 환상 묘사로 문장이 이어진다. 개인의 이동이나 책 구매를 판단할 근거는 없다.",
+      "contextNote": "천사의 손과 발의 위치를 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "d336a58a547e3769c1e020726256a3c4125da309c0745d0707eac1a0d6c02497"
+    },
+    {
+      "id": "KRV:REV:10:3",
+      "status": "exclude",
+      "reason": "천사가 사자처럼 외치자 일곱 우레가 소리를 내는 환상이다. 소리를 듣고 현실에서 어떤 행동을 할지 구체적인 단서는 없다.",
+      "contextNote": "천사가 크게 외치고 일곱 우레가 응답한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "fddccbea35d140803944630f01397d34d6c10eaf88908cbc6e670d89b107b002"
+    },
+    {
+      "id": "KRV:REV:10:4",
+      "status": "candidate",
+      "reason": "기록하려다가 기록하지 말라는 말을 듣는 장면은 힘든 일을 적어 둘지 잊히게 둘지 고민하는 경우 이번에는 굳이 글로 붙잡지 않는 쪽을 떠올리게 한다.",
+      "contextNote": "요한이 우레의 소리를 기록하려 하자 봉하고 기록하지 말라는 말을 듣는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B012",
+          "clue": "힘든 경험을 지금 꼭 글로 남기지 않고 잠시 내려둘 수 있다.",
+          "friction": "원래 기록하지 말라는 대상은 우레의 계시이며 사용자가 이미 기록을 시작했다고 단정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "650e6a57d7eb0d7b3da5f45923eccd21f2b6b3c7b09a2bba89220bc78432cc66"
+    },
+    {
+      "id": "KRV:REV:10:5",
+      "status": "exclude",
+      "reason": "땅과 바다에 선 천사가 하늘을 향해 손을 든다는 동작으로 문장이 이어진다. 현재의 생활 선택에 연결할 발언 내용은 이 절에 없다.",
+      "contextNote": "천사가 맹세하기 위해 오른손을 든다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "dc7708e1d5db17d7ee0d25bc2bb4541cf34216d56fcc2bd702b61ce58af4df05"
+    },
+    {
+      "id": "KRV:REV:10:6",
+      "status": "hold",
+      "reason": "창조주를 가리켜 더 지체하지 않겠다고 맹세하는 환상이다. 미루지 않는다는 표현은 보이나 천사가 맹세하는 내용이 다음 절에 이어지므로 현재의 신청서를 당장 내야 한다는 결론을 만들기 어렵다.",
+      "contextNote": "천사가 창조주를 가리켜 지체하지 않을 것을 맹세한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "bec8f3c46421aae7e09cabeb5a82da8fb941264add15ec955076978ba644779e"
+    },
+    {
+      "id": "KRV:REV:10:7",
+      "status": "hold",
+      "reason": "일곱째 나팔 소리와 하나님의 비밀이 이루어짐에 관한 예언이다. 지금 계획의 성공이나 일정이 곧 이루어진다는 개인적 예측으로 쓸 수 없다.",
+      "contextNote": "일곱째 천사가 나팔 불 때 하나님의 비밀이 이루어진다고 한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "38d1820632a0b91eeecd5fb0d45348fee60cfe7046788edd7766e166f5a228e3"
+    },
+    {
+      "id": "KRV:REV:10:8",
+      "status": "hold",
+      "reason": "바다와 땅을 밟은 천사의 손에서 책을 가지라는 환상 속 지시다. 책을 가져오거나 읽는다는 단어 외에 사용자의 어떤 고민과 맞는지 구체적 단서는 부족하다.",
+      "contextNote": "하늘의 음성이 요한에게 천사의 책을 가지라고 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "816639cfc5e6112dcca70d778e68c44839e1fbf288dbbc860d759a3879b75762"
+    },
+    {
+      "id": "KRV:REV:10:9",
+      "status": "hold",
+      "reason": "작은 책을 먹으면 입에는 달고 배에는 쓰다는 천사의 말이다. 순간의 이익과 나중의 부담을 연상할 수 있으나 천사와 책을 먹는 기이한 장면이 길고 실제 구매가 반드시 후회로 이어진다는 예언은 아니다.",
+      "contextNote": "천사가 요한에게 작은 책을 먹으라고 하며 맛을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G03",
+          "clue": "할인의 달콤함과 그 뒤 잘 쓰지 못할 가능성을 함께 떠올릴 수 있다.",
+          "friction": "책을 먹는 환상이며 사용자가 이 물건을 사면 반드시 후회한다는 뜻은 아니다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "06c9a022048bd70a66c40d08d5c4aea03f2199bc2397b6fc3acb21e8fe1a42a5"
+    },
+    {
+      "id": "KRV:REV:10:10",
+      "status": "candidate",
+      "reason": "입에는 달지만 먹고 나니 배에는 썼다는 대비는 할인에 끌리지만 자주 쓸지 모르는 물건을 살지의 고민에 당장의 달콤함과 뒤의 부담을 함께 떠올릴 실마리를 준다.",
+      "contextNote": "요한이 작은 책을 먹어 보니 입은 달고 배는 쓰다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G03",
+          "clue": "할인을 놓치기 아쉬운 마음 외에 산 뒤 잘 쓰지 못할 가능성도 생각하고 구매를 보류할 수 있다.",
+          "friction": "책을 먹는 환상적 비유이며 실제로 구매 후 후회한다는 사실은 확인되지 않았다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "9e0f6b728b4552e85b017aa0c67971f2fca4a6f10cfdf9f7bfa06c079a94ebc4"
+    },
+    {
+      "id": "KRV:REV:10:11",
+      "status": "hold",
+      "reason": "많은 백성과 임금에게 다시 예언하라는 요한에 대한 지시다. 발표나 의견을 말할지 고민하는 사용자가 예언할 사명을 받았다는 사실을 추가해선 안 된다.",
+      "contextNote": "요한에게 여러 나라와 백성에 대해 다시 예언하라고 한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "0d847dd03d5d1c519309cae5d82ca96acbf4758d7334627db39fedcedf3379a5"
+    },
+    {
+      "id": "KRV:REV:11:1",
+      "status": "exclude",
+      "reason": "갈대로 성전과 제단과 경배하는 사람들을 척량하라는 환상 속 지시다. 뜻이 생소하고 문장이 다음 절에 이어져 지금 생활의 선택 단서로 읽기 어렵다.",
+      "contextNote": "요한에게 성전과 제단을 측량하라고 한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "be99c161a0a8703300999f7e7ca6b8b5f661bc91e9ca99518141fb3be9404576"
+    },
+    {
+      "id": "KRV:REV:11:2",
+      "status": "hold",
+      "reason": "성전 밖 마당을 측량하지 말라는 지시와 이방인의 마흔두 달 점령 이야기다. 현재 측정하거나 정리할지 고민을 직접 다루지 않으며 기간을 현실 일정으로 옮길 수 없다.",
+      "contextNote": "성전 바깥 마당과 거룩한 성에 관한 이야기가 이어진다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "792d699de8e80a9b1b623d4520505393218d6e9a2693b8295db18b74720959cf"
+    },
+    {
+      "id": "KRV:REV:11:3",
+      "status": "hold",
+      "reason": "두 증인이 베옷을 입고 정해진 기간 예언할 것이라는 환상적 예고다. 지금 사용자가 두 사람과 일하거나 그 기간 무엇을 해야 한다는 사실을 만들 수 없다.",
+      "contextNote": "두 증인의 활동과 예언 기간을 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "53d3a3cfc8e4bf69f26f8c6b5f06a789abe336ccac2e51ec19e29b40419a1a62"
+    },
+    {
+      "id": "KRV:REV:11:4",
+      "status": "exclude",
+      "reason": "앞 절의 두 증인을 감람나무와 촛대에 비유하는 상징 설명이다. 단독으로는 인물과 행동이 명확하지 않아 생활 고민의 선택에 연결하기 어렵다.",
+      "contextNote": "두 증인의 상징적 정체를 밝힌다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "37ffe9de6bde68b2e21e65d750f0eeb033aa18725ba60aa0f72d1e00e60da760"
+    },
+    {
+      "id": "KRV:REV:11:5",
+      "status": "exclude",
+      "reason": "두 증인을 해치려는 이가 입에서 나온 불로 죽임당한다는 환상이다. 현실의 상대를 위협하거나 피해 결과를 예언할 근거가 아니다.",
+      "contextNote": "두 증인을 해하려는 이들에 대한 환상적 묘사다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "04590f3c9fd9645eb06d0c94a5c114f8fb5301fcd848981fcbf90dbdae5dc075"
+    },
+    {
+      "id": "KRV:REV:11:6",
+      "status": "exclude",
+      "reason": "두 증인이 비와 물, 재앙에 대해 가진 환상적 권세를 설명한다. 실제 날씨와 피해를 예언하거나 다른 사람을 해치는 수단으로 옮길 수 없다.",
+      "contextNote": "두 증인의 환상적 권세 묘사가 이어진다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "5fba0c0d3a98a69a53c8b26cbbc6bfd992097cf89a7e5173b99139b09dd3e9e2"
+    },
+    {
+      "id": "KRV:REV:11:7",
+      "status": "exclude",
+      "reason": "증인들이 증거를 마친 뒤 짐승에게 죽임을 당하는 환상이다. 하던 일을 끝내면 현실에 피해가 생긴다는 예측으로 바꾸지 않는다.",
+      "contextNote": "무저갱에서 올라온 짐승과 두 증인의 전쟁을 묘사한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "1e0b6e2b48c12d45ec15e93e45be5136802c9da4e9d3a3472a19f09832b408b4"
+    },
+    {
+      "id": "KRV:REV:11:8",
+      "status": "exclude",
+      "reason": "두 증인의 시체가 있는 장소를 상징적인 이름으로 밝힌다. 현재 사람의 위치나 생사를 판단할 생활 선택 단서가 없다.",
+      "contextNote": "죽임당한 증인들의 시체와 큰 성을 묘사한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "def3241c71bc6d7aebedd1b68e902584ab7da658501d9756533ac640575e4dbe"
+    },
+    {
+      "id": "KRV:REV:11:9",
+      "status": "exclude",
+      "reason": "여러 나라 사람이 시체를 보고 장사를 막는 환상이다. 친구의 장례나 조문에 대한 사용자의 실제 상황으로 옮길 근거가 없다.",
+      "contextNote": "사람들이 두 증인의 시체를 보고 장사를 막는 장면이다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "ee9b657fa5c1c83c78e437f5d0f4b0216af730b62227fd241b706ee3a9d7184f"
+    },
+    {
+      "id": "KRV:REV:11:10",
+      "status": "hold",
+      "reason": "괴롭힘을 겪던 사람들이 증인들의 죽음을 기뻐하고 서로 예물을 보낸다. 나를 비웃던 동료의 실수를 다른 사람들과 즐길지의 고민과 감정은 비슷하지만 죽음과 선물이라는 전체 장면의 강도가 매우 다르고 구체적인 반성은 명시되지 않는다.",
+      "contextNote": "땅에 거하는 자들이 두 선지자의 죽음을 기뻐한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B022",
+          "clue": "남을 괴롭혔던 사람의 어려움을 여럿이 기뻐하는 모습을 돌아볼 수 있다.",
+          "friction": "동료는 단지 실수했을 뿐이며 죽었다거나 선물을 주고받았다는 사실은 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "50ae4eb8ed419c8f8b5e50602178e2892a237489a96542db243d504425de018d"
+    },
+    {
+      "id": "KRV:REV:11:11",
+      "status": "hold",
+      "reason": "생기가 들어와 일어서고 구경하던 사람들이 두려워하는 환상이다. 다시 일어선다는 이미지는 가능하지만 과거 기회가 실제로 끝났거나 성공적으로 되살아난다는 예언은 아니다.",
+      "contextNote": "죽임당한 두 증인이 삼일 반 후 다시 일어선다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "64f9fc2b1fd356fcd5fe27fa2b84c4dcc899cfa5b71f500e839b4d023f262abe"
+    },
+    {
+      "id": "KRV:REV:11:12",
+      "status": "exclude",
+      "reason": "두 증인이 구름을 타고 하늘로 올라가고 원수들이 본다는 환상이다. 실제 이동이나 주변 사람의 반응을 예측하는 생활 단서로 바꾸기 어렵다.",
+      "contextNote": "두 증인이 하늘에서 부르는 음성을 듣고 올라간다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "e6c5595a93a13f83a4f6b99effb52336f983dba9640967a24818bd7dbb831ae2"
+    },
+    {
+      "id": "KRV:REV:11:13",
+      "status": "exclude",
+      "reason": "지진으로 성 일부가 무너지고 사람들이 죽는 환상이다. 현재 위치나 여행의 실제 재난 위험을 이 숫자로 예언할 수 없다.",
+      "contextNote": "두 증인이 올라간 뒤 큰 지진이 일어난다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "04161b90dcc6784f0874acb4f5b5c2a7f246f03baaeaf3477255569f02ec2866"
+    },
+    {
+      "id": "KRV:REV:11:14",
+      "status": "hold",
+      "reason": "둘째 화가 지나고 셋째 화가 이른다는 장면 전환이다. 개인에게 남은 어려움의 개수나 도래 시각을 확정해 주지 않는다.",
+      "contextNote": "둘째 화의 끝과 셋째 화의 시작을 알린다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "7ec01adcfaa1a8482829c4c71025c8cbdaa28790998383633fdef1680d068c38"
+    },
+    {
+      "id": "KRV:REV:11:15",
+      "status": "hold",
+      "reason": "일곱째 나팔과 하나님의 나라에 대한 하늘의 찬양이다. 특정 개인의 일상 갈등에서 어떤 행동을 선택해야 할지의 단서가 없다.",
+      "contextNote": "일곱째 천사가 나팔을 불고 하늘의 음성이 울린다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "7862f11317cb52eac9535f8536a4f9410337e2ca5ec06f46af16c694793f9cf0"
+    },
+    {
+      "id": "KRV:REV:11:16",
+      "status": "exclude",
+      "reason": "스물네 장로가 엎드려 경배한다는 찬양 장면 도입이며 다음 절에 문장이 이어진다. 단독으로 선택의 방향을 판단하기 어렵다.",
+      "contextNote": "스물네 장로들이 하나님 앞에 경배한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "89ba85138f32cb5dc90620b32f45c7e2bd7f81d2c401fa4c093af471cd7509da"
+    },
+    {
+      "id": "KRV:REV:11:17",
+      "status": "hold",
+      "reason": "영원하신 하나님의 권능과 다스림을 감사하는 찬양이다. 개인의 당장 선택할 일과 직접 맞물리는 구체적인 행동은 나타나지 않는다.",
+      "contextNote": "장로들이 하나님의 권능에 감사한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "5f8a4e3a4ec52ed7c3df77558b1a862fc94b16f14ff5b5ef51bb51fe8344dee3"
+    },
+    {
+      "id": "KRV:REV:11:18",
+      "status": "hold",
+      "reason": "심판과 상, 멸망에 대한 종교적 찬양이다. 보상이나 벌이라는 말만으로 사용자가 고민 중인 거래나 선택의 실제 결과를 확정할 수 없다.",
+      "contextNote": "하나님의 심판과 상을 노래한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "8ec05ff41bf33423a65eda2eb3ef306dd78a6c1a543d17e028f5878d86100ec5"
+    },
+    {
+      "id": "KRV:REV:11:19",
+      "status": "exclude",
+      "reason": "하늘 성전의 언약궤와 번개, 지진, 우박에 대한 환상이다. 현실의 날씨나 안전에 관한 사건이 임박했다고 판단할 근거가 아니다.",
+      "contextNote": "하늘 성전이 열리고 여러 현상이 나타난다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "e20347b830af2987e86c00779c5211ea9e723ae63a976a4c3b004555b75ed743"
+    },
+    {
+      "id": "KRV:REV:12:1",
+      "status": "exclude",
+      "reason": "해를 입고 달과 열두 별을 가진 여자의 모습에 대한 환상 묘사다. 실제 의복이나 신체를 고르는 생활 고민의 방향은 주어지지 않는다.",
+      "contextNote": "하늘에서 해를 입은 여자의 큰 이적을 본다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "5fce56be22429bbf669c37edbe844a7644ded90da55a3d13375d62f1d3a8d90d"
+    },
+    {
+      "id": "KRV:REV:12:2",
+      "status": "exclude",
+      "reason": "해산할 여자가 고통 중 부르짖는 묘사다. 개인의 임신 여부나 출산 상황을 추정하거나 실제 의료적 선택을 할 근거는 없다.",
+      "contextNote": "환상 속 여자가 해산의 고통을 겪는다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "18f3d90701026c73bb2b5a857ffef2fbb052da7622ec3954fdcf245c47b46e36"
+    },
+    {
+      "id": "KRV:REV:12:3",
+      "status": "exclude",
+      "reason": "머리 일곱과 뿔 열을 가진 붉은 용의 환상적 외형이다. 사용자의 주변 인물이나 선택의 옳고 그름을 판별할 정보가 없다.",
+      "contextNote": "하늘에서 붉은 용의 다른 이적을 본다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "6eba887d617c32a5029e0bae45811f25dd792cd31e1adb75b353c1f59dbb2f19"
+    },
+    {
+      "id": "KRV:REV:12:4",
+      "status": "exclude",
+      "reason": "용이 별들을 떨어뜨리고 태어날 아이를 삼키려는 환상이다. 현실의 부모나 아이에게 같은 위협이 존재한다고 예측할 수 없다.",
+      "contextNote": "용이 여자가 해산하면 아이를 삼키려 한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "602438fd74c1f1629168d7c3643108d368c474f26ce3e2be2d8e6f79d4d35650"
+    },
+    {
+      "id": "KRV:REV:12:5",
+      "status": "exclude",
+      "reason": "장차 만국을 다스릴 아이가 태어나 하나님 보좌로 올려지는 환상이다. 현실의 출산이나 아이의 장래를 예언할 근거가 아니다.",
+      "contextNote": "여자가 낳은 아들이 하나님 앞으로 올려진다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "8748f98a998d7cdf57ebf571056aee0f149694f28adf147180ef682a8289b240"
+    },
+    {
+      "id": "KRV:REV:12:6",
+      "status": "hold",
+      "reason": "광야로 간 여자를 위해 양육할 곳이 예비되었다는 환상이다. 맡길 곳이 아직 없는 반려동물의 사례에 이 말을 쓰면 아직 확인되지 않은 돌봄 장소가 이미 마련됐다고 오해하기 쉽다.",
+      "contextNote": "여자가 광야로 도망하고 예비된 곳에서 양육을 받는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B020",
+          "clue": "보호받을 곳을 마련하는 이미지는 떠올릴 수 있다.",
+          "friction": "실제로 반려동물을 맡길 곳은 아직 없고 구절은 장소가 이미 준비됐다고 서술한다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "e3db32c3651384b158babf818aa046ed41755bf04157341bed6480320fc80e0f"
+    },
+    {
+      "id": "KRV:REV:12:7",
+      "status": "exclude",
+      "reason": "하늘에서 미가엘과 용의 무리가 싸우는 환상이다. 주변 갈등을 천상의 전쟁으로 동일시하거나 어느 사람을 적으로 정할 근거는 없다.",
+      "contextNote": "하늘에서 미가엘과 용 사이에 전쟁이 일어난다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "276a702e7c63ebf1584c31a3eaf6d26d769876bc128ea6d579cb053f4157cd6e"
+    },
+    {
+      "id": "KRV:REV:12:8",
+      "status": "exclude",
+      "reason": "앞에서 싸운 이들이 이기지 못하고 하늘에 있을 곳을 잃었다는 문장이다. 주체와 싸움의 맥락이 단독 절에 없고 현재 지원이나 경쟁의 결과로 예측할 수도 없다.",
+      "contextNote": "하늘의 싸움에서 용과 그 사자들의 결과가 이어진다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "3a91ad44b9a7e4d07313d145d3e28ad211623758c1efbdd1b9ff65c6a29cfea5"
+    },
+    {
+      "id": "KRV:REV:12:9",
+      "status": "exclude",
+      "reason": "큰 용과 옛 뱀을 사단으로 밝히고 땅으로 쫓긴다고 묘사한다. 사용자의 실제 지인이나 갈등 상대를 그 존재로 규정할 수 없다.",
+      "contextNote": "큰 용과 그 사자들이 땅으로 내어 쫓긴다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "c01709c992cd2d98635dba4ac2b79be0c34f90de24c618e7475b001f3750ccd7"
+    },
+    {
+      "id": "KRV:REV:12:10",
+      "status": "hold",
+      "reason": "구원과 권세의 성취 및 형제들을 참소하던 자가 쫓겨났다는 하늘의 음성이다. 근거 없이 현재의 비난자가 사라진다거나 상대의 악의를 단정할 수 없다.",
+      "contextNote": "하늘에서 구원과 참소자의 추방을 알리는 음성이 나온다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "41c478874fcdccb56bdb68e4baa632a9cb286ebe4c5219a9f2b1ffd46821b888"
+    },
+    {
+      "id": "KRV:REV:12:11",
+      "status": "hold",
+      "reason": "증언으로 이긴 형제들이 죽기까지 생명을 아끼지 않았다는 이야기다. 신앙 때문에 비웃음을 겪는 사람에게 견딤을 떠올리게 할 수 있으나 생명을 내놓는 박해 상황까지 현재 사례와 같다고 보기 어렵다.",
+      "contextNote": "형제들이 어린 양의 피와 증언으로 참소자를 이겼다고 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C031",
+          "clue": "주변의 반응에도 자기 믿음을 지키려는 마음을 떠올릴 수 있다.",
+          "friction": "사용자의 지인들은 비웃었지만 생명을 위협했다고 주어지지 않았다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "163dbc3432d940e6f2b17084a959ab1a31f3cfdb120f52aef479c44b5a0c4ad4"
+    },
+    {
+      "id": "KRV:REV:12:12",
+      "status": "hold",
+      "reason": "하늘의 즐거움과 땅과 바다의 화를 대조하는 하늘의 선언이다. 사용자의 위치에 실제 화가 곧 닥친다는 예측이나 여행 취소의 근거가 아니다.",
+      "contextNote": "마귀가 땅으로 내려가 크게 분낸다는 환상적 설명이다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "93d2ed5841f2f6eaf2d922951f1689838b1fc94dcfc926001af151bb42f84292"
+    },
+    {
+      "id": "KRV:REV:12:13",
+      "status": "exclude",
+      "reason": "쫓겨난 용이 남자를 낳은 여자를 핍박한다는 환상 서술이다. 실제 가족이나 지인에게 적대적 존재가 있다고 단정할 수 없다.",
+      "contextNote": "땅으로 쫓긴 용이 여자를 핍박한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "23042622b9e0911bafec6b11672357948644a730f8d09fe7ba9b2961aafd3de5"
+    },
+    {
+      "id": "KRV:REV:12:14",
+      "status": "hold",
+      "reason": "여자가 독수리의 날개를 받아 뱀을 피해 양육받는 환상이다. 어려움에서 보호받는 이미지는 가능하지만 현재 탈출 수단이나 안전이 이미 마련됐다는 확인은 아니다.",
+      "contextNote": "여자가 광야로 날아가 뱀을 피해 양육받는다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "f814c72bb0182e3170bee4efb04d2ac0c13b650beaaff33d5f9daf0a2d818592"
+    },
+    {
+      "id": "KRV:REV:12:15",
+      "status": "exclude",
+      "reason": "뱀이 강물 같은 물을 토해 여자를 휩쓸려 하는 환상이다. 현재 관계의 상대가 해를 꾀하거나 실제 홍수가 난다는 예측으로 쓸 수 없다.",
+      "contextNote": "뱀이 여자를 물에 떠내려 가게 하려 한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "ce6b86ad17560e4034f8e591ec354916ed0f97faaf783bf9363085105e0480a4"
+    },
+    {
+      "id": "KRV:REV:12:16",
+      "status": "exclude",
+      "reason": "땅이 입을 벌려 용의 강물을 삼켜 여자를 돕는 환상이다. 현재 도움을 제공할 실제 사람이 생긴다는 뜻으로 확인하거나 생활 선택에 옮길 단서가 없다.",
+      "contextNote": "땅이 용의 물을 삼켜 여자를 돕는다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "4cebe877d038014177f054305281a6df7aa4ffc2a6390dbd65bb2ac1958244cb"
+    },
+    {
+      "id": "KRV:REV:12:17",
+      "status": "exclude",
+      "reason": "용이 여자의 남은 자손과 싸우려 한다는 환상이다. 사용자의 가족이나 신앙 모임을 공격할 구체적 상대를 실제로 추정할 수 없다.",
+      "contextNote": "용이 분노하여 여자의 남은 자손과 싸우려 한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "a5b4c257d072e5874248266717387a94c98f3dac9a5b8b15e381feef7d3d76c9"
+    },
+    {
+      "id": "KRV:REV:13:1",
+      "status": "exclude",
+      "reason": "열 뿔과 일곱 머리와 면류관을 가진 짐승의 외형을 서술한다. 이 상징만으로 일상 선택의 기준을 만들 수 없다.",
+      "contextNote": "바다에서 여러 머리를 가진 짐승이 나온다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "58b40862a5060c9eb0f0ad22c94b2e43707492c208184e35b564165c88690bff"
+    },
+    {
+      "id": "KRV:REV:13:2",
+      "status": "exclude",
+      "reason": "짐승의 모습과 용이 준 권세를 묘사한다. 현실의 타인이나 조직을 짐승이라고 규정할 근거가 아니다.",
+      "contextNote": "바다에서 나온 짐승의 모습과 권세를 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "75e3dfc6a728c5162e87656badd81c21a0c98cb8bd72b00d22011627b25a82ac"
+    },
+    {
+      "id": "KRV:REV:13:3",
+      "status": "hold",
+      "reason": "죽게 된 것 같던 상처가 나아 사람들이 짐승을 따른다는 환상이다. 실제 치료 결과가 좋아진다거나 모임 사람들이 반드시 따르게 된다는 예측으로 옮길 수 없다.",
+      "contextNote": "짐승의 상처가 나아 온 땅이 놀라고 따르는 장면이다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "f78c6baca8375941904b28e0cc1280290d04f98c713430b5fd199b7965173eca"
+    },
+    {
+      "id": "KRV:REV:13:4",
+      "status": "hold",
+      "reason": "사람들이 용과 짐승에게 경배하며 대적할 수 있는지 묻는 환상이다. 현재 눈앞의 경쟁이나 권력 관계를 그 상징과 동일시할 충분한 근거가 없다.",
+      "contextNote": "사람들이 권세를 받은 짐승과 용에게 경배한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "dbe3e8988406e660c1de4fd0a6e8b55ff3c596a2e1ea6177ebb47a4e51ba617c"
+    },
+    {
+      "id": "KRV:REV:13:5",
+      "status": "exclude",
+      "reason": "짐승에게 주어진 말할 입과 마흔두 달의 권세를 서술한다. 사용자에게 주어진 실제 기간이나 사람의 능력으로 옮길 근거가 없다.",
+      "contextNote": "짐승이 큰 말과 일정 기간의 권세를 받는다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "b4113a0684f72d98d89fe707ba39ac28d6c01dc4c6490bf80c763567feb7de37"
+    },
+    {
+      "id": "KRV:REV:13:6",
+      "status": "exclude",
+      "reason": "짐승이 하나님과 하늘에 거하는 자들을 훼방하는 장면이다. 비판하는 현재 지인을 초자연적 악의 존재로 단정할 수 없다.",
+      "contextNote": "짐승이 하나님과 하늘의 거주자를 훼방한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "b250423290a2fd838b3b5ff4c24f3176438323f0d8440e758a44e46322e567e0"
+    },
+    {
+      "id": "KRV:REV:13:7",
+      "status": "exclude",
+      "reason": "짐승이 성도들과 싸워 이기고 여러 민족을 다스리는 환상적 권세를 말하며 문장이 이어진다. 지금 경쟁이나 인간관계의 결과를 결정할 정보는 아니다.",
+      "contextNote": "짐승이 성도들과 여러 나라에 대한 권세를 받는다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "1c6a613611762bd33486d49a306b063934c31ffcf854644a4e3ef2bdc76b7499"
+    },
+    {
+      "id": "KRV:REV:13:8",
+      "status": "hold",
+      "reason": "생명책에 기록되지 않은 이들이 짐승에게 경배한다는 환상이다. 실제 사람의 신앙 상태나 구원을 사용자의 입력만으로 판별할 수 없다.",
+      "contextNote": "땅에 사는 사람들의 짐승 경배를 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "12e182f3a4ba922410477b696762ed9d7d0bfabe367c86f45f9a8cad8459fc07"
+    },
+    {
+      "id": "KRV:REV:13:9",
+      "status": "hold",
+      "reason": "누구든지 들으라는 짧은 권면이다. 무엇을 듣고 어떤 선택에 적용할지는 주변 문맥에 달려 있어 이 절만으로 구체적 실마리가 부족하다.",
+      "contextNote": "이어지는 말씀을 들으라고 권한다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "c26a1537278729ba6a9e55fa3208959b906fb93b4028ce467d2c1acc1df61887"
+    },
+    {
+      "id": "KRV:REV:13:10",
+      "status": "hold",
+      "reason": "사로잡거나 칼로 죽인 자가 같은 처지를 겪는다는 말과 신앙의 인내가 함께 나온다. 조롱에 맞서 인내할지 생각할 수 있지만 실제 동료 간의 말다툼을 살해나 포로와 동일시할 수 없다.",
+      "contextNote": "박해의 상황에서 성도들의 인내와 믿음을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B022",
+          "clue": "남에게 받은 상처를 다시 해로 돌려주기보다 참는 쪽을 떠올릴 수 있다.",
+          "friction": "동료의 실수와 이야기의 맥락에 칼이나 감금은 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "6f0b8565520b099310a59b487c233b91e4de77ef5c3ae47f17bc136ff290fe76"
+    },
+    {
+      "id": "KRV:REV:13:11",
+      "status": "exclude",
+      "reason": "땅에서 올라온 다른 짐승의 뿔과 목소리를 묘사한다. 사용자 주변 사람을 그 짐승이라고 단정할 근거가 없다.",
+      "contextNote": "어린양 같은 뿔과 용 같은 말을 하는 짐승이 나온다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "03e2d74bb6b7788b1b448095e40dcb66fd0fba3dcf2be5f141ac2f1a160d334e"
+    },
+    {
+      "id": "KRV:REV:13:12",
+      "status": "exclude",
+      "reason": "둘째 짐승이 첫째 짐승의 권세를 행사하고 사람들에게 경배를 시키는 환상이다. 현실의 조직이나 지도자를 해당 짐승과 동일시할 수 없다.",
+      "contextNote": "둘째 짐승이 먼저 나온 짐승을 경배하게 한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "aee2fea71dee73da0a13b10df6edbb0f86d24520fbaaef0ac81a2bd385d53337"
+    },
+    {
+      "id": "KRV:REV:13:13",
+      "status": "exclude",
+      "reason": "짐승이 불을 하늘에서 땅으로 내리는 이적을 행한다는 환상이며 문장이 이어진다. 일상의 선택과 직접 연결되는 행동 단서는 없다.",
+      "contextNote": "둘째 짐승이 큰 이적을 행한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "0d12d1d6955ba4ffae0b6b2cb99e20da6f0515e7cf1bd5fdc3ef848496e171e5"
+    },
+    {
+      "id": "KRV:REV:13:14",
+      "status": "hold",
+      "reason": "이적으로 사람들을 미혹하고 짐승의 우상을 만들라고 하는 환상이다. 실제 지인이 상대를 속이는지 모르는 사례에서 그런 의도를 사실로 추가할 수 없다.",
+      "contextNote": "둘째 짐승이 이적으로 사람들을 미혹한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "4cc02cf1bf67c79bfec7ddb8932525f780d0da314ec25d9077db6f486797c91e"
+    },
+    {
+      "id": "KRV:REV:13:15",
+      "status": "exclude",
+      "reason": "짐승의 우상을 말하게 하고 경배하지 않는 사람을 죽이는 환상이다. 현실의 신앙이나 관계 선택에 실제 폭력 결과를 예언할 근거가 아니다.",
+      "contextNote": "둘째 짐승이 우상을 통해 사람들을 강제한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "61ddf44b6c816b886e3209ffb8696d7fd3725cb894646d0a6d8212fa843c1f8d"
+    },
+    {
+      "id": "KRV:REV:13:16",
+      "status": "exclude",
+      "reason": "여러 신분의 사람에게 손이나 이마에 표를 받게 하는 환상이다. 현실의 특정 표식이나 사용자를 그 대상으로 판별할 수 없다.",
+      "contextNote": "짐승이 모든 사람에게 표를 받게 한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "62c080e0d487919005fed794e3353ebeac3a0fecc58abd5bfc202a34ad416da1"
+    },
+    {
+      "id": "KRV:REV:13:17",
+      "status": "hold",
+      "reason": "앞 절의 표가 없는 사람은 매매하지 못한다는 환상적 통제다. 실제 상품 거래가 막혔다거나 상대의 이름에 특별한 의미가 있다고 단정할 수 없다.",
+      "contextNote": "짐승의 표와 매매 제한을 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "ad6021b942d5ecd0e61f6dc05b1397695331c676481af9b537909525511520fc"
+    },
+    {
+      "id": "KRV:REV:13:18",
+      "status": "exclude",
+      "reason": "짐승의 수 육백육십육을 세라는 상징적 구절이다. 실제 가격과 날짜의 숫자에 불길한 결과를 부여해 구매나 거래를 고를 근거가 없다.",
+      "contextNote": "짐승의 수가 육백육십육이라고 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "6b34386302d705d947915371ffebcc0c5658969545b61d5162e5c7d09c17d4e5"
+    },
+    {
+      "id": "KRV:REV:14:1",
+      "status": "exclude",
+      "reason": "어린 양과 함께 선 사람들의 이마에 적힌 이름과 인원수를 묘사한다. 실제 명단이나 사용자 신분을 판별할 수 있는 자료가 아니다.",
+      "contextNote": "어린 양과 십사만 사천이 시온산에 서 있는 환상이다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "373350158d42d35f7e3e65da83b1d7834fd35662e623de06321783e1f30b7a1d"
+    },
+    {
+      "id": "KRV:REV:14:2",
+      "status": "exclude",
+      "reason": "하늘의 소리를 물소리, 뇌성과 거문고 소리에 비유하는 묘사다. 지금 들은 소리나 음악을 선택할 행동 기준이 나타나지 않는다.",
+      "contextNote": "요한이 하늘의 음성을 듣는다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "83ac7057e4e4106ff2c7f0baca93f6f1e8faa1bcad0b98bf6842a2437bbbe7a7"
+    },
+    {
+      "id": "KRV:REV:14:3",
+      "status": "hold",
+      "reason": "구속받은 이들만 배울 수 있는 새 노래라는 종교적 상징이다. 사용자가 실제 배울 자격이 없거나 모임에 참여하지 못한다는 뜻으로 판단할 수 없다.",
+      "contextNote": "십사만 사천이 보좌 앞에서 새 노래를 부른다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "2e04570be23751de5a1ada78151cdbed7eee79c3347bc323ef951a5430c34252"
+    },
+    {
+      "id": "KRV:REV:14:4",
+      "status": "hold",
+      "reason": "특정 사람들의 정절과 어린 양을 따르는 모습을 종교적 상징으로 묘사한다. 친밀함이나 관계를 고민하는 현재 사람의 가치와 잘못을 외모 또는 성별로 단정할 수 없다.",
+      "contextNote": "어린 양을 따르는 사람들의 모습을 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "8b302c1ab0df151d2af51cffe6ad02052c42b75cd93ea72ff63214d20e8cc50d"
+    },
+    {
+      "id": "KRV:REV:14:5",
+      "status": "candidate",
+      "reason": "입에 거짓말이 없다는 짧은 표현은 실제보다 활동 이력을 부풀릴지 사실대로 쓸지 망설이는 고민에 직접 연결된다.",
+      "contextNote": "어린 양을 따르는 사람들의 입에 거짓말이 없다고 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B014",
+          "clue": "다른 사람을 따라 이력을 과장하기보다 실제로 한 일을 적을 수 있다.",
+          "friction": "흠이 없다는 말은 사용자가 완벽한 사람인지 판정하거나 실수가 전혀 없다고 확정하는 표현이 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "0674dbb4aa295cf970b9bb9951e90f397458310847437136996c3cd8b7b7572a"
+    },
+    {
+      "id": "KRV:REV:14:6",
+      "status": "candidate",
+      "reason": "여러 나라와 사람들에게 전할 복음을 가졌다는 말은 친구에게 자신의 믿음을 솔직히 설명할지 망설일 때 진심을 말로 나눌 실마리가 될 수 있다.",
+      "contextNote": "천사가 여러 나라 사람들에게 전할 영원한 복음을 가진다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C019",
+          "clue": "믿음에 관해 물어본 친구에게 강요하지 않고 자신의 믿음을 솔직히 말할 수 있다.",
+          "friction": "원문은 천사가 여러 나라에 전하는 환상이며 친구가 같은 믿음을 받아들이리라는 사실은 없다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "fb3cb54e90534ea47f6a9c3250dd27244fed336b1f1221e53b9e649a75ad5d4b"
+    },
+    {
+      "id": "KRV:REV:14:7",
+      "status": "hold",
+      "reason": "창조주를 경배하라는 말 앞에 심판의 시간이 이르렀다는 선언이 있다. 집에서도 기도할 수 있을지의 고민과 경배라는 소재는 닿으나 장소에 대한 직접 단서는 없고 실제 심판 시각을 예측할 수 없다.",
+      "contextNote": "천사가 하나님을 경배하라고 큰 소리로 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "fca1591e602288fcf4e161d040d25b77ccdfdba1e246d6170e24f327e68ebf5f"
+    },
+    {
+      "id": "KRV:REV:14:8",
+      "status": "exclude",
+      "reason": "큰 성 바벨론의 무너짐과 음행의 포도주를 상징적으로 선포한다. 현재 도시나 거래가 망한다는 실제 예언으로 사용하지 않는다.",
+      "contextNote": "둘째 천사가 바벨론의 몰락을 선언한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "643b1cc0342b5ee5b4486e8d9d8bcf78cb91a3b6e22bbf69883665951b55a25e"
+    },
+    {
+      "id": "KRV:REV:14:9",
+      "status": "exclude",
+      "reason": "짐승과 우상에게 경배하고 표를 받으면이라는 조건절로 다음 절에 이어진다. 현재 사용자나 물건의 표식을 그 대상으로 단정할 수 없다.",
+      "contextNote": "셋째 천사가 짐승의 표에 관해 경고를 시작한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "cc5626ffa4d55da684a8fd29162fbfc0c8ecada209b7e0e8a1b433a531e1ab66"
+    },
+    {
+      "id": "KRV:REV:14:10",
+      "status": "exclude",
+      "reason": "앞 절의 우상 경배에 따르는 불과 유황의 고난을 묘사한다. 현실의 관계나 의사결정에 그런 고난이 생긴다는 예측은 근거가 없다.",
+      "contextNote": "짐승에게 경배한 이들에 대한 심판이 이어진다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "fa64face80cf7ab27c0ca0baa22c0e60d9ad3a029ce4f38e23d99ccde43ca691"
+    },
+    {
+      "id": "KRV:REV:14:11",
+      "status": "exclude",
+      "reason": "고난의 연기와 우상에게 경배한 이들의 쉼 없음에 관한 종교적 심판 묘사다. 사용자의 현재 불안이나 휴식 부족을 죄의 결과로 단정할 수 없다.",
+      "contextNote": "짐승에게 경배한 이들에 대한 경고가 이어진다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "c018fb8ecb2e0b2098ae1b7f7836abb8a0d096eb46d6d01e9f42f955440decbf"
+    },
+    {
+      "id": "KRV:REV:14:12",
+      "status": "candidate",
+      "reason": "계명과 믿음을 지키는 이들의 인내라는 표현은 신앙을 이유로 조롱받아 모임을 그만둘지 고민하는 사람에게 믿음을 이어갈 실마리가 된다.",
+      "contextNote": "앞의 심판 경고 뒤 성도들의 인내와 믿음을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C031",
+          "clue": "주변의 비웃음에도 마음을 나누며 신앙생활을 계속할 수 있다.",
+          "friction": "지인들의 조롱이 끝나거나 사용자가 모든 어려움을 홀로 견뎌야 한다는 보장은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "38dad6a4a099771827585baaf1082173235eeb973559fa3ab2a8ec1588fbc6b9"
+    },
+    {
+      "id": "KRV:REV:14:13",
+      "status": "hold",
+      "reason": "수고를 그치고 쉰다는 말 앞에 주 안에서 죽는 사람에 관한 발언이 있다. 회복을 위해 오늘 쉬어야 할지의 고민에 휴식 부분만 떼어 쓰기에는 전체 내용의 대상이 다르다.",
+      "contextNote": "주 안에서 죽는 이들의 쉼과 행한 일을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H055",
+          "clue": "수고를 멈추고 쉰다는 부분은 회복을 떠올리게 한다.",
+          "friction": "죽은 사람들에 대한 말이므로 현재 살아 있는 사용자의 휴식 선택과 바로 같지 않다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "0828edb321354616d9db9edd301ae978adb13aad9cf014435b1796f70136945b"
+    },
+    {
+      "id": "KRV:REV:14:14",
+      "status": "exclude",
+      "reason": "구름 위에 앉은 이의 면류관과 날카로운 낫을 묘사한 환상이다. 물건의 외형만으로 생활 속 행동을 정할 근거가 없다.",
+      "contextNote": "요한이 구름 위 사람의 아들 같은 이를 본다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "0129ccfee29861e2a17699ec6ea14ae6724e650273e96f1ae7bc4e8a3349d0f4"
+    },
+    {
+      "id": "KRV:REV:14:15",
+      "status": "candidate",
+      "reason": "거둘 때가 이르러 곡식이 익었다는 말은 완벽하지 않다고 느끼는 작품을 공개할지 계속 다듬을지 고민할 때 지금까지 준비한 것을 내놓을 실마리를 준다.",
+      "contextNote": "천사가 익은 곡식을 거둘 때라고 구름 위에 앉은 이에게 외친다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H042",
+          "clue": "완벽해질 때만 기다리기보다 지금의 작품을 공개할 수 있다.",
+          "friction": "추수의 환상이며 작품의 완성도나 공개 후 평가를 객관적으로 확인해 주지는 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "c0eadfbd41bd8132be7d2c52eb00f1be61d2ad68c64b50c3a7787fe1518d7efe"
+    },
+    {
+      "id": "KRV:REV:14:16",
+      "status": "hold",
+      "reason": "낫을 휘둘러 곡식이 거두어졌다는 추수 환상이다. 앞 절의 때가 무르익었다는 이유가 이 절에는 없으며 사용자의 작업도 이미 끝났다고 단정할 수 없다.",
+      "contextNote": "구름 위에 앉은 이가 땅의 곡식을 거둔다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "1e20d0d6c16312427a06c6fa33012ef771900b10bdb7f84e740e766a9faae306"
+    },
+    {
+      "id": "KRV:REV:14:17",
+      "status": "exclude",
+      "reason": "성전에서 나온 천사가 날카로운 낫을 가졌다는 짧은 장면이다. 그 도구만으로 사용자에게 어떤 일을 할지의 이유를 주지 않는다.",
+      "contextNote": "또 다른 천사가 하늘 성전에서 나온다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "ea2f23191654f166c9037b348e8c973508760a30b295ce6cb0127a014a9c57a1"
+    },
+    {
+      "id": "KRV:REV:14:18",
+      "status": "candidate",
+      "reason": "익은 포도를 거두라는 말은 계속 손질하고 싶은 작품을 이제 공개할지의 고민에서 충분히 무르익은 것을 내놓는 쪽으로 연결할 수 있다.",
+      "contextNote": "불을 다스리는 천사가 익은 포도송이를 거두라고 외친다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H042",
+          "clue": "더 다듬을 수도 있지만 지금 작업물을 내놓기로 정할 수 있다.",
+          "friction": "낫과 천사는 환상 속 추수의 비유이며 실제 작품이 완벽하거나 성공한다는 뜻이 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "767d8520ba8c077a73c2ce7a004d7e6f2e29b53a858e6717e03f3c679edc6e86"
+    },
+    {
+      "id": "KRV:REV:14:19",
+      "status": "hold",
+      "reason": "천사가 포도를 거두어 진노의 포도주 틀에 던지는 환상이다. 수확이라는 단어만 따로 떼면 시간의 선택을 연상하지만 심판의 이미지까지 실제 작업 공개에 자연스럽게 옮기기 어렵다.",
+      "contextNote": "천사가 땅의 포도를 거두어 포도주 틀에 넣는다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "928b8c7e2464b38bbf51e46b4bbf0bbfb1f5c8958da18482e13e30a7aecde3e9"
+    },
+    {
+      "id": "KRV:REV:14:20",
+      "status": "exclude",
+      "reason": "성 밖 포도주 틀에서 피가 멀리 퍼지는 심판 환상이다. 실제 부상이나 사용자에게 닥칠 사건을 예측하지 않는다.",
+      "contextNote": "포도주 틀이 밟히며 피가 퍼지는 모습을 묘사한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "1453048b8265c2afaff3c7d511239d2f8035379cee9f565e0373510743252270"
+    },
+    {
+      "id": "KRV:REV:15:1",
+      "status": "hold",
+      "reason": "일곱 천사의 마지막 재앙으로 하나님의 진노가 마친다는 환상이다. 현재 겪는 일이 마지막 어려움인지 또는 추가 재난이 오는지 확인해 주지 않는다.",
+      "contextNote": "요한이 일곱 천사의 마지막 재앙에 관한 이적을 본다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "244e966884c77baf029e9d6c1fcfa7914baee239823fd8d1c4e51825686c207b"
+    },
+    {
+      "id": "KRV:REV:15:2",
+      "status": "exclude",
+      "reason": "유리 바다 같은 곳과 짐승의 표를 이긴 자들의 모습을 소개하는 장면이며 다음 절에 이어진다. 악기나 물의 모습만으로 현재 선택의 단서를 만들 수 없다.",
+      "contextNote": "이긴 자들이 유리 바다 가에서 거문고를 가진다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "8e24241093a0ab45f04e932809f0d7b9911a3a62d026ee7d760fa93528a43396"
+    },
+    {
+      "id": "KRV:REV:15:3",
+      "status": "hold",
+      "reason": "하나님이 하시는 일과 길을 찬양하는 모세와 어린 양의 노래다. 종교적 고백 자체와 구체적인 생활 갈등에서 고를 행동은 구별해야 한다.",
+      "contextNote": "이긴 자들이 모세와 어린 양의 노래를 부른다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "6af2c2a87a50c8da175006310fce3cbf38f10fafa62d696a2453cfa6aeb25ee6"
+    },
+    {
+      "id": "KRV:REV:15:4",
+      "status": "hold",
+      "reason": "하나님을 경배하고 거룩하게 여기는 노래다. 지금 어디서 어떤 방식으로 기도해야 하는지나 개인적 선택의 답을 직접 주지는 않는다.",
+      "contextNote": "모세와 어린 양의 노래가 하나님을 경배하는 내용으로 이어진다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "cedda51f69b551c4442dc11296d9e6fb1fea249b7daa68b760bb05fb60862d79"
+    },
+    {
+      "id": "KRV:REV:15:5",
+      "status": "exclude",
+      "reason": "하늘의 장막 성전이 열리는 환상 장면의 도입이며 다음 절과 연결된다. 사용자의 기회나 장소가 실제로 열렸는지 확인할 수 없다.",
+      "contextNote": "하늘의 증거 장막 성전이 열린다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "f0c9145f6cb706aeda57afddc140d199f5e4853ff1c7951c7f0ce46071166279"
+    },
+    {
+      "id": "KRV:REV:15:6",
+      "status": "exclude",
+      "reason": "일곱 천사의 흰 옷과 금띠를 묘사하는 장면이며 다음 절에 이어진다. 의복이라는 단어로 실제 옷 구매의 방향을 정할 수 없다.",
+      "contextNote": "일곱 재앙을 가진 천사들이 성전에서 나온다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "1eac794148d9ad3f76e908d27197f9d2a1cf948623a7d217a3421e1174311b58"
+    },
+    {
+      "id": "KRV:REV:15:7",
+      "status": "exclude",
+      "reason": "네 생물 중 하나가 천사들에게 진노가 담긴 금대접을 준다는 환상이다. 특정 선물이나 실제 음식을 받을지의 갈등과는 다르다.",
+      "contextNote": "일곱 천사들이 진노의 금대접을 받는다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "05b5ebf9290659bd69bec0921a9488fe588bcac727765a7d54d78cb69b48d7fc"
+    },
+    {
+      "id": "KRV:REV:15:8",
+      "status": "hold",
+      "reason": "일곱 재앙이 끝날 때까지 연기 찬 성전에 들어갈 수 없다는 환상이다. 사용자 앞의 장소나 기회가 실제로 닫혀 있다고 예언하는 근거가 아니다.",
+      "contextNote": "성전이 연기로 차고 재앙이 마칠 때까지 들어갈 수 없게 된다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "62be37dde5d51530e8e4fed065a6dbb9339e1a075cbaef1392a28efa8ce4a2f6"
+    },
+    {
+      "id": "KRV:REV:16:1",
+      "status": "exclude",
+      "reason": "일곱 천사에게 진노의 대접을 땅에 쏟으라는 환상 속 명령이다. 현재 사람에게 해를 끼치거나 특정 일을 실행하라고 할 단서가 아니다.",
+      "contextNote": "성전의 음성이 천사들에게 일곱 대접을 쏟으라고 한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "46ca6f02fbcd19098f81006e0c558cbe398ff9d18c9084238854ea1a08747fcb"
+    },
+    {
+      "id": "KRV:REV:16:2",
+      "status": "exclude",
+      "reason": "짐승의 표를 받은 사람들에게 독한 헌데가 나는 환상이다. 실제 상처나 피부 증상을 신앙 상태와 연결하거나 진단하지 않는다.",
+      "contextNote": "첫째 대접을 쏟자 사람들에게 헌데가 난다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "ef57a678046dac5a5e42fd2d05a92fb9db892ac8d7dcd78bffaa0acac5982475"
+    },
+    {
+      "id": "KRV:REV:16:3",
+      "status": "exclude",
+      "reason": "바다가 피처럼 되고 바다 생물이 죽는 환상이다. 현재 여행지나 실제 해양 환경이 위험하다고 예언할 근거가 없다.",
+      "contextNote": "둘째 대접을 바다에 쏟는다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "3dec1020f7b5b16b841adf95d32b9e2c3f108c521566ef30174a21028d9e92a6"
+    },
+    {
+      "id": "KRV:REV:16:4",
+      "status": "exclude",
+      "reason": "강과 물의 근원에 대접을 쏟자 피가 되는 환상이다. 현재 물이나 식품의 안전을 이 말씀으로 판별할 수 없다.",
+      "contextNote": "셋째 대접을 강과 물의 근원에 쏟는다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "7f5ae94c20896eed84e88117f711580c158a6c7f52b13c320b3086acefba5a7e"
+    },
+    {
+      "id": "KRV:REV:16:5",
+      "status": "hold",
+      "reason": "물을 맡은 천사가 하나님의 심판을 의롭다고 말하는 찬양이다. 지금 사용자의 잘못이나 주변 사람에게 일어날 결과가 확정되었다는 뜻은 아니다.",
+      "contextNote": "물의 천사가 하나님의 심판을 찬양한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "da3130577d3bfcec3759a36b60c18c8750f738c637abadb5c561374604c9ae36"
+    },
+    {
+      "id": "KRV:REV:16:6",
+      "status": "exclude",
+      "reason": "피를 흘린 이들에게 피를 마시게 하는 것이 합당하다는 심판의 노래다. 개인적 원망이나 보복을 현실에서 실행하라는 근거로 바꾸지 않는다.",
+      "contextNote": "천사가 앞의 물이 피가 된 심판에 대해 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "d53871446c45dd9a2306c5e88d80db166f572781949d07c8fd38bdb020e041d9"
+    },
+    {
+      "id": "KRV:REV:16:7",
+      "status": "hold",
+      "reason": "제단이 하나님의 심판을 참되고 의롭다고 찬양한다. 누군가의 현실 분쟁에서 누가 옳은지 또는 결과가 무엇일지를 이 절이 대신 판단하지 않는다.",
+      "contextNote": "제단의 음성이 심판의 의로움을 찬양한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "272f1da5e36f841569c2e49693cd206c5e330b30d8f5642b67c8fff592cb5629"
+    },
+    {
+      "id": "KRV:REV:16:8",
+      "status": "exclude",
+      "reason": "넷째 대접 뒤 해가 사람들을 태우는 환상이다. 현재 날씨나 햇볕에 대한 실제 위험을 예측하는 근거가 아니다.",
+      "contextNote": "넷째 대접을 해에 쏟는 환상이다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "9105db9c963e86190ee839b3c2d7f75e1d080a6b08779f451e8ace29d1b8ce99"
+    },
+    {
+      "id": "KRV:REV:16:9",
+      "status": "exclude",
+      "reason": "재앙으로 태워진 사람들이 하나님을 훼방하고 회개하지 않는 장면이다. 사용자의 질병이나 불편을 불순종의 벌로 단정할 수 없다.",
+      "contextNote": "태움을 당한 사람들의 반응을 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "2098024e0a2d49e66de35e9882f632b89a7f8c0e085c6d4cbe46f0ce99264729"
+    },
+    {
+      "id": "KRV:REV:16:10",
+      "status": "exclude",
+      "reason": "다섯째 대접 뒤 나라가 어두워지고 사람들이 아파하는 환상이다. 구체적인 치료나 일상의 실제 고통을 예측하는 말씀이 아니다.",
+      "contextNote": "짐승의 보좌에 대접이 쏟아진다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "6b3332e5b3520fbc8472b62bd6b65d8ea45ffa71ffd7711cfa52603ac1660c9e"
+    },
+    {
+      "id": "KRV:REV:16:11",
+      "status": "hold",
+      "reason": "아픔과 종기를 겪는 사람들이 하나님을 훼방하고 회개하지 않는 묘사다. 현재 몸이 아픈 사용자의 신앙이나 잘못을 판정할 수 없다.",
+      "contextNote": "재앙을 겪은 사람들의 반응을 이어 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "e5e53631efb754d215c55564b82079bc5211dac02f93c45e3503440ab01579b4"
+    },
+    {
+      "id": "KRV:REV:16:12",
+      "status": "exclude",
+      "reason": "유브라데 강이 말라 동방 왕들의 길이 예비된 환상이다. 사용자의 이동 경로나 새 기회가 현실에서 준비됐는지 알 수 없다.",
+      "contextNote": "여섯째 대접을 강에 쏟자 강이 마른다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "2d9c54bfc5a961d208d5f377851cb06f94ce907c2665fc956f1847011bedd5a2"
+    },
+    {
+      "id": "KRV:REV:16:13",
+      "status": "exclude",
+      "reason": "용과 짐승, 거짓 선지자의 입에서 개구리 같은 영이 나온다는 환상이다. 실제 대화 상대의 의도나 정체를 이렇게 규정할 수 없다.",
+      "contextNote": "세 더러운 영이 나오는 장면을 본다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "843386ad4f88028d61ca438bce0873cad13ce4c0f2b113f9e47ac7e20bc69a3f"
+    }
+  ]
+}
