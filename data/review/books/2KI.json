@@ -1,0 +1,1421 @@
+{
+  "bookCode": "2KI",
+  "corpusSha256": "f8d5c8b377e243b05fb884b4a6965d2c06a95de74b64a716ee4b95989d61e971",
+  "criteriaVersion": "garasadae-corpus-2026-10-08-v1",
+  "reviewer": "Codex review_gen_oct28",
+  "method": "direct-codex-reading",
+  "entries": [
+    {
+      "id": "KRV:2KI:1:1",
+      "textSha256": "41ec128fe0969ac168dcdafac3d03b085653a8edd248d4e498f859e821f1d835",
+      "status": "exclude",
+      "reason": "왕 사후 모압이 배반했다는 정치적 변화다. 이별 뒤 관계를 지킬지에 현재의 선택 이유는 없다.",
+      "contextNote": "아합 사후의 모압 이탈이다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:1:2",
+      "textSha256": "f887c00d6d41ca264f45fbb4879ac858ff6e008595bf0fb260fe18be03c5b302",
+      "status": "hold",
+      "reason": "부상한 왕이 다른 신에게 병의 결과를 묻는다. 불안 속 신앙 기준은 닿지만 치료 행위와 신탁 질문을 구별해야 한다.",
+      "contextNote": "아하시야가 바알세붑에게 병의 앞날을 묻는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:1:3",
+      "textSha256": "a0a8034312b323c2879480f7624af31c6558acf1780044fe8d5bf304b37cc225",
+      "status": "candidate",
+      "reason": "하나님을 믿으면서 왜 다른 신에게 답을 구하느냐는 질문은 답답해 점을 보러 갈지의 망설임을 정확히 짚는다.",
+      "contextNote": "왕의 사자들에게 바알세붑 신탁을 책망한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B030",
+          "clue": "답답함 때문에 내가 믿는 기준 밖의 신탁에 기대려는 마음을 보고 기도하며 생각할 실마리를 읽는다.",
+          "friction": "원래는 왕의 질병 신탁이다. 의료 상담이나 치료를 다른 신에게 묻는 것과 같게 취급하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:1:4",
+      "textSha256": "f57bf2637449b2dc320bb1c00f6b05c220f0fc6b8c54de4ace1d6a9b38dc2596",
+      "status": "hold",
+      "reason": "병상에서 못 내려오고 반드시 죽으리라는 특정 심판이다. 지금의 치료 결과나 신앙 선택의 죽음을 예고하는 말로 쓸 수 없다.",
+      "contextNote": "아하시야의 죽음을 예고한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:1:5",
+      "textSha256": "59621bd3f56e529ca34fd52a4602287f820a7c54fae2773e90d9cc65bfa31c2a",
+      "status": "exclude",
+      "reason": "돌아온 사자들에게 이유를 묻는 진행이다. 먼저 확인할지의 고민에 무엇이 문제인지 단독으로는 알 수 없다.",
+      "contextNote": "왕이 사자들의 조기 귀환을 묻는다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:1:6",
+      "textSha256": "325e9e01dd918526093544eb7d5f2a439e36372accf5d4dee539e3ef43117dbd",
+      "status": "hold",
+      "reason": "다른 신에게 물은 책망과 반드시 죽는다는 예고를 함께 전달한다. 신앙 기준을 볼 앞부분만 떼고 죽음의 후반을 없앨 수 없다.",
+      "contextNote": "사자들이 엘리야의 말을 왕에게 보고한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:1:7",
+      "textSha256": "a72a42c59daa95cada15699b55246fb3750f84b6ca52901b78003d0a83ee6d23",
+      "status": "exclude",
+      "reason": "말한 사람의 모양을 묻는 신원 확인이다. 선택 방향에 필요한 사실 확인 기준까지는 담지 않는다.",
+      "contextNote": "왕이 사자들에게 엘리야의 외모를 묻는다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:1:8",
+      "textSha256": "cea315d7aa2deacd6ed2707c7b61f92ebc6aed681dedc8c7cda854ef9c2ab8e4",
+      "status": "exclude",
+      "reason": "털과 가죽 띠로 엘리야임을 알아본다. 외모가 걱정되는 사람에게 몸의 특징 일치만으로 충분한 연결이 생기지 않는다.",
+      "contextNote": "왕이 외모 묘사로 엘리야를 알아본다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:1:9",
+      "textSha256": "3a7883dae504130edc903e321ff983ff88e21149b450f44771ac380b8f3b7d05",
+      "status": "exclude",
+      "reason": "오십부장이 왕의 소환 명령을 전한다. 내려갈지의 판단 이유보다 권력자의 전달 절차가 중심이다.",
+      "contextNote": "첫 오십부장이 산 위 엘리야를 부른다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:1:10",
+      "textSha256": "12e026c243b28c2b72f46760f16261e994ed47a4e3ae418b613454da1edbe2d7",
+      "status": "hold",
+      "reason": "하나님의 사람이라는 증거로 병사들을 불살라 죽인다. 자신을 존중받게 할 생활 수단으로 신적 살해를 기대할 수 없다.",
+      "contextNote": "첫 오십부대가 하늘 불에 죽는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:1:11",
+      "textSha256": "32106cf6ed1b43e682533456a62d4775ea96f23767fe4a5fc7efb92e05e3b5e1",
+      "status": "exclude",
+      "reason": "두 번째 부대가 왕의 명령이라며 빨리 내려오라 한다. 반복 부탁의 압력은 보이나 현재 거절 기준이나 응답은 없다.",
+      "contextNote": "두 번째 오십부장이 엘리야를 재촉한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:1:12",
+      "textSha256": "fe698d05f371b4597b043b2fdfce57d620adcda7cd6b9c02ea19ce0b427aafeb",
+      "status": "hold",
+      "reason": "다시 불을 내려 오십 명과 지휘관을 죽인다. 반복되는 요청에 상대를 없애는 응답을 생활 방향으로 줄 수 없다.",
+      "contextNote": "두 번째 오십부대도 하늘 불에 죽는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:1:13",
+      "textSha256": "704e32806badc2fade82ce87dc414cda06171d8fc7b4e811fef912a484582b17",
+      "status": "candidate",
+      "reason": "부하들의 생명까지 귀하게 봐 달라는 간청이 나에게 필요한 도움과 도와줄 사람의 희생 사이에서 사람을 먼저 볼 길을 연다.",
+      "contextNote": "셋째 오십부장이 자신과 부하를 위해 간구한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B002",
+          "clue": "도움이 성사되는 것만 보지 않고 도와줄 친구의 몸과 삶도 귀하게 여겨 부담을 덜어 줄 실마리를 읽는다.",
+          "friction": "사용자 친구에게 살해 위험이 있다고 보태지 않는다. 꿇어 엎드리는 자세를 일상 부탁의 의무로 만들지도 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:1:14",
+      "textSha256": "581144e0dfaef6da781ca06f67e78505b0e0dc707cf67a75afb48ca1d0a5ca3f",
+      "status": "hold",
+      "reason": "이전 부대가 불에 탄 죽음과 자기 생명을 귀히 봐 달라는 간청이다. 존중의 실마리와 대량 죽음의 배경이 함께 무겁다.",
+      "contextNote": "셋째 오십부장이 생명을 거듭 청한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:1:15",
+      "textSha256": "8ec62ae8dbcc6f962c558167fdf1dabcfce3c551d52125b5c9adf25376d645a3",
+      "status": "hold",
+      "reason": "두려워 말고 그와 함께 내려가라는 지시다. 지금 누군가를 믿고 따라가도 안전하다는 확인으로 쓰기에는 상대와 사명이 특정된다.",
+      "contextNote": "엘리야가 셋째 오십부장과 왕에게 간다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:1:16",
+      "textSha256": "d4453b12e738cf1a1e1bc42659aaa4cb711ae2c7e08111ee5db8973914375d09",
+      "status": "hold",
+      "reason": "다른 신의 신탁을 찾은 이유를 묻고 죽음을 확언한다. 믿음의 방향을 보기 위해 병상의 죽음 예고를 숨길 수 없다.",
+      "contextNote": "엘리야가 왕 앞에서 같은 심판을 전한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:1:17",
+      "textSha256": "ebe3b13e4317f7d0f99b1568d507a0561f3eb4254bc51709074f22792355da11",
+      "status": "exclude",
+      "reason": "예고대로 왕이 죽고 아들이 없어 다른 왕이 계승한다. 동명의 왕들과 연대 설명이 현재 선택의 실마리를 가린다.",
+      "contextNote": "아하시야 사후 여호람이 즉위한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:1:18",
+      "textSha256": "ba70812c10e521d4ad6514f2fafb9ff859a8029b073c8f0a8775fd7ad43c2e0d",
+      "status": "exclude",
+      "reason": "남은 사적을 적은 문헌의 안내다. 지금 무엇을 기록할지에 이유나 방향을 주지 않는다.",
+      "contextNote": "아하시야 사적의 출처다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:2:1",
+      "textSha256": "41e5b4ccf73a7ef3d62d866588b05cfebaa6ca1a0e47c29706485cd8b1867c04",
+      "status": "hold",
+      "reason": "회리바람 승천 전 두 선지자가 길을 떠나는 도입이다. 이별의 뜻은 있지만 아직 함께할 행동의 기준은 없다.",
+      "contextNote": "엘리야의 승천 전 여정을 연다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:2:2",
+      "textSha256": "6ccf7cf8bbad73c60582e272957fab506d9b0dd7347b3ec53507aee05dcedf81",
+      "status": "candidate",
+      "reason": "곁을 떠나지 않겠다는 마음을 말하고 함께 걸어간다. 떠날 친구에게 무심한 인사만 할지에 애정을 표현할 길을 준다.",
+      "contextNote": "엘리사가 엘리야와 벧엘까지 함께 간다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C026",
+          "clue": "한동안 떨어질 친구에게 소중한 마음을 숨기지 않고 배웅할 때 솔직히 전할 실마리다.",
+          "friction": "친구의 떠남을 막거나 계속 남으라고 설득하는 뜻이 아니다. 맹세와 선지자의 길을 그대로 따라야 한다는 규칙도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:2:3",
+      "textSha256": "09de7e54243df001e20c9714c12789acd22062830a3258ed9066aa03285e1c9b",
+      "status": "candidate",
+      "reason": "이미 알고 있는 이별의 사실을 되풀이하는 이들에게 잠잠해 달라고 한다. 지친 친구에게 더 긴 말을 보탤지의 고민을 비춘다.",
+      "contextNote": "엘리사가 벧엘 생도들에게 말을 멈추게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A013",
+          "clue": "친구가 겪는 부담을 이미 알고 있을 때 더 많은 조언보다 말의 무게를 덜어 주는 방향을 읽는다.",
+          "friction": "친구가 실제로 침묵을 명령했거나 읽지 않는 이유를 안다고 보태지 않는다. 무시한다고 따지기 전의 대안이다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:2:4",
+      "textSha256": "06ca37911d924bf21aeda6121ae78b57c7876838060ad03754d131581e53ba9b",
+      "status": "candidate",
+      "reason": "여기 머물라는 말에도 함께하고 싶은 마음을 표현하고 길을 간다. 작별에서 애정을 말할지의 부담을 뜻밖에 짚는다.",
+      "contextNote": "엘리사가 여리고로 가는 엘리야를 따른다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C026",
+          "clue": "부담스러울까 감추기만 하기보다 헤어짐이 아쉽고 소중하다는 마음을 배웅에서 전할 실마리를 읽는다.",
+          "friction": "친구에게 실제 출국을 취소하라고 붙드는 선택으로 옮기지 않는다. 두 사람의 사명 여정과 유학은 다르다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:2:5",
+      "textSha256": "66d6492df82029588aa2d60c99882aeec32073b298b61f9863280d67178bf88e",
+      "status": "candidate",
+      "reason": "아는 이별의 아픔을 다시 설명받을 때 말수를 줄여 달라는 반응이다. 조언을 길게 더하는 것이 항상 도움이 아닐 수 있음을 보여 준다.",
+      "contextNote": "여리고 생도들의 말에 엘리사가 잠잠하라 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A013",
+          "clue": "반복 설명을 받는 지친 사람의 자리에서 생각하며 조언 대신 지금 부담을 덜어 줄 방식으로 다가갈 실마리다.",
+          "friction": "친구가 대화를 싫어한다거나 가족 문제의 내용이 이별과 같다고 확정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:2:6",
+      "textSha256": "aec893228c05a1c19affe5c641d26d876b58cd45f74bea5d11e61327369e9aee",
+      "status": "candidate",
+      "reason": "끝의 길까지 함께하겠다는 마음을 말하며 두 사람이 걷는다. 배웅에서 마음을 표현할지에 가볍게 넘기지 않을 실마리다.",
+      "contextNote": "엘리사가 요단까지 엘리야와 동행한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C026",
+          "clue": "떠날 친구를 소중하게 여기는 마음과 아쉬움을 솔직히 전할 방향을 읽는다.",
+          "friction": "교환학생으로 떠나는 선택을 거부하는 말로 바꾸지 않는다. 끝까지 동행해야만 진심이라는 부담도 주지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:2:7",
+      "textSha256": "500ebf2a167b825aaab3b0a86046fa64c5d4efbaf141aad60dfb07f53bf52a22",
+      "status": "exclude",
+      "reason": "오십 명은 멀리 보고 두 사람은 강가에 섰다는 배치다. 함께 갈지의 마음과 제약을 판단할 내용은 없다.",
+      "contextNote": "승천 직전 목격자들의 위치다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:2:8",
+      "textSha256": "89ebad1d0a2553a78493bddc54b435ba08048441622a88aa5856bb51bca2cedd",
+      "status": "hold",
+      "reason": "겉옷으로 강물을 갈라 건너는 이적이다. 지금 길의 장애가 같은 방식으로 열리리라는 약속으로 옮길 수 없다.",
+      "contextNote": "엘리야와 엘리사가 요단을 건넌다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:2:9",
+      "textSha256": "56a1c19f881da5df82d284e58e3bae07235156e45b2df792ec8e389f98a378c3",
+      "status": "candidate",
+      "reason": "필요한 것을 구하라고 하자 원하는 도움을 분명히 말한다. 민폐를 걱정해 혼자 버틸지의 고민에 부탁할 길을 연다.",
+      "contextNote": "작별 전 엘리사가 영감을 구한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "혼자 모든 것을 감당하려 숨기기보다 내가 원하는 도움을 구체적으로 말할 실마리를 읽는다.",
+          "friction": "갑절 영감은 후계 사명의 요청이다. 상대에게 두 배를 요구하거나 원하는 도움을 반드시 받을 권리가 있다는 뜻이 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:2:10",
+      "textSha256": "dcbc21d28174eafc584d89af53573b57ef328793fab97f3e76d4fa84b620b719",
+      "status": "hold",
+      "reason": "어려운 요청에 승천을 보는 조건을 붙인다. 현재 상대가 도움을 줄지와 과업이 이루어질지를 이 조건으로 판정할 수 없다.",
+      "contextNote": "엘리야가 영감 요청에 조건을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:2:11",
+      "textSha256": "b826114936b026491f3f5eb7c9cdc5bcc9201be22396ffd42489b07f681be8d0",
+      "status": "hold",
+      "reason": "불수레와 불말 및 회리바람 승천을 묘사한다. 헤어짐의 신비는 있지만 현재 작별에서 어떤 마음을 말할지의 단서는 적다.",
+      "contextNote": "두 사람이 떨어지고 엘리야가 승천한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:2:12",
+      "textSha256": "d8cfe02fbbbbe8644b97f725b59e91d46d4f4e2c5ba80393887aba8db59f1a85",
+      "status": "candidate",
+      "reason": "떠나는 이를 아버지라 부르며 감정을 드러내는 모습은 배웅에서 아쉬움을 숨길지에 마음을 표현할 여지를 준다.",
+      "contextNote": "엘리사가 이별을 보고 외치며 옷을 찢는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C026",
+          "clue": "가볍게만 인사하지 않고 고마움과 서운함을 있는 그대로 전할 실마리를 읽는다.",
+          "friction": "실제 승천 이별과 유학은 다르다. 옷을 찢거나 울어야 진심이라는 의무를 만들지 않고 친구의 떠남을 막지도 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:2:13",
+      "textSha256": "170aac222e0f2f48e19026fa6d6ff5eb44fde0f80eeaf6367100a1b987dcef86",
+      "status": "hold",
+      "reason": "남겨진 겉옷을 주워 강가로 돌아가는 장면이다. 역할을 잇는 그림은 있으나 옷의 상징과 다음 행동을 알아야 한다.",
+      "contextNote": "엘리사가 엘리야의 겉옷을 받는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:2:14",
+      "textSha256": "203e1af0daa5620cf18107337c9b80d837ea0165070a9ee299d5e14ce7263688",
+      "status": "hold",
+      "reason": "스승의 하나님을 부르고 강을 갈라 건너는 계승 이적이다. 새 역할의 망설임에 실제 능력이나 성공이 증명됐다는 확인으로 옮길 수 없다.",
+      "contextNote": "엘리사도 요단을 갈라 건넌다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:2:15",
+      "textSha256": "faf8eb2bf557a7ecaf56dcde43470cc3cbece55082840475461635468c91b241",
+      "status": "hold",
+      "reason": "새 지도자의 영감을 인정하고 엎드려 맞는 모습이다. 후임을 존중할 여지는 있으나 현재 찾는 후임의 선정 근거와는 다르다.",
+      "contextNote": "여리고 생도들이 엘리사의 계승을 인정한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:2:16",
+      "textSha256": "eb060069a26dd6ba821d77d2b98e1c6d888f8cb1c603112cc392dcfb6cf5e3f4",
+      "status": "hold",
+      "reason": "스승이 다른 곳에 던져졌을지 모른다며 찾기를 청한다. 이미 승천을 본 사람의 거절이 있어 막연히 기회를 다시 찾으라는 격려로 쓰기 어렵다.",
+      "contextNote": "생도들이 엘리야 수색을 요청한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:2:17",
+      "textSha256": "93c673233f85481412b87dab53e77fca574c885d7a4b8857de68768cfc197ca1",
+      "status": "candidate",
+      "reason": "상대를 부끄럽게 할 만큼 강청해 얻은 허락과 결실 없는 수색이 계속 설득하는 마음의 부담을 보여 준다.",
+      "contextNote": "생도들의 강청 때문에 수색을 허락하나 찾지 못한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C027",
+          "clue": "이미 결정한 친구를 계속 설득해 마지못한 동의를 얻는 것이 존중인지 돌아보고 그 선택을 받아들일 실마리다.",
+          "friction": "친구가 실제로 번복하거나 설득이 반드시 실패한다고 예측하지 않는다. 본문 수색의 확정된 사실과 친구의 자발적 이동은 구별한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:2:18",
+      "textSha256": "fe6cf06c3e4554d4b14c8501fe25cbe69ca5034b5f48af4eb550d29f2d365f3c",
+      "status": "hold",
+      "reason": "앞서 가지 말라 했다는 책망은 있지만 실패를 본 뒤의 말이다. 조언을 듣고 고칠 길보다 뒤늦은 비난으로 읽힐 여지가 있다.",
+      "contextNote": "돌아온 수색자들에게 엘리사가 말한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:2:19",
+      "textSha256": "014479559519ad4308351b75ad810acb983a5fce7a2f55d107bbcc9daf0c55cf",
+      "status": "candidate",
+      "reason": "터가 아름다운 장점과 물 문제를 함께 사실대로 알린다. 집의 얼룩을 숨길지 눈으로 본 것을 알릴지의 고민에 닿는다.",
+      "contextNote": "성읍 사람들이 물과 토산의 문제를 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "R020",
+          "clue": "좋은 점이 있어도 새로 보이는 문제를 가리지 말고 현상을 그대로 말해 확인을 구할 실마리다.",
+          "friction": "집 얼룩의 원인이나 건강 피해가 이미 확인됐다고 보태지 않는다. 사용자는 본 현상을 말하려는 단계다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:2:20",
+      "textSha256": "04395e860873b7cb2a4ab147be5ee84198bdd9bd34583fc4a7e02ea5e45760ef",
+      "status": "hold",
+      "reason": "새 그릇에 소금을 담아 오라는 특별한 처방 준비다. 생활 수질이나 집 문제를 소금으로 고치라는 방법으로 옮길 수 없다.",
+      "contextNote": "엘리사가 물을 고칠 의식을 준비한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:2:21",
+      "textSha256": "97a7e9bee9cce7ee72c5f182e2d9de8dc1cee96ed8f7ea17b2b89d7ff0421f9a",
+      "status": "hold",
+      "reason": "물 근원에 소금을 던지고 다시 해가 없으리라 선언한다. 근원을 볼 앞부분만 쓰면 이적의 영구 회복 약속을 숨기게 된다.",
+      "contextNote": "엘리사가 물 회복을 선포한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:2:22",
+      "textSha256": "6189ecf0d7c4f854ec646c48b163ae13dd0b2cef43bf2bce427dcd7ff767f7f8",
+      "status": "hold",
+      "reason": "물의 회복이 계속됐다는 성취 기록이다. 현재 사용자의 수리나 건강 결과가 확정됐다는 말로 제시할 수 없다.",
+      "contextNote": "성읍의 물이 고쳐진 결과다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:2:23",
+      "textSha256": "335207b63cf3ba7581c60c0c969536e009e7b90a2de5edaadfdcf82d048466ad",
+      "status": "candidate",
+      "reason": "여럿이 외모 특징을 흉내 내며 놀리는 장면은 내 웃음이 조롱에 합류하는 것인지 바로 비춰 준다.",
+      "contextNote": "아이들이 엘리사의 머리 모습을 조롱한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "A025",
+          "clue": "귀가 불편한 친구의 모습을 따라 웃는 무리에 나도 서려는지 돌아보고 놀리지 말자고 말할 실마리다.",
+          "friction": "머리와 청각의 차이는 구별한다. 다음 곰의 공격을 놀리면 받을 현재 형벌로 위협하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:2:24",
+      "textSha256": "b5771e564bb814f6b37442fe2592c3c837e120b3cf7c2676954d507dc7656f5a",
+      "status": "hold",
+      "reason": "저주 뒤 곰이 아이들을 찢는 폭력적 심판이다. 조롱을 멈출 실마리를 위해 상대가 죽기를 바라는 현재 응답으로 옮길 수 없다.",
+      "contextNote": "엘리사의 저주와 아이들의 참사가 이어진다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:2:25",
+      "textSha256": "2a43a646cf412754f5c937b8532900f659085fe4ed7a75303da69c756c8bb9f8",
+      "status": "exclude",
+      "reason": "갈멜산과 사마리아로 이동한 경로다. 지금 떠날지 머물지의 이유는 나오지 않는다.",
+      "contextNote": "엘리사가 다른 지역으로 이동한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:3:1",
+      "textSha256": "8353207f69cbca70d37672ce207504a302159c35d0b7f8c1e9c3c7cb8bdcb5ad",
+      "status": "exclude",
+      "reason": "여호람의 즉위 연도·수도·재위 기간이다. 개인의 지원 시기를 정할 실마리는 없다.",
+      "contextNote": "여호람 재위 정보다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:3:2",
+      "textSha256": "9015fe84a5c14af8ed31765c13f4ba4dd7e1b475b545580358462edcc93c45ee",
+      "status": "hold",
+      "reason": "우상을 없앤 개선과 남은 악을 동시에 말한다. 일부 변화를 인정하지만 부모와의 비교를 현재 잘못의 면죄 기준으로 옮길 수 없다.",
+      "contextNote": "여호람이 바알 주상을 없앴으나 여전히 악하다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:3:3",
+      "textSha256": "304068f40615593397ffaa80d34cdc81afe883a0fdc0ad00549711645f456015",
+      "status": "candidate",
+      "reason": "앞의 죄를 따라 행하고 떠나지 않는다는 평가가 위로만 받고 반복 습관을 그대로 둘지의 갈등을 비춘다.",
+      "contextNote": "여호람이 여로보암의 죄를 계속 따른다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C030",
+          "clue": "미안하다고 넘기며 같은 행동에 머무는 것과 실제로 그 길을 떠나는 일을 구분할 실마리를 읽는다.",
+          "friction": "본문의 국가 우상 숭배를 사용자의 말버릇과 같은 규모로 단죄하지 않는다. 용서가 없다는 선언도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:3:4",
+      "textSha256": "97aeb7d9d9093ec3044b40f4d96957839e2072618f0d4ba59724072fa8cef4c2",
+      "status": "exclude",
+      "reason": "모압 왕의 양털 공물 규모를 적는다. 지출이나 나눔의 선택에 사용자의 여력과 닿을 기준은 없다.",
+      "contextNote": "모압이 바친 양털 공물이다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:3:5",
+      "textSha256": "d2ea1e6497cbf83c41b4a99c6aeaf0e6e93c7eb844685cf5f3369bc4a8bdcfb2",
+      "status": "exclude",
+      "reason": "아합 사후 모압이 배반했다는 배경이다. 관계를 정리할지의 개인적 이유나 부담은 없다.",
+      "contextNote": "모압의 이탈을 되짚는다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:3:6",
+      "textSha256": "5aa3f4469cb98d542a92951d8acb9eec0f50463aa0901df7a6a352cea689910d",
+      "status": "exclude",
+      "reason": "왕이 수도에서 나와 백성을 점검하는 미완 문장이다. 준비할지의 기준이나 목적은 뒤에 있다.",
+      "contextNote": "여호람이 전쟁 병력을 모은다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:3:7",
+      "textSha256": "09f321ab1d169fc4250b92c973b81c783ed6508360354433d65c824fb75c6173",
+      "status": "hold",
+      "reason": "함께 공격하자는 요청과 전면 협력의 답이다. 협력 전 목적을 말하는 모습은 있지만 서로 다른 사업 목표를 맞추는 대화는 아니다.",
+      "contextNote": "여호람이 여호사밧에게 동맹을 청한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:3:8",
+      "textSha256": "25d1bebb4ccaa076311942843526c89632c7eccbb93f68cc13cc7490ddc9ffd4",
+      "status": "exclude",
+      "reason": "어느 길로 갈지 묻고 지명을 답한다. 길을 고르는 이유나 위험의 비교가 없어 현재 이동 선택에 대응하기 어렵다.",
+      "contextNote": "에돔 광야를 진군 경로로 정한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:3:9",
+      "textSha256": "5f61a010af223873a06f551f27c18ad0cc5ebf79daf39ac6db16d9615d3a83ff",
+      "status": "candidate",
+      "reason": "긴 길 끝에 사람과 동물에게 먹일 물이 없는 상황은 내 여행 일정과 돌봄 준비를 따로 볼 수 없음을 비춘다.",
+      "contextNote": "연합군과 가축이 광야에서 물 부족을 겪는다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B020",
+          "clue": "여행부터 진행하기보다 반려동물의 기본 돌봄을 맡길 곳을 먼저 마련할 실마리를 읽는다.",
+          "friction": "본문 동물은 동행 중이다. 사용자 동물이 이미 물 없이 남겨졌다고 보태지 않고 이동 전 미해결 돌봄 조건에 한정한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:3:10",
+      "textSha256": "fea30f1fe930f10ebf7907e1fc76dd3e8334a794e1fdfb296a89497c30a71a92",
+      "status": "hold",
+      "reason": "막힘을 하나님이 죽게 하려 모으셨다고 해석한다. 뒤의 공급을 모르면 현재 어려움이 신의 파괴 의도라는 두려움을 강화한다.",
+      "contextNote": "여호람이 물 부족을 파멸로 단정한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:3:11",
+      "textSha256": "4ff2304b14f18e8930130c34c624588200492af6b5f4a85ec72faaf3ad7829a1",
+      "status": "candidate",
+      "reason": "막힌 상황에서 물을 만한 사람이 있는지 찾고 도움의 통로를 확인한다. 부족해 보일까 자문을 피하는 마음에 닿는다.",
+      "contextNote": "여호사밧이 엘리사를 자문자로 찾는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "혼자 대책을 다 안다고 하기보다 잘 아는 사람에게 의논할 길을 찾을 실마리다.",
+          "friction": "선배를 하나님의 확정 답을 받는 선지자로 만들지 않는다. 엘리사의 이력은 본문 안의 자문자 소개다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:3:12",
+      "textSha256": "4d5a87317ff91319a69125fcefc7a4ec568270bece8354c1715bd5f1a34373da",
+      "status": "candidate",
+      "reason": "높은 지위의 왕들도 도움이 있는 사람을 직접 찾아간다. 부족함을 보일까 망설이는 사람에게 의논하러 나설 모습을 준다.",
+      "contextNote": "세 왕이 엘리사에게 내려간다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "내가 부족해 보일까의 체면보다 필요한 조언을 듣는 일을 택해 선배에게 찾아갈 실마리를 읽는다.",
+          "friction": "사용자 선배가 예언의 권위를 가졌다고 가정하지 않는다. 조언 내용과 수락 여부도 미확인으로 둔다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:3:13",
+      "textSha256": "22f378a8c901d4ad30f62ee39c731b10552299ef2290d9331f7c86ed72fb6b80",
+      "status": "hold",
+      "reason": "부모의 선지자에게 가라는 반박과 죽을 것 같다는 탄식이 오간다. 도움 요청에 쌓인 관계 책임을 풀어야 하며 현재 상황을 재앙으로 확정할 수 없다.",
+      "contextNote": "엘리사와 여호람이 자문 앞에서 대립한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:3:14",
+      "textSha256": "7280cca75a37bd0615b1663673db61d827518641582006b3582ad6b47ad6dac3",
+      "status": "hold",
+      "reason": "특정 왕의 낯을 보아 다른 왕도 상대한다는 말이다. 친분의 영향과 신앙 평가를 현재의 차별 허용으로 일반화하기 어렵다.",
+      "contextNote": "엘리사가 여호사밧 때문에 자문을 받는다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:3:15",
+      "textSha256": "3b39bb98a033ba922ce83ee39f7ec51a02bd1e89348fbe1e78791aa76f96581e",
+      "status": "candidate",
+      "reason": "곧바로 말싸움과 답을 늘리기보다 음악을 청하고 감동을 기다리는 틈이 조용히 마음을 돌아볼 선택을 비춘다.",
+      "contextNote": "거문고 연주 중 엘리사가 감동을 받는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A035",
+          "clue": "다른 사람의 답을 또 더하기보다 분위기를 가라앉히고 기도하며 내 마음을 들을 실마리다.",
+          "friction": "음악을 틀면 반드시 계시나 정답이 온다는 규칙이 아니다. 사용자의 내부 소리를 하나님의 직접 지시로 인증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:3:16",
+      "textSha256": "ae7287c0b8685ec963011855fc4bb630e44daf75f679d472a7f35b253f001482",
+      "status": "hold",
+      "reason": "골짜기에 개천을 많이 파라는 지시다. 먼저 준비하는 모습과 닿지만 왜 파는지는 다음의 특별한 공급 약속을 알아야 한다.",
+      "contextNote": "물을 받을 공간을 마련하게 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:3:17",
+      "textSha256": "3b09165ade91b146b788b8c753ad45f4cef98b04a2c954d6b9d6e1a4e2b8dff3",
+      "status": "hold",
+      "reason": "보이는 바람과 비 없이 물이 차리라는 특정 약속이다. 현재 준비 없는 여행이나 돌봄이 저절로 해결될 보장으로 옮길 수 없다.",
+      "contextNote": "연합군과 동물의 물 공급을 예고한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:3:18",
+      "textSha256": "5c7aeca56efdb453587dd16d57655e47398674feccdc84f856cac698e2372192",
+      "status": "hold",
+      "reason": "물 공급은 작은 일이고 적군도 주겠다는 승리 약속이다. 현재 작은 도전이 반드시 더 큰 성공으로 번질 예고는 아니다.",
+      "contextNote": "공급과 모압전 승리를 함께 예고한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:3:19",
+      "textSha256": "513be105e60f0c1b2e5f168b56cba46ad77b470c850cfcc2ff1157e9e666e0c6",
+      "status": "exclude",
+      "reason": "성·나무·샘·밭을 모두 파괴할 전쟁 예고다. 선택을 정리할 실마리로 생계 기반 파괴를 모형으로 줄 수 없다.",
+      "contextNote": "모압의 생활 기반 파괴를 예고한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:3:20",
+      "textSha256": "d589eac610b13294a2de56a0ea038adee90dcf8d61f53a2fb99a0ae55ede5952",
+      "status": "hold",
+      "reason": "정해진 아침에 물이 흘러 가득 찬 이적의 성취다. 현재 부족한 조건이 같은 때에 채워질 결과로 확정할 수 없다.",
+      "contextNote": "에돔 쪽에서 물이 흘러온다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:3:21",
+      "textSha256": "0e1a40ca2c3fbfe8d110015c1cd5c3e1c9f5b1a6dced087cf087777a3ee1cc37",
+      "status": "exclude",
+      "reason": "싸울 수 있는 이들이 경계에 모였다는 군사 준비다. 모임 인원과 참여를 결정할 기준으로 전시 동원을 옮기기 어렵다.",
+      "contextNote": "모압이 침공에 대비해 모인다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:3:22",
+      "textSha256": "341c7f67036b3eb053a524e558f550adb3bd7e0abe805d1a755aca9d67cd3698",
+      "status": "hold",
+      "reason": "햇빛에 물이 피처럼 보인다는 관찰이다. 겉보기와 실제의 차이는 있으나 아직 그것으로 어떤 판단을 했는지 문장이 완결되지 않는다.",
+      "contextNote": "모압군이 붉게 비친 물을 본다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:3:23",
+      "textSha256": "d29c6c7db7fcce55ade4616ff6e108028fc81ed239e9cdc109c56ecd346addd2",
+      "status": "hold",
+      "reason": "왕들이 서로 죽었다고 단정해 노략하러 나선다. 성급한 추측의 반면은 있지만 앞 절의 물빛을 모르면 단정의 오류가 드러나지 않는다.",
+      "contextNote": "모압군이 물을 피로 오인해 진격한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H030",
+          "clue": "본 것이나 들은 말에서 곧바로 타인의 잘못을 확정하지 않을 여지는 있다.",
+          "friction": "친구의 진실은 미확인이다. 본문도 앞 절 없이는 오인이 분명하지 않아 첫 결과 충분함은 불확실하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:3:24",
+      "textSha256": "efecdfcc4c60f09b646786f1dae4d1ea9fe56d124687b043e032e10319bf3f45",
+      "status": "exclude",
+      "reason": "진영에 온 모압군을 공격해 쫓고 국경 안까지 치는 진행이다. 일상 관계의 오해 해결에 살해와 침공을 응답으로 줄 수 없다.",
+      "contextNote": "모압군이 반격을 받아 쫓긴다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:3:25",
+      "textSha256": "f84571ad8d16afb2abeeb32ba03d9669cc3cb06b8639e449cb3882b2e9b96e42",
+      "status": "exclude",
+      "reason": "밭을 돌로 채우고 샘과 나무를 없애는 파괴를 열거한다. 불필요한 것을 정리한다는 비유로 생계 파괴를 감출 수 없다.",
+      "contextNote": "연합군이 모압의 성과 농지를 파괴한다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:3:26",
+      "textSha256": "5aa1551c95100bf32ab5aed6b22b7776157d307fdaf20541019365addbbc79a0",
+      "status": "exclude",
+      "reason": "왕이 군사를 거느려 돌파하려다 못하는 전황이다. 버티거나 도움을 청할지에 군사 실패 이외의 실마리가 적다.",
+      "contextNote": "모압 왕의 돌파 시도가 실패한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:3:27",
+      "textSha256": "ebc5a919bf438a73db8cc4fce421e29833c40dd1e896f06e6070756df3faef1e",
+      "status": "exclude",
+      "reason": "계승할 아들을 번제로 바친 뒤 군대가 철수한다. 평안히 돌아간다는 후반만으로 자녀 희생의 전체를 지울 수 없다.",
+      "contextNote": "모압 왕의 인신 제사 뒤 연합군이 물러난다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:4:1",
+      "textSha256": "7e5b356b495bc2a57064670f9be704da3265d2801547326319e4bcda86e8e9cc",
+      "status": "candidate",
+      "reason": "혼자 감당할 수 없는 사정을 알고 있는 사람에게 부르짖어 알린다. 지친 상태를 숨길지 도움을 청할지에 나설 길을 준다.",
+      "contextNote": "과부가 남편 사후 빚과 아이들의 위기를 엘리사에게 알린다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "나 혼자 버티기보다 지금 힘든 사정을 실제 도움을 구할 사람에게 말할 실마리다.",
+          "friction": "사용자에게 배우자 사망·빚·아이의 위기가 있다고 보태지 않는다. 알려 주면 문제가 반드시 해결된다는 보장도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:4:2",
+      "textSha256": "0e2706aadd568a8a5ea61d81de4d7c80cdaf61f9efed13751f661ddb808b9dc8",
+      "status": "hold",
+      "reason": "무엇을 도울지와 지금 집에 있는 것을 묻는다. 가진 것부터 볼 여지는 있지만 한 병의 자원이 충분해지는 이유는 뒤 이적에 있다.",
+      "contextNote": "엘리사가 과부의 현재 자원을 확인한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B006",
+          "clue": "더 준비할 것만 찾기 전에 지금 갖춘 재료를 살필 실마리는 있다.",
+          "friction": "이미 필요한 시간과 재료를 갖췄다는 사용자 조건을 유지한다. 이 절은 아직 실행보다 확인 단계여서 충분함은 불확실하다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:4:3",
+      "textSha256": "af5ab87b6a0a64f415d06697d494828ba4abe7cda70ac72d8ea32ef0bd95c724",
+      "status": "candidate",
+      "reason": "이웃에게 필요한 그릇을 빌리라는 구체 요청은 혼자 버티며 부탁을 못 하는 마음에 도움의 통로를 연다.",
+      "contextNote": "과부에게 이웃의 빈 그릇을 빌리게 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "내게 없는 부분을 이웃이나 주변에 구체적으로 부탁할 실마리를 읽는다.",
+          "friction": "모든 이웃이 도와줄 여유가 있거나 빌린 만큼 이익이 늘어난다는 보장은 아니다. 거절과 반환의 조건도 지우지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:4:4",
+      "textSha256": "efa01cc809a95c37f15f857f3b8940295ee63f52652d74ac9bb84125ceea16bb",
+      "status": "hold",
+      "reason": "문을 닫고 아들들과 기름을 붓는 특별한 실행 지시다. 현재 작은 사업을 시작하면 자원이 늘어난다는 방식으로 곧바로 옮기기 어렵다.",
+      "contextNote": "가족끼리 그릇을 채우게 한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:4:5",
+      "textSha256": "011e78c0f483656f11384ab1edc37f827d83373c4718bc4e7e0318ee257d8954",
+      "status": "candidate",
+      "reason": "아들들은 그릇을 가져오고 어머니는 붓는 역할이 나뉜다. 자잘한 일까지 혼자 맡은 책임자에게 분담의 실제 모습을 준다.",
+      "contextNote": "과부 가족이 서로 다른 일을 맡아 기름을 채운다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "A009",
+          "clue": "모든 단계를 혼자 붙들기보다 사람이 가져올 일과 내가 할 일을 나누어 맡길 실마리다.",
+          "friction": "가족의 기름 이적이며 현재 팀원이 무한한 자원을 만들 수 있다는 뜻은 아니다. 필요한 역할 적합성도 따로 살핀다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:4:6",
+      "textSha256": "67226727e7991655874c6033083fb29a3bcadfef7f516c0c6ef53449c6894e90",
+      "status": "hold",
+      "reason": "빈 그릇이 없어지자 기름이 그친 이적이다. 충분함의 경계를 생각할 수 있으나 욕심을 멈춘 교훈이나 지금 재고의 증식으로 단정할 수 없다.",
+      "contextNote": "그릇 수만큼 기름이 채워진다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:4:7",
+      "textSha256": "637a50ede94844dac0b7bb4768031cdd6c102fc9d15496bca8a36848334897fa",
+      "status": "candidate",
+      "reason": "얻은 것으로 먼저 빚을 갚고 남은 것으로 생활하라는 순서가 부족한 생활비와 갖고 싶은 물건 사이를 분명히 비춘다.",
+      "contextNote": "과부에게 판매 수입의 용도를 정해 준다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G02",
+          "clue": "원하는 물건을 살지 앞서 지금 생활에 필요한 몫을 지키는 쪽의 실마리를 읽는다.",
+          "friction": "사용자에게 빚이나 팔 기름이 있다고 보태지 않는다. 구매 기회가 다시 생긴다는 보장도 없이 현재 생활비 부족을 보존한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:4:8",
+      "textSha256": "c3145e54490264c59b408d0a9756d249f16b427562e8bd4b4dc71b5a2f7a3bd5",
+      "status": "candidate",
+      "reason": "식사를 권하고 지나갈 때마다 대접하는 모습은 초대하면 유난일까 망설이는 마음에 자연스러운 환대의 길을 보여 준다.",
+      "contextNote": "수넴 여인이 엘리사에게 음식을 대접한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "A012",
+          "clue": "감사한 사람에게 간단히 먹을 자리를 제안하는 일이 과한 의식만은 아니라는 실마리를 읽는다.",
+          "friction": "본문 여인은 도움받은 뒤 감사하는 상황이 아니라 먼저 환대한다. 상대가 초대를 좋아하거나 반드시 올 것이라고 보태지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:4:9",
+      "textSha256": "844af906df133de5fb1da483d969c5aef0f7f1b1ca69b5f513c7b31bd27a45fe",
+      "status": "hold",
+      "reason": "자주 지나는 이가 하나님의 사람임을 안다는 대화다. 돌봄의 배경은 있으나 지금 무엇을 제안할지는 다음 절에 있다.",
+      "contextNote": "수넴 여인이 남편에게 엘리사를 소개한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:4:10",
+      "textSha256": "2cec18997072ea9a6eafb562480939a0488bf5045dbd72ea4723bdfa1b52d13d",
+      "status": "candidate",
+      "reason": "작은 방에 실제 쉴 가구를 갖추자는 구체 환대가 빈 방을 정리해 머물 자리를 제안할지의 고민과 맞닿는다.",
+      "contextNote": "수넴 부부가 엘리사를 위한 방을 준비한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A046",
+          "clue": "번거롭더라도 지금 있는 방을 정리하고 침구와 쉴 자리를 마련해 제안할 방향을 읽는다.",
+          "friction": "본문은 방을 새로 짓지만 사용자는 이미 빈 방이 있다. 친구의 동의나 환대 뒤 보상을 미리 확정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:4:11",
+      "textSha256": "cc67195ceb697aca00c4385ee3e1f78db1df711d86a485f86ff6c11bb70978d3",
+      "status": "hold",
+      "reason": "마련된 방에서 눕는 장면이다. 쉴 자리의 쓰임은 보이나 그 자체로 지금의 피로나 상대 초대 여부를 판단할 내용은 적다.",
+      "contextNote": "엘리사가 수넴의 방에 머문다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:4:12",
+      "textSha256": "70a715973c587fd5296eacc9e85e073df3a0677ffb2bafdd75c8b04d564556f3",
+      "status": "exclude",
+      "reason": "사환이 여인을 부르고 앞에 선다는 진행이다. 감사나 도움의 실제 대화는 다음 절에 있다.",
+      "contextNote": "엘리사가 수넴 여인을 부른다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:4:13",
+      "textSha256": "dce1d833ecc7fbaed16f9fdc298ea3f95dc5b89eb3cefb6fdc74d6c75f8796c7",
+      "status": "candidate",
+      "reason": "세심한 도움을 받고 무엇을 해 줄지 먼저 묻는다. 고맙다는 말 뒤 작은 대접을 제안할지의 마음에 감사의 행동을 열어 준다.",
+      "contextNote": "엘리사가 환대에 보답할 일을 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A012",
+          "clue": "받은 도움을 당연히 넘기지 않고 내가 할 수 있는 감사 표현을 먼저 제안할 실마리다.",
+          "friction": "왕이나 군대장관의 도움까지 구해 줄 필요는 없다. 여인은 큰 부탁을 하지 않으며 사용자 초대의 수락도 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:4:14",
+      "textSha256": "fb6c3d40da9397ed6e9a9ff8d9a6a3f69a1cbac69d420e54e13ac37ea4b8dc00",
+      "status": "hold",
+      "reason": "아들이 없고 남편이 늙었다는 관찰을 바탕으로 보답을 고민한다. 상대가 자녀를 원한다는 확인 없이 결핍을 대신 정할 생활 모형으로 쓰기 어렵다.",
+      "contextNote": "게하시가 수넴 여인의 가족 사정을 말한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:4:15",
+      "textSha256": "4a0803f741aae8abae53a4a23d745686632fd008ba60b14a93350cb30938b3f4",
+      "status": "exclude",
+      "reason": "여인을 다시 부르고 문에 서는 동작이다. 무엇을 제안할지의 내용은 아직 없다.",
+      "contextNote": "여인을 다시 불러 말씀을 준비한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:4:16",
+      "textSha256": "d951be47be934f3df5d7e51e84f8a8d4156d94107bda575531ecfbdff6d0072f",
+      "status": "hold",
+      "reason": "일 년 뒤 아들을 안으리라는 예언과 속이지 말라는 응답이다. 현재 임신·가족 결과를 확정하는 개인 약속으로 제시할 수 없다.",
+      "contextNote": "엘리사가 수넴 여인에게 출산을 예고한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:4:17",
+      "textSha256": "0505e68cb22774f8872abd7df5ecb5f8bc67000cc49788a6143fb328d8990a01",
+      "status": "hold",
+      "reason": "예언한 때에 출산한 성취다. 오늘의 가족 계획이나 건강 선택의 결과가 같은 시한에 이루어진다는 보장이 아니다.",
+      "contextNote": "수넴 여인이 아들을 낳는다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:4:18",
+      "textSha256": "e2790a134cd209bd5830c4ce53c2d10cc9a326024c6502fb42b00e3ee18e69ad",
+      "status": "exclude",
+      "reason": "아이가 자라 아버지에게 나간다는 도입이다. 가족과 시간을 보낼지에 구체 이유나 갈림길은 없다.",
+      "contextNote": "아들이 추수 현장에 간다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:4:19",
+      "textSha256": "a1e79e217b4c6ec90d9ed8435be3ba71aeeeb4ac58df06423a5dd2aaad9b32aa",
+      "status": "hold",
+      "reason": "아이의 머리 통증을 듣고 어머니에게 데려가게 한다. 돌봄 요청과 닿아도 이후 사망하는 병의 대응을 현재 돌봄 방식으로 일반화할 수 없다.",
+      "contextNote": "아픈 아이를 어머니에게 보낸다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:4:20",
+      "textSha256": "2b6bf83eaf383a4207276e018df900fda3b784fef3a68ef01ba8859d2ff2e739",
+      "status": "exclude",
+      "reason": "어머니 무릎에 앉은 아이가 죽는 비극이다. 가족 돌봄 선택에 현재 죽음을 예상할 신호로 대입할 수 없다.",
+      "contextNote": "수넴 여인의 아들이 죽는다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:4:21",
+      "textSha256": "f9491cd470914199a9b3756152b426785e648f884b4133a8a8e07030a6f1a4ee",
+      "status": "hold",
+      "reason": "아이를 침상에 눕히고 문을 닫는 애도의 동작이다. 문을 닫을 이유와 뒤의 도움 요청을 알아야 현재 방향이 생긴다.",
+      "contextNote": "어머니가 죽은 아이를 선지자의 방에 둔다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:4:22",
+      "textSha256": "596f3ceb2b30e7ec3ce954392eb5594b9d73f50ed3be98d6868ece109bb61167",
+      "status": "candidate",
+      "reason": "필요한 사람과 이동 수단을 구체적으로 요청한다. 혼자 해결하려다 도움을 말하지 못하는 사람에게 부탁의 모습을 준다.",
+      "contextNote": "수넴 여인이 남편에게 사환과 나귀를 청한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "지금 내가 혼자 하기 어려운 부분에 맞춰 구체적으로 필요한 도움을 말할 실마리다.",
+          "friction": "사용자에게 아이의 위기나 이동 필요가 있다고 가정하지 않는다. 도움을 받으면 문제 자체가 해결된다는 뜻도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:4:23",
+      "textSha256": "262fecfb655f92e9acbb972ecae54e43ae35f496735df9cbd31a6bf4b361b359",
+      "status": "hold",
+      "reason": "정해진 종교일도 아닌데 왜 찾아가느냐는 질문과 평안하다는 답이다. 때에 매이지 않을 여지는 있으나 숨긴 위기를 알아야 방문 이유가 선다.",
+      "contextNote": "남편이 비정기 방문 이유를 묻는다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:4:24",
+      "textSha256": "b8e15e3f68ed705de7fa4787079932b88dd3a3d289471d1bdf784c4c82e02b58",
+      "status": "hold",
+      "reason": "급한 길을 늦추지 말라는 요청이다. 미루지 않을 실마리는 있지만 아이의 죽음에 달려가는 긴급성과 일상 과제의 속도를 같게 둘 수 없다.",
+      "contextNote": "수넴 여인이 사환에게 서둘러 가게 한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:4:25",
+      "textSha256": "a928dc64de75e54a623787335d8ff4b58e1958dfccb0f8780be6d8b13b3ca3a6",
+      "status": "exclude",
+      "reason": "먼 곳에서 여인을 알아보고 사환에게 말하는 진행이다. 알아본 뒤 어떻게 도울지는 아직 없다.",
+      "contextNote": "엘리사가 수넴 여인을 알아본다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:4:26",
+      "textSha256": "73cdbb2991dd8cf85b33c79e7dcab7d8c91c75788be2d69f0b8246935edf6407",
+      "status": "hold",
+      "reason": "가족 안부에 평안하다 답하지만 실제 마음은 괴롭다. 표면 답만으로 괜찮음을 단정할 수 없으나 그 반전은 다음 절 의존이다.",
+      "contextNote": "게하시가 안부를 묻고 여인이 짧게 답한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:4:27",
+      "textSha256": "50112d2368b64b1806e4995b5a8dfe82cd55bff406a72dc4f802399b7b04b2c9",
+      "status": "candidate",
+      "reason": "괴로워 다가오는 이를 밀어내지 말고 그 마음을 다 알지 못함을 인정한다. 지친 친구의 반응을 무시로 판단할지에 정확히 닿는다.",
+      "contextNote": "엘리사가 여인을 막지 말라며 숨은 괴로움을 인정한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A013",
+          "clue": "내 말에 반응이 적다는 이유로 따지기보다 내가 다 모르는 무게가 있을 수 있음을 인정하고 부담을 덜어 줄 방향을 읽는다.",
+          "friction": "친구가 추가 비밀을 숨긴다고 단정하지 않는다. 이미 말한 가족 문제와 과도한 일의 사실만 유지한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:4:28",
+      "textSha256": "33a76bf7bb7f67c27dd376f362c845dd10a4dbbc24e37af6da7adcfaad4a2ab1",
+      "status": "hold",
+      "reason": "구하지도 않은 아들을 주고 이런 일이 생겼다는 탄식이다. 거짓 기대의 아픔은 있지만 현재 무엇을 선택할지보다 상실의 항의다.",
+      "contextNote": "여인이 엘리사에게 아들의 상실을 항변한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:4:29",
+      "textSha256": "f1c04058e4ce490ef570671715073bb9e16f9f89d33927205a83593891a31933",
+      "status": "hold",
+      "reason": "인사도 멈추고 급한 사명을 하라는 내용에 지팡이를 아이 얼굴에 놓는 의식이 붙는다. 집중의 앞부분만 떼어 쓰기 어렵다.",
+      "contextNote": "엘리사가 게하시를 먼저 아이에게 보낸다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "C023",
+          "clue": "다른 연락을 잠시 멈추고 우선할 일에 집중할 실마리는 있다.",
+          "friction": "과제와 아이 소생의 긴급성을 동일시하지 않으며 지팡이의 의식이 전체 결과 이해를 가린다.",
+          "expectedEnough": "uncertain"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:4:30",
+      "textSha256": "f31e3618b2b8fe59f5adbe7c8b8fe3418a8026f9fd5772492e0bf1b5c4ea5bd1",
+      "status": "candidate",
+      "reason": "떠나지 않겠다는 간청에 상대가 일어나 함께 간다. 혼자 버티기보다 곁의 도움을 구할 실마리를 보여 준다.",
+      "contextNote": "여인의 요청에 엘리사가 직접 동행한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H058",
+          "clue": "말만 전하고 혼자 감당하기보다 지금 함께해 줄 도움을 청할 방향을 읽는다.",
+          "friction": "사용자에게 아이의 위기가 있다고 보태지 않는다. 거절하는 사람을 끝없이 붙잡거나 반드시 동행해 줄 것으로 기대하게 하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:4:31",
+      "textSha256": "91255bdf5b420cda9e0abe4984d58f50729569264691a803bd183c4dd381d7a6",
+      "status": "candidate",
+      "reason": "실행해 보아도 반응이 없음을 숨기지 않고 돌아와 보고한다. 기대에 맞춘 좋은 수치와 실제 사실 사이의 갈림길을 비춘다.",
+      "contextNote": "게하시가 소생 시도의 실패를 알린다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "원하는 결과처럼 꾸미기보다 실제 안 된 것은 안 됐다고 말할 실마리를 읽는다.",
+          "friction": "사용자의 실적이 이미 실패했다고 가정하지 않는다. 아이의 생사와 성과 보고의 규모도 구별한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:4:32",
+      "textSha256": "a5a452d693e78d0ed598f4183b2c7a12ee81250952d00f80ad5a2675c9b634d6",
+      "status": "exclude",
+      "reason": "집에 들어가 죽은 아이를 확인하는 장면이다. 치료 결과나 돌봄 선택의 방향을 정할 내용은 없다.",
+      "contextNote": "엘리사가 침상의 죽은 아이를 본다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:4:33",
+      "textSha256": "87010241eec2cb4526c7575ae32b9d99b3727819c61895db41049cec327dc782",
+      "status": "candidate",
+      "reason": "문을 닫은 방에서 하나님께 기도한다. 예배당을 못 가면 기도를 넘길지의 고민에 바로 가능한 장소를 보여 준다.",
+      "contextNote": "엘리사가 아이와 단둘이 방에서 기도한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C020",
+          "clue": "혼자 있는 방에서도 하나님께 기도할 수 있다는 실마리를 읽는다.",
+          "friction": "두 사람의 소생 기도와 사용자의 개인 기도는 다르다. 이후의 소생을 기도 결과로 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:4:34",
+      "textSha256": "b9e19fa26004d9e2c45d7032b037dc46f23cb199106d171263e51781f412254a",
+      "status": "hold",
+      "reason": "아이 몸에 입·눈·손을 맞추자 따뜻해지는 특별한 소생 행위다. 생활의 돌봄이나 의학적 처치로 재현할 방법이 아니다.",
+      "contextNote": "엘리사가 죽은 아이 위에 엎드린다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:4:35",
+      "textSha256": "9f4299c725c307329b3048338e100bab7ad0de192e23f4890bcc21ee3c2ff717",
+      "status": "candidate",
+      "reason": "한 번 내려와 움직인 뒤 다시 시도하고 변화가 나타나는 장면은 실패 뒤 더 견딜지에 다시 해 볼 방향을 준다.",
+      "contextNote": "엘리사가 재차 엎드리자 아이가 눈을 뜬다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H043",
+          "clue": "한 번에 반응이 없었다는 사실만으로 끝내지 않고 잠깐 간격을 둔 뒤 다시 해 볼 실마리를 읽는다.",
+          "friction": "특정 신체 행위를 소생 방법으로 권하지 않는다. 반복하면 반드시 성공한다거나 일곱 번이면 해결된다는 보장도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:4:36",
+      "textSha256": "e7b2c0e07bd3dde11e2fcd788ae383e07cf1c1a133cf6d51871155418e00396e",
+      "status": "hold",
+      "reason": "회복된 아들을 데려가라는 말이다. 상실이나 치료 중인 현재 사람에게 같은 회복이 확정됐다고 전할 수 없다.",
+      "contextNote": "수넴 여인에게 아들을 돌려준다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:4:37",
+      "textSha256": "b9d72a38ac90444ec4eecdbf82e065483d62ade352dddc719b4223d817dac4be",
+      "status": "hold",
+      "reason": "감사와 경의를 절로 표하고 아들을 안고 나간다. 감사의 행동은 보이지만 소생한 아들과 복종 의례가 작은 식사 초대보다 앞선다.",
+      "contextNote": "수넴 여인이 절하고 아들을 데려간다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:4:38",
+      "textSha256": "65fd5df77bb9ca8327dab8186836e926e7642bf4820ec7a29bc88c5d629476bc",
+      "status": "candidate",
+      "reason": "흉년 자체를 다 해결하기보다 앞에 있는 이들에게 먹을 것을 마련한다. 작은 도움밖에 못 한다는 마음에 실제 돌봄의 방향을 준다.",
+      "contextNote": "엘리사가 생도들을 위한 국을 끓이게 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "친구의 큰 어려움을 모두 해결할 수 없어도 지금 건넬 수 있는 식사 같은 도움을 찾을 실마리다.",
+          "friction": "친구가 굶고 있거나 음식이 꼭 필요하다고 단정하지 않는다. 내 가능한 도움과 상대의 실제 필요를 함께 본다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:4:39",
+      "textSha256": "99782b7cf5a12b186af2904df4e3a3cc2e6b60c59bc6d6511366cbb24bc5fcee",
+      "status": "candidate",
+      "reason": "무엇인지 알지 못한 재료를 모두 먹을 솥에 넣는 모습은 확실히 모르는 정보를 남에게 전할지에 선명한 반면을 준다.",
+      "contextNote": "알지 못하는 들외를 국에 넣는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A031",
+          "clue": "짐작을 그대로 건네면 다른 사람도 영향을 받는다는 점에서 모르는 제출 형식은 조교에게 확인하고 답할 실마리다.",
+          "friction": "파일 형식 오류가 독성이나 생명 위험과 같다고 과장하지 않는다. 확인 전이라는 공통 조건에 한정한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:4:40",
+      "textSha256": "86b95e92f4f73b7e8d1044d0a27edcf3f6a2e5e0e11f7b4bc2aa0e4887f96463",
+      "status": "candidate",
+      "reason": "해로운 것을 알아차리자 바로 소리 내어 알리고 먹기를 멈춘다. 불안정한 장치를 보고도 말하기 주저하는 마음에 닿는다.",
+      "contextNote": "생도들이 솥의 독을 알리고 먹지 못한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C028",
+          "clue": "문제를 본 사실을 숨기지 말고 사용 전에 확인해 달라고 알릴 실마리를 읽는다.",
+          "friction": "무대 장치가 이미 무너졌거나 사람에게 피해가 났다고 보태지 않는다. 본문 독처럼 위험이 확정됐다고 선언하지도 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:4:41",
+      "textSha256": "c0a182232cba51959e300d9ae1f9eb3a269e5240f7a19dc3637b72f00f04ce06",
+      "status": "hold",
+      "reason": "가루를 던져 독을 없애는 이적이다. 음식이나 실제 유해물을 같은 방법으로 처리해도 안전하다는 처방으로 옮길 수 없다.",
+      "contextNote": "엘리사가 솥의 독을 없앤다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:4:42",
+      "textSha256": "b12b533fe6af9b7879d068f749f8be01b11a46914088340e7b67ff7bb7fc2415",
+      "status": "candidate",
+      "reason": "좋은 음식을 받은 사람이 자기 몫에 두지 않고 무리에게 먹게 한다. 충분한 간식을 친한 사람 위주로 줄지에 넓게 나눌 길을 준다.",
+      "contextNote": "엘리사가 받은 보리떡과 채소를 무리에게 나눈다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B003",
+          "clue": "친분으로 좋은 몫을 가르기보다 온 사람 모두가 누리게 나누는 방향을 읽는다.",
+          "friction": "정확히 같은 양으로 나눴다고 본문에 보태지 않는다. 사례의 간식이 충분히 준비됐다는 조건을 유지한다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:4:43",
+      "textSha256": "f405b12944142a3bc14f347396b78f69526bbdabb322fad51c70017d7da1c37d",
+      "status": "candidate",
+      "reason": "적은 양을 보고 망설이는 사람에게도 먼저 나누어 주는 길을 연다. 작은 도움이 무의미할까의 갈등을 구체적으로 비춘다.",
+      "contextNote": "적은 떡을 백 명에게 나누라는 권유와 공급 약속이다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H034",
+          "clue": "내가 가진 작은 도움도 실제로 건네 볼 실마리를 읽는다.",
+          "friction": "먹고 남으리라는 말은 특정 이적의 약속이다. 사용자 도움의 크기가 자동으로 늘어나거나 친구 문제가 모두 해결된다고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:4:44",
+      "textSha256": "af911f49f2bf5241ff9a56c88416a16b79d885ed0cbb3ac50dd382ed42769766",
+      "status": "hold",
+      "reason": "나눈 뒤 모두 먹고 남은 이적 성취다. 작은 도움을 줄 근거가 될 여지는 있으나 이 절만은 처음 양의 부족함을 보여 주지 않는다.",
+      "contextNote": "백 명이 먹고도 떡이 남는다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:5:1",
+      "textSha256": "80c1f6af069d27086bc0bcd70d338ec25d0d2ae32dc5d2768714f58963d333ac",
+      "status": "candidate",
+      "reason": "존귀하고 큰 용사라는 평가와 몸의 질병이 한 사람 안에 함께 있다. 외모 한 부분으로 나 전체를 부끄러워할지의 시선을 넓힌다.",
+      "contextNote": "나아만의 존귀함과 질병을 함께 소개한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A022",
+          "clue": "머리숱의 변화만으로 나라는 사람의 가치나 모임에 갈 자격까지 지우지 않을 실마리를 읽는다.",
+          "friction": "탈모를 본문의 질병과 같은 것으로 진단하지 않는다. 모임 사람들이 모두 좋게 볼 것이라는 반응도 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:5:2",
+      "textSha256": "2018da9734580c3357f3e26038800904ff7694b46510879f3e88ed21b3b43dbe",
+      "status": "exclude",
+      "reason": "어린아이가 붙잡혀 와서 수종들게 된 경위다. 나이가 어린 지원자의 능력을 보여 주는 행동은 아직 없다.",
+      "contextNote": "나아만 집의 포로 소녀를 소개한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:5:3",
+      "textSha256": "7d5c24c7682e831bf6bf2945436186bf209ffeeea74d702c538599ffdbd6d46e",
+      "status": "hold",
+      "reason": "선지자에게 가면 병을 고치리라는 소녀의 제안이다. 작은 조언을 건넬 여지는 있지만 치료 결과의 확언을 생활 도움에 옮기기 어렵다.",
+      "contextNote": "소녀가 엘리사를 치료의 길로 제안한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:5:4",
+      "textSha256": "0e4058ca113169fccc22d27ef284da420eff24020581bc2a7cf0eced17edb2ca",
+      "status": "hold",
+      "reason": "어린 종의 말을 위의 왕에게 전하는 장면이다. 낮은 지위의 조언을 들을 가능성은 있으나 조언의 내용은 앞 절 의존이다.",
+      "contextNote": "나아만이 소녀의 말을 왕에게 알린다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:5:5",
+      "textSha256": "6406381a9205f990f1a8bf655bff2df68b0d300f49d5711d5dc17a980bc59bef",
+      "status": "exclude",
+      "reason": "왕의 편지를 받아 귀금속과 옷을 들고 떠나는 준비다. 선물 액수나 출발 자체로 현재 치료·부탁의 기준을 정할 수 없다.",
+      "contextNote": "나아만이 왕의 지원으로 이스라엘에 간다.",
+      "readability": "needs_explanation",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:5:6",
+      "textSha256": "25e50a328915afb2e4b304dddf4e70c5754b1d3062d38de1252c1afdddc05a9a",
+      "status": "hold",
+      "reason": "왕에게 병을 고쳐 달라는 편지를 전한다. 도움을 요청하는 모양은 있으나 상대에게 없는 치유 능력을 요구한 잘못이 뒤에서 드러난다.",
+      "contextNote": "아람 왕의 치료 요청 편지다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:5:7",
+      "textSha256": "6125e165c81044357cf4d7b1fd0463e69d42932624bfa3c91bb5932446a8d4e2",
+      "status": "hold",
+      "reason": "자기 능력의 한계를 말하면서 상대가 시비할 의도라고 단정한다. 한계 인정의 앞부분만으로 모르는 의도를 덧붙이는 뒷말을 감출 수 없다.",
+      "contextNote": "이스라엘 왕이 치료 요청을 적대 의도로 오해한다.",
+      "readability": "thinkable",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:5:8",
+      "textSha256": "c33608b89920d716a566773db0b5b1aa304725435049cbd1579ffeca444b1c8e",
+      "status": "candidate",
+      "reason": "혼자 해결 못할 일 앞에서 괴로워하기보다 그 일을 맡을 사람에게 오게 한다. 부족함을 보일까 자문을 피하는 마음에 도움 통로를 연다.",
+      "contextNote": "엘리사가 나아만을 자신에게 보내라 한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "혼자 모든 답을 내야 한다는 생각을 내려놓고 필요한 사람에게 찾아가 의논할 실마리다.",
+          "friction": "선배가 선지자의 치유 능력이 있다는 뜻은 아니다. 조언이나 해결 결과를 미리 확정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    },
+    {
+      "id": "KRV:2KI:5:9",
+      "textSha256": "3ff4ebb548dc92a0c732aad02e33c217e36a7352d891dcb1fbcb451e59489aaf",
+      "status": "exclude",
+      "reason": "말과 병거를 이끌고 집 앞에 도착한 장면이다. 찾아갈지의 마음과 판단 이유는 드러나지 않는다.",
+      "contextNote": "나아만이 엘리사의 집에 이른다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:5:10",
+      "textSha256": "fa63df9e8d8b530ad7f0853e0cef78ba0b815e6531f2fb7030605e0c24692707",
+      "status": "hold",
+      "reason": "강에 일곱 번 씻으면 깨끗해지리라는 특별한 치유 지시다. 질병이나 생활 문제를 씻기와 횟수로 해결할 방법으로 옮길 수 없다.",
+      "contextNote": "엘리사가 나아만에게 요단 목욕을 지시한다.",
+      "readability": "clear",
+      "connections": []
+    },
+    {
+      "id": "KRV:2KI:5:11",
+      "textSha256": "0d261baa99b922f5e4c312a603471b1b1e70c22381ea0b2813b48d14e417ed45",
+      "status": "candidate",
+      "reason": "내가 기대한 방식과 다르다고 화내며 물러나는 모습은 불편한 피드백 때문에 실제 교정을 거부할지의 마음을 비춘다.",
+      "contextNote": "나아만이 예상한 치유 의식이 없어 노한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "내 기대와 말투가 다르다는 감정 때문에 확인된 실수의 내용까지 외면하지 않을 실마리를 읽는다.",
+          "friction": "팀원의 말을 하나님의 명령으로 높이지 않는다. 사용자의 실제 실수가 확인된 조건을 유지하고 치유 의식의 재현도 권하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ]
+    }
+  ]
+}
