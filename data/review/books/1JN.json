@@ -1,0 +1,959 @@
+{
+  "bookCode": "1JN",
+  "corpusSha256": "f8d5c8b377e243b05fb884b4a6965d2c06a95de74b64a716ee4b95989d61e971",
+  "criteriaVersion": "garasadae-corpus-2026-10-08-v1",
+  "reviewer": "Codex terra_resume_gen",
+  "method": "direct-codex-reading",
+  "entries": [
+    {
+      "id": "KRV:1JN:1:1",
+      "status": "candidate",
+      "reason": "직접 듣고 보고 만진 일을 말하는 서두는 믿음이 생긴 자신의 경험을 멋진 말이 아니어도 나눌지 고민하는 사람에게 실제 겪은 것을 이야기할 실마리가 된다.",
+      "contextNote": "편지의 저자가 생명의 말씀에 대해 직접 경험한 바를 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C039",
+          "clue": "남의 이야기를 꾸미기보다 자신이 믿게 된 경험을 담담히 나눌 수 있다.",
+          "friction": "사용자가 본문 속 대상을 실제로 보거나 만졌다는 뜻이 아니라 자신의 경험을 나누는 비유다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "f550bc2e68f2a4658eb4841f38474659fdec9e5e40ffd7596ea6708e32c62c41"
+    },
+    {
+      "id": "KRV:1JN:1:2",
+      "status": "hold",
+      "reason": "나타난 영원한 생명을 보고 증언하여 전한다는 종교적 서술이다. 신앙을 나눌 수 있다는 소재는 있으나 개인의 정확한 믿음 경험이나 친구 반응을 이 절로 확인할 수 없다.",
+      "contextNote": "저자가 나타난 생명을 보았고 전한다고 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "24fa649ce203807c91d36236bd3c7d980c77a54048b1e79b572f44685c91aae6"
+    },
+    {
+      "id": "KRV:1JN:1:3",
+      "status": "candidate",
+      "reason": "보고 들은 것을 나누어 사귐이 있게 하려는 말은 신앙에 관해 질문한 친구에게 내 믿음을 솔직히 설명할지 망설이는 장면과 연결된다.",
+      "contextNote": "보고 들은 것을 전하는 목적과 하나님 및 예수와의 사귐을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C019",
+          "clue": "친구에게 자신의 신앙 경험을 강요 없이 말하며 서로 이야기할 수 있다.",
+          "friction": "친구가 같은 믿음을 받아들이거나 실제로 종교적 사귐을 갖게 된다는 보장은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "3d615b83b3d4cc1ce9140f5533a3494d6f376cea489ea9a899608e8661775b56"
+    },
+    {
+      "id": "KRV:1JN:1:4",
+      "status": "hold",
+      "reason": "이 글을 쓰는 목적이 기쁨을 충만하게 하려는 데 있다는 짧은 문장이다. 기록의 내용이 앞 절에 의존하고 지금 사용자의 기록 여부를 직접 정하지 않는다.",
+      "contextNote": "편지를 쓰는 목적을 기쁨의 충만함으로 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "3ab0efd4ef4603e65ece6e1ad1d0daa524ac63998620fba9a7012afa3c8df87c"
+    },
+    {
+      "id": "KRV:1JN:1:5",
+      "status": "hold",
+      "reason": "하나님이 빛이시고 어두움이 없다는 신앙 고백이다. 감정적인 위로는 가능하지만 구체적인 두 행동 중 어디로 마음을 정할지의 단서는 부족하다.",
+      "contextNote": "전하려는 소식으로 하나님의 빛을 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "fc3da7d17410050006bbfeca5c07701745440b8839ae083c97b39853fcd158bd"
+    },
+    {
+      "id": "KRV:1JN:1:6",
+      "status": "hold",
+      "reason": "하나님과 사귄다고 말하면서 어둠 가운데 행하는 사람에 관한 진술이다. 말버릇을 고치고 싶은 사용자가 하나님과의 관계를 거짓으로 주장했다고 추정할 수 없다.",
+      "contextNote": "믿음에 대한 말과 실제 행함의 불일치를 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "ccff3c11c9e1d23b3928a23a46f2852bb0368e313b6af201ab7508d35ce702c3"
+    },
+    {
+      "id": "KRV:1JN:1:7",
+      "status": "hold",
+      "reason": "빛 가운데 행함과 서로의 사귐, 죄를 깨끗이 함을 말한다. 새 모임 사람을 맞이하는 구체적 행동으로 연결하려면 빛과 피의 상징을 설명해야 한다.",
+      "contextNote": "빛 가운데 행할 때의 사귐과 정결을 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "ff47952bb9a9c919296c06fe5ae47f975942d0f851df583a79e794b1b40f5c9a"
+    },
+    {
+      "id": "KRV:1JN:1:8",
+      "status": "candidate",
+      "reason": "자신에게 죄가 없다고 하면 스스로를 속인다는 말은 자신도 같은 모임에 늦고 사과하지 않은 채 친구의 지각만 몰아붙일지 고민하는 상황에 닿는다.",
+      "contextNote": "스스로 죄가 없다고 주장하는 태도를 경계한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C029",
+          "clue": "친구를 비난하기 전에 자신의 이전 지각도 인정하고 이야기할 수 있다.",
+          "friction": "지각을 종교적 죄라고 판결하거나 친구의 잘못이 사라졌다고 말하는 것은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "ac36ad5acb4ae10dae3e8d3c3e916a471240323dcf01c6673042b5073f04ed58"
+    },
+    {
+      "id": "KRV:1JN:1:9",
+      "status": "candidate",
+      "reason": "죄를 자백하면 용서하고 깨끗하게 하신다는 말은 이전 잘못 때문에 세례 준비를 미룰지 고민하는 사람에게 잘못을 인정하면서도 신앙생활을 시작할 실마리를 준다.",
+      "contextNote": "잘못을 자백하는 이에게 하나님의 용서와 정결을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C018",
+          "clue": "과거 잘못을 인정하고 더 완벽해질 때까지 미루기보다 세례 준비를 시작할 수 있다.",
+          "friction": "교회의 실제 세례 절차나 신청 결과를 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "740fe4dc8107d15a7b0ee112c15175c008b2c87e494680adf89530951e06541d"
+    },
+    {
+      "id": "KRV:1JN:1:10",
+      "status": "hold",
+      "reason": "범죄하지 않았다고 주장하는 태도에 대한 종교적 반박이다. 자기 잘못을 이미 알고 사과를 망설이는 사용자가 잘못 자체를 부인했다고 추가할 수 없다.",
+      "contextNote": "죄를 부인하는 주장과 하나님의 말씀을 대조한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "64c25b3ce1c35cefdd32bf03df11014635e191ae1def666916922d8b2392a3a1"
+    },
+    {
+      "id": "KRV:1JN:2:1",
+      "status": "hold",
+      "reason": "죄를 피하도록 쓰는 편지와 죄를 범했을 때 예수 그리스도가 대언자라는 신앙적 위로를 말한다. 이전 잘못이 있는 사람이 세례를 준비할 구체적인 행동은 직접 나타나지 않는다.",
+      "contextNote": "저자가 죄와 예수 그리스도의 대언을 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "8d854984e10d651153a955b634b674394450963c2febe337a86703f72f6c8b13"
+    },
+    {
+      "id": "KRV:1JN:2:2",
+      "status": "hold",
+      "reason": "예수가 온 세상의 죄를 위한 화목 제물이라는 신앙 고백이다. 개인적 위로와 별개로 특정 생활 선택의 방향은 구절 자체에서 분명하지 않다.",
+      "contextNote": "예수의 화목 제물이 온 세상을 위한 것이라고 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "429adaf14c024a09fd5df586acc8de84b37e6dbb31264d990daaad968443e8da"
+    },
+    {
+      "id": "KRV:1JN:2:3",
+      "status": "hold",
+      "reason": "계명을 지키는 것과 하나님을 아는 관계를 설명한다. 사용자가 이미 받은 구체적 약속이나 현재 어떤 행동이 계명인지 이 한 절에서 확인할 수 없다.",
+      "contextNote": "계명을 지키는 것과 하나님을 아는 것을 연결한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "498eb5cc8d4f410c1229f7f3b09e69c996efe0762214fdb2b40bd4306a077968"
+    },
+    {
+      "id": "KRV:1JN:2:4",
+      "status": "hold",
+      "reason": "하나님을 안다고 하면서 계명을 지키지 않는 사람을 거짓말하는 자로 묘사한다. 실제 친구나 사용자가 그런 주장을 했다는 근거 없이 인격을 판단할 수 없다.",
+      "contextNote": "신앙 고백과 계명을 지키는 행함의 차이를 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "0264d674b76b4a1f820a9952d145c0665b67c0872cac3bc37320b203b6e820e6"
+    },
+    {
+      "id": "KRV:1JN:2:5",
+      "status": "hold",
+      "reason": "말씀을 지키는 사람에게 사랑이 온전해진다는 신앙적 진술이다. 생활 속 실제 갈등이나 어떤 선택을 해야 할지는 구체적으로 드러나지 않는다.",
+      "contextNote": "말씀을 지키는 것과 하나님의 사랑을 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "2c07daafd4ef0098f8d5ea261a53a7dd3e0b1d71ff8b0e28b3a466064ee70430"
+    },
+    {
+      "id": "KRV:1JN:2:6",
+      "status": "hold",
+      "reason": "그 안에 거한다고 말하는 사람은 그의 행하신 대로 행하라는 권면이다. 앞뒤 내용을 알아야 주체와 행위가 보이며 현재 고민에 필요한 구체적인 행동이 명시되지 않는다.",
+      "contextNote": "그리스도 안에 거한다는 고백과 행함을 연결한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "7354abeecaa30a5b155e49d97f9dcdfe2ad6f51128937edfcecd38251f6af5f1"
+    },
+    {
+      "id": "KRV:1JN:2:7",
+      "status": "hold",
+      "reason": "처음부터 가진 옛 계명에 관해 말하는 도입이다. 계명의 내용은 이 절에서 구체적으로 제시되지 않아 지금 행동을 고를 직접 실마리가 없다.",
+      "contextNote": "저자가 새 계명과 옛 계명에 관해 설명하기 시작한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "8de0fde9cb97fda3a4d5ec0e3b82f74432c51029f873a25e0e0990221d48a0f4"
+    },
+    {
+      "id": "KRV:1JN:2:8",
+      "status": "hold",
+      "reason": "어두움이 지나가고 참빛이 비친다는 신앙적 비유다. 현재 어려움이나 기회가 실제로 끝났는지를 예언하거나 특정 선택의 결과로 확정할 수 없다.",
+      "contextNote": "계명과 어둠이 지나가는 비유를 이어 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "ca17d178193b6f3bcf1af43acbe2735ea3d09d3fe28553a62d225c14a8f04f12"
+    },
+    {
+      "id": "KRV:1JN:2:9",
+      "status": "hold",
+      "reason": "형제를 미워하는 사람은 어둠에 있다는 신앙적 표현이다. 자신을 비웃은 동료에게 느끼는 상처를 그 자체로 잘못이라고 단정하지 않으며 구체적 행동을 골라 주지도 않는다.",
+      "contextNote": "빛에 있다는 말과 형제를 미워하는 태도를 대조한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "34ba1dddcb523601ae8daf6e216ea0098c66bca38a209e444594a5c6ca836d92"
+    },
+    {
+      "id": "KRV:1JN:2:10",
+      "status": "candidate",
+      "reason": "형제를 사랑하면 마음에 거리낌이 없다는 표현은 친구의 작은 실수가 자꾸 생각날 때 다시 따질지 넘길지 고민하는 사람에게 관계를 아끼는 마음을 떠올리게 한다.",
+      "contextNote": "형제를 사랑하는 사람과 빛 가운데 거하는 것을 연결한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H028",
+          "clue": "친구를 아끼는 마음을 생각해 이번 작은 실수는 놓아줄 수 있다.",
+          "friction": "사랑한다는 이유로 반복되는 경계 침해까지 무조건 참아야 한다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "1ac0aa93d8824c2b407ea86a2e8dcad2ec94d87414b764f09bdb898d79dca638"
+    },
+    {
+      "id": "KRV:1JN:2:11",
+      "status": "hold",
+      "reason": "형제를 미워하는 사람의 어둠과 보지 못함을 비유한다. 과거에 조롱당한 사용자가 느끼는 불편한 감정만으로 그 사람의 신앙이나 선택을 판단할 수 없다.",
+      "contextNote": "형제를 미워하는 것과 어두움의 관계를 비유한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "8577cc9087d13e91d05b83e1f8af7eaf9afe0d7eb6f7ae67c663f792376ce348"
+    },
+    {
+      "id": "KRV:1JN:2:12",
+      "status": "candidate",
+      "reason": "죄가 그의 이름으로 용서받았다는 표현은 이미 잘못을 인정하고 바로잡았는데도 계속 자책하는 고민에서 과거와 현재를 나눠 볼 위로가 된다.",
+      "contextNote": "자녀들에게 죄 사함을 얻었다고 편지를 쓴다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "이미 사과하고 고친 일에만 머무르지 않고 지금 할 일을 다시 시작할 수 있다.",
+          "friction": "동료가 실제로 용서했다고 확인해 주거나 과거 일의 모든 결과가 사라졌다는 보장은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "35082298479481c05bf00a6c0e6652cf47586465c4d8099012a9b703cdc4d765"
+    },
+    {
+      "id": "KRV:1JN:2:13",
+      "status": "hold",
+      "reason": "아비와 청년이 하나님을 알고 악한 자를 이겼다는 인사다. 지금 사용자의 상대나 경쟁을 악한 자라고 규정하거나 실제 승리를 예언할 수 없다.",
+      "contextNote": "저자가 아비들과 청년들에게 편지를 쓰는 이유를 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "4a8cd1d43314edec7faaf7d25b1aa09498b8ddde870d4ed3ba12005ffe43326e"
+    },
+    {
+      "id": "KRV:1JN:2:14",
+      "status": "hold",
+      "reason": "아이와 아비와 청년에게 하나님을 알며 악한 자를 이겼다고 말한다. 실제 사용자가 이미 상대를 이겼거나 힘에 제한이 없다고 확인하는 문장으로 쓰기 어렵다.",
+      "contextNote": "다양한 독자에게 쓴 이유와 신앙을 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "7e3fafcdfb28bcdb2ae5af0497e87697d6c98ca5bc13e9289877b5f99a35291d"
+    },
+    {
+      "id": "KRV:1JN:2:15",
+      "status": "hold",
+      "reason": "세상과 그 안의 것들을 사랑하지 말라는 종교적 권면이다. 비싼 물건을 사고 싶은 개인의 취향만으로 하나님의 사랑이 없다고 판정하거나 소비 결론을 강요할 수 없다.",
+      "contextNote": "세상과 하나님의 사랑을 대조한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "bff7741896a437a24ac93009f4e9338f5cbe9877509d3df3ef498ee7997bcf2f"
+    },
+    {
+      "id": "KRV:1JN:2:16",
+      "status": "hold",
+      "reason": "육신과 눈의 욕망, 삶의 자랑을 설명한다. 할인 물건의 유혹을 연상할 수 있지만 사용자가 자랑하려는 동기나 종교적 잘못을 갖고 있다고 사실처럼 추가하지 않는다.",
+      "contextNote": "세상에 있는 욕망의 종류를 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "2509ce71d0e09dd25d83b79fe2c6e015e2ce34920ba72cf5a5c4dd5254aa8ff8"
+    },
+    {
+      "id": "KRV:1JN:2:17",
+      "status": "hold",
+      "reason": "세상의 욕망은 지나가고 하나님의 뜻을 행하는 이는 영원히 거한다는 말이다. 놓친 것 같은 기회가 실제 끝났거나 특정 새 일이 하나님의 뜻이라고 판정할 수 없다.",
+      "contextNote": "세상과 욕망의 일시성, 하나님의 뜻을 대조한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "1621f03d386cc220f461c009ac6cbf8e51bc108a54b47fd868208ed06242c18e"
+    },
+    {
+      "id": "KRV:1JN:2:18",
+      "status": "exclude",
+      "reason": "마지막 때와 적그리스도의 출현을 설명하는 종교적 경고다. 현실의 특정 지인이나 시기를 그 대상으로 판별하지 않는다.",
+      "contextNote": "저자가 마지막 때에 적그리스도가 일어났다고 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "feb6f293e40064b5b31115559e5c6a3836501f30d938ae640b713bb9204de3d2"
+    },
+    {
+      "id": "KRV:1JN:2:19",
+      "status": "hold",
+      "reason": "공동체에서 나간 사람들이 원래 속하지 않았다고 해석한다. 친구가 동아리를 옮기려 한다는 이유로 원래 관계에 속하지 않았다고 단정할 수 없다.",
+      "contextNote": "공동체에서 떠난 이들을 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "0fab6d8248e5bcdbec765fb738d24180b436dd546b0af255d28e1875e73b3bf9"
+    },
+    {
+      "id": "KRV:1JN:2:20",
+      "status": "hold",
+      "reason": "기름 부음을 받고 모든 것을 안다는 신앙적 진술이다. 사용자가 현재 조건과 미래를 이미 모두 안다고 가정하거나 선택 결과를 예언할 수 없다.",
+      "contextNote": "독자들이 기름 부음을 받았다고 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "75c7cfa39947be9f5740797c0f77078a1f8bb351fb203c4a543877d8955452ef"
+    },
+    {
+      "id": "KRV:1JN:2:21",
+      "status": "candidate",
+      "reason": "모든 거짓은 진리에서 나지 않는다는 말은 주변 사람들이 이력을 부풀릴 때 자신도 과장할지 사실대로 쓸지의 고민에 직접 연결된다.",
+      "contextNote": "저자가 독자들이 진리를 안다는 이유로 편지를 쓴다고 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B014",
+          "clue": "남들이 과장하더라도 내 이력에는 실제 한 일만 적을 수 있다.",
+          "friction": "현재 다른 사람들의 앞으로의 평가나 신앙 상태를 판정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "c88176dfb503a253a90650e14034de0899f56a98619a5a87cdc66a3c17ce12bc"
+    },
+    {
+      "id": "KRV:1JN:2:22",
+      "status": "hold",
+      "reason": "예수를 그리스도로 부인하는 자에 대한 종교적 정의다. 지금 의견이 다른 지인이나 사용자를 그 대상으로 규정할 근거가 없다.",
+      "contextNote": "아버지와 아들을 부인하는 자에 관해 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "2a22591c02c6c5812f58c37a15c218f4a84f9705705e6507ae3fc31af66a8450"
+    },
+    {
+      "id": "KRV:1JN:2:23",
+      "status": "hold",
+      "reason": "아들을 시인하는 것과 아버지를 모시는 것을 연결하는 신앙 고백이다. 지금 말을 할지 멈출지에 대한 구체적인 생활 조건은 나타나지 않는다.",
+      "contextNote": "아들을 시인하거나 부인하는 것에 관해 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "b4be0e42e4b9b2ee95ac1cd0fde0002bcc7b227aebdc4c1ff77ee8262fdab547"
+    },
+    {
+      "id": "KRV:1JN:2:24",
+      "status": "hold",
+      "reason": "처음 들은 것을 안에 머물게 하라는 신앙적 권면이다. 이미 한 업무 약속과 이전에 들은 가르침을 동일시하거나 새 기회의 결과를 알 수 없다.",
+      "contextNote": "처음부터 들은 신앙의 말씀 안에 거하라고 권한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "7285ed2e85920716e34a98a015c349689980d1c5d3ea5b86c6e8f1e714b789b8"
+    },
+    {
+      "id": "KRV:1JN:2:25",
+      "status": "hold",
+      "reason": "영원한 생명이라는 신앙적 약속을 설명한다. 특정 치료나 생활 선택의 현실 결과를 예언하는 뜻으로 바꿀 수 없다.",
+      "contextNote": "앞에서 언급한 약속이 영원한 생명이라고 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "68d98a5dd9af307668dc4c34abba1295f3cf364cf19a2ee110339f973f4e35c1"
+    },
+    {
+      "id": "KRV:1JN:2:26",
+      "status": "exclude",
+      "reason": "미혹하는 이들에 관해 글을 썼다는 편지의 설명이다. 현재 누구의 행동이나 의도가 미혹인지 사용자 정보 없이 확인할 수 없다.",
+      "contextNote": "저자가 앞서 편지를 쓴 주제를 밝힌다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "8480f1a7a792bc44f44b8ffcdd2fd9e8d538905c52fd887cf9c60158023ddcc4"
+    },
+    {
+      "id": "KRV:1JN:2:27",
+      "status": "hold",
+      "reason": "기름 부음이 모든 것을 가르치므로 아무도 가르칠 필요가 없다는 신앙적 진술이다. 성경의 모르는 부분을 물을지 고민하는 사용자에게 실제로 더 배울 필요가 없다거나 이미 이해했다고 단정할 수 없다.",
+      "contextNote": "독자들 안에 있는 기름 부음과 가르침을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C021",
+          "clue": "남에게 묻기보다 혼자 말씀을 읽으며 생각해 볼 여지를 떠올릴 수 있다.",
+          "friction": "사용자는 이미 모르는 부분이 많다고 했고 기름 부음으로 모든 뜻을 안다는 사실은 확인되지 않았다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "4114ae202d23dc87bf461e53b0432c3d8faba067ee8dbf03f7bb16bd56bebd57"
+    },
+    {
+      "id": "KRV:1JN:2:28",
+      "status": "hold",
+      "reason": "주 안에 거해 강림 때 부끄럽지 않도록 하라는 신앙적 권면이다. 지금 지원이나 모임의 결과를 예언하거나 실제 부끄러운 일이 곧 생긴다고 할 수 없다.",
+      "contextNote": "자녀들에게 주 안에 거하라고 권한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "bd1f9fb7447399ffbcb24cbc9541a5a09afa8577d9fdf2aa734251031db23bb4"
+    },
+    {
+      "id": "KRV:1JN:2:29",
+      "status": "hold",
+      "reason": "의를 행하는 이가 하나님에게서 났다는 신앙적 진술이다. 지금 무엇이 옳은 행동인지나 타인의 믿음 상태를 구체적으로 판단할 수 없다.",
+      "contextNote": "의를 행하는 것과 하나님을 아는 것을 연결한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "763cd598687deda32bb8f0ae8c64925d3f90d869d9120422f8bba8bc8bf31cd5"
+    },
+    {
+      "id": "KRV:1JN:3:1",
+      "status": "hold",
+      "reason": "하나님의 사랑과 자녀라는 정체성을 말하며 세상이 알아보지 못한다고 한다. 사용자가 실제로 누구에게도 이해받지 못한다거나 무엇을 선택해야 하는지 직접 알려 주지 않는다.",
+      "contextNote": "아버지의 사랑과 하나님의 자녀라는 정체성을 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "300aa43387f1e1be19f45e9624f3ab9b103f20d4ea041b8f7b2f3d0758dce30e"
+    },
+    {
+      "id": "KRV:1JN:3:2",
+      "status": "hold",
+      "reason": "장래의 모습은 아직 나타나지 않았으나 그가 나타나면 같을 것이라는 신앙적 진술이다. 현재 생활의 미래 결과나 상대의 마음을 구체적으로 예측할 수 없다.",
+      "contextNote": "하나님의 자녀들이 장래에 어떻게 될지 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "1d4fa16dd0df7a6ea3d0a3bde88ec3e730e4e8cb7fcefaa45f17bf4410f7fc59"
+    },
+    {
+      "id": "KRV:1JN:3:3",
+      "status": "hold",
+      "reason": "주를 향한 소망을 가진 자가 자신을 깨끗하게 한다는 종교적 진술이다. 현재 옷이나 몸이 더럽다는 사실이나 세탁 여부를 추정할 수 없다.",
+      "contextNote": "주를 향한 소망과 자신을 깨끗하게 함을 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "1a23b38890abd518637b0d675439ecbad8f1b275487313fc8be3b22211329ec3"
+    },
+    {
+      "id": "KRV:1JN:3:4",
+      "status": "hold",
+      "reason": "죄와 불법의 관계에 대한 종교적 정의다. 사용자의 사소한 실수나 생활 취향을 법 위반 또는 죄로 판결하는 근거가 아니다.",
+      "contextNote": "죄를 짓는 것과 불법을 행하는 것을 설명한다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "61bde07213e99b07c3f114ece8fab515b9e9912b33a57aba4e8bda811abdf9da"
+    },
+    {
+      "id": "KRV:1JN:3:5",
+      "status": "hold",
+      "reason": "예수가 죄를 없이 하려고 나타났고 죄가 없다고 말하는 신앙 고백이다. 지금 어떤 행동을 선택할지의 구체적인 갈등은 직접 표현되지 않는다.",
+      "contextNote": "예수가 나타나신 목적과 죄 없으심을 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "47ff58d6c5848ded7e5d5882126e3f026a1283927c62e051528042ef4dd0c40f"
+    },
+    {
+      "id": "KRV:1JN:3:6",
+      "status": "hold",
+      "reason": "그 안에 거함과 범죄를 대비하는 종교적 진술이다. 사용자나 친구의 실수를 근거로 신앙 여부와 인격을 단정할 수 없다.",
+      "contextNote": "그 안에 거하는 것과 범죄를 대비한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "d03f1f037cc0177aaffbb345c8eacef2c53a7df3276f6b6d25746d6ee1d09ba0"
+    },
+    {
+      "id": "KRV:1JN:3:7",
+      "status": "hold",
+      "reason": "미혹되지 말고 의를 행하는 이의 의로움을 말한다. 주변 사람이 다른 선택을 권했다는 사실만으로 상대가 악의적으로 속였다고 볼 수 없다.",
+      "contextNote": "자녀들에게 미혹되지 말고 의를 행하는 이의 의로움을 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "bb698d9edf7df0d57b1d2666aaa5fa17e315a77a864513288f0ebae80f795b3c"
+    },
+    {
+      "id": "KRV:1JN:3:8",
+      "status": "exclude",
+      "reason": "죄를 짓는 자와 마귀를 연결하는 종교적 진술이다. 일상적 잘못을 이유로 현실의 사람을 악마의 소속이라고 판정할 수 없다.",
+      "contextNote": "죄와 마귀의 일에 관해 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "2534ac4974b39cf7df0d18ac350818da5140aca4a1480aaf5eeb7de6430245c6"
+    },
+    {
+      "id": "KRV:1JN:3:9",
+      "status": "hold",
+      "reason": "하나님께 난 사람과 죄를 짓지 않음을 연결하는 신앙적 진술이다. 현재 사용자나 지인의 한 행동으로 구원이나 자격을 확인할 근거가 아니다.",
+      "contextNote": "하나님에게서 난 사람에 관해 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "6110cdfd1aad6591409c85d3d0bb94378a0d4af424c4723d87a4aac1bb875cc6"
+    },
+    {
+      "id": "KRV:1JN:3:10",
+      "status": "hold",
+      "reason": "하나님의 자녀와 마귀의 자녀를 의와 사랑의 여부로 대비한다. 현실의 지인이나 관계를 이 범주로 단정하거나 낙인찍을 수 없다.",
+      "contextNote": "의를 행하고 형제를 사랑하는 태도를 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "ee171a4f94fd2889b9fe0ebf546fe3c41b7e789cf45f27b133f02f7ce84e0d9d"
+    },
+    {
+      "id": "KRV:1JN:3:11",
+      "status": "candidate",
+      "reason": "서로 사랑하라는 간결한 말은 친구의 작은 실수를 되짚으며 다시 따질지 그냥 넘길지의 고민에서 아끼는 관계를 생각할 실마리를 준다.",
+      "contextNote": "처음부터 들은 소식으로 서로 사랑하라고 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H028",
+          "clue": "친구를 아끼는 마음을 떠올려 이번의 작은 실수는 놓아줄 수 있다.",
+          "friction": "모든 상황에서 갈등을 말하지 않거나 반복되는 피해를 감수해야 한다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "8c428b66deb6371093b5d5156e7ddf95b36cb585737968b1b2f696c0ce7cde49"
+    },
+    {
+      "id": "KRV:1JN:3:12",
+      "status": "exclude",
+      "reason": "가인이 아우를 죽인 사건을 예로 들며 따르지 말라고 한다. 실제 가족이나 동료 사이에 살해 의도가 있다고 가정할 수 없다.",
+      "contextNote": "형제를 죽인 가인의 사건을 예로 든다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "14b32291d077f1de8bb1ad42e55be1122c8559fa6a02c4e098ad817fad2b6789"
+    },
+    {
+      "id": "KRV:1JN:3:13",
+      "status": "hold",
+      "reason": "세상이 미워하더라도 이상하게 여기지 말라는 말이다. 신앙 때문에 비웃음을 겪는 사람에게 위로는 될 수 있으나 일부 지인의 조롱을 세상의 보편적 미움으로 확정하거나 행동 방향을 단정하기 어렵다.",
+      "contextNote": "형제들에게 세상의 미움을 이상히 여기지 말라고 한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C031",
+          "clue": "주변의 부정적 반응이 있다는 이유만으로 자신의 신앙을 숨겨야 하는지 돌아볼 수 있다.",
+          "friction": "지인들의 비웃음이 모든 사람의 미움이거나 앞으로 계속될지 모른다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "1ca822aa06d59118c1750694646ab0b16f67e0ced700ef451a10c03da1266724"
+    },
+    {
+      "id": "KRV:1JN:3:14",
+      "status": "hold",
+      "reason": "형제를 사랑함과 생명, 사랑하지 않음과 사망을 대조하는 종교적 표현이다. 사용자에게 미움이 들었다는 이유만으로 실제 생사나 관계를 판정할 수 없다.",
+      "contextNote": "형제 사랑과 생명에 관해 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "60337c2d437de067541fe839ef90f7990f6115fb4a56c38499215752db33f75b"
+    },
+    {
+      "id": "KRV:1JN:3:15",
+      "status": "hold",
+      "reason": "형제를 미워하는 것을 살인에 비유하는 강한 종교적 표현이다. 실제 동료에게 서운한 감정이나 순간적인 화를 느낀 사람을 살인자로 단정할 수 없다.",
+      "contextNote": "형제를 미워하는 태도에 대해 강하게 경고한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "d35c0a7e760d88a8e10cdaa3e27588789098cd6f094e76a43fec4793eb5b9537"
+    },
+    {
+      "id": "KRV:1JN:3:16",
+      "status": "hold",
+      "reason": "형제를 위해 목숨을 버리는 사랑을 말한다. 자기 몸을 크게 무리해 돕겠다는 친구의 도움을 받을지 고민하는 사용자가 그런 희생을 요구해도 된다는 사실로 바꿀 수 없다.",
+      "contextNote": "예수의 희생과 형제를 위한 사랑을 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "40fdc43675d90c6f982eb2d9bf5ea7fd9acd9c906fa9bfb9a26aad7447e4d133"
+    },
+    {
+      "id": "KRV:1JN:3:17",
+      "status": "candidate",
+      "reason": "재물을 가진 사람이 궁핍한 형제를 보고도 도울 마음을 막는지를 묻는 말은 생활비가 충분하고 어려운 성도를 돕는 모금에 보탤지의 고민과 직접 맞는다.",
+      "contextNote": "재물을 가진 이가 궁핍한 형제를 돕지 않는 태도를 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C072",
+          "clue": "전부 아껴 두는 대신 감당 가능한 금액을 이번 모금에 나눌 수 있다.",
+          "friction": "사용자가 모든 재산을 내야 하거나 지원받는 사람의 상황이 곧 해결된다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "1b5ccf2bad2df0cf56e5ce5e012e8ac5e68c3414907faafb8e5c27126e6c710a"
+    },
+    {
+      "id": "KRV:1JN:3:18",
+      "status": "candidate",
+      "reason": "말과 혀로만 사랑하지 말고 행함과 진실함으로 하자는 말은 상을 당한 친구에게 어떤 말로 위로할지 몰라 작은 일을 도울지 물러날지의 고민에 구체적인 행동을 떠올리게 한다.",
+      "contextNote": "말뿐이 아니라 행동과 진실로 사랑하라고 권한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C016",
+          "clue": "위로의 말을 완벽하게 찾지 못해도 식사나 정리 같은 작은 일을 도울 수 있다.",
+          "friction": "친구가 어떤 도움을 원하고 받아들일지는 직접 확인해야 한다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "2e264d2404698d652189c838860a1d669a383eb7a6ecec15f5721881eb7e5524"
+    },
+    {
+      "id": "KRV:1JN:3:19",
+      "status": "hold",
+      "reason": "이로써 진리에 속한 줄 알고 마음을 굳게 한다는 말이다. 무엇으로써인지 앞 절에 의존해 현재 사용자가 어떤 행동을 택할지 단독으로 알기 어렵다.",
+      "contextNote": "행함과 진실한 사랑의 결과를 이어 말한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "d39f81f12040fca2fb90119cfe10c25c23717edff8ffe9ae737a6969e0f8ed86"
+    },
+    {
+      "id": "KRV:1JN:3:20",
+      "status": "candidate",
+      "reason": "스스로의 마음이 자신을 책망하는 때를 직접 언급하고 그 마음보다 크신 하나님을 말해 이미 바로잡은 잘못 때문에 계속 자신을 몰아붙이는 고민을 비춘다.",
+      "contextNote": "마음의 책망과 모든 것을 아시는 하나님을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C011",
+          "clue": "자책만 반복하기보다 이미 고친 일과 지금 할 일을 나누어 볼 수 있다.",
+          "friction": "옛 일의 현실적인 결과가 전부 사라졌거나 동료가 반드시 용서했다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "63b23b486c54a0b00a33636abb1ca885a702bead4b65a00b12f6e1b8c70d57b6"
+    },
+    {
+      "id": "KRV:1JN:3:21",
+      "status": "hold",
+      "reason": "마음에 책망할 것이 없으면 하나님 앞에서 담대함을 얻는다는 조건절이다. 아직 자책하는 사용자의 마음이 이미 가라앉았다고 단정하지 않으며 문장도 이어진다.",
+      "contextNote": "마음에 책망이 없을 때의 담대함을 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "a69de6206b422d928217ee274cdf8f7e70ce2516f41609126920e75858837bd1"
+    },
+    {
+      "id": "KRV:1JN:3:22",
+      "status": "hold",
+      "reason": "계명을 지키는 사람들이 구하는 것을 받는다는 신앙적 진술이다. 현재 특정한 치료나 금전 문제에서 원하는 결과가 반드시 이뤄진다는 보장으로 쓸 수 없다.",
+      "contextNote": "앞 절의 담대함과 구하는 것에 대해 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "f806fa8494690c93b6e669843a4b584f8053bef0441ae6e4a5a8d6f28ec37e28"
+    },
+    {
+      "id": "KRV:1JN:3:23",
+      "status": "candidate",
+      "reason": "서로 사랑하라는 명시적 권면은 친구의 작은 실수를 되짚으며 다시 따질지 넘길지 고민할 때 관계를 아끼는 마음을 떠올릴 수 있다.",
+      "contextNote": "예수 그리스도를 믿고 서로 사랑하라는 계명을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H028",
+          "clue": "친구를 소중히 여기는 마음으로 이번의 작은 실수를 지나가게 둘 수 있다.",
+          "friction": "반복되는 피해까지 무조건 참으라는 뜻이나 친구의 마음을 확인한 결과는 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "76ff93a04b6c721949ceccc65958b84d7f379905830f96a536b104c3c33c2c21"
+    },
+    {
+      "id": "KRV:1JN:3:24",
+      "status": "hold",
+      "reason": "계명을 지키는 사람과 주의 내주를 성령으로 안다는 신앙 고백이다. 현재 사용자가 할 일이나 사람의 신앙 상태를 직접 판정할 수 없다.",
+      "contextNote": "계명을 지키는 것과 성령을 통한 앎을 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "d7b4f91e01b36fbc75837d32c66e43b0587155becacdbb1e332b0f9d10b7e9c2"
+    },
+    {
+      "id": "KRV:1JN:4:1",
+      "status": "hold",
+      "reason": "영들을 모두 믿지 말고 하나님께 속하는지 시험하라는 종교적 권면이다. 친구의 제품 추천을 확인하자는 비유는 가능하나 그 친구를 거짓 선지자라고 단정할 수 없다.",
+      "contextNote": "거짓 선지자들 때문에 영들을 분별하라고 권한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H003",
+          "clue": "다른 이의 추천을 바로 믿기 전에 자신의 필요를 살펴볼 수 있다.",
+          "friction": "상품 추천을 종교적 거짓 선지자의 의도와 동일시할 근거가 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "b8672f6ed4dce01cd37a41ee0fb3fe1b6b6e1667f2f59db20ee83855462a728c"
+    },
+    {
+      "id": "KRV:1JN:4:2",
+      "status": "hold",
+      "reason": "예수 그리스도가 육체로 오심을 시인하는 영에 관한 신앙적 설명이다. 현재 지인의 의도나 사용자의 선택지를 대신 판별하는 기준이 아니다.",
+      "contextNote": "하나님의 영을 아는 기준을 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "9c565df227be9a6feaa69654e070f06f13a4aefcb3f2e24a45b28d5170286490"
+    },
+    {
+      "id": "KRV:1JN:4:3",
+      "status": "exclude",
+      "reason": "예수를 시인하지 않는 영을 적그리스도의 영으로 설명하는 종교적 진술이다. 주변 지인이나 다른 의견을 가진 사람을 그 대상으로 규정할 수 없다.",
+      "contextNote": "예수를 시인하지 않는 영에 관해 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "21fffb58750f433a077b7f1cd8c1f2a1f7a249c0d3ba08fde64ee56eb21122cd"
+    },
+    {
+      "id": "KRV:1JN:4:4",
+      "status": "hold",
+      "reason": "하나님께 속하고 이미 이겼다고 말하는 신앙 고백이다. 사용자가 아직 지원하지 않은 일에서 이미 합격했거나 특정 상대를 이겼다는 뜻으로 쓸 수 없다.",
+      "contextNote": "독자들 안에 있는 이의 크심과 승리를 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "5acde7d7156166f1e53be970c6e2c9bdf1183a8fe6f73dec0eb1f47c413380d1"
+    },
+    {
+      "id": "KRV:1JN:4:5",
+      "status": "hold",
+      "reason": "앞서 언급한 이들의 말과 세상이 그 말을 듣는다는 종교적 대비다. 현재 다수의 의견을 내는 지인들이 모두 틀렸다는 사실을 만들 수 없다.",
+      "contextNote": "세상에 속한 이들과 그 말을 듣는 세상을 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "825a1e0e5a927157a93ecb4071675832bb247afbf38067e7e041e3fb007ab013"
+    },
+    {
+      "id": "KRV:1JN:4:6",
+      "status": "hold",
+      "reason": "하나님을 아는 자가 저자의 말을 듣는다는 공동체의 종교적 진술이다. 사용자 의견에 동의하지 않는 현실의 친구를 신앙이 없는 사람이라고 판정할 수 없다.",
+      "contextNote": "진리의 영과 미혹의 영을 구별하는 방법을 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "a57636b56aa41624ab078b46405533a4490294161417f99566e9a65d2bbc727a"
+    },
+    {
+      "id": "KRV:1JN:4:7",
+      "status": "candidate",
+      "reason": "서로 사랑하자고 하는 권면은 생활문화가 달라 낯선 새 교회 모임 사람을 기존 사람들과 함께 받아들일지 고민하는 상황에 닿는다.",
+      "contextNote": "사랑하는 이들에게 서로 사랑하라고 권한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C065",
+          "clue": "새로 온 사람과 생활문화가 달라도 공동체의 한 사람으로 반갑게 대할 수 있다.",
+          "friction": "원문이 새 사람의 취향이나 친해질 결과를 보장하는 것은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "4dbb737da4942bfffe25cde9eb4f8f036db82d64a20d47fc261bb3be607f3463"
+    },
+    {
+      "id": "KRV:1JN:4:8",
+      "status": "hold",
+      "reason": "하나님은 사랑이시며 사랑하지 않는 자는 하나님을 알지 못한다는 신앙적 진술이다. 단순히 서운함을 느끼는 현재 사용자를 사랑이 없거나 신앙이 없다고 단정할 수 없다.",
+      "contextNote": "하나님과 사랑의 관계를 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "3ffba8b0475cdf0b94abd1f5ac1316a0635fefb16bcf49429687fb60a02d3c21"
+    },
+    {
+      "id": "KRV:1JN:4:9",
+      "status": "hold",
+      "reason": "하나님이 아들을 보내신 목적을 사랑으로 설명한다. 위로의 신앙 고백은 될 수 있으나 지금 두 행동 사이에서 무엇을 선택할지 직접 단서는 약하다.",
+      "contextNote": "하나님의 사랑이 아들을 보내는 방식으로 나타났다고 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "f4fc748ebecca9f4714a598ec36dca16aaec7500a62ec19aea289459d0cc3ab0"
+    },
+    {
+      "id": "KRV:1JN:4:10",
+      "status": "hold",
+      "reason": "하나님의 사랑과 아들을 화목제로 보내심에 대한 신앙적 설명이다. 현재 사람의 감정이나 어떤 생활 선택의 실제 결과를 대신 판정할 수 없다.",
+      "contextNote": "사랑의 근원을 하나님의 행동에서 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "d16bf5c14b9c84c12b7839a09a822b9ffc95404da640d94cf1fa478230fa1491"
+    },
+    {
+      "id": "KRV:1JN:4:11",
+      "status": "candidate",
+      "reason": "사랑을 받은 만큼 서로 사랑하는 것이 마땅하다는 말은 예전에 도움받은 사람에게 식사를 제안할지 고민할 때 받은 마음을 다시 표현할 실마리가 된다.",
+      "contextNote": "하나님의 사랑을 받은 이들에게 서로 사랑하라고 권한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A012",
+          "clue": "도와준 사람에게 고마움을 담아 가벼운 식사를 제안할 수 있다.",
+          "friction": "원래 하나님의 사랑을 말하며 상대가 초대를 받아줄지나 반드시 비싼 식사를 원하는지는 알 수 없다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "2a4a779434013e61a163bb74a62d7a1dd82fccb7cbb65d81e719c67f78a67500"
+    },
+    {
+      "id": "KRV:1JN:4:12",
+      "status": "hold",
+      "reason": "서로 사랑하면 하나님이 안에 거하시고 사랑이 온전히 이루어진다는 신앙적 설명이다. 사용자의 당장 구체적인 관계 선택이 무엇인지 단독으로 드러나지 않는다.",
+      "contextNote": "서로 사랑하는 것과 하나님의 내주를 연결한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "47db95b3f46630a0975800a07eecbe5b65421c1724056098aba7a466dbed3019"
+    },
+    {
+      "id": "KRV:1JN:4:13",
+      "status": "hold",
+      "reason": "성령을 통해 하나님과 함께 거함을 안다는 신앙 고백이다. 현재 사용자의 감각적 경험이나 특정 선택의 결과를 확인하는 정보가 아니다.",
+      "contextNote": "성령을 통한 내주에 관해 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "4aa0678aec9bcf3845db1919c8c4e33b6924f3a097a7b74616ae2334809796b4"
+    },
+    {
+      "id": "KRV:1JN:4:14",
+      "status": "hold",
+      "reason": "아버지가 아들을 구주로 보내신 것을 보았고 증언한다는 신앙적 서술이다. 사용자가 실제로 무엇을 보았거나 친구가 믿음을 받아들일지 판단할 수 없다.",
+      "contextNote": "저자들이 아버지가 아들을 보내신 것을 증언한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "a8b4ce9a27371a32b60d44396d1ca5c1e9d4cde6cc2318e02f3a69c1c429c056"
+    },
+    {
+      "id": "KRV:1JN:4:15",
+      "status": "hold",
+      "reason": "예수를 하나님의 아들이라 시인하는 사람과 하나님의 내주를 말한다. 믿음을 친구에게 설명할지의 구체적 망설임이나 상대 반응은 직접 다루지 않는다.",
+      "contextNote": "예수를 시인하는 것과 하나님의 내주를 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "4b2e22a16aec415ba3117ee6f13a3b9318b99e6c585181d770b7b8892a2fdf6a"
+    },
+    {
+      "id": "KRV:1JN:4:16",
+      "status": "hold",
+      "reason": "하나님은 사랑이며 사랑 안에 거하는 자와 함께하신다는 신앙 고백이다. 사랑하는 상대가 실제로 같은 마음이거나 고백을 받아들일지 예측할 수 없다.",
+      "contextNote": "하나님과 사랑의 관계를 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "d4bcdc92a41408e08dc74d971ff93db72bc70d9da87e40503484ba86b50e85d6"
+    },
+    {
+      "id": "KRV:1JN:4:17",
+      "status": "hold",
+      "reason": "온전한 사랑과 심판날의 담대함을 말하는 종교적 진술이다. 현실의 시험이나 평가에서 결과를 보증하거나 개인을 심판할 근거가 아니다.",
+      "contextNote": "사랑과 심판날의 담대함을 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "ae2537bf9bf70c3449c2bc5a36bae8b8bf6da35f912107a80d27a8a3cabbdfab"
+    },
+    {
+      "id": "KRV:1JN:4:18",
+      "status": "hold",
+      "reason": "사랑이 두려움을 내쫓는다는 말은 고백할지의 망설임을 떠올리게 하지만 이어지는 형벌과 온전하지 못함을 실제 상대의 마음이나 사용자의 사랑에 대한 판정으로 만들 수 없다.",
+      "contextNote": "사랑과 두려움의 관계를 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H032",
+          "clue": "마음 표현을 두려워하는 대신 자신의 애정을 돌아볼 수 있다.",
+          "friction": "친구가 실제로 같은 마음인지 모르며 형벌의 표현이 관계 고민과 직접 맞지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "ffb0a8b8bb2ef4bc7e66751e00477a41b555780b82090bdf4f93296ac1b6575b"
+    },
+    {
+      "id": "KRV:1JN:4:19",
+      "status": "candidate",
+      "reason": "먼저 받은 사랑 때문에 사랑한다는 말은 도움받은 사람에게 감사 식사를 제안할지 고민하는 경우 받은 호의를 다시 전하는 실마리로 읽힐 수 있다.",
+      "contextNote": "우리가 사랑하는 이유를 먼저 주어진 하나님의 사랑으로 설명한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "A012",
+          "clue": "지난주 도움을 받은 고마운 마음을 식사 초대로 표현할 수 있다.",
+          "friction": "친구가 반드시 초대를 받아들이거나 특정 식사를 요구했다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "08266582ab7e55d9eefa4973101a9a6bab2c660ff2cb77ae758e8a884e727433"
+    },
+    {
+      "id": "KRV:1JN:4:20",
+      "status": "hold",
+      "reason": "하나님을 사랑한다고 하며 형제를 미워하는 말을 비판한다. 현재 친구에게 서운한 사람의 믿음이나 사랑 전체를 거짓으로 단정할 수 없다.",
+      "contextNote": "하나님을 향한 사랑과 보이는 형제에 대한 사랑을 대조한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "8bf054116a9d25b4448f3b92e5ae558a1304f51d5de311d72c3888e27b40c2c6"
+    },
+    {
+      "id": "KRV:1JN:4:21",
+      "status": "candidate",
+      "reason": "하나님을 사랑하는 자는 형제도 사랑하라는 권면은 같은 신앙 공동체의 새로운 사람을 문화가 낯설다는 이유로 멀리할지의 고민에 닿는다.",
+      "contextNote": "하나님을 사랑하는 자가 형제도 사랑할 계명을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C065",
+          "clue": "새로 온 신자를 같은 공동체 구성원으로 받아들이고 이야기를 나눌 수 있다.",
+          "friction": "새 사람과의 친밀한 관계나 상대의 반응이 이미 정해졌다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "481ba3efdd2431e0cac075a5d906b1198fd286ffb79461c29e97b34639d1e023"
+    },
+    {
+      "id": "KRV:1JN:5:1",
+      "status": "hold",
+      "reason": "예수가 그리스도이심을 믿는 사람과 그에게서 난 이를 사랑함에 관한 신앙 고백이다. 친구의 종교적 믿음이나 특정한 관계 결과를 추정할 수 없다.",
+      "contextNote": "그리스도를 믿는 이와 사랑의 관계를 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "9a5a0c76bf65424b00b66f472688aeed09156c8fbbae9169a35b4509bd26d165"
+    },
+    {
+      "id": "KRV:1JN:5:2",
+      "status": "hold",
+      "reason": "하나님을 사랑하고 계명을 지킴으로 자녀 사랑을 안다는 진술이다. 현실의 친구가 원하는 구체적 도움이나 현재 선택의 결과를 직접 알려주지 않는다.",
+      "contextNote": "하나님의 자녀를 사랑하는 것을 아는 방법을 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "c774438e7ca2d7d5caa69df1140ab83b94eb6c12bed6cd1bdb310c435ad925f2"
+    },
+    {
+      "id": "KRV:1JN:5:3",
+      "status": "hold",
+      "reason": "하나님을 사랑함이 계명을 지키는 것이며 계명이 무겁지 않다고 말한다. 실제 사용자가 가진 일과 돌봄의 부담이 없다고 부정하거나 특정 의무를 강제할 수 없다.",
+      "contextNote": "계명을 지키는 것과 하나님의 사랑을 연결한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "19b171d6d94206fd900debae90b1ac44b6aea6996a235559d509ab1ccc4827c0"
+    },
+    {
+      "id": "KRV:1JN:5:4",
+      "status": "hold",
+      "reason": "하나님께 난 자가 믿음으로 세상을 이긴다는 신앙적 표현이다. 실제 공모전이나 취업 경쟁에서 반드시 이긴다는 결과로 예측할 수 없다.",
+      "contextNote": "세상을 이기는 것과 믿음을 연결한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "b40b1163a0ae6a7546684bb6478ce2a98b51a9a83a81a25f222534c81f84f917"
+    },
+    {
+      "id": "KRV:1JN:5:5",
+      "status": "hold",
+      "reason": "예수를 하나님의 아들로 믿는 이와 세상을 이기는 것을 연결한 질문이다. 상대보다 앞설지나 실제 합격 결과를 알려주는 뜻이 아니다.",
+      "contextNote": "세상을 이기는 사람이 누구인지 묻는다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "02ef4d862d82fc5cffae77c7b9798e4c2013ca9d239dfabb24be5a144ab508c0"
+    },
+    {
+      "id": "KRV:1JN:5:6",
+      "status": "exclude",
+      "reason": "예수 그리스도에 관해 물과 피로 임하셨다고 말하는 신앙적 서술이며 문장이 이어진다. 실제 식수나 상처의 상태를 판단할 단서가 없다.",
+      "contextNote": "예수 그리스도의 물과 피에 관한 증언을 시작한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "4a7f82aa776561124e589003abbfaa0b6731d0e1e1965d638ef8c481196d97e3"
+    }
+  ]
+}

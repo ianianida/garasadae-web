@@ -1,0 +1,147 @@
+{
+  "bookCode": "2JN",
+  "corpusSha256": "f8d5c8b377e243b05fb884b4a6965d2c06a95de74b64a716ee4b95989d61e971",
+  "criteriaVersion": "garasadae-corpus-2026-10-08-v1",
+  "reviewer": "Codex terra_resume_gen",
+  "method": "direct-codex-reading",
+  "entries": [
+    {
+      "id": "KRV:2JN:1:1",
+      "status": "exclude",
+      "reason": "장로가 부녀와 자녀에게 편지하며 사랑하는 이유를 시작하는 서문이다. 문장이 다음 절로 이어져 단독으로 생활 선택의 단서를 주지 않는다.",
+      "contextNote": "요한이서의 발신자와 수신자를 소개한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "22b38997d9adaf7308796a7b7d657e5c8e128da1d9833d8d9cbbedfe8c9eafc3"
+    },
+    {
+      "id": "KRV:2JN:1:2",
+      "status": "exclude",
+      "reason": "앞 절의 사랑의 이유인 진리가 우리와 함께한다는 이어진 문장이다. 단독으로 구체적인 상황과 선택할 행동을 보여 주지 않는다.",
+      "contextNote": "사랑의 이유인 진리에 관한 문장이 이어진다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "e1de1d7fba8e97f245acbe871946d29ffab0a68d3a0b2549bee493199a2d0711"
+    },
+    {
+      "id": "KRV:2JN:1:3",
+      "status": "candidate",
+      "reason": "하나님으로부터 오는 은혜와 긍휼과 평강을 말하는 인사는 힘든 교회 친구에게 기도해 주겠다는 마음을 말할지의 고민에 닿는다.",
+      "contextNote": "편지의 수신자에게 은혜와 평강을 전한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "R022",
+          "clue": "당장 해결해 주지 못해도 친구에게 평안을 바라는 기도의 마음을 전할 수 있다.",
+          "friction": "현재 친구에게 어떤 응답이 생기거나 어려움이 끝난다고 확정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "0196f2486b045d96dd18219c652a0449553afd2921f717d9fed56279b618ff67"
+    },
+    {
+      "id": "KRV:2JN:1:4",
+      "status": "hold",
+      "reason": "수신자의 자녀들이 계명대로 행하는 모습을 본 기쁨을 말한다. 현재 사용자가 자녀를 두었거나 그 행동을 직접 봤다는 사실을 추가할 수 없다.",
+      "contextNote": "장로가 수신자 자녀들의 진실한 행실을 보고 기뻐한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "ff9b136c6ef04304d1908d7da493a70d33c8b0f5fa17a695f644a3763b9782a3"
+    },
+    {
+      "id": "KRV:2JN:1:5",
+      "status": "candidate",
+      "reason": "서로 사랑하자고 청하는 말은 친구의 작은 실수를 계속 떠올리며 다시 따질지 그냥 넘길지 고민할 때 관계에 두는 마음을 돌아보게 한다.",
+      "contextNote": "장로가 처음부터 가졌던 계명대로 서로 사랑하자고 부탁한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H028",
+          "clue": "친구를 아끼는 마음을 생각하며 작은 실수는 이번에 넘겨볼 수 있다.",
+          "friction": "서로 사랑한다는 말이 모든 잘못을 무조건 참거나 어떤 문제도 말하지 말라는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "4a5c16ce21bdb23ec45838a34e6cdb5c9f40be0762bdf74e80796fdfc8a7e6d1"
+    },
+    {
+      "id": "KRV:2JN:1:6",
+      "status": "hold",
+      "reason": "사랑을 계명을 따라 행하는 것으로 설명한다. 말을 날카롭게 하는 버릇을 돌아볼 여지는 있지만 어떤 구체적인 말과 습관을 바꿀지 단독으로 선명하지 않다.",
+      "contextNote": "사랑과 계명을 따라 행하는 것을 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "e565c765cb9a3d8424904e45e613f88ce9d3b57581d646cb82126c7e0ef482f2"
+    },
+    {
+      "id": "KRV:2JN:1:7",
+      "status": "hold",
+      "reason": "예수의 육체로 오심을 부인하는 자를 미혹하는 자로 부르는 종교적 경고다. 친구의 다른 의견이나 신앙 여부를 확인하지 않은 채 그런 인물로 규정할 수 없다.",
+      "contextNote": "편지에서 특정 가르침을 부인하는 이들을 경계한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "0c62e30faf1245ab01a566222695187c7ffa4d7f5d769640dab75e7e7ed3af57"
+    },
+    {
+      "id": "KRV:2JN:1:8",
+      "status": "hold",
+      "reason": "일한 것을 잃지 말고 온전한 상을 얻으라는 권면이다. 새 계획으로 바꾸면 지금까지 한 일이 반드시 사라지거나 기존 방식을 지키면 보상이 보장된다고 볼 수 없다.",
+      "contextNote": "독자들이 일한 것을 잃지 않도록 주의하라고 한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "093c49f8387c4e74908f2edf4f6909e8a3a2903011a7f3609bfd095e9c5d9e6a"
+    },
+    {
+      "id": "KRV:2JN:1:9",
+      "status": "hold",
+      "reason": "그리스도의 교훈에 머무름에 관한 종교적 진술이다. 현실의 이사나 직업을 계속할지의 공간적 선택에 옮길 근거는 없다.",
+      "contextNote": "그리스도의 교훈 안에 거하는 이들에 관해 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "8357c9738e25b39f11dfa970436ee5b10e47be0fbef2cc77fafd967dce062d6d"
+    },
+    {
+      "id": "KRV:2JN:1:10",
+      "status": "hold",
+      "reason": "특정 교훈을 갖지 않은 사람을 집에 들이거나 인사하지 말라는 종교 공동체의 경고다. 현재 새 사람이나 모임에 못 가겠다는 친구의 믿음을 단정하거나 무조건 배제할 근거가 아니다.",
+      "contextNote": "앞의 교훈을 따르지 않는 이들에 대한 대응을 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "1953b6dbf99821717ead5017260b8f43a1c32849a6a36545b553b8b744394a6c"
+    },
+    {
+      "id": "KRV:2JN:1:11",
+      "status": "hold",
+      "reason": "앞 절의 사람에게 인사하는 일이 그 행동에 참여한다고 설명한다. 단독으로 대상의 행동이 무엇인지 드러나지 않고 현실의 인사 자체를 잘못이라고 볼 수 없다.",
+      "contextNote": "앞 절에서 말한 이에게 인사하는 행동을 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "acb8f70723a7bcd892b2ac4f77f4ab7db949b9497928af174843e82d764849f8"
+    },
+    {
+      "id": "KRV:2JN:1:12",
+      "status": "candidate",
+      "reason": "쓸 것은 많지만 종이 대신 직접 만나 이야기하고 싶다는 말은 서운함을 참을지 친구에게 이야기할지의 고민에서 대화를 시작할 실마리가 된다.",
+      "contextNote": "장로가 직접 만나 이야기하여 함께 기뻐하기를 바란다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H026",
+          "clue": "서운한 마음을 혼자 묻어두기보다 친구를 만나 부드럽게 말해 볼 수 있다.",
+          "friction": "편지의 기쁨은 화자의 바람이며 실제 친구가 어떻게 반응할지는 모른다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "5c0ede8739fa1d37735113c36f1cef139b26fc1807eeccf24210f04d1cbcbb74"
+    },
+    {
+      "id": "KRV:2JN:1:13",
+      "status": "exclude",
+      "reason": "자매의 자녀들이 편지 수신자에게 안부를 전한다는 끝인사다. 현재 가족 관계나 고민의 선택 방향을 알려주지 않는다.",
+      "contextNote": "수신자 자매의 자녀들이 안부를 전한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "8fa4f562bcc9bd037685d8ef2d9de5cdd5e5d8d6d7d239d46b3f032aff552f51"
+    }
+  ]
+}
