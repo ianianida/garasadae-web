@@ -579,6 +579,2375 @@
       "readability": "thinkable",
       "connections": [],
       "textSha256": "5c1da8629c97c30234d006bcd4a6d7904da0fb5e23a53b02837907a2dcdea0ee"
+    },
+    {
+      "id": "KRV:HEB:4:10",
+      "status": "candidate",
+      "reason": "안식에 들어간 사람은 하나님이 자기 일을 쉬신 것처럼 자기 일을 쉰다고 한다. 시험 준비를 더 하고 싶지만 잠이 부족해 피곤한 사람이 오늘은 일을 놓고 쉬는 방향을 읽을 수 있다.",
+      "contextNote": "앞 절의 하나님의 백성에게 남은 안식을 이어 설명한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G13",
+          "clue": "하나님처럼 자기 일을 쉰다는 표현이 시험 전 잠을 보충할 선택에 닿는다.",
+          "friction": "본문은 신앙의 안식을 논하며 오늘 시험 준비가 이미 끝났다고 단정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "a00bac079dda744f140eb3e6ca89f24520622d0c7a6bfb49940ba8b709220e5c"
+    },
+    {
+      "id": "KRV:HEB:4:11",
+      "status": "hold",
+      "reason": "안식에 들어가기를 힘써 순종하지 않는 본에 빠지지 말라고 한다. 쉼을 위해 힘쓰는 역설이 있으나 순종하지 않는 본이 무엇인지 앞 문맥 없이 일상 선택에 곧바로 연결하기 어렵다.",
+      "contextNote": "광야 세대의 불순종과 약속된 안식에 관한 논증의 결론이다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "3d8e2ae9bbfc0720a88cc6e18378286f6d93322a8af37bf5afa621bce8728bcb"
+    },
+    {
+      "id": "KRV:HEB:4:12",
+      "status": "hold",
+      "reason": "하나님의 말씀이 날선 검보다 예리하고 마음의 생각과 뜻을 살핀다고 한다. 마음을 들여다본다는 인상은 강하지만 관절과 골수를 찌른다는 긴 비유와 함께 특정 선택이 이 절에서 정해지지는 않는다.",
+      "contextNote": "신앙적 불순종에 대한 권면 뒤 하나님의 말씀의 힘을 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "372bab7cbc10ab5f89f3eb2937a9d3bb0336a0cc83e5ef27aeee4c615c2b790e"
+    },
+    {
+      "id": "KRV:HEB:4:13",
+      "status": "candidate",
+      "reason": "모든 것이 하나님 앞에 벌거벗은 것처럼 드러난다고 한다. 아무도 모를 것 같아 실적을 과장할지 사실을 쓸지 고민하는 사람이 숨겨도 드러난다는 이미지에서 사실대로 쓰는 쪽을 떠올릴 수 있다.",
+      "contextNote": "앞 절에서 하나님의 말씀이 마음의 생각과 뜻을 감찰한다고 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C008",
+          "clue": "어떤 것도 보이지 않는 것이 없다는 표현이 남들이 놓칠 수 있는 과장을 다시 생각하게 한다.",
+          "friction": "본문은 하나님의 시선을 말하며 동료나 평가자가 실제로 과장을 발견할 것이라고 단정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "cfb2d2049a066492d21990890878187cf328b6f4805b3cffb423ce29cb9af19a"
+    },
+    {
+      "id": "KRV:HEB:4:14",
+      "status": "hold",
+      "reason": "승천한 하나님의 아들 예수가 대제사장이니 믿는 도리를 굳게 잡으라고 한다. 믿음을 지키는 방향은 분명하나 구체적 선택이나 행동이 현재 확인된 고민과 바로 맞는지는 불확실하다.",
+      "contextNote": "앞의 신앙적 권면에서 예수의 대제사장 역할로 넘어간다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "2b3b1039a700ee2b10676a57af76881c53c8a39c2a1d2c9c9ea50fd35d69bad2"
+    },
+    {
+      "id": "KRV:HEB:4:15",
+      "status": "hold",
+      "reason": "대제사장이 사람들의 연약함을 체휼하고 함께 시험받았으나 죄가 없다고 한다. 연약함을 이해한다는 위로는 있으나 체휼이라는 낯선 말의 뜻을 풀어야 느껴질 수 있다.",
+      "contextNote": "예수가 사람의 연약함을 아는 대제사장임을 설명하고 다음 절에서 나아오라고 권한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "b4e0819d46ae51af780026f5e3a220b305c80883ed6ae5d700cef2900bb970ba"
+    },
+    {
+      "id": "KRV:HEB:4:16",
+      "status": "candidate",
+      "reason": "긍휼과 때에 맞는 도움을 얻도록 은혜의 보좌 앞에 담대히 나아가라고 한다. 이미 사과하고 고치려 노력했어도 자신이 부끄러워 하나님께 기도하기 망설이는 사람이 다시 기도할 방향을 읽을 수 있다.",
+      "contextNote": "앞 절에서 연약함을 아는 대제사장 예수를 설명한 다음 하나님께 나아오도록 권한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "R021",
+          "clue": "긍휼과 도움을 바라며 담대히 나아가라는 말이 기도를 피하지 않을 선택과 닿는다.",
+          "friction": "보좌 앞에 나아감은 신앙적 비유이며 원하는 일이 특정 시점에 반드시 이루어진다고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "bacfd023f743d3decf360d46bf75f747b1154d2f95c627fbb27c517d718c1d29"
+    },
+    {
+      "id": "KRV:HEB:5:1",
+      "status": "exclude",
+      "reason": "대제사장이 사람을 위해 예물과 속죄 제사를 드리도록 세워진다고 설명한다. 제사장의 역할에 대한 설명이며 현재 확인된 생활 선택의 행동은 드러나지 않는다.",
+      "contextNote": "뒤에서 대제사장의 연약함과 부르심을 계속 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "b8c2e762d088b35f2cf81fb97b710322d049a4eb28c7f193b0a1fd29902de1b9"
+    },
+    {
+      "id": "KRV:HEB:5:2",
+      "status": "hold",
+      "reason": "대제사장도 연약함에 싸였으므로 무식하고 미혹한 자를 용납할 수 있다고 말한다. 상대에게 관대해질 생각은 가능하나 친구를 무식하거나 미혹됐다고 가정해야 하는 구체 고민은 확인되지 않는다.",
+      "contextNote": "바로 앞의 대제사장에 관한 설명을 잇는다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "8a4328bde6839cab0ef5b777d9eed74badeedf490df089ee999932f52fc8405e"
+    },
+    {
+      "id": "KRV:HEB:5:3",
+      "status": "hold",
+      "reason": "백성을 위해 속죄제를 드리는 것처럼 자기 자신을 위해서도 드리는 것이 마땅하다고 한다. 자기 잘못도 돌보는 태도를 떠올릴 수 있으나 실제 제사와 대제사장에 관한 설명이라 사과 후 기도 고민의 행동을 바로 정하기 어렵다.",
+      "contextNote": "앞 절에서 제사장 자신도 연약함이 있다고 말한 데 이어진다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "f6755d64a65be397e75b2049b4425f67fde2abe96925951926e49ad8f627cb78"
+    },
+    {
+      "id": "KRV:HEB:5:4",
+      "status": "hold",
+      "reason": "이 존귀는 스스로 취하지 못하고 아론처럼 하나님의 부르심을 입어야 한다고 한다. 역할을 맡을 자격에 관한 말이지만 대제사장의 특수한 부르심을 현재 동아리 지원의 자격으로 단정하면 안 된다.",
+      "contextNote": "아론의 제사장직을 예로 들어 직분이 부름으로 주어짐을 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "e8e45dd6e7750d8453e3f1f511c197def36356dbdd6d7c166f7e8d9d19ba7084"
+    },
+    {
+      "id": "KRV:HEB:5:5",
+      "status": "exclude",
+      "reason": "그리스도가 대제사장이 된 일은 스스로 영광을 취한 것이 아니라 하나님이 아들이라 말씀하신 일이라고 설명한다. 긴 인용과 직분의 근거가 중심으로 일상적 선택이 드러나지 않는다.",
+      "contextNote": "앞의 대제사장 부르심을 예수에게 적용하는 논증이다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "d910353152b67a2dcd6fab3b9e6dcb3a26e88fb1e1cf6f4c9f0baacfc11ee1d7"
+    },
+    {
+      "id": "KRV:HEB:5:6",
+      "status": "exclude",
+      "reason": "멜기세덱의 반차를 좇는 영원한 제사장이라는 말씀을 인용한다. 제사장의 계통과 예수의 직분을 설명하는 구절로 확인된 선택의 실마리는 보이지 않는다.",
+      "contextNote": "앞 절의 대제사장에 대한 인용을 이어간다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "a1a98a2651505b4c1cf4cd288267aa987482f29eff30d3aea66e2535ac83933c"
+    },
+    {
+      "id": "KRV:HEB:5:7",
+      "status": "candidate",
+      "reason": "예수가 육체에 계실 때 심한 통곡과 눈물로 간구와 소원을 올렸다고 한다. 눈물이 날 것 같아 기도를 참고 있는 사람이 우는 마음 그대로 기도할 쪽으로 읽을 수 있다.",
+      "contextNote": "예수의 고난과 기도를 설명하며 경외함으로 들으심을 얻었다고 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A056",
+          "clue": "눈물과 통곡으로 간구를 올렸다는 표현이 울면서 기도할지의 고민에 선명하게 닿는다.",
+          "friction": "본문의 죽음과 관련된 상황을 사용자가 겪는다고 가정하지 않고 원하는 결과가 바로 이루어진다고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "8eea313cd5ed1397d0d27de5b7ee2701c44f61f4471e2c0912aa33bafaf7e23d"
+    },
+    {
+      "id": "KRV:HEB:5:8",
+      "status": "hold",
+      "reason": "아들이라도 받은 고난으로 순종을 배웠다고 한다. 어려움 가운데 배운다는 느낌은 있으나 문장이 다음 절로 이어지고 현재 무엇을 선택할지는 선명하지 않다.",
+      "contextNote": "예수의 고난과 순종을 설명하는 문장 일부다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "5d36eeb6b8be90dbc0d083a927c10b28f002893910a283966f82f493cd4efbcd"
+    },
+    {
+      "id": "KRV:HEB:5:9",
+      "status": "exclude",
+      "reason": "온전하게 되어 순종하는 이들에게 영원한 구원의 근원이 되었다고 말한다. 앞 절의 주어와 신앙적 논증을 알아야 하며 생활 선택을 위한 직접 단서는 나타나지 않는다.",
+      "contextNote": "앞 절의 예수의 고난과 순종을 이어가는 문장이다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "cb60fee3a688c90143277a459725217286d567e4a107d5ba964e3e1677491361"
+    },
+    {
+      "id": "KRV:HEB:5:10",
+      "status": "exclude",
+      "reason": "하나님께 멜기세덱의 반차를 좇은 대제사장이라 칭함을 받았다고 한다. 대제사장의 계통을 설명하는 짧은 진술로 현재 고민의 선택에 닿지 않는다.",
+      "contextNote": "예수의 대제사장직을 다룬 신학적 서술이다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "24fd37c3ad13e3a2b14d713b54cdf4a3046f584af89f32cce8d166448ad375fb"
+    },
+    {
+      "id": "KRV:HEB:5:11",
+      "status": "hold",
+      "reason": "멜기세덱에 관해 할 말이 많지만 듣는 것이 둔해 해석하기 어렵다고 말한다. 어려운 내용을 배우려는 고민이 떠오를 수 있으나 독자의 둔함을 책망하는 말이어서 직접 질문할 선택을 격려한다고 단정하기 어렵다.",
+      "contextNote": "앞의 멜기세덱에 대한 설명을 잠시 멈추며 독자들의 이해를 지적한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "18ac543a73553785f6548b5d6293a4486e57e90c392004e7c4fedf842b0b41fa"
+    },
+    {
+      "id": "KRV:HEB:5:12",
+      "status": "hold",
+      "reason": "오래되어 선생이 될 때인데 다시 말씀의 초보를 배워야 하며 젖만 먹는 자가 되었다고 한다. 기초를 다시 배우라는 방향은 있지만 상대를 어린아이에 빗대는 긴 책망이 질문하기 망설이는 현재 사용자에게 부담을 줄 수 있다.",
+      "contextNote": "듣는 것이 둔하다는 앞 절에 이어 독자들의 성숙 부족을 비판한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "ff31888402ba61f079f286c1f2e79db85d50a31c1cf0893d01c88d65d5580abe"
+    },
+    {
+      "id": "KRV:HEB:5:13",
+      "status": "hold",
+      "reason": "젖을 먹는 사람은 어린아이로 의의 말씀을 경험하지 못했다고 한다. 배움의 초보라는 비유는 보이지만 실제로 무엇을 배우거나 누구에게 물을지의 선택은 구체적이지 않다.",
+      "contextNote": "앞의 젖과 단단한 음식의 비유를 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "7ebc3f8a58887fe4f9ec3cf3cf476c3605991f92e3dace4b71cfc418dbdbaff3"
+    },
+    {
+      "id": "KRV:HEB:5:14",
+      "status": "hold",
+      "reason": "장성한 사람은 지각을 사용해 연단을 받아 선악을 분별한다고 한다. 경험을 통해 분별한다는 방향은 있지만 현재 어떤 선택을 해야 하는지는 이 절만으로 분명하지 않다.",
+      "contextNote": "앞의 젖과 단단한 음식의 비유를 성숙한 사람에게 적용한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "4fdbe7d4d44d11e22bca1969a5b8a6f8c73847f352a2a428f3237f592a6e0a53"
+    },
+    {
+      "id": "KRV:HEB:6:1",
+      "status": "exclude",
+      "reason": "그리스도 도의 초보를 버리고 회개와 신앙을 말하며 다음 절로 문장이 이어진다. 이 절만으로는 완결된 생활 선택의 단서를 읽기 어렵다.",
+      "contextNote": "다음 절의 세례와 부활 등 기초 교훈을 이어 말한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "77b00afa235580a73800e5b571da91018c5170a92ee91b7d4863880869015b1d"
+    },
+    {
+      "id": "KRV:HEB:6:2",
+      "status": "hold",
+      "reason": "세례와 안수와 부활과 심판의 기초를 다시 닦지 말고 완전한 데 나아가라고 한다. 준비만 반복하지 말라는 연상은 가능하지만 종교 교리의 기초가 현재 프로젝트 준비와 같다고 단정하기 어렵다.",
+      "contextNote": "앞 절에서 시작한 신앙의 초보와 교훈의 터를 이어 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "f9bfebefdb8eddb90c508baba9e7b1218ecabb75eba48a103207c5727d4c40a3"
+    },
+    {
+      "id": "KRV:HEB:6:3",
+      "status": "hold",
+      "reason": "하나님이 허락하시면 우리가 이것을 하겠다고 한다. 조건을 붙여 말하는 태도는 보이지만 무엇을 하려는지 앞 문맥에 의존해 현재 약속의 조건을 직접 판단하기 어렵다.",
+      "contextNote": "앞의 신앙적 기초를 넘어 나아가겠다는 문장에 덧붙인 말이다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "538ef4c8a3eb93a5f5edf576a35b261176a30c76698fe9a7548689b5aec65a76"
+    },
+    {
+      "id": "KRV:HEB:6:4",
+      "status": "exclude",
+      "reason": "한번 비췸을 얻고 은사를 맛보며 성령에 참여한 사람들이라고 대상을 나열한다. 조건절이 이어지는 문장 일부로 혼자 읽어 구체적인 선택을 정하기 어렵다.",
+      "contextNote": "다음 절들과 이어지는 신앙에서의 타락에 관한 긴 문장의 시작이다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "ab96fa1f4092b74c4a79f6c911e5c2692bad676d745379adf81df7577870dbfe"
+    },
+    {
+      "id": "KRV:HEB:6:5",
+      "status": "exclude",
+      "reason": "하나님의 선한 말씀과 내세의 능력을 맛보았다고 이어 말한다. 앞뒤에 의존하는 문장의 일부로 확인된 고민에 대한 독립적인 행동이 나타나지 않는다.",
+      "contextNote": "앞의 성령에 참여한 사람들에 대한 나열을 계속한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "907a314f9497c89b7c696f2200efdbc22160086a7f2b11b4a2a85779795e6ebe"
+    },
+    {
+      "id": "KRV:HEB:6:6",
+      "status": "exclude",
+      "reason": "타락한 사람을 다시 새롭게 해 회개하게 할 수 없으며 하나님의 아들을 다시 십자가에 못 박는다고 한다. 특정 신앙적 타락에 관한 강한 경고로 사과하고 고치려는 일반적 고민에 그대로 옮길 근거가 없다.",
+      "contextNote": "앞 절들에서 신앙의 은사를 경험한 사람들에 대한 긴 문장이 완결된다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "2e73fe7220c0dccc816c1af5991a5fc8399d0ea77c7cf404281d41d2ded1d753"
+    },
+    {
+      "id": "KRV:HEB:6:7",
+      "status": "hold",
+      "reason": "자주 내리는 비를 흡수한 땅이 밭 가는 이들에게 쓸모 있는 채소를 내면 복을 받는다고 한다. 받은 것을 결실로 바꾸는 이미지는 있으나 구체 고민의 선택과 어느 방향으로 연결되는지는 불확실하다.",
+      "contextNote": "다음 절의 가시와 엉겅퀴를 내는 땅과 대비하는 비유다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "3d35e1b25302fbc4b923e64b44afc4fa9790bafc9a3ebd074c8d74192d4f078f"
+    },
+    {
+      "id": "KRV:HEB:6:8",
+      "status": "exclude",
+      "reason": "가시와 엉겅퀴를 내는 땅은 버림을 받고 저주에 가까워 마지막에 불사름을 당한다고 한다. 심판의 비유가 중심이며 확인된 일상 고민의 어느 행동을 택할지 곧바로 읽기 어렵다.",
+      "contextNote": "앞 절의 유익한 채소를 내는 땅과 대비한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "aecdda7305c2351accc30aad223ffc3e45b4e67c7d35b6a2f3320cfcf70dfd8e"
+    },
+    {
+      "id": "KRV:HEB:6:9",
+      "status": "hold",
+      "reason": "사랑하는 사람들에게 더 나은 것과 구원에 가까운 것을 확신한다고 한다. 위로의 어조는 있으나 앞의 경고보다 나은 것이 무엇인지와 현재 고민의 선택은 단독으로 분명하지 않다.",
+      "contextNote": "앞의 타락에 대한 엄한 경고에서 독자들에 대한 긍정적 기대를 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "054fecb9eba00bb21543090250877bff6731824a9a4455303712b9a30fd0fd15"
+    },
+    {
+      "id": "KRV:HEB:6:10",
+      "status": "candidate",
+      "reason": "하나님이 이전부터 지금까지 성도를 섬긴 일과 사랑을 잊지 않으신다고 한다. 눈에 띄지 않는 교회 봉사 역할이 하찮아 보여 더 주목받는 역할로 바꿀지 고민하는 사람이 지금의 돕는 일을 가치 있게 볼 수 있다.",
+      "contextNote": "믿는 공동체의 섬김과 사랑에 대한 하나님의 기억을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C064",
+          "clue": "눈에 띄지 않아도 섬긴 일을 하나님이 잊지 않는다는 말이 지금 잘하는 뒷일의 가치를 떠올리게 한다.",
+          "friction": "본문은 성도를 섬긴 일을 말하며 현재 봉사자 모두의 신앙이나 사람들이 사용자의 노력을 이미 알아봤는지 단정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "97d7b6b3065f14feb84bb1155496b85db8ba6bdf3acf81d30f728d90b27c7565"
+    },
+    {
+      "id": "KRV:HEB:6:11",
+      "status": "hold",
+      "reason": "각 사람이 같은 부지런함을 나타내어 끝까지 소망의 풍성함에 이르기를 원한다고 말한다. 끝까지 힘쓴다는 방향은 있지만 문장이 다음 절로 이어지고 현재 어떤 일을 지속할지 구체적이지 않다.",
+      "contextNote": "공동체의 지난 사랑과 섬김을 기억하신다는 격려 뒤에 이어진다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "9cefc2adc8ec26697c727e553d7e9d683d1743c3700d124461668d5bfb8542c1"
+    },
+    {
+      "id": "KRV:HEB:6:12",
+      "status": "hold",
+      "reason": "게으르지 말고 믿음과 오래 참음으로 약속들을 기업으로 받는 사람들을 본받으라고 한다. 기다리는 태도는 보이지만 기업이라는 종교적 표현과 특정 약속이 명시되지 않은 현재 판매 고민이 정확히 맞는지는 불확실하다.",
+      "contextNote": "앞 절의 끝까지 부지런하라는 말에 이어지는 문장이다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "93dae2a5494317f2a2c65b778ceec39dd0b3b9e4a8cc79d88f0f67d4604a2abc"
+    },
+    {
+      "id": "KRV:HEB:6:13",
+      "status": "exclude",
+      "reason": "하나님이 아브라함에게 약속할 때 자기보다 큰 이가 없어 자신을 가리켜 맹세하셨다고 한다. 특정 약속의 맹세 방식에 관한 설명으로 현재 생활의 선택지를 직접 비추지 않는다.",
+      "contextNote": "다음 절에서 아브라함에게 하신 약속을 인용한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "22f415f8a4f260b549312955510b805089ddb5a46864e20d215196a9556afc09"
+    },
+    {
+      "id": "KRV:HEB:6:14",
+      "status": "candidate",
+      "reason": "반드시 복을 주고 번성하게 하겠다는 반복적인 축복의 말이다. 갖고 싶던 것을 이제 살 수 있지만 사치 같아 누릴지 참을지 고민하는 사람이 복을 기쁘게 받아들이는 쪽으로 읽을 수 있다.",
+      "contextNote": "하나님이 아브라함에게 주신 약속을 인용한 말이며 앞 절에서 그 수신자를 밝힌다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H009",
+          "clue": "복을 주고 번성하게 한다는 말이 이미 감당할 수 있는 누림을 죄책감 없이 받아들이는 느낌을 줄 수 있다.",
+          "friction": "구매를 직접 허락하거나 현재 사용자에게 돈이나 번성이 반드시 생긴다고 보장하는 말은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "4bb27a34dc68704c71e05c017cca5fdee4d5bc40e41036be2e9372180db84a49"
+    },
+    {
+      "id": "KRV:HEB:6:15",
+      "status": "hold",
+      "reason": "그가 이처럼 오래 참아 약속을 받았다고 말한다. 기다림을 떠올릴 수 있으나 현재 물건이 팔리기로 누군가 약속했다는 조건은 없고 인물과 약속도 앞 절에 의존한다.",
+      "contextNote": "앞 절의 아브라함이 하나님에게서 받은 약속을 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "52fe02e7f9eb5ae34c04fb8d16bb455e1ae221e73619dcc6a0f9bece592f5d49"
+    },
+    {
+      "id": "KRV:HEB:6:16",
+      "status": "hold",
+      "reason": "사람들은 자신보다 더 큰 이를 가리켜 맹세하며 맹세가 다툼을 최종 확정한다고 말한다. 말의 무게는 떠오르지만 맹세와 불확실한 일정에 대한 일상적 약속은 동일하지 않다.",
+      "contextNote": "하나님의 약속과 맹세를 설명하기 위한 사람들의 관습이다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "f9a95d076ad7e8afa85b4612a8ebf5506d368cec048d797d4cfcf10171f8ef0d"
+    },
+    {
+      "id": "KRV:HEB:6:17",
+      "status": "hold",
+      "reason": "하나님이 약속을 받는 이들에게 뜻이 변하지 않음을 나타내려고 맹세로 보증하셨다고 한다. 약속의 신실함은 드러나지만 지금 고민하는 거래 상대가 이를 보증했다는 식으로 옮길 수 없다.",
+      "contextNote": "아브라함에게 주신 하나님의 약속의 신뢰성을 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "c16a7d09cdcb0520fbc54b8ece09dbe3ee25b275a96b573df2bf723b70946d76"
+    },
+    {
+      "id": "KRV:HEB:6:18",
+      "status": "hold",
+      "reason": "하나님이 거짓말하실 수 없는 변치 못할 사실로 소망을 찾아 피하는 이들에게 큰 위로를 주신다고 한다. 위로와 소망은 있으나 앞의 두 사실이 무엇인지 알아야 긴 문장을 따라갈 수 있다.",
+      "contextNote": "앞에서 말한 하나님의 약속과 맹세를 믿는 근거로 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "0c1473de25fcd31954775b278562c76e081273a20f65b16548d12e0ce6c0ba54"
+    },
+    {
+      "id": "KRV:HEB:6:19",
+      "status": "hold",
+      "reason": "소망이 튼튼하고 견고한 영혼의 닻 같아 휘장 안에 들어간다고 말한다. 흔들릴 때 닻이라는 이미지는 좋지만 휘장 안으로 들어간다는 뒷말까지 현재 선택과 연결하기는 어렵다.",
+      "contextNote": "다음 절에서 예수가 앞서 들어간 대제사장이라고 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "8c4091c6b25fb4d62cc4167aeaa11e079d2abda4d9b26cb21169e3e01586a8fe"
+    },
+    {
+      "id": "KRV:HEB:6:20",
+      "status": "exclude",
+      "reason": "예수가 멜기세덱의 반차를 좇는 영원한 대제사장이 되어 앞서 들어가셨다고 한다. 앞 절의 장소와 제사장 계통에 대한 설명으로 지금의 구체 선택은 나타나지 않는다.",
+      "contextNote": "앞 절의 휘장 안에 들어간 소망과 예수를 잇는다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "0bf8b4bb746eeda30b4a243452d4d27a48dac1e56396166c70be50463d3dedbb"
+    },
+    {
+      "id": "KRV:HEB:7:1",
+      "status": "exclude",
+      "reason": "살렘 왕이자 제사장인 멜기세덱이 전쟁 뒤 아브라함을 만나 복을 빌었다고 소개한다. 특정 인물과 전쟁의 역사 서술로 현재 확인된 선택의 방향은 드러나지 않는다.",
+      "contextNote": "다음 절부터 멜기세덱의 이름과 제사장직을 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "92f26bfb0161f9acd536f00ed1e7354d9d13ae0200d36842d468c5c6b7a20eb8"
+    },
+    {
+      "id": "KRV:HEB:7:2",
+      "status": "hold",
+      "reason": "아브라함이 십분의 일을 주었다고 말하고 멜기세덱 이름을 의의 왕과 평강의 왕으로 풀이한다. 나눔은 보이나 특정한 십분의 일이 현재 생활비가 빠듯한 사람에게 요구된다고 단정할 수 없다.",
+      "contextNote": "앞 절의 멜기세덱이 아브라함을 축복한 사건을 이어 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "73d9db2a044e9598271bc26f64c514a99632becb35c093276a99907a82a743de"
+    },
+    {
+      "id": "KRV:HEB:7:3",
+      "status": "exclude",
+      "reason": "아비와 어미와 족보와 시작과 끝이 없어 하나님의 아들과 비슷하고 항상 제사장이라고 한다. 인물의 상징적 제사장직을 설명하는 문장으로 구체 고민의 선택 단서가 없다.",
+      "contextNote": "멜기세덱에 대한 성경 기록을 영원한 제사장직과 연결한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "6a6d1ea2d8c6698e1f177b38eca37e5a428e8f00b17d436b9768796e1f47adf6"
+    },
+    {
+      "id": "KRV:HEB:7:4",
+      "status": "hold",
+      "reason": "아브라함이 노략물 중 좋은 것의 십분의 일을 주었다며 그 인물의 높음을 생각하라고 한다. 좋은 것을 나눈다는 장면은 있지만 전쟁의 노략물과 제사장의 위상이 중심이어서 선물이나 헌금의 구체 선택에 그대로 적용하기 어렵다.",
+      "contextNote": "멜기세덱의 지위가 높음을 십일조로 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "a0035c43de0b2b03152a7feece664fb89633bce9e1ac2e2c3487900afba63778"
+    },
+    {
+      "id": "KRV:HEB:7:5",
+      "status": "exclude",
+      "reason": "레위의 아들인 제사장이 율법을 따라 백성에게서 십분의 일을 취하라는 명령을 가졌다고 한다. 계보와 제사장 규정의 긴 설명이며 확인된 고민의 자발적 선택을 직접 가리키지 않는다.",
+      "contextNote": "다음 절의 레위 족보에 들지 않은 멜기세덱과 비교한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "d3b36eb524b4becc7cf14364048033d76012bf7bd374bfb4191c61347c037f4d"
+    },
+    {
+      "id": "KRV:HEB:7:6",
+      "status": "exclude",
+      "reason": "레위 족보에 들지 않은 멜기세덱이 아브라함에게 십분의 일을 받고 약속 얻은 이를 위해 복을 빌었다고 한다. 특정 인물과 계보의 역사적 관계를 설명한다.",
+      "contextNote": "제사장 계통의 우열을 논증하는 구절이다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "bfa7fc74b99330afa6471c556c76629eb942fdccee2ed35faf9242eb4050fa52"
+    },
+    {
+      "id": "KRV:HEB:7:7",
+      "status": "exclude",
+      "reason": "낮은 자가 높은 자에게 복빎을 받는다고 결론짓는다. 폐일언이라는 낯선 표현과 지위 비교가 중심이며 현재 선택지를 직접 비추지 않는다.",
+      "contextNote": "앞의 멜기세덱이 아브라함을 축복한 사건을 해석한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "e1755546371bbd6346de11523248c57cd86b2e82592b4742d6d631ba31fca3c7"
+    },
+    {
+      "id": "KRV:HEB:7:8",
+      "status": "exclude",
+      "reason": "여기서는 죽을 사람들이 십분의 일을 받고 저기서는 산다고 증거된 사람이 받았다고 비교한다. 여기와 저기의 대상이 앞뒤 설명 없이는 명확하지 않다.",
+      "contextNote": "레위 계통과 멜기세덱의 제사장직을 비교한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "6f93edacbbc7d78a8a8c41876d33ed5a85c869c5128e12d21dc1e4a34b83a2ac"
+    },
+    {
+      "id": "KRV:HEB:7:9",
+      "status": "exclude",
+      "reason": "십분의 일을 받는 레위도 아브라함을 통해 십분의 일을 바쳤다고 할 수 있다고 한다. 계보를 이용한 신학 논증이지 생활 속 지금 선택의 단서는 아니다.",
+      "contextNote": "아브라함이 멜기세덱에게 십분의 일을 준 사건을 해석한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "5671e49de37b33fe74624e4170042b01f4af1456d827f64ed0b4ff18f78e7f8e"
+    },
+    {
+      "id": "KRV:HEB:7:10",
+      "status": "exclude",
+      "reason": "멜기세덱이 아브라함을 만날 때 레위가 아직 조상의 허리에 있었다고 말한다. 인물의 계보를 설명하는 은유로 구체 고민과 직접 연결하기 어렵다.",
+      "contextNote": "앞 절에서 레위가 아브라함을 통해 십분의 일을 바쳤다는 근거다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "5b631a41e4cd88608caca8582dde72de1ddc4bfa7ce13c8a6f2cc66139aa3a1c"
+    },
+    {
+      "id": "KRV:HEB:7:11",
+      "status": "exclude",
+      "reason": "레위 제사 직분으로 온전함을 얻었다면 다른 계통의 제사장을 세울 필요가 있느냐고 묻는다. 율법과 제사 계통을 비교하는 긴 질문으로 생활의 구체적인 선택지가 없다.",
+      "contextNote": "아론 계통과 멜기세덱 계통을 대조하는 논증이다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "966d7f49972fcb70cb707e51b32c90b0ffda4900e3ffb569fb32639458908fae"
+    },
+    {
+      "id": "KRV:HEB:7:12",
+      "status": "hold",
+      "reason": "제사 직분이 변하면 율법도 반드시 변한다고 말한다. 제도가 바뀌면 규칙도 바뀐다는 방향을 떠올릴 수 있지만 변역이라는 낯선 말과 종교 제사직의 조건을 설명 없이 알아보기 어렵다.",
+      "contextNote": "앞 절의 제사장 계통 변화에 관해 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "a9a2a6f99703d8a853f2b84f7bd6c970776dba62e7d99a135633eced4ec2c5a4"
+    },
+    {
+      "id": "KRV:HEB:7:13",
+      "status": "exclude",
+      "reason": "이것이 제단 일을 맡지 않는 다른 지파에 속한 사람을 가리킨다고 한다. 무엇을 가리키는지와 인물의 지파를 앞뒤 구절에 의존한다.",
+      "contextNote": "제사장 계통 변화와 예수의 지파에 관한 설명이다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "7094664736eab870c6dd88e0bcc57cb21b995e63c231210734db858c3170eaef"
+    },
+    {
+      "id": "KRV:HEB:7:14",
+      "status": "exclude",
+      "reason": "주가 유다 지파에서 나셨고 모세가 이 지파의 제사장에 관해 말한 것이 없다고 한다. 특정 지파와 제사장 규정의 논증으로 현재 생활 선택을 직접 비추지 않는다.",
+      "contextNote": "앞 절의 제단 일을 맡지 않는 다른 지파를 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "cdb1571a18347e70e4714c44cd75b3e31d4e6f1f56470dae1530ff82b89a196b"
+    },
+    {
+      "id": "KRV:HEB:7:15",
+      "status": "exclude",
+      "reason": "멜기세덱 같은 다른 제사장이 일어났으므로 더욱 분명하다고 말한다. 무엇이 분명한지 앞 문맥이 필요한 제사장 계통 설명이다.",
+      "contextNote": "앞의 제사장직 변화에 대한 논증을 이어간다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "f6b73142796a80ddf48bb80cda91049c4fcfb9a1200579f8f1fc1aa9f601ee54"
+    },
+    {
+      "id": "KRV:HEB:7:16",
+      "status": "exclude",
+      "reason": "그가 육체에 관련된 계명의 법이 아니라 무궁한 생명의 능력을 따라 되었다고 한다. 주어와 무엇이 되었는지를 앞 문맥에서 알아야 하므로 단독으로 선택의 실마리를 잡기 어렵다.",
+      "contextNote": "예수의 제사장직 근거를 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "25059e5e41bfd9a35e581c39a1afd36446b7760cdc95646f5df7dbd61d8841c5"
+    },
+    {
+      "id": "KRV:HEB:7:17",
+      "status": "exclude",
+      "reason": "영원히 멜기세덱의 반차를 좇는 제사장이라는 말씀으로 증거한다고 한다. 특정 직분에 대한 인용이며 현재 구체 고민의 행동은 드러나지 않는다.",
+      "contextNote": "바로 앞의 다른 제사장에 관한 논증을 성경 인용으로 뒷받침한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "49dd34741a2f82d8f466034f67f4ed22dadc2043577ea211e1de1ef7e0de5508"
+    },
+    {
+      "id": "KRV:HEB:7:18",
+      "status": "hold",
+      "reason": "이전 계명이 연약하고 무익하므로 폐한다고 말하며 문장이 다음 절로 이어진다. 효과 없는 방식을 바꾸는 연상은 가능하지만 계명의 의미와 연결이 단독으로는 부족하다.",
+      "contextNote": "옛 제사장 계명과 새로운 소망을 비교하는 논증의 일부다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "fcd77ac688e1353e0ffb9e34bde08c732e48da1890571da9ed8092564650a8be"
+    },
+    {
+      "id": "KRV:HEB:7:19",
+      "status": "candidate",
+      "reason": "율법이 아무것도 온전하게 하지 못하지만 더 좋은 소망으로 하나님께 가까이 간다고 한다. 이전 잘못 때문에 충분히 나은 사람이 될 때까지 세례 준비를 미룰지 고민하는 사람이 완벽해지기 전에도 하나님께 가까이 가는 쪽을 떠올릴 수 있다.",
+      "contextNote": "옛 제사장 계명과 예수를 통한 더 좋은 소망을 대비한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C018",
+          "clue": "온전함을 먼저 만들어야 한다는 부담과 하나님께 가까이 간다는 표현이 세례 준비의 망설임과 닿는다.",
+          "friction": "본문은 율법과 신앙의 소망을 논하며 세례나 현재 사람의 자격을 판정하는 문장은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "7c52ccd73d6f1f8eece9bb6f07554a04168872236b1c3432abd1bc1be7f656d1"
+    },
+    {
+      "id": "KRV:HEB:7:20",
+      "status": "exclude",
+      "reason": "예수가 제사장이 된 것은 맹세 없이 이루어진 것이 아니라고 한다. 특정 직분에 관한 논증의 한 문장으로 현재 구체적인 선택은 나타나지 않는다.",
+      "contextNote": "다음 절의 하나님의 맹세를 인용하는 도입이다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "9fb726837d87e3e76c110f0dffed38ff50a1e246494217fd6719728f9fa606eb"
+    },
+    {
+      "id": "KRV:HEB:7:21",
+      "status": "exclude",
+      "reason": "다른 제사장과 달리 예수는 하나님의 맹세로 영원한 제사장이 되었다는 긴 괄호 문장이다. 직분의 근거를 설명하며 확인된 생활 고민의 행동 단서가 드러나지 않는다.",
+      "contextNote": "앞 절의 맹세와 제사장직을 상세히 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "96797bbca2f57840dfb59249a0b1423eb94268d62606e4006e800b96345f4918"
+    },
+    {
+      "id": "KRV:HEB:7:22",
+      "status": "hold",
+      "reason": "예수가 더 좋은 언약의 보증이 되셨다고 한다. 신뢰를 떠올릴 수 있지만 무슨 언약인지 구절만으로 알기 어렵고 거래 상대나 약속의 실현을 보장하는 뜻으로 옮겨서는 안 된다.",
+      "contextNote": "제사장직에 대한 하나님의 맹세를 예수의 언약에 연결한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "2fa3708e207f6c0e25ba7b8e228a02701ae95385f514ca813d7d3630d4ca67f5"
+    },
+    {
+      "id": "KRV:HEB:7:23",
+      "status": "exclude",
+      "reason": "제사장이 많았던 까닭은 죽음 때문에 항상 있지 못했기 때문이라고 설명한다. 제사장 직분의 역사적 제약을 말하며 현재 구체 선택과 연결하기 어렵다.",
+      "contextNote": "다음 절에서 영원한 예수의 직분과 비교한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "b50753cb0b7f28dc8135701bc073d9896648dcbb5ed13d876ebe088ea390bde8"
+    },
+    {
+      "id": "KRV:HEB:7:24",
+      "status": "exclude",
+      "reason": "예수는 영원히 계시므로 제사 직분이 갈리지 않는다고 말한다. 신앙의 교리에 대한 설명으로 생활 속 두 선택 중 무엇을 바라볼지 명확하지 않다.",
+      "contextNote": "죽음 때문에 교체되는 제사장들과 대비한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "5d034c6f7f40d37b9cb04326e023b1c8b74afa286ab19ad9c34782ba476adaee"
+    },
+    {
+      "id": "KRV:HEB:7:25",
+      "status": "candidate",
+      "reason": "예수를 힘입어 하나님께 나아가는 사람을 온전히 구원할 수 있으며 그가 그들을 위하여 항상 간구한다고 한다. 자신의 잘못 때문에 기도하기 부끄러워하지만 이미 사과하고 고치려는 사람이 다시 하나님께 나아갈 수 있다고 읽을 여지가 있다.",
+      "contextNote": "예수가 영원한 대제사장으로 중보하심을 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "R021",
+          "clue": "하나님께 나아가는 사람을 위하여 항상 간구한다는 말이 죄책감으로 기도를 피하는 마음과 닿는다.",
+          "friction": "본문은 예수의 중보와 구원을 말하며 친구의 반응이나 현재 기도의 구체적 결과를 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "a8461274f1452b0430d1c61583bf254343de53b62c5c4f3c28a340f6b6c9ab52"
+    },
+    {
+      "id": "KRV:HEB:7:26",
+      "status": "hold",
+      "reason": "대제사장이 거룩하고 악과 더러움이 없으며 죄인에게서 떠나 하늘보다 높다고 한다. 거룩함에 관한 설명이지만 죄책감에 기도를 망설이는 사람이 죄인에게서 떠났다는 말로 오히려 멀어졌다고 느낄 수 있다.",
+      "contextNote": "대제사장 예수의 거룩한 성품을 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "d89c1bb503c6f3a321eac6f0762a642ea3110f3263f649a1ea4a760ea0447567"
+    },
+    {
+      "id": "KRV:HEB:7:27",
+      "status": "hold",
+      "reason": "다른 제사장과 달리 예수는 날마다 자기와 백성의 죄를 위한 제사를 반복할 필요 없이 단번에 자신을 드렸다고 한다. 용서의 가능성은 떠오르나 길고 제사 설명이 많아 현재 사과 후 기도 선택과의 연결이 단번에 명확하지 않을 수 있다.",
+      "contextNote": "예수의 제사와 반복되는 기존 제사를 대비한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "8a1298a545c767d92816b7831237ac64c95f1fda1d52263e21526c3e1102f436"
+    },
+    {
+      "id": "KRV:HEB:7:28",
+      "status": "exclude",
+      "reason": "율법이 약점을 가진 사람들을 제사장으로 세웠고 맹세의 말씀은 영원히 온전한 아들을 세웠다고 한다. 두 제사장직의 차이를 설명하며 구체 생활 선택이 나타나지 않는다.",
+      "contextNote": "앞 절들의 제사장 비교를 마무리한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "de4e77fc0b95c831c991b55ae3f5aa4832302fc3d4c132c8b537545d436943f2"
+    },
+    {
+      "id": "KRV:HEB:8:1",
+      "status": "exclude",
+      "reason": "말의 중요한 점으로 하늘의 보좌 우편에 앉은 대제사장이 우리에게 있다고 말한다. 신앙 설명의 요약이지 사용자가 고를 행동이 드러나지 않는다.",
+      "contextNote": "앞 장의 예수의 대제사장직을 요약한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "564f48d1e866b7695f7f62373fa9809f4098aa83b88db6a8fc7fb29df0a6319c"
+    },
+    {
+      "id": "KRV:HEB:8:2",
+      "status": "exclude",
+      "reason": "성소와 참장막을 섬기며 그 장막은 사람이 아닌 주가 베푸셨다고 한다. 성소의 성격을 설명하는 문장으로 일상적 선택과의 연결이 분명하지 않다.",
+      "contextNote": "앞 절의 대제사장 예수가 섬기는 곳을 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "c9fc6c509ab7f9382e1999f294209ab00882f81dcca985aeb0d1a1461ff9a5b0"
+    },
+    {
+      "id": "KRV:HEB:8:3",
+      "status": "exclude",
+      "reason": "대제사장은 예물과 제사를 드리도록 세워졌으므로 그에게도 드릴 것이 있어야 한다고 한다. 제사장의 직무 논증으로 현재 지출이나 선물의 선택을 직접 가리키지 않는다.",
+      "contextNote": "예수의 대제사장 사역을 기존 제사장과 비교하기 시작한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "d8c982603665882109cb223fc362033bfcd551b5ed4d701561b866b7cbb30fc5"
+    },
+    {
+      "id": "KRV:HEB:8:4",
+      "status": "exclude",
+      "reason": "예수가 땅에 계셨다면 율법을 따라 예물을 드리는 제사장이 이미 있어 제사장이 되지 않았을 것이라고 한다. 성전의 제사장 규정을 설명하는 조건문이다.",
+      "contextNote": "예수의 하늘 제사장직과 땅의 직분을 대조한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "00f6328b23d5d213a5b9a0834f84d2ac9e303eed2d8a5e946340ed47d633e1af"
+    },
+    {
+      "id": "KRV:HEB:8:5",
+      "status": "hold",
+      "reason": "제사장들이 하늘의 모형과 그림자를 섬긴다고 설명하면서 모세에게 보인 본을 따라 지으라는 말을 인용한다. 기존 절차를 따르는 방향은 떠오르지만 긴 신학 설명과 장막의 모형을 해설 없이 현재 업무에 연결하기는 어렵다.",
+      "contextNote": "모세가 지은 장막을 하늘 성소의 모형으로 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "e1ad8fc28518564e7adc9c0e9edde613b230eec6aa8dac9bd922f8134cced8ac"
+    },
+    {
+      "id": "KRV:HEB:8:6",
+      "status": "exclude",
+      "reason": "더 좋은 약속으로 세운 더 좋은 언약의 중보이기에 더 아름다운 직분을 얻었다고 한다. 언약과 직분의 신학적 설명으로 현재 어떤 약속을 택하거나 지킬지 바로 알기 어렵다.",
+      "contextNote": "기존 제사장직과 그리스도의 중보 직분을 대비한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "50df3b086f2ac4d123cbec48c6a76900e2e3c173aa5061883c21a68795b32eaa"
+    },
+    {
+      "id": "KRV:HEB:8:7",
+      "status": "hold",
+      "reason": "첫 언약에 흠이 없다면 둘째 언약을 요구하지 않았을 것이라고 한다. 이전 방식의 한계를 보고 새 대안을 찾는 느낌은 있으나 언약에 대한 조건문을 일상 업무의 실패로 그대로 확정하기 어렵다.",
+      "contextNote": "다음 절의 새로운 언약 인용을 도입한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "438a2d24295e85c3e692fa2672a33e6dddaec166584c32e513e6538e5b834f6a"
+    },
+    {
+      "id": "KRV:HEB:8:8",
+      "status": "exclude",
+      "reason": "주가 이스라엘과 유다 집으로 새 언약을 세우겠다고 하신 말을 인용한다. 특정 공동체와 하나님의 언약을 설명하며 현재 확인된 선택의 행동은 나타나지 않는다.",
+      "contextNote": "예레미야의 새 언약을 인용하는 시작이다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "13e42fc306ec99d0e5dd30bbac18963a43405d5e0cb5159095a59c56fa7f47b9"
+    },
+    {
+      "id": "KRV:HEB:8:9",
+      "status": "exclude",
+      "reason": "조상들을 애굽에서 인도할 때의 언약과 새 언약은 다르며 그들이 옛 언약에 머물지 않았다고 말한다. 역사적 언약과 불순종에 대한 긴 진술로 현재 선택을 바로 읽기 어렵다.",
+      "contextNote": "앞 절의 새 언약과 출애굽 당시의 언약을 비교한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "c5402582d8f9d53153ebd180e4ef20b65b50d1b60521ea4bc917a837dc2e3f57"
+    },
+    {
+      "id": "KRV:HEB:8:10",
+      "status": "hold",
+      "reason": "하나님이 법을 사람들의 생각과 마음에 기록하고 그들의 하나님이 되겠다고 한다. 마음에 기록한다는 표현이 아름답지만 일기나 기억을 사용자가 직접 적을지의 선택과 동일하지 않다.",
+      "contextNote": "이스라엘 집과 세우는 새 언약의 내용을 인용한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "22d71ac8e12fbeab9e7fc6e0e55a53663a33a1c00769b2173e3c66af913da32d"
+    },
+    {
+      "id": "KRV:HEB:8:11",
+      "status": "hold",
+      "reason": "사람들이 작은 자부터 큰 자까지 하나님을 알기에 서로 주를 알라고 가르치지 않을 것이라고 한다. 배우거나 가르치는 고민과 닿는 단어는 있지만 이미 모두 안다는 본문 조건을 현재 모르는 사람에게 붙일 수 없다.",
+      "contextNote": "새 언약 아래 하나님을 아는 공동체에 관한 약속이다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "5616be805b0ac27b60a84f1712fd0f7a22a3bdeabafc87a2cabcaacb5bc715e5"
+    },
+    {
+      "id": "KRV:HEB:8:12",
+      "status": "candidate",
+      "reason": "하나님이 불의를 긍휼히 여기고 죄를 다시 기억하지 않겠다고 한다. 심한 말을 이미 사과하고 고치려 노력했지만 여전히 죄책감 때문에 기도를 피하는 사람이 용서를 믿고 다시 기도할 쪽으로 읽을 수 있다.",
+      "contextNote": "새 언약에서 하나님이 불의를 긍휼히 여기신다는 예레미야 인용이다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "R021",
+          "clue": "불의를 긍휼히 여기고 죄를 다시 기억하지 않는다는 표현이 과거 잘못으로 기도를 두려워하는 마음에 닿는다.",
+          "friction": "이미 사과하고 고치려는 현재의 조건을 유지하며 친구가 곧 용서했거나 그 일이 없었다고 단정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "866795816d8a502e13f015da8aa43f036e6ca7834b87f394071b68d03d0e49c8"
+    },
+    {
+      "id": "KRV:HEB:8:13",
+      "status": "hold",
+      "reason": "새 언약이라 하였기에 첫 언약은 낡아지고 쇠하여 없어져간다고 말한다. 오래된 것을 바꾸는 연상은 가능하지만 새 물건과 달리 지금 사용하는 제품이 작동하지 않는다는 사실은 없다.",
+      "contextNote": "앞에서 인용한 새 언약과 첫 언약의 관계를 해설한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "508fd14c520d23a2a088bd22dd7e1c89a64a8e8a993fe6869abf78356a577d46"
+    },
+    {
+      "id": "KRV:HEB:9:1",
+      "status": "exclude",
+      "reason": "첫 언약에도 섬기는 예법과 세상에 속한 성소가 있었다고 설명한다. 성소와 예법의 도입으로 현재 구체적 고민의 선택은 나타나지 않는다.",
+      "contextNote": "이어서 옛 성소의 구조를 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "ee24e8cb66f165fa89329a26ffa5dc9129dff91e543ad081cc233692571eaac1"
+    },
+    {
+      "id": "KRV:HEB:9:2",
+      "status": "exclude",
+      "reason": "첫 장막에 등대와 상과 진설병이 있으며 이곳을 성소라고 부른다고 한다. 특정 성소의 물건을 열거하는 설명으로 사용자의 생활 선택지는 드러나지 않는다.",
+      "contextNote": "성소와 지성소의 배치를 설명하는 문단이다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "5c22f88c4b0e0adc23d878f2832692bd48c536f51462dba636510df9bc8454c0"
+    },
+    {
+      "id": "KRV:HEB:9:3",
+      "status": "exclude",
+      "reason": "둘째 휘장 뒤의 장막을 지성소라고 부른다고 한다. 공간의 명칭을 설명하는 문장으로 특정 선택의 실마리는 없다.",
+      "contextNote": "앞 절의 첫 장막과 이어 성소의 구획을 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "b5adf2a289f8672b2a954f246001ba88191010345106ef8e2fd2cb308b8ff144"
+    },
+    {
+      "id": "KRV:HEB:9:4",
+      "status": "exclude",
+      "reason": "금향로와 금으로 싼 언약궤 및 그 안의 금항아리와 지팡이와 비석들을 나열한다. 성소의 구체 물건 설명이지 현재 물건 구매나 정리의 선택 방향은 아니다.",
+      "contextNote": "앞 절의 지성소에 놓인 성물을 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "38ddb7259e53d6ad0c4c806463799946f13b75f947d1363f2f8c51bc0d103107"
+    },
+    {
+      "id": "KRV:HEB:9:5",
+      "status": "exclude",
+      "reason": "속죄소를 덮는 영광의 그룹들에 관하여 지금 낱낱이 말할 수 없다고 한다. 성소의 구조에 관한 설명을 마치는 문장이다.",
+      "contextNote": "앞 절의 언약궤와 성물 나열을 이어간다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "df05e11dc56ed56855ef8d2a71698f02b9a4942e54a3214bd7f9efece5278904"
+    },
+    {
+      "id": "KRV:HEB:9:6",
+      "status": "exclude",
+      "reason": "이런 것들을 예비한 뒤 제사장들이 항상 첫 장막에 들어가 섬기는 예를 행한다고 한다. 특정 제사 의식의 절차에 대한 설명이다.",
+      "contextNote": "성소의 배치 설명 다음 제사장의 출입을 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "7d663b92bee1a7d3ffb2e87cc4c50a63025c438d08c9afacdd36ed064dcd4e7f"
+    },
+    {
+      "id": "KRV:HEB:9:7",
+      "status": "exclude",
+      "reason": "대제사장만 둘째 장막에 해마다 한 번 피를 가지고 들어가 자기와 백성의 허물을 위해 드린다고 한다. 속죄 의식의 상세한 규정으로 현재 생활의 선택과 직접 같지 않다.",
+      "contextNote": "앞 절의 첫 장막에 들어가는 제사장과 지성소 출입을 대비한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "803411ec374a70e02ff128f9073169d80cf6d14c5e680d1e7c4a7e71d4f58c84"
+    },
+    {
+      "id": "KRV:HEB:9:8",
+      "status": "exclude",
+      "reason": "첫 장막이 서 있는 동안에는 성소에 들어가는 길이 아직 나타나지 않았음을 성령이 보이셨다고 한다. 성전 구조와 출입의 신학적 의미를 설명한다.",
+      "contextNote": "앞 절의 제한된 지성소 출입에 대한 해설이다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "374744d0dbb46f88ba11ec9b4cf1d8bcf1f39081a7add139301b9bc3a7a5aa5c"
+    },
+    {
+      "id": "KRV:HEB:9:9",
+      "status": "hold",
+      "reason": "장막을 현재까지의 비유로 보고 그 예물과 제사가 섬기는 사람의 양심을 온전하게 할 수 없다고 설명한다. 양심과 완전함에 관한 질문은 떠오르지만 긴 제사 논증이 현재의 구체 선택과 직접 연결되지는 않는다.",
+      "contextNote": "앞 절의 첫 장막과 성소 출입에 관한 설명을 이어간다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "3a3272bf53b098fc3aa745cdb44935ac4b4d1dbe80663a0b70523ca2e4e1e57e"
+    },
+    {
+      "id": "KRV:HEB:9:10",
+      "status": "exclude",
+      "reason": "먹고 마심과 씻음에 관한 여러 예법이 개혁할 때까지 맡겨졌다고 한다. 옛 성소의 의식 규정에 대한 설명으로 현재 식사나 생활 선택을 직접 가리키지 않는다.",
+      "contextNote": "앞 절의 예물과 제사에 이어 종교적 예법을 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "11a229c52480db32e35b7ff5c3b0b74d4adc0939a8864413584b1269de2658e7"
+    },
+    {
+      "id": "KRV:HEB:9:11",
+      "status": "exclude",
+      "reason": "그리스도가 더 크고 온전한 장막으로 말미암아 오셨다는 문장이 다음 절로 이어진다. 장막의 신학적 설명이 중심이며 선택 단서가 완결되지 않는다.",
+      "contextNote": "옛 성소와 그리스도의 사역을 비교한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "4d37f09f1c110c158608ef736fc0645f88ded90ab4c8dd0082cd34b05ad45566"
+    },
+    {
+      "id": "KRV:HEB:9:12",
+      "status": "exclude",
+      "reason": "염소와 송아지의 피가 아닌 자기 피로 영원한 속죄를 이루고 성소에 들어갔다고 한다. 그리스도의 속죄 의식을 설명하는 구절로 현재 선택을 직접 비추지 않는다.",
+      "contextNote": "앞 절의 대제사장 그리스도에 대한 문장과 이어진다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "0c01a4f081b190d9a928fff2191d3907c1d56227daf249226e7e51772f1e0cdb"
+    },
+    {
+      "id": "KRV:HEB:9:13",
+      "status": "exclude",
+      "reason": "염소와 황소의 피와 암송아지의 재를 부정한 자에게 뿌려 육체를 정결하게 한다는 조건을 말한다. 동물 제사의 세부와 이어지는 문장으로 생활 고민의 행동이 보이지 않는다.",
+      "contextNote": "다음 절에서 그리스도의 피의 의미와 비교하기 위한 전제다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "18cc2575e57c5c087e561cf37885c12bec602a07272fc42da456066ff8a0b21f"
+    },
+    {
+      "id": "KRV:HEB:9:14",
+      "status": "hold",
+      "reason": "그리스도의 피가 양심을 죽은 행실에서 깨끗하게 하여 하나님을 섬기게 한다고 묻는다. 죄책감으로 기도를 망설이는 마음과 일부 닿지만 피와 제사의 신학적 문장이 길어 한 번에 실마리를 얻기는 어려울 수 있다.",
+      "contextNote": "앞 절의 동물 피로 정결하게 하는 제사와 그리스도의 희생을 비교한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "7a438af403d6ba47cfddae7ac249544cdd0d4f83814a4d41d3bb269187f24796"
+    },
+    {
+      "id": "KRV:HEB:9:15",
+      "status": "exclude",
+      "reason": "그리스도가 첫 언약에서 범한 죄를 위해 죽어 새 언약의 중보가 되었고 부름받은 자에게 영원한 기업을 준다고 설명한다. 언약과 속죄에 대한 긴 신학적 진술이다.",
+      "contextNote": "앞의 제사와 정결 설명을 새 언약의 논의로 연결한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "3eada3305a7348b5f28fe92de3a922a800b5326c58e3b3b515b905db740e516c"
+    },
+    {
+      "id": "KRV:HEB:9:16",
+      "status": "exclude",
+      "reason": "유언은 유언한 사람이 죽어야 된다고 말한다. 유언의 효력에 대한 진술이지만 확인된 고민에는 유언이나 상속 결정을 다루는 상황이 없다.",
+      "contextNote": "다음 절과 함께 유언과 죽음의 관계를 설명한다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "a8a474e0646098eeaf1a0d03d4fd6b506a09c7ba3c894edac82849c38c6255e1"
+    },
+    {
+      "id": "KRV:HEB:9:17",
+      "status": "exclude",
+      "reason": "유언은 한 사람이 죽은 후 효력이 있으며 살아 있는 동안에는 효력이 없다고 한다. 유언의 조건을 설명하지만 확인된 구체 고민의 선택은 나타나지 않는다.",
+      "contextNote": "유언의 효력에 대한 앞 절을 부연한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "8992c5a6219c6a1a9d8df40d532baae37b54e452e51004d7ff0eb27b060e3cad"
+    },
+    {
+      "id": "KRV:HEB:9:18",
+      "status": "exclude",
+      "reason": "그러므로 첫 언약도 피 없이 세워진 것이 아니라고 말한다. 앞뒤 문맥의 언약과 제사 설명에 의존하며 단독 생활 선택의 단서가 없다.",
+      "contextNote": "다음 절에서 모세가 언약을 세울 때의 피 뿌림을 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "3fda37c793dcb2e5ccd5e0fc58c5b2612673fc2aa33d294a5b733f6a34a32200"
+    },
+    {
+      "id": "KRV:HEB:9:19",
+      "status": "exclude",
+      "reason": "모세가 모든 계명을 알린 뒤 송아지와 염소의 피, 물, 양털, 우슬초를 책과 백성에게 뿌렸다고 한다. 옛 언약 의식의 세부 묘사가 현재 구체 고민에 직접 연결되지 않는다.",
+      "contextNote": "다음 절의 언약 선언과 이어지는 장면이다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "d3a89eb090f69de473b35020ed20d43c39d51a7ae2ee3eefcea136606092d2f0"
+    },
+    {
+      "id": "KRV:HEB:9:20",
+      "status": "exclude",
+      "reason": "이는 하나님이 너희에게 명한 언약의 피라고 선언한다. 앞 절의 피 뿌림 의식에 의존하며 단독으로 선택의 실마리를 주지 않는다.",
+      "contextNote": "모세가 첫 언약을 세우며 한 말을 인용한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "02c6baeddd6c5efd54bbd19b2ef35d94d5c5c9a007f4fd39d501faeda7c90645"
+    },
+    {
+      "id": "KRV:HEB:9:21",
+      "status": "exclude",
+      "reason": "피를 장막과 섬기는 일에 쓰는 그릇들에 뿌렸다고 한다. 옛 성소 의식의 묘사로 현재 어떤 물건을 사용하거나 정리할지의 선택은 나타나지 않는다.",
+      "contextNote": "앞 절에 이은 모세의 정결 의식이다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "99b3e5a75f3b99441b648e8454f83fe2159789721f972a91b10f3ffe684ff046"
+    },
+    {
+      "id": "KRV:HEB:9:22",
+      "status": "hold",
+      "reason": "율법을 따라 거의 모든 것이 피로 정결하게 되고 피흘림이 없으면 사함이 없다고 한다. 용서의 조건을 강하게 말하지만 현재 사과와 관계 회복 고민에 실제 희생이나 신체적 위해를 요구하는 뜻으로 옮길 수 없다.",
+      "contextNote": "제사의 피와 속죄에 관한 유대 율법을 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "71b543932efb1d51d721dffa8f97be1870f625bedf83134f82c9b6b4eb217c1f"
+    },
+    {
+      "id": "KRV:HEB:9:23",
+      "status": "exclude",
+      "reason": "하늘의 것의 모형은 이런 것으로 정결하게 하고 하늘의 것은 더 좋은 제물로 해야 한다고 설명한다. 모형과 제물의 대상을 앞 문맥에 의존하는 신학 논증이다.",
+      "contextNote": "앞의 제사와 피로 정결하게 하는 논의를 이어간다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "39f920b1f8517e8445c56e17eec1b7d7d1b0558f55d9d2f9e8659a81fb41d2e2"
+    },
+    {
+      "id": "KRV:HEB:9:24",
+      "status": "exclude",
+      "reason": "그리스도가 사람이 만든 성소가 아니라 참 하늘에 들어가 하나님 앞에 나타났다고 한다. 성소와 그리스도의 중보를 설명하며 지금의 선택 행동은 직접 나타나지 않는다.",
+      "contextNote": "하늘 성소와 땅의 모형을 비교한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "ac0a2eaaf002226910d9b7e99b4f37f4ad6e433f26c273f4a0130602d1b0da42"
+    },
+    {
+      "id": "KRV:HEB:9:25",
+      "status": "exclude",
+      "reason": "대제사장이 해마다 성소에 들어가는 것처럼 그리스도가 자신을 자주 드리려는 것이 아니라고 한다. 제사의 반복에 대한 신학적 논증이며 문장도 다음 절로 연결된다.",
+      "contextNote": "반복되는 기존 제사와 단번의 그리스도 희생을 대비한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "88a614b879592ad602d39385be5ca0d2dee8325495b84c291b1708fcf6d96b79"
+    },
+    {
+      "id": "KRV:HEB:9:26",
+      "status": "exclude",
+      "reason": "자주 고난받을 필요 없이 세상 끝에 자신을 단번에 제물로 드려 죄를 없애려 나타났다고 설명한다. 고난과 제사의 신앙적 의미가 중심이며 구체적인 생활 선택과는 직접 같지 않다.",
+      "contextNote": "앞 절의 반복 제사에 대한 비교를 마무리한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "c10c6f1275fc944bbfc8847d04af648475d618e584caab35befbb929b256dd2a"
+    },
+    {
+      "id": "KRV:HEB:9:27",
+      "status": "hold",
+      "reason": "사람에게 한 번 죽는 것이 정해졌고 그 후에 심판이 있다고 한다. 삶의 유한함을 떠올릴 수는 있으나 죽음과 심판의 단정이 일상적 즐거움이나 건강 선택의 직접적인 근거가 되지는 않는다.",
+      "contextNote": "다음 절에서 단번에 드려진 그리스도의 희생을 비유적으로 설명한다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "628c4f5265cd18543ecebfaa3b51babe2cf05fba3c969a358c29ba2a948a9209"
+    },
+    {
+      "id": "KRV:HEB:9:28",
+      "status": "exclude",
+      "reason": "그리스도가 많은 사람의 죄를 담당하기 위해 단번에 드려졌고 그를 바라는 자들에게 다시 나타난다고 한다. 재림과 구원에 관한 신앙의 긴 설명이다.",
+      "contextNote": "앞 절의 한 번 죽음에 이어 그리스도의 한 번의 희생을 비교한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "a7ce77e9276f92e19523e717d683bca193bc972b4cb410ad0aace0248d9ad495"
+    },
+    {
+      "id": "KRV:HEB:10:1",
+      "status": "hold",
+      "reason": "율법이 좋은 일의 그림자이며 해마다 같은 제사로는 나아오는 사람들을 온전하게 할 수 없다고 말한다. 완벽을 추구하는 마음과 반복의 한계를 생각할 수 있지만 반복 제사의 논증과 작업물 완성이 곧바로 같지는 않다.",
+      "contextNote": "옛 율법의 반복 제사와 그리스도의 희생을 다시 비교한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "4b3d5ef55f0a41c7df6f55e58add998f769ab66bf9425ff5fa270a411230739f"
+    },
+    {
+      "id": "KRV:HEB:10:2",
+      "status": "exclude",
+      "reason": "섬기는 사람들이 단번에 정결하게 되어 다시 죄를 깨닫지 않는다면 제사 드리는 일을 그치지 않았겠느냐고 묻는다. 앞 절의 반복 제사에 대한 논리적 질문이다.",
+      "contextNote": "앞 절의 제사가 온전하게 하지 못한다는 주장을 이어간다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "4e4f5272f0ca7f46a55a48a3e512bcab978229f34ff08719afd507bc71ca1ba9"
+    },
+    {
+      "id": "KRV:HEB:10:3",
+      "status": "hold",
+      "reason": "이 제사들은 해마다 죄를 생각하게 한다고 말한다. 자꾸 지난 잘못을 떠올리는 마음과 일부 닿을 수 있지만 이 절은 제사를 설명할 뿐 현재 자책을 멈추거나 기도할 행동을 직접 말하지 않는다.",
+      "contextNote": "앞 절의 해마다 반복되는 제사에 대해 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "2d560a2c44008a0d8f1aeb4130d3dcc59d606cf2145d530f39186c85f4221983"
+    },
+    {
+      "id": "KRV:HEB:10:4",
+      "status": "exclude",
+      "reason": "황소와 염소의 피가 죄를 없게 하지 못한다고 한다. 동물 제사와 죄 사함의 관계를 설명하는 신학적 진술로 현재 구체 행동은 나타나지 않는다.",
+      "contextNote": "반복 제사의 한계를 설명하는 문단이다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "80fdace003c54295fbcfd0c14026389539aed4503b51a8d351d49fa53b2a80a2"
+    },
+    {
+      "id": "KRV:HEB:10:5",
+      "status": "hold",
+      "reason": "하나님이 제사와 예물을 원치 않고 한 몸을 예비하셨다고 인용한다. 형식보다 몸과 마음을 생각할 수는 있지만 누가 어떤 몸을 예비했는지 성육신 맥락에 의존한다.",
+      "contextNote": "그리스도가 세상에 임하실 때의 말씀으로 시편을 인용한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "be683cd33c59ff0c91b716ec28f9ba448037c12e65fa50ee8cb1099ef63f422e"
+    },
+    {
+      "id": "KRV:HEB:10:6",
+      "status": "exclude",
+      "reason": "전체로 번제함과 속죄제를 기뻐하지 않는다고 한다. 특정 제사 의식에 관한 인용이며 현재의 작은 선물이나 봉사 자체가 기뻐하지 않을 것이라는 의미는 아니다.",
+      "contextNote": "앞 절의 시편 인용을 이어간다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "0f760e85d6b5427b303237c3c7127a1468ad23092ea188a6da9d0861d661cc57"
+    },
+    {
+      "id": "KRV:HEB:10:7",
+      "status": "hold",
+      "reason": "두루마리 책에 기록한 대로 하나님의 뜻을 행하러 왔다고 말한다. 자기 뜻을 행하는 결단을 떠올릴 수 있지만 구체적인 하나님의 뜻을 모르는 사용자의 주장에 권위를 부여해서는 안 된다.",
+      "contextNote": "그리스도의 순종을 설명하는 시편 인용이다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "6303f9591346850b71fc35dc559bbfc67585c7a5dafebe1a65a00c5df8b224ab"
+    },
+    {
+      "id": "KRV:HEB:10:8",
+      "status": "exclude",
+      "reason": "제사와 예물과 번제와 속죄제를 원하지도 기뻐하지도 않는다는 말씀과 그것들이 율법을 따랐다는 괄호 설명이다. 옛 제사의 신학적 논증이 중심이다.",
+      "contextNote": "앞의 인용을 반복하며 새 제사의 설명으로 연결한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "c472e7bd9ad18dec9cd0ce751a4a46ed0f32779e3eea4e34267e6e8a4e83d1a2"
+    },
+    {
+      "id": "KRV:HEB:10:9",
+      "status": "hold",
+      "reason": "하나님의 뜻을 행하러 왔다고 하며 첫 것을 폐해 둘째 것을 세운다고 한다. 기존 방식을 버리고 새로 나아가는 느낌이 있으나 첫째와 둘째가 어떤 것인지 앞뒤 설명 없이는 모호하다.",
+      "contextNote": "옛 제사와 그리스도의 희생을 대비하는 논증이다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "6de62bf52afd7b4b29455a4fc7219821c4365bcade736667f7489744f111c4c8"
+    },
+    {
+      "id": "KRV:HEB:10:10",
+      "status": "exclude",
+      "reason": "예수 그리스도의 몸을 단번에 드림으로 그 뜻을 따라 거룩함을 얻었다고 설명한다. 제사와 거룩함의 신앙적 논증으로 현재 생활 선택의 행동은 보이지 않는다.",
+      "contextNote": "앞 절에서 언급한 하나님의 뜻의 결과를 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "160a6cf5af512cd0e294240942ed98d4c9a3e27962bbdcb64f05f1f782859025"
+    },
+    {
+      "id": "KRV:HEB:10:11",
+      "status": "exclude",
+      "reason": "제사장들이 매일 같은 제사를 자주 드리지만 그 제사는 죄를 없게 하지 못한다고 한다. 반복 제사의 신학적 한계를 설명하며 현재 해야 할 일의 방법을 직접 가리키지 않는다.",
+      "contextNote": "다음 절에서 그리스도가 드린 한 번의 제사와 비교한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "8034b81635121bbdd70bf9c15610eb08288de8443fdf633cbd9f829aa09591e8"
+    },
+    {
+      "id": "KRV:HEB:10:12",
+      "status": "exclude",
+      "reason": "그리스도가 죄를 위한 영원한 제사를 드린 뒤 하나님 우편에 앉았다고 한다. 주어의 신앙적 사역을 설명하며 현재 사용자의 생활 선택은 나타나지 않는다.",
+      "contextNote": "앞 절의 반복되는 제사와 그리스도의 단번 제사를 대비한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "12498fce6b0e879df5d3e38affd2476fc80c89792cc57e52c0f4ecc34f0de059"
+    },
+    {
+      "id": "KRV:HEB:10:13",
+      "status": "hold",
+      "reason": "그 후 원수들을 발등상으로 삼으실 때까지 기다린다고 한다. 기다림은 있지만 앞 절의 주어와 원수에 대한 승리라는 특수한 상황을 현재 매물의 구매자로 옮길 수 없다.",
+      "contextNote": "그리스도가 하나님 우편에 앉은 다음을 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "88cef569e0fc79121b0374f54b2812439a79906b243ef70600783e7501216c8a"
+    },
+    {
+      "id": "KRV:HEB:10:14",
+      "status": "hold",
+      "reason": "한 제물로 거룩하게 된 사람들을 영원히 온전하게 하셨다고 한다. 이미 충분하다는 위로를 떠올릴 수 있으나 제물과 거룩함의 대상에 앞뒤 맥락이 필요하고 작품의 완성도를 보증하는 말은 아니다.",
+      "contextNote": "그리스도의 한 번의 제사와 그 효과를 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "5a69fe0cd809fb6af9f0d6571fe734956255381ee51f6c9e2cca2aced1d750a9"
+    },
+    {
+      "id": "KRV:HEB:10:15",
+      "status": "exclude",
+      "reason": "또한 성령이 우리에게 증거하신다고 말하며 문장이 끝나지 않는다. 실제 증거 내용이 다음 절에 이어져 독립적인 선택의 단서가 없다.",
+      "contextNote": "새 언약에 관한 다음 절의 인용을 도입한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "9b870525b49888c33e1832adeb7bd2f74e0394f9a581d1459ffe80b4ab06a2d9"
+    },
+    {
+      "id": "KRV:HEB:10:16",
+      "status": "hold",
+      "reason": "주가 언약을 세우고 법을 그들의 마음과 생각에 기록하겠다고 하신다. 마음에 남기는 이미지는 있으나 사용자가 자신의 일을 일기로 적을지에 관한 직접 권유는 아니다.",
+      "contextNote": "앞서 인용한 예레미야의 새 언약을 다시 인용한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "3e081f1c87c24b18fd08080b061b288c4fa3a6a7ebe6840cef0c6b6521354433"
+    },
+    {
+      "id": "KRV:HEB:10:17",
+      "status": "candidate",
+      "reason": "죄와 불법을 다시 기억하지 않겠다고 하신다. 잘못을 사과하고 고치려 노력했지만 계속 자신이 나쁜 사람처럼 느껴져 기도를 피하는 사람이 용서를 받아들이고 다시 기도할 쪽으로 읽을 수 있다.",
+      "contextNote": "하나님의 새 언약에 관한 인용의 마지막 부분이다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "R021",
+          "clue": "지난 죄를 다시 기억하지 않겠다는 표현이 사과 후에도 마음에 남는 자책과 닿는다.",
+          "friction": "하나님에 관한 약속이며 실제 친구가 용서했는지나 이후 관계가 어떻게 될지는 알 수 없다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "e4daee3f2ef711d5fe7b68a8f8dd41df169d2a6704eb821f310a3a7a39a71ccf"
+    },
+    {
+      "id": "KRV:HEB:10:18",
+      "status": "hold",
+      "reason": "이것을 사하셨으므로 다시 죄를 위한 제사를 드릴 것이 없다고 한다. 죄를 계속 되새기지 않아도 된다는 느낌은 있으나 사해진 대상이 앞 절에 있고 제사라는 낯선 행위가 현재 고민과 바로 맞지는 않는다.",
+      "contextNote": "앞 절의 죄를 다시 기억하지 않겠다는 새 언약의 결과를 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "9e3d0d15754e50e03814a61191e8442a0434c35e8ad5a3fe96f64dccf61117c2"
+    },
+    {
+      "id": "KRV:HEB:10:19",
+      "status": "candidate",
+      "reason": "예수의 피를 힘입어 성소에 들어갈 담력을 얻었다고 말한다. 과거의 잘못으로 신앙생활과 세례 준비를 시작할 자격이 없을까 망설이는 사람이 하나님께 가까이 가도록 용기를 얻을 수 있다.",
+      "contextNote": "그리스도의 제사와 새 언약을 설명한 뒤 공동체가 하나님께 나아갈 근거를 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C018",
+          "clue": "성소에 들어갈 담력을 얻었다는 표현이 부족함 때문에 신앙의 걸음을 미루는 마음과 닿는다.",
+          "friction": "본문은 성소에 관한 신앙적 비유이며 세례 자격이나 실제 교회 공동체의 판단을 서비스가 대신 확정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "c96c82aa809b2a53797cd046449b62d50daf368de65b138bf30c92ea776af1ba"
+    },
+    {
+      "id": "KRV:HEB:10:20",
+      "status": "hold",
+      "reason": "그 길은 휘장 가운데로 열린 새롭고 산 길이며 휘장은 그의 육체라고 설명한다. 새로운 길이라는 표현은 좋지만 휘장과 육체의 상징을 알아야 길의 정체가 선명하다.",
+      "contextNote": "앞 절의 성소에 들어가는 길과 그리스도의 몸을 연결한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "becfe907ff9964c71fb085d64637cc7fae615e092c50ac5d00ecea968b5520ed"
+    },
+    {
+      "id": "KRV:HEB:10:21",
+      "status": "exclude",
+      "reason": "하나님의 집을 다스리는 큰 제사장이 계시다고 말하며 다음 절로 이어진다. 독립된 행동 권유가 드러나지 않는다.",
+      "contextNote": "성소에 나아갈 근거로 예수의 대제사장직을 언급한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "435fc79b4c15347c433b2e98b157b882386dfc162847924d41a177eaac34461d"
+    },
+    {
+      "id": "KRV:HEB:10:22",
+      "status": "hold",
+      "reason": "마음과 몸이 깨끗하게 되었으니 참 마음과 온전한 믿음으로 하나님께 나아가자고 한다. 기도로 나아가는 방향은 보이지만 몸을 맑은 물로 씻었다는 조건을 현재 사용자가 세례받았다는 사실로 추가할 수 없다.",
+      "contextNote": "앞의 열린 길과 대제사장을 근거로 하나님께 나아가기를 권한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "7c394281060f2173d51daa3bee970c6f82bcea41ad0cffd73de46cfad96c4354"
+    },
+    {
+      "id": "KRV:HEB:10:23",
+      "status": "hold",
+      "reason": "약속하신 이가 미쁘시니 믿는 도리의 소망을 움직이지 말고 굳게 잡자고 한다. 희망을 지키는 실마리는 있으나 미쁘시니라는 옛말과 확인되지 않은 약속의 대상이 사용자의 지원 결과라고 읽히면 곤란하다.",
+      "contextNote": "공동체에게 신앙의 소망을 지키라고 권하며 다음 절로 이어진다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "15a625ff2cde0b56646f0ac24d9e6ed012b1bdc4fb13630a173d4adccf46ff6a"
+    },
+    {
+      "id": "KRV:HEB:10:24",
+      "status": "candidate",
+      "reason": "서로 돌아보아 사랑과 선행을 격려하자고 한다. 교회 봉사에 처음 온 사람이 긴장하고 있을 때 먼저 다가가 필요한 것을 도울지 고민하는 사람이 상대를 살피고 격려하는 쪽을 떠올릴 수 있다.",
+      "contextNote": "공동체가 함께 모이고 서로 권면하라는 다음 절과 이어진다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C075",
+          "clue": "서로 돌아보고 사랑과 선행을 격려한다는 말이 긴장한 새 사람을 먼저 맞이할 선택과 닿는다.",
+          "friction": "본문은 공동체 전체에 대한 권면이며 새 사람이 이미 잘 적응했거나 도움을 반드시 받아들인다고 가정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "e3e25a5c8b445dfc187622ed89f3a3a848abb5618b63271e8c97b45a9bfa0600"
+    },
+    {
+      "id": "KRV:HEB:10:25",
+      "status": "candidate",
+      "reason": "모이기를 그만두는 습관을 따르지 말고 서로 권하라고 한다. 교회 봉사에서 작은 의견 차이 뒤 어색해진 친구와 다시 함께 준비할지 고민하는 사람이 관계를 끊지 않고 다시 모이는 방향을 떠올릴 수 있다.",
+      "contextNote": "앞 절의 서로 돌봄과 격려를 이어 마지막 날이 가까움을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C054",
+          "clue": "모이기를 폐하지 않고 서로 권한다는 표현이 어색해진 공동체 친구와 함께할 선택에 닿는다.",
+          "friction": "본문은 공동체의 모임을 말하며 상대가 이미 화해했거나 참여에 동의했다고 단정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "f49f1267a2d2bc3b759c9eab22b6de75ea2653848752a3af451833eeb7b2cc77"
+    },
+    {
+      "id": "KRV:HEB:10:26",
+      "status": "hold",
+      "reason": "진리의 지식을 받은 뒤 짐짓 죄를 범하면 다시 속죄하는 제사가 없다고 한다. 이미 사과하고 고치려는 사람의 일상적 잘못을 이 구절의 고의적인 신앙 이탈과 동일시해 용서를 단정할 수 없다.",
+      "contextNote": "다음 절의 심판에 관한 엄한 경고로 이어진다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "69f0122a64f5f1ecc3b85916d40452781a27a49267809fbd1ebe1f3d96dc8ef9"
+    },
+    {
+      "id": "KRV:HEB:10:27",
+      "status": "exclude",
+      "reason": "무서운 심판과 대적하는 자를 소멸할 맹렬한 불이 있다고 한다. 종교적 심판 경고로 현재 구체 고민의 선택지나 행동이 드러나지 않는다.",
+      "contextNote": "앞 절의 고의적인 죄에 대한 경고가 이어진다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "3be7e4f6edb393b4465415f87ffa3b2d5274d2e637354615cf90bf874a1fa89d"
+    },
+    {
+      "id": "KRV:HEB:10:28",
+      "status": "exclude",
+      "reason": "모세의 법을 폐한 자가 두세 증인으로 말미암아 불쌍히 여김을 받지 못하고 죽었다고 한다. 율법의 심판 사례이며 현재 생활 선택에 바로 연결하기 어렵다.",
+      "contextNote": "다음 절에서 더 중한 형벌을 논하기 위한 비교다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "a152ef8b01473423a4332ab7a333422c1ee430ae6bb06a4344446819d53ca9ec"
+    },
+    {
+      "id": "KRV:HEB:10:29",
+      "status": "exclude",
+      "reason": "하나님의 아들과 언약의 피와 성령을 모독하는 사람이 받을 더 중한 형벌을 생각하라고 묻는다. 길고 강한 신앙적 경고로 현재 일상적 선택의 실마리가 되지 않는다.",
+      "contextNote": "앞 절의 율법 위반 심판보다 중한 경우를 논한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "f95b2345948da0452f3cdfc27e483bb2ad2f1c1c54f49b348bfb62e07fdc055f"
+    },
+    {
+      "id": "KRV:HEB:10:30",
+      "status": "hold",
+      "reason": "원수 갚는 일이 하나님께 있고 하나님이 백성을 심판한다고 한다. 직접 보복할지를 고민할 때 보복을 맡기라는 생각이 가능하지만 단독 구절은 심판을 말할 뿐 현재 상대에게 어떤 행동을 할지까지 제시하지 않는다.",
+      "contextNote": "하나님의 심판과 보응에 관한 성경 구절을 인용한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "bcbb790b1be89756145b18f3c4142b93f6105b28cb4c4e4350a62cc7a057c39e"
+    },
+    {
+      "id": "KRV:HEB:10:31",
+      "status": "exclude",
+      "reason": "살아 계신 하나님의 손에 빠져 들어가는 것이 무섭다고 한다. 엄한 심판의 정서를 강조하며 확인된 구체 선택의 행동은 드러나지 않는다.",
+      "contextNote": "앞의 형벌과 하나님의 심판에 대한 경고를 마무리한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "6de77aa2eeedb446718a7850e1e81d5ef1c20ccd0a3cf68c1766fd8f74d90c45"
+    },
+    {
+      "id": "KRV:HEB:10:32",
+      "status": "hold",
+      "reason": "전에 빛을 받은 후 고난의 큰 싸움을 참은 것을 생각하라고 한다. 어려움을 견딘 경험을 떠올리게 하지만 빛을 받았다는 신앙적 조건을 반복 실패한 현재 사용자에게 실제 있었던 사건으로 추가할 수 없다.",
+      "contextNote": "과거 박해를 견딘 공동체를 돌아보며 인내를 권한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "b28c927d1bc9b744303e6e5a2056e2883d6b0f401ee29d977bf55d98d48807df"
+    },
+    {
+      "id": "KRV:HEB:10:33",
+      "status": "exclude",
+      "reason": "비방과 환난으로 구경거리가 되거나 그런 형편의 사람과 사귀었다고 한다. 앞 절의 과거 박해에 관한 구체 묘사로 현재 선택의 두 방향은 드러나지 않는다.",
+      "contextNote": "빛을 받은 뒤 공동체가 겪은 고난의 형태를 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "c97061f6b569c72dbe79e00323867f5e4e24f6455e2e7d6bdf3f18e424917b0b"
+    },
+    {
+      "id": "KRV:HEB:10:34",
+      "status": "hold",
+      "reason": "갇힌 이를 동정하고 재산을 빼앗겨도 더 나은 영구한 재산을 알아 기쁘게 견뎠다고 한다. 돕고 나누는 태도는 보이지만 갇힘과 강제 재산 상실을 현재의 자발적 도움 상황과 동일시하기 어렵다.",
+      "contextNote": "앞에서 설명한 공동체의 고난과 연대를 이어간다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "ee919405b014aac56034eea3fd04b667f9825faf15eb9332f85d764260492c61"
+    },
+    {
+      "id": "KRV:HEB:10:35",
+      "status": "candidate",
+      "reason": "담대함을 버리지 말라고 하며 큰 상을 얻는다고 말한다. 남들의 부정적인 말에 위축되지만 발표 대회에 지원하고 싶은 사람이 두려움에도 도전하는 방향을 읽을 수 있다.",
+      "contextNote": "고난 가운데 믿음을 지켜 온 공동체에 담대함과 인내를 권한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "R012",
+          "clue": "담대함을 버리지 말라는 말이 대회에 지원하려는 용기를 다시 붙잡게 한다.",
+          "friction": "본문의 큰 상을 대회의 합격이나 수상 결과가 정해졌다는 보장으로 서비스가 바꾸지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "d2f670520f4b3b6bad0d332b12c38921912cab6f1c498bb5e1951988ac08253d"
+    },
+    {
+      "id": "KRV:HEB:10:36",
+      "status": "hold",
+      "reason": "하나님의 뜻을 행한 후 약속을 받기 위해 인내가 필요하다고 한다. 기다림의 방향은 있으나 지금 매물이 팔리기로 약속받았다거나 어떤 선택이 하나님의 뜻인지 현재 사실로 추가할 수 없다.",
+      "contextNote": "앞의 담대함을 지키라는 권면 뒤 신앙적 인내를 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "e34a4ac095bbd7e78f66e67a04403b07e26128e92023d97a005235fd73d9b3fd"
+    },
+    {
+      "id": "KRV:HEB:10:37",
+      "status": "hold",
+      "reason": "잠시 후 오실 이가 오고 지체하지 않을 것이라고 말한다. 기다림이 곧 끝날 것 같은 정서는 있으나 오실 이는 신앙의 대상이며 구매자나 답장이 곧 온다는 약속으로 바꾸면 안 된다.",
+      "contextNote": "다가올 이를 기다리라는 성경 인용이다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "3da2cc7dd71bb5a8e19f1f7673d22760f4cfa08eaf9cb41ff553a7eb4eead2d4"
+    },
+    {
+      "id": "KRV:HEB:10:38",
+      "status": "hold",
+      "reason": "의인은 믿음으로 살지만 뒤로 물러나면 내 마음이 그를 기뻐하지 않는다고 인용한다. 계속 나아갈지의 방향은 떠오를 수 있으나 현재 일의 방식을 바꾸는 행동이 신앙에서 물러남이라고 단정할 수 없다.",
+      "contextNote": "하박국의 믿음에 관한 말씀을 인용해 인내를 권한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "806f9399c7bcfa9d6804218f2748b6a37978141c7f8f85d697d27057c1ddecd9"
+    },
+    {
+      "id": "KRV:HEB:10:39",
+      "status": "hold",
+      "reason": "우리는 뒤로 물러가 침륜에 빠질 자가 아니라 영혼의 구원에 이르는 믿음을 가진 자라고 한다. 물러서지 말라는 정서는 있으나 침륜이라는 옛말과 신앙적 구원의 논의가 구체적인 계획 선택과 거리가 있다.",
+      "contextNote": "앞 절의 물러감과 믿음의 대조에 공동체를 놓는다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "d4d5a716c81ce3ac3293ab3bc3a5044fb2197b3d98bf4e1389c6d0278062f296"
+    },
+    {
+      "id": "KRV:HEB:11:1",
+      "status": "hold",
+      "reason": "믿음은 바라는 것들의 실상이자 보지 못하는 것들의 증거라고 정의한다. 불확실성 속 희망을 떠올릴 수 있으나 바라는 결과가 실제로 일어날 증거로 받아들이게 되면 현재의 불확실한 조건을 넘어서게 된다.",
+      "contextNote": "뒤에 나오는 신앙 인물들의 사례에 앞서 믿음을 정의한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "6a465437444f542abddd6fa0eec29ad2b452cd898914450899789f90013150b7"
+    },
+    {
+      "id": "KRV:HEB:11:2",
+      "status": "exclude",
+      "reason": "선진들이 믿음으로 증거를 얻었다고 한다. 선진이 누구인지와 증거가 무엇인지 뒤의 사례에 의존하여 단독 생활 선택의 실마리가 없다.",
+      "contextNote": "믿음의 정의 뒤에 여러 신앙 인물들의 예를 도입한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "f587dd7cd4d499378579fdeeb6207c652fdcd5cf8b6b555af4c798e083fcb7dc"
+    },
+    {
+      "id": "KRV:HEB:11:3",
+      "status": "exclude",
+      "reason": "믿음으로 세계가 하나님의 말씀으로 지어졌고 보이는 것이 나타난 것에서 나온 것은 아님을 안다고 한다. 창조에 대한 신앙 진술로 구체적인 선택의 행동은 드러나지 않는다.",
+      "contextNote": "믿음에 관한 정의에 이어 창조 이해를 말한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "014d03c11e4913c385495a4f5e1c702d529b74b40309ffcdaeaeb67653406c4d"
+    },
+    {
+      "id": "KRV:HEB:11:4",
+      "status": "hold",
+      "reason": "아벨이 믿음으로 더 나은 제사를 드려 의로운 증거를 얻었고 죽었으나 믿음으로 말한다고 한다. 제물과 평가의 서술이 길어 선물을 크기별로 고르는 현재 고민의 실마리로 바로 이어지기 어렵다.",
+      "contextNote": "아벨과 가인의 제사를 비교하는 역사적 신앙 사례다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "25a5a06b14a8bf4ff13442a16d7ff4f8811a48c146d84b31c8fd04d90a932c33"
+    },
+    {
+      "id": "KRV:HEB:11:5",
+      "status": "exclude",
+      "reason": "에녹이 죽음을 보지 않고 하나님께 옮겨지기 전에 하나님을 기쁘시게 하는 증거를 받았다고 한다. 특정 인물의 생과 죽음에 대한 사례로 현재 선택지는 보이지 않는다.",
+      "contextNote": "믿음으로 살았던 인물들을 열거한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "6c0b65a07bc86eae0d35ad84ee34d5334c37cbb918fcf4a67bb0bf7f757fedad"
+    },
+    {
+      "id": "KRV:HEB:11:6",
+      "status": "hold",
+      "reason": "하나님께 나아가는 사람은 하나님이 계시고 찾는 사람에게 상 주심을 믿어야 한다고 한다. 신앙으로 나아가는 방향은 있지만 현재 자신이 믿는지 의심하는 사람을 단정하거나 구체적인 보상을 보장할 수 없다.",
+      "contextNote": "앞 절의 에녹이 하나님을 기쁘시게 했다는 설명을 잇는다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "d1023ab5598f90e2cc0ec57ab870f5eea5c85d5c9316f0464cb3d923c68135d7"
+    },
+    {
+      "id": "KRV:HEB:11:7",
+      "status": "hold",
+      "reason": "노아가 아직 보지 못하는 일에 대한 경고를 듣고 방주를 준비해 집을 구원했다고 한다. 미리 준비하는 행동은 보이지만 대홍수의 신적 경고와 세상 정죄를 현재 여행이나 생활 준비의 사실로 추가할 수 없다.",
+      "contextNote": "노아의 방주와 믿음의 사례를 인용한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "44f4be254e12f547fd942bf2f5d88efd33bbb402f38e1ced3a1bed8e223d7bb2"
+    },
+    {
+      "id": "KRV:HEB:11:8",
+      "status": "candidate",
+      "reason": "아브라함이 부르심에 순종해 장래 땅으로 나갈 때 갈 바를 알지 못한 채 나갔다고 말한다. 다른 도시에서 일할 기회를 받고 익숙한 곳을 떠날지 고민하는 사람이 미래를 다 알 수 없어도 새로운 곳에 가보는 방향을 읽을 수 있다.",
+      "contextNote": "아브라함이 부르심을 따라 고향을 떠난 믿음의 사례다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "R003",
+          "clue": "갈 바를 다 알지 못하면서 떠난다는 모습이 낯선 도시에서의 생활이 궁금하면서도 걱정되는 선택에 닿는다.",
+          "friction": "사용자는 이동할 도시를 알고 있다. 목적지를 모른다거나 하나님이 해당 일자리를 직접 주셨다고 가정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "5c2f95fb4b2953bffdd07700f58404fbe69718edd618838364f755f833212ef3"
+    },
+    {
+      "id": "KRV:HEB:11:9",
+      "status": "hold",
+      "reason": "약속받은 땅에서 외국에 있는 것처럼 이삭과 야곱과 장막에 거하였다고 한다. 낯선 곳에서 지내는 모습은 떠오르지만 자녀와 함께한 약속의 장막을 현재 이사나 유학에 그대로 덧붙일 수 없다.",
+      "contextNote": "앞 절의 아브라함이 약속의 땅에서 거주한 모습을 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "15bcf69853fc7c9c527428174874f016d1b1015b92700827e2472892ce0b8733"
+    },
+    {
+      "id": "KRV:HEB:11:10",
+      "status": "exclude",
+      "reason": "하나님이 경영하고 지으실 터가 있는 성을 바랐다고 설명한다. 앞 절의 주어와 본향의 의미가 필요하며 지금 거처를 선택할 행동을 직접 알려주지 않는다.",
+      "contextNote": "앞 절에서 장막에 산 아브라함의 소망을 말한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "33b9ff7b24d904bf5bd4d34b45dd3a3555fc709fcfa54491c308bd45435fd788"
+    },
+    {
+      "id": "KRV:HEB:11:11",
+      "status": "hold",
+      "reason": "사라가 나이가 많아 아이를 낳을 수 없던 상태에서 잉태할 힘을 얻었다고 한다. 늦은 시작을 떠올리게 하지만 구체적으로 임신과 출산에 관한 이야기이며 기타를 배우는 능력이나 건강의 결과를 보장하지 않는다.",
+      "contextNote": "믿음과 하나님의 약속을 신뢰한 사라의 사례다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "25f56d3e0492b228e904b444c33c8950631239c952c15a3d9bcb50cc51b1c6ef"
+    },
+    {
+      "id": "KRV:HEB:11:12",
+      "status": "exclude",
+      "reason": "죽은 자와 다를 바 없는 한 사람에게서 하늘의 별과 바닷가 모래처럼 많은 자손이 생겼다고 한다. 특정 인물의 후손에 관한 비유로 구체적 선택을 직접 가리키지 않는다.",
+      "contextNote": "앞 절에서 사라가 잉태한 사건의 후손을 말한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "f95813ebd70b8bb53e9d32c3cad66502802a7b308fb3354f5c5e3e504360b120"
+    },
+    {
+      "id": "KRV:HEB:11:13",
+      "status": "hold",
+      "reason": "이 사람들이 약속을 받지 못한 채 믿음을 따라 죽었으며 땅에서 나그네라고 증거했다고 한다. 이루지 못한 소망을 견딘다는 느낌은 있으나 죽음과 미수령이 현재 사용자가 놓친 기회의 결과로 확정된 것은 아니다.",
+      "contextNote": "아브라함과 사라 등 믿음의 인물들이 바란 본향을 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "5906b1eb4a83ce72e522dc6f5a92eac9db30abd68b1cd7789637347a03bdb076"
+    },
+    {
+      "id": "KRV:HEB:11:14",
+      "status": "exclude",
+      "reason": "이처럼 말하는 사람들은 본향을 찾는 것을 나타낸다고 한다. 이처럼 말한 내용과 본향의 뜻이 앞뒤에 의존하며 구체적 생활 선택은 드러나지 않는다.",
+      "contextNote": "앞 절의 나그네라는 고백에 대한 해석이다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "14ccb4c2b78ce022bc339325809c8ad1b9533edb4ddfc1af46bce848ad1eaa74"
+    },
+    {
+      "id": "KRV:HEB:11:15",
+      "status": "hold",
+      "reason": "그들이 나온 본향을 생각하였다면 돌아갈 기회가 있었을 것이라고 한다. 돌아가는 선택을 떠올릴 수 있지만 현재 이사나 연휴 고민에서 실제로 돌아갈 기회가 있는지 본문만으로 알 수 없다.",
+      "contextNote": "앞 절의 믿음의 사람들이 찾은 본향이 하늘에 있음을 설명하는 흐름이다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "4699e64126f476169657f21008b331f8222ab481c7b7f2da765750d5d158c978"
+    },
+    {
+      "id": "KRV:HEB:11:16",
+      "status": "exclude",
+      "reason": "그들이 더 나은 하늘의 본향을 사모하므로 하나님이 한 성을 예비하셨다고 한다. 하늘 본향에 관한 신앙의 설명이며 현재 두 장소 중 어디에 갈지 바로 제시하지 않는다.",
+      "contextNote": "앞 절의 본향에 대한 논의를 마무리한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "feada17cb7a81d84ec0d8161dad220e5376c605257a432e5cbf6714523f21134"
+    },
+    {
+      "id": "KRV:HEB:11:17",
+      "status": "exclude",
+      "reason": "아브라함이 시험받을 때 믿음으로 독생자 이삭을 드렸다고 한다. 자녀를 제물로 드리는 특정한 장면의 충격이 크며 확인된 일상 선택에 적용하기 어렵다.",
+      "contextNote": "아브라함이 이삭을 제물로 드리려 했던 창세기의 이야기를 요약한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "d58883b0b04e75eef97efc69fa9322334558c7ab875c961436b5d152781d793a"
+    },
+    {
+      "id": "KRV:HEB:11:18",
+      "status": "exclude",
+      "reason": "자손이라 칭할 자가 이삭에게서 나오리라는 말씀을 그에게 이미 하셨다고 한다. 앞 절의 아브라함과 이삭에 관한 약속을 인용하는 문장이다.",
+      "contextNote": "아브라함이 받은 자손의 약속을 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "7c0dd2afdcea35621b2014ac54f60196bb788d0a2218b0d36f3611fe65fae995"
+    },
+    {
+      "id": "KRV:HEB:11:19",
+      "status": "exclude",
+      "reason": "하나님이 죽은 자를 살리실 수 있다고 생각해 비유적으로 죽은 자 가운데서 도로 받았다고 한다. 이삭을 바치는 사건에 의존하며 현재 사용자의 생사나 결과를 보증하지 않는다.",
+      "contextNote": "아브라함이 이삭을 드린 일과 그를 도로 받은 일을 해석한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "e60b1719861276f7e33b38a16717bdc00c4ba43a070b7b968b5c0b725fb26e72"
+    },
+    {
+      "id": "KRV:HEB:11:20",
+      "status": "exclude",
+      "reason": "이삭이 장차 올 일에 관해 야곱과 에서에게 축복했다고 한다. 특정 가족의 축복 사건이며 확인된 선택지의 어느 방향인지 명확하지 않다.",
+      "contextNote": "믿음의 조상들의 사례를 이어 열거한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "4d282f82b90d91634e522d08a9ea569afa1fa511b6d5034710567cd43433b939"
+    },
+    {
+      "id": "KRV:HEB:11:21",
+      "status": "exclude",
+      "reason": "야곱이 죽을 때 요셉의 아들들을 축복하고 지팡이에 의지해 경배했다고 한다. 임종 장면과 가족의 역사 묘사로 현재 고민의 행동을 직접 가리키지 않는다.",
+      "contextNote": "믿음의 조상들의 사례를 나열한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "12917dd0664d5b5014200e88046ad10a2a87c864e955507e1ae57560c3ceef27"
+    },
+    {
+      "id": "KRV:HEB:11:22",
+      "status": "exclude",
+      "reason": "요셉이 임종 때 이스라엘 자손의 출발을 말하고 자기 해골에 관해 명령했다고 한다. 특정 장례와 민족 이동의 이야기로 확인된 생활 선택과 다르다.",
+      "contextNote": "요셉이 죽기 전 남긴 말에 대한 신앙 사례다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "51aa1ea94871e3b8d8ed99119fedda2939d961b55ec03fe9af0329d24f4fb3f4"
+    },
+    {
+      "id": "KRV:HEB:11:23",
+      "status": "hold",
+      "reason": "모세의 부모가 아름다운 아이를 석 달 숨기고 임금의 명령을 무서워하지 않았다고 한다. 아이를 보호한 행동은 보이지만 목숨을 위협하는 왕의 명령과 현재 가족의 일상적 선택은 동일하지 않다.",
+      "contextNote": "출생한 모세를 지키려 한 부모의 사례다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "58503f64beaddd566f0686f85e56067465f333c310f093277de9cea9ce430d50"
+    },
+    {
+      "id": "KRV:HEB:11:24",
+      "status": "hold",
+      "reason": "모세가 장성하여 바로의 공주의 아들이라 불리는 것을 거절했다고 한다. 지위를 거절하는 결단은 보이지만 왜 거절했는지와 다른 선택이 무엇인지는 다음 절에 있다.",
+      "contextNote": "모세가 왕실의 지위 대신 공동체의 고난을 택한 이야기가 이어진다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "f052243581d233ab3671b3ab667bd4f6eabce25e2db39429f468dac51674a7c0"
+    },
+    {
+      "id": "KRV:HEB:11:25",
+      "status": "hold",
+      "reason": "하나님의 백성과 함께 고난 받기를 잠시 죄악의 낙을 누리는 것보다 더 좋아했다고 한다. 당장의 화려함보다 가치를 택하는 방향은 떠오르지만 공동체의 고난과 죄악이라는 종교적 맥락이 현재 직업 선택과 직접 일치하지 않는다.",
+      "contextNote": "앞 절에서 모세가 왕실의 지위를 거절한 이유를 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "29d3625bd4d8778737d53991bdf191174dfe1510fef8c4d5ffe6e2616349d9d7"
+    },
+    {
+      "id": "KRV:HEB:11:26",
+      "status": "hold",
+      "reason": "그리스도를 위해 받는 능욕을 애굽의 보화보다 큰 재물로 여겼다고 한다. 물질보다 중요한 가치를 택하는 인상은 있으나 현재 가족과 행사 고민에 실제 능욕이나 고난을 추가할 수 없다.",
+      "contextNote": "모세가 애굽의 부보다 하나님 백성과 함께하는 것을 선택한 설명이다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "638bd64b65f27df8480e81be95a7975f00724fa3ea27846a48ac7dfe0ad78c79"
+    },
+    {
+      "id": "KRV:HEB:11:27",
+      "status": "hold",
+      "reason": "모세가 임금의 노여움을 두려워하지 않고 보이지 않는 분을 보는 듯하며 참고 애굽을 떠났다고 한다. 두려움에도 떠난 모습이 있지만 사용자의 이사 고민에 화난 권력자나 신의 직접 지시가 있었다고 가정하지 않는다.",
+      "contextNote": "앞의 모세가 애굽을 떠난 믿음의 사례다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "6bbe1ac42041f9ac5cd63a76b08c612e4e9c99b6d1d5d30213715b31d620b679"
+    },
+    {
+      "id": "KRV:HEB:11:28",
+      "status": "exclude",
+      "reason": "유월절과 피 뿌리는 예를 정해 장자를 멸하는 자가 건드리지 못하도록 했다고 한다. 특정 출애굽 의식과 죽음의 사건을 서술하며 현재 생활 선택과 직접 같지 않다.",
+      "contextNote": "출애굽 직전 유월절의 사건을 믿음의 사례로 든다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "32061f009aaf00f9f45b158c452ee1e9ba0e6dcc93e8bf4fe9e2e70e0d3b0531"
+    },
+    {
+      "id": "KRV:HEB:11:29",
+      "status": "exclude",
+      "reason": "믿음으로 홍해를 육지처럼 건넜지만 애굽 사람들은 따라 하다 빠져 죽었다고 한다. 탈출과 죽음의 역사적 사건으로 현재 고민의 구체 선택을 비추기 어렵다.",
+      "contextNote": "출애굽 시 홍해를 건넌 사례다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "d1593a194b4b1631dda30dc106690b3a67a79a1f356602e6d56ae4215101d89b"
+    },
+    {
+      "id": "KRV:HEB:11:30",
+      "status": "hold",
+      "reason": "칠 일 동안 여리고를 돌자 성이 무너졌다고 한다. 반복과 결실을 떠올릴 수 있지만 특정 전쟁의 성이 무너진 사건이며 같은 방법으로 계속하면 반드시 성공한다는 보장은 아니다.",
+      "contextNote": "여호수아의 여리고 사건을 믿음의 사례로 든다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "6776ba02eede39a9b5cecc50ebdefe64214c34dfe743b8e40613ecf0a8326439"
+    },
+    {
+      "id": "KRV:HEB:11:31",
+      "status": "hold",
+      "reason": "라합이 정탐꾼을 평안히 맞아들여 불순종한 자와 함께 멸망하지 않았다고 한다. 낯선 사람을 맞는 행동은 있으나 간첩과 멸망이 따라오는 전쟁 상황을 새 모임 구성원의 실제 상황으로 옮기기 어렵다.",
+      "contextNote": "여리고 정탐꾼을 도운 라합의 생존 사건이다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "28fdfb3da39b20b4322992c8dd2861748bf2dc15a7910fe974f7c3ce4903430b"
+    },
+    {
+      "id": "KRV:HEB:11:32",
+      "status": "exclude",
+      "reason": "기드온과 바락과 삼손과 입다와 다윗과 사무엘과 선지자들을 말하려면 시간이 부족하다고 한다. 여러 인물의 이름을 나열하는 문장으로 현재 선택의 방향은 드러나지 않는다.",
+      "contextNote": "앞의 믿음의 인물 사례를 정리하며 더 많은 인물들을 열거한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "d7599d545d32e82e3dd23b67db897667d1b4d2ca7e8e8d9a06c7a4ffbb61fe76"
+    },
+    {
+      "id": "KRV:HEB:11:33",
+      "status": "hold",
+      "reason": "믿음으로 나라를 이기고 의를 행하고 약속을 받으며 사자의 입을 막았다고 열거한다. 믿음으로 여러 일을 견딘 인상은 있으나 전쟁과 사자라는 장면이 현재 구체 선택과 명확하게 연결되지는 않는다.",
+      "contextNote": "앞 절에서 언급한 신앙 인물들이 겪은 사건들을 묶어 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "2084a56847649cc06ddee8be9bc054a5b4a0df1258040b1199ecc06823a50681"
+    },
+    {
+      "id": "KRV:HEB:11:34",
+      "status": "exclude",
+      "reason": "불과 칼날을 피하고 연약함 가운데 강해지며 전쟁에서 이방 군대를 물리쳤다고 한다. 여러 위기와 군사적 사건의 열거로 현재 확인된 생활 고민의 행동을 정하기 어렵다.",
+      "contextNote": "신앙 인물들이 겪은 전쟁과 구출을 계속 열거한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "0f2aa802f87f04e6cb925251fbc3300d9ce29eeb96027db717d6d5a484e9314d"
+    },
+    {
+      "id": "KRV:HEB:11:35",
+      "status": "exclude",
+      "reason": "여자들이 죽은 이를 부활로 받고 다른 사람들은 더 좋은 부활을 바라며 악형을 피하지 않았다고 한다. 죽음과 고문이라는 심각한 신앙의 증언이 현재 일상의 선택과 동일하지 않다.",
+      "contextNote": "믿음의 인물들이 경험한 부활과 박해를 함께 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "365162c1b4730cc8cbfe670d2b4e210515032ceeeeb2580c6cbb230ee02fb048"
+    },
+    {
+      "id": "KRV:HEB:11:36",
+      "status": "exclude",
+      "reason": "다른 이들이 희롱과 채찍질, 결박과 감옥에 갇히는 시험을 받았다고 한다. 구체적인 박해의 사례로 확인된 생활 선택의 실마리는 없다.",
+      "contextNote": "앞 절의 고난받는 신앙인들에 대한 나열이다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "a63ed7a088e63852f79cc3b1487718763118903b4ca9f539e3a13dab1e0fb92f"
+    },
+    {
+      "id": "KRV:HEB:11:37",
+      "status": "exclude",
+      "reason": "돌과 톱과 칼에 죽고 가죽을 입고 떠돌며 궁핍과 학대를 받았다고 한다. 매우 구체적인 폭력과 박해의 묘사로 현재의 생활 고민에 억지로 연결하지 않는다.",
+      "contextNote": "믿음을 지킨 사람들이 당한 고난을 묘사한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "a45526d31b761cb376904c54742fc6abbdd453c42fb32071f6f31b8e56fbda18"
+    },
+    {
+      "id": "KRV:HEB:11:38",
+      "status": "exclude",
+      "reason": "세상이 감당하지 못할 사람들이 광야와 산과 토굴에 떠돌았다고 한다. 앞의 박해받은 사람들을 묘사하며 현재 두 장소 중 어디를 선택할지에 직접 닿지 않는다.",
+      "contextNote": "앞 절의 고난받은 신앙인들에 대한 설명이다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "e04da82a6c873e5fd60b46e6878b59eef5e04294ca2c51a4938626429d7d396f"
+    },
+    {
+      "id": "KRV:HEB:11:39",
+      "status": "hold",
+      "reason": "사람들이 믿음으로 증거를 받았으나 약속은 받지 못했다고 한다. 기대한 것이 아직 이루어지지 않은 마음은 떠오르지만 당사자와 약속의 내용을 앞 문맥 없이 알기 어렵다.",
+      "contextNote": "믿음의 조상들에 관한 긴 사례를 마무리한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "9dee30be8b6084c46f7a8f1503c0d09a426c435b6d4f530daa41530bacf65214"
+    },
+    {
+      "id": "KRV:HEB:11:40",
+      "status": "hold",
+      "reason": "하나님이 더 좋은 것을 예비하셨고 우리가 아니면 그들이 온전함을 이루지 못하게 하셨다고 한다. 더 좋은 것을 기대할 여지는 있지만 두 집단의 관계와 뒷문장이 현재의 구체 고민과 바로 연결되지 않는다.",
+      "contextNote": "앞 절의 약속을 완전히 받지 못한 사람들에 대한 설명이다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "f3acb6ddb0219fc6b05a3f27afb17e5029c7a1798bab1cd5b6645218c48821e5"
+    },
+    {
+      "id": "KRV:HEB:12:1",
+      "status": "candidate",
+      "reason": "무거운 것과 얽매이기 쉬운 죄를 벗고 인내로 앞의 경주를 하자고 한다. 시작한 일의 지루한 마무리를 끝낼지 새 일을 할지 고민하는 사람이 마음의 부담을 내려놓고 남은 일을 이어가는 쪽으로 읽을 수 있다.",
+      "contextNote": "앞 장에서 말한 많은 믿음의 증인들을 경주를 둘러싼 모습에 비유한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H053",
+          "clue": "무거운 것을 벗고 인내로 앞의 경주를 이어간다는 표현이 시작한 일을 끝까지 해낼 선택과 닿는다.",
+          "friction": "본문의 죄는 신앙적 표현이며 사용자가 실제 죄를 지었다고 가정하지 않는다. 마무리하면 원하는 결과가 보장되는 것도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "f4533084ccb5a3f21ffb8aafb576d259e082e0a802ae4e2ad36a2beaf113f4ee"
+    },
+    {
+      "id": "KRV:HEB:12:2",
+      "status": "hold",
+      "reason": "예수를 바라보자고 하며 그가 즐거움을 위해 십자가를 참고 부끄러움을 개의치 않은 뒤 하나님 보좌 우편에 앉았다고 한다. 수치심을 견딘다는 말은 있지만 십자가의 고난과 예수의 사역을 현재 발표의 불안과 동일시하기 어렵다.",
+      "contextNote": "앞 절의 경주와 인내에 이어 예수를 바라보라고 권한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "fe41499f29115d7b9b2aea0591c8d01418c92f0f9867fd5fa3242175af763303"
+    },
+    {
+      "id": "KRV:HEB:12:3",
+      "status": "hold",
+      "reason": "피곤하여 낙심하지 않기 위해 죄인들의 거역을 참으신 분을 생각하라고 한다. 지친 마음을 붙드는 격려는 있지만 잠을 더 자거나 공부를 이어갈 두 선택 중 어느 쪽이 필요한지는 분명하지 않다.",
+      "contextNote": "앞 절의 고난을 참으신 예수를 생각하라는 권면이다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "5a69b6af3b194002d1bc53b6693ffe497b9e72f73ea70512db86d794361c2b21"
+    },
+    {
+      "id": "KRV:HEB:12:4",
+      "status": "exclude",
+      "reason": "죄와 싸우되 아직 피 흘리기까지는 대항하지 않았다고 한다. 앞의 신앙적 고난과 다음의 징계에 이어지는 문장으로 일반적인 피로나 과제 고민에 실제 폭력과 죄를 더하지 않는다.",
+      "contextNote": "박해를 견디는 공동체에 인내를 권하는 맥락이다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "abb4370f3bd86017ceb68236964a453f152afadcd361b27c862cb3ed20438c1b"
+    },
+    {
+      "id": "KRV:HEB:12:5",
+      "status": "hold",
+      "reason": "주의 징계를 가볍게 여기지 말고 꾸지람을 받을 때 낙심하지 말라는 아들들에 대한 권면을 인용한다. 피드백을 받아들이는 방향은 있으나 동료가 실수를 알려준 일을 하나님이 벌하거나 꾸짖었다는 사실로 바꿀 수 없다.",
+      "contextNote": "다음 절부터 하나님의 징계를 아버지의 훈육에 비교한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "cd5145f1d6ec648a71b7928a0d9f29d53f6b329e7c19548bcde298dbbdb9ab1c"
+    },
+    {
+      "id": "KRV:HEB:12:6",
+      "status": "hold",
+      "reason": "주께서 사랑하는 사람을 징계하고 받으시는 아들마다 채찍질하신다고 한다. 어려움에도 돌봄이 있을 수 있다는 해석은 가능하지만 실제 문제를 신의 처벌이나 폭력의 정당화로 단정할 근거는 없다.",
+      "contextNote": "앞 절의 아버지의 훈육을 비유한 인용이 이어진다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "31d39bb9682bd337cb49a909f0662ab074f246f0793f7cb0592aa5e8ff5aaa34"
+    },
+    {
+      "id": "KRV:HEB:12:7",
+      "status": "hold",
+      "reason": "징계를 참는 것은 아들처럼 대우받는 것이며 아버지가 징계하지 않는 아들이 있겠느냐고 묻는다. 견딤이라는 말은 있으나 실제 사용자나 가족의 구체 고난을 신의 징계로 단정하지 않는다.",
+      "contextNote": "하나님의 징계를 아버지와 아들 관계에 빗대어 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "f18c93a3d7e335806109b7248c3d781c8910d7fe227bbddd7319956c09f6b793"
+    },
+    {
+      "id": "KRV:HEB:12:8",
+      "status": "exclude",
+      "reason": "징계를 받지 않으면 사생자이며 참 아들이 아니라고 한다. 가족의 지위로 징계를 설명하는 표현이 현재 생활 선택에 부합하지 않고 거칠게 느껴질 수 있다.",
+      "contextNote": "앞 절의 아버지와 아들에 대한 비유를 이어간다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "ea19c6fc9d42f42605300c65ebc96b0686cc61a00f13c94644b3f3be6d78d978"
+    },
+    {
+      "id": "KRV:HEB:12:9",
+      "status": "hold",
+      "reason": "육체의 아버지에게 징계받아도 공경했으니 영의 아버지께 더 복종하며 살라고 묻는다. 부모와의 관계를 떠올릴 수 있으나 사용자의 부모가 이미 징계했다는 조건이나 맹목적 복종을 사실로 넣을 수 없다.",
+      "contextNote": "앞의 징계 비유에서 인간의 부모와 하나님을 비교한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "f44c15c25c744b9b9a40d82d23349e2de7b60a680c26dde82c79ae3458fde3be"
+    },
+    {
+      "id": "KRV:HEB:12:10",
+      "status": "exclude",
+      "reason": "육체의 아버지들은 잠시 자기 뜻대로 징계했고 하나님은 유익과 거룩함을 위해 하신다고 설명한다. 두 징계의 신앙적 목적을 비교하는 문장으로 구체 고민의 선택을 직접 가리키지 않는다.",
+      "contextNote": "앞의 인간 아버지와 하나님의 징계를 대조한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "7bbd291005d076a29a478a33efca9a85d612bd7aee6838611d10208ad8312e39"
+    },
+    {
+      "id": "KRV:HEB:12:11",
+      "status": "hold",
+      "reason": "징계가 당장은 슬퍼 보여도 후에 단련받은 사람에게 의와 평강의 열매를 맺는다고 한다. 불편한 배움의 가치가 떠오르지만 지적을 받는 상황을 벌로 단정하거나 앞으로 반드시 좋은 결과가 온다고 보장해서는 안 된다.",
+      "contextNote": "앞의 징계에 관한 비유에서 후의 열매를 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "ef6776a1f0fd8688ac929decc892bc92450d42fee4037cf59fd41f8685891c88"
+    },
+    {
+      "id": "KRV:HEB:12:12",
+      "status": "hold",
+      "reason": "피곤한 손과 연약한 무릎을 일으켜 세우라고 한다. 다시 힘을 내라는 이미지는 선명하지만 공부를 계속할지 잠을 잘지의 고민에서 피곤함을 해결하는 구체적 선택은 정해지지 않는다.",
+      "contextNote": "앞 절까지 징계와 인내를 말한 뒤 공동체를 격려한다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "622add900a3b2513ac4932c723cbe8161a0492a5b2587c5da7a5d756d46346f7"
+    },
+    {
+      "id": "KRV:HEB:12:13",
+      "status": "hold",
+      "reason": "발을 위해 곧은 길을 만들어 저는 다리가 어그러지지 않고 고침을 받게 하라고 한다. 회복을 돕는 방향은 있지만 다리의 구체적 상태가 확인되지 않은 건강 고민에 이를 사실처럼 추가할 수 없다.",
+      "contextNote": "앞 절의 피곤한 손과 무릎을 일으키라는 권면이 이어진다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "6e2f8e4c644044698388b688c22988887ad70bba9000a29d268eb50bdc3b2bb6"
+    },
+    {
+      "id": "KRV:HEB:12:14",
+      "status": "candidate",
+      "reason": "모든 사람과 화평함을 좇으라고 하며 거룩함 없이는 주를 보지 못한다고 한다. 먼저 심하게 말해 사과하고 싶지만 망설이는 사람이 관계를 풀기 위해 먼저 다가가는 쪽으로 읽을 수 있다.",
+      "contextNote": "공동체의 평화와 거룩함을 추구하라는 신앙적 권면이다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G10",
+          "clue": "모든 사람과 더불어 화평함을 좇으라는 표현이 싸운 친구와 관계를 풀 선택에 닿는다.",
+          "friction": "본문은 직접 사과를 지시하지 않으며 뒷부분의 거룩함과 주를 보는 종교적 말이 낯설 수 있다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "4166859c3e13f163c8c214e675157695962c45e86e7236e827cb9b5383bcdb6b"
+    },
+    {
+      "id": "KRV:HEB:12:15",
+      "status": "hold",
+      "reason": "은혜에 이르지 못하는 사람이 있거나 쓴 뿌리가 자라 많은 사람을 괴롭게 하지 않도록 돌아보라고 한다. 앙금이 커지는 이미지를 떠올릴 수 있지만 은혜를 받지 못한 사람이나 공동체 전체의 실제 피해를 현재 사실로 추가할 수 없다.",
+      "contextNote": "공동체의 화평과 거룩함을 지키라는 앞 절의 권면을 이어간다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "29bdb5b52aaa20bafbd0256b5fa35e7977bcfad932c5f9d456b5fc851a2a9dda"
+    },
+    {
+      "id": "KRV:HEB:12:16",
+      "status": "hold",
+      "reason": "음행하는 자와 한 그릇 식물을 위해 장자의 명분을 판 에서 같은 망령된 자가 없도록 두려워하라고 한다. 당장의 것을 위해 중요한 것을 놓치는 방향은 떠오르지만 음행과 장자의 명분이라는 구체 말이 현재의 구매 고민과 거리감이 있다.",
+      "contextNote": "에서가 장자의 권리를 음식과 바꾼 이야기와 공동체의 거룩함을 연결한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "8969e9373301f41a602236599eab3bb3f5b12ab9697afa7d16f0b62499060520"
+    },
+    {
+      "id": "KRV:HEB:12:17",
+      "status": "hold",
+      "reason": "에서가 뒤에 축복을 받고자 눈물로 구했으나 버림받아 회개할 기회를 얻지 못했다고 한다. 놓친 기회에 대한 후회는 보이지만 현재 기회가 완전히 닫혔다거나 회복할 수 없다고 단정해서는 안 된다.",
+      "contextNote": "앞 절에서 한 그릇 음식을 위해 장자의 명분을 판 에서의 결과를 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "44440fad37bd4862cd14589cc86e7a08afea9d1b615fcb16536b66e8acd49cb9"
+    },
+    {
+      "id": "KRV:HEB:12:18",
+      "status": "exclude",
+      "reason": "너희가 이른 곳은 만질 만한 불붙는 산과 어둠과 폭풍이 아니라고 말하며 다음 절로 이어진다. 특정 산의 묘사가 문장의 일부이고 현재 선택의 실마리는 없다.",
+      "contextNote": "시내산과 뒤에 나오는 시온산을 대조하는 문단의 시작이다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "8646bcf9694f1fef149d25d83d621f94133c56532cbabca61a498d54a874226e"
+    },
+    {
+      "id": "KRV:HEB:12:19",
+      "status": "exclude",
+      "reason": "나팔과 말하는 소리를 들은 사람들이 더 말씀하지 말아 달라고 구했다고 한다. 앞의 산에서 일어난 사건을 이어 설명하며 현재 대화 선택과는 다르다.",
+      "contextNote": "시내산에서 하나님의 음성을 들은 사람들의 두려움을 묘사한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "07e510514a84d09481155548a242ebd3ef7317e5eacf333d4c5e5b93f61939db"
+    },
+    {
+      "id": "KRV:HEB:12:20",
+      "status": "exclude",
+      "reason": "짐승이라도 산에 이르면 돌로 침을 당하리라는 명령을 견디지 못했다고 한다. 특정 거룩한 산의 접근 금지와 폭력적 형벌을 설명한다.",
+      "contextNote": "앞 절의 사람들이 음성을 두려워한 이유를 말한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "19213cfe10ffeb760dae295d89217848ae0a966bf91942480309c60d6330940e"
+    },
+    {
+      "id": "KRV:HEB:12:21",
+      "status": "exclude",
+      "reason": "보이는 것이 너무 무서워 모세도 두렵고 떨린다고 말했다고 한다. 앞의 산과 계시에 대한 역사적 두려움이며 현재 선택의 방향은 직접 드러나지 않는다.",
+      "contextNote": "시내산 장면을 마무리한 뒤 다음 절에서 시온산과 대비한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "111b41d60be1d265457085e27b7bcfa45b3edfadb51876a8302931ee30a2dbae"
+    },
+    {
+      "id": "KRV:HEB:12:22",
+      "status": "exclude",
+      "reason": "너희가 이른 곳은 시온산과 하늘의 예루살렘과 수많은 천사라고 나열하며 다음 절로 이어진다. 신앙의 도성을 묘사하는 문장의 일부로 지금 선택할 행동은 나타나지 않는다.",
+      "contextNote": "앞의 두려운 시내산과 대비되는 시온의 모습을 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "5dc94195d18374e669f960d357031b3844168e00467ea554e3e1237a3e77f047"
+    },
+    {
+      "id": "KRV:HEB:12:23",
+      "status": "exclude",
+      "reason": "하늘에 기록한 장자들의 총회와 교회, 심판자 하나님과 의인의 영들을 열거한다. 앞뒤 문장에 이어지는 공동체 묘사로 구체 고민의 선택이 보이지 않는다.",
+      "contextNote": "앞 절의 하늘 예루살렘을 구성하는 존재들을 이어 나열한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "33f819abb1f7dec001939ba0b7282bfd874c262cf7456fe91e8ca5606635f692"
+    },
+    {
+      "id": "KRV:HEB:12:24",
+      "status": "exclude",
+      "reason": "새 언약의 중보인 예수와 아벨의 피보다 낫게 말하는 뿌린 피를 말한다. 앞의 하늘 도성 묘사를 마무리하는 구절로 현재 생활 선택의 실마리는 없다.",
+      "contextNote": "앞 절의 하늘 공동체와 이어 새 언약을 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "68d27e09e8837b62984fb5160fb4aa67a3ec39df555bd993598ef04a3785a2fb"
+    },
+    {
+      "id": "KRV:HEB:12:25",
+      "status": "hold",
+      "reason": "말하신 분을 거역하지 말라고 하며 땅과 하늘에서 경고한 이를 배반하면 피하지 못한다고 한다. 조언을 들을지의 고민이 떠오를 수는 있지만 사람의 조언을 하나님의 경고라고 단정할 수 없다.",
+      "contextNote": "시내산과 하늘 시온의 대비 뒤 하나님의 말씀을 거역하지 말라고 경고한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "01cfa1f90341b1fcedb1d71aff0e95d0534104ce5228dd35b8fde4390b831aa8"
+    },
+    {
+      "id": "KRV:HEB:12:26",
+      "status": "exclude",
+      "reason": "그때는 소리가 땅을 진동시켰지만 다시 땅과 하늘을 진동하겠다는 약속을 인용한다. 우주적 계시의 묘사로 현재 일상 선택의 행동이 드러나지 않는다.",
+      "contextNote": "시내산의 음성과 장차 있을 흔들림을 연결한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "2929c78b2c6758d25cd2cc6604d9bdb716948140b8194f1ee7dc3475faf0c9db"
+    },
+    {
+      "id": "KRV:HEB:12:27",
+      "status": "exclude",
+      "reason": "다시 한번이라는 말은 진동하지 않는 것이 영존하도록 만들어진 것들의 변동을 뜻한다고 설명한다. 앞 절의 인용을 해설하는 신학적 문장이다.",
+      "contextNote": "하늘과 땅이 진동한다는 앞 절의 의미를 풀이한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "bc96960fffb92454a4b0fc4e308ec8e0882c7cc4791a637ba7ad5743e59ac5c7"
+    },
+    {
+      "id": "KRV:HEB:12:28",
+      "status": "hold",
+      "reason": "흔들리지 않는 나라를 받았으니 은혜를 받고 경건함과 두려움으로 하나님을 섬기자고 한다. 안정과 감사의 느낌은 있으나 현재 불안한 선택을 어떻게 할지 직접적인 행동과는 거리가 있다.",
+      "contextNote": "앞의 흔들리는 것과 영존하는 나라를 대비한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "2a7fb9adbef43fab395337d1574017ed1735926df7b3cb02944887e3a6c89193"
+    },
+    {
+      "id": "KRV:HEB:12:29",
+      "status": "exclude",
+      "reason": "하나님은 소멸하는 불이라고 말한다. 짧고 강렬한 신앙적 비유이지만 현재 구체적인 선택의 실마리는 드러나지 않는다.",
+      "contextNote": "앞 절의 경건함과 두려움으로 섬기라는 권면을 마무리한다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "ca7e1e7dddbca5b18b63566b666060a546280354756b99fe2de9f50c5d3fbf11"
+    },
+    {
+      "id": "KRV:HEB:13:1",
+      "status": "candidate",
+      "reason": "형제 사랑하기를 계속하라고 한다. 먼저 심하게 말한 뒤 사과하고 싶지만 민망한 사람이 관계를 지키기 위해 다시 친구에게 다가가는 쪽으로 읽을 수 있다.",
+      "contextNote": "편지 말미에서 공동체의 사랑을 계속하라고 권한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "G10",
+          "clue": "사랑을 계속하라는 표현이 싸운 뒤에도 관계를 이어갈 선택을 떠올리게 한다.",
+          "friction": "본문의 형제 사랑을 친구에게 비유하는 개인적 읽기이며 상대가 이미 사과를 받아들였다고 가정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "6d3090b7c2ae4ceb7e474aa014ccc65aed6a54c9d0063fa9a37aa838d8307e95"
+    },
+    {
+      "id": "KRV:HEB:13:2",
+      "status": "candidate",
+      "reason": "손님 대접하기를 잊지 말라고 하며 뜻하지 않게 천사들을 대접한 이들이 있었다고 한다. 국적과 문화가 달라 낯선 교회 소모임의 처음 온 사람을 함께 맞이할지 고민하는 사람이 반갑게 대접하는 쪽으로 읽을 수 있다.",
+      "contextNote": "나그네를 대접했던 성경의 이야기를 떠올리며 손님을 환대하라고 권한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C022",
+          "clue": "손님을 대접하라는 말이 처음 온 낯선 사람에게 다가갈 선택과 닿는다.",
+          "friction": "천사 이야기는 본문의 사례이며 지금 온 사람이 천사이거나 그가 반드시 친해질 것이라고 단정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "1323caceb8d8ade6f6bd4b4b81685b39997d32cbf16d023f462d5a39005b0813"
+    },
+    {
+      "id": "KRV:HEB:13:3",
+      "status": "hold",
+      "reason": "자기도 함께 갇힌 것처럼 갇힌 자를 생각하고 몸을 가진 사람으로서 학대받는 자를 생각하라고 한다. 어려운 사람에게 공감하는 방향은 보이지만 현재 상실을 겪은 친구가 감옥에 갇히거나 학대받았다는 사실은 없다.",
+      "contextNote": "박해받거나 갇힌 이들을 기억하라는 공동체 권면이다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "88230248572f90bc34ca2291ca35ca4610f6f2ee15f2ad2bb06b3b45ea7cec21"
+    },
+    {
+      "id": "KRV:HEB:13:4",
+      "status": "candidate",
+      "reason": "혼인을 귀하게 여기고 침소를 더럽히지 말라며 음행과 간음을 심판한다고 한다. 서로 배우자가 있는 동료와 둘만 여행을 갈지, 지키고 싶은 가정을 생각해 거절할지 고민하는 사람이 혼인을 존중하는 방향을 읽을 수 있다.",
+      "contextNote": "공동체에 혼인의 존중과 성적 관계에 대한 경계를 권한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B019",
+          "clue": "혼인을 귀히 여기라는 말이 현재 지키고 싶은 결혼과 여행 제안 사이의 고민에 닿는다.",
+          "friction": "사용자가 이미 간음하거나 신체적 관계를 맺었다고 가정하지 않으며 뒷부분의 심판 표현이 강하게 느껴질 수 있다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "eb488ec525adca2642f45c7e8ed26f7e9f09774a099839d312d63b04eb50d0ab"
+    },
+    {
+      "id": "KRV:HEB:13:5",
+      "status": "candidate",
+      "reason": "돈을 사랑하지 말고 있는 것으로 족한 줄 알라고 하며 하나님이 버리거나 떠나지 않겠다고 한다. 잘 작동하는 제품이 있지만 더 좋은 제품으로 바꿀지 고민하는 사람이 지금 가진 것에 만족하는 쪽으로 읽을 수 있다.",
+      "contextNote": "돈과 소유에 관한 권면에 하나님의 동행 약속을 덧붙인다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H006",
+          "clue": "있는 바를 족한 줄 알라는 표현이 기능하는 현재 물건을 계속 쓰는 선택에 닿는다.",
+          "friction": "현재 사용자가 돈에 집착하거나 새 제품을 살 형편이 없다고 가정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "3184f0b29085ec18ba3bc03ef9e70cd793b633c220d74242646c0bc985634356"
+    },
+    {
+      "id": "KRV:HEB:13:6",
+      "status": "candidate",
+      "reason": "주가 돕는 분이니 무서워하지 않겠고 사람이 내게 어찌하겠느냐고 담대히 말한다. 주변에서 실력으로는 본선에 못 간다고 해 위축됐지만 발표 대회에 지원하고 싶은 사람이 남들의 말에 눌리지 않고 지원할 용기를 얻을 수 있다.",
+      "contextNote": "앞 절의 하나님이 버리지 않겠다는 약속에 대한 응답으로 인용한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "R012",
+          "clue": "사람이 내게 어찌하리요라는 말이 남들의 부정적 평가에 위축된 고민과 닿는다.",
+          "friction": "본문은 신앙의 담대함을 말하며 대회에 합격하거나 다른 사람이 생각을 바꾼다고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "b992e86de9e8b91c41bb6f925a94da78718bbd6c434c9c4ec7a9abdbbf3393a8"
+    },
+    {
+      "id": "KRV:HEB:13:7",
+      "status": "hold",
+      "reason": "하나님의 말씀을 전하며 인도한 이들의 행실의 종말을 주의해서 보고 믿음을 본받으라고 한다. 선배의 경험을 참고하는 태도는 보이지만 현재 조언을 구할 선배가 신앙 지도자라는 사실은 없다.",
+      "contextNote": "공동체를 이끌던 신앙 지도자들을 기억하라는 권면이다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "27f89b41ec8809292ce14771942294dc31cc28bf314a21401c519be4c541c5d2"
+    },
+    {
+      "id": "KRV:HEB:13:8",
+      "status": "hold",
+      "reason": "예수 그리스도는 어제와 오늘과 영원토록 같다고 한다. 변하지 않는 존재가 주는 위로는 있을 수 있으나 현재 일이나 물건의 선택 중 무엇을 할지는 구절만으로 직접 드러나지 않는다.",
+      "contextNote": "앞의 신앙 지도자를 기억하라는 권면 뒤 그리스도의 변함없음을 말한다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "4ede469323b83c665b624f8b7a464e61ac12a8cb5bff01d9355cfc1118b17894"
+    },
+    {
+      "id": "KRV:HEB:13:9",
+      "status": "hold",
+      "reason": "여러 다른 교훈에 끌리지 말고 마음은 은혜로 굳게 하며 식물로 하는 것은 유익하지 않다고 한다. 믿음의 기준을 지키라는 방향은 있으나 식물이라는 옛말과 음식 관련 뒷부분이 현재 다른 사람의 제안에 어떻게 연결되는지 어렵다.",
+      "contextNote": "공동체를 흔드는 다른 가르침과 음식 규례를 경계한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "ca6cfd948714493e5dc64ecbe59bf12a934bae81cbd02eb619235143a3fa0479"
+    },
+    {
+      "id": "KRV:HEB:13:10",
+      "status": "exclude",
+      "reason": "장막에서 섬기는 사람들이 그 제물에서 먹을 권리가 없는 제단이 우리에게 있다고 한다. 제사와 제단에 관한 신학적 설명으로 확인된 일상적 식사 선택의 기준은 아니다.",
+      "contextNote": "다음 절의 짐승 제사와 그리스도의 고난 설명으로 이어진다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "51e3fd7fb58a5db544ea9133e80b44b305cc3b50373ea3f963696bbab550fac8"
+    },
+    {
+      "id": "KRV:HEB:13:11",
+      "status": "exclude",
+      "reason": "죄를 위한 짐승의 피는 대제사장이 성소에 가져가고 육체는 영문 밖에서 불사른다고 한다. 속죄 제사의 구체 절차를 설명한다.",
+      "contextNote": "다음 절에서 예수의 성문 밖 고난과 비교한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "b95096906899ea81edafba32b981ed7be7b2fa97260db11c64d458a191671111"
+    },
+    {
+      "id": "KRV:HEB:13:12",
+      "status": "exclude",
+      "reason": "예수가 자기 피로 백성을 거룩하게 하려고 성문 밖에서 고난받았다고 한다. 예수의 희생 장소와 의미를 설명하는 구절로 생활 선택을 직접 비추지 않는다.",
+      "contextNote": "앞 절의 제사에서 짐승의 몸을 영문 밖에서 불사르는 것과 연결한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "6fdc73d42e1b3050ecf0b08219a756b61fdc687aba0bd0c85e0b3487a2561a51"
+    },
+    {
+      "id": "KRV:HEB:13:13",
+      "status": "hold",
+      "reason": "그 능욕을 지고 영문 밖으로 그에게 나아가자고 한다. 부끄러움에도 나아가는 인상을 줄 수 있지만 누구의 능욕과 영문 밖이 무엇을 뜻하는지 앞 문맥이 필요하다.",
+      "contextNote": "성문 밖에서 고난받은 예수를 따르라는 권면이다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "4c9290c030cf76877d3ba710db242854b4268d0f758bc13edd369c93317e1fab"
+    },
+    {
+      "id": "KRV:HEB:13:14",
+      "status": "hold",
+      "reason": "여기에는 영구한 도성이 없고 장차 올 것을 찾는다고 한다. 현재 자리에서 새로운 곳을 바라보는 이미지는 있으나 도성이 어디인지와 이사가 영구하지 않다는 현재 조건을 추가할 수 없다.",
+      "contextNote": "앞의 영문 밖으로 예수에게 나아가자는 말에 이어 하늘 도성을 기대한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "ada9210ece6f779473c9cff0bc35bbc05a5a9ce38735111712c97df7cbadf2e9"
+    },
+    {
+      "id": "KRV:HEB:13:15",
+      "status": "candidate",
+      "reason": "예수로 말미암아 늘 하나님께 찬미의 제사를 드리며 그것을 이름을 증거하는 입술의 열매라 한다. 친구의 도움과 하나님께 감사한 마음을 교회에서 말할지 망설이는 사람이 입으로 감사를 나누는 쪽으로 읽을 수 있다.",
+      "contextNote": "공동체에 입술로 하나님을 찬미하라고 권한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B031",
+          "clue": "이름을 증거하는 입술의 열매라는 표현이 감사한 일을 말로 나눌 선택에 닿는다.",
+          "friction": "본문은 하나님에 대한 찬미를 말하며 친구가 어떻게 반응하거나 다른 사람이 어떻게 평가할지는 알 수 없다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "5e37692b4c9b408a2b9e2d37916316a0cede86701e784fbbad05303e9e6a134f"
+    },
+    {
+      "id": "KRV:HEB:13:16",
+      "status": "candidate",
+      "reason": "선을 행하고 서로 나누어 주기를 잊지 말라며 이런 제사를 하나님이 기뻐하신다고 한다. 생활비가 부족하지 않지만 돈을 아낄지 도움을 줄지 고민하는 사람이 가진 것을 나누는 쪽으로 읽을 수 있다.",
+      "contextNote": "앞 절의 찬미에 이어 나눔과 선행을 하나님께 드리는 제사로 비유한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H059",
+          "clue": "선을 행하고 나눠주기를 잊지 말라는 말이 누군가를 도울 기회에 직접 닿는다.",
+          "friction": "현재의 여유는 고민에 주어진 조건이고 나눈 뒤 경제적 보상이 생긴다고 약속하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "8abb79945eadd7ac5ceacf0a08156b816c15d6b021048a6cbc7ea18f360d324b"
+    },
+    {
+      "id": "KRV:HEB:13:17",
+      "status": "hold",
+      "reason": "인도하는 자들에게 순종하고 복종하여 그들이 근심하지 않고 즐겁게 돌보게 하라고 한다. 조언이나 부모 기대에 관한 고민을 떠올릴 수 있지만 현재 상대가 신앙 지도자이거나 복종이 유일한 답이라고 가정하지 않는다.",
+      "contextNote": "공동체를 영적으로 돌보는 지도자와 구성원의 관계를 권한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "b77c23c0b496331f9aec327c388638d439a66f0e407bc3c8de081d0b84abd342"
+    },
+    {
+      "id": "KRV:HEB:13:18",
+      "status": "candidate",
+      "reason": "우리를 위하여 기도하라고 하며 모든 일에 선하게 행하려는 선한 양심을 말한다. 혼자 기도하던 사람이 힘든 집안일을 두고 믿는 친구에게 함께 기도해 달라 부탁할지 망설일 때 기도를 요청하는 쪽을 떠올릴 수 있다.",
+      "contextNote": "편지 작성자가 공동체에 자신들을 위해 기도해 달라고 부탁한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A055",
+          "clue": "우리를 위하여 기도하라는 짧은 부탁이 친구에게 기도를 요청할 선택에 닿는다.",
+          "friction": "뒷부분은 화자의 양심을 말하며 사용자가 잘못을 저질렀거나 친구가 반드시 응한다고 가정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "3cf309624e97109cabbd04b396a3bd8a1320cd9c85a951a60aaee78fee28248c"
+    },
+    {
+      "id": "KRV:HEB:13:19",
+      "status": "hold",
+      "reason": "더 속히 너희에게 돌아가기 위해 기도해 주기를 더욱 원한다고 한다. 기도 요청은 보이지만 돌아갈 장소나 누군가와 떨어져 있다는 조건이 현재 집안의 어려움 사례에는 없다.",
+      "contextNote": "앞 절의 공동체를 향한 기도 부탁을 구체적으로 덧붙인다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "47e01acb5cbe459863a6b049bb54bb99d9384df22ed32175194e2c0279f0c97b"
+    },
+    {
+      "id": "KRV:HEB:13:20",
+      "status": "exclude",
+      "reason": "죽은 자 가운데서 예수를 이끌어 내신 평강의 하나님이라고 대상을 부르며 문장이 다음 절로 이어진다. 축도의 문장 일부로 독립적인 선택 단서가 없다.",
+      "contextNote": "다음 절까지 이어지는 축도의 도입이다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "d3984fae57e721c60d36b27dba4b7245e4c485fccd96d21c4cf2879ef1329d59"
+    },
+    {
+      "id": "KRV:HEB:13:21",
+      "status": "hold",
+      "reason": "모든 선한 일에 온전하게 하고 하나님 뜻을 행하도록 해 달라는 축복의 기도를 드린다. 선한 일을 할 힘을 구한다는 인상은 있지만 긴 기도문이 지금 무엇을 선택할지 직접 정하지는 않는다.",
+      "contextNote": "앞 절의 평강의 하나님을 향한 축도를 완성한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "6c19e110cd1c594251a864ae8615b1fcf016d64b1b40367e5bceaf11ecf80a88"
+    },
+    {
+      "id": "KRV:HEB:13:22",
+      "status": "candidate",
+      "reason": "권면의 말을 받아들이라고 하며 간단히 썼다고 한다. 팀원이 내가 놓친 실수를 알려줘 기분이 상했지만 인정하고 고칠지 고집할지 고민하는 사람이 지적을 받아들일 쪽을 읽을 수 있다.",
+      "contextNote": "편지를 받는 형제들에게 그 권면을 용납해 달라고 당부한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "권면의 말을 용납하라는 표현이 동료의 지적을 인정하고 고칠 선택에 닿는다.",
+          "friction": "본문은 편지의 권면이며 동료가 글을 썼다거나 이미 짧게 말했다고 가정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "09b5f1053440db46ea85e1185281cb9be128d6816430060b0ce6f3102cbfaa68"
+    },
+    {
+      "id": "KRV:HEB:13:23",
+      "status": "hold",
+      "reason": "디모데가 놓였고 그가 속히 오면 함께 가서 만나겠다고 한다. 다시 찾아가는 장면이 보이지만 현재 본가에 갈지 고민하는 사람에게 동행자나 석방된 사람이 있다고 가정할 수 없다.",
+      "contextNote": "편지 말미에 디모데의 소식과 방문 계획을 전한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "ec118d6b057c3b3037c3e28b9e0e0ff770e117eb76255d4b07e46944f1230cc3"
+    },
+    {
+      "id": "KRV:HEB:13:24",
+      "status": "exclude",
+      "reason": "인도하는 사람들과 모든 성도에게 문안하라고 하고 이달리야에서 온 사람들도 문안한다고 한다. 편지의 안부 전달로 현재 선택할 행동은 구체적으로 제시되지 않는다.",
+      "contextNote": "편지 말미에 공동체와 다른 지역의 인사를 전한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "6f546ab2f6ee234a11bcc1fd7abd7b88991ad692d07b6b61925947deae207e4a"
+    },
+    {
+      "id": "KRV:HEB:13:25",
+      "status": "hold",
+      "reason": "모든 사람에게 은혜가 함께하기를 바란다는 끝인사다. 따뜻한 기분은 줄 수 있지만 특정 고민에서 무엇을 선택할 실마리가 구체적으로 드러나지 않는다.",
+      "contextNote": "히브리서 편지를 맺는 축복 인사다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "2b3e39f92de691e7f518b14c11810dab9c06922bae8825e2abb39a499da5820e"
     }
   ]
 }

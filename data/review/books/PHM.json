@@ -1,0 +1,283 @@
+{
+  "bookCode": "PHM",
+  "corpusSha256": "f8d5c8b377e243b05fb884b4a6965d2c06a95de74b64a716ee4b95989d61e971",
+  "criteriaVersion": "garasadae-corpus-2026-10-08-v1",
+  "reviewer": "codex-terra-front-letters",
+  "method": "direct-codex-reading",
+  "entries": [
+    {
+      "id": "KRV:PHM:1:1",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "갇힌 바울과 동역자들이 수신자를 부르는 편지의 첫 부분이다. 지금 어떤 생활 선택을 해야 할지는 나타나지 않는다.",
+      "contextNote": "다음 절까지 빌레몬과 그의 집 교회에 보내는 편지의 발신자와 수신자를 소개한다.",
+      "connections": [],
+      "textSha256": "6f71ac38e8b5adc4fa248b126629983ac8f231c7fb716f965d89fcc3d3038ab5"
+    },
+    {
+      "id": "KRV:PHM:1:2",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "여러 수신자의 이름과 그 집에 있는 교회를 부르는 편지 머리말이다. 사용자와 비슷한 이름이나 관계를 임의로 만들 수 없다.",
+      "contextNote": "앞 절에 이어 압비아 아킵보와 집에 있는 교회에 편지를 보낸다고 한다.",
+      "connections": [],
+      "textSha256": "fdf61326e14840b98e1587bdd5077059587f39544fa4d2136f9e48c4b0fa57f0"
+    },
+    {
+      "id": "KRV:PHM:1:3",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "힘든 교회 친구에게 기도하겠다는 마음을 전할지 망설이는 사람이 은혜와 평강을 바라는 인사에서 그 마음을 표현할 실마리를 읽을 수 있다.",
+      "contextNote": "바울이 편지를 받는 이들에게 하나님의 은혜와 평강을 빈다.",
+      "connections": [
+        {
+          "scenarioId": "R022",
+          "clue": "친구에게 평안을 바라는 기도의 마음을 전한다.",
+          "friction": "본문은 편지 수신자에 대한 인사이며 친구가 어떤 반응을 보일지는 모른다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "94e09d075dce1b237843612b23fcc1f04cfa9eedd0e5679c97b2db0d4af5269d"
+    },
+    {
+      "id": "KRV:PHM:1:4",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "힘든 교회 친구에게 기도하는 마음을 알릴지 고민하는 사람이 기도할 때 상대를 언급한다고 편지로 말하는 장면에서 그 마음을 전할 수 있다.",
+      "contextNote": "바울이 빌레몬을 생각하며 하나님께 감사하고 기도한다고 알린다.",
+      "connections": [
+        {
+          "scenarioId": "R022",
+          "clue": "상대를 기억하며 기도하고 있음을 솔직히 전한다.",
+          "friction": "문장의 이유는 다음 절에 이어지며 사용자가 실제로 항상 기도했다고 가정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "5c686677790b5db1140ff1cbdcc229da8c81777514ca38a2643433459c6e41c6"
+    },
+    {
+      "id": "KRV:PHM:1:5",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "빌레몬이 예수와 성도들을 사랑하고 믿음이 있다는 소식을 들었다고 한다. 사용자가 도움을 받은 친구의 신앙 상태는 주어지지 않았다.",
+      "contextNote": "앞 절에서 빌레몬을 위해 감사하고 기도하는 이유를 설명한다.",
+      "connections": [],
+      "textSha256": "7ed428bbe6d230e4bde30d2787976886e70d9ec6e6a8a176cd8af33a60bab5f0"
+    },
+    {
+      "id": "KRV:PHM:1:6",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "믿음의 교제가 선을 알게 하고 그리스도께 미치도록 역사한다고 한다. 친구에게 말을 전할지의 구체 행동은 쉽게 드러나지 않는다.",
+      "contextNote": "빌레몬의 믿음과 교제가 낳는 결과에 관한 바울의 편지다.",
+      "connections": [],
+      "textSha256": "1d2fb6a25be4bfac88b330f547a4504c3753cf38f876ba1cccb3f8b408bc4662"
+    },
+    {
+      "id": "KRV:PHM:1:7",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "상대의 사랑으로 기쁨과 위로를 얻었다고 직접 말한다. 도움을 받은 뒤 이미 감사를 전한 사용자가 추가로 식사를 제안할지의 선택은 이 절에 보이지 않는다.",
+      "contextNote": "빌레몬이 성도들의 마음을 평안하게 한 사랑에 대해 바울이 기쁨을 전한다.",
+      "connections": [],
+      "textSha256": "f6ca90cb5ed807069e3127c10e3d025dc573d336a1ae0be5820da3fc8d00c4f7"
+    },
+    {
+      "id": "KRV:PHM:1:8",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "화자가 명할 수 있는 담력이 있다고 말하지만 무엇을 명할지는 다음 절의 부탁에 이어진다. 현재 고민의 직접 선택이 드러나지 않는다.",
+      "contextNote": "빌레몬에게 명령 대신 부탁을 하려는 다음 절의 도입이다.",
+      "connections": [],
+      "textSha256": "f1917f65487c1ae9d32b31b6b960f884a200189ce5388f2e140af287b330037d"
+    },
+    {
+      "id": "KRV:PHM:1:9",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "사랑 때문에 간구한다며 자신이 나이 많고 갇혔다고 밝힌다. 무엇을 부탁하는지는 다음 절에 이어져 단독으로 읽기 어렵다.",
+      "contextNote": "바울이 명령 대신 사랑으로 부탁한다고 말한다.",
+      "connections": [],
+      "textSha256": "1faa92f96cca099d3c26bedd16f811c972355fc3ef254e5bc55ea087aad472be"
+    },
+    {
+      "id": "KRV:PHM:1:10",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "갇힌 가운데 얻은 아들 오네시모를 위해 부탁한다고 한다. 실제로 무엇을 해 달라는지는 이후 절에 있어 현재 선택과 바로 연결하기 어렵다.",
+      "contextNote": "바울이 빌레몬에게 오네시모에 관해 부탁을 시작한다.",
+      "connections": [],
+      "textSha256": "c42e028d689683052bf4cbbf47d75a97c241ac7182817ba7ffcfb9a645654404"
+    },
+    {
+      "id": "KRV:PHM:1:11",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "그가 전에는 무익했지만 지금은 유익하다고 말한다. 잘못을 사과한 친구가 이미 특정 도움을 줬다고 가정할 수 없다.",
+      "contextNote": "바울이 빌레몬에게 오네시모의 변화를 말한다.",
+      "connections": [],
+      "textSha256": "20cdb14b59995e78f7a1664e6f2dacf33a952157cbbec175f0497591e627e12c"
+    },
+    {
+      "id": "KRV:PHM:1:12",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "약속한 기간을 마친 친구를 더 붙잡을지 보내 줄지 고민하는 사람이 아끼는 사람을 돌려보낸다는 말에서 아쉬워도 상대를 보내는 방향을 읽을 수 있다.",
+      "contextNote": "바울이 자기 심복으로 여기는 오네시모를 빌레몬에게 돌려보낸다고 말한다.",
+      "connections": [
+        {
+          "scenarioId": "B038",
+          "clue": "도움이 더 필요해도 이미 약속된 일을 마친 친구를 고맙게 보내 준다.",
+          "friction": "본문은 고대 종 오네시모를 빌레몬에게 보내는 상황이며 친구가 누군가의 소유물이라는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "be327527f9bec7f0f2d35253bcca778d30503a06b813aae9022c33805c5c3dc4"
+    },
+    {
+      "id": "KRV:PHM:1:13",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "화자가 오네시모를 곁에 두고 자신을 섬기게 하고 싶다는 미완의 말이다. 친구를 더 붙잡을지의 마음은 비슷하지만 곧 이어지는 상대의 승낙이 이 절에는 없다.",
+      "contextNote": "바울이 갇힌 중 오네시모를 곁에 두고 싶은 마음을 말한 뒤 다음 절에서 빌레몬의 승낙을 중시한다.",
+      "connections": [],
+      "textSha256": "88ba23286f60e72e6dbb9604a6c61a8f502a477fb31fa19d4be42811f5e984d1"
+    },
+    {
+      "id": "KRV:PHM:1:14",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "가족 소유의 오래된 물건을 허락 없이 팔고 싶은 사람이 승낙 없이는 아무것도 하기 원하지 않는다는 말에서 주인에게 먼저 물을 실마리를 읽을 수 있다.",
+      "contextNote": "바울이 오네시모를 곁에 두고 싶지만 빌레몬의 승낙 없이 하지 않으며 선한 일이 자의로 되기를 바란다고 한다.",
+      "connections": [
+        {
+          "scenarioId": "C007",
+          "clue": "가족 물건을 임의로 팔기 전에 주인의 승낙을 구한다.",
+          "friction": "본문은 오네시모에 대한 바울과 빌레몬의 관계이며 사람을 물건처럼 취급하라는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "9dba9980d49d753a11235895da6393489908f955466aba9640089799e629914c"
+    },
+    {
+      "id": "KRV:PHM:1:15",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "그가 잠시 떠난 것이 영원히 함께 두기 위함이라는 해석이다. 놓친 것 같은 기회가 실제 돌아오거나 영원히 유지된다고 가정할 수 없다.",
+      "contextNote": "오네시모가 빌레몬에게서 떠났다가 돌아가는 일을 바울이 해석한다.",
+      "connections": [],
+      "textSha256": "0bbea14ebff62982aaec4710fa3dc668589aa2c17d756190aa094827f5dde8eb"
+    },
+    {
+      "id": "KRV:PHM:1:16",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "이제 종이 아니라 사랑받는 형제로 대하라는 말이다. 활동 제한을 마친 친구를 맞이하는 고민과 받아들임은 닿지만 고대 종과 주인의 관계를 현재 친구 관계와 같게 보기는 어렵다.",
+      "contextNote": "바울이 빌레몬에게 돌아가는 오네시모를 더 이상 단지 종이 아닌 형제로 보라고 한다.",
+      "connections": [],
+      "textSha256": "19b74704ee246499378b9f8e3429a73c6311f19caee11aa17d1a76642b0a6084"
+    },
+    {
+      "id": "KRV:PHM:1:17",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "잘못을 인정하고 활동 제한도 끝낸 친구를 다시 받아들일지 고민하는 사람이 다른 이를 자신을 맞듯 영접해 달라는 말에서 그 친구를 다시 맞을 실마리를 읽을 수 있다.",
+      "contextNote": "바울이 빌레몬에게 오네시모를 자신을 맞듯 받아 달라고 부탁한다.",
+      "connections": [
+        {
+          "scenarioId": "C080",
+          "clue": "정해진 기간을 마친 친구를 더 벌주기보다 다시 맞아들인다.",
+          "friction": "본문은 바울이 오네시모를 위해 대신 부탁한 상황이며 친구의 앞으로의 행동은 알 수 없다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "4c33bd5ec4bdb5fede06749ba6a35dd9683405a8f6967a052cd9b32bca516382"
+    },
+    {
+      "id": "KRV:PHM:1:18",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "다른 사람이 빚이나 불의를 저질렀다면 자기 앞으로 계산하라고 한다. 빌린 카메라를 본인이 망가뜨린 사람의 고민은 남의 빚을 대신 지는 상황이 아니다.",
+      "contextNote": "바울이 오네시모에게 생긴 빚이나 손해가 있으면 자신에게 청구하라고 빌레몬에게 말한다.",
+      "connections": [],
+      "textSha256": "9bdabc9024ee9cb2566dbe36dc4f4b9885fc0fbe2a60373658fb94ba22405713"
+    },
+    {
+      "id": "KRV:PHM:1:19",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "빌린 카메라를 망가뜨리고 미안하다고만 할지 배상을 먼저 말할지 고민하는 사람이 친필로 자신이 갚겠다는 약속에서 배상 이야기를 꺼낼 실마리를 읽을 수 있다.",
+      "contextNote": "바울이 오네시모의 빚이 있다면 자기가 갚겠다고 하고 빌레몬이 자기에게 진 빚도 언급한다.",
+      "connections": [
+        {
+          "scenarioId": "A017",
+          "clue": "수리비가 부담되더라도 자신의 배상을 먼저 말한다.",
+          "friction": "본문은 바울이 다른 사람의 빚을 대신 갚겠다는 말이고 뒤의 빚 언급은 사용자의 상황과 다르다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "99fc85d6a350472ee78d33f993fe78174af5b636888e3b10d74808dc8d32a82c"
+    },
+    {
+      "id": "KRV:PHM:1:20",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "형제로 인해 자신이 기쁨을 얻고 마음이 평안하기를 부탁한다. 힘든 친구의 마음을 덜어줄지의 고민에서 친구가 사용자에게 이런 부탁을 했다는 사실은 없다.",
+      "contextNote": "바울이 오네시모를 받아 달라고 부탁한 뒤 빌레몬에게 자기 마음을 평안하게 해 달라고 한다.",
+      "connections": [],
+      "textSha256": "08691810638368773ad8713b742f8310576076bf3a58f424eb1d7d96f4ab3208"
+    },
+    {
+      "id": "KRV:PHM:1:21",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "상대가 순종하고 자신이 말한 것보다 더 할 것을 확신한다고 한다. 친구가 부탁을 받아줄지 모르는 현재 상황에서 상대의 행동을 확정할 수 없다.",
+      "contextNote": "오네시모에 대한 바울의 부탁을 빌레몬이 잘 들어줄 것이라고 믿는 편지다.",
+      "connections": [],
+      "textSha256": "62649d63c6012831e1576192132c5692c23a4dbeb2e423f1d7cc166ca5ad4428"
+    },
+    {
+      "id": "KRV:PHM:1:22",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "자신을 위한 처소를 준비해 달라고 부탁하고 기도로 찾아가게 되기를 바란다. 아픈 부모를 방문할지 고민하는 사용자는 머물 장소를 상대에게 부탁받은 상황이 아니다.",
+      "contextNote": "바울이 빌레몬에게 자신의 방문을 위한 숙소를 준비해 달라고 말한다.",
+      "connections": [],
+      "textSha256": "5b19ff846240bcb4c5473093b6481d97ae7dce15ddf309884243f4d6c3745216"
+    },
+    {
+      "id": "KRV:PHM:1:23",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "에바브라의 이름과 화자와 함께 갇혀 있다는 소개가 다음 절의 인사에 이어진다. 생활의 선택 방향은 이 절에 없다.",
+      "contextNote": "바울과 함께 있는 이들이 문안한다는 편지 끝 인사의 시작이다.",
+      "connections": [],
+      "textSha256": "7e52fb68c0588e889220d014bf64a2a6e3b99e00633e5905cc3b1ec9425fb51a"
+    },
+    {
+      "id": "KRV:PHM:1:24",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "여러 동역자의 이름과 그들의 인사를 전한다. 현재 친구에게 기도하는 마음을 알릴지의 고민에 인사 이상을 읽기는 어렵다.",
+      "contextNote": "앞 절의 에바브라와 함께 있는 동역자들의 문안을 전한다.",
+      "connections": [],
+      "textSha256": "bf3d7874a86a93d2d14dc8d0b9eafd8ab38f0e901f68fcf2376ed1e5d1357976"
+    },
+    {
+      "id": "KRV:PHM:1:25",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "힘든 교회 친구에게 기도하는 마음을 알릴지 고민할 때 은혜가 상대의 마음에 함께하기를 바라는 인사에서 그 마음을 말로 전할 수 있다.",
+      "contextNote": "바울이 편지 수신자들에게 예수의 은혜가 함께하기를 빌며 편지를 마친다.",
+      "connections": [
+        {
+          "scenarioId": "R022",
+          "clue": "친구에게 안녕을 바라는 기도의 마음을 전한다.",
+          "friction": "본문은 편지의 축복 인사이며 친구의 어려움이 곧 해결된다는 예측은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "6561c87ac8783dc99e9387c52f44d6c69a5e3c3e22fb1b3253b5644dc7b83384"
+    }
+  ]
+}

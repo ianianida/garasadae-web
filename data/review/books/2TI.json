@@ -1,0 +1,875 @@
+{
+  "bookCode": "2TI",
+  "corpusSha256": "f8d5c8b377e243b05fb884b4a6965d2c06a95de74b64a716ee4b95989d61e971",
+  "criteriaVersion": "garasadae-corpus-2026-10-08-v1",
+  "reviewer": "codex-terra-front-letters",
+  "method": "direct-codex-reading",
+  "entries": [
+    {
+      "id": "KRV:2TI:1:1",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "바울이 자신의 사도 직분과 생명의 약속을 밝히는 편지의 시작이다. 현재 어떤 선택을 할지의 실마리는 드러나지 않는다.",
+      "contextNote": "다음 절에서 디모데에게 편지 인사를 전한다.",
+      "connections": [],
+      "textSha256": "7fd714656b1ea5089ee785a604b35d34601afd2fdf9a12ab01c9a8b1fb205c06"
+    },
+    {
+      "id": "KRV:2TI:1:2",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "힘든 교회 친구에게 기도해 주겠다고 말할지 망설이는 사람이 상대에게 은혜와 평강을 비는 인사에서 자신의 바람을 전할 실마리를 얻을 수 있다.",
+      "contextNote": "바울이 사랑하는 디모데에게 하나님과 예수의 은혜와 평강을 빈다.",
+      "connections": [
+        {
+          "scenarioId": "R022",
+          "clue": "친구의 평안을 바라는 기도의 마음을 말로 전한다.",
+          "friction": "본문은 바울의 개인 편지이며 현재 친구가 어떻게 받아들일지는 모른다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "a06122dea7dcda1f7859f7b8b15b292dd36b3cbcd6eeab34b652f7f5de2aa164"
+    },
+    {
+      "id": "KRV:2TI:1:3",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "힘든 교회 친구에게 기도하는 마음을 말할지 고민할 때 간구하며 상대를 쉬지 않고 생각한다는 말에서 자신의 기도를 알리는 방향을 읽을 수 있다.",
+      "contextNote": "바울이 디모데를 기도 속에서 기억하며 하나님께 감사한다고 말한다.",
+      "connections": [
+        {
+          "scenarioId": "R022",
+          "clue": "상대를 생각하며 기도하고 있음을 전한다.",
+          "friction": "밤낮 쉬지 않는다는 말은 본문의 고백이며 사용자가 실제로 밤낮 기도했다고 가정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "ca165b8248e3947f7d813cf305290582476d21b534eece82b0ff8a50060bf664"
+    },
+    {
+      "id": "KRV:2TI:1:4",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "상대의 눈물을 기억하며 만나기를 원하는 말이다. 가족과 친구를 보러 갈지의 고민에 보고 싶다는 마음은 닿지만 상대가 눈물을 흘렸다고 주어지지 않았다.",
+      "contextNote": "바울이 디모데의 눈물을 기억하며 다시 보기를 바란다.",
+      "connections": [],
+      "textSha256": "1228cd2780123910f6c27ff2d1340720907df45a6e28b80cd9b3e387c780a59b"
+    },
+    {
+      "id": "KRV:2TI:1:5",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "디모데와 그의 외할머니와 어머니의 믿음을 회고한다. 가족에 대한 고민만으로 그 가족의 신앙이나 믿음의 계승을 가정할 수 없다.",
+      "contextNote": "바울이 디모데와 가족의 거짓 없는 믿음을 떠올린다.",
+      "connections": [],
+      "textSha256": "7994d3529ec7d3d416c3fca4376862bb891fe69072c35321451c2c146ceef959"
+    },
+    {
+      "id": "KRV:2TI:1:6",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "안수를 통해 받은 은사를 다시 불일 듯하게 하라고 기억시킨다. 자신의 역할을 계속할지 고민하는 사용자가 실제 안수를 받았다는 전제는 없다.",
+      "contextNote": "바울이 디모데에게 안수와 은사에 관한 과거 경험을 상기시킨다.",
+      "connections": [],
+      "textSha256": "569f575f351f6dd91cbf5d675f1ae716cd58a9fbfd08004095a4e10bc151aba4"
+    },
+    {
+      "id": "KRV:2TI:1:7",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "처음 동아리 운영에 지원하고 싶지만 못할까 두려운 사람이 두려움 대신 능력과 사랑과 근신의 마음을 말하는 구절에서 도전할 용기를 얻을 수 있다.",
+      "contextNote": "앞서 받은 은사를 상기시킨 뒤 하나님이 주신 마음을 설명한다.",
+      "connections": [
+        {
+          "scenarioId": "G15",
+          "clue": "두려움에만 머물지 않고 신중한 마음으로 지원해 본다.",
+          "friction": "지원이 받아들여지거나 운영을 반드시 잘할 것이라는 보장은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "bfe8cfed634e183caafdd75423ab0db6a8e258015c3cc70098ebabfee66cd719"
+    },
+    {
+      "id": "KRV:2TI:1:8",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "주의 증거와 갇힌 바울을 부끄러워하지 말고 복음을 위해 고난받으라고 한다. 신앙을 비웃는 지인에게 위축된 고민과는 갇힌 사람을 대하는 구체 대상이 다르다.",
+      "contextNote": "바울이 디모데에게 복음과 투옥된 자신을 부끄러워하지 말라고 권한다.",
+      "connections": [],
+      "textSha256": "407b386b31a81afda334d098d3d05f6bbe785f4fe9bd7d95db450206279812c8"
+    },
+    {
+      "id": "KRV:2TI:1:9",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "이전 잘못 때문에 세례를 준비할 자격이 없는 것 같아 망설이는 사람이 구원과 부르심이 자신의 행위만을 따른 것이 아니라 은혜에 따른 것이라는 말에서 준비를 시작할 여지를 읽을 수 있다.",
+      "contextNote": "구원과 거룩한 부르심의 근거를 사람의 행위가 아닌 하나님의 은혜로 설명한다.",
+      "connections": [
+        {
+          "scenarioId": "C018",
+          "clue": "과거 행동이 걸리더라도 인정한 채 은혜를 생각하며 신앙의 준비를 시작한다.",
+          "friction": "이 절이 특정 교회의 세례 절차나 수락을 보장하는 것은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "7a037da1fb5202954b18149453801e130c858ed79187a35f965f1db5b7a690c1"
+    },
+    {
+      "id": "KRV:2TI:1:10",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "예수의 나타나심으로 사망을 폐하고 생명을 드러냈다는 신앙 고백이다. 생활에서 당장 어떤 행동을 선택할지는 이 절에 보이지 않는다.",
+      "contextNote": "앞 절의 은혜가 예수의 나타나심으로 드러났다고 설명한다.",
+      "connections": [],
+      "textSha256": "ff2b6cd6d97eda4c0046dc663d05d8a7601a46a81c9d73d9aab72322136901df"
+    },
+    {
+      "id": "KRV:2TI:1:11",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "바울이 복음을 위한 사도와 교사로 세워졌다고 말한다. 새 역할에 지원할지 고민하는 사람이 이미 임명되었다고 볼 수 없다.",
+      "contextNote": "앞 절의 복음에 관해 바울이 받은 직분을 말한다.",
+      "connections": [],
+      "textSha256": "69076f71e00a74ac71d54825986400a93818f3171086249c198a51e9772845aa"
+    },
+    {
+      "id": "KRV:2TI:1:12",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "화자가 고난을 부끄러워하지 않고 의탁한 분이 지키실 것을 믿는 긴 고백이다. 지금 어떤 선택을 하는지에 대한 구체 실마리는 불분명하다.",
+      "contextNote": "복음을 위한 사역으로 바울이 겪는 고난과 신뢰를 말한다.",
+      "connections": [],
+      "textSha256": "e8cef296378a6a683a1bf2a814fcd4c1143b92893cccc270541b169972db93a0"
+    },
+    {
+      "id": "KRV:2TI:1:13",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "들은 바른 말을 믿음과 사랑으로 본받아 지키라는 문장이다. 기존의 업무 절차를 고수할지 고민하는 사람에게 본문의 가르침을 곧장 동일시하기는 어렵다.",
+      "contextNote": "바울이 디모데에게 이전에 전한 신앙의 바른 말을 지키라고 권한다.",
+      "connections": [],
+      "textSha256": "446fb3d7a2f610f7f07c26915f9534f712a2dc1fa89364ba817441735cc405de"
+    },
+    {
+      "id": "KRV:2TI:1:14",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "맡겨진 아름다운 것을 성령으로 지키라고 한다. 모은 돈을 원래 수리에 쓸지 고민하는 상황에 지킨다는 말은 있으나 맡겨진 것의 내용이 이 절에 없다.",
+      "contextNote": "바울이 디모데에게 전한 신앙의 내용을 지키도록 권한다.",
+      "connections": [],
+      "textSha256": "cac8fa41c1d317d34627b9e57951db30f1435ae1455f3586fa8ac8335ed41e51"
+    },
+    {
+      "id": "KRV:2TI:1:15",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "아시아의 사람들이 바울을 버린 과거 일과 두 사람의 이름을 말한다. 소외감을 느끼는 사용자가 실제로 버림받았는지는 알 수 없다.",
+      "contextNote": "바울이 자신을 떠난 사람들의 사례를 언급한다.",
+      "connections": [],
+      "textSha256": "659e3363004606c670e84d14345a1cfb7f7540b7147e27121af759212b6e2f82"
+    },
+    {
+      "id": "KRV:2TI:1:16",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "오네시보로가 자신을 자주 기쁘게 하고 사슬에 매인 것을 부끄러워하지 않았다는 감사의 기도다. 부모를 잃은 친구에게 먼저 안부를 묻는 고민에 투옥과 부끄러움은 주어지지 않았다.",
+      "contextNote": "바울이 투옥된 자신을 돌본 오네시보로의 집을 위해 긍휼을 빈다.",
+      "connections": [],
+      "textSha256": "ee8eba2e8087cc35dc56c0ec1ec391556bf92625972445a18c1dfbc7c962ba97"
+    },
+    {
+      "id": "KRV:2TI:1:17",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "친구가 부모님을 여읜 뒤 무슨 말을 해야 할지 몰라 멀리 있을지 작은 도움을 건넬지 고민하는 사람이 누군가를 부지런히 찾아 만난 행동에서 먼저 찾아갈 실마리를 읽을 수 있다.",
+      "contextNote": "오네시보로가 로마에서 바울을 찾아 만난 일을 앞 절에 이어 말한다.",
+      "connections": [
+        {
+          "scenarioId": "C016",
+          "clue": "위로의 말을 완벽히 준비하지 못해도 먼저 친구를 찾아 안부를 묻는다.",
+          "friction": "본문은 로마에서 투옥된 바울을 찾은 이야기이며 친구의 슬픔과는 사정이 다르다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "de3114b577168120deddeda21e564432ea39342540e736b696dd28510f0e080e"
+    },
+    {
+      "id": "KRV:2TI:1:18",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "오네시보로가 긍휼을 얻기를 바라며 과거에 섬긴 일을 언급한다. 그가 지금 무엇을 했는지 이 절에 구체적으로 보이지 않아 친구를 돕는 선택을 연결하기 어렵다.",
+      "contextNote": "바울이 로마에서 자신을 찾은 오네시보로의 봉사를 회상한다.",
+      "connections": [],
+      "textSha256": "276910902b6490390cb2ef073f4825d25109b521249227d7fd6fd58f21372cfa"
+    },
+    {
+      "id": "KRV:2TI:2:1",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "그리스도 예수의 은혜 안에서 강하라고 권하는 문장이다. 힘이 되는 말일 수 있지만 동아리 지원의 어느 행동에 연결할 구체 실마리는 부족하다.",
+      "contextNote": "바울이 디모데를 아들로 부르며 다음 절의 부탁으로 이어간다.",
+      "connections": [],
+      "textSha256": "3771fcfd00b4c0532b82c72a466d4b66a7598d6b735717e04194552837ea55e5"
+    },
+    {
+      "id": "KRV:2TI:2:2",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "팀의 자잘한 일을 혼자 맡아 지친 책임자가 적합한 팀원에게 나눌지 고민할 때 믿을 만한 사람에게 일을 부탁하는 말에서 역할을 맡길 실마리를 읽을 수 있다.",
+      "contextNote": "디모데가 바울에게 들은 가르침을 다른 사람을 가르칠 충성된 이들에게 부탁하라고 한다.",
+      "connections": [
+        {
+          "scenarioId": "A009",
+          "clue": "할 수 있는 사람들에게 맡겨 일이 이어지게 한다.",
+          "friction": "본문은 믿음의 가르침을 전하는 역할이며 팀원들이 분담에 동의했는지는 모른다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "debebec117394041b94200293902cde221b4a46a1ef368ef844a7403830528fe"
+    },
+    {
+      "id": "KRV:2TI:2:3",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "예수의 좋은 군사로 함께 고난을 받으라고 한다. 피곤한 봉사를 계속할지의 고민과 견딘다는 단어는 닿지만 고난을 무조건 감수할 근거를 현재 상황에 더할 수 없다.",
+      "contextNote": "바울이 디모데에게 복음의 고난을 군사의 비유로 권한다.",
+      "connections": [],
+      "textSha256": "efbc9adb7263a26cd707f8a6135da78f55c6d4dfe4b3bc291600f347f777fd33"
+    },
+    {
+      "id": "KRV:2TI:2:4",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "군사는 자기를 모집한 이를 기쁘게 하려고 자기 생활에 얽매이지 않는다고 한다. 여러 봉사 중 하나를 거절해 기도 시간을 남길지의 고민에 무엇을 내려놓아야 할지 분명하지 않다.",
+      "contextNote": "앞 절의 그리스도의 군사 비유를 이어간다.",
+      "connections": [],
+      "textSha256": "079ae601b2411532884fa0d6be50e6beaed2dce1c5dfb0ef8ef32c02889c28f4"
+    },
+    {
+      "id": "KRV:2TI:2:5",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "일을 빨리 끝내려고 도움이 되었던 확인 절차를 건너뛰려는 사람이 규칙대로 경기하지 않으면 상을 얻지 못한다는 말에서 기존 절차를 따를 방향을 읽을 수 있다.",
+      "contextNote": "신앙의 수고를 규칙을 지키는 경기자의 비유로 말한다.",
+      "connections": [
+        {
+          "scenarioId": "B033",
+          "clue": "빨리 끝내려 절차를 생략하지 않고 기준에 따라 일한다.",
+          "friction": "본문은 경기 규칙과 면류관의 비유이며 실제 업무의 결과를 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "bb4299b09ffb11cb04ee45611cf417a6ddac55b394204fd7b67af6a45c380231"
+    },
+    {
+      "id": "KRV:2TI:2:6",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "친구가 상당한 일을 무료로 해 주겠다고 했을 때 비용을 제안할지 고민하는 사람이 수고한 농부가 먼저 곡식을 받는 것이 마땅하다는 말에서 수고에 보답할 방향을 읽을 수 있다.",
+      "contextNote": "수고와 보상을 농부의 곡식에 비유한다.",
+      "connections": [
+        {
+          "scenarioId": "B005",
+          "clue": "친구의 작업에 정당한 비용을 제안한다.",
+          "friction": "농부가 직접 곡식을 받는 비유이며 친구는 이미 자발적으로 무료 도움을 제안했다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "996d1897fcc2e28459a24e8ab7997148f00f0672b7a07dd187ff14c5ba8aa241"
+    },
+    {
+      "id": "KRV:2TI:2:7",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "내 말을 생각하면 주께서 총명을 주시리라고 말한다. 조언을 더 들을지 기도하며 자신의 마음을 돌아볼지의 고민에서 명확한 선택 행동은 보이지 않는다.",
+      "contextNote": "군사 경기자 농부 비유를 말한 뒤 디모데에게 그 말을 생각하라고 한다.",
+      "connections": [],
+      "textSha256": "806d6a937f96eeea8a84f5c09b23da7f66c085f79c364238c4e76a3c3c432f0a"
+    },
+    {
+      "id": "KRV:2TI:2:8",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "다윗의 씨이며 죽은 자 가운데서 살아나신 예수를 기억하라고 한다. 현재 고민의 선택지를 비추는 구체 행동과는 거리가 있다.",
+      "contextNote": "바울이 디모데에게 복음의 내용을 기억하라고 권한다.",
+      "connections": [],
+      "textSha256": "66b0135531aed797f6012167c6cc5536b1f97cdca2c3d16cb759390eea4c364e"
+    },
+    {
+      "id": "KRV:2TI:2:9",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "복음 때문에 화자가 죄인처럼 갇혀 고난받지만 하나님의 말씀은 매이지 않는다고 한다. 비웃음을 받는 사용자가 투옥되었다고 가정할 수 없다.",
+      "contextNote": "바울이 복음을 전하며 겪은 감금과 말씀에 관해 말한다.",
+      "connections": [],
+      "textSha256": "f3fc1fb19eb08d9fd7a9f71be0f25e9872aaad0f840d8b7a2677464bf7be7253"
+    },
+    {
+      "id": "KRV:2TI:2:10",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "택하신 이들이 구원받도록 화자가 모든 것을 참는다고 고백한다. 가족을 계속 설득할지 기도할지의 고민에 특정 행동은 직접 나타나지 않는다.",
+      "contextNote": "앞의 복음으로 인한 고난을 견디는 바울의 목적이다.",
+      "connections": [],
+      "textSha256": "60e2c3d0beffd052dd2c9a94e87b5dbc918a8ca6a3108e00e22714b28ef60f91"
+    },
+    {
+      "id": "KRV:2TI:2:11",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "주와 함께 죽었으면 함께 살 것이라는 신앙 고백이다. 일상 고민에서 무엇을 해야 하는지의 구체 방향은 보이지 않는다.",
+      "contextNote": "이어지는 절과 함께 그리스도와의 관계를 반복 구문으로 말한다.",
+      "connections": [],
+      "textSha256": "3c01322b82fddcbec57f06044d4bdec66702b733279aba34f39a791abac21931"
+    },
+    {
+      "id": "KRV:2TI:2:12",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "참으면 함께 왕노릇하고 부인하면 주도 부인한다는 말이다. 당장 가격을 기다릴지의 고민에 왕노릇이나 관계 부인의 조건을 가져오기는 어렵다.",
+      "contextNote": "앞 절부터 이어지는 그리스도와 함께하는 삶과 인내에 관한 고백이다.",
+      "connections": [],
+      "textSha256": "0ea1dadcb14b80fc8489ccca8b06aa5733b5e8216dc10542e7c0ee7921d91f11"
+    },
+    {
+      "id": "KRV:2TI:2:13",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "사람이 미쁨이 없어도 주는 일향 미쁘시다는 신실함의 고백이다. 옛 표현이 낯설고 현재 선택의 구체 방향이 드러나지 않는다.",
+      "contextNote": "앞 절의 부인에 관한 말 뒤에 주의 신실하심을 말한다.",
+      "connections": [],
+      "textSha256": "141388b26f2777559e0a0f5cac28ba1c99a809f4acb103dee9fb1bdf4b2d1887"
+    },
+    {
+      "id": "KRV:2TI:2:14",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "신앙을 말할 때마다 다투는 가족에게 계속 설득을 더할지 지금은 기도할지 고민하는 사람이 말다툼이 유익하지 않다는 대목에서 설득을 잠시 멈출 실마리를 읽을 수 있다.",
+      "contextNote": "바울이 디모데에게 공동체가 유익 없는 말다툼을 하지 않도록 당부한다.",
+      "connections": [
+        {
+          "scenarioId": "C033",
+          "clue": "계속 논쟁을 더하기보다 가족의 뜻을 존중하고 기도한다.",
+          "friction": "본문에 기도라는 행동은 직접 나오지 않으며 가족의 반응과 변화는 알 수 없다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "ee1c14218dec6102e6b37df0b5c7bf3c0b16f57fb5f8946d802258dc83f19df8"
+    },
+    {
+      "id": "KRV:2TI:2:15",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "말씀을 옳게 분별하고 인정받는 일꾼으로 자신을 드리라고 한다. 신앙을 쉽게 설명할지의 고민에 가르침은 닿지만 어떤 설명 방식이 필요한지는 직접 보이지 않는다.",
+      "contextNote": "말다툼을 피하라는 말 뒤에 말씀을 다루는 태도를 권한다.",
+      "connections": [],
+      "textSha256": "94d1d235f43c3db26cc6cd0eb1dc069d8fcebce273dc84f271a0bfb572f2df1c"
+    },
+    {
+      "id": "KRV:2TI:2:16",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "망령되고 헛된 말을 버리라고 하나 그 대상과 이유가 일반적인 의견과 거짓말을 어떻게 구분하는지는 이 절에서 불분명하다.",
+      "contextNote": "다음 절에서 거짓 가르침을 하는 구체 인물들의 말을 설명한다.",
+      "connections": [],
+      "textSha256": "6167f79b9b394fb653099f575baec73d4a0d6c89942d2f37b0c486ee861b6fe7"
+    },
+    {
+      "id": "KRV:2TI:2:17",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "두 인물의 말을 독한 병이 썩어가는 것에 비유한다. 낯선 병 표현과 인명만으로 현재 소문의 진위를 판단할 수 없다.",
+      "contextNote": "앞 절의 헛된 말에 관한 예로 후메내오와 빌레도를 든다.",
+      "connections": [],
+      "textSha256": "61d8c9482a342d91b874c33e738b02b5e03dc9d4e282aa88d36ba9d127effa55"
+    },
+    {
+      "id": "KRV:2TI:2:18",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "부활이 이미 지나갔다는 가르침이 다른 이의 믿음을 무너뜨렸다고 한다. 현재 확인된 신앙 고민의 가족이나 친구가 이 주장을 했다는 사실은 없다.",
+      "contextNote": "앞 절에서 언급한 인물들의 잘못된 부활 주장을 설명한다.",
+      "connections": [],
+      "textSha256": "8840e96af3eb851127eed676807ea833a476b00039a5c6f90b55a656623d6af4"
+    },
+    {
+      "id": "KRV:2TI:2:19",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "하나님의 견고한 터와 불의에서 떠나라는 권고다. 정직한 기록에 대한 고민과 가치가 닿지만 긴 인용과 터의 비유 속에서 구체 행동을 읽기 어렵다.",
+      "contextNote": "잘못된 가르침과 대비해 하나님의 터와 그를 부르는 사람을 말한다.",
+      "connections": [],
+      "textSha256": "bfb8209c84c0282dc52ae39ca78abc760ab7b184e4676c198e76877d75c772cf"
+    },
+    {
+      "id": "KRV:2TI:2:20",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "금 은 나무 흙 그릇이 귀하거나 천하게 쓰인다고 한다. 눈에 띄지 않는 역할을 고민하는 사람에게 역할 간 서열을 단정하는 메시지가 될 수도 있다.",
+      "contextNote": "하나님의 집을 여러 그릇에 비유하고 다음 절에서 깨끗함을 말한다.",
+      "connections": [],
+      "textSha256": "6582b84c72201e6f5e8fa0b724794351595c921c520af388a22fb7a3feab6bc6"
+    },
+    {
+      "id": "KRV:2TI:2:21",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "자신을 깨끗하게 하면 귀하게 쓰는 그릇이 된다고 한다. 과거 잘못 때문에 신앙을 망설이는 사람이 더 완벽해진 다음에 시작해야 한다고 읽을 수도 있어 지금 준비할 선택은 불명확하다.",
+      "contextNote": "앞 절의 그릇 비유를 이어 거룩함과 선한 일의 준비를 말한다.",
+      "connections": [],
+      "textSha256": "3f112631bd6f4f207cc5e45109f5e089ed2f387b6fcef0d7b39dc9c91130aabb"
+    },
+    {
+      "id": "KRV:2TI:2:22",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "청년의 정욕을 피하고 믿음 사랑 화평을 좇으라고 한다. 충동구매를 고민하는 사용자를 청년이라 가정할 수 없고 정욕의 대상을 구체적으로 알기도 어렵다.",
+      "contextNote": "디모데에게 정욕을 피하고 믿는 사람들과 덕목을 따르라고 권한다.",
+      "connections": [],
+      "textSha256": "881f77b3826f28d21d6f906b5861fb3339e429316103b8bb3b16529ac4b71fd6"
+    },
+    {
+      "id": "KRV:2TI:2:23",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "신앙 이야기를 할 때마다 가족과 다투어 더 설득할지 고민하는 사람이 변론이 다툼을 낳는다는 말에서 말을 더하기보다 잠시 멈출 실마리를 얻을 수 있다.",
+      "contextNote": "바울이 무익한 변론이 다툼을 낳으니 버리라고 디모데에게 권한다.",
+      "connections": [
+        {
+          "scenarioId": "C033",
+          "clue": "논쟁을 계속 키우지 않고 가족의 현재 의사를 존중한다.",
+          "friction": "본문은 변론을 어리석고 무식하다고 표현하지만 가족의 지능이나 믿음을 평가할 근거는 없다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "1a4fd53ce38047a96cfdf0c0e9999060e45600c87ad708f3c3cd4ad3b724ca4f"
+    },
+    {
+      "id": "KRV:2TI:2:24",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "약속을 잊은 친구를 단체방에서 꾸짖을지 따로 이야기할지 고민하는 사람이 다투지 않고 온유하며 참으라는 권면에서 차분히 말할 방향을 읽을 수 있다.",
+      "contextNote": "주의 종이 모든 사람을 온유하게 대하고 가르치며 참아야 한다고 말한다.",
+      "connections": [
+        {
+          "scenarioId": "C040",
+          "clue": "친구를 공개적으로 몰아붙이지 않고 온유하게 이야기한다.",
+          "friction": "가르치는 일은 지금 친구의 자료 약속과 다르며 친구가 반드시 고칠지는 모른다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "ffce6b027241b1cc7d1181d8c1f9d84d97a28c697dde52ca88989e0420b490d6"
+    },
+    {
+      "id": "KRV:2TI:2:25",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "거역하는 자를 온유하게 징계하라고 한다. 자료를 두 번 잊은 친구의 이유는 아직 몰라 고의로 거역한 사람이라고 가정할 수 없다.",
+      "contextNote": "앞 절의 온유한 태도에 이어 반대하는 사람의 회개를 바란다.",
+      "connections": [],
+      "textSha256": "b15950876c5bed188072a71b1882c34ba8ba7189e1e3f0a062b9201793e7083e"
+    },
+    {
+      "id": "KRV:2TI:2:26",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "그들이 깨어 마귀의 올무를 벗어나 하나님 뜻을 따르게 된다는 목적절이다. 현재 누구의 무엇을 골라야 하는지는 앞 문맥 없이는 불명확하다.",
+      "contextNote": "앞 절에서 온유하게 징계할 때 바라는 회개의 결과를 설명한다.",
+      "connections": [],
+      "textSha256": "0d783e0690ffaa10ea0267c87ae3ddac1f728a1df8a57bd5ac0d9dcab15def25"
+    },
+    {
+      "id": "KRV:2TI:3:1",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "말세에 고통하는 때가 이른다고 한다. 시험이나 피로 때문에 바쁜 현재 일정이 곧 말세의 고통이라는 사실을 추가할 수 없다.",
+      "contextNote": "이후 여러 절에서 말세의 사람들의 모습을 열거하는 도입이다.",
+      "connections": [],
+      "textSha256": "35fa02303f005d8673f1404a976379434dd5a09e0c71f18e524e951cb734dab5"
+    },
+    {
+      "id": "KRV:2TI:3:2",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "자기 사랑 돈 사랑 교만과 불감사 등 여러 태도를 나열한다. 물건을 살지 고민하는 한 상황만으로 사용자나 주변 사람의 성품 전부를 규정할 수 없다.",
+      "contextNote": "앞 절의 말세에 나타나는 사람들의 모습을 다음 절까지 열거한다.",
+      "connections": [],
+      "textSha256": "927127b5409b518652aed4c72eb2b56aef9468451767b5b550b536fdba88cf6e"
+    },
+    {
+      "id": "KRV:2TI:3:3",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "무정함과 참소와 절제 부족 등 부정적 성품을 열거한다. 친구의 한 실수만으로 본문에 열거된 사람이라고 단정하기 어렵다.",
+      "contextNote": "앞 절에서 시작한 말세의 사람들에 대한 목록이 이어진다.",
+      "connections": [],
+      "textSha256": "4ee77ae1169726bfeb37ba29cdb2e5d6e5238ebfce8baec97b8ae767f4aeb27f"
+    },
+    {
+      "id": "KRV:2TI:3:4",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "배반과 조급함 및 하나님보다 쾌락을 사랑하는 것을 나열한다. 공연에 가고 싶은 한 번의 마음이 신앙보다 쾌락을 더 사랑한다는 사실은 아니다.",
+      "contextNote": "말세의 사람들에 관해 앞 절에서 이어지는 목록이다.",
+      "connections": [],
+      "textSha256": "60c24d7a58388a89015976353690f41b2ee0349c09c871d2ce0d842a3e4c61e3"
+    },
+    {
+      "id": "KRV:2TI:3:5",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "겉으로 경건하지만 능력을 부인하는 이들에게서 돌아서라고 한다. 친구의 신앙 상태를 모르거나 의견만 다르다는 사실로 이들에게 해당한다고 판단할 수 없다.",
+      "contextNote": "앞 절들에서 열거한 사람들의 모습을 마무리하며 그들을 피하라고 권한다.",
+      "connections": [],
+      "textSha256": "69803d5f1ee5b264f5c250a4c72b0244edf6734fac46249e9a14573802b6f4ee"
+    },
+    {
+      "id": "KRV:2TI:3:6",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "몰래 집에 들어와 여성을 유인하는 자들과 그 여성에 대한 강한 평가다. 지금의 사람 관계에 숨겨진 유인이나 성별을 만들어 넣을 수 없다.",
+      "contextNote": "앞 절에서 피하라고 한 사람들 중 일부를 묘사한다.",
+      "connections": [],
+      "textSha256": "0918ba6ac386199730abcba06ef9394371e332539f0367705e80b431fb48f20b"
+    },
+    {
+      "id": "KRV:2TI:3:7",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "항상 배우지만 진리의 지식에 이르지 못한다고 한다. 실제로 공부가 부족한지 모르는 사용자에게 배우는 일의 무익함을 사실로 정할 수 없다.",
+      "contextNote": "앞 절의 여성들에 관해 이어지는 서술이다.",
+      "connections": [],
+      "textSha256": "9d67ee3f02fea848642e95fc8cb61cd3d489f6b342db10933c78191cefbfa37e"
+    },
+    {
+      "id": "KRV:2TI:3:8",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "얀네와 얌브레가 모세를 대적한 일과 진리를 대적하는 이들의 부패를 말한다. 다른 의견을 가진 현재 친구를 이들로 단정할 수 없다.",
+      "contextNote": "앞에서 언급한 미혹하는 이들을 과거의 대적자에 비유한다.",
+      "connections": [],
+      "textSha256": "c7f6718467cc18be7fda832d6398b519f652f736470ee693b4eb32436fc24dd9"
+    },
+    {
+      "id": "KRV:2TI:3:9",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "그 두 사람처럼 어리석음이 드러날 것이라고 한다. 누가 무엇을 했는지 앞 절을 읽어야 하며 현재 결과가 반드시 밝혀진다고 예측할 수 없다.",
+      "contextNote": "앞 절의 모세 대적자들에 빗대어 거짓 가르침의 한계를 말한다.",
+      "connections": [],
+      "textSha256": "de922cae9787ded384bea2ce20e42e0a4ef831bf83a2607859d942f8c2d7e1f1"
+    },
+    {
+      "id": "KRV:2TI:3:10",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "교훈 행실과 믿음 인내 등의 목록만 있고 문장이 다음 절로 이어진다. 지금 어떤 선택을 할지 이 절만으로 알기 어렵다.",
+      "contextNote": "디모데가 바울의 행실과 고난을 알고 있었다는 다음 절의 도입이다.",
+      "connections": [],
+      "textSha256": "b2dbd096ed842fdad925d14c355472bd485b73a29893f496f8e7ff3c9044a12a"
+    },
+    {
+      "id": "KRV:2TI:3:11",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "바울이 여러 도시에서 받은 핍박과 건짐을 회고한다. 지인의 비웃음과 어려움은 떠올릴 수 있지만 특정 지역의 과거 사건과 현재 선택은 같지 않다.",
+      "contextNote": "앞 절의 바울의 교훈과 인내 목록을 받아 그가 받은 핍박을 언급한다.",
+      "connections": [],
+      "textSha256": "4cd8f9d8319bd79389d118a4dc2349880222e8988da9be56b02aa0af30b8205e"
+    },
+    {
+      "id": "KRV:2TI:3:12",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "경건하게 살려는 사람이 핍박을 받는다고 한다. 신앙을 비웃는 말을 들은 사용자가 떠올릴 수는 있으나 숨길지 이어갈지의 선택은 직접 드러나지 않는다.",
+      "contextNote": "바울의 고난 경험 뒤에 그리스도 안의 경건한 삶과 핍박을 말한다.",
+      "connections": [],
+      "textSha256": "3f939e9e793e3c84f97e420860e59b342fff0ebb6f14e1dbf1e9b673e19fc8c8"
+    },
+    {
+      "id": "KRV:2TI:3:13",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "악한 사람과 속이는 자들이 더욱 악해져 속이고 속는다고 한다. 현재 소문이나 다른 사람의 행동이 실제 속임인지 알 수 없다.",
+      "contextNote": "앞의 핍박에 이어 악한 사람들에 관해 말한다.",
+      "connections": [],
+      "textSha256": "ed4a299fc2c6744a1ff3ed660e0c57fda4e927cd6e226a3976e5e5cd613c2d3d"
+    },
+    {
+      "id": "KRV:2TI:3:14",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "배우고 확신한 일에 머물며 누구에게 배웠는지 알라고 한다. 업무 절차를 유지할지의 고민에 실제로 누구에게 배웠다는 조건은 주어지지 않았다.",
+      "contextNote": "디모데에게 앞의 거짓 가르침과 달리 배운 신앙에 머물라고 권한다.",
+      "connections": [],
+      "textSha256": "cb77d6428619f772cb4aa8592b0c1a0afb479ad47f9cb6701741bcfc81c0afba"
+    },
+    {
+      "id": "KRV:2TI:3:15",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "어릴 때부터 성경을 알았다는 사실과 성경의 지혜를 말한다. 최근 성경을 읽기 시작한 사람이 어릴 때부터 알았다고 가정할 수 없다.",
+      "contextNote": "디모데가 어릴 때부터 안 성경과 구원의 지혜를 설명한다.",
+      "connections": [],
+      "textSha256": "6127ac64c52bcd9cfe2ccd09f4e4c782c1529dae0f9a2265a17a03e6ff62cc2e"
+    },
+    {
+      "id": "KRV:2TI:3:16",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "바쁜 일상이 시작되어 성경 읽기를 계속할지 잠시 멈출지 고민하는 사람이 성경이 교훈과 바르게 함에 유익하다는 말에서 읽는 시간을 지킬 이유를 떠올릴 수 있다.",
+      "contextNote": "성경이 하나님의 감동으로 되었고 교훈과 교육에 유익하다고 말한다.",
+      "connections": [
+        {
+          "scenarioId": "B034",
+          "clue": "일상 속에서도 성경을 읽는 시간을 계속 낸다.",
+          "friction": "책망과 교육이라는 표현이 함께 나오며 특정 시간표나 결과를 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "9f6c0e282cdc1e9989784c167a6335789b8d5e53a9129244c7180d92f517c254"
+    },
+    {
+      "id": "KRV:2TI:3:17",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "하나님의 사람이 선한 일을 하기에 온전하게 되려는 목적을 말한다. 무엇이 그를 준비시키는지는 앞 절이 필요하고 지금 어떤 선행을 할지도 드러나지 않는다.",
+      "contextNote": "앞 절의 성경의 유익을 설명하는 목적절이다.",
+      "connections": [],
+      "textSha256": "d4930c47dbee02b22b60b0bc51b99e57b78725dcb6fafc2094d47114c7d7ccf5"
+    },
+    {
+      "id": "KRV:2TI:4:1",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "하나님과 예수 앞에서 엄히 명한다고 시작하지만 구체 명령이 다음 절에 있다. 단독으로는 어떤 생활 선택을 뜻하는지 알기 어렵다.",
+      "contextNote": "디모데에게 말씀 전파를 당부하는 다음 절의 엄숙한 도입이다.",
+      "connections": [],
+      "textSha256": "061edc2778ae0a669b7c2d5b90cde05c0188b11d1b0092bf533b7e7f7cd2adc4"
+    },
+    {
+      "id": "KRV:2TI:4:2",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "사람들이 계속 요청하고 진행할 여건도 있지만 일부 반대로 교회 신앙 나눔을 그만둘지 고민하는 사람이 때를 얻든 못 얻든 말씀을 전하는 데 힘쓰라는 말에서 열린 모임을 이어갈 실마리를 읽을 수 있다.",
+      "contextNote": "바울이 디모데에게 말씀을 전하며 오래 참고 가르치고 권하라고 당부한다.",
+      "connections": [
+        {
+          "scenarioId": "C074",
+          "clue": "반대만으로 요청받고 열려 있는 모임을 그만두지 않는다.",
+          "friction": "본문의 전파와 경책이 원치 않는 상대에게 강요하라는 의미는 아니며 실제 모임은 요청과 진행 의사가 확인된 상태다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "09819ae43db026067c01841dfe76c5bcaa9e9c3ea5b4fda1dc28843306f6bb1e"
+    },
+    {
+      "id": "KRV:2TI:4:3",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "사람들이 바른 교훈을 받지 않고 자기 욕심에 맞는 스승을 많이 둔다는 예고다. 주변 조언이 서로 다르다는 사실만으로 모두 사욕에 맞춘 스승이라 단정할 수 없다.",
+      "contextNote": "앞 절의 말씀 전파 당부 뒤 교훈을 외면할 때를 말한다.",
+      "connections": [],
+      "textSha256": "5a2c99af467966948eeb465524ca5c0d69fcc432b4dbd53de5ea9f2806f6e72a"
+    },
+    {
+      "id": "KRV:2TI:4:4",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "진리에서 귀를 돌리고 허탄한 이야기를 따른다고 한다. 누가 어떤 이야기를 따르는지는 앞 절이 필요하며 현재 의견 차이를 거짓이라고 확정할 수 없다.",
+      "contextNote": "앞 절의 바른 교훈을 외면하는 사람들에 이어진다.",
+      "connections": [],
+      "textSha256": "7f73f8332daad175ac2cc03e28e3a7dc91eb3c9e72f3bed708aca2dbff97313d"
+    },
+    {
+      "id": "KRV:2TI:4:5",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "근신하고 고난을 받으며 전도인의 일을 하고 직무를 다하라고 한다. 교회 일정표를 맡는 사람의 직무는 전도인의 일이라고 주어지지 않았다.",
+      "contextNote": "디모데에게 전도자로서 해야 할 직무를 다하라고 권한다.",
+      "connections": [],
+      "textSha256": "ddb5f87a632f81e01ee458b03b17bb400342b6f35b1ef654ba700ec55aad0ddf"
+    },
+    {
+      "id": "KRV:2TI:4:6",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "화자가 관제처럼 부어지고 떠날 기약이 가까웠다고 말한다. 누군가 다른 도시로 갈지의 고민에 생의 마지막을 뜻하는 이 비유를 그대로 옮기기 어렵다.",
+      "contextNote": "바울이 자신의 죽음이 가까워졌음을 제물의 비유로 말한다.",
+      "connections": [],
+      "textSha256": "0ebde8914a983a143df12da2899e5ebb69598c489304460d129a51918ec50b2a"
+    },
+    {
+      "id": "KRV:2TI:4:7",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "선한 싸움을 싸우고 달려갈 길을 마치고 믿음을 지켰다는 회고다. 친구가 한 달 역할을 마친 지금 사용자가 그 친구를 보내야 할지 직접 말하지 않는다.",
+      "contextNote": "떠날 기약이 가까운 바울이 자신의 삶을 회고한다.",
+      "connections": [],
+      "textSha256": "86a8194c0d2dc5ef01d09eb50e299ec288656949d3c382ca9074790d6f0dfa63"
+    },
+    {
+      "id": "KRV:2TI:4:8",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "의의 면류관이 준비되고 주의 나타나심을 사모하는 사람들에게도 주어진다는 고백이다. 아직 지원 결과나 평가를 모르는 사용자에게 수상을 보장할 수 없다.",
+      "contextNote": "앞 절의 삶과 믿음의 회고에 이어 바울이 기대하는 의의 면류관을 말한다.",
+      "connections": [],
+      "textSha256": "4b975896050bb57152a34dda877cb4c1d0a057ab5301af4aac7298fa4207e3a1"
+    },
+    {
+      "id": "KRV:2TI:4:9",
+      "status": "candidate",
+      "readability": "clear",
+      "reason": "아픈 아버지를 바쁜 주말에 직접 보러 갈지 전화만 할지 고민하는 사람이 속히 내게 오라는 짧은 말에서 직접 찾아갈 실마리를 읽을 수 있다.",
+      "contextNote": "바울이 디모데에게 자신을 빨리 찾아오라고 편지한다.",
+      "connections": [
+        {
+          "scenarioId": "R011",
+          "clue": "일정을 조정해 아픈 아버지를 직접 찾아간다.",
+          "friction": "아버지가 실제로 방문을 요청한 것은 아니며 본문은 바울이 디모데에게 한 개인적인 부탁이다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "517233e5632b944d4896bca94aa8a63663b6fa74487d061c566439463f17a674"
+    },
+    {
+      "id": "KRV:2TI:4:10",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "데마가 세상을 사랑해 바울을 떠났고 다른 두 사람이 여러 지역에 갔다고 말한다. 실제 소외 여부가 불확실한 사용자에게 주변 모두 자신을 버렸다고 가정할 수 없다.",
+      "contextNote": "바울이 자신의 동료들이 각기 떠난 상황을 디모데에게 알린다.",
+      "connections": [],
+      "textSha256": "762621b96ef76b1c02d10b1b4058ea6e25c53004ad5c6673bfa65c8bf1d1ebbf"
+    },
+    {
+      "id": "KRV:2TI:4:11",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "누가만 함께 있으며 마가를 데려오면 도움이 된다고 한다. 팀 업무를 나눌지에는 도움이라는 말이 닿지만 구체 인물과 동반 요청이 현재 고민과 다르다.",
+      "contextNote": "바울이 자신과 함께 있는 사람과 디모데가 데려올 사람을 말한다.",
+      "connections": [],
+      "textSha256": "3ec9226f1bc892b1ea1edae9dcf82edf7ac7dfa1e92dbb5e0b4023b50b67eeb2"
+    },
+    {
+      "id": "KRV:2TI:4:12",
+      "status": "hold",
+      "readability": "clear",
+      "reason": "두기고를 에베소로 보냈다는 짧은 사실이다. 현재 누가 어디에 가야 하는지를 정할 실마리는 나타나지 않는다.",
+      "contextNote": "바울이 동료 두기고의 이동을 알린다.",
+      "connections": [],
+      "textSha256": "983cc1723dcbec51a99004cea12e71e8d0f5eda10b02c529423057d21859db63"
+    },
+    {
+      "id": "KRV:2TI:4:13",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "봉사 뒤 집에 가서 배송된 데님 자켓을 가져올지, 복귀와 휴식 공부 부담 때문에 머물지 고민하는 사람이 집에 둔 겉옷을 가져오라는 표현에서 자켓을 가지러 갈 실마리를 직접 읽을 수 있다.",
+      "contextNote": "바울이 디모데에게 드로아에 둔 자기 겉옷과 책을 가져다 달라고 부탁한다.",
+      "connections": [
+        {
+          "scenarioId": "F002",
+          "clue": "다른 곳에 둔 겉옷을 가져오는 장면에서 자켓을 가지러 갈 생각을 한다.",
+          "friction": "본문은 다른 사람에게 겉옷과 책을 가져오라는 부탁이며 사용자의 책이 집에 있거나 누가 실제로 부탁했다고 가정하지 않는다. 읽기 결과에 대한 실제 사용자 반응은 없다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "1fa41f2dd48bfbf9dd092ec35489279a60cd3b0ff164e39e9c182b9f7edba60c"
+    },
+    {
+      "id": "KRV:2TI:4:14",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "알렉산더가 화자에게 해를 많이 끼쳤고 주가 갚으실 것이라고 말한다. 실수한 친구의 의도나 보복의 결과를 현재 사실로 보탤 수 없다.",
+      "contextNote": "바울이 자신에게 해를 끼친 특정 인물과 그에 대한 심판을 언급한다.",
+      "connections": [],
+      "textSha256": "e7e52eaa807ed9a0961cefa9faacb3d1dbb9cc7714179a741badf454a96da0f8"
+    },
+    {
+      "id": "KRV:2TI:4:15",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "앞에서 말한 인물을 조심하라고 한다. 일반적인 소문이나 의견 차이만으로 현재 친구가 심하게 대적한 사람이라고 단정할 수 없다.",
+      "contextNote": "앞 절에서 바울에게 해를 끼친 알렉산더를 디모데도 조심하라고 한다.",
+      "connections": [],
+      "textSha256": "38b856a67b72604806a9a12b64b61faf4eaa8e128736a8b9891c0918112555ce"
+    },
+    {
+      "id": "KRV:2TI:4:16",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "잘못을 인정하고 정해진 활동 제한도 끝낸 친구를 다시 받아들일지 더 벌할지 고민하는 사람이 자신을 버린 사람들에게 허물을 돌리지 않기를 바라는 말에서 과거의 잘못을 계속 들추지 않을 수 있다.",
+      "contextNote": "바울이 처음 변명할 때 모두가 곁을 떠났으나 그들에게 허물을 돌리지 않기를 바란다고 회고한다.",
+      "connections": [
+        {
+          "scenarioId": "C080",
+          "clue": "이미 잘못을 인정하고 정한 기간을 마친 친구를 계속 벌주기보다 다시 받아들인다.",
+          "friction": "본문의 버림받은 상황은 공용 물품을 허락 없이 쓴 일과 다르며 친구의 향후 행동은 알 수 없다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "480a4e8875e590173e771be15d4941f1219cf2c25232e7e68c08d351455c3300"
+    },
+    {
+      "id": "KRV:2TI:4:17",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "주께서 곁에서 강하게 하시고 사자의 입에서 건지셨다는 바울의 고백이다. 사용자의 지원 성공이나 치료 결과가 이미 정해졌다고 연결할 수 없다.",
+      "contextNote": "앞 절에서 사람들에게 버림받은 바울이 주의 도움을 회고한다.",
+      "connections": [],
+      "textSha256": "98c7b065513480c188c1415f314d974cbbf9333d5f226eb1c43e14bf6f43b245"
+    },
+    {
+      "id": "KRV:2TI:4:18",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "주가 모든 악한 일에서 건지고 천국에 들어가도록 구원하신다는 고백이다. 현재 어려운 일의 구체 결과가 해결된다고 추정할 수 없다.",
+      "contextNote": "앞 절의 구조에 이어 바울이 주의 구원을 신뢰하며 찬양한다.",
+      "connections": [],
+      "textSha256": "d8d17856bd80dfb90be1ac62b32b01c64b97a4e3fd2b4882e4f5ff59eccc80e0"
+    },
+    {
+      "id": "KRV:2TI:4:19",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "특정 인물과 가족에게 문안하라는 인사다. 기도하는 마음을 친구에게 알릴지의 고민에 인사 자체는 닿지만 기도나 친구의 어려움은 나타나지 않는다.",
+      "contextNote": "편지 끝에서 바울이 브리스가 아굴라와 오네시보로의 집에 인사를 전한다.",
+      "connections": [],
+      "textSha256": "333bfabbef75a544cf7297009b387e239f70d2cdc9292d044309c1ab14c74234"
+    },
+    {
+      "id": "KRV:2TI:4:20",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "에라스도는 머물렀고 드로비모는 병 때문에 다른 곳에 남겨졌다는 이동 보고다. 현재 아픈 가족이 도움 없이 홀로 남아 있다는 사실을 만들 수 없다.",
+      "contextNote": "바울이 두 동료의 소재와 드로비모의 병을 디모데에게 알린다.",
+      "connections": [],
+      "textSha256": "7a8c71a07cad53f6f2d10509aac4c366a26349d67a62ffe5372fc66e0a0f0e5a"
+    },
+    {
+      "id": "KRV:2TI:4:21",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "겨울 전에 빨리 오라는 요청과 여러 사람의 인사가 함께 있다. 아픈 아버지를 이번 주에 갈지 다음 주에 갈지의 고민에 겨울이라는 기한이나 아버지의 요청은 주어지지 않았다.",
+      "contextNote": "바울이 디모데에게 겨울 전에 오라고 권하고 여러 사람의 문안을 전한다.",
+      "connections": [],
+      "textSha256": "8331481547688600c5aef39b33d79d1e9aa9012284f2b76acaf221c60b95e149"
+    },
+    {
+      "id": "KRV:2TI:4:22",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "힘든 교회 친구에게 기도하는 마음을 알릴지 고민할 때 주께서 상대의 마음에 함께하시고 은혜가 있기를 바라는 말에서 그 바람을 전할 수 있다.",
+      "contextNote": "바울이 디모데와 공동체에게 주의 함께하심과 은혜를 기원하며 편지를 마친다.",
+      "connections": [
+        {
+          "scenarioId": "R022",
+          "clue": "친구의 안녕을 바라는 기도를 말로 전한다.",
+          "friction": "편지의 개인 인사이며 친구가 지금의 어려움에서 바로 벗어날 것이라는 보장은 없다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "a78cf69b06447fb97ed7fb3ca7aae7c47f7eb6618262a2a52d8d7e78d7fd5b2d"
+    }
+  ]
+}
