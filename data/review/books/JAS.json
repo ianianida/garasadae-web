@@ -435,6 +435,1114 @@
         }
       ],
       "textSha256": "0d3347d2d6679170a747e74dcfede71d24f6916110508620439ee5b60d67ed73"
+    },
+    {
+      "id": "KRV:JAS:2:4",
+      "status": "candidate",
+      "reason": "서로를 구별하고 악한 생각으로 판단하는 것이 아니냐고 묻는다. 국적과 생활문화가 다른 사람이 모임에 왔을 때 기존 사람끼리만 어울릴지 함께하자고 할지 고민하는 사람이 차이만으로 선을 긋는 마음을 돌아볼 수 있다.",
+      "contextNote": "앞 절에서 겉으로 다른 사람들을 차별해 자리에 앉힌 예를 비판한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C022",
+          "clue": "서로를 구별해 판단한다는 물음이 낯선 사람을 거리를 두고 대할지의 고민에 닿는다.",
+          "friction": "새 사람이 가난하거나 이미 차별당했다고 가정하지 않고, 낯선 감정 자체를 확정적인 악행으로 단정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "347a560b9ceb2dbcca90faf71651744d5f698c1302489d0b9823e96d55bc322d"
+    },
+    {
+      "id": "KRV:JAS:2:5",
+      "status": "hold",
+      "reason": "세상에서 가난한 사람을 택해 믿음에 부요하게 하신다는 신앙적 말이다. 낯선 사람을 존중할 마음을 떠올릴 수 있으나 현재 새 사람의 재정 형편이나 신앙 상태는 주어지지 않았다.",
+      "contextNote": "가난한 사람을 택하신 하나님과 믿음의 부요함을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C022",
+          "clue": "세상에서 약하게 보이는 사람을 존중할 태도를 생각할 수 있다.",
+          "friction": "새 사람의 국적과 문화는 다르지만 가난한지는 알 수 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "2da60b6706e40ad9533508771e02d14705d57f744e0536517c8aa079deb630dd"
+    },
+    {
+      "id": "KRV:JAS:2:6",
+      "status": "hold",
+      "reason": "가난한 사람을 괄시했고 부자는 억압하여 법정으로 끌고 간다고 말한다. 모임의 차이에 대한 고민과 대조하려면 현재 사람들의 재정 형편과 행동을 새로 정해야 한다.",
+      "contextNote": "가난한 사람에 대한 차별과 부자의 억압을 지적한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C022",
+          "clue": "사람을 괄시하는 태도가 언급된다.",
+          "friction": "현재 누구도 법정으로 끌려가지 않았고 새 사람의 소득이나 실제 대우는 확인되지 않았다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "a5b2c2a5ae5db9932baff5c11a04a16fc9bdaa12c9233fe9eb8fa943a391f2c6"
+    },
+    {
+      "id": "KRV:JAS:2:7",
+      "status": "exclude",
+      "reason": "그들이 아름다운 이름을 훼방하지 않느냐고 묻는 연결 문장이다. 누구의 어떤 행동인지 앞 절에 의존해 단독 선택의 실마리가 부족하다.",
+      "contextNote": "앞 절에서 말한 부자들의 행동에 대한 질문을 이어간다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "849762f97518d34b514e7932d3a68bc06d253f6ba021c9ff450e6ddf04067f1e"
+    },
+    {
+      "id": "KRV:JAS:2:8",
+      "status": "candidate",
+      "reason": "이웃을 자기 몸처럼 사랑하는 법을 지키는 것이 잘하는 일이라고 한다. 다툰 동료가 물건을 두고 간 것을 보고 모른 척할지 연락해서 돌려줄지 고민할 때 상대가 곤란하지 않도록 살피는 방향을 읽을 수 있다.",
+      "contextNote": "이웃 사랑을 최고한 법으로 제시한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A019",
+          "clue": "다른 사람을 자기처럼 사랑한다는 말이 두고 간 물건을 알려주는 행동에 닿는다.",
+          "friction": "본문에는 물건을 직접 돌려주는 장면이 없고 동료가 어떻게 반응할지는 모른다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "d221a934f12228b6855bd9ca6850909d625d59aad774ffd488534d9cfefc5c1a"
+    },
+    {
+      "id": "KRV:JAS:2:9",
+      "status": "candidate",
+      "reason": "사람을 외모로 취하는 것을 경계한다. 국적과 생활문화가 달라 낯선 새 사람과 거리를 둘지 함께하자고 할지 고민할 때 겉으로 보이는 차이를 이유로 차별하지 않는 방향을 읽을 수 있다.",
+      "contextNote": "앞의 부자와 가난한 사람의 외적 대우 차이를 율법에 비추어 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C022",
+          "clue": "겉 조건으로 사람을 취하지 말라는 말이 낯선 새 사람을 함께 맞는 선택에 닿는다.",
+          "friction": "현재 새 사람의 외모나 경제 상태를 임의로 정하지 않으며 아직 선택 전인 사용자를 죄인이라고 서비스가 판정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "73f0447b79fd52791710ed6eee92d7dd5c802e6430144269673a5487dd57b2ab"
+    },
+    {
+      "id": "KRV:JAS:2:10",
+      "status": "hold",
+      "reason": "온 율법을 지키다 하나를 어기면 모두 범한 사람이 된다고 한다. 이미 사과하고 고친 잘못을 계속 자책하는 경우 과거 실수로 자신 전체를 나쁜 사람이라 여기는 마음을 강화할 수 있다.",
+      "contextNote": "율법을 부분적으로 지키는 일과 위반의 관계를 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C017",
+          "clue": "한 가지 잘못과 전체 평가가 함께 언급된다.",
+          "friction": "현재 모든 어려움이 이전 잘못 때문이거나 사용자가 모두 잘못한 사람이라는 사실은 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "9c7c71b531badf07c9f86ff2fe3ee7b22e9a19c50570cb859cc96dcfe3b37bb0"
+    },
+    {
+      "id": "KRV:JAS:2:11",
+      "status": "hold",
+      "reason": "간음과 살인에 관한 계명을 함께 지켜야 한다고 설명한다. 배우자가 있는 사람과 만날지 고민하는 사례에 결혼의 경계는 떠오르나 살인이라는 별개의 심각한 행동이 함께 있어 현재 상황과 직접 맞추기 어렵다.",
+      "contextNote": "앞 절의 율법 위반을 두 계명의 예로 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A023",
+          "clue": "간음하지 말라는 계명이 나온다.",
+          "friction": "사용자는 아직 사적으로 만나지 않았고 살인이나 실제 성관계가 있었다고 가정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "57035fa81412bb5ece91d321a4f727421c43f742d7d32c0a3748c067ee70cf81"
+    },
+    {
+      "id": "KRV:JAS:2:12",
+      "status": "hold",
+      "reason": "자유의 율법대로 심판받을 사람처럼 말하고 행동하라고 한다. 자신의 말과 행동을 살필 수 있으나 구체적으로 무엇을 말할지나 어떤 선택을 할지는 단독 절에서 불분명하다.",
+      "contextNote": "율법과 판단의 설명 뒤에 말과 행동을 권면한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "2980972a23065e3da3ddc7f0e7d713e088c58660258431611e6fcc063d16d4cb"
+    },
+    {
+      "id": "KRV:JAS:2:13",
+      "status": "candidate",
+      "reason": "긍휼을 행하지 않는 심판과 심판을 이기는 긍휼을 대비한다. 큰 잘못을 사과하고 행동을 고치려는 친구를 받아들일지 계속 혼낼지 고민하는 사람이 처벌보다 긍휼을 택할 실마리를 얻을 수 있다.",
+      "contextNote": "긍휼과 심판의 관계를 대조한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C002",
+          "clue": "긍휼은 심판을 이긴다는 표현이 변화하려는 친구를 받아들이는 선택에 닿는다.",
+          "friction": "현재 친구는 실제로 사과하고 고치려 노력 중이며 아무 경계 없이 관계를 지속해야 한다고 서비스가 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "ad88f4d8bdb8ec5cd069256de881b0d1f12b9641d0b7eb1c896c0fe289ea5601"
+    },
+    {
+      "id": "KRV:JAS:2:14",
+      "status": "candidate",
+      "reason": "믿음이 있다고 말하면서 행함이 없으면 무슨 이익이 있느냐고 묻는다. 사별한 친구에게 큰 위로의 말은 어렵고 작은 실제 도움을 줄지 거리 둘지 고민하는 사람이 마음을 행동으로 옮기는 방향을 읽을 수 있다.",
+      "contextNote": "믿음의 고백과 행동이 함께 가야 한다는 주장을 질문으로 시작한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C016",
+          "clue": "말로만 있는 것과 실제로 행하는 것을 대비한다.",
+          "friction": "본문은 종교적 믿음에 대한 말이며 친구의 문제를 반드시 해결할 수 있다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "f3575c5d3dfa8129571e3e8ce0979ed3a4d77680478ed278ca4159039cc784a7"
+    },
+    {
+      "id": "KRV:JAS:2:15",
+      "status": "hold",
+      "reason": "형제나 자매에게 옷과 먹을 것이 없는 경우를 가정하는 미완성 절이다. 사별한 친구를 작은 일로 도울지 고민과 연결하려면 실제 부족한 물자가 있다고 가정하거나 다음 절을 덧붙여야 한다.",
+      "contextNote": "다음 절에서 도움의 필요를 설명하기 위한 가정이다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C016",
+          "clue": "어려움에 처한 사람을 예로 든다.",
+          "friction": "현재 친구가 굶주리거나 옷이 없다는 사실은 없으며 어떤 도움을 줄지는 다음 절에서 이어진다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "13912bf641b38291d22f22d119e487b6ebadb0588f01a8c7995bf70da73d965d"
+    },
+    {
+      "id": "KRV:JAS:2:16",
+      "status": "candidate",
+      "reason": "평안과 배부름을 말하면서 필요한 것을 주지 않으면 무슨 이익이 있느냐고 묻는다. 사별한 친구에게 말로만 위로하기 어려워 식사나 정리 같은 실제 도움을 줄지 고민할 때 행동으로 돕는 방향이 직접 닿는다.",
+      "contextNote": "도움이 필요한 형제에게 말만 하고 실제 필요를 채우지 않는 예를 든다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C016",
+          "clue": "좋은 말만 하면서 실제 필요한 것을 주지 않는 일을 돌아본다.",
+          "friction": "현재 친구가 먹을 것이 없거나 추위에 떠는 사람이라고 가정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "9b9b180b8ea828520284a25cf2f53d0ad3e1c7045a192e5a11404155d34c8a35"
+    },
+    {
+      "id": "KRV:JAS:2:17",
+      "status": "candidate",
+      "reason": "행함이 없는 믿음은 그 자체가 죽은 것이라고 한다. 재료와 시간이 준비됐지만 작은 프로젝트의 시작을 미루는 사람이 생각만 하기보다 실제로 시작할 방향을 개인적인 비유로 읽을 수 있다.",
+      "contextNote": "믿음과 행동을 분리할 수 없다는 편지의 주장을 요약한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B006",
+          "clue": "마음에만 두고 행하지 않는 일을 돌아보게 한다.",
+          "friction": "본문의 믿음은 신앙적 개념이며 현재 프로젝트의 완성과 성과는 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "57d680dc26c899f518fa8a9e39cc6dafb5fbf151de898c408aea1a41efbd61a2"
+    },
+    {
+      "id": "KRV:JAS:2:18",
+      "status": "candidate",
+      "reason": "행함이 없는 믿음을 보이라는 말과 행동으로 믿음을 보이겠다는 말이 이어진다. 작은 프로젝트의 재료와 시간을 준비하고도 미루는 사람이 계획을 실제 행동으로 옮길지의 선택에 연결할 수 있다.",
+      "contextNote": "믿음과 행함의 관계를 대화 형태로 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B006",
+          "clue": "행함으로 보여주겠다는 말이 준비를 넘어 시작하는 방향에 닿는다.",
+          "friction": "본문은 신앙 고백에 관한 논쟁이며 현재 사용자에게 누군가 성과를 보여 달라고 요구했다는 사실은 없다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "b19ef41fe9e7d13fc408f9121647451a04403d691b3eda9fea5323c353a8ecea"
+    },
+    {
+      "id": "KRV:JAS:2:19",
+      "status": "hold",
+      "reason": "하나님이 한 분이심을 믿는 것과 귀신도 믿고 떤다는 말을 비교한다. 친구의 신앙 질문에 답할지 고민하는 상황에 믿음이라는 단어는 있지만 자신의 이유를 어떻게 말할지는 드러나지 않는다.",
+      "contextNote": "단순한 믿음의 고백과 뒤이어 설명할 행동의 차이를 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C019",
+          "clue": "하나님에 대한 믿음을 언급한다.",
+          "friction": "친구가 왜 교회에 다니는지 물은 상황이나 온유하게 대답하는 행동은 이 절에 없다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "b08bc08d23c0883c857b2e89d0cb40299307a8885ed9c24e8729222920331f03"
+    },
+    {
+      "id": "KRV:JAS:2:20",
+      "status": "hold",
+      "reason": "허탄한 사람을 부르며 행함 없는 믿음이 헛것이라고 묻는다. 준비된 프로젝트를 시작하는 행동과 닿을 수 있지만 사용자에게 믿음이 헛되다고 말하는 듯한 호칭과 종교적 맥락이 강하다.",
+      "contextNote": "행함과 믿음의 관계를 강조하는 질문이다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B006",
+          "clue": "행동이 없는 믿음이라는 말이 미루는 상황을 떠올리게 한다.",
+          "friction": "허탄한 사람이라는 직접적인 호칭과 종교적 판단이 현재의 시작 망설임과 다르다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "a64451f472a0406fd64934efab079ef5274de4c01829c52c84d549f787fa1a67"
+    },
+    {
+      "id": "KRV:JAS:2:21",
+      "status": "hold",
+      "reason": "아브라함이 아들을 제단에 드릴 때 행함으로 의롭다 함을 받았느냐고 묻는다. 가족의 일을 대신 책임질지의 고민에 가족이라는 단어가 있지만 행동과 맥락의 차이가 크다.",
+      "contextNote": "아브라함과 이삭 이야기를 믿음과 행동의 예로 든다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C003",
+          "clue": "아버지와 아들이 함께 언급된다.",
+          "friction": "현재 사용자는 성인 동생의 약속을 대신할지 고민하며 본문의 제단 행위를 현실 행동으로 옮기지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "02cb7121af13b1d2359b99765c103b3b19f60cb3facc698e07daca5e22aaff2f"
+    },
+    {
+      "id": "KRV:JAS:2:22",
+      "status": "candidate",
+      "reason": "믿음이 행동과 함께 일하고 행동으로 온전하게 되었다고 한다. 준비를 마친 작은 프로젝트를 계속 미룰지 시작할지의 고민에서 마음에 둔 것을 실제로 행하는 방향을 떠올릴 수 있다.",
+      "contextNote": "앞 절의 아브라함 사례에서 믿음과 행함의 관계를 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B006",
+          "clue": "믿음이 행함과 함께 일한다는 말이 준비를 행동으로 옮기는 선택에 닿는다.",
+          "friction": "본문은 신앙적 믿음의 완성을 말하며 현재 프로젝트가 성공한다고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "433141d32df11a116557f8d2f82feb5b754d498890ab47180b1b0e1ce1517826"
+    },
+    {
+      "id": "KRV:JAS:2:23",
+      "status": "hold",
+      "reason": "아브라함이 하나님을 믿어 의롭다고 여겨졌고 하나님의 벗이라 불렸다는 설명이다. 상반된 의견 사이에서 기도할지의 고민에 믿음은 닿지만 현재 무엇을 할지의 행동은 직접 제시되지 않는다.",
+      "contextNote": "아브라함의 믿음을 의로 여기셨다는 성경 말씀의 성취를 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A035",
+          "clue": "하나님을 믿는 사람에 관한 이야기다.",
+          "friction": "현재 사용자에게 아브라함과 같은 신분이나 확정된 응답이 주어졌다고 가정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "af914b43ace6b493564ce79fd935591a48f5363e78fb0fad8ff26e8b46df83c5"
+    },
+    {
+      "id": "KRV:JAS:2:24",
+      "status": "candidate",
+      "reason": "사람이 믿음으로만 아니라 행함으로 의롭다 함을 받는다고 말한다. 이미 준비한 프로젝트를 계속 생각만 할지 시작할지 고민하는 사람이 실제로 실행하는 방향을 읽을 수 있다.",
+      "contextNote": "믿음과 행함에 대한 편지의 논지를 요약한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B006",
+          "clue": "믿음만이 아닌 행함을 강조하는 말이 행동을 시작하는 선택에 닿는다.",
+          "friction": "의로움이라는 신앙적 판단을 사용자의 작업이 잘될지에 대한 보증으로 옮기지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "ff5300b9fe39d9e5d41a5bb19a9a0b5f9dbb5b5da61129cbaddf54df49c65137"
+    },
+    {
+      "id": "KRV:JAS:2:25",
+      "status": "candidate",
+      "reason": "라합이 사람들을 접대하고 다른 길로 나가게 도운 행동을 언급한다. 도움을 받은 사람에게 감사 식사를 대접할지 망설이는 사람이 다른 사람을 맞이하고 대접하는 방향으로 읽을 수 있다.",
+      "contextNote": "라합이 사자들을 접대하고 보내준 행동을 믿음과 행함의 예로 제시한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A012",
+          "clue": "다른 사람들을 접대하는 행동이 식사 초대를 떠올리게 한다.",
+          "friction": "본문에 식사나 앞선 도움에 대한 감사는 직접 나오지 않으며 상대가 실제 초대를 수락한다고 가정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "febe35d2289f7702c4f91d89f2531c425f9afa9d08d7de252375f2d3bbc45add"
+    },
+    {
+      "id": "KRV:JAS:2:26",
+      "status": "candidate",
+      "reason": "영혼 없는 몸이 죽은 것처럼 행함 없는 믿음도 죽은 것이라고 한다. 준비만 하며 작은 프로젝트의 시작을 미루는 사람이 구상에서 실제 행동으로 옮길 실마리로 읽을 수 있다.",
+      "contextNote": "몸과 영혼의 비유로 믿음과 행동의 관계를 요약한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B006",
+          "clue": "행함이 없는 상태의 한계를 강조해 실행을 시작할 마음을 떠올린다.",
+          "friction": "죽음은 비유이며 사용자의 프로젝트가 실패했거나 신앙이 없다는 평가가 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "5797dfd0f9dda6be4a20f8e093bf4a65320f11d687cbd64d01ed2c483066f9f1"
+    },
+    {
+      "id": "KRV:JAS:3:1",
+      "status": "hold",
+      "reason": "선생이 된 사람들이 더 큰 심판을 받으므로 많이 선생이 되지 말라고 한다. 새로운 책임을 맡을지의 고민을 떠올릴 수 있지만 현재 사용자가 교사가 되는 상황은 주어지지 않았다.",
+      "contextNote": "공동체에서 가르치는 사람의 책임을 경고한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "G15",
+          "clue": "책임 있는 자리가 가져올 부담을 말한다.",
+          "friction": "동아리 운영 지원과 선생이 되는 일은 다르며 실제 심판이나 실패를 예측하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "0e28514300df795d1ddcaddb84d7fd16b301250f2d8ae9b7a467b77df50c2d31"
+    },
+    {
+      "id": "KRV:JAS:3:2",
+      "status": "candidate",
+      "reason": "우리 모두 실수가 많고 말에 실수가 없는 사람은 온전하다고 한다. 팀원이 실제로 놓친 실수를 알려주었을 때 기분이 상해 인정할지 망설이는 사람이 실수할 수 있음을 받아들이는 방향을 읽을 수 있다.",
+      "contextNote": "모든 사람의 실수와 특히 말의 절제를 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "우리가 다 실수가 많다는 말이 자신의 실수를 인정할 마음에 닿는다.",
+          "friction": "현재 팀원도 같은 실수를 했거나 지적이 부당하다고 가정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "4c3f6bc92e55791a26d85548023fc760c5e895ce1adc1bd7f2b7f0713019784e"
+    },
+    {
+      "id": "KRV:JAS:3:3",
+      "status": "hold",
+      "reason": "말의 입에 재갈을 먹여 몸을 이끈다고 말한다. 화난 말을 조절할지의 고민에 재갈 이미지가 닿을 수 있지만 이 절의 말은 사람의 언어가 아니라 동물이며 다음 절까지 비유가 이어진다.",
+      "contextNote": "말을 재갈로 이끄는 모습을 혀의 비유에 앞서 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "입에 재갈을 먹인다는 이미지가 말의 절제를 떠올릴 수 있다.",
+          "friction": "단독 절에는 혀나 화난 메시지가 나오지 않으며 어거라는 옛말도 낯설다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "d20b86d09fce30bf2190cb76822cbd954623419e283433869243c6444925f530"
+    },
+    {
+      "id": "KRV:JAS:3:4",
+      "status": "candidate",
+      "reason": "큰 배가 매우 작은 키로 사공의 뜻에 따라 움직인다고 말한다. 운동을 꾸준히 못할까 걱정해 완벽한 준비를 기다리는 사람이 작은 것부터 시작해 볼 방향을 개인적인 비유로 읽을 수 있다.",
+      "contextNote": "큰 배를 움직이는 작은 키의 비유로 다음 절의 혀를 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H057",
+          "clue": "큰 것을 움직이는 지극히 작은 키가 작은 시작의 의미를 떠올리게 한다.",
+          "friction": "본문은 배의 조종에 관한 비유이며 운동이 반드시 습관이 되거나 건강 결과가 좋아진다고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "4d60856cd4dacc165277f032caff8b74a1a2e2fa3071e54edc4510ea5e698a71"
+    },
+    {
+      "id": "KRV:JAS:3:5",
+      "status": "candidate",
+      "reason": "작은 혀와 작은 불이 큰 나무를 태우는 모습을 함께 말한다. 서운해서 쓴 화난 메시지를 지금 보낼지 진정한 뒤 말할지 고민할 때 작은 말이 커질 수 있음을 떠올리며 잠시 멈출 수 있다.",
+      "contextNote": "작은 혀의 영향력을 작은 불과 많은 나무의 비유로 설명한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "작은 불이 많은 나무를 태운다는 이미지가 화난 말의 파장을 생각하게 한다.",
+          "friction": "메시지를 보내면 반드시 싸움이 생긴다고 예측하지 않으며 현재 느끼는 서운함을 부정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "f0ee98a538bdcd6a354b7b577b6c7029be1f514051af00769595e625df9606dc"
+    },
+    {
+      "id": "KRV:JAS:3:6",
+      "status": "hold",
+      "reason": "혀를 불과 불의의 세계로 묘사하고 몸과 삶을 불사르는 지옥불이라고 말한다. 화난 메시지의 파장을 떠올릴 수 있지만 과격한 이미지 전체가 일상적 대화의 선택과 맞는지 불확실하다.",
+      "contextNote": "앞 절의 작은 불 비유를 확장해 혀의 해로운 영향력을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "말이 큰 영향을 미칠 수 있다는 강한 비유다.",
+          "friction": "현재 사용자가 이미 남을 해쳤거나 지옥의 결과를 겪는다고 단정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "fede6f3c62297540986f5db66fb3efc20e68ee3ff7e6fb76fa167b777e5011b4"
+    },
+    {
+      "id": "KRV:JAS:3:7",
+      "status": "hold",
+      "reason": "여러 종류의 짐승과 새와 벌레 등이 사람에게 길들여진다고 말한다. 단독으로 현재의 구체 고민에 직접 연결되는 선택은 찾기 어렵다.",
+      "contextNote": "다음 절에서 혀를 길들일 수 없다는 말에 앞서 짐승의 길들임을 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "9df1f3441fcfcf7c07a43fd8e5c6c33cc4e596a91e690c2c0476fcbba1f196da"
+    },
+    {
+      "id": "KRV:JAS:3:8",
+      "status": "hold",
+      "reason": "혀는 아무도 길들일 수 없으며 쉬지 않는 악과 죽이는 독이라고 한다. 화난 메시지의 파장을 떠올릴 수 있지만 말을 조절할 수 없다는 강한 단정과 독의 이미지가 현재 선택을 모호하게 한다.",
+      "contextNote": "혀가 길들이기 어렵다는 경고를 독의 이미지로 표현한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H031",
+          "clue": "말이 해를 끼칠 수 있다는 이미지를 읽는다.",
+          "friction": "사용자가 이미 남을 해쳤거나 자신의 말을 절대 조절할 수 없다고 가정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "2f84a6bc1e71004fec48df2dfe992ab8e3029ce39a8d9c36aa538ebbaf2c8c37"
+    },
+    {
+      "id": "KRV:JAS:3:9",
+      "status": "hold",
+      "reason": "같은 혀로 하나님을 찬송하면서 사람을 저주한다고 말한다. 비웃던 동료를 되갚아 놀릴지의 고민과 말의 방향은 닿지만 사용자가 찬송하고 저주했다고 주어지지 않았다.",
+      "contextNote": "한 혀가 찬송과 저주에 함께 쓰이는 모순을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B022",
+          "clue": "타인에게 해로운 말을 하는 모습이 등장한다.",
+          "friction": "받은 비웃음을 되돌릴지의 선택이나 현재 신앙 행위는 직접 나타나지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "6f33a5ffa9b4b3c8e0287bc8e0e8dd554a62c803f81b0f4639cbe366b72dc2e7"
+    },
+    {
+      "id": "KRV:JAS:3:10",
+      "status": "candidate",
+      "reason": "한 입에서 찬송과 저주가 함께 나오는 것은 마땅하지 않다고 말한다. 나를 비웃던 동료의 실수를 다른 사람에게 전하며 웃을지 고민할 때 남을 해치는 말을 더하지 않는 방향을 떠올릴 수 있다.",
+      "contextNote": "한 입에서 찬송과 저주가 함께 나오는 모순을 지적한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B022",
+          "clue": "다른 사람을 향한 저주가 마땅하지 않다는 말이 조롱을 멈추는 선택에 닿는다.",
+          "friction": "사용자가 이미 저주했거나 종교적 찬송을 하는 사람이라고 가정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "015d7b67c0e6a06ca6965c1754df2c939e5fd01ea0c51af9bf7ad041fa3342a5"
+    },
+    {
+      "id": "KRV:JAS:3:11",
+      "status": "hold",
+      "reason": "한 샘에서 단물과 쓴물이 함께 나올 수 있느냐고 묻는다. 서로 다른 목표를 가진 친구와 프로젝트를 시작할지 고민에 대비는 떠오르지만 목표를 어떻게 맞출지의 실마리는 보이지 않는다.",
+      "contextNote": "앞 절의 서로 다른 말이 한 입에서 나오는 모순을 샘에 비유한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "C010",
+          "clue": "서로 다른 두 가지가 한 곳에서 나오는지 묻는 비유다.",
+          "friction": "친구와의 목표가 절대로 양립할 수 없다거나 함께할 수 없다고 단정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "c919f23d868295c7e8c9732f6cd731b926e2f9c8b5f5978523eafd97fde60532"
+    },
+    {
+      "id": "KRV:JAS:3:12",
+      "status": "hold",
+      "reason": "나무와 열매, 짠물과 단물의 성질을 묻는 비유다. 단독으로 현재 구체 고민에서 어떤 행동을 선택할지 선명하게 드러나지 않는다.",
+      "contextNote": "앞 절의 샘 비유를 나무와 열매, 물의 성질로 이어 설명한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "def50cab0992e096c026f4f9bb15dc41f50cea9216660b48fd04cadf8b81d5f8"
+    },
+    {
+      "id": "KRV:JAS:3:13",
+      "status": "candidate",
+      "reason": "지혜와 총명이 있는 사람은 온유한 행동으로 이를 보이라고 한다. 친구에게 서운함을 말하고 싶지만 싸움이 커질까 걱정하는 사람이 부드럽게 행동하고 말할 방향을 떠올릴 수 있다.",
+      "contextNote": "지혜를 선행과 온유한 행동으로 보이라고 권면한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H026",
+          "clue": "지혜의 온유함으로 행동을 보이라는 말이 부드러운 대화 태도에 닿는다.",
+          "friction": "본문에 실제 친구와의 대화는 없고 말을 걸면 반드시 화해한다고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "e5ee21bbed4e022fcd63d9e5db6bafb41ad61065e73d19af8a08dfa2c49bbb13"
+    },
+    {
+      "id": "KRV:JAS:3:14",
+      "status": "hold",
+      "reason": "마음에 독한 시기와 다툼이 있다면 자랑하거나 진리에 어긋나 거짓말하지 말라고 한다. 다른 사람의 성공과 비교하는 마음과 닿을 수 있으나 현재 사용자가 독하게 시기하거나 거짓말했다는 사실은 없다.",
+      "contextNote": "시기와 다툼이 있는 마음에서 나오는 자랑과 거짓을 경고한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H040",
+          "clue": "다른 사람과 비교할 때 생길 수 있는 시기를 언급한다.",
+          "friction": "친구가 성공한 모습을 보고 비교한다는 사실만으로 독한 시기나 다툼을 확정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "e80a77e3d4886a5daeb95cae5597c774b7fdddc331ed25b5a378a2745c9d8da3"
+    },
+    {
+      "id": "KRV:JAS:3:15",
+      "status": "hold",
+      "reason": "이러한 지혜는 하나님에게서 온 것이 아니라 세상적이고 마귀적이라고 한다. 지혜가 무엇을 가리키는지는 앞 절에 의존하며 현재 조언을 해 줄 사람의 의도를 판단할 근거는 없다.",
+      "contextNote": "앞 절의 시기와 다툼에 뿌리 둔 지혜를 설명한다.",
+      "readability": "needs_explanation",
+      "connections": [
+        {
+          "scenarioId": "H051",
+          "clue": "지혜와 조언에 관한 평가가 나온다.",
+          "friction": "현재 선배의 조언이 나쁘거나 악의적이라는 사실은 주어지지 않았다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "9d3ae1721b67f8f50c57812ceed0dc0b105cc4d7f03816661b67d15c8eb752ba"
+    },
+    {
+      "id": "KRV:JAS:3:16",
+      "status": "hold",
+      "reason": "시기와 다툼이 있는 곳에 혼란과 악한 일이 있다고 말한다. 친구의 성공을 보며 비교하는 고민에 감정의 가능성은 닿지만 실제 시기나 다툼을 사용자 상황에 추가할 수 없다.",
+      "contextNote": "시기와 다툼에서 생기는 혼란을 지적한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H040",
+          "clue": "시기와 다툼의 결과를 말한다.",
+          "friction": "사용자는 비교한다고 했을 뿐 친구와 다투거나 악한 일을 했다고 하지 않았다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "0b3b676655c78b3c873f5476d40c372d5f405cb5f50dc556d384c9982763aab1"
+    },
+    {
+      "id": "KRV:JAS:3:17",
+      "status": "candidate",
+      "reason": "하나님에게서 난 지혜는 화평하고 관용하며 긍휼과 거짓 없음이 있다고 한다. 친구에게 서운함을 말하되 싸움을 키울까 망설이는 사람이 관용하고 화평한 태도로 대화하는 방향을 읽을 수 있다.",
+      "contextNote": "위로부터 난 지혜의 성품들을 나열한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H026",
+          "clue": "화평하고 관용하는 지혜라는 말이 부드럽게 말할 선택에 닿는다.",
+          "friction": "편벽 같은 옛 표현이 다소 낯설고 대화가 반드시 잘 풀린다고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "de0eb78970fc4d0315f3272291a36182f49e12d5f184cf1292098790d9b2d905"
+    },
+    {
+      "id": "KRV:JAS:3:18",
+      "status": "candidate",
+      "reason": "화평하게 하는 사람은 화평으로 심어 의의 열매를 거둔다고 한다. 자기 잘못을 알지만 먼저 사과하면 지는 것 같아 망설이는 사람이 관계를 풀기 위해 먼저 화평을 구하는 방향을 떠올릴 수 있다.",
+      "contextNote": "화평을 이루는 사람의 열매를 농사의 이미지로 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H027",
+          "clue": "화평으로 심는다는 표현이 관계를 풀기 위해 먼저 다가가는 선택에 닿는다.",
+          "friction": "사과라는 단어는 직접 없고 친구가 즉시 받아줄 것이라는 약속도 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "2a06755ad354bfd2fab5bf529bf9d68825b115fb8f95ca2085c2deb7bee8fb23"
+    },
+    {
+      "id": "KRV:JAS:4:1",
+      "status": "hold",
+      "reason": "싸움과 다툼이 몸 안에서 싸우는 정욕에서 나오는지 묻는다. 화난 친구를 다른 이들이 싸우게 부추기는 상황과 다툼은 닿지만 친구의 분노 원인은 현재 주어지지 않았다.",
+      "contextNote": "공동체의 다툼이 내부의 욕망에서 비롯되는지 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A007",
+          "clue": "싸움과 다툼의 원인을 묻는다.",
+          "friction": "사용자는 제삼자로서 말릴지 고민하며 상대방이 욕망 때문에 화났다고 단정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "09d0789bbb3f9ead5f035f0508d04e3242af9bfd1c4da162c47ff1ff9a45d6c8"
+    },
+    {
+      "id": "KRV:JAS:4:2",
+      "status": "hold",
+      "reason": "욕심과 살인, 시기와 다툼을 열거한 뒤 얻지 못하는 것은 구하지 않기 때문이라고 말한다. 도움을 부탁할지 고민과 마지막 부분은 닿지만 앞의 강한 행위들을 현재 사용자에게 적용할 근거가 없다.",
+      "contextNote": "공동체의 욕심과 다툼을 지적하고 구하지 않음을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "구하지 않기에 얻지 못한다는 말이 부탁을 떠올리게 한다.",
+          "friction": "살인과 시기와 다툼이 구절 전체에 포함되지만 사용자에게 그런 행동이 있었다고 주어지지 않았다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "bb22f28384b0c4d006cbf7edc60658023372c79114c8791af6febd6a636d4168"
+    },
+    {
+      "id": "KRV:JAS:4:3",
+      "status": "hold",
+      "reason": "구해도 받지 못하는 이유를 정욕으로 쓰려고 잘못 구하기 때문이라고 한다. 부탁이 민폐일까 고민하는 사용자가 아직 부탁하지 않았고 잘못된 욕심이 있다는 사실도 없으므로 그대로 대응하기 어렵다.",
+      "contextNote": "앞 절의 구함에 이어 잘못된 동기를 지적한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H033",
+          "clue": "구하는 행위의 결과를 말한다.",
+          "friction": "현재 사용자가 부탁을 거절당했거나 부정한 이유로 도움을 원한다고 가정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "b4dd919f19e9dda31c115a82ffe3875bae6828a0ab06a3bc5356db04ad805e82"
+    },
+    {
+      "id": "KRV:JAS:4:4",
+      "status": "hold",
+      "reason": "간음하는 여자들을 부르며 세상과 벗되는 것이 하나님과 원수가 되는 일이라고 말한다. 다른 종교의 예배에 함께 갈지 고민하는 신앙인에게 강한 대비가 될 수 있지만 간음이나 현재 친구의 악의를 가정할 근거는 없다.",
+      "contextNote": "하나님에 대한 신실함과 세상과의 벗함을 강한 비유로 대조한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A054",
+          "clue": "하나님과 다른 대상 사이의 신앙적 긴장이 나온다.",
+          "friction": "현재 사용자의 성별이나 혼인 상태, 친구가 하나님의 원수라는 사실을 임의로 정하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "96dd2e4521f9bb1eb3abf731e5e6ea598802c533ccb9978869b9da2ba8b01803"
+    },
+    {
+      "id": "KRV:JAS:4:5",
+      "status": "hold",
+      "reason": "성령이 시기하기까지 사모한다는 말씀을 헛되게 여기는지 묻는다. 오래된 문장 구조와 대명사로 인해 단독 결과에서 일상의 구체 선택과 연결하기 어렵다.",
+      "contextNote": "하나님이 사람 안에 두신 영과 성경 말씀을 묻는 어려운 구절이다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "6c73f15809ed20f75446227bee79e55fd731f08001df5658404c1e87f2250fc0"
+    },
+    {
+      "id": "KRV:JAS:4:6",
+      "status": "candidate",
+      "reason": "교만한 사람을 물리치고 겸손한 사람에게 은혜를 주신다는 말을 인용한다. 팀원이 알려준 실제 실수를 인정하고 고칠지 자존심 때문에 자기 방식을 고수할지 고민하는 사람이 겸손하게 지적을 받아들일 방향을 읽을 수 있다.",
+      "contextNote": "더 큰 은혜와 겸손에 대한 성경 인용을 제시한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H048",
+          "clue": "겸손이라는 태도가 실제 실수를 인정하는 선택에 닿는다.",
+          "friction": "기분이 상한 사용자 자체를 교만한 사람으로 단정하지 않으며 수정의 결과를 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "7af89a9209901f7bc426be8df2f560cb65da075db52e8f57221cc9df82cd7fde"
+    },
+    {
+      "id": "KRV:JAS:4:7",
+      "status": "hold",
+      "reason": "하나님께 순복하고 마귀를 대적하면 마귀가 피할 것이라고 한다. 점집에 동행할지 망설이는 신앙인의 고민과 믿음은 닿을 수 있지만 친구나 점집을 마귀로 규정할 근거는 없다.",
+      "contextNote": "하나님께 복종하고 영적 대적에 맞서라는 권면이다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A036",
+          "clue": "자신이 믿는 하나님을 따르는 태도를 떠올릴 수 있다.",
+          "friction": "현재 친구가 악의가 있거나 마귀라는 사실은 없다. 그가 반드시 제안을 철회한다고도 보장하지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "5bfdb81ee4866043648bc5a45daf62a6d8834310b5acf31b8bc493712b68e09b"
+    },
+    {
+      "id": "KRV:JAS:4:8",
+      "status": "candidate",
+      "reason": "하나님을 가까이하라고 말하고 손과 마음을 깨끗하게 하라고 한다. 심한 말을 이미 사과하고 고치려 하지만 기도가 부끄러운 사람이 하나님께 다시 기도해 보는 방향을 읽을 수 있다.",
+      "contextNote": "하나님께 가까이하고 마음과 행동을 정결하게 하라는 권면이다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "R021",
+          "clue": "하나님을 가까이하라는 말이 부끄러움을 안고도 기도하는 선택에 닿는다.",
+          "friction": "사용자가 실제로 하나님께 버림받았거나 친구에게서 용서받았다고 단정하지 않는다. 죄인이라는 호칭을 사용자의 현재 인격 판정으로 내리지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "b50b9408e75bb2edf3b85c3726c0cf7d26fc44e1dc2bff85c584efe7c0f7b6ed"
+    },
+    {
+      "id": "KRV:JAS:4:9",
+      "status": "candidate",
+      "reason": "웃음과 즐거움을 슬픔과 애통으로 바꾸라고 한다. 친구 부모님의 조문과 즐거운 모임이 같은 날인 사람이 기쁜 자리를 잠시 내려놓고 슬퍼하는 친구 곁에 가는 선택을 떠올릴 수 있다.",
+      "contextNote": "앞뒤에서 하나님 앞에 낮아지라는 회개의 문맥에 있는 강한 애통의 명령이다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "B024",
+          "clue": "즐거운 자리를 슬픔의 자리로 바꾸는 이미지가 모임과 조문 사이의 선택에 닿는다.",
+          "friction": "사용자가 반드시 울거나 즐거운 모임에 가는 것이 죄라고 단정하지 않는다. 본문은 신앙적 회개의 문맥이다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "943c6204f1504271f29fd3aa315a97391a27018439f055951175719d32229bb5"
+    },
+    {
+      "id": "KRV:JAS:4:10",
+      "status": "hold",
+      "reason": "주 앞에서 자신을 낮추면 높이신다고 한다. 처음 하는 일에 지원할지 망설일 때 격려가 될 수 있지만 구체적으로 지금 지원할지의 실마리는 약하다.",
+      "contextNote": "하나님 앞에서의 겸손과 높이심을 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H041",
+          "clue": "낮아진 사람이 높아진다는 말이 용기를 줄 수 있다.",
+          "friction": "현재 지원자의 결과나 선발을 보장하지 않으며 지원 여부는 직접 나타나지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "75b2cd6caa5f3fe91abaf8ff870fb1c3d3a56e1fd5a612f56058989e7cd12180"
+    },
+    {
+      "id": "KRV:JAS:4:11",
+      "status": "candidate",
+      "reason": "서로 비방하지 말라고 반복해 말한다. 자신을 비웃던 동료의 실수를 다른 사람에게 전하며 웃을지 고민하는 사람이 되돌려 비방하지 않는 방향을 읽을 수 있다.",
+      "contextNote": "형제에 대한 비방과 판단을 율법을 판단하는 것과 연결한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B022",
+          "clue": "피차 비방하지 말라는 표현이 동료의 실수를 퍼뜨리지 않는 선택에 닿는다.",
+          "friction": "율법과 재판자에 대한 뒷부분이 길고, 사용자가 이미 동료를 비방했다고 가정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "692a82c4f133d18d535aa8b086c2cb1bc5c273bdf6cce5bddda5693880e399df"
+    },
+    {
+      "id": "KRV:JAS:4:12",
+      "status": "candidate",
+      "reason": "입법자와 재판자가 한 분이라고 하며 네가 누구이기에 이웃을 판단하느냐고 묻는다. 자신을 비웃던 동료의 실수를 다른 사람에게 전하며 웃을지 고민하는 사람이 다른 이의 실패를 쉽게 판단하지 않을 방향을 떠올릴 수 있다.",
+      "contextNote": "판단과 심판의 권한을 하나님께 돌리며 이웃을 판단하는 태도를 묻는다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B022",
+          "clue": "이웃을 판단하느냐는 직접적인 물음이 동료를 조롱할지의 갈림에 닿는다.",
+          "friction": "동료의 실제 잘못과 과거 비웃음을 지우지 않으며 하나님이 현재 사람을 멸하신다고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "002d7e43d88e8ab28f175643abd69a87cec78a5d5535aa8abcec0ff1fc363cee"
+    },
+    {
+      "id": "KRV:JAS:4:13",
+      "status": "hold",
+      "reason": "오늘이나 내일 다른 도시에 가서 일 년 장사하여 이익을 보겠다는 사람들을 부르는 미완성 문장이다. 일정을 정하는 고민을 떠올릴 수 있으나 이 절만으로 선택의 방향이 완성되지 않는다.",
+      "contextNote": "장래 계획을 자랑하는 사람들을 향한 다음 절의 경고를 시작한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "4dcdc1dd44aea8dbfb2c610b55bba69bfee2af7d216d1abf7f961dd54a9e995a"
+    },
+    {
+      "id": "KRV:JAS:4:14",
+      "status": "candidate",
+      "reason": "내일 일을 알지 못하고 생명은 잠시 보였다 사라지는 안개 같다고 말한다. 여행은 기대되지만 아직 일어나지 않은 불편을 걱정해 취소할지 가볼지 고민하는 사람이 알 수 없는 내일만 생각하며 현재의 기회를 포기하지 않을 방향을 읽을 수 있다.",
+      "contextNote": "미래를 확정할 수 없고 삶이 덧없다는 안개의 비유다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H013",
+          "clue": "내일 일을 알지 못한다는 말이 아직 일어나지 않은 불편에 대한 걱정과 닿는다.",
+          "friction": "여행에서 불편이나 위험이 없을 것이라고 보장하지 않고 생명의 덧없음을 문자 그대로 현재 사건에 대한 예측으로 옮기지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "5318eeb80b658b3eecb62d267c82860a4322a3b069b5ce392cf7cb4c6cd9c1c5"
+    },
+    {
+      "id": "KRV:JAS:4:15",
+      "status": "hold",
+      "reason": "주의 뜻이면 살기도 하고 이것저것 하겠다고 말하라고 한다. 두 선택을 두고 결정을 미루는 사람이 결과를 맡기는 마음을 떠올릴 수 있지만 지금 무엇을 택할지의 방향은 분명하지 않다.",
+      "contextNote": "미래를 확신하는 대신 하나님의 뜻에 의존한다는 말이다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H061",
+          "clue": "삶과 앞으로 할 일을 하나님의 뜻에 맡기는 표현이다.",
+          "friction": "두 길 중 하나를 택하거나 더 기다릴 행동은 직접 나타나지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "5a353dcfe9f17a37376fd6d3f0d8ac52f9f1901cd0b7d373244faa6bcaa29417"
+    },
+    {
+      "id": "KRV:JAS:4:16",
+      "status": "candidate",
+      "reason": "허탄한 자랑은 악한 것이라고 말한다. 남들이 활동 이력을 부풀리는 것을 보며 자신도 과장할지 사실대로 쓸지 고민하는 사람이 실제보다 부풀린 자랑을 멈추는 쪽을 읽을 수 있다.",
+      "contextNote": "앞 절의 미래를 자신만만하게 자랑하는 태도를 지적한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "B014",
+          "clue": "허탄한 자랑이라는 말이 활동 이력을 실제보다 꾸미려는 마음에 닿는다.",
+          "friction": "사용자가 이미 거짓을 제출했다거나 주변 사람 전체가 악하다고 단정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "4a46718125393dcb45bc9d2166301e8cf3a9d4fc6f18cdba23d624a57f3a3318"
+    },
+    {
+      "id": "KRV:JAS:4:17",
+      "status": "candidate",
+      "reason": "선을 행할 줄 알면서 행하지 않으면 죄라고 한다. 사이가 나빠진 동료가 물건을 두고 간 것을 보고 모른 척할지 연락해 돌려줄지 고민하는 사람이 할 수 있는 좋은 행동을 실행하는 방향을 읽을 수 있다.",
+      "contextNote": "마땅히 선을 행할 줄 알면서 행하지 않는 일에 대해 말한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "A019",
+          "clue": "할 수 있는 선을 알면서 행동하지 않는 일을 돌아본다.",
+          "friction": "동료가 연락을 받거나 화해할 것이라고 보장하지 않으며 서비스가 사용자의 인격을 죄인이라고 판정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "865bd8a70add0ae61db280ab5b2f852c637e7c5e1f8bf8b7aad208b0e28ffbbb"
+    },
+    {
+      "id": "KRV:JAS:5:1",
+      "status": "hold",
+      "reason": "부한 사람에게 앞으로 올 고생을 두고 울고 통곡하라고 한다. 돈이나 소비의 고민과 부유함은 닿을 수 있지만 사용자가 부유하거나 어떤 고생을 겪을지는 주어지지 않았다.",
+      "contextNote": "부유한 사람들을 향한 다음 절들의 경고를 시작한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "c231bbaeef5d13a8fae471d533a11b69d7b5f33dd3fd5c503ed0830e9e70f131"
+    },
+    {
+      "id": "KRV:JAS:5:2",
+      "status": "hold",
+      "reason": "재물은 썩고 옷은 좀먹었다고 말하는 미완성 문장이다. 이미 신발이 많은데 새것을 살지의 고민에 소유물의 쇠함은 닿지만 지금 가진 물건이 손상됐다는 사실은 없다.",
+      "contextNote": "부유한 이들의 재물이 사라져 가는 모습을 말한다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H001",
+          "clue": "재물과 의복이 오래가지 않는다는 이미지가 나온다.",
+          "friction": "현재 신발이 좀먹었거나 썩었다고 가정하지 않으며 구매 여부가 직접 드러나지 않는다.",
+          "expectedEnough": "uncertain"
+        }
+      ],
+      "textSha256": "b442a1cd2394c7921065eb2336eb37b18265b51fcc8c56dacccb9085e0c91aa4"
+    },
+    {
+      "id": "KRV:JAS:5:3",
+      "status": "hold",
+      "reason": "쌓아둔 금과 은이 녹슬어 살을 먹는다고 경고한다. 돈이나 소유를 떠올릴 수 있지만 무서운 심판 이미지와 말세의 재물이 중심이어서 확인된 일상 고민의 선택을 바로 비추기 어렵다.",
+      "contextNote": "앞 절의 부자에게 부정하게 쌓은 재산의 심판을 경고하는 흐름이다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "49a742bb2758c65e04c53d6465095b3c333efc29e2cf7ae201267cbf5b6000b2"
+    },
+    {
+      "id": "KRV:JAS:5:4",
+      "status": "candidate",
+      "reason": "일한 품꾼에게 주지 않은 삯과 일한 사람의 울음을 들으라고 한다. 보수를 오늘 보내기로 했지만 미루고 싶은 사람이 약속한 보수를 제때 보내는 쪽을 떠올릴 수 있다.",
+      "contextNote": "부자들이 추수 노동자의 삯을 주지 않은 부정을 꾸짖는다. 현재 사례에서는 아직 약속 기한이 지나지 않았다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "A024",
+          "clue": "일한 사람에게 줄 삯을 주지 않는 상황에 주목한다.",
+          "friction": "본문은 이미 삯을 주지 않은 자를 꾸짖으며 품꾼의 울음도 나오지만, 현재 지인이 실제로 울었다거나 대가를 빼앗겼다고 확정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "aad7be723770e74cd0a5198c3df0fb284c5da79ae1f61721e29e4828e166eacf"
+    },
+    {
+      "id": "KRV:JAS:5:5",
+      "status": "hold",
+      "reason": "땅에서 사치하고 즐기며 도살의 날에 마음을 살찌웠다고 책망한다. 값비싼 물건 고민을 떠올릴 수는 있으나 도살의 날이라는 끔찍한 경고가 구절 전체를 지배한다.",
+      "contextNote": "앞뒤 절에서 노동자를 억압하고 정죄한 부자를 심판한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "03d8fc376ea6f1f95cf66bfed2c7aef8286fc261a290da5b18f6d6408442361e"
+    },
+    {
+      "id": "KRV:JAS:5:6",
+      "status": "hold",
+      "reason": "옳은 사람을 정죄하고 죽였는데 그가 저항하지 않았다고 말한다. 상대를 비난하는 행동이 있지만 죽음까지 이른 사건이어서 확인된 대화나 사과 고민과 가볍게 동일시하기 어렵다.",
+      "contextNote": "부자들의 폭력과 불의를 고발하는 대목이다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "919391a2dd69e2c1bc48dd4275c9c0d9a6fa72285985d09c74d445797604ab11"
+    },
+    {
+      "id": "KRV:JAS:5:7",
+      "status": "candidate",
+      "reason": "농부가 귀한 열매와 이른 비 늦은 비를 오래 기다린다고 한다. 급한 생활비 없이 매물 가격을 유지할지 조급하게 내릴지 고민하는 사람이 결과가 바로 오지 않아도 기다릴 방향을 읽을 수 있다.",
+      "contextNote": "주의 강림을 기다리라는 권면에서 농부가 열매와 비를 기다리는 비유를 쓴다.",
+      "readability": "thinkable",
+      "connections": [
+        {
+          "scenarioId": "H019",
+          "clue": "농부가 열매를 바라고 때가 올 때까지 길이 기다린다.",
+          "friction": "본문의 강림과 농사 비유를 매물이 반드시 팔릴 징조나 판매 시점의 보장으로 바꾸지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "4bc053ab899a1495e7f74857fcebd60c7bc047c252c769ecfd867828caac5e30"
+    },
+    {
+      "id": "KRV:JAS:5:8",
+      "status": "candidate",
+      "reason": "오래 참고 마음을 굳게 하라고 한다. 연락이 없어 매물 가격을 낮추고 싶지만 생활비는 급하지 않은 사람이 마음을 정하고 조금 더 기다리는 쪽으로 읽을 수 있다.",
+      "contextNote": "바로 앞의 농부 비유에 이어 주의 강림이 가까우니 인내하라고 권한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H019",
+          "clue": "길이 참고 마음을 굳게 하라는 표현이 기다릴 선택에 닿는다.",
+          "friction": "주의 강림이 가깝다는 말은 상품이 곧 팔린다는 예언이 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "775d8d7d7ad35bf43a351385d08f68774745e8c3932e37218ab29d96c0812551"
+    },
+    {
+      "id": "KRV:JAS:5:9",
+      "status": "candidate",
+      "reason": "서로 원망하지 말라고 한다. 친구의 작은 실수를 다시 따질지 그냥 넘길지 망설이는 사람이 원망을 거두고 넘어갈 쪽으로 읽을 수 있다.",
+      "contextNote": "공동체 안에서 서로 원망하지 말라는 권면과 심판의 경고가 이어진다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "H028",
+          "clue": "서로 원망하지 말라는 말이 작은 실수를 계속 따지는 선택과 닿는다.",
+          "friction": "심판자가 문 앞에 있다는 종교적 경고가 부담스럽게 느껴질 수 있고 실제 친구도 원망하고 있다고 가정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "a3f58643b48e9618669acd26cc3f734324b052f37a3e5a64120d32312c10311e"
+    },
+    {
+      "id": "KRV:JAS:5:10",
+      "status": "hold",
+      "reason": "주의 이름으로 말한 선지자들을 고난과 오래 참음의 본으로 삼으라고 한다. 인내라는 방향은 보이지만 특정 고난이나 현재의 선택을 알 수 없고 선지자의 상황을 알아야 연결이 선명할 수 있다.",
+      "contextNote": "앞 절의 인내와 공동체 권면을 이어 선지자들의 고난을 예로 든다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "9865b468c510399e297b2f076427ee4608221b4ee12ced5d6bceecefd1eee3bd"
+    },
+    {
+      "id": "KRV:JAS:5:11",
+      "status": "hold",
+      "reason": "인내하는 자를 복되다고 하며 욥의 인내와 주가 주신 결말을 언급한다. 계속 견딘다는 방향은 떠오르지만 구체 고민의 남은 부담과 욥 이야기의 결말을 직접 연결하기는 어렵다.",
+      "contextNote": "구약 욥의 고난을 사례로 들며 하나님의 자비를 말한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "91683fd99733d8cb9531ebd09af0320780948b28e22e5af9450e93944e23f99b"
+    },
+    {
+      "id": "KRV:JAS:5:12",
+      "status": "hold",
+      "reason": "맹세하지 말고 그렇다고 할 것은 그렇다, 아니라고 할 것은 아니라 하라고 한다. 말의 솔직함은 떠올릴 수 있지만 아직 여행 가능 여부를 모르는 고민에서 무조건 예나 아니오로 말하라는 뜻으로 오해할 수 있다.",
+      "contextNote": "공동체에 하늘과 땅 등으로 맹세하는 일을 삼가고 말의 진실함을 권한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "98cbabd07db9cea5f04875ccf054497f02b594331bb6ed2bdc82b53e19cd0880"
+    },
+    {
+      "id": "KRV:JAS:5:13",
+      "status": "candidate",
+      "reason": "고난을 당하는 사람은 기도하고 즐거워하는 사람은 찬송하라고 한다. 힘든 일을 겪었지만 말이 정리되지 않아 기도를 미루는 사람이 지금 마음으로 기도하는 방향을 떠올릴 수 있다.",
+      "contextNote": "고난과 즐거움의 서로 다른 상황에서 기도와 찬송을 권한다.",
+      "readability": "clear",
+      "connections": [
+        {
+          "scenarioId": "C032",
+          "clue": "고난을 당하면 기도하라는 말이 지금 기도할지의 고민에 직접 닿는다.",
+          "friction": "본문은 기도의 완성된 문장을 요구하지 않지만 어떤 결과가 곧 생긴다고 보장하지도 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "0983687c178b8b538d6943979535f8bc324c587b3e87625ac46f407684c44062"
+    },
+    {
+      "id": "KRV:JAS:5:14",
+      "status": "hold",
+      "reason": "병든 사람이 교회 장로들을 불러 기도를 받으라고 한다. 도움을 요청하는 행동은 분명하지만 병과 장로, 기름 바름이라는 구체적인 종교적 상황이 현재 확인된 다른 도움 요청 고민과 꼭 맞지 않는다.",
+      "contextNote": "병자를 위한 교회 공동체의 기도를 권한다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "5d30fc46f27b59bcb2ba30953516d3e96e8a9ab0305f25e500a2261eb0a04504"
+    },
+    {
+      "id": "KRV:JAS:5:15",
+      "status": "hold",
+      "reason": "믿음의 기도가 병든 사람을 일으키고 혹시 범한 죄도 사함을 얻는다고 말한다. 병과 죄가 함께 언급되므로 둘 중 하나만 떼어 일상 고민에 적용하면 본문의 조건을 놓칠 수 있다.",
+      "contextNote": "앞 절의 병자를 위한 장로들의 기도에 이어지는 구절이다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "2046a318bd4642ffbc0f01bfc38c8bf04e61f0f089464d0d3008c07affbd74d3"
+    },
+    {
+      "id": "KRV:JAS:5:16",
+      "status": "hold",
+      "reason": "서로 죄를 고하고 병 낫기를 위해 기도하라고 권하며 의인의 간구에 힘이 있다고 한다. 친구를 위해 기도할지의 고민과 부분적으로 닿지만 친구가 병들었거나 서로 고백할 죄가 있다는 조건이 확인되지 않는다.",
+      "contextNote": "기도를 서로 나누는 공동체와 병을 위한 간구를 함께 말한다.",
+      "readability": "clear",
+      "connections": [],
+      "textSha256": "9908443ed8c1e3b62e89f14be1d842c294b1838ceffb647b82271b069c9792f4"
+    },
+    {
+      "id": "KRV:JAS:5:17",
+      "status": "hold",
+      "reason": "엘리야가 간절히 기도하자 삼 년 육 개월 동안 비가 오지 않았다고 한다. 기도하는 행동은 보이지만 비가 오지 않기를 바라는 특별한 상황이 현재 확인된 기도 고민의 선택과는 거리가 있다.",
+      "contextNote": "다음 절의 다시 비가 온다는 일과 짝을 이루는 엘리야 사례이다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "94b14b4476054db1fc9fa9ae02296179ef0e6e09bc5ba2a3ee96cddf57f8f1d8"
+    },
+    {
+      "id": "KRV:JAS:5:18",
+      "status": "hold",
+      "reason": "다시 기도하자 하늘이 비를 주고 땅이 열매를 맺었다고 한다. 기도의 결과를 서술하지만 이 절만 보면 누구의 기도인지 앞의 가뭄이 무엇인지 모르고 확인된 현재 고민의 선택은 구체적으로 드러나지 않는다.",
+      "contextNote": "앞 절에서 엘리야가 비가 오지 않기를 기도한 뒤 다시 기도한 일이다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "c5a683c4303fef16866c21978942c51fd5fd2424543eeb29f720cf08f63148bf"
+    },
+    {
+      "id": "KRV:JAS:5:19",
+      "status": "hold",
+      "reason": "진리를 떠난 사람을 누군가 돌아서게 하면이라고 조건만 제시하고 문장이 다음 절로 이어진다. 이 절만으로는 완결된 실마리나 현재 상황과의 연결이 분명하지 않다.",
+      "contextNote": "이어지는 절에서 돌아서게 하는 일의 의미를 말한다.",
+      "readability": "needs_explanation",
+      "connections": [],
+      "textSha256": "9917b945726b97e77ba5e16b7edf41f495777177d00f21414df65b1e46d8bdf4"
+    },
+    {
+      "id": "KRV:JAS:5:20",
+      "status": "hold",
+      "reason": "미혹된 길에서 죄인을 돌아서게 하는 사람이 영혼을 사망에서 구원하고 죄를 덮는다고 말한다. 친구와의 의견 차이나 거리 두기 고민에서 상대를 죄인이라고 단정해야 연결되는 것은 적절하지 않다.",
+      "contextNote": "앞 절의 진리를 떠난 사람을 돌아서게 하는 일에 대한 결론이다.",
+      "readability": "thinkable",
+      "connections": [],
+      "textSha256": "f29d1eaf1065e867212d233c0b5f9cbbe611e19d5977a1e1587d610314bbc480"
     }
   ]
 }

@@ -1,0 +1,1055 @@
+{
+  "bookCode": "1TH",
+  "corpusSha256": "f8d5c8b377e243b05fb884b4a6965d2c06a95de74b64a716ee4b95989d61e971",
+  "criteriaVersion": "garasadae-corpus-2026-10-08-v1",
+  "reviewer": "codex-terra-front-resume",
+  "method": "direct-codex-reading",
+  "entries": [
+    {
+      "id": "KRV:1TH:1:1",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "힘든 교회 친구에게 기도하는 마음을 말할지 고민할 때 은혜와 평강을 비는 인사에서 상대의 안녕을 바라는 말을 전할 실마리를 얻을 수 있다.",
+      "contextNote": "바울 일행이 데살로니가 교회에 은혜와 평강의 인사를 전한다.",
+      "connections": [
+        {
+          "scenarioId": "R022",
+          "clue": "친구의 평안을 바라는 기도와 마음을 전한다.",
+          "friction": "친구의 어려움이 곧 사라지거나 인사를 어떻게 받을지는 알 수 없다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "702917a69f7b3100bbdc39e4345dcfc300297d2b30e5c1d3614da71d11a7bf32"
+    },
+    {
+      "id": "KRV:1TH:1:2",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "교회 친구를 위해 기도하고 있지만 그 마음을 알릴지 망설일 때 상대를 기도할 때마다 기억한다고 알리는 말이 닿는다.",
+      "contextNote": "수신자들을 위해 감사하며 기도할 때 그들을 기억한다고 말한다.",
+      "connections": [
+        {
+          "scenarioId": "R022",
+          "clue": "친구를 위해 기도하고 있다는 마음을 전한다.",
+          "friction": "친구가 실제로 그 말에 위로받는지나 문제의 해결 여부는 아직 모른다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "ae9740cec21c656f776fa9e2e7ffe220db441d7b4831c4118e018e73cd699c3a"
+    },
+    {
+      "id": "KRV:1TH:1:3",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "팀 성과를 발표하면서 핵심 자료를 찾은 동료의 이름을 밝힐지 고민할 때 다른 이들의 사랑의 수고를 쉬지 않고 기억한다는 말에서 동료의 기여를 인정할 방향을 읽을 수 있다.",
+      "contextNote": "공동체의 믿음과 사랑의 수고와 소망의 인내를 기억한다.",
+      "connections": [
+        {
+          "scenarioId": "R016",
+          "clue": "발표에서 동료가 실제로 자료를 찾은 수고를 밝힌다.",
+          "friction": "본문은 신앙 공동체의 수고에 대한 말이며 현재 동료의 믿음이나 마음을 추정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "5cc10fbb9a2e41467a785f12929b8028c725b7e4ebfcc3f687f8b63842b86896"
+    },
+    {
+      "id": "KRV:1TH:1:4",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "하나님이 사람들을 사랑하고 택하셨다는 말이다. 경험이 적은 사람이 운영진에 지원할지 고민하는 경우 이미 선발된 것처럼 옮기지 않고 구체 선택을 연결하기는 불확실하다.",
+      "contextNote": "하나님께 사랑받고 택함을 받은 공동체를 부른다.",
+      "connections": [],
+      "textSha256": "e85901a0273382bede696ca372dab1d17b72a751b24671d390f507517c069f52"
+    },
+    {
+      "id": "KRV:1TH:1:5",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "복음이 말뿐 아니라 능력과 성령과 확신으로 전해졌다는 긴 설명이다. 말주변이 없어 신앙 경험을 나눌지의 고민에 말이라는 단어는 있지만 지금 어떤 행동을 할지는 직접 보이지 않는다.",
+      "contextNote": "복음이 능력과 확신으로 공동체에 전해진 일을 회고한다.",
+      "connections": [],
+      "textSha256": "23afcf3e8710f01efdae4305ffa3d4ff21bfff0c6b696afbf02a271e285e34be"
+    },
+    {
+      "id": "KRV:1TH:1:6",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "교회에 다닌다고 계속 비웃음을 받아 신앙을 숨길지 고민할 때 어려움 속에서도 기쁨으로 믿음을 받아들였다는 말이 자신의 신앙을 이어갈 방향을 줄 수 있다.",
+      "contextNote": "수신자들이 환난 속에서도 기쁨으로 말씀을 받고 본받았다고 말한다.",
+      "connections": [
+        {
+          "scenarioId": "C031",
+          "clue": "지인의 비웃음에도 믿음을 감추지 않고 예배 모임을 이어간다.",
+          "friction": "현재 비웃음이 그친다거나 반드시 기쁘게 느껴야 한다고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "0ea140ef761e594de87e44c0baf81cb7972090e15a26dc15bee58f6007addcbc"
+    },
+    {
+      "id": "KRV:1TH:1:7",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "다른 믿는 사람들의 본이 되었다는 결과를 말한다. 아직 운영진에 지원할지 망설이는 사람이 이미 그런 역할을 이뤘다는 근거로 쓸 수 없다.",
+      "contextNote": "공동체가 다른 지역 신자들에게 본이 된 일을 칭찬한다.",
+      "connections": [],
+      "textSha256": "7e3ecb81f613312ae16df3c5ce9fe02d40be3044b144de5cdc38852daa7b8211"
+    },
+    {
+      "id": "KRV:1TH:1:8",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "믿음의 소문이 각처에 퍼져 더 말할 것이 없다고 한다. 신앙 경험을 사람 앞에서 직접 나눌지 고민하는 사용자의 이야기가 이미 퍼졌다고 가정할 수 없다.",
+      "contextNote": "공동체의 믿음과 주의 말씀이 여러 지역에 알려진 것을 설명한다.",
+      "connections": [],
+      "textSha256": "2b53ef58d0086ff30db7c037c15ac734575424ed48db59c5f21ec472a8f2a5d7"
+    },
+    {
+      "id": "KRV:1TH:1:9",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "하나님을 믿기 때문에 친구들과 점집에 가는 일이 마음에 걸리는 사람이 우상을 버리고 하나님께 돌아와 섬긴다는 말에서 자신의 믿음에 맞게 제안을 사양할 여지를 읽을 수 있다.",
+      "contextNote": "공동체가 우상을 버리고 참되신 하나님을 섬긴 일을 전한다.",
+      "connections": [
+        {
+          "scenarioId": "A036",
+          "clue": "친구의 제안을 따라가기보다 마음에 걸리는 이유를 말하고 빠진다.",
+          "friction": "현재 사용자가 이미 점을 보았거나 친구의 행동이 문자 그대로 우상 숭배라고 단정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "359f2369fc18c21b18bb7eb369b4c7f1eec8aadb1b182f8115ce6c8105385455"
+    },
+    {
+      "id": "KRV:1TH:1:10",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "하늘에서 오시는 예수와 장래의 노하심에서 구원을 기다린다는 신앙 고백이다. 사과한 뒤 기도를 망설이는 사람의 행동을 단독 절에서 바로 읽기는 어렵다.",
+      "contextNote": "앞 절의 하나님께 돌아온 사람들이 예수를 기다린다고 설명한다.",
+      "connections": [],
+      "textSha256": "f3353885eb7b51c96f2fb9ab1e0ad19022ba2765450e7e3001ba5b045df14fa6"
+    },
+    {
+      "id": "KRV:1TH:2:1",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "공동체에 들어간 일이 헛되지 않았다고 회고한다. 새 동료를 환영할지 고민하는 사용자의 위치는 방문자가 아니라 맞는 쪽이며, 구체적인 초대 행동도 보이지 않는다.",
+      "contextNote": "바울 일행이 공동체에 방문한 일을 회상한다.",
+      "connections": [],
+      "textSha256": "e33d5de96e67f376f7f9f0d76317863e83d04c0df57c4ef7bea2199684d937d4"
+    },
+    {
+      "id": "KRV:1TH:2:2",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "사람들 앞에서 말주변이 없을까 두려워 믿음이 생긴 경험을 나눌지 망설일 때 어려움 속에서도 하나님을 힘입어 복음을 말했다는 모습이 서툴러도 전할 용기를 줄 수 있다.",
+      "contextNote": "바울 일행이 박해와 갈등 속에서 복음을 전한 일을 회고한다.",
+      "connections": [
+        {
+          "scenarioId": "C039",
+          "clue": "멋진 말을 완벽히 준비하지 못해도 자신의 경험을 나눈다.",
+          "friction": "현재 사용자가 능욕이나 박해를 당했다고 가정하지 않고 발표의 반응도 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "2afa3fa6eca383bab9b9facfd8e959ef4e3c8cb9446c943bd7ad7648024661d8"
+    },
+    {
+      "id": "KRV:1TH:2:3",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "권면이 간사함이나 부정이나 궤계에서 난 것이 아니라고 말한다. 실제로 보지 않은 일을 말해달라는 부탁과 진실성은 닿지만 낯선 어휘와 화자의 이미 있었던 발화가 다른 상황이다.",
+      "contextNote": "자신들의 권면이 속이려는 목적이 아니었다고 설명한다.",
+      "connections": [],
+      "textSha256": "ef7a0ebfa28557eabed2296e58be3a2ca9cd51a532e14dee54f9b04f4e8cc39b"
+    },
+    {
+      "id": "KRV:1TH:2:4",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "신앙 경험을 나눌 기회가 왔지만 사람들 앞에서 말이 서툴까 두려운 경우 사람을 기쁘게 하려 하기보다 하나님을 향해 말한다는 대목에서 남의 시선을 덜 의식하는 실마리를 얻을 수 있다.",
+      "contextNote": "바울이 복음을 전할 때 사람보다 하나님을 기쁘시게 하려 한다고 말한다.",
+      "connections": [
+        {
+          "scenarioId": "C039",
+          "clue": "다른 사람이 자신을 어떻게 평가할지보다 솔직하게 믿음 경험을 말한다.",
+          "friction": "본문에서 화자는 직접 복음 전할 부탁을 받았고 사용자의 발표에 같은 계시가 있었다고 가정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "5cd4792e6fcba53673cbf3c91654cf287c6e19d41e6f9dab120ddfefe0542bca"
+    },
+    {
+      "id": "KRV:1TH:2:5",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "아첨의 말이나 탐심의 탈을 쓰지 않았다고 증언한다. 내용을 과장하고 싶은 업무 고민에 정직의 이미지는 닿지만 아첨과 자신의 성과를 부풀리는 것은 같은 행동이 아니다.",
+      "contextNote": "바울이 공동체 앞에서 아첨이나 탐심으로 말하지 않았다고 밝힌다.",
+      "connections": [],
+      "textSha256": "dc8b39b4d941b5c8da912dc7834507d970e393e4e85db7aff6a15c9182b1ad8b"
+    },
+    {
+      "id": "KRV:1TH:2:6",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "공동으로 만든 작품에서 내 이름도 넣어 달라고 말할지 그냥 둘지 고민하는 사람이 사람에게 영광을 구하지 않았다는 말에서 이번에는 드러내지 않고 넘어가는 쪽으로 읽을 수 있다.",
+      "contextNote": "바울이 사도의 권위를 주장할 수 있어도 사람들의 영광을 구하지 않았다고 말한다.",
+      "connections": [
+        {
+          "scenarioId": "A034",
+          "clue": "분위기가 어색해질까 싶다면 이름 표기를 요청하지 않고 그대로 둔다.",
+          "friction": "사용자가 실제 기여를 했다는 사실은 지우지 않는다. 자신의 정당한 기여를 알리는 것이 잘못이라고 서비스가 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "d59c0be686d6ed0f0992a6c15026c35dd7b7a8ac6683cf65669a9352d20af3e0"
+    },
+    {
+      "id": "KRV:1TH:2:7",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "운동 대회에서 진 아이를 먼저 다그칠지 마음을 듣고 격려할지 고민하는 아버지가 유순하게 자녀를 돌보는 모습에서 부드럽게 곁에 있을 방향을 읽을 수 있다.",
+      "contextNote": "바울 일행이 공동체를 유모가 자녀를 기르듯 유순하게 대했다고 말한다.",
+      "connections": [
+        {
+          "scenarioId": "F001",
+          "clue": "아이가 낙심한 마음을 듣고 다정하게 힘을 준다.",
+          "friction": "본문은 양육의 비유이며 사용자가 실제 유모이거나 아이의 상실감이 바로 사라진다고 가정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "cbf9c99ce636e93144f8585bd6f171216b13303d0bdccc8202d951830902f062"
+    },
+    {
+      "id": "KRV:1TH:2:8",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "사랑하는 사람들을 위해 복음뿐 아니라 목숨까지 주기를 즐겨한다고 말한다. 친구가 시간과 몸을 크게 무리해 돕겠다는 제안을 받을지 고민할 때 상대가 그런 희생을 반드시 기뻐한다고 가정할 수 없다.",
+      "contextNote": "바울 일행이 공동체를 사랑해 자신까지 내주고 싶은 마음을 표현한다.",
+      "connections": [],
+      "textSha256": "d0c529a1594f73ccaca487c7cc3af08cd5615ab6be420b789b27df8ba77e80d7"
+    },
+    {
+      "id": "KRV:1TH:2:9",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "많은 일을 맡아 지친 사람이 이번 부탁도 들어줄지 한계를 말할지 고민할 때 다른 이에게 누를 끼치지 않으려고 밤낮으로 일했다는 모습에서 계속 스스로 감당할 쪽을 읽을 수 있다.",
+      "contextNote": "바울 일행이 공동체에 부담을 주지 않으려 밤낮으로 일하며 복음을 전했다고 회고한다.",
+      "connections": [
+        {
+          "scenarioId": "H044",
+          "clue": "한계를 말하기보다 이번 일도 계속 맡아 보려 한다.",
+          "friction": "실제로 밤낮 일해야 한다거나 현재 피로를 무시해도 된다고 서비스가 정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "e63769f9b4d45a5e38efd0422bf50dbde82f31776e6599195fabd958c9dd333b"
+    },
+    {
+      "id": "KRV:1TH:2:10",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "바울 일행이 믿는 사람들 앞에서 흠없이 행한 일의 증인을 말한다. 직접 보지 않은 일을 사실처럼 말해 달라는 부탁을 받을 때 증인이라는 말은 나오지만 현재 상대의 행실을 실제로 봤다는 사실은 없다.",
+      "contextNote": "자신들의 행실을 공동체와 하나님이 증언한다고 말한다.",
+      "connections": [],
+      "textSha256": "b1b5c3c9ed6edc77c39079edae834b50527287f5c168556fc681ccad2f2b84ad"
+    },
+    {
+      "id": "KRV:1TH:2:11",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "대회에서 진 아이를 바로 지적할지 먼저 마음을 듣고 힘을 줄지 고민하는 아버지에게 아버지가 자녀에게 하듯 위로하고 권면한다는 말이 균형 있게 다가가는 실마리가 된다.",
+      "contextNote": "공동체 한 사람 한 사람에게 아버지처럼 위로하고 권면했다고 설명한다.",
+      "connections": [
+        {
+          "scenarioId": "F001",
+          "clue": "아이가 낙심한 마음을 듣고 함께 힘을 낸다.",
+          "friction": "본문의 아버지 비유가 실제 경기 결과를 바꾸거나 아이가 바로 회복한다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "20b8f1c00f0ffb603ee1f126c1e7d5fe4f63fee0442a4044e5f1603adadfe876"
+    },
+    {
+      "id": "KRV:1TH:2:12",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "부르심을 받은 사람들이 하나님께 합당하게 행하도록 한다는 말이다. 믿음에 따른 일반적인 행동은 언급하지만 점집 제안을 받을지 등 특정한 선택은 직접 나타나지 않는다.",
+      "contextNote": "앞 절의 권면과 위로의 목적을 밝힌다.",
+      "connections": [],
+      "textSha256": "eae7aaec68d02969616fd9721737959eb2840e3cc4c0e134415fd23aba505199"
+    },
+    {
+      "id": "KRV:1TH:2:13",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "사람의 말로만 여기지 않고 하나님의 말씀으로 받았다고 전한다. 자신의 판단을 신의 뜻이라고 말해 설득할지 고민하는 사용자에게 실제로 받은 계시가 있다는 사실을 추가할 수 없다.",
+      "contextNote": "공동체가 전해진 말씀을 하나님의 말씀으로 받았다고 감사한다.",
+      "connections": [],
+      "textSha256": "98eddc2c1f7c1a60389ef9bacff10da743e6abfd54a2c0825992a72862f87016"
+    },
+    {
+      "id": "KRV:1TH:2:14",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "지인들에게 교회에 다닌다는 이유로 비웃음을 받아 믿음을 숨길지 고민할 때, 어려움 속에서도 믿는 이들의 본을 따랐다는 말이 계속 신앙생활을 이어갈 방향으로 읽힐 수 있다.",
+      "contextNote": "데살로니가 공동체가 유대의 교회들과 비슷한 고난을 겪었다고 말한다.",
+      "connections": [
+        {
+          "scenarioId": "C031",
+          "clue": "주변의 비웃음에도 신앙을 혼자 숨기기보다 예배 모임을 이어간다.",
+          "friction": "현재 비웃음의 정도를 본문의 집단적 박해와 동일시하거나 타인의 반응이 바뀔 것이라고 단정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "01f7832c7c2002db83caf0f373e3378f7578ec88997fb6f64c3be22a9e9229a3"
+    },
+    {
+      "id": "KRV:1TH:2:15",
+      "status": "exclude",
+      "readability": "thinkable",
+      "reason": "특정 집단을 예수와 선지자를 죽인 이들이자 모든 사람의 대적으로 일반화하는 문장이다. 현재의 구체 고민에 대응할 행동 단서가 없고 해당 정체성의 사람들에 대한 판단으로 전용할 수 없다.",
+      "contextNote": "바울 일행을 박해한 사람들에 대한 고대의 격렬한 발화다.",
+      "connections": [],
+      "textSha256": "e4704438db23ab61a4b0546227f7f81a12c48e5c6b3da54c940ce58140f4dba1"
+    },
+    {
+      "id": "KRV:1TH:2:16",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "앞 절의 인물들이 이방인에게 말하는 일을 막았고 노하심이 임했다고 한다. 앞의 대상이 누구인지와 사건의 구체 사정에 의존하므로 현재 타인의 믿음이나 결말에 대한 판정으로 옮기기 어렵다.",
+      "contextNote": "복음 전파를 막았던 집단에 대한 앞 절의 비판이 이어진다.",
+      "connections": [],
+      "textSha256": "2b8e983c573b4787dabd8d7e1591c64ba7169898750fa6424c93cd48f5cf3637"
+    },
+    {
+      "id": "KRV:1TH:2:17",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "친구와 다투면서 먼저 심하게 말한 뒤 사과하고 싶지만 먼저 연락하기 민망한 사람이 얼굴은 떨어져 있어도 마음은 그렇지 않아 다시 보고 싶다는 말에서 먼저 다가갈 실마리를 읽을 수 있다.",
+      "contextNote": "바울이 잠시 떨어진 공동체를 보고 싶은 마음을 말한다.",
+      "connections": [
+        {
+          "scenarioId": "G10",
+          "clue": "어색함 때문에 기다리기보다 먼저 말을 걸어 관계를 풀어 본다.",
+          "friction": "친구도 같은 마음이거나 반드시 사과를 받아준다고 가정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "4e5757ddbfbdb5d20363b569c88893be3a474b1e7faa5d13649d6096af890517"
+    },
+    {
+      "id": "KRV:1TH:2:18",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "한두 번 찾아가려 했지만 사단이 막았다고 말한다. 하루째 답장이 없는 친구의 사정을 모르면서 바쁘거나 화났다고 단정할 수 없고 그 이유를 본문처럼 신적 존재에게 돌릴 근거도 없다.",
+      "contextNote": "바울이 수신자들에게 가려 했으나 방해받았다고 말한다.",
+      "connections": [],
+      "textSha256": "bd92f74f622ae2367238a013833a2de58d5c278480ab578a6d6fb7d08a6efd64"
+    },
+    {
+      "id": "KRV:1TH:2:19",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "수신자들이 소망과 기쁨과 자랑의 면류관이 아니냐고 묻는다. 친구의 성공을 기뻐할 마음을 떠올릴 수 있지만 주의 강림과 면류관에 대한 긴 질문이 현재 축하에 갈지의 행동을 직접 비추지는 않는다.",
+      "contextNote": "재림 때 공동체가 화자의 소망과 자랑이라는 비유다.",
+      "connections": [],
+      "textSha256": "beee9f2809a79199119dda6c83d9fe1af988320b9def35d79edbb69c7f787a16"
+    },
+    {
+      "id": "KRV:1TH:2:20",
+      "status": "candidate",
+      "readability": "clear",
+      "reason": "친구의 성공을 보며 자신과 비교하게 되어 함께 축하하러 갈지 혼자 마음을 추스를지 고민할 때 상대가 나의 영광과 기쁨이라고 말하는 표현이 함께 기뻐할 실마리가 될 수 있다.",
+      "contextNote": "바울이 공동체를 자신의 영광과 기쁨이라고 부른다.",
+      "connections": [
+        {
+          "scenarioId": "H040",
+          "clue": "비교만 하기보다 친구의 기쁜 일에 함께한다.",
+          "friction": "현재 친구가 사용자의 축하를 반드시 원하거나 비교 감정이 즉시 사라진다고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "c4ad08747ce99ab3dd07cc354c23344ff06156a0e4685322bb8d244ddede268e"
+    },
+    {
+      "id": "KRV:1TH:3:1",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "더는 참지 못해 자신들만 아덴에 머물기로 했다는 말이다. 연락을 기다릴지 다시 할지의 고민과 기다림은 닿을 수 있으나 무엇을 참지 못했는지는 앞뒤 절을 알아야 한다.",
+      "contextNote": "바울 일행이 동행자를 보내기 전 자신들이 아덴에 남기로 결정한다.",
+      "connections": [],
+      "textSha256": "81c0708d16a086a1b5b0fe47f91321cbc6d4c6e6b9f3808adeb8408e71a73776"
+    },
+    {
+      "id": "KRV:1TH:3:2",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "디모데를 보내 수신자들의 믿음을 굳게 하고 위로하려 한다. 다른 사람을 돕는 장면은 있으나 친구에게 함께 기도를 부탁할지의 사용자 역할과는 다르다.",
+      "contextNote": "디모데를 보내 공동체의 믿음을 위로하려 한다.",
+      "connections": [],
+      "textSha256": "8f59277e6916b36920ab8c2aa3e86d46df0a84b060020874fa49f0b5794b2301"
+    },
+    {
+      "id": "KRV:1TH:3:3",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "환난 중에 흔들리지 않게 하려 한다는 말과 이런 일을 당하도록 세워졌다는 설명이 이어진다. 신앙 때문에 비웃음당하는 사용자의 현재 어려움을 하나님이 직접 정한 일이라고 단정할 근거는 없다.",
+      "contextNote": "공동체가 환난 속에서 흔들리지 않도록 앞 절의 파견 목적을 설명한다.",
+      "connections": [],
+      "textSha256": "09480b68fecfbc223a72d9984a61b06e5c945d3b98d2549d99f97179ec18a17d"
+    },
+    {
+      "id": "KRV:1TH:3:4",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "앞으로 환난을 받을 것이라고 전에 말했고 실제로 그렇게 되었다고 회상한다. 이미 고친 잘못 때문에 현재 어려움이 벌인지 고민하는 사람에게 어려움의 원인을 과거에 확정해 보태서는 안 된다.",
+      "contextNote": "공동체에 미리 말했던 환난이 발생한 일을 상기한다.",
+      "connections": [],
+      "textSha256": "0e57e47e5043dd4dfa538bc7f5c8de4c2a900ece513d7d9dde82eea47248e850"
+    },
+    {
+      "id": "KRV:1TH:3:5",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "상대의 믿음을 알고 싶어 사람을 보냈다는 부분은 안부 확인을 연상할 수 있으나 시험하는 자와 수고가 헛될까 걱정하는 뒷부분이 연락이 없는 친구의 실제 사정과 다르다.",
+      "contextNote": "공동체가 어려움을 겪는 동안 믿음을 확인하려 사람을 보낸 이유다.",
+      "connections": [],
+      "textSha256": "664f934a67a017eaf3a45180e82fd0581f51327e675f0554d05bd8db2da6a577"
+    },
+    {
+      "id": "KRV:1TH:3:6",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "서로 간절히 보고 싶어 한다는 소식을 전한다. 상대의 마음을 모르는 관계 고민에 그 사람도 같은 마음이라고 사실을 추가해서는 안 된다.",
+      "contextNote": "디모데가 공동체의 믿음과 서로 보고 싶다는 소식을 가져왔다고 전한다.",
+      "connections": [],
+      "textSha256": "718e432c77866d82e2082e8ddd5e11f42413ad26972203392cc0ea6cd60f7de9"
+    },
+    {
+      "id": "KRV:1TH:3:7",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "화자가 어려움 속에서 다른 사람들의 믿음으로 위로받았다고 한다. 힘든 친구에게 기도를 전할지 고민하는 사람은 도움을 건네는 쪽이어서 역할이 바로 맞지 않는다.",
+      "contextNote": "바울 일행이 공동체의 믿음으로 위로받은 일을 말한다.",
+      "connections": [],
+      "textSha256": "f9552a12a813928ce5490068485b85b55207704ce4a5dc839669ee13876afe50"
+    },
+    {
+      "id": "KRV:1TH:3:8",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "교회에 다닌다는 이유로 비웃음을 받아 신앙을 숨길지 고민할 때 주 안에 굳게 서라는 말이 주변의 말과 별개로 신앙생활을 이어갈 힘이 될 수 있다.",
+      "contextNote": "공동체가 주 안에 굳게 섬으로 화자들이 살게 되었다고 말한다.",
+      "connections": [
+        {
+          "scenarioId": "C031",
+          "clue": "비웃음 때문에 예배 모임을 그만두기보다 믿음을 이어간다.",
+          "friction": "본문의 이제는 살리라는 표현을 현재 사용자의 실제 생사에 대한 예측으로 옮기지 않고, 지인의 태도가 바뀐다고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "fabab5e02d6dceef6256087f34a62d7029ed837caa5ca95e6c3d2279d759e8a3"
+    },
+    {
+      "id": "KRV:1TH:3:9",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "도움을 받은 사람에게 감사의 식사를 제안할지 고민할 때 상대 때문에 기쁘고 어떤 감사로 보답할지 묻는 말이 고마움을 표현하는 방향으로 닿는다.",
+      "contextNote": "바울이 공동체로 인해 기뻐하며 하나님께 어떻게 감사할지 말한다.",
+      "connections": [
+        {
+          "scenarioId": "A012",
+          "clue": "도움을 준 사람에게 고마운 마음을 전할 방법을 떠올린다.",
+          "friction": "본문의 감사는 하나님을 향한 기도이며 식사 초대가 직접 나오지 않는다. 사용자는 도움받은 쪽이다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "2441fb5bd5a0d13e78f2253b90d354f9e064bc7415f8db00bb6b08419488009a"
+    },
+    {
+      "id": "KRV:1TH:3:10",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "상대의 얼굴을 보고 믿음의 부족을 온전하게 하려고 기도한다. 힘든 친구에게 기도하겠다고 말할지의 고민에 기도는 닿지만 친구가 믿음이 부족한지는 주어지지 않았다.",
+      "contextNote": "공동체를 다시 만나 믿음을 돕기 위해 기도한다고 말한다.",
+      "connections": [],
+      "textSha256": "6e6f67bb51536920ba8abbf77193d87531fc1ed8a0b4c7c3e3bb51c89212c206"
+    },
+    {
+      "id": "KRV:1TH:3:11",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "하나님께 상대에게 가는 길을 곧게 해 달라고 빈다. 답장이 없는 친구에게 다시 연락할지 기다릴지의 고민과 길이라는 표현은 간접적으로 닿지만 메시지의 선택은 드러나지 않는다.",
+      "contextNote": "수신자들을 만날 길이 열리기를 기도하는 문장이다.",
+      "connections": [],
+      "textSha256": "7ff02d5476ab6ff2a2568dd477d5c8c6266222866e8d6c9ce4593a8feaa25617"
+    },
+    {
+      "id": "KRV:1TH:3:12",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "사과하고 실제로 고치려 하는 친구를 받아들일지 계속 혼내고 밀어낼지 고민할 때 서로에 대한 사랑이 넘치기를 바라는 말에서 관계를 다시 받아들일 실마리를 읽을 수 있다.",
+      "contextNote": "서로와 모든 사람을 향한 사랑이 더욱 커지기를 비는 기도다.",
+      "connections": [
+        {
+          "scenarioId": "C002",
+          "clue": "이미 변하려는 친구에게 계속 벌을 주기보다 관계를 받아들인다.",
+          "friction": "친구가 이후에도 반드시 변화를 유지한다거나 상처가 즉시 사라진다고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "d16709782d89b5b0371c92d4d67209fc26de12de0591268ddfebbcdb87bbb84e"
+    },
+    {
+      "id": "KRV:1TH:3:13",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "이미 사과하고 같은 잘못을 고치려 하는데도 하나님께 기도하기 부끄러운 사람이 마음을 굳게 하고 하나님 앞에서 흠이 없기를 바라는 말에서 다시 기도할 용기를 얻을 수 있다.",
+      "contextNote": "재림 때 하나님 앞에서 거룩함에 흠이 없게 되기를 비는 기도다.",
+      "connections": [
+        {
+          "scenarioId": "R021",
+          "clue": "자신을 계속 나쁜 사람이라고만 단정해 피하지 않고 하나님 앞에 나아간다.",
+          "friction": "본문의 재림과 거룩함은 신앙적 기도이며 사용자의 죄 여부나 친구의 용서 결과를 단정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "0f249ddd2a39a94828b8acf98c45c5ab7b7d3e0cf758459304e25a5ec8564a55"
+    },
+    {
+      "id": "KRV:1TH:4:1",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "이미 여러 교회 봉사로 기도와 조용한 예배 시간이 부족해 새 역할을 받을지 망설일 때 하나님을 기쁘시게 하는 일을 더욱 힘쓰라는 말에서 추가 봉사에 참여할 쪽을 떠올릴 수 있다.",
+      "contextNote": "공동체에게 하나님을 기쁘시게 하는 삶을 더욱 힘쓰라고 권한다.",
+      "connections": [
+        {
+          "scenarioId": "C048",
+          "clue": "현재 하던 봉사를 이어가며 새 역할도 맡아 본다.",
+          "friction": "사용자가 실제 감당할 여유가 있다는 사실을 추가하지 않으며 이 구절이 어떤 봉사를 반드시 맡으라는 서비스의 명령은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "76f66d05a90ad31f3c1bf307ca4fcd90fb45f526669afa4038d4398b31dccf67"
+    },
+    {
+      "id": "KRV:1TH:4:2",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "예수로 말미암아 무슨 명령을 주었는지 상대가 안다고 말한다. 자기 생각을 하나님의 뜻이라 말해 설득할지 고민하는 사용자에게 실제로 명령이나 계시를 받았다고 보태서는 안 된다.",
+      "contextNote": "공동체가 이전에 받은 가르침을 상기한다.",
+      "connections": [],
+      "textSha256": "f445c5fbc2ad036ffb379a7039c39083257366648c1eb471fb08bd68048d9598"
+    },
+    {
+      "id": "KRV:1TH:4:3",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "배우자가 있는데 다른 사람과의 성적 상상을 즐기며 몰래 연락을 이어갈지 행동의 선을 세울지 고민할 때 음란을 버리라는 표현에서 자신의 경계를 돌아볼 실마리를 얻을 수 있다.",
+      "contextNote": "거룩함과 음란을 멀리하는 삶을 권하는 문장이 다음 절로 이어진다.",
+      "connections": [
+        {
+          "scenarioId": "C014",
+          "clue": "끌리는 마음을 따라 비밀 연락을 늘리기보다 행동의 선을 정한다.",
+          "friction": "아직 만남이나 성관계는 없다는 사실을 지우지 않고 사용자의 모든 생각에 대한 판단을 서비스가 대신 내리지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "64ca625a31b27bcb1517d41fc84db10dcb9483360a267b005ef08dc4dabc6bbd"
+    },
+    {
+      "id": "KRV:1TH:4:4",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "자신의 아내를 취할 줄 알라는 표현은 이미 결혼한 남편이 배우자와 시간을 낼지의 고민에 그대로 대응하기 어렵다. 아내를 새로 얻는 상황과 현재의 관계를 혼동할 수 있다.",
+      "contextNote": "거룩함과 존귀함에 관한 앞뒤 권면의 일부다.",
+      "connections": [],
+      "textSha256": "5d4c0b1d1769885cd037f9d744b2b5b3ce463a99f8c793ad03c82afb90cbb10c"
+    },
+    {
+      "id": "KRV:1TH:4:5",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "하나님을 모르는 이방인과 같이 색욕을 좇지 말라고 한다. 배우자가 있는 사람이 몰래 연락할지 고민하는 상황과 욕망은 닿지만 비신앙인의 태도를 동일하게 단정하는 뒷받침은 없다.",
+      "contextNote": "색욕을 따르지 말라는 당시 공동체의 권면이다.",
+      "connections": [],
+      "textSha256": "b335bfb4166242c1fa363ca3a96517ffe426d96e407dc5bb79e7833da0a0abe8"
+    },
+    {
+      "id": "KRV:1TH:4:6",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "배우자가 있는 사람이 다른 이와 비밀 연락을 계속할지 경계를 세울지 고민할 때 분수를 넘어 다른 사람을 해하지 말라는 말이 자신의 행동이 관계에 미칠 영향을 생각하게 한다.",
+      "contextNote": "앞뒤의 관계와 욕망에 관한 권면에서 다른 사람을 해하지 말라고 한다.",
+      "connections": [
+        {
+          "scenarioId": "C014",
+          "clue": "지금까지 신체적 관계는 없었음을 인정하면서 앞으로 연락의 선을 정한다.",
+          "friction": "상대에게 이미 어떤 피해가 생겼거나 특정한 신적 보응이 온다고 단정하지 않는다. 신원이라는 옛말이 낯설 수 있다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "de086075866ecbcacd8e9b03ad5ebfe6c2ccb5bb2be66b03b086c4e223eceab4"
+    },
+    {
+      "id": "KRV:1TH:4:7",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "하나님이 부정함보다 거룩함으로 부르셨다는 일반적인 신앙 고백이다. 관계에서 연락을 이어갈지 말지의 구체 행동은 이 절에 나타나지 않는다.",
+      "contextNote": "앞뒤의 관계 윤리에 관한 권면에서 거룩함을 강조한다.",
+      "connections": [],
+      "textSha256": "f6702e976cc7efc031a3b70e137a55bf692daae7aab652e008f0cfb839e5f760"
+    },
+    {
+      "id": "KRV:1TH:4:8",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "가르침을 저버리는 것이 사람만이 아니라 하나님을 저버리는 것이라고 한다. 어떤 가르침을 거부하는지 앞뒤를 알아야 하고 현재 고민에 직접적인 결정 실마리는 부족하다.",
+      "contextNote": "앞 절의 권면을 거절하는 일의 종교적 의미를 말한다.",
+      "connections": [],
+      "textSha256": "477133cae3529e3f528338dab8aac21d0ade811ce81c32dde721c4fe54d65185"
+    },
+    {
+      "id": "KRV:1TH:4:9",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "이미 서로 사랑하고 있다는 공동체의 상태를 말한다. 아직 관계를 시작할지 고민하는 사람에게 상대도 같은 마음이라고 사실을 추가할 수 없다.",
+      "contextNote": "형제 사랑에 대해 공동체가 이미 서로 사랑하고 있음을 말한다.",
+      "connections": [],
+      "textSha256": "58bd893d1ee77cafaa11c9da2d5479896d0182c938677d9bba55252fafdc0629"
+    },
+    {
+      "id": "KRV:1TH:4:10",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "수신자들이 다른 형제들에게 이미 어떤 일을 행하였으니 더 많이 하라고 권한다. 그 행동이 무엇인지는 앞 절에 있어 한 절만으로 특정 고민에 적용하기 어렵다.",
+      "contextNote": "앞 절의 서로 사랑하는 일을 더하라고 권한다.",
+      "connections": [],
+      "textSha256": "55fb19a0aa4ca92ea394da899d653e8bf92ded1a9fd8fd9699b5bab6c71cf2aa"
+    },
+    {
+      "id": "KRV:1TH:4:11",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "시작한 일의 마무리가 지루해 새 일을 시작할지 지금 일을 끝낼지 고민할 때 조용히 자기 일을 하고 손으로 일하기를 힘쓰라는 말이 하던 일을 이어갈 방향을 비춘다.",
+      "contextNote": "조용히 자기 일을 하며 손으로 일하는 삶을 권한다.",
+      "connections": [
+        {
+          "scenarioId": "H053",
+          "clue": "다른 일을 새로 벌이기보다 이미 시작한 일을 마무리한다.",
+          "friction": "본문은 일반적인 노동 권면이며 현재 일이 반드시 성공적으로 끝난다고 보장하지 않는다. 종용하다는 옛말이 낯설 수 있다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "a3da5e6dd280087f2f07d49dfac7fa4ee694357107ef2ea67c8149af94d7380e"
+    },
+    {
+      "id": "KRV:1TH:4:12",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "밖의 사람들에게 단정히 행하고 궁핍하지 않게 하려는 목적을 말한다. 앞 절의 행동이 빠져 있어 단독 절로는 현재 고민의 선택이 불분명하다.",
+      "contextNote": "앞 절의 일하는 삶이 지닌 목적을 설명한다.",
+      "connections": [],
+      "textSha256": "7cf1cdb70c567459620e3d4f0b933782d919af5b328142ea66191d9f8af6bab6"
+    },
+    {
+      "id": "KRV:1TH:4:13",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "자는 자들에 관해 소망 없는 사람들처럼 슬퍼하지 않기를 바란다. 사별한 친구를 조문할지 고민하는 상황에서 자는 자가 죽은 이를 뜻하는 맥락을 모르면 위로를 어떻게 받아들일지 불분명하다.",
+      "contextNote": "죽은 신자들에 관한 신앙적 위로를 시작한다.",
+      "connections": [],
+      "textSha256": "73afdfaccc64f57165db026a92ac73e64d0b93343576e0f4b96006da132b470b"
+    },
+    {
+      "id": "KRV:1TH:4:14",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "예수 안에서 자는 자들을 하나님이 데리고 오실 것이라는 신앙 고백이다. 친구 부모님의 신앙이나 사별 후 상태를 현재 사실로 단정할 수 없다.",
+      "contextNote": "예수의 부활과 죽은 신자들의 미래를 연결한다.",
+      "connections": [],
+      "textSha256": "e74fdd75c691e630eb32429ad338ab105585720449c572d9c95365d9690a43bc"
+    },
+    {
+      "id": "KRV:1TH:4:15",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "주가 강림하실 때 살아남은 사람과 자는 사람의 순서를 말한다. 단독 절에서 현재 사용자의 구체 선택이나 사별한 사람의 실제 상태를 판단할 수 없다.",
+      "contextNote": "재림에 관한 공동체의 신앙적 설명이다.",
+      "connections": [],
+      "textSha256": "9cd30717b0819b3c2498add3a56001458ded30d600d82dab07b0acb58141e21c"
+    },
+    {
+      "id": "KRV:1TH:4:16",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "주가 하늘에서 오시고 죽은 사람들이 먼저 일어날 것이라는 신앙적 표현이다. 실제 사망이나 치료 결과를 특정 개인에 대해 예측하는 행동 지침으로 쓸 수 없다.",
+      "contextNote": "강림과 죽은 신자들의 부활을 묘사한다.",
+      "connections": [],
+      "textSha256": "758cc535eca81ad2f6361b14dbe8d99c88faf6be903843318d365694895d07de"
+    },
+    {
+      "id": "KRV:1TH:4:17",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "살아남은 사람들이 구름 속에서 주를 영접하고 함께 있으리라는 종말론적 설명이다. 이 절 자체에 사용자의 일상 고민에서 고를 구체적인 행동은 나타나지 않는다.",
+      "contextNote": "강림의 장면을 앞 절에서 이어 묘사한다.",
+      "connections": [],
+      "textSha256": "ecec7369ba3aeb4c5d6cdb6684b611ef021a49198528a9d056c8c07113d9bcb9"
+    },
+    {
+      "id": "KRV:1TH:4:18",
+      "status": "candidate",
+      "readability": "clear",
+      "reason": "힘든 교회 친구에게 기도하는 마음을 전할지 망설일 때 여러 말로 서로 위로하라는 구절이 말을 건네는 방향을 줄 수 있다.",
+      "contextNote": "앞 절의 부활과 소망에 관한 말로 서로 위로하라고 한다.",
+      "connections": [
+        {
+          "scenarioId": "R022",
+          "clue": "문제를 직접 해결하지 못하더라도 친구에게 기도하며 위로할 마음을 전한다.",
+          "friction": "본문은 특정한 부활의 말씀으로 위로하라는 맥락이며 친구의 반응을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "64b6b867d7ecfccad5060f0f4fa5bd12ae8147406d3e8cebef3007ee9d6b9387"
+    },
+    {
+      "id": "KRV:1TH:5:1",
+      "status": "exclude",
+      "readability": "thinkable",
+      "reason": "때와 시기에 관해 쓸 것이 없다는 말 뒤로 이어지는 미완성 문장이다. 단독 절에서 현재 고민의 선택을 읽을 수 없다.",
+      "contextNote": "주의 날에 대한 설명을 시작한다.",
+      "connections": [],
+      "textSha256": "bfdcfc11bc30136fd160cb61bba88d89762d356decf3975cd8c0ca7b1d05aae4"
+    },
+    {
+      "id": "KRV:1TH:5:2",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "주의 날이 밤에 도둑처럼 올 것이라는 신앙적 비유다. 놓친 것 같은 기회가 다시 온다거나 닫혔다는 현재 사실로 옮길 수 없다.",
+      "contextNote": "주의 날이 예상하지 못하게 오는 모습을 비유한다.",
+      "connections": [],
+      "textSha256": "16a49ce0d9b3412fe8fb8dfe37666ae3e3b60a8c0b25f591077e5b99f4135b42"
+    },
+    {
+      "id": "KRV:1TH:5:3",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "평안과 안전을 말할 때 갑작스러운 멸망이 와 피하지 못한다는 종말론적 묘사다. 이미 고친 과거의 잘못 때문에 벌을 걱정하는 사람에게 실제 미래의 파국을 확정하는 말로 적용할 수 없다.",
+      "contextNote": "주의 날이 예상하지 못하게 온다는 앞 절의 설명을 잇는다.",
+      "connections": [],
+      "textSha256": "8b33a9e64efa64ff3ae591370b4b95405c136e18ba593f8ad2fb50c46ae0afb5"
+    },
+    {
+      "id": "KRV:1TH:5:4",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "어둠에 있지 않으므로 그 날이 도둑같이 임하지 못하리라고 말한다. 안전 문제로 대피한 사람에게 실제 위험이 없다는 보장으로 옮길 수 없고 단독 절의 그 날도 앞 문맥을 알아야 한다.",
+      "contextNote": "앞 절에서 언급한 주의 날을 대비한다.",
+      "connections": [],
+      "textSha256": "883fb8fc6e0b5fe0af3f8d2472782b5f360235d49df182f668d3cab4cedc50fc"
+    },
+    {
+      "id": "KRV:1TH:5:5",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "공동체를 빛과 낮의 자녀로 부르며 밤이나 어두움에 속하지 않는다고 한다. 신앙적 정체성은 말하지만 주변 시선 때문에 믿음을 숨길지의 구체 행동은 바로 드러나지 않는다.",
+      "contextNote": "신자들의 정체성을 빛과 낮으로 비유한다.",
+      "connections": [],
+      "textSha256": "f5346e59392572b66521ee465f8afd8d4824ae0096553a0c501bae6bd85d5657"
+    },
+    {
+      "id": "KRV:1TH:5:6",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "며칠 잠을 적게 자 피곤하지만 오늘 밤 공부를 계속할지 일찍 쉴지 고민할 때 자지 말고 깨어 있으라는 표현을 공부를 이어가는 쪽으로 개인적으로 연결할 수 있다.",
+      "contextNote": "앞뒤 문맥은 주의 날을 기다리며 영적으로 깨어 있으라는 권면이다.",
+      "connections": [
+        {
+          "scenarioId": "G13",
+          "clue": "오늘 밤에는 잠들기보다 더 공부해 본다는 방향을 읽는다.",
+          "friction": "본문의 원래 의미는 종말에 대비한 영적 각성이며 사용자가 덜 자도 건강이나 성적에 문제가 없다고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "94bca20e2371c059363c6db2ec3b0bf4b6df8d42568af495ed8171e65b04e8db"
+    },
+    {
+      "id": "KRV:1TH:5:7",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "자는 사람은 밤에 자고 취하는 사람은 밤에 취한다는 서술이다. 밤에 잠잘지 고민과 시간은 닿지만 취한 사람의 이야기까지 포함해 지금 쉬거나 공부할 선택을 분명히 권하지는 않는다.",
+      "contextNote": "밤과 낮의 대조를 이어 말하는 미완성 문장이다.",
+      "connections": [],
+      "textSha256": "87b2a14071284c70428ce3b9a1bf7024286e1ba96fda837f8c3b97afd1f824a8"
+    },
+    {
+      "id": "KRV:1TH:5:8",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "교회에 다닌다고 비웃음을 받아 신앙을 숨길지 고민할 때 믿음과 사랑과 소망을 갑옷과 투구에 빗댄 표현에서 자신의 믿음을 지킬 실마리를 얻을 수 있다.",
+      "contextNote": "낮에 속한 사람들이 믿음과 사랑과 소망으로 자신을 갖추라는 비유다.",
+      "connections": [
+        {
+          "scenarioId": "C031",
+          "clue": "지인의 비웃음만을 기준으로 신앙생활을 그만두지 않는다.",
+          "friction": "본문의 갑옷은 영적 비유이며 다른 사람의 비웃음이나 갈등이 실제로 사라진다는 보장은 없다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "e2711d6d949f2f26acafb784f9e3e7b3a5ca75e5e18e1d82ef7ead6b2eaefbb2"
+    },
+    {
+      "id": "KRV:1TH:5:9",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "이미 사과하고 잘못을 고치려는데도 하나님 앞에 기도하기 부끄러운 사람이 하나님이 노하심이 아니라 구원에 이르게 하신다는 말에서 다시 기도할 용기를 얻을 수 있다.",
+      "contextNote": "하나님의 뜻을 진노가 아니라 그리스도를 통한 구원에 연결한다.",
+      "connections": [
+        {
+          "scenarioId": "R021",
+          "clue": "자신을 계속 나쁜 사람으로만 몰아붙이지 않고 하나님 앞에 기도한다.",
+          "friction": "친구가 이미 용서했거나 사용자에게 하나님이 직접 응답하셨다는 사실을 만들지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "1c4763d8ee7c8f254f129931e32a02876b2ad080ce2031e5f495634673e9fa08"
+    },
+    {
+      "id": "KRV:1TH:5:10",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "예수가 사람들을 위해 죽으셨고 그들이 깨어 있든 자든 함께 살게 하셨다는 신앙적 설명이다. 죄책감 때문에 기도할지 망설이는 상황에 친밀함을 떠올릴 수 있지만 구체 기도 행동은 직접 드러나지 않는다.",
+      "contextNote": "앞 절의 구원을 그리스도의 죽음과 함께 사는 생명에 연결한다.",
+      "connections": [],
+      "textSha256": "3ea7d612c7ff21d914097d42a0a56312b8087ed40de2931ef2a876f1b272f524"
+    },
+    {
+      "id": "KRV:1TH:5:11",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "성경을 혼자 읽으며 모르는 부분을 다른 사람에게 물을지 아는 척 넘길지 고민할 때 서로 권면하고 덕을 세우라는 말이 함께 배우고 도움을 청하는 방향을 비춘다.",
+      "contextNote": "공동체가 서로 권면하고 세우는 일을 이어 가라고 한다.",
+      "connections": [
+        {
+          "scenarioId": "C021",
+          "clue": "모르는 뜻을 숨기기보다 교회에서 잘 아는 사람에게 설명을 요청한다.",
+          "friction": "본문에 구체적인 성경 해설 요청은 없으며 상대가 반드시 잘 설명해 줄지는 알 수 없다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "c4d4c3a1e290d8261f5b2ce9321dcbd4f423e09472eb32aceea5720f70edad8c"
+    },
+    {
+      "id": "KRV:1TH:5:12",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "수고하고 주 안에서 다스리며 권하는 사람들을 알라고 한다. 발표에서 동료의 자료 수집 공을 밝힐지 고민할 때 수고는 닿지만 그 동료가 다스리거나 권하는 위치라고 주어지지 않았다.",
+      "contextNote": "공동체에서 수고하며 이끄는 사람들을 알아보라는 문장이 이어진다.",
+      "connections": [],
+      "textSha256": "465cae06062c7d9d956bb8d9fd8d9693ab1ac3ef5310d05582c30d994a28deaa"
+    },
+    {
+      "id": "KRV:1TH:5:13",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "가족 문제와 과중한 일에 지친 친구가 긴 조언을 제대로 읽지 않는 것 같아 따질지 부담을 덜어줄지 고민할 때 상대를 귀히 여기고 서로 화목하라는 말이 다정하게 다가가는 쪽을 비춘다.",
+      "contextNote": "앞 절의 수고하는 사람들을 존중하고 공동체가 화목하라고 권한다.",
+      "connections": [
+        {
+          "scenarioId": "A013",
+          "clue": "무시한다고 몰아붙이기보다 친구의 힘든 상태를 살핀다.",
+          "friction": "친구가 사용자의 조언을 고의로 무시하거나 실제로 어떤 도움을 원하는지 단정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "9065d8e37eb175f7c1b4c7b9370d4e5fb1e20cc69f602d6419b6a5ea29f4e96e"
+    },
+    {
+      "id": "KRV:1TH:5:14",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "대회에서 진 아이를 다그칠지 먼저 마음을 듣고 격려할지 고민하는 아버지가 약한 마음을 위로하고 힘없는 이들을 붙들어 주라는 말에서 아이를 다정히 돕는 방향을 읽을 수 있다.",
+      "contextNote": "공동체가 어려운 사람들을 위로하고 붙들며 모든 사람에게 오래 참도록 권한다.",
+      "connections": [
+        {
+          "scenarioId": "F001",
+          "clue": "아이의 잘못을 먼저 따지기보다 낙심한 마음을 듣고 힘을 준다.",
+          "friction": "아이가 다시 도전할지나 언제 회복할지는 알 수 없다. 앞의 규모 없는 자에 대한 권면도 함께 읽는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "7028101d8566f4918392a189119ae466f8bb621bbe741703750f571666d22906"
+    },
+    {
+      "id": "KRV:1TH:5:15",
+      "status": "candidate",
+      "readability": "clear",
+      "reason": "자신을 여러 번 비웃던 동료가 실수했을 때 그 일을 퍼뜨리며 함께 웃을지 조용히 마음만 정리할지 고민하는 사람에게 악으로 악을 갚지 말라는 말이 직접 닿는다.",
+      "contextNote": "서로에게 보복하지 않고 모두에게 선을 추구하라고 권한다.",
+      "connections": [
+        {
+          "scenarioId": "B022",
+          "clue": "동료가 자신을 비웃었던 일과 별개로 그 실수를 조롱하지 않는다.",
+          "friction": "동료의 이전 비웃음이 없던 일이 되거나 이후 사과할 것이라고 가정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "39cf80f4f361ae5bd8e01f34f94ba8a7c49bcbf06df967ad9b5c12eb9313cf0c"
+    },
+    {
+      "id": "KRV:1TH:5:16",
+      "status": "candidate",
+      "readability": "clear",
+      "reason": "할 일을 마쳤지만 주말 콘서트에 가면 내일 피곤할까 걱정하는 사람이 항상 기뻐하라는 말에서 보고 싶은 공연을 누리는 방향을 읽을 수 있다.",
+      "contextNote": "공동체에게 항상 기뻐하라고 권한다.",
+      "connections": [
+        {
+          "scenarioId": "G04",
+          "clue": "아직 오지 않은 피로만 생각하기보다 가보고 싶은 콘서트를 선택한다.",
+          "friction": "다음 날 피곤하지 않거나 이번이 마지막 기회라고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "d49bbafa127872109aa0fecfc7a3a4e0b981e2d7430159a5670191425ef8bd75"
+    },
+    {
+      "id": "KRV:1TH:5:17",
+      "status": "candidate",
+      "readability": "clear",
+      "reason": "힘든 일을 겪고 기도하고 싶지만 말이 정리되지 않아 미룰지 고민할 때 기도하라는 간결한 말이 지금의 마음 그대로 기도할 실마리를 준다.",
+      "contextNote": "공동체에 기도를 쉬지 말라고 권한다.",
+      "connections": [
+        {
+          "scenarioId": "C032",
+          "clue": "문장이 완벽해질 때까지 미루지 않고 지금 기도한다.",
+          "friction": "사용자가 하루 종일 기도해야 하거나 기도 결과가 즉시 나타난다고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "d9e91100c1a07722889e656be3b3542919ffa80b974ccdd056e8024214b8cc95"
+    },
+    {
+      "id": "KRV:1TH:5:18",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "모든 일에 감사하라고 한다. 도움받은 사람에게 감사 식사를 제안할지의 고민에 감사는 닿지만 이미 고맙다는 말을 한 뒤에 초대까지 할지의 방향은 직접 드러나지 않는다.",
+      "contextNote": "범사에 감사하는 삶을 하나님의 뜻으로 권한다.",
+      "connections": [],
+      "textSha256": "b4f37259561297e8bb47d8bac3128cd00513dab473e14669b5b4e1e929b894ed"
+    },
+    {
+      "id": "KRV:1TH:5:19",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "성령을 소멸하지 말라고 하는 짧은 권면이다. 신앙을 숨길지 고민에 빛을 지키는 이미지로 읽을 수 있으나 성령을 어떻게 대하는지와 구체 행동은 단독 절에 분명하지 않다.",
+      "contextNote": "공동체에 성령의 역사를 억누르지 말라고 권한다.",
+      "connections": [],
+      "textSha256": "7ec1efa5d15cd6771c631a75a4d1b9a0ce069e62c98c761130023968c2434e8f"
+    },
+    {
+      "id": "KRV:1TH:5:20",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "예언을 멸시하지 말라고 한다. 개인의 생각을 하나님의 뜻처럼 말할지의 고민에서는 사용자가 실제 예언을 받았다는 사실이 없고 이 절이 그 차이를 직접 설명하지 않는다.",
+      "contextNote": "공동체에서 예언을 함부로 멸시하지 말라고 권한다.",
+      "connections": [],
+      "textSha256": "0c5745bfc68854af6552ece422d91209f12cfbb078c1b6e3b111d02a2334b013"
+    },
+    {
+      "id": "KRV:1TH:5:21",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "친구가 추천한 기기가 정말 필요한지 몰라 후기만 믿고 살지 더 알아볼지 고민할 때 모든 일을 헤아려 좋은 것을 취하라는 말이 한 번 더 살필 방향을 비춘다.",
+      "contextNote": "모든 것을 살펴 좋은 것을 취하라고 권한다.",
+      "connections": [
+        {
+          "scenarioId": "H003",
+          "clue": "추천을 듣자마자 구매하기보다 자신의 필요와 제품을 더 알아본다.",
+          "friction": "친구의 추천이 거짓이거나 알아본 뒤 제품이 반드시 적합하다고 단정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "a3ec4df599c085636f83a80152ea55b9f24ccf0964f8086dc7482d442a80dd4a"
+    },
+    {
+      "id": "KRV:1TH:5:22",
+      "status": "hold",
+      "readability": "clear",
+      "reason": "모든 형태의 악을 버리라는 일반적인 권면이다. 특정 고민에 무엇이 악인지 별도로 판단해 주지 않으면 사용자의 두 선택 중 행동 실마리를 바로 읽기 어렵다.",
+      "contextNote": "악한 것을 멀리하라고 권한다.",
+      "connections": [],
+      "textSha256": "2e0b2e8335184e8b5c32394b1a8c9b767c25751045427216ca2c6d6bb19e1f15"
+    },
+    {
+      "id": "KRV:1TH:5:23",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "평강의 하나님이 영과 혼과 몸을 강림 때까지 흠 없이 지키시기를 비는 긴 기도다. 이미 사과한 잘못으로 죄책감이 있는 사용자의 실제 상태나 미래를 확인해 주는 말은 아니다.",
+      "contextNote": "공동체 전체가 거룩하게 보전되기를 바라는 축복이다.",
+      "connections": [],
+      "textSha256": "c111bd5600eec41eee53e76380d5f16a2198ef4483709e28c554b5a5281f222c"
+    },
+    {
+      "id": "KRV:1TH:5:24",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "사람들을 부르신 분이 미쁘시고 이루실 것이라고 말한다. 처음 하는 일에 지원할지의 고민에서 부름의 내용이 현재 지원임을 가정하거나 선발 결과를 확정할 수 없다.",
+      "contextNote": "앞 절의 축복을 신실하게 이루실 분에 대한 믿음을 표현한다.",
+      "connections": [],
+      "textSha256": "b95d54d5ad801020dcffbf1a92d154e6f8cda248e749c96a645b53d7f77323aa"
+    },
+    {
+      "id": "KRV:1TH:5:25",
+      "status": "candidate",
+      "readability": "clear",
+      "reason": "집안의 힘든 일을 홀로 기도하다 지쳐 친구에게 함께 기도해 달라고 부탁할지 고민할 때 우리를 위해 기도하라는 짧은 요청이 직접 맞닿는다.",
+      "contextNote": "공동체의 형제들에게 화자들을 위해 기도해 달라고 요청한다.",
+      "connections": [
+        {
+          "scenarioId": "A055",
+          "clue": "부담을 걱정해 혼자 버티기보다 믿는 친구에게 기도를 부탁한다.",
+          "friction": "친구가 반드시 요청을 들어주거나 가족의 어려움이 곧 해결된다고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "d5e2fa4ac8301d98ccc1c4a851f8cd9c67461ec3dce5c651f101ebe4b9292562"
+    },
+    {
+      "id": "KRV:1TH:5:26",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "형제 모두에게 거룩한 입맞춤으로 문안하라는 끝인사다. 힘든 친구에게 기도하겠다고 전할지의 고민에 인사는 닿지만 기도의 마음이나 실제 위로의 내용은 직접 나오지 않는다.",
+      "contextNote": "공동체에 서로 거룩하게 인사하도록 권한다.",
+      "connections": [],
+      "textSha256": "53fed932eaaedcbcdee1b48c7484984b99166de54b7e2c1782030d28b1be3ffd"
+    },
+    {
+      "id": "KRV:1TH:5:27",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "편지를 모든 형제에게 읽어 들리라고 명한다. 성경의 뜻을 모를 때 설명을 부탁할지 고민하는 경우 함께 읽는 이미지는 있지만 실제 설명을 구하는 행동은 보이지 않는다.",
+      "contextNote": "공동체 전체에 편지를 읽어 주도록 당부한다.",
+      "connections": [],
+      "textSha256": "95188e2b9982122ede760a4c3ab7a0cde1928f85bd12374bfa0fcabc8e51f18a"
+    },
+    {
+      "id": "KRV:1TH:5:28",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "힘든 교회 친구에게 기도하겠다는 말을 전할지 고민하는 사람이 상대에게 주 예수의 은혜가 있기를 비는 축복의 인사에서 위로의 뜻을 전할 실마리를 얻을 수 있다.",
+      "contextNote": "수신자들에게 예수 그리스도의 은혜를 바라는 마지막 인사다.",
+      "connections": [
+        {
+          "scenarioId": "R022",
+          "clue": "친구를 위해 기도하는 마음과 따뜻한 축복을 전한다.",
+          "friction": "그 친구의 어려움이 기도 후 사라지거나 같은 방식의 축복을 원한다고 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "15ff7357c694a1309aee5b9688fca6ec0f07795b29ed2d61119a152814a3535c"
+    }
+  ]
+}

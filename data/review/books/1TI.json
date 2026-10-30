@@ -1,0 +1,432 @@
+{
+  "bookCode": "1TI",
+  "corpusSha256": "f8d5c8b377e243b05fb884b4a6965d2c06a95de74b64a716ee4b95989d61e971",
+  "criteriaVersion": "garasadae-corpus-2026-10-08-v1",
+  "reviewer": "codex-terra-front-letters",
+  "method": "direct-codex-reading",
+  "entries": [
+    {
+      "id": "KRV:1TI:1:1",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "바울이 자신의 사도 직분과 편지의 발신 근거를 밝히는 시작이다. 어떤 생활 선택의 실마리인지는 이 절에 보이지 않는다.",
+      "contextNote": "이어지는 절에서 수신자 디모데에게 인사한다.",
+      "connections": [],
+      "textSha256": "77719a55a16f298217227f8c5c3bf3c8117040b35e1f7003f6fdb54c31bdb13f"
+    },
+    {
+      "id": "KRV:1TI:1:2",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "힘든 교회 친구에게 기도하겠다는 마음을 전할지 고민할 때 상대에게 은혜와 긍휼과 평강을 바라는 편지 인사에서 위로의 마음을 표현할 여지를 읽을 수 있다.",
+      "contextNote": "바울이 디모데를 믿음 안에서의 아들로 부르며 인사한다.",
+      "connections": [
+        {
+          "scenarioId": "R022",
+          "clue": "힘든 친구에게 평강을 바라는 기도의 마음을 전한다.",
+          "friction": "본문은 바울과 디모데의 개인 편지이며 친구가 어떤 반응을 보일지는 알 수 없다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "3c58850feaaa6e2240418d99e66604924910b8a6dad2a5bdd7ba6defc549a5f4"
+    },
+    {
+      "id": "KRV:1TI:1:3",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "디모데에게 에베소에 머물러 다른 교훈을 가르치지 못하게 하라는 과거 부탁이다. 현재 어디에 갈지의 고민을 읽으려면 특정 인물과 사역 배경을 옮겨야 한다.",
+      "contextNote": "바울이 떠날 때 디모데에게 남아서 맡긴 일을 다음 절까지 상기한다.",
+      "connections": [],
+      "textSha256": "0a960ec9d603bb714fe389c8144c15810cba963b762ce881a95ee8d86c766ba8"
+    },
+    {
+      "id": "KRV:1TI:1:4",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "신화와 끝없는 족보가 믿음의 경륜보다 논쟁을 만든다고 경계한다. 영상 알림 때문에 과제를 미루는 상황과 관심을 줄인다는 공통점은 있지만 내용과 이유가 달라 연결이 불확실하다.",
+      "contextNote": "다른 교훈과 끝없는 논쟁을 삼가라는 앞 절의 부탁에 이어진다.",
+      "connections": [],
+      "textSha256": "fb7b01fa111f073fd583d40a2208385080035eb8dc2d763a27660038f848b4d4"
+    },
+    {
+      "id": "KRV:1TI:1:5",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "경계의 목적이 깨끗한 마음과 양심과 믿음에서 나오는 사랑이라고 한다. 사랑의 가치가 보이지만 확인된 구체 갈등에서 어느 행동을 할지는 단독으로 분명하지 않다.",
+      "contextNote": "앞에서 언급한 가르침의 목적을 설명한다.",
+      "connections": [],
+      "textSha256": "9e235a859c4b0ab8525de1dadf71808ecd765cf9c6f6e4dca3336af04bb02aaa"
+    },
+    {
+      "id": "KRV:1TI:1:6",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "사람들이 어떤 것에서 벗어나 헛된 말에 빠졌다고 한다. 벗어난 내용이 앞 절에 있어 선택의 실마리로 단독 이해하기 어렵다.",
+      "contextNote": "앞 절의 사랑과 선한 양심에서 벗어난 사람들을 말한다.",
+      "connections": [],
+      "textSha256": "083831e4e3c445365f7715245a1a8ca0731864e84c42163c932523a879d000cb"
+    },
+    {
+      "id": "KRV:1TI:1:7",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "율법 선생이 되려는 이들이 자신이 단언하는 것조차 이해하지 못한다고 말한다. 자기 의견을 하나님의 뜻으로 포장하려는 사용자가 자기 의견 자체를 모르고 있다고 추측할 수 없다.",
+      "contextNote": "앞 절의 헛된 말에 빠진 가르침을 경계한다.",
+      "connections": [],
+      "textSha256": "7341bfe30d4151af77d9dfc27534a25e6cc4e803ef0048aab43c6fc84f7cb605"
+    },
+    {
+      "id": "KRV:1TI:1:8",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "율법을 적절히 쓰면 선하다고 말한다. 일상의 확인 절차를 따라야 할지 고민할 때 일반적인 규칙이라는 점은 닿지만 어떻게 사용할지가 구체적으로 드러나지 않는다.",
+      "contextNote": "율법을 잘못 가르치는 사람들에 대해 말한 뒤 율법 자체와 사용을 구분한다.",
+      "connections": [],
+      "textSha256": "92aefd2cb713bc022b69d5c1445f692c86a6f5ecdbeba2ccdf8192b5a5ed06cd"
+    },
+    {
+      "id": "KRV:1TI:1:9",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "법이 향하는 여러 부류를 길게 나열하고 부모를 치거나 살인하는 행위도 언급한다. 일상의 고민에 읽을 구체 선택보다 강한 비난의 목록이 두드러진다.",
+      "contextNote": "율법이 누구를 위한 것인지 다음 절까지 목록으로 이어 설명한다.",
+      "connections": [],
+      "textSha256": "3969618cd03f01d3b41f6a7b9884584348555b93c8d4c7992859c3ce7a6a3e35"
+    },
+    {
+      "id": "KRV:1TI:1:10",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "여러 행위와 바른 교훈을 거스르는 이를 나열한다. 문장이 앞 절에 의존하고 현재 다른 사람이 어떤 일을 했는지 이 구절로 단정할 수도 없다.",
+      "contextNote": "앞 절에서 시작한 율법의 대상 목록이 이어진다.",
+      "connections": [],
+      "textSha256": "de0fb2d3e91d36a70908a82a7f065a1c464ed60139a6fb0ffd1e52277b7e431e"
+    },
+    {
+      "id": "KRV:1TI:1:11",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "교훈이 맡겨진 복음을 따른다는 설명이다. 무엇을 해야 하는지에 대한 구체 선택은 앞 문맥에 있고 이 절만으로 보이지 않는다.",
+      "contextNote": "앞의 바른 교훈에 관한 설명을 복음과 연결한다.",
+      "connections": [],
+      "textSha256": "306e04befa9c8a7c66d9af7ea382629c802300c6ede87bfbf3777121b6b08c6f"
+    },
+    {
+      "id": "KRV:1TI:1:12",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "눈에 띄지 않는 교회 봉사 역할을 하찮게 여겨 바꿀지 고민하는 사람이 맡은 직분에 감사한다는 말에서 자신이 잘할 수 있는 역할의 가치를 돌아볼 수 있다.",
+      "contextNote": "바울이 자신을 신실하게 여겨 직분을 맡긴 그리스도께 감사한다.",
+      "connections": [
+        {
+          "scenarioId": "C064",
+          "clue": "눈에 띄는 역할과 비교하기보다 현재 맡은 역할에 감사한다.",
+          "friction": "본문은 사도 직분을 받은 바울의 고백이며 사용자의 역할이 신의 직접 명령이라는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "cc6a29158d242f891db44949d67c5cc7ae40f373cff944f84c133b3b78edbf78"
+    },
+    {
+      "id": "KRV:1TI:1:13",
+      "status": "candidate",
+      "readability": "needs_explanation",
+      "reason": "과거 잘못 때문에 세례 준비를 망설이는 사람이 화자가 지난 잘못을 인정하면서도 긍휼을 받았다고 말하는 데서 신앙생활을 다시 시작할 여지를 읽을 수 있다.",
+      "contextNote": "바울이 과거에 박해했던 일을 회고하며 긍휼을 받은 이유를 말한다.",
+      "connections": [
+        {
+          "scenarioId": "C018",
+          "clue": "지나간 잘못을 인정하더라도 긍휼의 가능성을 생각하며 준비한다.",
+          "friction": "훼방자와 포행자 등 옛 표현이 낯설고 사용자의 잘못이 본문의 박해와 같다는 뜻은 아니다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "b28d477ed606089d0cdbd61a07fb14606945336e0089e125a6ee514eb25f60d2"
+    },
+    {
+      "id": "KRV:1TI:1:14",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "믿음과 사랑과 함께 은혜가 풍성했다는 고백이다. 따뜻한 정서는 있지만 현재 잘못을 인정하고 기도할지의 선택까지는 직접 드러나지 않는다.",
+      "contextNote": "과거 박해했던 바울이 받은 은혜를 회고한다.",
+      "connections": [],
+      "textSha256": "65e553822e6bb2e90d2f7720644c1e6b5addbcfa581e195f101de9f3f828e722"
+    },
+    {
+      "id": "KRV:1TI:1:15",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "과거 잘못 때문에 신앙생활과 세례를 미루는 사람이 죄인을 구원하려고 예수가 왔다는 말과 자신을 죄인이라 인정하는 고백에서 부족한 상태로도 시작할 여지를 읽을 수 있다.",
+      "contextNote": "바울이 그리스도가 죄인을 구원하러 왔다고 전하면서 자신을 죄인의 괴수라고 낮춘다.",
+      "connections": [
+        {
+          "scenarioId": "C018",
+          "clue": "잘못 때문에 무조건 피하기보다 인정한 채 믿음의 준비를 시작한다.",
+          "friction": "죄인의 괴수라는 강한 옛 표현이 부담스러울 수 있고 세례 절차가 즉시 끝난다는 보장은 없다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "63a2e20d0c215a66e831ad85e435b671e70e21609ef58145a52f86521e473654"
+    },
+    {
+      "id": "KRV:1TI:1:16",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "과거 잘못 때문에 신앙을 시작할 수 있을지 망설이는 사람이 오래 참으심과 긍휼을 받은 고백에서 잘못을 인정한 채 준비를 이어갈 용기를 얻을 수 있다.",
+      "contextNote": "바울이 자신에게 보이신 예수의 오래 참으심이 뒤에 믿을 이들의 본이 된다고 고백한다.",
+      "connections": [
+        {
+          "scenarioId": "C018",
+          "clue": "과거의 잘못만으로 포기하기보다 오래 참으심을 생각하며 신앙 준비를 시작한다.",
+          "friction": "본문은 바울의 고백이며 사용자의 구체적인 세례 절차나 결과를 보증하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "7756797bb3ee8b5ed7f5b3057802e10d36071fbf452a8b699f56574a8fb37978"
+    },
+    {
+      "id": "KRV:1TI:1:17",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "영원하신 하나님께 영광을 돌리는 찬양이다. 감사나 신앙을 떠올릴 수 있지만 제시된 고민의 선택 방향은 이 절에서 뚜렷하지 않다.",
+      "contextNote": "긍휼과 구원에 대한 고백 뒤에 이어지는 찬양이다.",
+      "connections": [],
+      "textSha256": "cfc35423c753506c427822a424e197a33b89efcfb746a7d72e7f59482e2929ac"
+    },
+    {
+      "id": "KRV:1TI:1:18",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "디모데에게 이전 예언을 따라 선한 싸움을 싸우라고 한다. 지원할지 고민하는 사용자가 예언이나 지시를 이미 받았다고 넣어야만 구체 연결이 된다.",
+      "contextNote": "바울이 디모데에게 맡긴 경계와 선한 싸움을 말한다.",
+      "connections": [],
+      "textSha256": "86da0e2188c5afce0e4a7ae634399ba227f64ef605027db7b6b25913f3f72b21"
+    },
+    {
+      "id": "KRV:1TI:1:19",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "활동 이력을 과장하면 유리할 것 같지만 정직함이 마음에 걸리는 사람이 착한 양심을 가지라는 권고에서 실제 한 일만 적을 방향을 읽을 수 있다.",
+      "contextNote": "디모데에게 믿음과 선한 양심을 지키라고 하며 양심을 버린 사람들의 실패를 경고한다.",
+      "connections": [
+        {
+          "scenarioId": "B014",
+          "clue": "유리해 보이는 과장보다 자신의 양심에 맞게 사실을 적는다.",
+          "friction": "본문은 믿음의 파선이라는 비유를 쓰며 실제 평가나 지원 결과는 알 수 없다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "ad0807a297ef7c9ac9987a44567036b7bd43c1b2abdf54bcafd18c8d10160341"
+    },
+    {
+      "id": "KRV:1TI:1:20",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "두 사람을 사단에게 내어주어 징계받게 했다는 구체적이고 강한 징계 서술이다. 실수한 친구를 어떻게 대할지 곧장 적용하기 어렵다.",
+      "contextNote": "앞 절에서 믿음에 관해 파선한 이들의 사례를 든다.",
+      "connections": [],
+      "textSha256": "145154194ba0bd83e0557d73381971c070f0620c449f76da607eb1e70df5d67e"
+    },
+    {
+      "id": "KRV:1TI:2:1",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "신앙에 관심이 없다고 한 가족을 계속 설득할지 가족을 위해 기도할지 고민하는 사람이 모든 사람을 위한 기도를 권하는 말에서 기도 쪽의 실마리를 읽을 수 있다.",
+      "contextNote": "바울이 모든 사람을 위하여 간구와 기도와 감사를 하라고 권한다.",
+      "connections": [
+        {
+          "scenarioId": "C033",
+          "clue": "지금은 가족을 억지로 설득하기보다 그들을 위해 기도한다.",
+          "friction": "기도 대상에 가족이 명시되지는 않으며 가족의 신앙 변화는 알 수 없다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "e0bcc1dd6aad071580c0a0f7244610bcfb354a72744ae6d565e563a571249321"
+    },
+    {
+      "id": "KRV:1TI:2:2",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "임금과 높은 지위에 있는 사람을 위해 기도해 평안히 살기를 바란다. 가족과 종교 이야기로 다툰 현재 상황에 지도자에 대한 기원을 그대로 옮기기는 어렵다.",
+      "contextNote": "모든 사람을 위해 기도하라는 앞 절에서 권력자들도 기도 대상이라고 덧붙인다.",
+      "connections": [],
+      "textSha256": "3eae4abf69a4e8ef5ec409710fd4b2c90382642eb128a8a189322f3d9ce4a53f"
+    },
+    {
+      "id": "KRV:1TI:2:3",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "이것이 하나님 앞에 선하고 받으실 만하다고 하지만 무엇이 그러한지는 앞 절에 있다. 단독으로 현재 사용자의 어떤 선택인지 알 수 없다.",
+      "contextNote": "앞에서 모든 사람과 권력자를 위해 기도하라고 한 내용을 가리킨다.",
+      "connections": [],
+      "textSha256": "b4bbe643bcbe1ece82104d592c2de3452a09ded06f7da331f1d3b4ea79d8b98a"
+    },
+    {
+      "id": "KRV:1TI:2:4",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "하나님이 모든 사람의 구원과 진리를 아는 일을 원하신다고 말한다. 가족에게 계속 말할지 기도할지의 실제 방식은 정하지 않는다.",
+      "contextNote": "모든 사람을 위한 기도가 하나님 앞에서 선하다는 설명 뒤의 신앙 고백이다.",
+      "connections": [],
+      "textSha256": "519f64977ad9992a53dae12218862499c77545cf82dc02dc5d4ebd3daea22b24"
+    },
+    {
+      "id": "KRV:1TI:2:5",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "한 분 하나님과 예수 그리스도가 중보자라는 교리적 설명이다. 두 선택 사이에서 취할 행동은 이 절에 보이지 않는다.",
+      "contextNote": "사람들의 구원과 하나님에 관한 설명을 이어 간다.",
+      "connections": [],
+      "textSha256": "aa11cbb09d3ab38e912e4ade49f3badb20720896632f942625db4f66db8ce24e"
+    },
+    {
+      "id": "KRV:1TI:2:6",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "모든 사람을 위한 자기희생과 그 증거의 시기를 말한다. 현재 사용자의 작은 도움이나 기부를 직접 가리킨다고 읽기는 어렵다.",
+      "contextNote": "앞 절에서 언급한 예수 그리스도에 관해 말한다.",
+      "connections": [],
+      "textSha256": "d01817f8b8adf397b386926e436e433c0330c699d2918dcef9c9f7d86c887447"
+    },
+    {
+      "id": "KRV:1TI:2:7",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "바울이 전파자와 사도로 세움을 받고 이방인의 스승이 됐다고 말한다. 경험이 적은 사용자의 새로운 역할이 이미 주어졌다고 단정할 수 없다.",
+      "contextNote": "복음의 증거를 위해 받은 바울의 사명에 대한 고백이다.",
+      "connections": [],
+      "textSha256": "7ad5951bf071b99db9d01de88cbbdd4b79f1737e35e57ee7efafa3d9a76fb721"
+    },
+    {
+      "id": "KRV:1TI:2:8",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "각처에서 남자들이 다툼 없이 손을 들어 기도하기를 원한다. 장소와 손이란 말은 있지만 예배당에 못 가는 사용자의 성별이나 기도 자세는 주어지지 않는다.",
+      "contextNote": "공동체의 기도에 관하여 남자들을 대상으로 한 권면이다.",
+      "connections": [],
+      "textSha256": "8b327076c3fb9b2118f053236e327c6b6c336df36ccfaaf505ec0b74d6e971f2"
+    },
+    {
+      "id": "KRV:1TI:2:9",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "여성들의 단정한 옷과 금 진주 값진 옷에 대한 권면이다. 비싼 자켓의 구매 고민과 옷은 닿지만 본문 대상과 단장 상황을 현재 사용자에게 단정하기 어렵다.",
+      "contextNote": "예배 공동체에서 여성의 복장과 태도에 관해 다음 절과 이어 말한다.",
+      "connections": [],
+      "textSha256": "4af00c00b28dbdd1189037db116d13d947f82afa38febf13da36e46fc4ca723d"
+    },
+    {
+      "id": "KRV:1TI:2:10",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "처음 교회 봉사에 온 사람이 긴장하고 있을 때 먼저 도울지 망설이는 사람이 하나님을 공경하는 이에게 어울리는 선행을 권하는 말에서 작은 도움으로 환영할 방향을 읽을 수 있다.",
+      "contextNote": "앞 절의 옷차림에 이어 하나님을 공경한다는 이들의 단장을 선행과 연결한다.",
+      "connections": [
+        {
+          "scenarioId": "C075",
+          "clue": "말과 겉모습보다 실제 도움으로 새 사람을 맞이한다.",
+          "friction": "본문은 앞 절의 복장 권면과 이어지며 사용자의 도움을 상대가 반드시 받아들인다고 가정하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "13246af74d69ac7c95c7f07636b936f9b8852ccee57820d621e65f3bc1282e77"
+    },
+    {
+      "id": "KRV:1TI:2:11",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "여성에게 조용히 순종하며 배우라고 말한다. 현재 학습이나 모임 고민의 주인공을 특정 성별로 가정할 수 없고 순종의 대상도 이 절에 선명하지 않다.",
+      "contextNote": "공동체에서 여성의 배움과 가르침에 대한 권면이다.",
+      "connections": [],
+      "textSha256": "385819ff122e0d8e0e461b50ddc08d6eba5e94437945a961680788a9ed65b544"
+    },
+    {
+      "id": "KRV:1TI:2:12",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "여성이 가르치거나 남자를 주관하는 것을 허용하지 않는다는 구체 권면이다. 현재 사용자의 성별과 상대 관계를 알 수 없는 일반 역할 선택에 맞추기 어렵다.",
+      "contextNote": "앞 절의 여성의 배움에 이어 가르침과 권위에 대한 바울의 말을 기록한다.",
+      "connections": [],
+      "textSha256": "5917660e98b7a9abab558e477c740db21fb50a9e7015e7c202d196153a3160e3"
+    },
+    {
+      "id": "KRV:1TI:2:13",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "아담과 하와가 창조된 순서를 설명한다. 구체 선택에 대한 실마리는 드러나지 않는다.",
+      "contextNote": "앞 절의 가르침을 설명하는 근거로 창조 이야기를 언급한다.",
+      "connections": [],
+      "textSha256": "46a82f267444970f8ca687eca92a655790d1a0de1767272230a127caecd5e362"
+    },
+    {
+      "id": "KRV:1TI:2:14",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "아담과 여자의 꾀임과 죄에 관한 서술이다. 상대방의 잘못이나 현재 사용자의 상황을 이 이야기의 사실과 같다고 가정할 수 없다.",
+      "contextNote": "앞 절의 창조 순서에 이어 창세기 이야기를 언급한다.",
+      "connections": [],
+      "textSha256": "740322d91497abc6e3633f5674248d48de5e411660b609f419684a231298f303"
+    },
+    {
+      "id": "KRV:1TI:2:15",
+      "status": "hold",
+      "readability": "needs_explanation",
+      "reason": "여성의 믿음 사랑과 해산을 구원에 연결하는 해석이 까다로운 문장이다. 현재 사용자의 가족 계획이나 신앙 조건을 임의로 만들어 연결하기 어렵다.",
+      "contextNote": "앞의 여성과 아담에 관한 설명에 이어지는 구절이다.",
+      "connections": [],
+      "textSha256": "4f761edb5801a7bd28982d0d6ce2f75338b45a5e0ff3ba20fca2346b0ab5902a"
+    },
+    {
+      "id": "KRV:1TI:3:1",
+      "status": "candidate",
+      "readability": "thinkable",
+      "reason": "처음 동아리 운영에 도전하고 싶지만 잘할 수 있을지 망설이는 사람이 감독의 직분을 얻고자 하는 것을 선한 일을 바라는 것으로 보는 말에서 지원할 용기를 읽을 수 있다.",
+      "contextNote": "교회의 감독 직분을 사모하는 것에 관해 말한 뒤 다음 절에서 조건을 열거한다.",
+      "connections": [
+        {
+          "scenarioId": "G15",
+          "clue": "책임 있는 역할을 해보고 싶어 하는 마음 자체를 긍정하며 지원한다.",
+          "friction": "본문은 교회 감독직이고 동아리 지원의 선발이나 능력을 보장하지 않는다.",
+          "expectedEnough": "yes"
+        }
+      ],
+      "textSha256": "5fe6c62c1ba12739f64e51de9fa46203a4a32350c4889f6493005f0ab2b6d85b"
+    },
+    {
+      "id": "KRV:1TI:3:2",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "감독에게 요구되는 여러 조건을 열거하며 한 아내의 남편이라는 조건도 포함한다. 운영 지원을 고민하는 사람의 배우자나 가르치는 능력을 본문에서 알 수 없다.",
+      "contextNote": "교회 감독의 자격을 다음 절까지 설명한다.",
+      "connections": [],
+      "textSha256": "4458e95d61de10147126eb8038f621d79bdd494c9904abf608711bced216e313"
+    },
+    {
+      "id": "KRV:1TI:3:3",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "술과 폭력과 다툼을 피하고 관용을 갖추는 감독의 요건이다. 술을 더 마실지의 고민에 한 표현이 닿지만 감독의 여러 조건을 모두 현재 사용자에게 부과할 근거가 없다.",
+      "contextNote": "앞 절의 교회 감독 자격 목록이 이어진다.",
+      "connections": [],
+      "textSha256": "51c97f020266311af0e20f43cf4e2b58c62c53fb08bb8a40c659330601359112"
+    },
+    {
+      "id": "KRV:1TI:3:4",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "자기 집을 다스리고 자녀가 순종하도록 한다는 감독 자격이다. 현재 사용자가 부모이거나 자녀의 태도를 통제할 수 있다고 가정할 수 없다.",
+      "contextNote": "교회 감독의 가정에 관한 자격이다.",
+      "connections": [],
+      "textSha256": "480cec5a817f5912cf2b675525c35c0fe768667cc49658b276ef77a47c20c0ee"
+    },
+    {
+      "id": "KRV:1TI:3:5",
+      "status": "hold",
+      "readability": "thinkable",
+      "reason": "자기 집을 다스리지 못하면 교회를 어떻게 돌보겠느냐고 묻는다. 부모가 아닌 사람의 역할 지원 고민을 이 절의 가족 조건으로 판정할 수 없다.",
+      "contextNote": "앞 절에서 감독이 자기 집을 잘 다스려야 한다고 한 이유를 덧붙인다.",
+      "connections": [],
+      "textSha256": "c15f79105825368b8894ab7f6d387d5b6c57dabd407ae8ae9855b64579228534"
+    }
+  ]
+}
